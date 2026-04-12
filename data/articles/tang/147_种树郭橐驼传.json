@@ -1,0 +1,2445 @@
+{
+  "id": "147_种树郭橐驼传",
+  "title": "种树郭橐驼传",
+  "author": {
+    "id": "tang_柳宗元",
+    "name": "柳宗元",
+    "dynasty": "tang",
+    "bio": "柳宗元（773年－819年），字子厚，祖籍河东（今山西运城），世称‘柳河东’。唐代杰出文学家、哲学家，唐宋八大家之一。贞元九年（793年）进士及第，后参与永贞革新，失败后被贬为永州司马，元和十年（815年）改任柳州刺史，卒于任所。其文学成就以散文著称，与韩愈并称‘韩柳’，倡导古文运动，作品多揭露社会矛盾、抒发贬谪之愤，代表作有《永州八记》、《捕蛇者说》、《封建论》等。哲学上主张‘天人不相预’，具有朴素唯物主义思想。柳宗元的散文风格犀利峻切，寓言讽刺深刻，对后世文学影响深远。"
+  },
+  "source": "",
+  "dynasty": "tang",
+  "volume": 9,
+  "background": "《种树郭橐驼传》是唐代文学家柳宗元在永贞革新失败后被贬期间创作的一篇寓言散文。永贞革新发生于唐顺宗永贞元年（805年），是一场由王叔文、柳宗元等人领导的政治改革，旨在抑制宦官专权、减轻赋税、整顿吏治，但仅持续数月便因保守势力反扑而失败，柳宗元等改革派被贬为远州司马。在被贬永州、柳州的十年间，柳宗元亲历民间疾苦，目睹地方官吏政令烦苛、扰民害民的现实，深感社会矛盾的尖锐。文章借种树人郭橐驼‘顺木之天，以致其性’的种树经验，类比为官理政应顺应民情、简政安民，批判了当时统治者过度干预、好烦其令的弊端。这既反映了柳宗元对道家无为而治思想的借鉴，也体现了他作为改革者对社会现实的深刻反思和讽喻意图，是其被贬后文学创作中关注民生、针砭时弊的代表作之一。",
+  "appreciation": "《种树郭橐驼传》是一篇结构精巧、寓意深远的寓言体散文，展现了柳宗元高超的文学造诣和批判精神。文章以叙事开篇，生动刻画了郭橐驼‘隆然伏行’的外貌和豁达性格，通过‘名我固当’等对话，赋予人物真实感和亲和力。主体部分采用问答形式，从种树之道自然过渡到为官之理，逻辑严密，层层递进。柳宗元巧妙运用对比手法：郭橐驼种树‘顺木之天’，强调‘其莳也若子，其置也若弃’，而其他植者则‘根拳土易’、‘爱之太殷’，导致‘木之性日以离’，这种对比不仅突出了顺应自然的主题，还暗喻了官吏扰民与简政安民的差异。语言上，文章简洁明快，如‘勿动勿虑，去不复顾’等句，富有节奏感，对话自然流畅，增强了说理的形象性。主题层面，文章借种树喻治国，批判了唐代中期政令烦苛、官吏虚伪‘爱民’实则‘害民’的社会现象，倡导‘无为而治’的道家理念，具有深刻的政治讽喻意义。结尾‘传其事以为官戒也’点明写作目的，升华了文章的教化功能。整体而言，这篇作品融合了寓言、讽刺与哲理，体现了柳宗元散文‘峻切犀利’的风格，是唐代古文运动中关注现实、文以载道的典范。",
+  "tags": [
+    "寓言文学",
+    "政治讽刺",
+    "道家思想"
+  ],
+  "paragraphs": [
+    {
+      "original": "郭橐驼，不知始何名。病偻，隆然伏行，有类橐驼者，故乡人号之“驼”。",
+      "translation": "郭橐驼，不知道他最初叫什么名字。他患有脊背弯曲的病，脊背高起，俯身走路，有点像骆驼，所以乡里人给他起外号叫“驼”。",
+      "sentences": [
+        {
+          "original": "郭橐驼，不知始何名。",
+          "translation": "郭橐驼，不知道他最初叫什么名字。",
+          "words": [
+            {
+              "word": "郭橐驼",
+              "pinyin": "guō tuó tuó",
+              "meaning": "驼背的郭姓人",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "最初",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "虚词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "病偻，隆然伏行，有类橐驼者，故乡人号之“驼”。",
+          "translation": "他患有脊背弯曲的病，脊背高起，俯身走路，有点像骆驼，所以乡里人给他起外号叫“驼”。",
+          "words": [
+            {
+              "word": "病",
+              "pinyin": "bìng",
+              "meaning": "患病",
+              "type": "实词"
+            },
+            {
+              "word": "偻",
+              "pinyin": "lóu",
+              "meaning": "驼背",
+              "type": "实词"
+            },
+            {
+              "word": "隆然",
+              "pinyin": "lóng rán",
+              "meaning": "高耸样子",
+              "type": "实词"
+            },
+            {
+              "word": "伏行",
+              "pinyin": "fú xíng",
+              "meaning": "弯腰走路",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "类",
+              "pinyin": "lèi",
+              "meaning": "类似",
+              "type": "实词"
+            },
+            {
+              "word": "橐驼",
+              "pinyin": "tuó tuó",
+              "meaning": "骆驼",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "乡人",
+              "pinyin": "xiāng rén",
+              "meaning": "同乡人",
+              "type": "实词"
+            },
+            {
+              "word": "号",
+              "pinyin": "hào",
+              "meaning": "称呼",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "驼",
+              "pinyin": "tuó",
+              "meaning": "驼背",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "驼闻之曰：“甚善，名我固当。”因舍其名，亦自谓“橐驼”云。",
+      "translation": "驼听到这个称呼后说：“很好，这个名字确实很适合我。”于是他舍弃了自己的原名，也自称“橐驼”。",
+      "sentences": [
+        {
+          "original": "驼闻之曰：“甚善，名我固当。”",
+          "translation": "驼听到后说：“很好，这个名字确实很适合我。”",
+          "words": [
+            {
+              "word": "驼",
+              "pinyin": "tuó",
+              "meaning": "郭橐驼",
+              "type": "人名"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听到",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指代前言",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "甚善",
+              "pinyin": "shèn shàn",
+              "meaning": "很好",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "命名",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "固然",
+              "type": "虚词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "恰当",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "因舍其名，亦自谓“橐驼”云。",
+          "translation": "于是他舍弃了自己的原名，也自称“橐驼”。",
+          "words": [
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "舍",
+              "pinyin": "shě",
+              "meaning": "舍弃",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "自谓",
+              "pinyin": "zì wèi",
+              "meaning": "自称",
+              "type": "实词"
+            },
+            {
+              "word": "橐驼",
+              "pinyin": "tuó tuó",
+              "meaning": "郭橐驼",
+              "type": "人名"
+            },
+            {
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "据说",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "其乡曰丰乐乡，在长安西。驼业种树，凡长安豪家富人为观游及卖果者，皆争迎取养。视驼所种树，或迁徙，无不活，且硕茂，蚤实以蕃。他植者，虽窥伺效慕，莫能如也。有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。既然已，勿动勿虑，去不复顾，其莳也若子，其置也若弃。则其天者全，而其性得矣。故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能蚤而蕃之也。他植者则不然，根拳而土易。其培之也，若不过焉则不及。苟有能反是者，则又爱之太殷，忧之太勤。旦视而暮抚，已去而复顾。甚者爪其肤以验其生枯，摇其本以观其疏密，而木之性日以离矣。虽曰爱之，其实害之；虽曰忧之，其实仇之。故不我若也，吾又何能为哉！”",
+      "translation": "他的家乡叫丰乐乡，在长安的西边。郭橐驼以种树为职业，凡是长安的豪门富人为了观赏游玩以及卖水果的，都争着迎接和雇佣他。看郭橐驼所种的树，或者移植的，没有不成活的，而且长得高大茂盛，果实结得早而且多。其他种植的人，虽然暗中观察模仿，但没有人能比得上他。有人问他，他回答说：“我郭橐驼并不是能使树木活得长久而且繁殖得多，只是能顺应树木的天性，来实现它的本性罢了。大凡种植树木的本性，它的根要舒展，培土要均匀，土要用原来的，捣土要密实。这样做了之后，不要动不要担心，离开不再回头看，种植时像对待孩子一样，放置后像丢弃一样。那么它的天性就保全了，它的本性就得到了。所以我只是不妨碍它的生长罢了，并不是有能力使它高大茂盛；只是不抑制损耗它的果实罢了，并不是有能力使它早结果多结果。其他种植的人就不是这样，根拳曲而且土换掉。他们培土的时候，不是过多就是不够。如果有能反过来这样做的人，却又爱得太深，忧得太多。早晨去看晚上来摸，已经离开又回头看看。更严重的用指甲抓树皮来检验它是死是活，摇动树根来看土是松是紧，这样树木的本性就一天天丧失了。虽然说是爱它，其实是害它；虽然说是忧它，其实是仇视它。所以他们不如我，我又能做什么呢！”",
+      "sentences": [
+        {
+          "original": "其乡曰丰乐乡，在长安西。",
+          "translation": "他的家乡叫丰乐乡，在长安的西边。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "乡",
+              "pinyin": "xiāng",
+              "meaning": "乡村",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "叫做",
+              "type": "实词"
+            },
+            {
+              "word": "丰乐乡",
+              "pinyin": "fēng lè xiāng",
+              "meaning": "丰乐乡",
+              "type": "地名"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "位于",
+              "type": "实词"
+            },
+            {
+              "word": "长安",
+              "pinyin": "cháng ān",
+              "meaning": "长安城",
+              "type": "地名"
+            },
+            {
+              "word": "西",
+              "pinyin": "xī",
+              "meaning": "西边",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "驼业种树，凡长安豪家富人为观游及卖果者，皆争迎取养。",
+          "translation": "郭橐驼以种树为职业，凡是长安的豪门富人为了观赏游玩以及卖水果的，都争着迎接和雇佣他。",
+          "words": [
+            {
+              "word": "驼",
+              "pinyin": "tuó",
+              "meaning": "郭橐驼",
+              "type": "人名"
+            },
+            {
+              "word": "业",
+              "pinyin": "yè",
+              "meaning": "以...为业",
+              "type": "实词"
+            },
+            {
+              "word": "种树",
+              "pinyin": "zhòng shù",
+              "meaning": "种植树木",
+              "type": "实词"
+            },
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "长安",
+              "pinyin": "cháng ān",
+              "meaning": "长安城",
+              "type": "地名"
+            },
+            {
+              "word": "豪家",
+              "pinyin": "háo jiā",
+              "meaning": "富豪之家",
+              "type": "实词"
+            },
+            {
+              "word": "富人",
+              "pinyin": "fù rén",
+              "meaning": "富有的人",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "从事",
+              "type": "实词"
+            },
+            {
+              "word": "观游",
+              "pinyin": "guān yóu",
+              "meaning": "观赏游览",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "卖果",
+              "pinyin": "mài guǒ",
+              "meaning": "卖水果",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "争",
+              "pinyin": "zhēng",
+              "meaning": "争着",
+              "type": "实词"
+            },
+            {
+              "word": "迎取养",
+              "pinyin": "yíng qǔ yǎng",
+              "meaning": "迎接供养",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "视驼所种树，或迁徙，无不活，且硕茂，蚤实以蕃。",
+          "translation": "看郭橐驼所种的树，或者移植的，没有不成活的，而且长得高大茂盛，果实结得早而且多。",
+          "words": [
+            {
+              "word": "视",
+              "pinyin": "shì",
+              "meaning": "看",
+              "type": "实词"
+            },
+            {
+              "word": "驼",
+              "pinyin": "tuó",
+              "meaning": "郭橐驼",
+              "type": "人名"
+            },
+            {
+              "word": "所种树",
+              "pinyin": "suǒ zhòng shù",
+              "meaning": "种植的树",
+              "type": "实词"
+            },
+            {
+              "word": "或",
+              "pinyin": "huò",
+              "meaning": "有时",
+              "type": "虚词"
+            },
+            {
+              "word": "迁徙",
+              "pinyin": "qiān xǐ",
+              "meaning": "迁移",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "不活",
+              "pinyin": "bù huó",
+              "meaning": "不存活",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "硕茂",
+              "pinyin": "shuò mào",
+              "meaning": "高大茂盛",
+              "type": "实词"
+            },
+            {
+              "word": "蚤",
+              "pinyin": "zǎo",
+              "meaning": "早",
+              "type": "实词"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "结果实",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "而",
+              "type": "虚词"
+            },
+            {
+              "word": "蕃",
+              "pinyin": "fán",
+              "meaning": "多",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "他植者，虽窥伺效慕，莫能如也。",
+          "translation": "其他种植的人，虽然暗中观察模仿，但没有人能比得上他。",
+          "words": [
+            {
+              "word": "他",
+              "pinyin": "tā",
+              "meaning": "其他",
+              "type": "实词"
+            },
+            {
+              "word": "植",
+              "pinyin": "zhí",
+              "meaning": "种植",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "窥伺",
+              "pinyin": "kuī sì",
+              "meaning": "窥探",
+              "type": "实词"
+            },
+            {
+              "word": "效慕",
+              "pinyin": "xiào mù",
+              "meaning": "效仿",
+              "type": "实词"
+            },
+            {
+              "word": "莫",
+              "pinyin": "mò",
+              "meaning": "没有谁",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "比得上",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。",
+          "translation": "有人问他，他回答说：“我郭橐驼并不是能使树木活得长久而且繁殖得多，只是能顺应树木的天性，来实现它的本性罢了。",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有人",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "实词"
+            },
+            {
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "橐驼",
+              "pinyin": "tuó tuó",
+              "meaning": "郭橐驼",
+              "type": "人名"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "让",
+              "type": "实词"
+            },
+            {
+              "word": "木",
+              "pinyin": "mù",
+              "meaning": "树木",
+              "type": "实词"
+            },
+            {
+              "word": "寿",
+              "pinyin": "shòu",
+              "meaning": "长寿",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "孳",
+              "pinyin": "zī",
+              "meaning": "繁殖",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "顺",
+              "pinyin": "shùn",
+              "meaning": "顺应",
+              "type": "实词"
+            },
+            {
+              "word": "木",
+              "pinyin": "mù",
+              "meaning": "树木",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "天",
+              "pinyin": "tiān",
+              "meaning": "天性",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "致",
+              "pinyin": "zhì",
+              "meaning": "达到",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "性",
+              "pinyin": "xìng",
+              "meaning": "本性",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。",
+          "translation": "大凡种植树木的本性，它的根要舒展，培土要均匀，土要用原来的，捣土要密实。",
+          "words": [
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "植",
+              "pinyin": "zhí",
+              "meaning": "种植",
+              "type": "实词"
+            },
+            {
+              "word": "木",
+              "pinyin": "mù",
+              "meaning": "树木",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "性",
+              "pinyin": "xìng",
+              "meaning": "本性",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "本",
+              "pinyin": "běn",
+              "meaning": "根",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "要",
+              "type": "实词"
+            },
+            {
+              "word": "舒",
+              "pinyin": "shū",
+              "meaning": "舒展",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "培",
+              "pinyin": "péi",
+              "meaning": "培土",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "要",
+              "type": "实词"
+            },
+            {
+              "word": "平",
+              "pinyin": "píng",
+              "meaning": "均匀",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "土",
+              "pinyin": "tǔ",
+              "meaning": "土壤",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "要",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "旧",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "筑",
+              "pinyin": "zhù",
+              "meaning": "捣土",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "要",
+              "type": "实词"
+            },
+            {
+              "word": "密",
+              "pinyin": "mì",
+              "meaning": "密实",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "既然已，勿动勿虑，去不复顾，其莳也若子，其置也若弃。",
+          "translation": "这样做了之后，不要动不要担心，离开不再回头看，种植时像对待孩子一样，放置后像丢弃一样。",
+          "words": [
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "这样",
+              "type": "虚词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "停止",
+              "type": "实词"
+            },
+            {
+              "word": "勿",
+              "pinyin": "wù",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "动",
+              "pinyin": "dòng",
+              "meaning": "动",
+              "type": "实词"
+            },
+            {
+              "word": "勿",
+              "pinyin": "wù",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "虑",
+              "pinyin": "lǜ",
+              "meaning": "忧虑",
+              "type": "实词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "离开",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "再",
+              "type": "虚词"
+            },
+            {
+              "word": "顾",
+              "pinyin": "gù",
+              "meaning": "回头看",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "莳",
+              "pinyin": "shì",
+              "meaning": "种植",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "孩子",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "置",
+              "pinyin": "zhì",
+              "meaning": "放置",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "弃",
+              "pinyin": "qì",
+              "meaning": "丢弃",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "则其天者全，而其性得矣。",
+          "translation": "那么它的天性就保全了，它的本性就得到了。",
+          "words": [
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "天",
+              "pinyin": "tiān",
+              "meaning": "天性",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "全",
+              "pinyin": "quán",
+              "meaning": "保全",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "性",
+              "pinyin": "xìng",
+              "meaning": "本性",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "得到",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能蚤而蕃之也。",
+          "translation": "所以我只是不妨碍它的生长罢了，并不是有能力使它高大茂盛；只是不抑制损耗它的果实罢了，并不是有能力使它早结果多结果。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "害",
+              "pinyin": "hài",
+              "meaning": "妨害",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "生长",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "罢了",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "虚词"
+            },
+            {
+              "word": "硕茂",
+              "pinyin": "shuò mào",
+              "meaning": "使硕茂",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "抑",
+              "pinyin": "yì",
+              "meaning": "抑制",
+              "type": "实词"
+            },
+            {
+              "word": "耗",
+              "pinyin": "hào",
+              "meaning": "损耗",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "果实",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "罢了",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "虚词"
+            },
+            {
+              "word": "蚤",
+              "pinyin": "zǎo",
+              "meaning": "早",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "蕃",
+              "pinyin": "fán",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "他植者则不然，根拳而土易。",
+          "translation": "其他种植的人就不是这样，根拳曲而且土换掉。",
+          "words": [
+            {
+              "word": "他植者",
+              "pinyin": "tā zhí zhě",
+              "meaning": "其他种植者",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "不是这样",
+              "type": "实词"
+            },
+            {
+              "word": "根拳",
+              "pinyin": "gēn quán",
+              "meaning": "根部拳曲",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "土易",
+              "pinyin": "tǔ yì",
+              "meaning": "土壤更换",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其培之也，若不过焉则不及。",
+          "translation": "他们培土的时候，不是过多就是不够。",
+          "words": [
+            {
+              "word": "其培之也",
+              "pinyin": "qí péi zhī yě",
+              "meaning": "他们培土时",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "不过焉",
+              "pinyin": "bù guò yān",
+              "meaning": "不过分",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "不及",
+              "pinyin": "bù jí",
+              "meaning": "不够",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "苟有能反是者，则又爱之太殷，忧之太勤。",
+          "translation": "如果有能反过来这样做的人，却又爱得太深，忧得太多。",
+          "words": [
+            {
+              "word": "苟",
+              "pinyin": "gǒu",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "有能反是者",
+              "pinyin": "yǒu néng fǎn shì zhě",
+              "meaning": "有能相反这样做的人",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "爱之太殷",
+              "pinyin": "ài zhī tài yīn",
+              "meaning": "爱它太深",
+              "type": "实词"
+            },
+            {
+              "word": "忧之太勤",
+              "pinyin": "yōu zhī tài qín",
+              "meaning": "担忧它太勤",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "旦视而暮抚，已去而复顾。",
+          "translation": "早晨去看晚上来摸，已经离开又回头看看。",
+          "words": [
+            {
+              "word": "旦",
+              "pinyin": "dàn",
+              "meaning": "早晨",
+              "type": "实词"
+            },
+            {
+              "word": "视",
+              "pinyin": "shì",
+              "meaning": "看",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "暮",
+              "pinyin": "mù",
+              "meaning": "傍晚",
+              "type": "实词"
+            },
+            {
+              "word": "抚",
+              "pinyin": "fǔ",
+              "meaning": "抚摸",
+              "type": "实词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "离开",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "顾",
+              "pinyin": "gù",
+              "meaning": "回头看",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "甚者爪其肤以验其生枯，摇其本以观其疏密，而木之性日以离矣。",
+          "translation": "更严重的用指甲抓树皮来检验它是死是活，摇动树根来看土是松是紧，这样树木的本性就一天天丧失了。",
+          "words": [
+            {
+              "word": "甚者",
+              "pinyin": "shèn zhě",
+              "meaning": "更严重的",
+              "type": "实词"
+            },
+            {
+              "word": "爪",
+              "pinyin": "zhǎo",
+              "meaning": "用爪抓",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "肤",
+              "pinyin": "fū",
+              "meaning": "皮",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "验",
+              "pinyin": "yàn",
+              "meaning": "检验",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "生枯",
+              "pinyin": "shēng kū",
+              "meaning": "生死",
+              "type": "实词"
+            },
+            {
+              "word": "摇",
+              "pinyin": "yáo",
+              "meaning": "摇动",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "本",
+              "pinyin": "běn",
+              "meaning": "根",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观察",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "疏密",
+              "pinyin": "shū mì",
+              "meaning": "疏密",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "木之性",
+              "pinyin": "mù zhī xìng",
+              "meaning": "树木本性",
+              "type": "实词"
+            },
+            {
+              "word": "日以",
+              "pinyin": "rì yǐ",
+              "meaning": "逐渐地",
+              "type": "虚词"
+            },
+            {
+              "word": "离",
+              "pinyin": "lí",
+              "meaning": "背离",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "虽曰爱之，其实害之；虽曰忧之，其实仇之。",
+          "translation": "虽然说是爱它，其实是害它；虽然说是忧它，其实是仇视它。",
+          "words": [
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "爱",
+              "pinyin": "ài",
+              "meaning": "爱护",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "其实",
+              "pinyin": "qí shí",
+              "meaning": "实际上",
+              "type": "虚词"
+            },
+            {
+              "word": "害",
+              "pinyin": "hài",
+              "meaning": "伤害",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "忧",
+              "pinyin": "yōu",
+              "meaning": "担忧",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "其实",
+              "pinyin": "qí shí",
+              "meaning": "实际上",
+              "type": "虚词"
+            },
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故不我若也，吾又何能为哉！”",
+          "translation": "所以他们不如我，我又能做什么呢！”",
+          "words": []
+        }
+      ]
+    },
+    {
+      "original": "问者曰：“以子之道，移之官理可乎？”驼曰：“我知种树而已，官理非吾业也。然吾居乡，见长人者，好烦其令，若甚怜焉，而卒以祸。旦暮吏来而呼曰：‘官命促尔耕，勖尔植，督尔获，蚤缫而绪，蚤织而缕，字而幼孩，遂而鸡豚’。",
+      "translation": "提问者说：“把您的种树之道，移到为官治理上，可以吗？”郭橐驼说：“我只知道种树而已，为官治理不是我的职业。然而我住在乡里，看到那些长官，喜欢频繁发布命令，好像很怜爱百姓，但最终却带来祸害。早晚官吏来呼喊说：‘官府命令催促你们耕种，勉励你们种植，督促你们收获，早些缫丝纺线，早些织布，养育你们的小孩，喂养你们的鸡和猪。’”",
+      "sentences": [
+        {
+          "original": "问者曰：“以子之道，移之官理可乎？”",
+          "translation": "提问者说：“把您的种树之道，移到为官治理上，可以吗？”",
+          "words": [
+            {
+              "word": "问者",
+              "pinyin": "wèn zhě",
+              "meaning": "询问的人",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "方法",
+              "type": "实词"
+            },
+            {
+              "word": "移",
+              "pinyin": "yí",
+              "meaning": "转移",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "实词"
+            },
+            {
+              "word": "官理",
+              "pinyin": "guān lǐ",
+              "meaning": "为官治理",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "驼曰：“我知种树而已，官理非吾业也。”",
+          "translation": "郭橐驼说：“我只知道种树而已，为官治理不是我的职业。”",
+          "words": [
+            {
+              "word": "驼",
+              "pinyin": "tuó",
+              "meaning": "郭橐驼",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "种树",
+              "pinyin": "zhòng shù",
+              "meaning": "种植树木",
+              "type": "实词"
+            },
+            {
+              "word": "而已",
+              "pinyin": "ér yǐ",
+              "meaning": "罢了",
+              "type": "虚词"
+            },
+            {
+              "word": "官理",
+              "pinyin": "guān lǐ",
+              "meaning": "为官治理",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我的",
+              "type": "实词"
+            },
+            {
+              "word": "业",
+              "pinyin": "yè",
+              "meaning": "职业",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "然吾居乡，见长人者，好烦其令，若甚怜焉，而卒以祸。",
+          "translation": "然而我住在乡里，看到那些长官，喜欢频繁发布命令，好像很怜爱百姓，但最终却带来祸害。",
+          "words": [
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "居乡",
+              "pinyin": "jū xiāng",
+              "meaning": "居住在乡间",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "长人者",
+              "pinyin": "zhǎng rén zhě",
+              "meaning": "长官",
+              "type": "实词"
+            },
+            {
+              "word": "好",
+              "pinyin": "hào",
+              "meaning": "喜欢",
+              "type": "实词"
+            },
+            {
+              "word": "烦",
+              "pinyin": "fán",
+              "meaning": "烦扰",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "实词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "好像",
+              "type": "虚词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很",
+              "type": "虚词"
+            },
+            {
+              "word": "怜",
+              "pinyin": "lián",
+              "meaning": "怜爱",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "最终",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "带来",
+              "type": "虚词"
+            },
+            {
+              "word": "祸",
+              "pinyin": "huò",
+              "meaning": "灾祸",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "旦暮吏来而呼曰：‘官命促尔耕，勖尔植，督尔获，蚤缫而绪，蚤织而缕，字而幼孩，遂而鸡豚’。",
+          "translation": "早晚官吏来呼喊说：‘官府命令催促你们耕种，勉励你们种植，督促你们收获，早些缫丝纺线，早些织布，养育你们的小孩，喂养你们的鸡和猪。’",
+          "words": [
+            {
+              "word": "旦暮",
+              "pinyin": "dàn mù",
+              "meaning": "早晚",
+              "type": "实词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "实词"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "来到",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "呼",
+              "pinyin": "hū",
+              "meaning": "呼喊",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "官命",
+              "pinyin": "guān mìng",
+              "meaning": "官府命令",
+              "type": "实词"
+            },
+            {
+              "word": "促",
+              "pinyin": "cù",
+              "meaning": "催促",
+              "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "你们",
+              "type": "虚词"
+            },
+            {
+              "word": "耕",
+              "pinyin": "gēng",
+              "meaning": "耕种",
+              "type": "实词"
+            },
+            {
+              "word": "勖",
+              "pinyin": "xù",
+              "meaning": "鼓励",
+              "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "你们",
+              "type": "虚词"
+            },
+            {
+              "word": "植",
+              "pinyin": "zhí",
+              "meaning": "种植",
+              "type": "实词"
+            },
+            {
+              "word": "督",
+              "pinyin": "dū",
+              "meaning": "督促",
+              "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "你们",
+              "type": "虚词"
+            },
+            {
+              "word": "获",
+              "pinyin": "huò",
+              "meaning": "收获",
+              "type": "实词"
+            },
+            {
+              "word": "蚤",
+              "pinyin": "zǎo",
+              "meaning": "早点",
+              "type": "实词"
+            },
+            {
+              "word": "缫",
+              "pinyin": "sāo",
+              "meaning": "缫丝",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "绪",
+              "pinyin": "xù",
+              "meaning": "头绪",
+              "type": "实词"
+            },
+            {
+              "word": "蚤",
+              "pinyin": "zǎo",
+              "meaning": "早点",
+              "type": "实词"
+            },
+            {
+              "word": "织",
+              "pinyin": "zhī",
+              "meaning": "织布",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "缕",
+              "pinyin": "lǚ",
+              "meaning": "线",
+              "type": "实词"
+            },
+            {
+              "word": "字",
+              "pinyin": "zì",
+              "meaning": "养育",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "你们",
+              "type": "虚词"
+            },
+            {
+              "word": "幼孩",
+              "pinyin": "yòu hái",
+              "meaning": "幼儿",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "喂养",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "你们",
+              "type": "虚词"
+            },
+            {
+              "word": "鸡豚",
+              "pinyin": "jī tún",
+              "meaning": "鸡猪",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "鸣鼓而聚之，击木而召之。吾小人辍飧饔以劳吏者，且不得暇，又何以蕃吾生安吾性邪？故病且怠若是。则与吾业者，其亦有类乎？”",
+      "translation": "敲鼓来聚集他们，敲木梆来召集他们。我们这些小民停止早晚饭来慰劳官吏，尚且没有空闲，又怎么能使我们的生活繁荣、安于我们的本性呢？所以像这样困苦并且懈怠。那么与我的职业（种树），大概也有类似之处吧？",
+      "sentences": [
+        {
+          "original": "鸣鼓而聚之，击木而召之。",
+          "translation": "敲鼓来聚集他们，敲木梆来召集他们。",
+          "words": [
+            {
+              "word": "鸣鼓",
+              "pinyin": "míng gǔ",
+              "meaning": "敲鼓",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "聚之",
+              "pinyin": "jù zhī",
+              "meaning": "聚集他们",
+              "type": "实词"
+            },
+            {
+              "word": "击木",
+              "pinyin": "jī mù",
+              "meaning": "敲木",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "召之",
+              "pinyin": "zhào zhī",
+              "meaning": "召唤他们",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "吾小人辍飧饔以劳吏者，且不得暇，又何以蕃吾生安吾性邪？",
+          "translation": "我们这些小民停止早晚饭来慰劳官吏，尚且没有空闲，又怎么能使我们的生活繁荣、安于我们的本性呢？",
+          "words": [
+            {
+              "word": "吾小人",
+              "pinyin": "wú xiǎo rén",
+              "meaning": "我们小民",
+              "type": "实词"
+            },
+            {
+              "word": "辍",
+              "pinyin": "chuò",
+              "meaning": "停止",
+              "type": "实词"
+            },
+            {
+              "word": "飧饔",
+              "pinyin": "sūn yōng",
+              "meaning": "早晚饭",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "劳",
+              "pinyin": "láo",
+              "meaning": "慰劳",
+              "type": "实词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "尚且",
+              "type": "虚词"
+            },
+            {
+              "word": "不得暇",
+              "pinyin": "bù dé xiá",
+              "meaning": "没有空闲",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "蕃",
+              "pinyin": "fán",
+              "meaning": "繁衍",
+              "type": "实词"
+            },
+            {
+              "word": "吾生",
+              "pinyin": "wú shēng",
+              "meaning": "我们的生计",
+              "type": "实词"
+            },
+            {
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "安顿",
+              "type": "实词"
+            },
+            {
+              "word": "吾性",
+              "pinyin": "wú xìng",
+              "meaning": "我们的性情",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故病且怠若是。",
+          "translation": "所以像这样困苦并且懈怠。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "病",
+              "pinyin": "bìng",
+              "meaning": "困苦",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "怠",
+              "pinyin": "dài",
+              "meaning": "疲惫",
+              "type": "实词"
+            },
+            {
+              "word": "若是",
+              "pinyin": "ruò shì",
+              "meaning": "像这样",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "则与吾业者，其亦有类乎？",
+          "translation": "那么与我的职业（种树），大概也有类似之处吧？",
+          "words": [
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "吾业者",
+              "pinyin": "wú yè zhě",
+              "meaning": "我的职业的人",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "有类",
+              "pinyin": "yǒu lèi",
+              "meaning": "有类似",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "问者嘻曰：“不亦善夫！吾问养树，得养人术。”传其事以为官戒也！",
+      "translation": "提问的人笑着说：“这不是很好吗！我询问种树的方法，却得到了治理人民的方法。”记下这件事作为官员的警戒。",
+      "sentences": [
+        {
+          "original": "问者嘻曰：“不亦善夫！”",
+          "translation": "提问的人笑着说：“这不是很好吗！”",
+          "words": [
+            {
+              "word": "问者",
+              "pinyin": "wèn zhě",
+              "meaning": "提问的人",
+              "type": "实词"
+            },
+            {
+              "word": "嘻",
+              "pinyin": "xī",
+              "meaning": "叹息声",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "不亦",
+              "pinyin": "bù yì",
+              "meaning": "不也是",
+              "type": "虚词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "好",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "感叹语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "“吾问养树，得养人术。”",
+          "translation": "“我询问种树的方法，却得到了治理人民的方法。”",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "养树",
+              "pinyin": "yǎng shù",
+              "meaning": "种植树木",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "得到",
+              "type": "实词"
+            },
+            {
+              "word": "养人术",
+              "pinyin": "yǎng rén shù",
+              "meaning": "治民方法",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "传其事以为官戒也！",
+          "translation": "记下这件事作为官员的警戒。",
+          "words": [
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传播",
+              "type": "实词"
+            },
+            {
+              "word": "其事",
+              "pinyin": "qí shì",
+              "meaning": "这件事",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "官戒",
+              "pinyin": "guān jiè",
+              "meaning": "官员警戒",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "肯定语气",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

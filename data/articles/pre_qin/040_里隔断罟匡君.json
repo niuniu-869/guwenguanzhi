@@ -1,0 +1,844 @@
+{
+  "id": "040_里隔断罟匡君",
+  "title": "里隔断罟匡君",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋时期鲁国史官，生卒年不详，约活动于公元前5世纪。相传为《左传》和《国语》的编撰者，这两部书是中国古代重要的史学和文学著作，以严谨的史笔和生动的叙事著称。左丘明对中国古代史学发展有奠基性贡献，其作品记录了春秋时期的历史事件和思想，对后世儒家学说和文学创作产生了深远影响。"
+  },
+  "source": "国语",
+  "dynasty": "pre_qin",
+  "volume": 3,
+  "background": "这篇文章出自《国语》，记录了春秋时期鲁宣公在夏天于泗水滥捕鱼类的事件。当时，古代中国注重生态平衡和君主德行，有严格的生态法规，如根据季节调整渔猎活动，以顺应自然节气。里革作为臣子，通过切断宣公的渔网并引用古训，劝诫君主不要贪得无厌，体现了“天人合一”的思想和臣子对君主的规劝。写作背景反映了先秦时期史书通过具体事例传达道德教化的传统，旨在警示统治者节制欲望、遵循古训，以维护社会和谐与自然秩序。文章可能创作于春秋末期，用于记录历史事件并弘扬儒家伦理观念。",
+  "appreciation": "本文以简洁的叙事和生动的对话形式，展现了里革的智慧和宣公的纳谏精神。里革的劝谏引用古代生态法规，从“大寒降”到“蕃庶物”，层层递进，逻辑严密，运用对比和排比修辞，如“古者...今鱼方别孕”，增强了说服力，体现了先秦散文的说理艺术。文章思想深刻，强调顺应自然、节制欲望的生态伦理，同时通过宣公的回应“吾过而里革匡我，不亦善乎”，展示了理想的君臣互动，即君主能虚心接受批评并改正错误。结尾师存的话“藏罟不如置里革于侧之不忘也”，升华主题，指出铭记劝谏比保存实物更重要，富有哲理意味。整体上，文章语言质朴而有力，结构紧凑，是《国语》中寓教于事的典范之作，对后世文学和政治思想有深远影响。",
+  "tags": [
+    "生态伦理",
+    "君臣劝谏",
+    "国语文学"
+  ],
+  "paragraphs": [
+    {
+      "original": "宣公夏滥于泗渊，里革断其罟而弃之，曰：“古者大寒降，土蛰发，水虞于是乎讲罛罶，取名鱼，登川禽，而尝之寝庙，行诸国人，助宣气也。鸟兽孕，水虫成，兽虞于是乎禁罝罗，矠鱼鳖以为夏槁，助生阜也。鸟兽成，水虫孕，水虞于是乎禁罝{罒鹿}，设阱鄂，以实庙庖，畜功用也。且夫山不槎蘖，泽不伐夭，鱼禁鲲鲕，兽长麑{鹿夭}，鸟翼鷇卵，虫舍蚳蝝，蕃庶物也，古之训也。",
+      "translation": "宣公夏天在泗水深处滥捕鱼，里革割断他的网并扔掉，说：‘古代大寒过后，冬眠的动物开始活动，水虞于是安排渔具，捕捉大鱼，捞取水产，用来在宗庙祭祀，并让国人施行，以助长阳气。鸟兽怀孕，水虫长成，兽虞于是禁止张网捕兽，刺取鱼鳖制成夏天的干肉，以帮助生长。鸟兽长成，水虫怀孕，水虞于是禁止用网捕鱼，设置陷阱，以充实庙厨，积蓄物资。而且山不砍伐新枝，沼泽不割幼草，鱼禁止捕小鱼，兽保护幼兽，鸟庇护幼鸟和卵，虫不取蚁卵和幼虫，以繁衍万物，这是古代的训导。’",
+      "sentences": [
+        {
+          "original": "宣公夏滥于泗渊，里革断其罟而弃之，曰：",
+          "translation": "宣公夏天在泗水深处滥捕鱼，里革割断他的网并扔掉，说：",
+          "words": [
+            {
+              "word": "宣公",
+              "pinyin": "Xuān Gōng",
+              "meaning": "鲁宣公",
+              "type": "人名"
+            },
+            {
+              "word": "夏",
+              "pinyin": "xià",
+              "meaning": "夏天",
+              "type": "实词"
+            },
+            {
+              "word": "滥",
+              "pinyin": "làn",
+              "meaning": "沉浸",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "泗渊",
+              "pinyin": "sì yuān",
+              "meaning": "泗水深渊",
+              "type": "地名"
+            },
+            {
+              "word": "里革",
+              "pinyin": "Lǐ Gé",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "断",
+              "pinyin": "duàn",
+              "meaning": "切断",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "罟",
+              "pinyin": "gǔ",
+              "meaning": "渔网",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "弃",
+              "pinyin": "qì",
+              "meaning": "丢弃",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "古者大寒降，土蛰发，水虞于是乎讲罛罶，取名鱼，登川禽，而尝之寝庙，行诸国人，助宣气也。",
+          "translation": "古代大寒过后，冬眠的动物开始活动，水虞于是安排渔具，捕捉大鱼，捞取水产，用来在宗庙祭祀，并让国人施行，以助长阳气。",
+          "words": [
+            {
+              "word": "古者",
+              "pinyin": "gǔ zhě",
+              "meaning": "古代",
+              "type": "实词"
+            },
+            {
+              "word": "大寒",
+              "pinyin": "dà hán",
+              "meaning": "大寒节气",
+              "type": "实词"
+            },
+            {
+              "word": "降",
+              "pinyin": "jiàng",
+              "meaning": "降临",
+              "type": "实词"
+            },
+            {
+              "word": "土蛰",
+              "pinyin": "tǔ zhé",
+              "meaning": "土中蛰虫",
+              "type": "实词"
+            },
+            {
+              "word": "发",
+              "pinyin": "fā",
+              "meaning": "出动",
+              "type": "实词"
+            },
+            {
+              "word": "水虞",
+              "pinyin": "shuǐ yú",
+              "meaning": "水官",
+              "type": "官职"
+            },
+            {
+              "word": "于是乎",
+              "pinyin": "yú shì hū",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "讲",
+              "pinyin": "jiǎng",
+              "meaning": "讲习",
+              "type": "实词"
+            },
+            {
+              "word": "罛罶",
+              "pinyin": "gū liǔ",
+              "meaning": "渔具",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "捕取",
+              "type": "实词"
+            },
+            {
+              "word": "名鱼",
+              "pinyin": "míng yú",
+              "meaning": "大鱼",
+              "type": "实词"
+            },
+            {
+              "word": "登",
+              "pinyin": "dēng",
+              "meaning": "进献",
+              "type": "实词"
+            },
+            {
+              "word": "川禽",
+              "pinyin": "chuān qín",
+              "meaning": "水中动物",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "祭祀",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它们",
+              "type": "虚词"
+            },
+            {
+              "word": "寝庙",
+              "pinyin": "qǐn miào",
+              "meaning": "宗庙",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "施行",
+              "type": "实词"
+            },
+            {
+              "word": "诸",
+              "pinyin": "zhū",
+              "meaning": "之于",
+              "type": "虚词"
+            },
+            {
+              "word": "国人",
+              "pinyin": "guó rén",
+              "meaning": "国人",
+              "type": "实词"
+            },
+            {
+              "word": "助",
+              "pinyin": "zhù",
+              "meaning": "助长",
+              "type": "实词"
+            },
+            {
+              "word": "宣气",
+              "pinyin": "xuān qì",
+              "meaning": "宣泄阳气",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "鸟兽孕，水虫成，兽虞于是乎禁罝罗，矠鱼鳖以为夏槁，助生阜也。",
+          "translation": "鸟兽怀孕，水虫长成，兽虞于是禁止张网捕兽，刺取鱼鳖制成夏天的干肉，以帮助生长。",
+          "words": [
+            {
+              "word": "鸟兽",
+              "pinyin": "niǎo shòu",
+              "meaning": "鸟兽",
+              "type": "实词"
+            },
+            {
+              "word": "孕",
+              "pinyin": "yùn",
+              "meaning": "怀孕",
+              "type": "实词"
+            },
+            {
+              "word": "水虫",
+              "pinyin": "shuǐ chóng",
+              "meaning": "水生动物",
+              "type": "实词"
+            },
+            {
+              "word": "成",
+              "pinyin": "chéng",
+              "meaning": "成长",
+              "type": "实词"
+            },
+            {
+              "word": "兽虞",
+              "pinyin": "shòu yú",
+              "meaning": "兽官",
+              "type": "官职"
+            },
+            {
+              "word": "于是乎",
+              "pinyin": "yú shì hū",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "禁",
+              "pinyin": "jìn",
+              "meaning": "禁止",
+              "type": "实词"
+            },
+            {
+              "word": "罝罗",
+              "pinyin": "jū luó",
+              "meaning": "捕兽网",
+              "type": "实词"
+            },
+            {
+              "word": "矠",
+              "pinyin": "zé",
+              "meaning": "刺取",
+              "type": "实词"
+            },
+            {
+              "word": "鱼鳖",
+              "pinyin": "yú biē",
+              "meaning": "鱼鳖",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "用来作为",
+              "type": "虚词"
+            },
+            {
+              "word": "夏槁",
+              "pinyin": "xià gǎo",
+              "meaning": "夏天干肉",
+              "type": "实词"
+            },
+            {
+              "word": "助",
+              "pinyin": "zhù",
+              "meaning": "助长",
+              "type": "实词"
+            },
+            {
+              "word": "生阜",
+              "pinyin": "shēng fù",
+              "meaning": "生长繁殖",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "鸟兽成，水虫孕，水虞于是乎禁罝麓，设阱鄂，以实庙庖，畜功用也。",
+          "translation": "鸟兽长成，水虫怀孕，水虞于是禁止用网捕鱼，设置陷阱，以充实庙厨，积蓄物资。",
+          "words": [
+            {
+              "word": "鸟兽成",
+              "pinyin": "niǎo shòu chéng",
+              "meaning": "鸟兽成长",
+              "type": "实词"
+            },
+            {
+              "word": "水虫孕",
+              "pinyin": "shuǐ chóng yùn",
+              "meaning": "水虫怀孕",
+              "type": "实词"
+            },
+            {
+              "word": "水虞",
+              "pinyin": "shuǐ yú",
+              "meaning": "水官",
+              "type": "官职"
+            },
+            {
+              "word": "于是乎",
+              "pinyin": "yú shì hū",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "禁罝麓",
+              "pinyin": "jìn jū lù",
+              "meaning": "禁止网具",
+              "type": "实词"
+            },
+            {
+              "word": "设阱鄂",
+              "pinyin": "shè jǐng è",
+              "meaning": "设置陷阱",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "实庙庖",
+              "pinyin": "shí miào páo",
+              "meaning": "充实庙庖",
+              "type": "实词"
+            },
+            {
+              "word": "畜功用",
+              "pinyin": "chù gōng yòng",
+              "meaning": "积蓄功用",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "且夫山不槎蘖，泽不伐夭，鱼禁鲲鲕，兽长麑麋，鸟翼鷇卵，虫舍蚳蝝，蕃庶物也，古之训也。",
+          "translation": "而且山不砍伐新枝，沼泽不割幼草，鱼禁止捕小鱼，兽保护幼兽，鸟庇护幼鸟和卵，虫不取蚁卵和幼虫，以繁衍万物，这是古代的训导。",
+          "words": [
+            {
+              "word": "且夫",
+              "pinyin": "qiě fú",
+              "meaning": "况且",
+              "type": "虚词"
+            },
+            {
+              "word": "山不槎蘖",
+              "pinyin": "shān bù chá niè",
+              "meaning": "山不砍幼芽",
+              "type": "实词"
+            },
+            {
+              "word": "泽不伐夭",
+              "pinyin": "zé bù fá yāo",
+              "meaning": "泽不伐幼草",
+              "type": "实词"
+            },
+            {
+              "word": "鱼禁鲲鲕",
+              "pinyin": "yú jìn kūn ér",
+              "meaning": "鱼禁捕鱼苗",
+              "type": "实词"
+            },
+            {
+              "word": "兽长麑麋",
+              "pinyin": "shòu zhǎng ní mí",
+              "meaning": "兽保护幼崽",
+              "type": "实词"
+            },
+            {
+              "word": "鸟翼鷇卵",
+              "pinyin": "niǎo yì kòu luǎn",
+              "meaning": "鸟护雏卵",
+              "type": "实词"
+            },
+            {
+              "word": "虫舍蚳蝝",
+              "pinyin": "chóng shě chí yuán",
+              "meaning": "虫舍蚁卵",
+              "type": "实词"
+            },
+            {
+              "word": "蕃庶物",
+              "pinyin": "fán shù wù",
+              "meaning": "繁殖万物",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "古之训",
+              "pinyin": "gǔ zhī xùn",
+              "meaning": "古代训诫",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "今鱼方别孕，不教鱼长，又行网罟，贪无艺也。”",
+      "translation": "现在鱼类正在产卵，却不让它们生长，又使用网具捕鱼，真是贪婪无度啊。",
+      "sentences": [
+        {
+          "original": "今鱼方别孕",
+          "translation": "现在鱼类正在产卵",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "鱼",
+              "pinyin": "yú",
+              "meaning": "鱼",
+              "type": "实词"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "正在",
+              "type": "虚词"
+            },
+            {
+              "word": "别孕",
+              "pinyin": "bié yùn",
+              "meaning": "怀孕产卵",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "不教鱼长",
+          "translation": "却不让它们生长",
+          "words": [
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "教",
+              "pinyin": "jiào",
+              "meaning": "让、使",
+              "type": "实词"
+            },
+            {
+              "word": "鱼",
+              "pinyin": "yú",
+              "meaning": "鱼",
+              "type": "实词"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "生长",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "又行网罟",
+          "translation": "又使用网具捕鱼",
+          "words": [
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "使用",
+              "type": "实词"
+            },
+            {
+              "word": "网罟",
+              "pinyin": "wǎng gǔ",
+              "meaning": "渔网",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "贪无艺也",
+          "translation": "真是贪婪无度啊",
+          "words": [
+            {
+              "word": "贪",
+              "pinyin": "tān",
+              "meaning": "贪婪",
+              "type": "实词"
+            },
+            {
+              "word": "无艺",
+              "pinyin": "wú yì",
+              "meaning": "没有限度",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "公闻之曰：“吾过而里革匡我，不亦善乎！是良罟也，为我得法。使有司藏之，使吾无忘谂。”师存侍，曰：“藏罟不如置里革于侧之不忘也。”",
+      "translation": "宣公听到这件事后说：“我错了，里革纠正我，这不是很好吗！这是一张好渔网，它让我懂得了法则。让有关官员收藏它，使我不忘记劝谏。”师存在旁侍奉，说：“收藏渔网不如把里革放在身边，那样更不会忘记。”",
+      "sentences": [
+        {
+          "original": "公闻之曰：“吾过而里革匡我，不亦善乎！是良罟也，为我得法。使有司藏之，使吾无忘谂。”",
+          "translation": "宣公听到这件事后说：“我错了，里革纠正我，这不是很好吗！这是一张好渔网，它让我懂得了法则。让有关官员收藏它，使我不忘记劝谏。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指代事件",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "过错",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "里革",
+              "pinyin": "lǐ gé",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "匡",
+              "pinyin": "kuāng",
+              "meaning": "纠正",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "不亦善乎",
+              "pinyin": "bù yì shàn hū",
+              "meaning": "不也是很好吗",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "良罟",
+              "pinyin": "liáng gǔ",
+              "meaning": "好的渔网",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "为我",
+              "pinyin": "wèi wǒ",
+              "meaning": "为我",
+              "type": "实词"
+            },
+            {
+              "word": "得法",
+              "pinyin": "dé fǎ",
+              "meaning": "得到法则",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "让",
+              "type": "实词"
+            },
+            {
+              "word": "有司",
+              "pinyin": "yǒu sī",
+              "meaning": "官吏",
+              "type": "官职"
+            },
+            {
+              "word": "藏",
+              "pinyin": "cáng",
+              "meaning": "收藏",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指渔网",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "让",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "忘",
+              "pinyin": "wàng",
+              "meaning": "忘记",
+              "type": "实词"
+            },
+            {
+              "word": "谂",
+              "pinyin": "shěn",
+              "meaning": "劝谏",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "师存侍，曰：“藏罟不如置里革于侧之不忘也。”",
+          "translation": "师存在旁侍奉，说：“收藏渔网不如把里革放在身边，那样更不会忘记。”",
+          "words": [
+            {
+              "word": "师存",
+              "pinyin": "shī cún",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "侍",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "藏罟",
+              "pinyin": "cáng gǔ",
+              "meaning": "收藏渔网",
+              "type": "实词"
+            },
+            {
+              "word": "不如",
+              "pinyin": "bù rú",
+              "meaning": "不如",
+              "type": "虚词"
+            },
+            {
+              "word": "置",
+              "pinyin": "zhì",
+              "meaning": "放置",
+              "type": "实词"
+            },
+            {
+              "word": "里革",
+              "pinyin": "lǐ gé",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "侧",
+              "pinyin": "cè",
+              "meaning": "旁边",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "不忘",
+              "pinyin": "bù wàng",
+              "meaning": "不忘记",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

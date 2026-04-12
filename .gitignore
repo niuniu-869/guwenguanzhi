@@ -1,0 +1,43 @@
+# Dependencies
+frontend/node_modules/
+frontend/.astro/
+
+# Build
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temp
+*.log
+/tmp/
+
+# Vite
+frontend/node_modules/.vite/
+
+# Screenshots & Playwright
+*.png
+.playwright-mcp/
+
+# Pipeline logs
+/tmp/
+*.log
+
+# Raw data (too large, keep only articles)
+data/raw/guwenguanzhi_raw.txt
+
+# Intermediate files
+data/articles/**/*_meta.json
+data/articles/**/*_trans.json
+data/articles/**/*_words.json
+data/quality_report.json

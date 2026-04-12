@@ -1,0 +1,982 @@
+{
+  "id": "027_晏子不死君难",
+  "title": "晏子不死君难",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "作者简介：左丘明，春秋时期鲁国史官，相传为《左传》的作者。字丘明（一说复姓左丘，名明），生卒年不详，约活动于公元前5世纪。他双目失明，故称“盲左”。左丘明著《左传》，全称《春秋左氏传》，是中国古代第一部叙事详细的编年体史书，与《公羊传》、《谷梁传》合称“春秋三传”。《左传》不仅记载历史，还富含文学价值，对后世史学和文学影响深远。左丘明被尊为“百家文字之宗，万世古文之祖”。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 2,
+  "background": "这篇文章出自《左传》，记载了春秋时期齐国的一段历史。崔武子（崔杼）娶了棠姜，齐庄公与棠姜私通，崔杼因此弑杀了齐庄公。晏子作为齐国大夫，在崔氏门外表现出对君主的忠诚，但并非愚忠。他强调君主应为社稷而死，臣子才应随之赴死；如果君主为私欲而死，臣子不必效忠。这反映了春秋时期礼崩乐坏、君臣关系复杂的社会背景。春秋时期，周王室衰微，诸侯争霸，齐国内部政治斗争激烈。崔杼是齐国权臣，因齐庄公与其妻棠姜私通而弑君。这一事件暴露了当时君主失德、权臣专权的现象。晏子作为齐国重臣，面对君主被弑，没有盲目殉死或逃亡，而是基于社稷大义做出理性选择。文章背景凸显了春秋时代礼制崩坏、政治动荡的特点，以及士大夫在乱世中如何坚守原则。",
+  "appreciation": "文学赏析：这篇文章以简洁生动的对话，展现了晏子的智慧和原则。首先，语言精炼，通过晏子与从者的问答，层层递进地阐述了君臣关系的本质。晏子提出“君为社稷死，则死之；为社稷亡，则亡之”，强调君主应以社稷为重，臣子忠诚的对象是国家而非个人。这体现了儒家“民为贵，社稷次之，君为轻”的思想萌芽。其次，文章结构紧凑，从崔杼弑君到晏子反应，叙事清晰，人物形象鲜明。晏子“枕尸股而哭，兴，三踊而出”的行为，既表达了哀悼，又保持了尊严，显示了他的政治智慧。最后，崔杼不杀晏子，称其为“民之望也”，反映了晏子在民众中的威望，以及文章对德政的推崇。整体上，这篇文章是历史散文的典范，兼具文学性和思想性。在文学手法上，文章运用对话体，通过晏子与从者的三次问答，生动刻画了晏子的内心世界和政治立场。这种手法不仅推动情节发展，还深化了主题。晏子的言论逻辑严密，先以反问“独吾君也乎哉”表明君主非私有，再以“社稷是主”强调国家利益高于个人忠诚。这反映了先秦散文的说理艺术。此外，文章结尾崔杼的决策，侧面烘托了晏子的德行，增强了故事的戏剧性。从思想内涵看，晏子的观点挑战了传统的愚忠观念，提倡理性忠诚，对后世儒家和法家思想都有影响。这篇文章不仅是历史记录，更是哲学思考的载体，展现了左丘明作为史学家的深刻洞察力。",
+  "tags": [
+    "君臣关系",
+    "儒家思想",
+    "历史散文"
+  ],
+  "paragraphs": [
+    {
+      "original": "崔武子见棠姜而美之，遂取之。庄公通焉。崔子弑之。",
+      "translation": "崔武子见到棠姜，认为她美丽，于是娶了她。庄公与棠姜私通。崔子杀了庄公。",
+      "sentences": [
+        {
+          "original": "崔武子见棠姜而美之，遂取之。",
+          "translation": "崔武子见到棠姜，认为她美丽，于是娶了她。",
+          "words": [
+            {
+              "word": "崔武子",
+              "pinyin": "cuī wǔ zǐ",
+              "meaning": "齐国大夫崔杼",
+              "type": "人名"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "棠姜",
+              "pinyin": "táng jiāng",
+              "meaning": "棠公之妻姜氏",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词表承接",
+              "type": "虚词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "认为美",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词她",
+              "type": "虚词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "娶",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词她",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "庄公通焉。",
+          "translation": "庄公与棠姜私通。",
+          "words": [
+            {
+              "word": "庄公",
+              "pinyin": "zhuāng gōng",
+              "meaning": "齐庄公",
+              "type": "人名"
+            },
+            {
+              "word": "通",
+              "pinyin": "tōng",
+              "meaning": "私通",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "代词指棠姜",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "崔子弑之。",
+          "translation": "崔子杀了庄公。",
+          "words": [
+            {
+              "word": "崔子",
+              "pinyin": "cuī zǐ",
+              "meaning": "崔武子",
+              "type": "人名"
+            },
+            {
+              "word": "弑",
+              "pinyin": "shì",
+              "meaning": "臣杀君",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词他",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "晏子立于崔氏之门外，其人曰：“死乎？”曰：“独吾君也乎哉，吾死也？”",
+      "translation": "晏子站在崔家的门外，他的随从问：‘要死吗？’晏子回答：‘难道只是我的君主吗？我为什么要死？’",
+      "sentences": [
+        {
+          "original": "晏子立于崔氏之门外",
+          "translation": "晏子站在崔家的门外",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "Yàn Zǐ",
+              "meaning": "齐国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "站立",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "崔氏",
+              "pinyin": "Cuī Shì",
+              "meaning": "崔杼家族",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "门外",
+              "pinyin": "mén wài",
+              "meaning": "门的外面",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其人曰：“死乎？”",
+          "translation": "他的随从说：“要死吗？”",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“独吾君也乎哉，吾死也？”",
+          "translation": "晏子说：“难道只是我的君主吗？我为什么要死？”",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我的",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "曰：“行乎？”曰：“吾罪也乎哉，吾亡也？”曰：“归乎？”曰：“君死安归？",
+      "translation": "随从问道：'逃走吗？'晏子反问：'我难道有罪吗？需要逃亡吗？'随从又问：'回去吗？'晏子说：'国君已死，我能回到哪里去呢？'",
+      "sentences": [
+        {
+          "original": "曰：“行乎？”",
+          "translation": "随从说：'逃走吗？'",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "走",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "疑问语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“吾罪也乎哉，吾亡也？”",
+          "translation": "晏子说：'我难道有罪吗？我要逃亡吗？'",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "罪",
+              "pinyin": "zuì",
+              "meaning": "罪过",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "疑问语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "感叹语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "逃亡",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“归乎？”",
+          "translation": "随从说：'回去吗？'",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "回去",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "疑问语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“君死安归？”",
+          "translation": "晏子说：'国君死了，我回到哪里去？'",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "哪里",
+              "type": "虚词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "归去",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "君民者，岂以陵民？社稷是主；臣君者，岂为其口实，社稷是养。故君为社稷死，则死之；为社稷亡，则亡之；若为己死，而为己亡，非其私昵，谁敢任之？且人有君而弑之，吾焉得死之？而焉得亡之？将庸何归？”",
+      "translation": "统治人民的人，难道是为了欺压人民吗？而是以社稷为主；侍奉君主的人，难道是为了自己的俸禄吗？而是为了供养社稷。所以，如果君主为社稷而死，那么臣子就为他而死；如果君主为社稷逃亡，那么臣子就为他逃亡。如果君主是为自己而死，或为自己逃亡，除非是他的私亲昵友，谁敢承担这个责任呢？况且，别人有君主却杀了他，我怎么能为他而死？又怎么能为他逃亡？我将回到哪里去呢？",
+      "sentences": [
+        {
+          "original": "君民者，岂以陵民？社稷是主；",
+          "translation": "统治人民的人，难道是为了欺压人民吗？而是以社稷为主。",
+          "words": [
+            {
+              "word": "君民者",
+              "pinyin": "jūn mín zhě",
+              "meaning": "统治人民的人",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "陵民",
+              "pinyin": "líng mín",
+              "meaning": "欺凌人民",
+              "type": "实词"
+            },
+            {
+              "word": "社稷",
+              "pinyin": "shè jì",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "主",
+              "pinyin": "zhǔ",
+              "meaning": "主持",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣君者，岂为其口实，社稷是养。",
+          "translation": "侍奉君主的人，难道是为了自己的俸禄吗？而是为了供养社稷。",
+          "words": [
+            {
+              "word": "臣君者",
+              "pinyin": "chén jūn zhě",
+              "meaning": "侍奉君主的人",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "口实",
+              "pinyin": "kǒu shí",
+              "meaning": "俸禄",
+              "type": "实词"
+            },
+            {
+              "word": "社稷",
+              "pinyin": "shè jì",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "养",
+              "pinyin": "yǎng",
+              "meaning": "供养",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "故君为社稷死，则死之；为社稷亡，则亡之；",
+          "translation": "所以，如果君主为社稷而死，那么臣子就为他而死；如果君主为社稷逃亡，那么臣子就为他逃亡。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "社稷",
+              "pinyin": "shè jì",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "死之",
+              "pinyin": "sǐ zhī",
+              "meaning": "为他而死",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "社稷",
+              "pinyin": "shè jì",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "逃亡",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "亡之",
+              "pinyin": "wáng zhī",
+              "meaning": "为他而逃亡",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "若为己死，而为己亡，非其私昵，谁敢任之？",
+          "translation": "如果君主是为自己而死，或为自己逃亡，除非是他的私亲昵友，谁敢承担这个责任呢？",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "己",
+              "pinyin": "jǐ",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "己",
+              "pinyin": "jǐ",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "逃亡",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "私昵",
+              "pinyin": "sī nì",
+              "meaning": "亲近的人",
+              "type": "实词"
+            },
+            {
+              "word": "谁",
+              "pinyin": "shéi",
+              "meaning": "谁",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢",
+              "type": "虚词"
+            },
+            {
+              "word": "任",
+              "pinyin": "rèn",
+              "meaning": "承担",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "且人有君而弑之，吾焉得死之？而焉得亡之？将庸何归？",
+          "translation": "况且，别人有君主却杀了他，我怎么能为他而死？又怎么能为他逃亡？我将回到哪里去呢？",
+          "words": [
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "别人",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "弑",
+              "pinyin": "shì",
+              "meaning": "弑杀",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "怎么",
+              "type": "虚词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "为...死",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "怎么",
+              "type": "虚词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能",
+              "type": "虚词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "为...逃亡",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "庸何",
+              "pinyin": "yōng hé",
+              "meaning": "什么",
+              "type": "虚词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "归宿",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "门启而入，枕尸股而哭，兴，三踊而出。人谓崔子：“必杀之。”崔子曰：“民之望也，舍之得民。”",
+      "translation": "门打开后，晏子进去，枕着尸体的大腿哭泣，然后起身，跳跃三次后出去。有人对崔子说：‘一定要杀了他。’崔子说：‘他是民众所仰望的人，放过他可以得民心。’",
+      "sentences": [
+        {
+          "original": "门启而入，枕尸股而哭，兴，三踊而出。",
+          "translation": "门打开后，晏子进去，枕着尸体的大腿哭泣，然后起身，跳跃三次后出去。",
+          "words": [
+            {
+              "word": "门启",
+              "pinyin": "mén qǐ",
+              "meaning": "门打开",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "枕尸股",
+              "pinyin": "zhěn shī gǔ",
+              "meaning": "枕着尸体大腿",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "哭",
+              "pinyin": "kū",
+              "meaning": "哭泣",
+              "type": "实词"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "起来",
+              "type": "实词"
+            },
+            {
+              "word": "三踊",
+              "pinyin": "sān yǒng",
+              "meaning": "三次跳跃",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出去",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "人谓崔子：‘必杀之。’",
+          "translation": "有人对崔子说：‘一定要杀了他。’",
+          "words": [
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人们",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "对...说",
+              "type": "实词"
+            },
+            {
+              "word": "崔子",
+              "pinyin": "cuī zǐ",
+              "meaning": "崔杼",
+              "type": "人名"
+            },
+            {
+              "word": "必杀之",
+              "pinyin": "bì shā zhī",
+              "meaning": "必须杀他",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "崔子曰：‘民之望也，舍之得民。’",
+          "translation": "崔子说：‘他是民众所仰望的人，放过他可以得民心。’",
+          "words": [
+            {
+              "word": "崔子",
+              "pinyin": "cuī zǐ",
+              "meaning": "崔杼",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "民之望",
+              "pinyin": "mín zhī wàng",
+              "meaning": "百姓所仰望",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表示判断",
+              "type": "虚词"
+            },
+            {
+              "word": "舍之得民",
+              "pinyin": "shě zhī dé mín",
+              "meaning": "放了他得民心",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

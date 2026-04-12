@@ -1,0 +1,844 @@
+{
+  "id": "075_项羽本纪赞",
+  "title": "项羽本纪赞",
+  "author": {
+    "id": "han_司马迁",
+    "name": "司马迁",
+    "dynasty": "han",
+    "bio": "司马迁，字子长，西汉夏阳（今陕西韩城）人，生于约公元前145年，卒于约公元前86年。他是中国伟大的史学家、文学家，曾任太史令，因替李陵辩护而遭受宫刑，后发愤著书，完成《史记》。《史记》开创纪传体通史先河，记载从黄帝到汉武帝的历史，对后世史学和文学影响深远，被誉为“史家之绝唱，无韵之离骚”。"
+  },
+  "source": "史记",
+  "dynasty": "han",
+  "volume": 5,
+  "background": "司马迁撰写《史记》时，正值西汉武帝时期，国家统一强盛，文化繁荣。他继承父亲司马谈的遗志，担任太史令，致力于编纂一部贯通古今的通史，以“究天人之际，通古今之变，成一家之言”。《项羽本纪》是《史记》中的重要篇章，项羽作为秦末起义领袖，虽未称帝，但司马迁将其列入本纪，体现其历史地位和影响力。赞语部分，司马迁在详细记述项羽生平后，加以总结评论，表达对项羽兴衰的深刻感慨。写作背景涉及秦朝暴政导致的农民起义、诸侯割据和楚汉争霸的历史环境，司马迁通过项羽的故事，反思历史成败，寄托个人对命运和人事的思考，展现其史家情怀和人文关怀。",
+  "appreciation": "《项羽本纪赞》是司马迁对项羽一生的精炼评价，文学价值极高。文章开篇以“太史公曰”引出，引用周生之言，将项羽与舜相比，重瞳之说既增添神秘色彩，又引发对天命与人事关系的思考，奠定全文基调。接着，司马迁客观叙述项羽的崛起：秦失其政，陈涉首难，豪杰蜂起，项羽“非有尺寸，乘势起陇亩之中”，三年灭秦，分封天下，号为霸王，展现其非凡的军事才能和时势造英雄的历史规律。语言简洁有力，多用短句和对比，如“何兴之暴也”、“近古以来，未尝有也”，节奏明快，富有感染力。结构上先扬后抑，先述项羽功业之盛，后批其过失：背关怀楚、放逐义帝、自矜功伐、不师古法，最终败亡。思想上，司马迁既肯定项羽的功业，又指出其性格缺陷，体现“不虚美，不隐恶”的史家精神。结尾以“岂不谬哉”收束，强化批判意味，令人深思项羽的悲剧根源在于自负和失道，而非天命。全文融叙事、议论、抒情于一体，展现司马迁卓越的文学才华和历史洞察力。",
+  "tags": [
+    "项羽",
+    "司马迁",
+    "史记"
+  ],
+  "paragraphs": [
+    {
+      "original": "太史公曰：吾闻之周生曰，“舜目盖重瞳子”，又闻项羽亦重瞳子。羽岂其苗裔邪？何兴之暴也！夫秦失其政，陈涉首难，豪杰蜂起，相与并争，不可胜数。",
+      "translation": "太史公说：我听周生说，“舜的眼睛大概有重瞳”，又听说项羽也有重瞳。项羽难道是他的后代吗？他的兴起多么突然啊！秦朝失去其政道，陈涉首先发难，豪杰们蜂拥而起，互相兼并争夺，数不胜数。",
+      "sentences": [
+        {
+          "original": "太史公曰：吾闻之周生曰，“舜目盖重瞳子”，又闻项羽亦重瞳子。",
+          "translation": "太史公说：我听周生说，“舜的眼睛大概有重瞳”，又听说项羽也有重瞳。",
+          "words": [
+            {
+              "word": "太史公",
+              "pinyin": "tài shǐ gōng",
+              "meaning": "史官",
+              "type": "官职"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            },
+            {
+              "word": "周生",
+              "pinyin": "zhōu shēng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "舜",
+              "pinyin": "shùn",
+              "meaning": "古帝名",
+              "type": "人名"
+            },
+            {
+              "word": "目",
+              "pinyin": "mù",
+              "meaning": "眼睛",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "重瞳子",
+              "pinyin": "chóng tóng zǐ",
+              "meaning": "双瞳孔",
+              "type": "典故"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "再次",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "项羽",
+              "pinyin": "xiàng yǔ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "重瞳子",
+              "pinyin": "chóng tóng zǐ",
+              "meaning": "双瞳孔",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "羽岂其苗裔邪？",
+          "translation": "项羽难道是他的后代吗？",
+          "words": [
+            {
+              "word": "羽",
+              "pinyin": "yǔ",
+              "meaning": "项羽",
+              "type": "人名"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "苗裔",
+              "pinyin": "miáo yì",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "何兴之暴也！",
+          "translation": "他的兴起多么突然啊！",
+          "words": [
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "多么",
+              "type": "虚词"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "兴起",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "暴",
+              "pinyin": "bào",
+              "meaning": "突然",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "夫秦失其政，陈涉首难，豪杰蜂起，相与并争，不可胜数。",
+          "translation": "秦朝失去其政道，陈涉首先发难，豪杰们蜂拥而起，互相兼并争夺，数不胜数。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦朝",
+              "type": "人名"
+            },
+            {
+              "word": "失",
+              "pinyin": "shī",
+              "meaning": "丧失",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政事",
+              "type": "实词"
+            },
+            {
+              "word": "陈涉",
+              "pinyin": "chén shè",
+              "meaning": "陈胜",
+              "type": "人名"
+            },
+            {
+              "word": "首难",
+              "pinyin": "shǒu nàn",
+              "meaning": "首先发难",
+              "type": "实词"
+            },
+            {
+              "word": "豪杰",
+              "pinyin": "háo jié",
+              "meaning": "英雄豪杰",
+              "type": "实词"
+            },
+            {
+              "word": "蜂起",
+              "pinyin": "fēng qǐ",
+              "meaning": "像蜂群起事",
+              "type": "实词"
+            },
+            {
+              "word": "相与",
+              "pinyin": "xiāng yǔ",
+              "meaning": "互相",
+              "type": "虚词"
+            },
+            {
+              "word": "并争",
+              "pinyin": "bìng zhēng",
+              "meaning": "一起争夺",
+              "type": "实词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "胜数",
+              "pinyin": "shèng shǔ",
+              "meaning": "数得尽",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "然羽非有尺寸，乘势起陇亩之中，三年，遂将五诸侯灭秦，分裂天下，而封王侯，政由羽出，号为“霸王”。位虽不终，近古以来，未尝有也。及羽背关怀楚，放逐义帝而自立，怨王侯叛己，难矣。自矜功伐，奋其私智而不师古，谓霸王之业，欲以力征经营天下，五年，卒亡其国，身死东城，尚不觉寤，而不自责，过矣。",
+      "translation": "然而项羽没有一尺一寸的土地，趁着时势从田野中兴起，三年后，就率领五路诸侯灭亡了秦朝，分割天下，分封王侯，政令由项羽发出，号称“霸王”。地位虽然没有保持到最后，但近古以来，从未有过这样的人。等到项羽背弃关中，怀念楚地，放逐义帝而自立为王，怨恨王侯背叛自己，这处境就艰难了。他自夸功劳，施展个人智慧而不效法古人，认为霸王的事业，要用武力征伐来经营天下，五年后，终于亡国，身死在东城，还不觉悟，而不自我责备，真是错了啊。",
+      "sentences": [
+        {
+          "original": "然羽非有尺寸，乘势起陇亩之中，三年，遂将五诸侯灭秦，分裂天下，而封王侯，政由羽出，号为“霸王”。",
+          "translation": "然而项羽没有一尺一寸的土地，趁着时势从田野中兴起，三年后，就率领五路诸侯灭亡了秦朝，分割天下，分封王侯，政令由项羽发出，号称“霸王”。",
+          "words": [
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "转折连词",
+              "type": "虚词"
+            },
+            {
+              "word": "羽",
+              "pinyin": "yǔ",
+              "meaning": "项羽",
+              "type": "人名"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "尺寸",
+              "pinyin": "chǐ cùn",
+              "meaning": "微小土地",
+              "type": "实词"
+            },
+            {
+              "word": "乘势",
+              "pinyin": "chéng shì",
+              "meaning": "趁着形势",
+              "type": "实词"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "起事",
+              "type": "实词"
+            },
+            {
+              "word": "陇亩之中",
+              "pinyin": "lǒng mǔ zhī zhōng",
+              "meaning": "田野之中",
+              "type": "实词"
+            },
+            {
+              "word": "三年",
+              "pinyin": "sān nián",
+              "meaning": "三年时间",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "率领",
+              "type": "实词"
+            },
+            {
+              "word": "五诸侯",
+              "pinyin": "wǔ zhū hóu",
+              "meaning": "五路诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "灭秦",
+              "pinyin": "miè qín",
+              "meaning": "灭亡秦朝",
+              "type": "实词"
+            },
+            {
+              "word": "分裂天下",
+              "pinyin": "fēn liè tiān xià",
+              "meaning": "分割天下",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "承接连词",
+              "type": "虚词"
+            },
+            {
+              "word": "封",
+              "pinyin": "fēng",
+              "meaning": "分封",
+              "type": "实词"
+            },
+            {
+              "word": "王侯",
+              "pinyin": "wáng hóu",
+              "meaning": "王和侯",
+              "type": "实词"
+            },
+            {
+              "word": "政由羽出",
+              "pinyin": "zhèng yóu yǔ chū",
+              "meaning": "政令由项羽发出",
+              "type": "实词"
+            },
+            {
+              "word": "号为",
+              "pinyin": "hào wéi",
+              "meaning": "称号为",
+              "type": "实词"
+            },
+            {
+              "word": "霸王",
+              "pinyin": "bà wáng",
+              "meaning": "霸王称号",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "位虽不终，近古以来，未尝有也。",
+          "translation": "地位虽然没有保持到最后，但近古以来，从未有过这样的人。",
+          "words": [
+            {
+              "word": "位",
+              "pinyin": "wèi",
+              "meaning": "地位",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "不终",
+              "pinyin": "bù zhōng",
+              "meaning": "没有善终",
+              "type": "实词"
+            },
+            {
+              "word": "近古以来",
+              "pinyin": "jìn gǔ yǐ lái",
+              "meaning": "近古以来",
+              "type": "实词"
+            },
+            {
+              "word": "未尝",
+              "pinyin": "wèi chéng",
+              "meaning": "不曾",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有过",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "及羽背关怀楚，放逐义帝而自立，怨王侯叛己，难矣。",
+          "translation": "等到项羽背弃关中，怀念楚地，放逐义帝而自立为王，怨恨王侯背叛自己，这处境就艰难了。",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "羽",
+              "pinyin": "yǔ",
+              "meaning": "项羽",
+              "type": "人名"
+            },
+            {
+              "word": "背关怀楚",
+              "pinyin": "bèi guān huái chǔ",
+              "meaning": "放弃关中怀念楚地",
+              "type": "实词"
+            },
+            {
+              "word": "放逐义帝",
+              "pinyin": "fàng zhú yì dì",
+              "meaning": "放逐义帝",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "承接连词",
+              "type": "虚词"
+            },
+            {
+              "word": "自立",
+              "pinyin": "zì lì",
+              "meaning": "自立为王",
+              "type": "实词"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "王侯",
+              "pinyin": "wáng hóu",
+              "meaning": "王和侯",
+              "type": "实词"
+            },
+            {
+              "word": "叛己",
+              "pinyin": "pàn jǐ",
+              "meaning": "背叛自己",
+              "type": "实词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "困难",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "自矜功伐，奋其私智而不师古，谓霸王之业，欲以力征经营天下，五年，卒亡其国，身死东城，尚不觉寤，而不自责，过矣。",
+          "translation": "他自夸功劳，施展个人智慧而不效法古人，认为霸王的事业，要用武力征伐来经营天下，五年后，终于亡国，身死在东城，还不觉悟，而不自我责备，真是错了啊。",
+          "words": [
+            {
+              "word": "自矜",
+              "pinyin": "zì jīn",
+              "meaning": "自我夸耀",
+              "type": "实词"
+            },
+            {
+              "word": "功伐",
+              "pinyin": "gōng fá",
+              "meaning": "功劳战绩",
+              "type": "实词"
+            },
+            {
+              "word": "奋",
+              "pinyin": "fèn",
+              "meaning": "发挥",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "私智",
+              "pinyin": "sī zhì",
+              "meaning": "个人智慧",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "师古",
+              "pinyin": "shī gǔ",
+              "meaning": "效法古代",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "称",
+              "type": "实词"
+            },
+            {
+              "word": "霸王",
+              "pinyin": "bà wáng",
+              "meaning": "霸王",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "业",
+              "pinyin": "yè",
+              "meaning": "事业",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "力征",
+              "pinyin": "lì zhēng",
+              "meaning": "武力征伐",
+              "type": "实词"
+            },
+            {
+              "word": "经营",
+              "pinyin": "jīng yíng",
+              "meaning": "治理",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "五年",
+              "pinyin": "wǔ nián",
+              "meaning": "五年时间",
+              "type": "实词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "最终",
+              "type": "虚词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "身死",
+              "pinyin": "shēn sǐ",
+              "meaning": "身死",
+              "type": "实词"
+            },
+            {
+              "word": "东城",
+              "pinyin": "dōng chéng",
+              "meaning": "东城",
+              "type": "地名"
+            },
+            {
+              "word": "尚",
+              "pinyin": "shàng",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "觉寤",
+              "pinyin": "jué wù",
+              "meaning": "觉悟",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "自责",
+              "pinyin": "zì zé",
+              "meaning": "自我责备",
+              "type": "实词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "错误",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "乃引“天亡我，非用兵之罪也”，岂不谬哉！",
+      "translation": "他竟援引‘天要亡我，并非用兵之过’的说法，这岂不是荒谬至极！",
+      "sentences": [
+        {
+          "original": "乃引‘天亡我，非用兵之罪也’",
+          "translation": "他于是援引‘天要灭亡我，并非用兵之过’的说法",
+          "words": [
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "引",
+              "pinyin": "yǐn",
+              "meaning": "引用",
+              "type": "实词"
+            },
+            {
+              "word": "天",
+              "pinyin": "tiān",
+              "meaning": "上天",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "使用",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "罪",
+              "pinyin": "zuì",
+              "meaning": "罪过",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "岂不谬哉",
+          "translation": "这难道不荒谬吗",
+          "words": [
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "谬",
+              "pinyin": "miù",
+              "meaning": "荒谬",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

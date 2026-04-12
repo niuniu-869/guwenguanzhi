@@ -1,0 +1,2206 @@
+{
+  "id": "064_庄辛论幸臣",
+  "title": "庄辛论幸臣",
+  "author": {
+    "id": "pre_qin_刘向",
+    "name": "刘向",
+    "dynasty": "pre_qin",
+    "bio": "刘向，字子政，西汉时期著名经学家、目录学家和文学家，约生于公元前77年，卒于公元前6年。他是汉高祖刘邦之弟楚元王刘交的四世孙，曾任光禄大夫、中垒校尉等职。刘向一生致力于古籍整理，校阅群书，编成中国第一部目录学著作《别录》，并编辑了《战国策》、《楚辞》、《说苑》等重要文献，对保存和传播先秦典籍有卓越贡献。他的作品以严谨的学术性和文学性著称，影响了后世文献学和文学发展。"
+  },
+  "source": "战国策",
+  "dynasty": "pre_qin",
+  "volume": 4,
+  "background": "《庄辛论幸臣》出自《战国策》，是战国时期楚国大臣庄辛劝谏楚襄王的一篇著名文章。当时，楚襄王宠信州侯、夏侯等幸臣，沉迷于游猎享乐，不理朝政，导致国势衰微。庄辛预见危机，以一系列生动的寓言故事，从蜻蛉、黄雀、黄鹄到蔡灵侯，层层递进，警示楚襄王若继续荒废国事，必将招致灾祸。文章反映了战国时期策士的劝谏艺术和政治智慧，背景是秦国威胁加剧，楚国面临存亡关头，庄辛借此强调居安思危、防微杜渐的重要性。",
+  "appreciation": "《庄辛论幸臣》是一篇文学性极强的劝谏文，其艺术特色主要体现在寓言运用、结构布局和语言表达上。首先，文章巧妙地使用了一系列类比寓言：从微小的蜻蛉、黄雀、黄鹄，到历史人物蔡灵侯，最终引申到楚襄王自身，层层递进，由物及人，由古及今，逻辑严密，增强了说服力。这种递进式结构不仅使论证环环相扣，还让读者在形象的故事中领悟深刻的政治哲理。其次，语言生动形象，如“俯啄蚊虻而食之”“鼓翅奋翼”等描写，赋予动物以人性化的自满与无知，反衬出潜在的危险，形成强烈对比。修辞上，运用排比和反复，如“自以为无患，与人无争也”的重复，强化了主题的警示意味。此外，文章寓意深远，通过寓言揭示了统治者若耽于享乐、忽视国政，必将自取灭亡的道理，体现了中国古代文学“文以载道”的传统。整体上，这篇作品不仅是劝谏的典范，也是先秦散文中寓言文学的杰作，展现了战国时期策士的智慧和文采。",
+  "tags": [
+    "寓言文学",
+    "劝谏艺术",
+    "战国策"
+  ],
+  "paragraphs": [
+    {
+      "original": "臣闻鄙语曰：“见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。”臣闻昔汤、武以百里昌，桀、纣以天下亡。今楚国虽小，绝长续短，犹以数千里，岂特百里哉？",
+      "translation": "我听说俗语说：“看到兔子才回头唤狗，还不算晚；丢失了羊才修补羊圈，还不算迟。”我听说从前商汤、周武王凭借百里之地而昌盛，夏桀、商纣王拥有天下却灭亡。如今楚国虽然小，截长补短，还有几千里，何止百里呢？",
+      "sentences": [
+        {
+          "original": "臣闻鄙语曰：“见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。”",
+          "translation": "我听说俗语说：“看到兔子才回头唤狗，还不算晚；丢失了羊才修补羊圈，还不算迟。”",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "鄙语",
+              "pinyin": "bǐ yǔ",
+              "meaning": "俗语",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "兔",
+              "pinyin": "tù",
+              "meaning": "兔子",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "顾",
+              "pinyin": "gù",
+              "meaning": "回头看",
+              "type": "实词"
+            },
+            {
+              "word": "犬",
+              "pinyin": "quǎn",
+              "meaning": "狗",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "晚",
+              "pinyin": "wǎn",
+              "meaning": "晚",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "丢失",
+              "type": "实词"
+            },
+            {
+              "word": "羊",
+              "pinyin": "yáng",
+              "meaning": "羊",
+              "type": "实词"
+            },
+            {
+              "word": "补",
+              "pinyin": "bǔ",
+              "meaning": "修补",
+              "type": "实词"
+            },
+            {
+              "word": "牢",
+              "pinyin": "láo",
+              "meaning": "牲口圈",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "迟",
+              "pinyin": "chí",
+              "meaning": "迟",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "臣闻昔汤、武以百里昌，桀、纣以天下亡。",
+          "translation": "我听说从前商汤、周武王凭借百里之地而昌盛，夏桀、商纣王拥有天下却灭亡。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "昔",
+              "pinyin": "xī",
+              "meaning": "从前",
+              "type": "实词"
+            },
+            {
+              "word": "汤",
+              "pinyin": "tāng",
+              "meaning": "商汤",
+              "type": "人名"
+            },
+            {
+              "word": "武",
+              "pinyin": "wǔ",
+              "meaning": "周武王",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "百里",
+              "pinyin": "bǎi lǐ",
+              "meaning": "百里之地",
+              "type": "实词"
+            },
+            {
+              "word": "昌",
+              "pinyin": "chāng",
+              "meaning": "兴盛",
+              "type": "实词"
+            },
+            {
+              "word": "桀",
+              "pinyin": "jié",
+              "meaning": "夏桀",
+              "type": "人名"
+            },
+            {
+              "word": "纣",
+              "pinyin": "zhòu",
+              "meaning": "商纣",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "今楚国虽小，绝长续短，犹以数千里，岂特百里哉？",
+          "translation": "如今楚国虽然小，截长补短，还有几千里，何止百里呢？",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "楚国",
+              "pinyin": "chǔ guó",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "小",
+              "pinyin": "xiǎo",
+              "meaning": "小",
+              "type": "实词"
+            },
+            {
+              "word": "绝长续短",
+              "pinyin": "jué cháng xù duǎn",
+              "meaning": "截长补短",
+              "type": "实词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "有",
+              "type": "虚词"
+            },
+            {
+              "word": "数千里",
+              "pinyin": "shù qiān lǐ",
+              "meaning": "数千里",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "特",
+              "pinyin": "tè",
+              "meaning": "只",
+              "type": "虚词"
+            },
+            {
+              "word": "百里",
+              "pinyin": "bǎi lǐ",
+              "meaning": "百里",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "王独不见夫蜻蛉乎？六足四翼，飞翔乎天地之间，俯啄蚊虻而食之，仰承甘露而饮之，自以为无患，与人无争也；不知夫五尺童子，方将调饴胶丝，加己乎四仞之上，而下为蝼蚁食也。",
+      "translation": "大王难道没有看见那蜻蜓吗？它有六只脚四只翅膀，在天地之间飞翔，低头啄食蚊虻来吃，抬头承接甘露来喝，自以为没有祸患，与人无争；却不知道那五尺高的孩童，正在调和糖浆粘在丝线上，在四仞高的地方加害于它，然后掉下来被蝼蚁吃掉。",
+      "sentences": [
+        {
+          "original": "王独不见夫蜻蛉乎？",
+          "translation": "大王难道没有看见那蜻蜓吗？",
+          "words": [
+            {
+              "word": "王",
+              "pinyin": "wáng",
+              "meaning": "君王",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "不见",
+              "pinyin": "bú jiàn",
+              "meaning": "没有看见",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "蜻蛉",
+              "pinyin": "qīng líng",
+              "meaning": "蜻蜓",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "六足四翼，飞翔乎天地之间，俯啄蚊虻而食之，仰承甘露而饮之，自以为无患，与人无争也；",
+          "translation": "它有六只脚四只翅膀，在天地之间飞翔，低头啄食蚊虻来吃，抬头承接甘露来喝，自以为没有祸患，与人无争。",
+          "words": [
+            {
+              "word": "六足四翼",
+              "pinyin": "liù zú sì yì",
+              "meaning": "六脚四翅",
+              "type": "实词"
+            },
+            {
+              "word": "飞翔",
+              "pinyin": "fēi xiáng",
+              "meaning": "飞行",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "天地",
+              "pinyin": "tiān dì",
+              "meaning": "天空大地",
+              "type": "实词"
+            },
+            {
+              "word": "之间",
+              "pinyin": "zhī jiān",
+              "meaning": "中间",
+              "type": "虚词"
+            },
+            {
+              "word": "俯啄",
+              "pinyin": "fǔ zhuó",
+              "meaning": "低头啄食",
+              "type": "实词"
+            },
+            {
+              "word": "蚊虻",
+              "pinyin": "wén méng",
+              "meaning": "蚊虫",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "食之",
+              "pinyin": "shí zhī",
+              "meaning": "吃它",
+              "type": "实词"
+            },
+            {
+              "word": "仰承",
+              "pinyin": "yǎng chéng",
+              "meaning": "仰头承接",
+              "type": "实词"
+            },
+            {
+              "word": "甘露",
+              "pinyin": "gān lù",
+              "meaning": "甜露",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "饮之",
+              "pinyin": "yǐn zhī",
+              "meaning": "喝它",
+              "type": "实词"
+            },
+            {
+              "word": "自以为",
+              "pinyin": "zì yǐ wéi",
+              "meaning": "自己认为",
+              "type": "实词"
+            },
+            {
+              "word": "无患",
+              "pinyin": "wú huàn",
+              "meaning": "无祸患",
+              "type": "实词"
+            },
+            {
+              "word": "与人",
+              "pinyin": "yǔ rén",
+              "meaning": "和别人",
+              "type": "实词"
+            },
+            {
+              "word": "无争",
+              "pinyin": "wú zhēng",
+              "meaning": "无争斗",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "不知夫五尺童子，方将调饴胶丝，加己乎四仞之上，而下为蝼蚁食也。",
+          "translation": "却不知道那五尺高的孩童，正在调和糖浆粘在丝线上，在四仞高的地方加害于它，然后掉下来被蝼蚁吃掉。",
+          "words": [
+            {
+              "word": "不知",
+              "pinyin": "bù zhī",
+              "meaning": "不知道",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "五尺童子",
+              "pinyin": "wǔ chǐ tóng zǐ",
+              "meaning": "五尺高孩童",
+              "type": "实词"
+            },
+            {
+              "word": "方将",
+              "pinyin": "fāng jiāng",
+              "meaning": "正要",
+              "type": "虚词"
+            },
+            {
+              "word": "调饴",
+              "pinyin": "tiáo yí",
+              "meaning": "调和糖浆",
+              "type": "实词"
+            },
+            {
+              "word": "胶丝",
+              "pinyin": "jiāo sī",
+              "meaning": "粘丝线",
+              "type": "实词"
+            },
+            {
+              "word": "加己",
+              "pinyin": "jiā jǐ",
+              "meaning": "加于自身",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "四仞",
+              "pinyin": "sì rèn",
+              "meaning": "四仞高",
+              "type": "实词"
+            },
+            {
+              "word": "之上",
+              "pinyin": "zhī shàng",
+              "meaning": "上面",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "落下",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "被",
+              "type": "虚词"
+            },
+            {
+              "word": "蝼蚁",
+              "pinyin": "lóu yǐ",
+              "meaning": "蝼蛄蚂蚁",
+              "type": "实词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "吃",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "夫蜻蛉其小者也，黄雀因是以。俯噣白粒，仰栖茂树，鼓翅奋翼，自以为无患，与人无争也；不知夫公子王孙左挟弹，右摄丸，将加己乎十仞之上，以其类为招。昼游乎茂树，夕调乎酸咸。倏忽之间，坠于公子之手。",
+      "translation": "蜻蛉是小的例子，黄雀也是如此。低头啄食白米，仰头栖息在茂密的树上，鼓动翅膀，自以为没有祸患，与人无争；却不知道那些公子王孙左手拿着弹弓，右手握着弹丸，将要在十仞高的地方加害自己，以它们的同类作为目标。白天在茂密的树林中游荡，晚上却被调上酸咸。转眼之间，就落入公子的手中。",
+      "sentences": [
+        {
+          "original": "夫蜻蛉其小者也，黄雀因是以。",
+          "translation": "蜻蛉是小的例子，黄雀也是如此。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "蜻蛉",
+              "pinyin": "qīng líng",
+              "meaning": "蜻蜓",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "小者",
+              "pinyin": "xiǎo zhě",
+              "meaning": "小的东西",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "黄雀",
+              "pinyin": "huáng què",
+              "meaning": "黄色鸟",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "如同",
+              "type": "实词"
+            },
+            {
+              "word": "是以",
+              "pinyin": "shì yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "俯噣白粒，仰栖茂树，鼓翅奋翼，自以为无患，与人无争也；",
+          "translation": "低头啄食白米，仰头栖息在茂密的树上，鼓动翅膀，自以为没有祸患，与人无争。",
+          "words": [
+            {
+              "word": "俯噣",
+              "pinyin": "fǔ zhuó",
+              "meaning": "低头啄食",
+              "type": "实词"
+            },
+            {
+              "word": "白粒",
+              "pinyin": "bái lì",
+              "meaning": "白色米粒",
+              "type": "实词"
+            },
+            {
+              "word": "仰栖",
+              "pinyin": "yǎng qī",
+              "meaning": "仰头栖息",
+              "type": "实词"
+            },
+            {
+              "word": "茂树",
+              "pinyin": "mào shù",
+              "meaning": "茂盛树木",
+              "type": "实词"
+            },
+            {
+              "word": "鼓翅",
+              "pinyin": "gǔ chì",
+              "meaning": "鼓动翅膀",
+              "type": "实词"
+            },
+            {
+              "word": "奋翼",
+              "pinyin": "fèn yì",
+              "meaning": "奋起翅膀",
+              "type": "实词"
+            },
+            {
+              "word": "自以为",
+              "pinyin": "zì yǐ wéi",
+              "meaning": "自己认为",
+              "type": "实词"
+            },
+            {
+              "word": "无患",
+              "pinyin": "wú huàn",
+              "meaning": "没有祸患",
+              "type": "实词"
+            },
+            {
+              "word": "与人无争",
+              "pinyin": "yǔ rén wú zhēng",
+              "meaning": "与人无争",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "不知夫公子王孙左挟弹，右摄丸，将加己乎十仞之上，以其类为招。",
+          "translation": "却不知道那些公子王孙左手拿着弹弓，右手握着弹丸，将要在十仞高的地方加害自己，以它们的同类作为目标。",
+          "words": [
+            {
+              "word": "不知",
+              "pinyin": "bù zhī",
+              "meaning": "不知道",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "公子王孙",
+              "pinyin": "gōng zǐ wáng sūn",
+              "meaning": "贵族子弟",
+              "type": "实词"
+            },
+            {
+              "word": "左挟弹",
+              "pinyin": "zuǒ xié dàn",
+              "meaning": "左手持弹弓",
+              "type": "实词"
+            },
+            {
+              "word": "右摄丸",
+              "pinyin": "yòu shè wán",
+              "meaning": "右手拿弹丸",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "加",
+              "pinyin": "jiā",
+              "meaning": "加害",
+              "type": "实词"
+            },
+            {
+              "word": "己",
+              "pinyin": "jǐ",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "十仞",
+              "pinyin": "shí rèn",
+              "meaning": "十仞高",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "上面",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "类",
+              "pinyin": "lèi",
+              "meaning": "同类",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "招",
+              "pinyin": "zhāo",
+              "meaning": "目标",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "昼游乎茂树，夕调乎酸咸。",
+          "translation": "白天在茂密的树林中游荡，晚上却被调上酸咸。",
+          "words": [
+            {
+              "word": "昼游",
+              "pinyin": "zhòu yóu",
+              "meaning": "白天游荡",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "茂树",
+              "pinyin": "mào shù",
+              "meaning": "茂密的树木",
+              "type": "实词"
+            },
+            {
+              "word": "夕调",
+              "pinyin": "xī tiáo",
+              "meaning": "晚上被调制",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "酸咸",
+              "pinyin": "suān xián",
+              "meaning": "酸咸味",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "倏忽之间，坠于公子之手。",
+          "translation": "转眼之间，就落入公子的手中。",
+          "words": [
+            {
+              "word": "倏忽",
+              "pinyin": "shū hū",
+              "meaning": "瞬间",
+              "type": "实词"
+            },
+            {
+              "word": "之间",
+              "pinyin": "zhī jiān",
+              "meaning": "在...之间",
+              "type": "虚词"
+            },
+            {
+              "word": "坠",
+              "pinyin": "zhuì",
+              "meaning": "坠落",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "公子",
+              "pinyin": "gōng zǐ",
+              "meaning": "贵族子弟",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "手",
+              "pinyin": "shǒu",
+              "meaning": "手中",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "夫雀其小者也，黄鸪因是以。游乎江海，淹乎大沼，俯噣鳝鲤，仰啮菱衡，奋其六翮，而凌清风，飘摇乎高翔，自以为无患，与人无争也；不知夫射者，方将修其碆卢，治其矰缴，将加己乎百仞之上。彼监刂磻，引微缴，折清风而抎矣。故昼游乎江湖，夕调乎鼎鼐。",
+      "translation": "黄雀是其中小的例子，黄鸪也是如此。它在江海中游荡，在大沼泽中停留，低头啄食鳝鱼和鲤鱼，抬头啃食菱角和水草，振动它的翅膀，乘着清风，飘摇高飞，自以为没有祸患，与人无争；却不知道那射箭的人，正在修理他的弓箭，准备用矰缴，将要在百仞高的天空中加害于它。他牵引细丝绳，在清风中坠落而死。所以白天还在江湖中游荡，晚上就被调和在鼎鼐中了。",
+      "sentences": [
+        {
+          "original": "夫雀其小者也，黄鸪因是以。",
+          "translation": "黄雀是其中小的例子，黄鸪也是如此。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "雀",
+              "pinyin": "què",
+              "meaning": "小鸟",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "小",
+              "pinyin": "xiǎo",
+              "meaning": "小的",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "黄鸪",
+              "pinyin": "huáng gū",
+              "meaning": "黄鸟",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "游乎江海，淹乎大沼，俯噣鳝鲤，仰啮菱衡，奋其六翮，而凌清风，飘摇乎高翔，自以为无患，与人无争也；",
+          "translation": "它在江海中游荡，在大沼泽中停留，低头啄食鳝鱼和鲤鱼，抬头啃食菱角和水草，振动它的翅膀，乘着清风，飘摇高飞，自以为没有祸患，与人无争；",
+          "words": [
+            {
+              "word": "游",
+              "pinyin": "yóu",
+              "meaning": "游泳",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "江海",
+              "pinyin": "jiāng hǎi",
+              "meaning": "江河海洋",
+              "type": "实词"
+            },
+            {
+              "word": "淹",
+              "pinyin": "yān",
+              "meaning": "停留",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "大沼",
+              "pinyin": "dà zhǎo",
+              "meaning": "大池塘",
+              "type": "实词"
+            },
+            {
+              "word": "俯",
+              "pinyin": "fǔ",
+              "meaning": "低头",
+              "type": "实词"
+            },
+            {
+              "word": "噣",
+              "pinyin": "zhòu",
+              "meaning": "啄",
+              "type": "实词"
+            },
+            {
+              "word": "鳝鲤",
+              "pinyin": "shàn lǐ",
+              "meaning": "鳝鱼鲤鱼",
+              "type": "实词"
+            },
+            {
+              "word": "仰",
+              "pinyin": "yǎng",
+              "meaning": "抬头",
+              "type": "实词"
+            },
+            {
+              "word": "啮",
+              "pinyin": "niè",
+              "meaning": "咬",
+              "type": "实词"
+            },
+            {
+              "word": "菱衡",
+              "pinyin": "líng héng",
+              "meaning": "菱角杜衡",
+              "type": "实词"
+            },
+            {
+              "word": "奋",
+              "pinyin": "fèn",
+              "meaning": "振翅",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "六翮",
+              "pinyin": "liù hé",
+              "meaning": "翅膀",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "凌",
+              "pinyin": "líng",
+              "meaning": "乘",
+              "type": "实词"
+            },
+            {
+              "word": "清风",
+              "pinyin": "qīng fēng",
+              "meaning": "凉风",
+              "type": "实词"
+            },
+            {
+              "word": "飘摇",
+              "pinyin": "piāo yáo",
+              "meaning": "飘动",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "高翔",
+              "pinyin": "gāo xiáng",
+              "meaning": "高飞",
+              "type": "实词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "自己",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "认为",
+              "type": "虚词"
+            },
+            {
+              "word": "无患",
+              "pinyin": "wú huàn",
+              "meaning": "无祸患",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "争",
+              "pinyin": "zhēng",
+              "meaning": "争斗",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "不知夫射者，方将修其碆卢，治其矰缴，将加己乎百仞之上。",
+          "translation": "却不知道那射箭的人，正在修理他的弓箭，准备用矰缴，将要在百仞高的天空中加害于它。",
+          "words": [
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "射者",
+              "pinyin": "shè zhě",
+              "meaning": "射箭者",
+              "type": "实词"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "正",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "修理",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "碆卢",
+              "pinyin": "bō lú",
+              "meaning": "箭名",
+              "type": "实词"
+            },
+            {
+              "word": "治",
+              "pinyin": "zhì",
+              "meaning": "整治",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "矰缴",
+              "pinyin": "zēng zhuó",
+              "meaning": "带绳箭",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "加",
+              "pinyin": "jiā",
+              "meaning": "加",
+              "type": "实词"
+            },
+            {
+              "word": "己",
+              "pinyin": "jǐ",
+              "meaning": "自己",
+              "type": "虚词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "百仞",
+              "pinyin": "bǎi rèn",
+              "meaning": "极高处",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "上面",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "彼监刂磻，引微缴，折清风而抎矣。",
+          "translation": "他牵引细丝绳，在清风中坠落而死。",
+          "words": [
+            {
+              "word": "彼",
+              "pinyin": "bǐ",
+              "meaning": "他/它",
+              "type": "虚词"
+            },
+            {
+              "word": "监刂磻",
+              "pinyin": "lán bō",
+              "meaning": "磨砺的磻石",
+              "type": "实词"
+            },
+            {
+              "word": "引",
+              "pinyin": "yǐn",
+              "meaning": "拉开",
+              "type": "实词"
+            },
+            {
+              "word": "微缴",
+              "pinyin": "wēi zhuó",
+              "meaning": "细缴绳",
+              "type": "实词"
+            },
+            {
+              "word": "折",
+              "pinyin": "zhé",
+              "meaning": "折断",
+              "type": "实词"
+            },
+            {
+              "word": "清风",
+              "pinyin": "qīng fēng",
+              "meaning": "清风",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "抎",
+              "pinyin": "yǔn",
+              "meaning": "坠落",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故昼游乎江湖，夕调乎鼎鼐。",
+          "translation": "所以白天还在江湖中游荡，晚上就被调和在鼎鼐中了。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "昼游",
+              "pinyin": "zhòu yóu",
+              "meaning": "白天游动",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "江湖",
+              "pinyin": "jiāng hú",
+              "meaning": "江河湖海",
+              "type": "实词"
+            },
+            {
+              "word": "夕调",
+              "pinyin": "xī tiáo",
+              "meaning": "晚上被烹",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "鼎鼐",
+              "pinyin": "dǐng nài",
+              "meaning": "炊具",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "夫黄鹄其小者也，蔡灵侯之事因是以。南游乎高陂，北陵乎巫山，饮茹溪流，食湘波之鱼。左抱幼妾，右拥嬖女，与之驰骋乎高蔡之中，而不以国家为事；不知夫子发方受命乎灵王，系己以朱丝而见之也。",
+      "translation": "黄鹄的事情是小的，蔡灵侯的事情也是如此。他南游到高陂，北登巫山，饮茹溪的水，吃湘波的鱼。左边抱着年轻的妾，右边拥着宠爱的女子，和她们在高蔡之中驰骋，而不把国家大事放在心上；却不知道子发正接受灵王的命令，用红丝绳捆绑自己去见灵王。",
+      "sentences": [
+        {
+          "original": "夫黄鹄其小者也，蔡灵侯之事因是以。",
+          "translation": "黄鹄的事情是小的，蔡灵侯的事情也是如此。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "黄鹄",
+              "pinyin": "huáng hú",
+              "meaning": "天鹅",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "小者",
+              "pinyin": "xiǎo zhě",
+              "meaning": "小的事情",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "蔡灵侯",
+              "pinyin": "Cài Líng Hóu",
+              "meaning": "蔡国灵侯",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事情",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "南游乎高陂，北陵乎巫山，饮茹溪流，食湘波之鱼。",
+          "translation": "他南游到高陂，北登巫山，饮茹溪的水，吃湘波的鱼。",
+          "words": [
+            {
+              "word": "南",
+              "pinyin": "nán",
+              "meaning": "向南",
+              "type": "实词"
+            },
+            {
+              "word": "游",
+              "pinyin": "yóu",
+              "meaning": "游玩",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "高陂",
+              "pinyin": "Gāo Bēi",
+              "meaning": "高陂地名",
+              "type": "地名"
+            },
+            {
+              "word": "北",
+              "pinyin": "běi",
+              "meaning": "向北",
+              "type": "实词"
+            },
+            {
+              "word": "陵",
+              "pinyin": "líng",
+              "meaning": "登",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "巫山",
+              "pinyin": "Wū Shān",
+              "meaning": "巫山地名",
+              "type": "地名"
+            },
+            {
+              "word": "饮",
+              "pinyin": "yǐn",
+              "meaning": "喝",
+              "type": "实词"
+            },
+            {
+              "word": "茹溪",
+              "pinyin": "Rú Xī",
+              "meaning": "茹溪地名",
+              "type": "地名"
+            },
+            {
+              "word": "流",
+              "pinyin": "liú",
+              "meaning": "水流",
+              "type": "实词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "吃",
+              "type": "实词"
+            },
+            {
+              "word": "湘波",
+              "pinyin": "Xiāng Bō",
+              "meaning": "湘水",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "鱼",
+              "pinyin": "yú",
+              "meaning": "鱼",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "左抱幼妾，右拥嬖女，与之驰骋乎高蔡之中，而不以国家为事；",
+          "translation": "左边抱着年轻的妾，右边拥着宠爱的女子，和她们在高蔡之中驰骋，而不把国家大事放在心上；",
+          "words": [
+            {
+              "word": "左",
+              "pinyin": "zuǒ",
+              "meaning": "左边",
+              "type": "实词"
+            },
+            {
+              "word": "抱",
+              "pinyin": "bào",
+              "meaning": "抱着",
+              "type": "实词"
+            },
+            {
+              "word": "幼妾",
+              "pinyin": "yòu qiè",
+              "meaning": "年轻妾侍",
+              "type": "实词"
+            },
+            {
+              "word": "右",
+              "pinyin": "yòu",
+              "meaning": "右边",
+              "type": "实词"
+            },
+            {
+              "word": "拥",
+              "pinyin": "yōng",
+              "meaning": "拥抱",
+              "type": "实词"
+            },
+            {
+              "word": "嬖女",
+              "pinyin": "bì nǚ",
+              "meaning": "宠女",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他们",
+              "type": "虚词"
+            },
+            {
+              "word": "驰骋",
+              "pinyin": "chí chěng",
+              "meaning": "奔驰",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "高蔡",
+              "pinyin": "Gāo Cài",
+              "meaning": "高蔡地名",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "中间",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "把",
+              "type": "虚词"
+            },
+            {
+              "word": "国家",
+              "pinyin": "guó jiā",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事务",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "不知夫子发方受命乎灵王，系己以朱丝而见之也。",
+          "translation": "却不知道子发正接受灵王的命令，用红丝绳捆绑自己去见灵王。",
+          "words": [
+            {
+              "word": "不知",
+              "pinyin": "bù zhī",
+              "meaning": "不知道",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "子发",
+              "pinyin": "Zǐ fā",
+              "meaning": "楚国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "正",
+              "type": "虚词"
+            },
+            {
+              "word": "受命",
+              "pinyin": "shòu mìng",
+              "meaning": "接受命令",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "灵王",
+              "pinyin": "Líng wáng",
+              "meaning": "楚灵王",
+              "type": "人名"
+            },
+            {
+              "word": "系己",
+              "pinyin": "xì jǐ",
+              "meaning": "绑住自己",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "朱丝",
+              "pinyin": "zhū sī",
+              "meaning": "红丝",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "见",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "蔡灵侯之事其小者也，君王之事因是以。左州侯，右夏侯，辇从鄢陵君与寿陵君，饭封禄之粟，而载方府之金，与之驰骋乎云梦之中，而不以天下国家为事，而不知夫穰侯方受命乎秦王，填黾塞之内，而投己乎黾塞之外。",
+      "translation": "蔡灵侯的事情是小事，君王的事情也是这样。左边有州侯，右边有夏侯，辇车后跟着鄢陵君和寿陵君，吃着封地的粮食，载着国库的金钱，和他们一起在云梦泽中驰骋，而不把天下国家的事情放在心上，却不知道穰侯正接受秦王的命令，在黾塞之内布防，而把自己抛弃到黾塞之外。",
+      "sentences": [
+        {
+          "original": "蔡灵侯之事其小者也，君王之事因是以。",
+          "translation": "蔡灵侯的事情是小事，君王的事情也是这样。",
+          "words": [
+            {
+              "word": "蔡灵侯",
+              "pinyin": "cài líng hóu",
+              "meaning": "蔡国灵侯",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事情",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "小",
+              "pinyin": "xiǎo",
+              "meaning": "小",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "君王",
+              "pinyin": "jūn wáng",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事情",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "左州侯，右夏侯，辇从鄢陵君与寿陵君，",
+          "translation": "左边有州侯，右边有夏侯，辇车后跟着鄢陵君和寿陵君。",
+          "words": [
+            {
+              "word": "左",
+              "pinyin": "zuǒ",
+              "meaning": "左边",
+              "type": "实词"
+            },
+            {
+              "word": "州侯",
+              "pinyin": "zhōu hóu",
+              "meaning": "州侯",
+              "type": "人名"
+            },
+            {
+              "word": "右",
+              "pinyin": "yòu",
+              "meaning": "右边",
+              "type": "实词"
+            },
+            {
+              "word": "夏侯",
+              "pinyin": "xià hóu",
+              "meaning": "夏侯",
+              "type": "人名"
+            },
+            {
+              "word": "辇",
+              "pinyin": "niǎn",
+              "meaning": "车",
+              "type": "实词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "跟随",
+              "type": "实词"
+            },
+            {
+              "word": "鄢陵君",
+              "pinyin": "yān líng jūn",
+              "meaning": "鄢陵君",
+              "type": "人名"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "寿陵君",
+              "pinyin": "shòu líng jūn",
+              "meaning": "寿陵君",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "饭封禄之粟，而载方府之金，",
+          "translation": "吃着封地的粮食，载着国库的金钱。",
+          "words": [
+            {
+              "word": "饭",
+              "pinyin": "fàn",
+              "meaning": "吃",
+              "type": "实词"
+            },
+            {
+              "word": "封禄",
+              "pinyin": "fēng lù",
+              "meaning": "封地俸禄",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "粟",
+              "pinyin": "sù",
+              "meaning": "粮食",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "载",
+              "pinyin": "zài",
+              "meaning": "装载",
+              "type": "实词"
+            },
+            {
+              "word": "方府",
+              "pinyin": "fāng fǔ",
+              "meaning": "国库",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "金",
+              "pinyin": "jīn",
+              "meaning": "金钱",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "与之驰骋乎云梦之中，而不以天下国家为事，",
+          "translation": "和他们一起在云梦泽中驰骋，而不把天下国家的事情放在心上。",
+          "words": [
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "驰骋",
+              "pinyin": "chí chěng",
+              "meaning": "奔驰",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "云梦",
+              "pinyin": "yún mèng",
+              "meaning": "云梦泽",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "里面",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "把",
+              "type": "虚词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "国家",
+              "pinyin": "guó jiā",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事情",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "而不知夫穰侯方受命乎秦王，填黾塞之内，而投己乎黾塞之外。",
+          "translation": "却不知道穰侯正接受秦王的命令，在黾塞之内布防，而把自己抛弃到黾塞之外。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "穰侯",
+              "pinyin": "ráng hóu",
+              "meaning": "穰侯",
+              "type": "人名"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "正",
+              "type": "虚词"
+            },
+            {
+              "word": "受命",
+              "pinyin": "shòu mìng",
+              "meaning": "接受命令",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦王",
+              "type": "人名"
+            },
+            {
+              "word": "填",
+              "pinyin": "tián",
+              "meaning": "驻扎",
+              "type": "实词"
+            },
+            {
+              "word": "黾塞",
+              "pinyin": "mǐn sài",
+              "meaning": "黾塞关",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "内",
+              "pinyin": "nèi",
+              "meaning": "内部",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "投",
+              "pinyin": "tóu",
+              "meaning": "驱逐",
+              "type": "实词"
+            },
+            {
+              "word": "己",
+              "pinyin": "jǐ",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "黾塞",
+              "pinyin": "mǐn sài",
+              "meaning": "黾塞关",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "外",
+              "pinyin": "wài",
+              "meaning": "外部",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

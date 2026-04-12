@@ -1,0 +1,1225 @@
+{
+  "id": "033_子产论政宽猛",
+  "title": "子产论政宽猛",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋时期鲁国史官，相传为《左传》的作者。名丘明，一说姓左，名丘明，生卒年不详，大约生活在公元前5世纪，与孔子同时代或稍后。他编撰的《左传》是中国古代重要的编年体史书，也是文学经典，对后世史学和散文发展影响深远。左丘明以严谨的史笔和生动的叙事著称，其作品不仅记录历史事件，还蕴含丰富的政治和伦理思想。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 2,
+  "background": "本文出自《左传》，是春秋时期鲁国史官左丘明所著的历史散文。文章记载了郑国政治家子产在病重时对继任者子大叔的治国教诲，提出“宽猛相济”的政治理念。春秋时代，诸侯争霸，社会动荡，郑国作为小国面临内忧外患。子产执政期间，推行法治与德治结合，以稳定国家。左丘明通过记录这一事件，旨在总结历史经验，阐述治国之道，为后世统治者提供借鉴。写作背景反映了先秦时期政治思想的演进，尤其是儒家对宽猛平衡的探讨，具有深刻的历史和哲学意义。",
+  "appreciation": "《子产论政宽猛》是一篇结构严谨、寓意深远的先秦散文。文章以对话体展开，通过子产临终前的嘱托和子大叔的实践教训，生动呈现了宽政与猛政的辩证关系。文学上，左丘明运用了鲜明的比喻手法，如以“火烈”喻猛政、“水懦弱”喻宽政，形象地揭示了政策对民众行为的影响，增强了说理的感染力。孔子在文末的评论引用《诗经》，将具体事例提升到经典理论高度，体现了儒家“中庸”思想，强调政治需刚柔并济以达和谐。语言简洁凝练，逻辑层层递进，既有历史叙事的真实性，又富含哲学思辨性。文章通过人物言行刻画，展现了子产的智慧与子大叔的悔悟，使读者在故事中领悟治国之道，具有很高的文学价值和教育意义。",
+  "tags": [
+    "治国理念",
+    "宽猛相济",
+    "儒家思想"
+  ],
+  "paragraphs": [
+    {
+      "original": "郑子产有疾。谓子大叔曰：“我死，子必为政。唯有德者能以宽服民，其次莫如猛。夫火烈，民望而畏之，故鲜死焉；水懦弱，民狎而玩之，则多死焉。故宽难。”疾数月而卒。",
+      "translation": "子产生病了。他对子大叔说：“我死后，你一定会执政。只有有德行的人才能用宽厚的政策使百姓服从，其次就不如用严厉的政策。火很猛烈，百姓一看见就害怕，所以很少有人死于火；水很柔弱，百姓轻视并玩弄它，所以很多人死于水。因此，实行宽厚的政策很难。”病了几个月后，子产就去世了。",
+      "sentences": [
+        {
+          "original": "郑子产有疾。",
+          "translation": "子产生病了。",
+          "words": [
+            {
+              "word": "郑",
+              "pinyin": "Zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "子产",
+              "pinyin": "Zǐchǎn",
+              "meaning": "郑国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "患有",
+              "type": "实词"
+            },
+            {
+              "word": "疾",
+              "pinyin": "jí",
+              "meaning": "病",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "谓子大叔曰：“我死，子必为政。”",
+          "translation": "他对子大叔说：“我死后，你一定会执政。”",
+          "words": [
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "对...说",
+              "type": "实词"
+            },
+            {
+              "word": "子大叔",
+              "pinyin": "Zǐ Dàshū",
+              "meaning": "郑国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "为政",
+              "pinyin": "wéi zhèng",
+              "meaning": "执政",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "“唯有德者能以宽服民，其次莫如猛。”",
+          "translation": "“只有有德行的人才能用宽厚的政策使百姓服从，其次就不如用严厉的政策。”",
+          "words": [
+            {
+              "word": "唯",
+              "pinyin": "wéi",
+              "meaning": "只有",
+              "type": "虚词"
+            },
+            {
+              "word": "有德者",
+              "pinyin": "yǒu dé zhě",
+              "meaning": "有道德的人",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "宽",
+              "pinyin": "kuān",
+              "meaning": "宽大",
+              "type": "实词"
+            },
+            {
+              "word": "服",
+              "pinyin": "fú",
+              "meaning": "使服从",
+              "type": "实词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "人民",
+              "type": "实词"
+            },
+            {
+              "word": "其次",
+              "pinyin": "qí cì",
+              "meaning": "其次",
+              "type": "实词"
+            },
+            {
+              "word": "莫如",
+              "pinyin": "mò rú",
+              "meaning": "不如",
+              "type": "虚词"
+            },
+            {
+              "word": "猛",
+              "pinyin": "měng",
+              "meaning": "严厉",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "“夫火烈，民望而畏之，故鲜死焉；水懦弱，民狎而玩之，则多死焉。”",
+          "translation": "“火很猛烈，百姓一看见就害怕，所以很少有人死于火；水很柔弱，百姓轻视并玩弄它，所以很多人死于水。”",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "火烈",
+              "pinyin": "huǒ liè",
+              "meaning": "火势猛烈",
+              "type": "实词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "百姓",
+              "type": "实词"
+            },
+            {
+              "word": "望",
+              "pinyin": "wàng",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "畏",
+              "pinyin": "wèi",
+              "meaning": "畏惧",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "鲜",
+              "pinyin": "xiǎn",
+              "meaning": "少",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "兼词于此",
+              "type": "虚词"
+            },
+            {
+              "word": "水懦弱",
+              "pinyin": "shuǐ nuò ruò",
+              "meaning": "水柔弱",
+              "type": "实词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "百姓",
+              "type": "实词"
+            },
+            {
+              "word": "狎",
+              "pinyin": "xiá",
+              "meaning": "轻忽",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "玩",
+              "pinyin": "wán",
+              "meaning": "玩弄",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "兼词于此",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "“故宽难。”",
+          "translation": "“因此，实行宽厚的政策很难。”",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "宽",
+              "pinyin": "kuān",
+              "meaning": "宽大",
+              "type": "实词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "困难",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "疾数月而卒。",
+          "translation": "病了几个月后，子产就去世了。",
+          "words": [
+            {
+              "word": "疾",
+              "pinyin": "jí",
+              "meaning": "生病",
+              "type": "实词"
+            },
+            {
+              "word": "数月",
+              "pinyin": "shù yuè",
+              "meaning": "几个月",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "死亡",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "大叔为政，不忍猛而宽。郑国多盗，取人于萑苻之泽。大叔悔之曰：“吾早从夫子，不及此。”兴徒兵以攻萑苻之盗，尽杀之。盗少止。",
+      "translation": "大叔执政后，不忍心施行严厉的政策而采用宽厚的政策。郑国出现了很多盗贼，在萑苻泽聚集抢劫。大叔后悔地说：“我早听从夫子的话，就不会到这个地步。”于是发动步兵去攻打萑苻泽的盗贼，把他们全部杀光。盗贼稍微平息了。",
+      "sentences": [
+        {
+          "original": "大叔为政，不忍猛而宽。",
+          "translation": "大叔执政后，不忍心施行严厉的政策而采用宽厚的政策。",
+          "words": [
+            {
+              "word": "大叔",
+              "pinyin": "dà shū",
+              "meaning": "大叔，人名",
+              "type": "人名"
+            },
+            {
+              "word": "为政",
+              "pinyin": "wéi zhèng",
+              "meaning": "执政",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "忍",
+              "pinyin": "rěn",
+              "meaning": "忍心",
+              "type": "实词"
+            },
+            {
+              "word": "猛",
+              "pinyin": "měng",
+              "meaning": "严厉",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "宽",
+              "pinyin": "kuān",
+              "meaning": "宽厚",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "郑国多盗，取人于萑苻之泽。",
+          "translation": "郑国出现了很多盗贼，在萑苻泽聚集抢劫。",
+          "words": [
+            {
+              "word": "郑国",
+              "pinyin": "zhèng guó",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "盗",
+              "pinyin": "dào",
+              "meaning": "盗贼",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "掠取",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "萑苻",
+              "pinyin": "huán fú",
+              "meaning": "萑苻泽",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "泽",
+              "pinyin": "zé",
+              "meaning": "沼泽",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "大叔悔之曰：“吾早从夫子，不及此。”",
+          "translation": "大叔后悔地说：“我早听从夫子的话，就不会到这个地步。”",
+          "words": [
+            {
+              "word": "大叔",
+              "pinyin": "dà shū",
+              "meaning": "大叔",
+              "type": "人名"
+            },
+            {
+              "word": "悔",
+              "pinyin": "huǐ",
+              "meaning": "后悔",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "早",
+              "pinyin": "zǎo",
+              "meaning": "早",
+              "type": "实词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "听从",
+              "type": "实词"
+            },
+            {
+              "word": "夫子",
+              "pinyin": "fū zǐ",
+              "meaning": "夫子，指子产",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "达到",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "此，这样",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "兴徒兵以攻萑苻之盗，尽杀之。",
+          "translation": "于是发动步兵去攻打萑苻泽的盗贼，把他们全部杀光。",
+          "words": [
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "发动",
+              "type": "实词"
+            },
+            {
+              "word": "徒兵",
+              "pinyin": "tú bīng",
+              "meaning": "步兵",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "攻",
+              "pinyin": "gōng",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "萑苻",
+              "pinyin": "huán fú",
+              "meaning": "泽名",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "盗",
+              "pinyin": "dào",
+              "meaning": "盗贼",
+              "type": "实词"
+            },
+            {
+              "word": "尽",
+              "pinyin": "jìn",
+              "meaning": "全部",
+              "type": "实词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀死",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他们",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "盗少止。",
+          "translation": "盗贼稍微平息了。",
+          "words": [
+            {
+              "word": "盗",
+              "pinyin": "dào",
+              "meaning": "盗贼",
+              "type": "实词"
+            },
+            {
+              "word": "少",
+              "pinyin": "shǎo",
+              "meaning": "稍微",
+              "type": "实词"
+            },
+            {
+              "word": "止",
+              "pinyin": "zhǐ",
+              "meaning": "停止",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "仲尼曰：“善哉！政宽则民慢，慢则纠之以猛；猛则民残，残则施之以宽。",
+      "translation": "孔子说：“说得好啊！政令宽厚，民众就会怠慢，怠慢了就用严厉来纠正；政令严厉，民众就会受伤，受伤了就施以宽厚。”",
+      "sentences": [
+        {
+          "original": "善哉！",
+          "translation": "说得好啊！",
+          "words": []
+        },
+        {
+          "original": "政宽则民慢，慢则纠之以猛；",
+          "translation": "政令宽厚，民众就会怠慢，怠慢了就用严厉来纠正；",
+          "words": []
+        },
+        {
+          "original": "猛则民残，残则施之以宽。",
+          "translation": "政令严厉，民众就会受伤，受伤了就施以宽厚。",
+          "words": []
+        }
+      ]
+    },
+    {
+      "original": "宽以济猛，猛以济宽，政是以和。”《诗》曰：‘民亦劳止，汔可小康。惠此中国，以绥四方。’施之以宽也。‘毋从诡随，以谨无良。式遏寇虐，惨不畏明。’纠之以猛也。‘柔远能迩，以定我王。’平之以和也。又曰，‘不竞不絿，不刚不柔。布政优优，百禄是乃。’和之至也。”及子产卒，仲尼闻之，出涕曰：“古之遗爱也！”",
+      "translation": "用宽大来调和严厉，用严厉来调和宽大，政治因此和谐。《诗经》说：“百姓已经很劳苦了，差不多可以稍稍安康。赐恩给中原各国，以此安抚四方。”这是施行宽大的政策。“不要放纵诡诈欺骗，以约束不良之人。制止掠夺暴虐，那些不畏王法的人。”这是用严厉来纠正。“安抚远方，亲善近处，以安定我王。”这是用和谐来平衡。又说：“不争不急，不刚不柔。施政宽和，百福于是降临。”这是和谐的极致。等到子产去世，孔子听说后，流泪说：“这是古代遗留下来的仁爱啊！”",
+      "sentences": [
+        {
+          "original": "宽以济猛，猛以济宽，政是以和。",
+          "translation": "用宽大来调和严厉，用严厉来调和宽大，政治因此和谐。",
+          "words": [
+            {
+              "word": "宽",
+              "pinyin": "kuān",
+              "meaning": "宽大",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "济",
+              "pinyin": "jì",
+              "meaning": "调节",
+              "type": "实词"
+            },
+            {
+              "word": "猛",
+              "pinyin": "měng",
+              "meaning": "严厉",
+              "type": "实词"
+            },
+            {
+              "word": "猛",
+              "pinyin": "měng",
+              "meaning": "严厉",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "济",
+              "pinyin": "jì",
+              "meaning": "调节",
+              "type": "实词"
+            },
+            {
+              "word": "宽",
+              "pinyin": "kuān",
+              "meaning": "宽大",
+              "type": "实词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政治",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因",
+              "type": "虚词"
+            },
+            {
+              "word": "和",
+              "pinyin": "hé",
+              "meaning": "和谐",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "《诗》曰：‘民亦劳止，汔可小康。惠此中国，以绥四方。’施之以宽也。",
+          "translation": "《诗经》说：“百姓已经很劳苦了，差不多可以稍稍安康。赐恩给中原各国，以此安抚四方。”这是施行宽大的政策。",
+          "words": [
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "诗经",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "百姓",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "劳",
+              "pinyin": "láo",
+              "meaning": "劳苦",
+              "type": "实词"
+            },
+            {
+              "word": "止",
+              "pinyin": "zhǐ",
+              "meaning": "停止",
+              "type": "实词"
+            },
+            {
+              "word": "汔",
+              "pinyin": "qì",
+              "meaning": "几乎",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "小",
+              "pinyin": "xiǎo",
+              "meaning": "稍微",
+              "type": "实词"
+            },
+            {
+              "word": "康",
+              "pinyin": "kāng",
+              "meaning": "安康",
+              "type": "实词"
+            },
+            {
+              "word": "惠",
+              "pinyin": "huì",
+              "meaning": "施恩",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "中国",
+              "pinyin": "zhōng guó",
+              "meaning": "中原",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "绥",
+              "pinyin": "suí",
+              "meaning": "安抚",
+              "type": "实词"
+            },
+            {
+              "word": "四方",
+              "pinyin": "sì fāng",
+              "meaning": "天下",
+              "type": "地名"
+            },
+            {
+              "word": "施",
+              "pinyin": "shī",
+              "meaning": "施行",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "宽",
+              "pinyin": "kuān",
+              "meaning": "宽大",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "‘毋从诡随，以谨无良。式遏寇虐，惨不畏明。’纠之以猛也。",
+          "translation": "“不要放纵诡诈欺骗，以约束不良之人。制止掠夺暴虐，那些不畏王法的人。”这是用严厉来纠正。",
+          "words": [
+            {
+              "word": "毋",
+              "pinyin": "wú",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "听从",
+              "type": "实词"
+            },
+            {
+              "word": "诡随",
+              "pinyin": "guǐ suí",
+              "meaning": "诡诈",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "谨",
+              "pinyin": "jǐn",
+              "meaning": "谨防",
+              "type": "实词"
+            },
+            {
+              "word": "无良",
+              "pinyin": "wú liáng",
+              "meaning": "不良",
+              "type": "实词"
+            },
+            {
+              "word": "式",
+              "pinyin": "shì",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "遏",
+              "pinyin": "è",
+              "meaning": "遏制",
+              "type": "实词"
+            },
+            {
+              "word": "寇虐",
+              "pinyin": "kòu nüè",
+              "meaning": "暴虐",
+              "type": "实词"
+            },
+            {
+              "word": "惨",
+              "pinyin": "cǎn",
+              "meaning": "曾",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "畏",
+              "pinyin": "wèi",
+              "meaning": "畏惧",
+              "type": "实词"
+            },
+            {
+              "word": "明",
+              "pinyin": "míng",
+              "meaning": "明法",
+              "type": "实词"
+            },
+            {
+              "word": "纠",
+              "pinyin": "jiū",
+              "meaning": "纠正",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "猛",
+              "pinyin": "měng",
+              "meaning": "严厉",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "‘柔远能迩，以定我王。’平之以和也。",
+          "translation": "“安抚远方，亲善近处，以安定我王。”这是用和谐来平衡。",
+          "words": [
+            {
+              "word": "柔远",
+              "pinyin": "róu yuǎn",
+              "meaning": "安抚远方",
+              "type": "实词"
+            },
+            {
+              "word": "能迩",
+              "pinyin": "néng ěr",
+              "meaning": "亲善近处",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "定",
+              "pinyin": "dìng",
+              "meaning": "安定",
+              "type": "实词"
+            },
+            {
+              "word": "我王",
+              "pinyin": "wǒ wáng",
+              "meaning": "我王",
+              "type": "实词"
+            },
+            {
+              "word": "平",
+              "pinyin": "píng",
+              "meaning": "平定",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指代政事",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "和",
+              "pinyin": "hé",
+              "meaning": "和谐",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "又曰，‘不竞不絿，不刚不柔。布政优优，百禄是乃。’和之至也。",
+          "translation": "又说：“不争不急，不刚不柔。施政宽和，百福于是降临。”这是和谐的极致。",
+          "words": [
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "不竞",
+              "pinyin": "bù jìng",
+              "meaning": "不竞争",
+              "type": "实词"
+            },
+            {
+              "word": "不絿",
+              "pinyin": "bù qiú",
+              "meaning": "不急躁",
+              "type": "实词"
+            },
+            {
+              "word": "不刚",
+              "pinyin": "bù gāng",
+              "meaning": "不刚硬",
+              "type": "实词"
+            },
+            {
+              "word": "不柔",
+              "pinyin": "bù róu",
+              "meaning": "不柔软",
+              "type": "实词"
+            },
+            {
+              "word": "布政",
+              "pinyin": "bù zhèng",
+              "meaning": "施政",
+              "type": "实词"
+            },
+            {
+              "word": "优优",
+              "pinyin": "yōu yōu",
+              "meaning": "宽和的样子",
+              "type": "实词"
+            },
+            {
+              "word": "百禄",
+              "pinyin": "bǎi lù",
+              "meaning": "百种福禄",
+              "type": "实词"
+            },
+            {
+              "word": "是乃",
+              "pinyin": "shì nǎi",
+              "meaning": "于是来",
+              "type": "实词"
+            },
+            {
+              "word": "和",
+              "pinyin": "hé",
+              "meaning": "和谐",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "极点",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "及子产卒，仲尼闻之，出涕曰：“古之遗爱也！”",
+          "translation": "等到子产去世，孔子听说后，流泪说：“这是古代遗留下来的仁爱啊！”",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "子产",
+              "pinyin": "zǐ chǎn",
+              "meaning": "子产",
+              "type": "人名"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "去世",
+              "type": "实词"
+            },
+            {
+              "word": "仲尼",
+              "pinyin": "zhòng ní",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指代事件",
+              "type": "虚词"
+            },
+            {
+              "word": "出涕",
+              "pinyin": "chū tì",
+              "meaning": "流泪",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "古",
+              "pinyin": "gǔ",
+              "meaning": "古代",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "遗爱",
+              "pinyin": "yí ài",
+              "meaning": "遗留的仁爱",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

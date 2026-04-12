@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getDynasties, getDynastyName } from '../../lib/data';
+
+export function getStaticPaths() {
+  const dynasties = getDynasties();
+  return dynasties.map((d) => ({
+    params: { id: d.id },
+    props: { dynasty: d },
+  }));
+}
+
+const { dynasty } = Astro.props;
+---
+
+<BaseLayout title={dynasty.name} description={`古文观止 · ${dynasty.name} · ${dynasty.article_count}篇`}>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+    <!-- 朝代头部 -->
+    <header class="mb-10">
+      <nav class="text-sm text-ink-faint mb-4">
+        <a href="/" class="hover:text-ink transition-colors no-underline">首页</a>
+        <span class="mx-2">›</span>
+        <span class="text-ink-light">{dynasty.name}</span>
+      </nav>
+      <h1 class="font-serif text-3xl font-bold text-ink">{dynasty.name}</h1>
+      <p class="mt-2 text-ink-faint">{dynasty.period} · {dynasty.article_count}篇 · {dynasty.authors.length}位作者</p>
+    </header>
+
+    <!-- 作者列表 -->
+    <div class="space-y-10">
+      {dynasty.authors.map((author) => (
+        <section>
+          <div class="flex items-baseline gap-3 mb-4">
+            <h2 class="font-serif text-xl font-semibold text-ink">{author.name}</h2>
+            <span class="text-sm text-ink-faint">{author.articles.length}篇</span>
+          </div>
+          <div class="grid gap-3 sm:grid-cols-2">
+            {author.articles.map((article) => (
+              <a
+                href={`/article/${article.id}`}
+                class="article-card block no-underline"
+              >
+                <h3 class="font-serif text-base font-medium text-ink">{article.title}</h3>
+                {article.source && (
+                  <p class="text-xs text-ink-faint mt-1">{article.source}</p>
+                )}
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

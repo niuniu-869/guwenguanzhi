@@ -1,0 +1,3868 @@
+{
+  "id": "093_过秦论上",
+  "title": "过秦论上",
+  "author": {
+    "id": "han_贾谊",
+    "name": "贾谊",
+    "dynasty": "han",
+    "bio": "贾谊（公元前200年—公元前168年），西汉初年著名政论家、文学家，洛阳（今河南洛阳）人。字号通常称贾生，无明确字号记载。年少时以能诵诗书闻名，被汉文帝召为博士，后升迁为太中大夫。他提出许多改革建议，如削弱诸侯、重农抑商等，但遭权贵忌恨，被贬为长沙王太傅，后改任梁怀王太傅。梁怀王坠马而死，贾谊自责忧郁，年仅33岁去世。代表作有《过秦论》、《治安策》等，其文章气势雄浑，逻辑严密，对后世散文影响很大。"
+  },
+  "source": "",
+  "dynasty": "han",
+  "volume": 6,
+  "background": "《过秦论上》是西汉贾谊所作的一篇政论散文，写作背景源于汉朝初期的政治社会环境。汉文帝时期，国家虽已统一，但内部矛盾重重，诸侯王势力膨胀，威胁中央集权，社会经济亟待恢复。贾谊深感秦朝因暴政而速亡的教训，希望通过系统分析秦的兴衰，劝谏汉文帝施行仁义，巩固统治。文章作于贾谊任博士期间，他提出一系列改革建议，如削弱诸侯、重农抑商，但遭到权贵排挤，借此文抒发政见。贾谊以秦为鉴，强调“仁义不施，而攻守之势异也”的核心思想，反映了汉初知识分子对国家治理的深刻思考，旨在警示统治者避免重蹈覆辙。",
+  "appreciation": "《过秦论上》在文学上具有极高价值，展现了汉代散文的雄辩风格。文章结构精巧，先以铺陈手法渲染秦孝公至始皇的强盛，如“席卷天下、包举宇内”等排比句，气势恢宏，逐步构建秦的崛起；后以陈涉起义的渺小对比，突出秦亡的迅速，形成强烈反差，增强论证力度。语言上，多用对偶、夸张，如“伏尸百万，流血漂橹”，使叙述生动有力，节奏感强。论证逻辑严密，从历史事实出发，层层递进：先述秦的强大，再写诸侯抗秦的失败，最后以陈涉的卑微与秦的崩溃对比，点明“仁义不施”的主题，发人深省。贾谊通过对比秦与六国、秦与陈涉的力量悬殊，揭示了民心向背的重要性，使文章兼具政论性与文学性。全文先扬后抑，叙事与议论结合，修辞丰富，是古代政论散文的典范，对后世影响深远。",
+  "tags": [
+    "历史散文",
+    "政论文学",
+    "秦汉历史"
+  ],
+  "paragraphs": [
+    {
+      "original": "秦孝公据殽函之固，拥雍州之地，君臣固守，以窥周室，有席卷天下、包举宇内，囊括四海之意，并吞八荒之心。当是时也，商君佐之，内立法度，务耕织，修守战之具；外连衡而斗诸侯。于是秦人拱手而取西河之外。",
+      "translation": "秦孝公占据殽函的险固，拥有雍州的土地，君臣牢固防守，用来窥视周室，怀有席卷天下、包举宇内、囊括四海、并吞八荒的意图。在这个时候，商君辅佐他，对内建立法律制度，致力于耕织，修造守战的器具；对外实行连横策略，使诸侯争斗。于是秦人拱手就取得了西河之外的土地。",
+      "sentences": [
+        {
+          "original": "秦孝公据殽函之固，拥雍州之地，君臣固守，以窥周室。",
+          "translation": "秦孝公占据殽函的险固，拥有雍州的土地，君臣牢固防守，用来窥视周室。",
+          "words": [
+            {
+              "word": "秦孝公",
+              "pinyin": "Qín Xiào Gōng",
+              "meaning": "秦国君主",
+              "type": "人名"
+            },
+            {
+              "word": "据",
+              "pinyin": "jù",
+              "meaning": "占据",
+              "type": "实词"
+            },
+            {
+              "word": "殽函",
+              "pinyin": "Xiáo Hán",
+              "meaning": "殽山函谷关",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "险固",
+              "type": "实词"
+            },
+            {
+              "word": "拥",
+              "pinyin": "yōng",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "雍州",
+              "pinyin": "Yōng Zhōu",
+              "meaning": "古地名",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "君臣",
+              "pinyin": "jūn chén",
+              "meaning": "君主臣子",
+              "type": "实词"
+            },
+            {
+              "word": "固守",
+              "pinyin": "gù shǒu",
+              "meaning": "坚守",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "窥",
+              "pinyin": "kuī",
+              "meaning": "窥视",
+              "type": "实词"
+            },
+            {
+              "word": "周室",
+              "pinyin": "Zhōu Shì",
+              "meaning": "周王朝",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "有席卷天下、包举宇内，囊括四海之意，并吞八荒之心。",
+          "translation": "怀有席卷天下、包举宇内、囊括四海、并吞八荒的意图。",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "席卷",
+              "pinyin": "xí juǎn",
+              "meaning": "像卷席子一样",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "包举",
+              "pinyin": "bāo jǔ",
+              "meaning": "包裹举起",
+              "type": "实词"
+            },
+            {
+              "word": "宇内",
+              "pinyin": "yǔ nèi",
+              "meaning": "宇宙内",
+              "type": "实词"
+            },
+            {
+              "word": "囊括",
+              "pinyin": "náng kuò",
+              "meaning": "口袋装",
+              "type": "实词"
+            },
+            {
+              "word": "四海",
+              "pinyin": "sì hǎi",
+              "meaning": "四海",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "意图",
+              "type": "实词"
+            },
+            {
+              "word": "并吞",
+              "pinyin": "bìng tūn",
+              "meaning": "兼并吞没",
+              "type": "实词"
+            },
+            {
+              "word": "八荒",
+              "pinyin": "bā huāng",
+              "meaning": "八方荒远",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "野心",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "当是时也，商君佐之。",
+          "translation": "在这个时候，商君辅佐他。",
+          "words": [
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "正当",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "商君",
+              "pinyin": "Shāng Jūn",
+              "meaning": "商鞅",
+              "type": "人名"
+            },
+            {
+              "word": "佐",
+              "pinyin": "zuǒ",
+              "meaning": "辅佐",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "内立法度，务耕织，修守战之具；外连衡而斗诸侯。",
+          "translation": "对内建立法律制度，致力于耕织，修造守战的器具；对外实行连横策略，使诸侯争斗。",
+          "words": [
+            {
+              "word": "内",
+              "pinyin": "nèi",
+              "meaning": "内部",
+              "type": "实词"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "建立",
+              "type": "实词"
+            },
+            {
+              "word": "法度",
+              "pinyin": "fǎ dù",
+              "meaning": "法律制度",
+              "type": "实词"
+            },
+            {
+              "word": "务",
+              "pinyin": "wù",
+              "meaning": "致力于",
+              "type": "实词"
+            },
+            {
+              "word": "耕织",
+              "pinyin": "gēng zhī",
+              "meaning": "耕种纺织",
+              "type": "实词"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "修造",
+              "type": "实词"
+            },
+            {
+              "word": "守战",
+              "pinyin": "shǒu zhàn",
+              "meaning": "防守进攻",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "具",
+              "pinyin": "jù",
+              "meaning": "器具",
+              "type": "实词"
+            },
+            {
+              "word": "外",
+              "pinyin": "wài",
+              "meaning": "对外",
+              "type": "实词"
+            },
+            {
+              "word": "连衡",
+              "pinyin": "lián héng",
+              "meaning": "连横策略",
+              "type": "典故"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "斗",
+              "pinyin": "dòu",
+              "meaning": "使争斗",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "于是秦人拱手而取西河之外。",
+          "translation": "于是秦人拱手就取得了西河之外的土地。",
+          "words": [
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "在这时",
+              "type": "虚词"
+            },
+            {
+              "word": "秦人",
+              "pinyin": "qín rén",
+              "meaning": "秦国人",
+              "type": "实词"
+            },
+            {
+              "word": "拱手",
+              "pinyin": "gǒng shǒu",
+              "meaning": "轻易地",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "地",
+              "type": "虚词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "夺取",
+              "type": "实词"
+            },
+            {
+              "word": "西河",
+              "pinyin": "xī hé",
+              "meaning": "西河地区",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "外",
+              "pinyin": "wài",
+              "meaning": "外部",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "孝公既没，惠文、武、昭蒙故业，因遗策，南取汉中，西举巴蜀，东割膏腴之地，收要害之郡。诸侯恐惧，会盟而谋弱秦，不爱珍器、重宝、肥饶之地，以致天下之士，合从缔交，相与为一。当此之时，齐有孟尝，赵有平原，楚有春申，魏有信陵。此四君者，皆明智而忠信，宽厚而爱人，尊贤重士，约从离横，兼韩、魏、燕、赵、宋、卫、中山之众。于是六国之士，有宁越、徐尚、苏秦、杜赫之属为之谋，齐明、周最、陈轸、召滑、楼绥、翟景、苏厉、乐毅之徒通其意，吴起、孙膑、带佗、儿良、王廖、田忌、廉颇、赵奢之伦制其兵。尝以十倍之地，百万之众，叩关而攻秦。秦人开关而延敌，九国之师遁逃而不敢进。秦无亡矢遗镞之费，而天下诸侯已困矣。于是从散约解，争割地而赂秦。秦有馀力而制其敝，追亡逐北，伏尸百万，流血漂橹。因利乘便，宰割天下，分裂河山。强国请服，弱国入朝。",
+      "translation": "秦孝公去世后，惠文王、武王、昭王继承旧业，遵循遗留的策略，向南攻取汉中，向西占领巴蜀，向东割取肥沃的土地，收取险要的郡县。诸侯们感到恐惧，会集结盟谋划削弱秦国，不惜珍器、重宝和肥沃的土地，来招揽天下的士人，合纵缔结盟约，相互联合为一体。在这个时候，齐国有孟尝君，赵国有平原君，楚国有春申君，魏国有信陵君。这四位君子，都明智而忠信，宽厚而爱护他人，尊重贤才重视士人，相约合纵离散连横，兼有韩、魏、燕、赵、宋、卫、中山等国的军队。于是六国的士人，有宁越、徐尚、苏秦、杜赫之类为他们谋划，齐明、周最、陈轸、召滑、楼绥、翟景、苏厉、乐毅之流传达他们的意图，吴起、孙膑、带佗、儿良、王廖、田忌、廉颇、赵奢之辈统率他们的军队。曾经以十倍的土地，百万的军队，攻打函谷关进攻秦国。秦国人打开关门迎击敌人，九国的军队逃跑而不敢前进。秦国没有损失一支箭、一个箭头，而天下的诸侯已经陷入困境。于是合纵解散，盟约瓦解，诸侯争相割让土地贿赂秦国。秦国有余力利用他们的疲惫，追击败逃的敌人，伏尸百万，流血漂浮起盾牌。趁着便利的形势，宰割天下，分裂河山。强国请求臣服，弱国前来朝拜。",
+      "sentences": [
+        {
+          "original": "孝公既没，惠文、武、昭蒙故业，因遗策，南取汉中，西举巴蜀，东割膏腴之地，收要害之郡。",
+          "translation": "秦孝公去世后，惠文王、武王、昭王继承旧业，遵循遗留的策略，向南攻取汉中，向西占领巴蜀，向东割取肥沃的土地，收取险要的郡县。",
+          "words": [
+            {
+              "word": "孝公",
+              "pinyin": "xiào gōng",
+              "meaning": "秦孝公",
+              "type": "人名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "没",
+              "pinyin": "mò",
+              "meaning": "去世",
+              "type": "实词"
+            },
+            {
+              "word": "惠文",
+              "pinyin": "huì wén",
+              "meaning": "惠文王",
+              "type": "人名"
+            },
+            {
+              "word": "武",
+              "pinyin": "wǔ",
+              "meaning": "武王",
+              "type": "人名"
+            },
+            {
+              "word": "昭",
+              "pinyin": "zhāo",
+              "meaning": "昭襄王",
+              "type": "人名"
+            },
+            {
+              "word": "蒙",
+              "pinyin": "méng",
+              "meaning": "继承",
+              "type": "实词"
+            },
+            {
+              "word": "故业",
+              "pinyin": "gù yè",
+              "meaning": "旧业",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "遗策",
+              "pinyin": "yí cè",
+              "meaning": "遗留策略",
+              "type": "实词"
+            },
+            {
+              "word": "南",
+              "pinyin": "nán",
+              "meaning": "向南",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "攻取",
+              "type": "实词"
+            },
+            {
+              "word": "汉中",
+              "pinyin": "hàn zhōng",
+              "meaning": "汉中地区",
+              "type": "地名"
+            },
+            {
+              "word": "西",
+              "pinyin": "xī",
+              "meaning": "向西",
+              "type": "实词"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "攻占",
+              "type": "实词"
+            },
+            {
+              "word": "巴蜀",
+              "pinyin": "bā shǔ",
+              "meaning": "巴蜀地区",
+              "type": "地名"
+            },
+            {
+              "word": "东",
+              "pinyin": "dōng",
+              "meaning": "向东",
+              "type": "实词"
+            },
+            {
+              "word": "割",
+              "pinyin": "gē",
+              "meaning": "割取",
+              "type": "实词"
+            },
+            {
+              "word": "膏腴",
+              "pinyin": "gāo yú",
+              "meaning": "肥沃",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "收",
+              "pinyin": "shōu",
+              "meaning": "收取",
+              "type": "实词"
+            },
+            {
+              "word": "要害",
+              "pinyin": "yào hài",
+              "meaning": "重要",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "郡",
+              "pinyin": "jùn",
+              "meaning": "郡县",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诸侯恐惧，会盟而谋弱秦，不爱珍器、重宝、肥饶之地，以致天下之士，合从缔交，相与为一。",
+          "translation": "诸侯们感到恐惧，会集结盟谋划削弱秦国，不惜珍器、重宝和肥沃的土地，来招揽天下的士人，合纵缔结盟约，相互联合为一体。",
+          "words": [
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "各国君主",
+              "type": "实词"
+            },
+            {
+              "word": "恐惧",
+              "pinyin": "kǒng jù",
+              "meaning": "害怕",
+              "type": "实词"
+            },
+            {
+              "word": "会盟",
+              "pinyin": "huì méng",
+              "meaning": "会合结盟",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "谋",
+              "pinyin": "móu",
+              "meaning": "谋划",
+              "type": "实词"
+            },
+            {
+              "word": "弱",
+              "pinyin": "ruò",
+              "meaning": "削弱",
+              "type": "实词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "爱",
+              "pinyin": "ài",
+              "meaning": "吝惜",
+              "type": "实词"
+            },
+            {
+              "word": "珍器",
+              "pinyin": "zhēn qì",
+              "meaning": "珍贵器物",
+              "type": "实词"
+            },
+            {
+              "word": "重宝",
+              "pinyin": "zhòng bǎo",
+              "meaning": "贵重宝物",
+              "type": "实词"
+            },
+            {
+              "word": "肥饶",
+              "pinyin": "féi ráo",
+              "meaning": "肥沃富饶",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "致",
+              "pinyin": "zhì",
+              "meaning": "招致",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "人才",
+              "type": "实词"
+            },
+            {
+              "word": "合从",
+              "pinyin": "hé zòng",
+              "meaning": "合纵策略",
+              "type": "实词"
+            },
+            {
+              "word": "缔交",
+              "pinyin": "dì jiāo",
+              "meaning": "缔结联盟",
+              "type": "实词"
+            },
+            {
+              "word": "相与",
+              "pinyin": "xiāng yǔ",
+              "meaning": "共同",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "一体",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "当此之时，齐有孟尝，赵有平原，楚有春申，魏有信陵。",
+          "translation": "在这个时候，齐国有孟尝君，赵国有平原君，楚国有春申君，魏国有信陵君。",
+          "words": [
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "当",
+              "type": "虚词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "孟尝",
+              "pinyin": "mèng cháng",
+              "meaning": "孟尝君",
+              "type": "人名"
+            },
+            {
+              "word": "赵",
+              "pinyin": "zhào",
+              "meaning": "赵国",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "平原",
+              "pinyin": "píng yuán",
+              "meaning": "平原君",
+              "type": "人名"
+            },
+            {
+              "word": "楚",
+              "pinyin": "chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "春申",
+              "pinyin": "chūn shēn",
+              "meaning": "春申君",
+              "type": "人名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "信陵",
+              "pinyin": "xìn líng",
+              "meaning": "信陵君",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "此四君者，皆明智而忠信，宽厚而爱人，尊贤重士，约从离横，兼韩、魏、燕、赵、宋、卫、中山之众。",
+          "translation": "这四位君子，都明智而忠信，宽厚而爱护他人，尊重贤才重视士人，相约合纵离散连横，兼有韩、魏、燕、赵、宋、卫、中山等国的军队。",
+          "words": [
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "四君",
+              "pinyin": "sì jūn",
+              "meaning": "四位君主",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "明智",
+              "pinyin": "míng zhì",
+              "meaning": "聪明睿智",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "忠信",
+              "pinyin": "zhōng xìn",
+              "meaning": "忠诚守信",
+              "type": "实词"
+            },
+            {
+              "word": "宽厚",
+              "pinyin": "kuān hòu",
+              "meaning": "宽大厚道",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "爱人",
+              "pinyin": "ài rén",
+              "meaning": "爱护他人",
+              "type": "实词"
+            },
+            {
+              "word": "尊贤",
+              "pinyin": "zūn xián",
+              "meaning": "尊重贤人",
+              "type": "实词"
+            },
+            {
+              "word": "重士",
+              "pinyin": "zhòng shì",
+              "meaning": "重视士人",
+              "type": "实词"
+            },
+            {
+              "word": "约从",
+              "pinyin": "yuē zòng",
+              "meaning": "相约合纵",
+              "type": "实词"
+            },
+            {
+              "word": "离横",
+              "pinyin": "lí héng",
+              "meaning": "离散连横",
+              "type": "实词"
+            },
+            {
+              "word": "兼",
+              "pinyin": "jiān",
+              "meaning": "兼有",
+              "type": "实词"
+            },
+            {
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "韩国",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "燕",
+              "pinyin": "yān",
+              "meaning": "燕国",
+              "type": "地名"
+            },
+            {
+              "word": "赵",
+              "pinyin": "zhào",
+              "meaning": "赵国",
+              "type": "地名"
+            },
+            {
+              "word": "宋",
+              "pinyin": "sòng",
+              "meaning": "宋国",
+              "type": "地名"
+            },
+            {
+              "word": "卫",
+              "pinyin": "wèi",
+              "meaning": "卫国",
+              "type": "地名"
+            },
+            {
+              "word": "中山",
+              "pinyin": "zhōng shān",
+              "meaning": "中山国",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "众",
+              "pinyin": "zhòng",
+              "meaning": "军队",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "于是六国之士，有宁越、徐尚、苏秦、杜赫之属为之谋，齐明、周最、陈轸、召滑、楼绥、翟景、苏厉、乐毅之徒通其意，吴起、孙膑、带佗、儿良、王廖、田忌、廉颇、赵奢之伦制其兵。",
+          "translation": "于是六国的士人，有宁越、徐尚、苏秦、杜赫之类为他们谋划，齐明、周最、陈轸、召滑、楼绥、翟景、苏厉、乐毅之流传达他们的意图，吴起、孙膑、带佗、儿良、王廖、田忌、廉颇、赵奢之辈统率他们的军队。",
+          "words": [
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "六国",
+              "pinyin": "liù guó",
+              "meaning": "六个国家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "宁越",
+              "pinyin": "níng yuè",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "徐尚",
+              "pinyin": "xú shàng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "苏秦",
+              "pinyin": "sū qín",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "杜赫",
+              "pinyin": "dù hè",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "属",
+              "pinyin": "shǔ",
+              "meaning": "类",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "谋",
+              "pinyin": "móu",
+              "meaning": "谋划",
+              "type": "实词"
+            },
+            {
+              "word": "齐明",
+              "pinyin": "qí míng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "周最",
+              "pinyin": "zhōu zuì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "陈轸",
+              "pinyin": "chén zhěn",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "召滑",
+              "pinyin": "shào huá",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "楼绥",
+              "pinyin": "lóu suí",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "翟景",
+              "pinyin": "zhái jǐng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "苏厉",
+              "pinyin": "sū lì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "乐毅",
+              "pinyin": "yuè yì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "徒",
+              "pinyin": "tú",
+              "meaning": "类",
+              "type": "实词"
+            },
+            {
+              "word": "通",
+              "pinyin": "tōng",
+              "meaning": "沟通",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "实词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "意图",
+              "type": "实词"
+            },
+            {
+              "word": "吴起",
+              "pinyin": "wú qǐ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "孙膑",
+              "pinyin": "sūn bìn",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "带佗",
+              "pinyin": "dài tuó",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "儿良",
+              "pinyin": "ní liáng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "王廖",
+              "pinyin": "wáng liáo",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "田忌",
+              "pinyin": "tián jì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "廉颇",
+              "pinyin": "lián pō",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "赵奢",
+              "pinyin": "zhào shē",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "伦",
+              "pinyin": "lún",
+              "meaning": "类",
+              "type": "实词"
+            },
+            {
+              "word": "制",
+              "pinyin": "zhì",
+              "meaning": "统率",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "尝以十倍之地，百万之众，叩关而攻秦。",
+          "translation": "曾经以十倍的土地，百万的军队，攻打函谷关进攻秦国。",
+          "words": [
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "十倍",
+              "pinyin": "shí bèi",
+              "meaning": "十倍",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "百万",
+              "pinyin": "bǎi wàn",
+              "meaning": "百万",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "众",
+              "pinyin": "zhòng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "叩关",
+              "pinyin": "kòu guān",
+              "meaning": "攻打关隘",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "攻",
+              "pinyin": "gōng",
+              "meaning": "攻打",
+              "type": "实词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "秦人开关而延敌，九国之师遁逃而不敢进。",
+          "translation": "秦国人打开关门迎击敌人，九国的军队逃跑而不敢前进。",
+          "words": [
+            {
+              "word": "秦人",
+              "pinyin": "Qín rén",
+              "meaning": "秦国人",
+              "type": "实词"
+            },
+            {
+              "word": "开关",
+              "pinyin": "kāi guān",
+              "meaning": "打开关隘",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "延敌",
+              "pinyin": "yán dí",
+              "meaning": "迎击敌人",
+              "type": "实词"
+            },
+            {
+              "word": "九国",
+              "pinyin": "jiǔ guó",
+              "meaning": "九个诸侯国",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "遁逃",
+              "pinyin": "dùn táo",
+              "meaning": "逃跑",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定词",
+              "type": "虚词"
+            },
+            {
+              "word": "敢进",
+              "pinyin": "gǎn jìn",
+              "meaning": "敢于前进",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "秦无亡矢遗镞之费，而天下诸侯已困矣。",
+          "translation": "秦国没有损失一支箭、一个箭头，而天下的诸侯已经陷入困境。",
+          "words": [
+            {
+              "word": "秦",
+              "pinyin": "Qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "亡矢遗镞",
+              "pinyin": "wáng shǐ yí zú",
+              "meaning": "损失箭矢",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "费",
+              "pinyin": "fèi",
+              "meaning": "费用",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "天下诸侯",
+              "pinyin": "tiān xià zhū hóu",
+              "meaning": "天下诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "困",
+              "pinyin": "kùn",
+              "meaning": "困窘",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "于是从散约解，争割地而赂秦。",
+          "translation": "于是合纵解散，盟约瓦解，诸侯争相割让土地贿赂秦国。",
+          "words": [
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "在这时",
+              "type": "虚词"
+            },
+            {
+              "word": "从散约解",
+              "pinyin": "zòng sǎn yuē jiě",
+              "meaning": "合纵解散",
+              "type": "实词"
+            },
+            {
+              "word": "争割地",
+              "pinyin": "zhēng gē dì",
+              "meaning": "争着割地",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "赂秦",
+              "pinyin": "lù Qín",
+              "meaning": "贿赂秦国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "秦有馀力而制其敝，追亡逐北，伏尸百万，流血漂橹。",
+          "translation": "秦国有余力利用他们的疲惫，追击败逃的敌人，伏尸百万，流血漂浮起盾牌。",
+          "words": [
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "馀力",
+              "pinyin": "yú lì",
+              "meaning": "剩余力量",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "制",
+              "pinyin": "zhì",
+              "meaning": "控制",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "指敌人",
+              "type": "虚词"
+            },
+            {
+              "word": "敝",
+              "pinyin": "bì",
+              "meaning": "疲敝",
+              "type": "实词"
+            },
+            {
+              "word": "追亡逐北",
+              "pinyin": "zhuī wáng zhú běi",
+              "meaning": "追击败敌",
+              "type": "典故"
+            },
+            {
+              "word": "伏尸百万",
+              "pinyin": "fú shī bǎi wàn",
+              "meaning": "尸体遍地",
+              "type": "实词"
+            },
+            {
+              "word": "流血漂橹",
+              "pinyin": "liú xuè piāo lǔ",
+              "meaning": "血流成河",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "因利乘便，宰割天下，分裂河山。",
+          "translation": "趁着便利的形势，宰割天下，分裂河山。",
+          "words": [
+            {
+              "word": "因利乘便",
+              "pinyin": "yīn lì chéng biàn",
+              "meaning": "趁着便利",
+              "type": "典故"
+            },
+            {
+              "word": "宰割天下",
+              "pinyin": "zǎi gē tiān xià",
+              "meaning": "宰割天下",
+              "type": "实词"
+            },
+            {
+              "word": "分裂河山",
+              "pinyin": "fēn liè hé shān",
+              "meaning": "分裂河山",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "强国请服，弱国入朝。",
+          "translation": "强国请求臣服，弱国前来朝拜。",
+          "words": [
+            {
+              "word": "强国",
+              "pinyin": "qiáng guó",
+              "meaning": "强大国家",
+              "type": "实词"
+            },
+            {
+              "word": "请服",
+              "pinyin": "qǐng fú",
+              "meaning": "请求臣服",
+              "type": "实词"
+            },
+            {
+              "word": "弱国",
+              "pinyin": "ruò guó",
+              "meaning": "弱小国家",
+              "type": "实词"
+            },
+            {
+              "word": "入朝",
+              "pinyin": "rù cháo",
+              "meaning": "入朝称臣",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "施及孝文王、庄襄王，享国日浅，国家无事。",
+      "translation": "延续到孝文王和庄襄王时期，他们在位时间短，国家太平无事。",
+      "sentences": [
+        {
+          "original": "施及孝文王、庄襄王，享国日浅，国家无事。",
+          "translation": "延续到孝文王和庄襄王时期，他们在位时间短，国家太平无事。",
+          "words": [
+            {
+              "word": "施及",
+              "pinyin": "shī jí",
+              "meaning": "延续到",
+              "type": "实词"
+            },
+            {
+              "word": "孝文王",
+              "pinyin": "xiào wén wáng",
+              "meaning": "秦孝文王",
+              "type": "人名"
+            },
+            {
+              "word": "庄襄王",
+              "pinyin": "zhuāng xiāng wáng",
+              "meaning": "秦庄襄王",
+              "type": "人名"
+            },
+            {
+              "word": "享国",
+              "pinyin": "xiǎng guó",
+              "meaning": "在位",
+              "type": "实词"
+            },
+            {
+              "word": "日浅",
+              "pinyin": "rì qiǎn",
+              "meaning": "时间短",
+              "type": "实词"
+            },
+            {
+              "word": "国家",
+              "pinyin": "guó jiā",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "无事",
+              "pinyin": "wú shì",
+              "meaning": "没有事",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "及至始皇，奋六世之馀烈，振长策而御宇内，吞二周而亡诸侯，履至尊而制六合，执敲扑以鞭笞天下，威振四海。南取百越之地，以为桂林、象郡；百越之君，俯首系颈，委命下吏。乃使蒙恬北筑长城而守藩篱，却匈奴七百馀里。胡人不敢南下而牧马，士不敢弯弓而报怨。于是废先王之道，燔百家之言，以愚黔首；隳名城，杀豪俊，收天下之兵聚之咸阳，销锋𫔂，铸以为金人十二，以弱天下之民。然后践华为城，因河为池，据亿丈之城、临不测之溪以固。良将劲弩，守要害之处；信臣精卒，陈利兵而谁何。天下已定，始皇之心，自以为关中之固，金城千里，子孙帝王万世之业也。始皇既没，馀威震于殊俗。",
+      "translation": "等到秦始皇，他发扬六世遗留下来的功业，挥动长鞭来驾驭天下，吞并了东周和西周，灭亡了诸侯各国，登上皇帝的宝座来控制天地四方，用严酷的刑罚来奴役天下百姓，威势震慑四海。向南攻取了百越的土地，设置了桂林郡和象郡；百越的君主，低着头，脖子上系着绳子，把自己的性命交给秦朝的下级官吏。于是派遣蒙恬在北边修筑长城来守卫边疆，使匈奴退却七百多里。胡人不敢南下放牧，士兵不敢拉弓射箭来报仇。于是废除了古代帝王的治国之道，焚烧了诸子百家的书籍，以使百姓愚昧；毁坏著名的城池，杀害英雄豪杰，收集天下的兵器聚集到咸阳，销毁刀刃和箭头，铸造了十二个铜人，以削弱天下百姓的反抗力量。然后凭借华山作为城墙，依据黄河作为护城河，占据亿丈高的城墙，下临深不可测的溪流来巩固防御。优秀的将领手持强弓，守卫着要害的地方；可靠的臣子和精锐的士兵，陈列着锋利的兵器，盘查过往的行人。天下已经平定，秦始皇的心里，自认为关中地区坚固，像金属铸成的城墙绵延千里，是子孙称帝称王万代的基业。秦始皇死后，余威依然震慑着边远地区。",
+      "sentences": [
+        {
+          "original": "及至始皇，奋六世之馀烈，振长策而御宇内，吞二周而亡诸侯，履至尊而制六合，执敲扑以鞭笞天下，威振四海。",
+          "translation": "等到秦始皇，他发扬六世遗留下来的功业，挥动长鞭来驾驭天下，吞并了东周和西周，灭亡了诸侯各国，登上皇帝的宝座来控制天地四方，用严酷的刑罚来奴役天下百姓，威势震慑四海。",
+          "words": [
+            {
+              "word": "及至",
+              "pinyin": "jí zhì",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "始皇",
+              "pinyin": "shǐ huáng",
+              "meaning": "秦始皇",
+              "type": "人名"
+            },
+            {
+              "word": "奋",
+              "pinyin": "fèn",
+              "meaning": "发扬",
+              "type": "实词"
+            },
+            {
+              "word": "六世",
+              "pinyin": "liù shì",
+              "meaning": "六代君王",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "馀烈",
+              "pinyin": "yú liè",
+              "meaning": "遗留功业",
+              "type": "实词"
+            },
+            {
+              "word": "振",
+              "pinyin": "zhèn",
+              "meaning": "挥动",
+              "type": "实词"
+            },
+            {
+              "word": "长策",
+              "pinyin": "cháng cè",
+              "meaning": "长鞭",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "御",
+              "pinyin": "yù",
+              "meaning": "驾驭",
+              "type": "实词"
+            },
+            {
+              "word": "宇内",
+              "pinyin": "yǔ nèi",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "吞",
+              "pinyin": "tūn",
+              "meaning": "吞并",
+              "type": "实词"
+            },
+            {
+              "word": "二周",
+              "pinyin": "èr zhōu",
+              "meaning": "东周西周",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "从而",
+              "type": "虚词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国",
+              "type": "实词"
+            },
+            {
+              "word": "履",
+              "pinyin": "lǚ",
+              "meaning": "登上",
+              "type": "实词"
+            },
+            {
+              "word": "至尊",
+              "pinyin": "zhì zūn",
+              "meaning": "帝位",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "制",
+              "pinyin": "zhì",
+              "meaning": "控制",
+              "type": "实词"
+            },
+            {
+              "word": "六合",
+              "pinyin": "liù hé",
+              "meaning": "天地四方",
+              "type": "实词"
+            },
+            {
+              "word": "执",
+              "pinyin": "zhí",
+              "meaning": "拿着",
+              "type": "实词"
+            },
+            {
+              "word": "敲扑",
+              "pinyin": "qiāo pū",
+              "meaning": "刑具",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "鞭笞",
+              "pinyin": "biān chī",
+              "meaning": "鞭打",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            },
+            {
+              "word": "威",
+              "pinyin": "wēi",
+              "meaning": "威势",
+              "type": "实词"
+            },
+            {
+              "word": "振",
+              "pinyin": "zhèn",
+              "meaning": "震动",
+              "type": "实词"
+            },
+            {
+              "word": "四海",
+              "pinyin": "sì hǎi",
+              "meaning": "天下",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "南取百越之地，以为桂林、象郡；百越之君，俯首系颈，委命下吏。",
+          "translation": "向南攻取了百越的土地，设置了桂林郡和象郡；百越的君主，低着头，脖子上系着绳子，把自己的性命交给秦朝的下级官吏。",
+          "words": [
+            {
+              "word": "南",
+              "pinyin": "nán",
+              "meaning": "向南",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "攻取",
+              "type": "实词"
+            },
+            {
+              "word": "百越",
+              "pinyin": "bǎi yuè",
+              "meaning": "百越地区",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "把...作为",
+              "type": "虚词"
+            },
+            {
+              "word": "桂林",
+              "pinyin": "guì lín",
+              "meaning": "桂林郡",
+              "type": "地名"
+            },
+            {
+              "word": "象郡",
+              "pinyin": "xiàng jùn",
+              "meaning": "象郡",
+              "type": "地名"
+            },
+            {
+              "word": "百越",
+              "pinyin": "bǎi yuè",
+              "meaning": "百越地区",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "俯首",
+              "pinyin": "fǔ shǒu",
+              "meaning": "低头",
+              "type": "实词"
+            },
+            {
+              "word": "系颈",
+              "pinyin": "xì jǐng",
+              "meaning": "绳系脖颈",
+              "type": "实词"
+            },
+            {
+              "word": "委命",
+              "pinyin": "wěi mìng",
+              "meaning": "委托性命",
+              "type": "实词"
+            },
+            {
+              "word": "下吏",
+              "pinyin": "xià lì",
+              "meaning": "下级官吏",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "乃使蒙恬北筑长城而守藩篱，却匈奴七百馀里。",
+          "translation": "于是派遣蒙恬在北边修筑长城来守卫边疆，使匈奴退却七百多里。",
+          "words": [
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "蒙恬",
+              "pinyin": "méng tián",
+              "meaning": "蒙恬",
+              "type": "人名"
+            },
+            {
+              "word": "北",
+              "pinyin": "běi",
+              "meaning": "在北方",
+              "type": "实词"
+            },
+            {
+              "word": "筑",
+              "pinyin": "zhù",
+              "meaning": "修筑",
+              "type": "实词"
+            },
+            {
+              "word": "长城",
+              "pinyin": "cháng chéng",
+              "meaning": "长城",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "守卫",
+              "type": "实词"
+            },
+            {
+              "word": "藩篱",
+              "pinyin": "fān lí",
+              "meaning": "屏障",
+              "type": "实词"
+            },
+            {
+              "word": "却",
+              "pinyin": "què",
+              "meaning": "击退",
+              "type": "实词"
+            },
+            {
+              "word": "匈奴",
+              "pinyin": "xiōng nú",
+              "meaning": "匈奴",
+              "type": "地名"
+            },
+            {
+              "word": "七百馀里",
+              "pinyin": "qī bǎi yú lǐ",
+              "meaning": "七百多里",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "胡人不敢南下而牧马，士不敢弯弓而报怨。",
+          "translation": "胡人不敢南下放牧，士兵不敢拉弓射箭来报仇。",
+          "words": [
+            {
+              "word": "胡人",
+              "pinyin": "hú rén",
+              "meaning": "北方少数民族",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢于",
+              "type": "实词"
+            },
+            {
+              "word": "南下",
+              "pinyin": "nán xià",
+              "meaning": "向南进军",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "牧马",
+              "pinyin": "mù mǎ",
+              "meaning": "放牧马匹",
+              "type": "实词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士兵",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢于",
+              "type": "实词"
+            },
+            {
+              "word": "弯弓",
+              "pinyin": "wān gōng",
+              "meaning": "拉开弓",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "报怨",
+              "pinyin": "bào yuàn",
+              "meaning": "报复仇怨",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "于是废先王之道，燔百家之言，以愚黔首；隳名城，杀豪俊，收天下之兵聚之咸阳，销锋𫔂，铸以为金人十二，以弱天下之民。",
+          "translation": "于是废除了古代帝王的治国之道，焚烧了诸子百家的书籍，以使百姓愚昧；毁坏著名的城池，杀害英雄豪杰，收集天下的兵器聚集到咸阳，销毁刀刃和箭头，铸造了十二个铜人，以削弱天下百姓的反抗力量。",
+          "words": [
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "废",
+              "pinyin": "fèi",
+              "meaning": "废弃",
+              "type": "实词"
+            },
+            {
+              "word": "先王",
+              "pinyin": "xiān wáng",
+              "meaning": "古代帝王",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "治国之道",
+              "type": "实词"
+            },
+            {
+              "word": "燔",
+              "pinyin": "fán",
+              "meaning": "焚烧",
+              "type": "实词"
+            },
+            {
+              "word": "百家",
+              "pinyin": "bǎi jiā",
+              "meaning": "诸子百家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "言论",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "愚",
+              "pinyin": "yú",
+              "meaning": "使愚昧",
+              "type": "实词"
+            },
+            {
+              "word": "黔首",
+              "pinyin": "qián shǒu",
+              "meaning": "百姓",
+              "type": "典故"
+            },
+            {
+              "word": "隳",
+              "pinyin": "huī",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "名城",
+              "pinyin": "míng chéng",
+              "meaning": "著名城池",
+              "type": "实词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀害",
+              "type": "实词"
+            },
+            {
+              "word": "豪俊",
+              "pinyin": "háo jùn",
+              "meaning": "英雄豪杰",
+              "type": "实词"
+            },
+            {
+              "word": "收",
+              "pinyin": "shōu",
+              "meaning": "收集",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "兵器",
+              "type": "实词"
+            },
+            {
+              "word": "聚",
+              "pinyin": "jù",
+              "meaning": "聚集",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "咸阳",
+              "pinyin": "xián yáng",
+              "meaning": "秦都城",
+              "type": "地名"
+            },
+            {
+              "word": "销",
+              "pinyin": "xiāo",
+              "meaning": "熔化",
+              "type": "实词"
+            },
+            {
+              "word": "锋𫔂",
+              "pinyin": "fēng dí",
+              "meaning": "兵器",
+              "type": "实词"
+            },
+            {
+              "word": "铸",
+              "pinyin": "zhù",
+              "meaning": "铸造",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "用来作为",
+              "type": "虚词"
+            },
+            {
+              "word": "金人",
+              "pinyin": "jīn rén",
+              "meaning": "铜人",
+              "type": "实词"
+            },
+            {
+              "word": "十二",
+              "pinyin": "shí èr",
+              "meaning": "十二个",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "弱",
+              "pinyin": "ruò",
+              "meaning": "削弱",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "人民",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "然后践华为城，因河为池，据亿丈之城、临不测之溪以固。",
+          "translation": "然后凭借华山作为城墙，依据黄河作为护城河，占据亿丈高的城墙，下临深不可测的溪流来巩固防御。",
+          "words": [
+            {
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "这样以后",
+              "type": "虚词"
+            },
+            {
+              "word": "践",
+              "pinyin": "jiàn",
+              "meaning": "踏据",
+              "type": "实词"
+            },
+            {
+              "word": "华",
+              "pinyin": "huà",
+              "meaning": "华山",
+              "type": "地名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "城",
+              "pinyin": "chéng",
+              "meaning": "城墙",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "凭借",
+              "type": "实词"
+            },
+            {
+              "word": "河",
+              "pinyin": "hé",
+              "meaning": "黄河",
+              "type": "地名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "池",
+              "pinyin": "chí",
+              "meaning": "护城河",
+              "type": "实词"
+            },
+            {
+              "word": "据",
+              "pinyin": "jù",
+              "meaning": "占据",
+              "type": "实词"
+            },
+            {
+              "word": "亿丈",
+              "pinyin": "yì zhàng",
+              "meaning": "极高",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "城",
+              "pinyin": "chéng",
+              "meaning": "城墙",
+              "type": "实词"
+            },
+            {
+              "word": "临",
+              "pinyin": "lín",
+              "meaning": "面对",
+              "type": "实词"
+            },
+            {
+              "word": "不测",
+              "pinyin": "bù cè",
+              "meaning": "深不可测",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "溪",
+              "pinyin": "xī",
+              "meaning": "溪流",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "巩固",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "良将劲弩，守要害之处；信臣精卒，陈利兵而谁何。",
+          "translation": "优秀的将领手持强弓，守卫着要害的地方；可靠的臣子和精锐的士兵，陈列着锋利的兵器，盘查过往的行人。",
+          "words": [
+            {
+              "word": "良将",
+              "pinyin": "liáng jiàng",
+              "meaning": "优秀的将领",
+              "type": "实词"
+            },
+            {
+              "word": "劲弩",
+              "pinyin": "jìn nǔ",
+              "meaning": "强劲的弓弩",
+              "type": "实词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "守卫",
+              "type": "实词"
+            },
+            {
+              "word": "要害",
+              "pinyin": "yào hài",
+              "meaning": "关键部位",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "处",
+              "pinyin": "chù",
+              "meaning": "地方",
+              "type": "实词"
+            },
+            {
+              "word": "信臣",
+              "pinyin": "xìn chén",
+              "meaning": "可靠的臣子",
+              "type": "实词"
+            },
+            {
+              "word": "精卒",
+              "pinyin": "jīng zú",
+              "meaning": "精锐的士兵",
+              "type": "实词"
+            },
+            {
+              "word": "陈",
+              "pinyin": "chén",
+              "meaning": "陈列",
+              "type": "实词"
+            },
+            {
+              "word": "利兵",
+              "pinyin": "lì bīng",
+              "meaning": "锋利的兵器",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "谁何",
+              "pinyin": "shuí hé",
+              "meaning": "谁敢怎样",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "天下已定，始皇之心，自以为关中之固，金城千里，子孙帝王万世之业也。",
+          "translation": "天下已经平定，秦始皇的心里，自认为关中地区坚固，像金属铸成的城墙绵延千里，是子孙称帝称王万代的基业。",
+          "words": [
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "定",
+              "pinyin": "dìng",
+              "meaning": "安定",
+              "type": "实词"
+            },
+            {
+              "word": "始皇",
+              "pinyin": "shǐ huáng",
+              "meaning": "秦始皇",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "心思",
+              "type": "实词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "认为",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "关中",
+              "pinyin": "guān zhōng",
+              "meaning": "关中地区",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "坚固",
+              "type": "实词"
+            },
+            {
+              "word": "金城",
+              "pinyin": "jīn chéng",
+              "meaning": "坚固的城墙",
+              "type": "实词"
+            },
+            {
+              "word": "千里",
+              "pinyin": "qiān lǐ",
+              "meaning": "千里广阔",
+              "type": "实词"
+            },
+            {
+              "word": "子孙",
+              "pinyin": "zǐ sūn",
+              "meaning": "子孙",
+              "type": "实词"
+            },
+            {
+              "word": "帝王",
+              "pinyin": "dì wáng",
+              "meaning": "帝王",
+              "type": "实词"
+            },
+            {
+              "word": "万世",
+              "pinyin": "wàn shì",
+              "meaning": "万代",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "业",
+              "pinyin": "yè",
+              "meaning": "基业",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "始皇既没，馀威震于殊俗。",
+          "translation": "秦始皇死后，余威依然震慑着边远地区。",
+          "words": [
+            {
+              "word": "始皇",
+              "pinyin": "shǐ huáng",
+              "meaning": "秦始皇",
+              "type": "人名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "没",
+              "pinyin": "mò",
+              "meaning": "去世",
+              "type": "实词"
+            },
+            {
+              "word": "馀威",
+              "pinyin": "yú wēi",
+              "meaning": "剩余的威势",
+              "type": "实词"
+            },
+            {
+              "word": "震",
+              "pinyin": "zhèn",
+              "meaning": "震动",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "殊俗",
+              "pinyin": "shū sú",
+              "meaning": "边远地区",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "然而，陈涉，瓮牖绳枢之子，氓隶之人，而迁徙之徒也；材能不及中庸，非有仲尼、墨翟之贤，陶朱、猗顿之富；蹑足行伍之间，俯起阡陌之中，率罢弊之卒，将数百之众，转而攻秦。斩木为兵，揭竿为旗，天下云集而响应，赢粮而景从，山东豪俊遂并起，而亡秦族矣。",
+      "translation": "然而，陈涉是一个用破瓮做窗户、用绳子系门轴的穷苦人家的子弟，是氓隶一类的人，而且是被征发戍边的迁徙之徒；才能不及中等水平，没有孔子、墨子的贤能，也没有陶朱、猗顿的财富；他置身于戍卒的队伍中，从田野间突然奋起，率领着疲惫的士兵，带领着几百人，转而进攻秦国。砍下树木作为兵器，举起竹竿作为旗帜，天下人像云一样聚集响应，背着粮食如影随形地跟随，崤山以东的英雄豪杰于是一齐起事，灭亡了秦朝。",
+      "sentences": [
+        {
+          "original": "然而，陈涉，瓮牖绳枢之子，氓隶之人，而迁徙之徒也；",
+          "translation": "然而，陈涉是一个用破瓮做窗户、用绳子系门轴的穷苦人家的子弟，是氓隶一类的人，而且是被征发戍边的迁徙之徒；",
+          "words": [
+            {
+              "word": "然而",
+              "pinyin": "rán ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "陈涉",
+              "pinyin": "Chén Shè",
+              "meaning": "陈胜",
+              "type": "人名"
+            },
+            {
+              "word": "瓮牖",
+              "pinyin": "wèng yǒu",
+              "meaning": "破瓮窗户",
+              "type": "实词"
+            },
+            {
+              "word": "绳枢",
+              "pinyin": "shéng shū",
+              "meaning": "绳子门轴",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "氓隶",
+              "pinyin": "máng lì",
+              "meaning": "平民奴隶",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "迁徙",
+              "pinyin": "qiān xǐ",
+              "meaning": "迁移征发",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "徒",
+              "pinyin": "tú",
+              "meaning": "一类人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "材能不及中庸，非有仲尼、墨翟之贤，陶朱、猗顿之富；",
+          "translation": "才能不及中等水平，没有孔子、墨子的贤能，也没有陶朱、猗顿的财富；",
+          "words": [
+            {
+              "word": "材能",
+              "pinyin": "cái néng",
+              "meaning": "才能",
+              "type": "实词"
+            },
+            {
+              "word": "不及",
+              "pinyin": "bù jí",
+              "meaning": "不如",
+              "type": "实词"
+            },
+            {
+              "word": "中庸",
+              "pinyin": "zhōng yōng",
+              "meaning": "中等水平",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "仲尼",
+              "pinyin": "Zhòng Ní",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "墨翟",
+              "pinyin": "Mò Dí",
+              "meaning": "墨子",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "陶朱",
+              "pinyin": "Táo Zhū",
+              "meaning": "范蠡",
+              "type": "人名"
+            },
+            {
+              "word": "猗顿",
+              "pinyin": "Yī Dùn",
+              "meaning": "富商",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "富",
+              "pinyin": "fù",
+              "meaning": "财富",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "蹑足行伍之间，俯起阡陌之中，率罢弊之卒，将数百之众，转而攻秦。",
+          "translation": "他置身于戍卒的队伍中，从田野间突然奋起，率领着疲惫的士兵，带领着几百人，转而进攻秦国。",
+          "words": [
+            {
+              "word": "蹑足",
+              "pinyin": "niè zú",
+              "meaning": "插足参与",
+              "type": "实词"
+            },
+            {
+              "word": "行伍",
+              "pinyin": "háng wǔ",
+              "meaning": "军队行列",
+              "type": "实词"
+            },
+            {
+              "word": "之间",
+              "pinyin": "zhī jiān",
+              "meaning": "中间",
+              "type": "虚词"
+            },
+            {
+              "word": "俯起",
+              "pinyin": "fǔ qǐ",
+              "meaning": "兴起于",
+              "type": "实词"
+            },
+            {
+              "word": "阡陌",
+              "pinyin": "qiān mò",
+              "meaning": "田间小路",
+              "type": "实词"
+            },
+            {
+              "word": "之中",
+              "pinyin": "zhī zhōng",
+              "meaning": "之中",
+              "type": "虚词"
+            },
+            {
+              "word": "率",
+              "pinyin": "shuài",
+              "meaning": "率领",
+              "type": "实词"
+            },
+            {
+              "word": "罢弊",
+              "pinyin": "pí bì",
+              "meaning": "疲惫",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "士兵",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "带领",
+              "type": "实词"
+            },
+            {
+              "word": "数百",
+              "pinyin": "shù bǎi",
+              "meaning": "几百",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "众",
+              "pinyin": "zhòng",
+              "meaning": "众人",
+              "type": "实词"
+            },
+            {
+              "word": "转而",
+              "pinyin": "zhuǎn ér",
+              "meaning": "转而",
+              "type": "虚词"
+            },
+            {
+              "word": "攻秦",
+              "pinyin": "gōng Qín",
+              "meaning": "攻打秦国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "斩木为兵，揭竿为旗，天下云集而响应，赢粮而景从，山东豪俊遂并起，而亡秦族矣。",
+          "translation": "砍下树木作为兵器，举起竹竿作为旗帜，天下人像云一样聚集响应，背着粮食如影随形地跟随，崤山以东的英雄豪杰于是一齐起事，灭亡了秦朝。",
+          "words": [
+            {
+              "word": "斩木",
+              "pinyin": "zhǎn mù",
+              "meaning": "砍伐树木",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "兵器",
+              "type": "实词"
+            },
+            {
+              "word": "揭竿",
+              "pinyin": "jiē gān",
+              "meaning": "举起竹竿",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "旗",
+              "pinyin": "qí",
+              "meaning": "旗帜",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下人",
+              "type": "实词"
+            },
+            {
+              "word": "云集",
+              "pinyin": "yún jí",
+              "meaning": "像云一样聚集",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "响应",
+              "pinyin": "xiǎng yìng",
+              "meaning": "回声应和",
+              "type": "实词"
+            },
+            {
+              "word": "赢粮",
+              "pinyin": "yíng liáng",
+              "meaning": "担负粮食",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "地",
+              "type": "虚词"
+            },
+            {
+              "word": "景从",
+              "pinyin": "yǐng cóng",
+              "meaning": "像影子跟随",
+              "type": "实词"
+            },
+            {
+              "word": "山东",
+              "pinyin": "shān dōng",
+              "meaning": "崤山以东",
+              "type": "地名"
+            },
+            {
+              "word": "豪俊",
+              "pinyin": "háo jùn",
+              "meaning": "豪杰",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "并起",
+              "pinyin": "bìng qǐ",
+              "meaning": "一同起义",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "从而",
+              "type": "虚词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "秦族",
+              "pinyin": "qín zú",
+              "meaning": "秦朝宗族",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "且夫天下非小弱也，雍州之地，殽函之固，自若也；陈涉之位不尊于齐、楚、燕、赵、韩、魏、宋、卫、中山之君也；锄、耰、棘矜，不铦于钩、戟、长铩也；谪戍之众，非抗于九国之师也；深谋远虑，行军用兵之道，非及曩时之士也。然而成败异变，功业相反。",
+      "translation": "况且，天下并没有变小变弱，雍州的土地，殽山和函谷关的险固，依然如故；陈涉的地位并不比齐、楚、燕、赵、韩、魏、宋、卫、中山的君主尊贵；锄头、木棍、棘木做的矛，并不比钩、戟、长铩锋利；被征发戍边的士卒，并不能与九国的军队抗衡；深谋远虑，行军用兵的策略，也比不上过去的谋士。然而成功和失败却发生了变化，功业完全相反。",
+      "sentences": [
+        {
+          "original": "且夫天下非小弱也，雍州之地，殽函之固，自若也；",
+          "translation": "况且，天下并没有变小变弱，雍州的土地，殽山和函谷关的险固，依然如故。",
+          "words": [
+            {
+              "word": "且夫",
+              "pinyin": "qiě fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "小弱",
+              "pinyin": "xiǎo ruò",
+              "meaning": "弱小",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "雍州",
+              "pinyin": "yōng zhōu",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "殽函",
+              "pinyin": "xiáo hán",
+              "meaning": "殽山函谷关",
+              "type": "地名"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "坚固",
+              "type": "实词"
+            },
+            {
+              "word": "自若",
+              "pinyin": "zì ruò",
+              "meaning": "如常",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "陈涉之位不尊于齐、楚、燕、赵、韩、魏、宋、卫、中山之君也；",
+          "translation": "陈涉的地位并不比齐、楚、燕、赵、韩、魏、宋、卫、中山的君主尊贵。",
+          "words": [
+            {
+              "word": "陈涉",
+              "pinyin": "chén shè",
+              "meaning": "陈胜",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "位",
+              "pinyin": "wèi",
+              "meaning": "地位",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "尊",
+              "pinyin": "zūn",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "比",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "楚",
+              "pinyin": "chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "燕",
+              "pinyin": "yān",
+              "meaning": "燕国",
+              "type": "地名"
+            },
+            {
+              "word": "赵",
+              "pinyin": "zhào",
+              "meaning": "赵国",
+              "type": "地名"
+            },
+            {
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "韩国",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "宋",
+              "pinyin": "sòng",
+              "meaning": "宋国",
+              "type": "地名"
+            },
+            {
+              "word": "卫",
+              "pinyin": "wèi",
+              "meaning": "卫国",
+              "type": "地名"
+            },
+            {
+              "word": "中山",
+              "pinyin": "zhōng shān",
+              "meaning": "中山国",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "锄、耰、棘矜，不铦于钩、戟、长铩也；",
+          "translation": "锄头、木棍、棘木做的矛，并不比钩、戟、长铩锋利。",
+          "words": [
+            {
+              "word": "锄",
+              "pinyin": "chú",
+              "meaning": "锄头",
+              "type": "实词"
+            },
+            {
+              "word": "耰",
+              "pinyin": "yōu",
+              "meaning": "农具",
+              "type": "实词"
+            },
+            {
+              "word": "棘矜",
+              "pinyin": "jí qín",
+              "meaning": "棘木杖",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "铦",
+              "pinyin": "xiān",
+              "meaning": "锋利",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "比",
+              "type": "虚词"
+            },
+            {
+              "word": "钩",
+              "pinyin": "gōu",
+              "meaning": "钩兵器",
+              "type": "实词"
+            },
+            {
+              "word": "戟",
+              "pinyin": "jǐ",
+              "meaning": "戟兵器",
+              "type": "实词"
+            },
+            {
+              "word": "长铩",
+              "pinyin": "cháng shā",
+              "meaning": "长矛",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "谪戍之众，非抗于九国之师也；",
+          "translation": "被征发戍边的士卒，并不能与九国的军队抗衡。",
+          "words": [
+            {
+              "word": "谪戍",
+              "pinyin": "zhé shù",
+              "meaning": "贬谪戍边",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "众",
+              "pinyin": "zhòng",
+              "meaning": "众人",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "抗",
+              "pinyin": "kàng",
+              "meaning": "抗衡",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "比",
+              "type": "虚词"
+            },
+            {
+              "word": "九国",
+              "pinyin": "jiǔ guó",
+              "meaning": "九个国家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "深谋远虑，行军用兵之道，非及曩时之士也。",
+          "translation": "深谋远虑，行军用兵的策略，也比不上过去的谋士。",
+          "words": [
+            {
+              "word": "深谋",
+              "pinyin": "shēn móu",
+              "meaning": "深远的谋划",
+              "type": "实词"
+            },
+            {
+              "word": "远虑",
+              "pinyin": "yuǎn lǜ",
+              "meaning": "长远的考虑",
+              "type": "实词"
+            },
+            {
+              "word": "行军",
+              "pinyin": "xíng jūn",
+              "meaning": "行军",
+              "type": "实词"
+            },
+            {
+              "word": "用兵",
+              "pinyin": "yòng bīng",
+              "meaning": "用兵",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "方法",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "比得上",
+              "type": "实词"
+            },
+            {
+              "word": "曩时",
+              "pinyin": "nǎng shí",
+              "meaning": "从前",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "然而成败异变，功业相反。",
+          "translation": "然而成功和失败却发生了变化，功业完全相反。",
+          "words": [
+            {
+              "word": "然而",
+              "pinyin": "rán ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "成败",
+              "pinyin": "chéng bài",
+              "meaning": "成功失败",
+              "type": "实词"
+            },
+            {
+              "word": "异变",
+              "pinyin": "yì biàn",
+              "meaning": "不同变化",
+              "type": "实词"
+            },
+            {
+              "word": "功业",
+              "pinyin": "gōng yè",
+              "meaning": "功业",
+              "type": "实词"
+            },
+            {
+              "word": "相反",
+              "pinyin": "xiāng fǎn",
+              "meaning": "相反",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "试使山东之国，与陈涉度长絜大，比权量力，则不可同年而语矣。然秦以区区之地，致万乘之权，招八州而朝同列，百有馀年矣。然后以六合为家，殽函为宫。一夫作难而七庙隳，身死人手，为天下笑者，何也？仁义不施，而攻守之势异也！",
+      "translation": "假如让崤山以东的各国与陈涉比较长短大小，权衡权力实力，那就不能相提并论了。然而秦国凭借小小的地方，达到万乘的权力，招来八州使同列朝拜，有一百多年了。然后以天下为家，殽山和函谷关为宫。一个普通人发难，宗庙就被毁，自己死在别人手里，被天下人耻笑，为什么呢？不施行仁义，而攻守的形势不同了。",
+      "sentences": [
+        {
+          "original": "试使山东之国，与陈涉度长絜大，比权量力，则不可同年而语矣。",
+          "translation": "假如让崤山以东的各国与陈涉比较长短大小，权衡权力实力，那就不能相提并论了。",
+          "words": [
+            {
+              "word": "试使",
+              "pinyin": "shì shǐ",
+              "meaning": "假使",
+              "type": "虚词"
+            },
+            {
+              "word": "山东",
+              "pinyin": "shān dōng",
+              "meaning": "崤山以东",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "陈涉",
+              "pinyin": "chén shè",
+              "meaning": "陈胜",
+              "type": "人名"
+            },
+            {
+              "word": "度长絜大",
+              "pinyin": "duó cháng xié dà",
+              "meaning": "比较长短大小",
+              "type": "典故"
+            },
+            {
+              "word": "比权量力",
+              "pinyin": "bǐ quán liàng lì",
+              "meaning": "比较权力力量",
+              "type": "典故"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "不可同年而语",
+              "pinyin": "bù kě tóng nián ér yǔ",
+              "meaning": "不能相提并论",
+              "type": "典故"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "然秦以区区之地，致万乘之权，招八州而朝同列，百有馀年矣。",
+          "translation": "然而秦国凭借小小的地方，达到万乘的权力，招来八州使同列朝拜，有一百多年了。",
+          "words": [
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "区区",
+              "pinyin": "qū qū",
+              "meaning": "小小的",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "致",
+              "pinyin": "zhì",
+              "meaning": "获得",
+              "type": "实词"
+            },
+            {
+              "word": "万乘",
+              "pinyin": "wàn shèng",
+              "meaning": "万辆兵车",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "权",
+              "pinyin": "quán",
+              "meaning": "权力",
+              "type": "实词"
+            },
+            {
+              "word": "招",
+              "pinyin": "zhāo",
+              "meaning": "招致",
+              "type": "实词"
+            },
+            {
+              "word": "八州",
+              "pinyin": "bā zhōu",
+              "meaning": "天下",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "使朝拜",
+              "type": "实词"
+            },
+            {
+              "word": "同列",
+              "pinyin": "tóng liè",
+              "meaning": "同辈诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "百",
+              "pinyin": "bǎi",
+              "meaning": "一百",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "馀年",
+              "pinyin": "yú nián",
+              "meaning": "多年",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "然后以六合为家，殽函为宫。",
+          "translation": "然后以天下为家，殽山和函谷关为宫。",
+          "words": [
+            {
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "这样以后",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "把",
+              "type": "虚词"
+            },
+            {
+              "word": "六合",
+              "pinyin": "liù hé",
+              "meaning": "天下",
+              "type": "典故"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "家",
+              "pinyin": "jiā",
+              "meaning": "家业",
+              "type": "实词"
+            },
+            {
+              "word": "殽函",
+              "pinyin": "xiáo hán",
+              "meaning": "殽山函谷关",
+              "type": "地名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "宫",
+              "pinyin": "gōng",
+              "meaning": "宫殿",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "一夫作难而七庙隳，身死人手，为天下笑者，何也？",
+          "translation": "一个普通人发难，宗庙就被毁，自己死在别人手里，被天下人耻笑，为什么呢？",
+          "words": [
+            {
+              "word": "一夫",
+              "pinyin": "yī fū",
+              "meaning": "一个人",
+              "type": "实词"
+            },
+            {
+              "word": "作难",
+              "pinyin": "zuò nàn",
+              "meaning": "起事",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，转折",
+              "type": "虚词"
+            },
+            {
+              "word": "七庙",
+              "pinyin": "qī miào",
+              "meaning": "宗庙，国家",
+              "type": "实词"
+            },
+            {
+              "word": "隳",
+              "pinyin": "huī",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "身死人手",
+              "pinyin": "shēn sǐ rén shǒu",
+              "meaning": "被杀",
+              "type": "实词"
+            },
+            {
+              "word": "为天下笑",
+              "pinyin": "wéi tiān xiào",
+              "meaning": "被嘲笑",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "仁义不施，而攻守之势异也！",
+          "translation": "不施行仁义，而攻守的形势不同了。",
+          "words": [
+            {
+              "word": "仁义",
+              "pinyin": "rén yì",
+              "meaning": "仁爱正义",
+              "type": "实词"
+            },
+            {
+              "word": "不施",
+              "pinyin": "bù shī",
+              "meaning": "不施行",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，结果",
+              "type": "虚词"
+            },
+            {
+              "word": "攻守之势",
+              "pinyin": "gōng shǒu zhī shì",
+              "meaning": "攻守形势",
+              "type": "实词"
+            },
+            {
+              "word": "异",
+              "pinyin": "yì",
+              "meaning": "不同",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

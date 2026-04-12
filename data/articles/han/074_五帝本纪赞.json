@@ -1,0 +1,832 @@
+{
+  "id": "074_五帝本纪赞",
+  "title": "五帝本纪赞",
+  "author": {
+    "id": "han_司马迁",
+    "name": "司马迁",
+    "dynasty": "han",
+    "bio": "司马迁（约公元前145年—约公元前86年），字子长，西汉杰出的史学家、文学家。他继承父业任太史令，因李陵事件受宫刑，却发愤著书，完成中国第一部纪传体通史《史记》。《史记》涵盖从黄帝到汉武帝的历史，被誉为“史家之绝唱，无韵之离骚”，对后世影响深远。司马迁以其严谨的考证和生动的叙述，奠定了中国古代史学的基础。"
+  },
+  "source": "史记",
+  "dynasty": "han",
+  "volume": 5,
+  "background": "司马迁在撰写《史记》时，面对五帝传说年代久远、文献记载模糊的挑战。作为西汉太史公，他肩负记录历史的重任，但《尚书》仅载尧以后之事，百家言黄帝则文不雅驯，儒家经典如《宰予问五帝德》也存争议。为此，司马迁通过实地考察（西至空峒，北过涿鹿，东渐于海，南浮江淮）和广泛文献研究（参考《春秋》、《国语》等），结合长老口述，试图还原上古历史真相。本文是《五帝本纪》的赞语，反映了他在汉代学术环境下，以实证精神批判性考证历史，为后世史学树立了典范。",
+  "appreciation": "《五帝本纪赞》以“太史公曰”开篇，直接表明作者身份和观点，结构严谨。司马迁首先指出学者对五帝的传说多源于远古，文献可靠性存疑，如《尚书》独载尧以来，百家之言不雅驯。他通过个人游历和长老口述，结合文献互证，强调“不离古文者近是”，即接近古代文献的记载更可信，并以《春秋》、《国语》佐证《五帝德》、《帝系姓》的章明。最后，他选择“言尤雅者”作为本纪书首，体现了对历史真实性和文学优雅的双重追求。全文语言简练，逻辑清晰，不仅展现了司马迁实证求真的史学思想，还通过批判性思考和实地考察，彰显了卓越的文学才华，成为历史与文学融合的典范。",
+  "tags": [
+    "历史考证",
+    "文献批评",
+    "上古传说"
+  ],
+  "paragraphs": [
+    {
+      "original": "太史公曰：学者多称五帝，尚矣。然《尚书》独载尧以来，而百家言黄帝，其文不雅驯，荐绅先生难言之。孔子所传《宰予问五帝德》及《帝系姓》，儒者或不传。余尝西至空峒，北过涿鹿，东渐于海，南浮江淮矣，至长老皆各往往称黄帝、尧、舜之处，风教固殊焉。总之，不离古文者近是。予观《春秋》、《国语》，其发明《五帝德》、《帝系姓》章矣，顾弟弗深考，其所表见皆不虚。",
+      "translation": "太史公说：学者们常常称颂五帝，但五帝的时代已经很久远了。然而《尚书》只记载尧以来的事情，而诸子百家谈论黄帝，他们的文字不典雅纯正，士大夫们难以说清楚。孔子所传的《宰予问五帝德》和《帝系姓》，儒生们有的不传习。我曾经西到空峒，北过涿鹿，东临大海，南渡江淮，所到之处，长老们都常常称说黄帝、尧、舜的地方，风俗教化确实不同。总之，不偏离古文记载的就接近正确。我阅读《春秋》、《国语》，它们阐明《五帝德》、《帝系姓》很明白，只是没有深入考察，但它们所表述的都不是虚假的。",
+      "sentences": [
+        {
+          "original": "太史公曰：学者多称五帝，尚矣。",
+          "translation": "太史公说：学者们常常称颂五帝，但五帝的时代已经很久远了。",
+          "words": [
+            {
+              "word": "太史公",
+              "pinyin": "tài shǐ gōng",
+              "meaning": "史官名",
+              "type": "官职"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "学者",
+              "pinyin": "xué zhě",
+              "meaning": "学者",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "虚词"
+            },
+            {
+              "word": "称",
+              "pinyin": "chēng",
+              "meaning": "称颂",
+              "type": "实词"
+            },
+            {
+              "word": "五帝",
+              "pinyin": "wǔ dì",
+              "meaning": "五位帝王",
+              "type": "典故"
+            },
+            {
+              "word": "尚",
+              "pinyin": "shàng",
+              "meaning": "久远",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "然《尚书》独载尧以来，而百家言黄帝，其文不雅驯，荐绅先生难言之。",
+          "translation": "然而《尚书》只记载尧以来的事情，而诸子百家谈论黄帝，他们的文字不典雅纯正，士大夫们难以说清楚。",
+          "words": [
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "《尚书》",
+              "pinyin": "shàng shū",
+              "meaning": "书名",
+              "type": "典故"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "只",
+              "type": "虚词"
+            },
+            {
+              "word": "载",
+              "pinyin": "zài",
+              "meaning": "记载",
+              "type": "实词"
+            },
+            {
+              "word": "尧",
+              "pinyin": "yáo",
+              "meaning": "尧帝",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "以来",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "百家",
+              "pinyin": "bǎi jiā",
+              "meaning": "诸子百家",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "谈论",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "黄帝",
+              "type": "人名"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "其",
+              "type": "虚词"
+            },
+            {
+              "word": "文",
+              "pinyin": "wén",
+              "meaning": "文字",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "雅驯",
+              "pinyin": "yǎ xùn",
+              "meaning": "典雅规范",
+              "type": "实词"
+            },
+            {
+              "word": "荐绅先生",
+              "pinyin": "jìn shēn xiān shēng",
+              "meaning": "士大夫",
+              "type": "实词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "难以",
+              "type": "虚词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "孔子所传《宰予问五帝德》及《帝系姓》，儒者或不传。",
+          "translation": "孔子所传的《宰予问五帝德》和《帝系姓》，儒生们有的不传习。",
+          "words": [
+            {
+              "word": "孔子",
+              "pinyin": "kǒng zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所",
+              "type": "虚词"
+            },
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传授",
+              "type": "实词"
+            },
+            {
+              "word": "《宰予问五帝德》",
+              "pinyin": "zǎi yǔ wèn wǔ dì dé",
+              "meaning": "书名",
+              "type": "典故"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "《帝系姓》",
+              "pinyin": "dì xì xìng",
+              "meaning": "书名",
+              "type": "典故"
+            },
+            {
+              "word": "儒者",
+              "pinyin": "rú zhě",
+              "meaning": "儒家学者",
+              "type": "实词"
+            },
+            {
+              "word": "或",
+              "pinyin": "huò",
+              "meaning": "有的",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传授",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "余尝西至空峒，北过涿鹿，东渐于海，南浮江淮矣，至长老皆各往往称黄帝、尧、舜之处，风教固殊焉。",
+          "translation": "我曾经西到空峒，北过涿鹿，东临大海，南渡江淮，所到之处，长老们都常常称说黄帝、尧、舜的地方，风俗教化确实不同。",
+          "words": [
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "西",
+              "pinyin": "xī",
+              "meaning": "向西",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "空峒",
+              "pinyin": "kōng tóng",
+              "meaning": "山名",
+              "type": "地名"
+            },
+            {
+              "word": "北",
+              "pinyin": "běi",
+              "meaning": "向北",
+              "type": "实词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "经过",
+              "type": "实词"
+            },
+            {
+              "word": "涿鹿",
+              "pinyin": "zhuō lù",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "东",
+              "pinyin": "dōng",
+              "meaning": "向东",
+              "type": "实词"
+            },
+            {
+              "word": "渐",
+              "pinyin": "jiàn",
+              "meaning": "渐进",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "海",
+              "pinyin": "hǎi",
+              "meaning": "大海",
+              "type": "实词"
+            },
+            {
+              "word": "南",
+              "pinyin": "nán",
+              "meaning": "向南",
+              "type": "实词"
+            },
+            {
+              "word": "浮",
+              "pinyin": "fú",
+              "meaning": "乘船",
+              "type": "实词"
+            },
+            {
+              "word": "江淮",
+              "pinyin": "jiāng huái",
+              "meaning": "长江淮河",
+              "type": "地名"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "至于",
+              "type": "虚词"
+            },
+            {
+              "word": "长老",
+              "pinyin": "zhǎng lǎo",
+              "meaning": "年长者",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "各",
+              "pinyin": "gè",
+              "meaning": "各自",
+              "type": "虚词"
+            },
+            {
+              "word": "往往",
+              "pinyin": "wǎng wǎng",
+              "meaning": "常常",
+              "type": "虚词"
+            },
+            {
+              "word": "称",
+              "pinyin": "chēng",
+              "meaning": "称说",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "帝王名",
+              "type": "人名"
+            },
+            {
+              "word": "尧",
+              "pinyin": "yáo",
+              "meaning": "帝王名",
+              "type": "人名"
+            },
+            {
+              "word": "舜",
+              "pinyin": "shùn",
+              "meaning": "帝王名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "处",
+              "pinyin": "chù",
+              "meaning": "地方",
+              "type": "实词"
+            },
+            {
+              "word": "风教",
+              "pinyin": "fēng jiào",
+              "meaning": "风俗教化",
+              "type": "实词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "本来",
+              "type": "虚词"
+            },
+            {
+              "word": "殊",
+              "pinyin": "shū",
+              "meaning": "不同",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "总之，不离古文者近是。",
+          "translation": "总之，不偏离古文记载的就接近正确。",
+          "words": [
+            {
+              "word": "总之",
+              "pinyin": "zǒng zhī",
+              "meaning": "总而言之",
+              "type": "虚词"
+            },
+            {
+              "word": "不离",
+              "pinyin": "bù lí",
+              "meaning": "不离开",
+              "type": "实词"
+            },
+            {
+              "word": "古文",
+              "pinyin": "gǔ wén",
+              "meaning": "古代文献",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "近",
+              "pinyin": "jìn",
+              "meaning": "接近",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "正确",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "予观《春秋》、《国语》，其发明《五帝德》、《帝系姓》章矣，顾弟弗深考，其所表见皆不虚。",
+          "translation": "我阅读《春秋》、《国语》，它们阐明《五帝德》、《帝系姓》很明白，只是没有深入考察，但它们所表述的都不是虚假的。",
+          "words": [
+            {
+              "word": "予",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观看",
+              "type": "实词"
+            },
+            {
+              "word": "《春秋》",
+              "pinyin": "chūn qiū",
+              "meaning": "史书名",
+              "type": "典故"
+            },
+            {
+              "word": "《国语》",
+              "pinyin": "guó yǔ",
+              "meaning": "史书名",
+              "type": "典故"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它们",
+              "type": "虚词"
+            },
+            {
+              "word": "发明",
+              "pinyin": "fā míng",
+              "meaning": "阐明",
+              "type": "实词"
+            },
+            {
+              "word": "《五帝德》",
+              "pinyin": "wǔ dì dé",
+              "meaning": "篇章名",
+              "type": "典故"
+            },
+            {
+              "word": "《帝系姓》",
+              "pinyin": "dì xì xìng",
+              "meaning": "篇章名",
+              "type": "典故"
+            },
+            {
+              "word": "章",
+              "pinyin": "zhāng",
+              "meaning": "明显",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "顾",
+              "pinyin": "gù",
+              "meaning": "但",
+              "type": "虚词"
+            },
+            {
+              "word": "弟",
+              "pinyin": "dì",
+              "meaning": "只是",
+              "type": "虚词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "深考",
+              "pinyin": "shēn kǎo",
+              "meaning": "深入考察",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它们",
+              "type": "虚词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所",
+              "type": "虚词"
+            },
+            {
+              "word": "表见",
+              "pinyin": "biǎo jiàn",
+              "meaning": "表现",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "不虚",
+              "pinyin": "bù xū",
+              "meaning": "不虚假",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "《书》缺有间矣，其轶乃时时见于他说。非好学深思，心知其意，固难为浅见寡闻道也。余并论次，择其言尤雅者，故著为本纪书首。",
+      "translation": "《尚书》有缺失和间断，那些散失的内容常常在其他著作中出现。如果不是好学深思、内心理解其意的人，本来就很难向见识浅薄、孤陋寡闻的人说明。我一并论述编次，选择那些言辞特别雅正的，所以写成本纪的书首。",
+      "sentences": [
+        {
+          "original": "《书》缺有间矣，其轶乃时时见于他说。",
+          "translation": "《尚书》有缺失和间断，那些散失的内容常常在其他著作中出现。",
+          "words": [
+            {
+              "word": "《书》",
+              "pinyin": "shū",
+              "meaning": "指《尚书》",
+              "type": "典故"
+            },
+            {
+              "word": "缺",
+              "pinyin": "quē",
+              "meaning": "缺失",
+              "type": "实词"
+            },
+            {
+              "word": "有间",
+              "pinyin": "yǒu jiàn",
+              "meaning": "有间隙",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了（语气词）",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "轶",
+              "pinyin": "yì",
+              "meaning": "散失",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "时时",
+              "pinyin": "shí shí",
+              "meaning": "常常",
+              "type": "虚词"
+            },
+            {
+              "word": "见于",
+              "pinyin": "jiàn yú",
+              "meaning": "出现在",
+              "type": "实词"
+            },
+            {
+              "word": "他说",
+              "pinyin": "tā shuō",
+              "meaning": "其他说法",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "非好学深思，心知其意，固难为浅见寡闻道也。",
+          "translation": "如果不是好学深思、内心理解其意的人，本来就很难向见识浅薄、孤陋寡闻的人说明。",
+          "words": [
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "好学",
+              "pinyin": "hào xué",
+              "meaning": "爱好学习",
+              "type": "实词"
+            },
+            {
+              "word": "深思",
+              "pinyin": "shēn sī",
+              "meaning": "深入思考",
+              "type": "实词"
+            },
+            {
+              "word": "心知",
+              "pinyin": "xīn zhī",
+              "meaning": "心里知道",
+              "type": "实词"
+            },
+            {
+              "word": "其意",
+              "pinyin": "qí yì",
+              "meaning": "它的意思",
+              "type": "实词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "本来",
+              "type": "虚词"
+            },
+            {
+              "word": "难为",
+              "pinyin": "nán wéi",
+              "meaning": "难以对",
+              "type": "实词"
+            },
+            {
+              "word": "浅见",
+              "pinyin": "qiǎn jiàn",
+              "meaning": "见识浅薄",
+              "type": "实词"
+            },
+            {
+              "word": "寡闻",
+              "pinyin": "guǎ wén",
+              "meaning": "见闻少",
+              "type": "实词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊（语气词）",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "余并论次，择其言尤雅者，故著为本纪书首。",
+          "translation": "我一并论述编次，选择那些言辞特别雅正的，所以写成本纪的书首。",
+          "words": [
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "并",
+              "pinyin": "bìng",
+              "meaning": "一起",
+              "type": "虚词"
+            },
+            {
+              "word": "论次",
+              "pinyin": "lùn cì",
+              "meaning": "论列编次",
+              "type": "实词"
+            },
+            {
+              "word": "择",
+              "pinyin": "zé",
+              "meaning": "选择",
+              "type": "实词"
+            },
+            {
+              "word": "其言",
+              "pinyin": "qí yán",
+              "meaning": "那些言论",
+              "type": "实词"
+            },
+            {
+              "word": "尤雅",
+              "pinyin": "yóu yǎ",
+              "meaning": "尤其雅正",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的（代词）",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "著为",
+              "pinyin": "zhù wéi",
+              "meaning": "写成",
+              "type": "实词"
+            },
+            {
+              "word": "本纪书首",
+              "pinyin": "běn jì shū shǒu",
+              "meaning": "本纪的开头",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

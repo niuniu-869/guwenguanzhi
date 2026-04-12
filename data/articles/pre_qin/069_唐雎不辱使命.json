@@ -1,0 +1,2006 @@
+{
+  "id": "069_唐雎不辱使命",
+  "title": "唐雎不辱使命",
+  "author": {
+    "id": "pre_qin_刘向",
+    "name": "刘向",
+    "dynasty": "pre_qin",
+    "bio": "刘向（约公元前77年—公元前6年），字子政，西汉沛县（今江苏沛县）人。著名经学家、目录学家、文学家。汉成帝时任光禄大夫，受命校阅群书，撰成《别录》，开创中国目录学先河。他编辑整理了《战国策》、《列女传》、《新序》、《说苑》等著作，对先秦文献的保存、传播和阐释有重大贡献。刘向学识渊博，主张儒家思想，其作品多寓含政治讽喻，影响深远。"
+  },
+  "source": "战国策",
+  "dynasty": "pre_qin",
+  "volume": 4,
+  "background": "战国末期，秦国在商鞅变法后国力强盛，推行远交近攻策略，逐步吞并六国。安陵是魏国附属的小国，方圆仅五十里，地处要冲。秦王嬴政（即后来的秦始皇）意图以欺诈手段扩张领土，假意以五百里之地交换安陵，实为不战而屈人之兵。安陵君识破其计，但碍于秦强，派唐雎出使秦国周旋。此事件反映了战国时期小国在强权压力下的外交困境与抗争精神。刘向在西汉时期整理编订《战国策》，收录此文，旨在记录纵横家的言行，展现当时复杂的政治博弈和士人的智慧勇气，以供后世借鉴。文章背景深植于战国诸侯争霸、士文化兴起的时代，突显了个人气节与国家存亡的紧密关联。",
+  "appreciation": "《唐雎不辱使命》以精炼的对话和紧凑的叙事，展现了高超的文学艺术。文章通过秦王与唐雎的交锋，刻画了鲜明的人物形象：秦王骄横霸道，以“天子之怒”威胁，象征强权政治；唐雎沉着机智，以“布衣之怒”反击，并引用专诸、聂政、要离等历史典故，增强说服力，最终以“伏尸二人，流血五步”的决绝姿态迫使秦王屈服。语言生动有力，如“挺剑而起”、“秦王色挠，长跪而谢之”，通过动作和神态描写，突显了唐雎的英勇和秦王的外强中干。在主题上，文章歌颂了不畏强权、维护尊严的士人精神，同时揭示了战国时期小国外交的智慧与艰难。文学手法上，运用夸张和象征，如“彗星袭月”、“白虹贯日”，将个人怒气与天象相连，提升了叙事的史诗感和戏剧冲突。结构上，层层递进，从试探到对抗，再到高潮和结局，逻辑严密，体现了《战国策》作为纵横家典籍的辩才与谋略，对后世史传文学和散文创作有深远影响。",
+  "tags": [
+    "战国时期",
+    "外交斗争",
+    "士人精神"
+  ],
+  "paragraphs": [
+    {
+      "original": "秦王使人谓安陵君曰：“寡人欲以五百里之地易安陵，安陵君其许寡人？”",
+      "translation": "秦王派人对安陵君说：“我想用五百里的土地交换安陵，安陵君可要答应我吗？”",
+      "sentences": [
+        {
+          "original": "秦王使人谓安陵君曰",
+          "translation": "秦王派人对安陵君说",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦国国王",
+              "type": "人名"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人员",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "对...说",
+              "type": "实词"
+            },
+            {
+              "word": "安陵君",
+              "pinyin": "ān líng jūn",
+              "meaning": "安陵的君主",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "“寡人欲以五百里之地易安陵，安陵君其许寡人？”",
+          "translation": "“我想用五百里的土地交换安陵，安陵君可要答应我吗？”",
+          "words": [
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我（君主自称）",
+              "type": "虚词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "五百里",
+              "pinyin": "wǔ bǎi lǐ",
+              "meaning": "五百里地",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "易",
+              "pinyin": "yì",
+              "meaning": "交换",
+              "type": "实词"
+            },
+            {
+              "word": "安陵",
+              "pinyin": "ān líng",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "安陵君",
+              "pinyin": "ān líng jūn",
+              "meaning": "安陵的君主",
+              "type": "人名"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "表示委婉语气",
+              "type": "虚词"
+            },
+            {
+              "word": "许",
+              "pinyin": "xǔ",
+              "meaning": "答应",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我（君主自称）",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "安陵君曰：“大王加惠，以大易小，甚善。虽然，受地于先王，愿终守之，弗敢易。”秦王不说。安陵君因使唐雎使于秦。",
+      "translation": "安陵君说：“大王施加恩惠，用大的土地交换小的土地，非常好。虽然如此，我从先王那里接受了封地，愿意始终守护它，不敢交换。”秦王不高兴。安陵君于是派遣唐雎出使秦国。",
+      "sentences": [
+        {
+          "original": "安陵君曰：“大王加惠，以大易小，甚善。",
+          "translation": "安陵君说：“大王施加恩惠，用大的土地交换小的土地，很好。",
+          "words": []
+        },
+        {
+          "original": "虽然，受地于先王，愿终守之，弗敢易。”",
+          "translation": "虽然这样，但我从先王那里接受土地，愿意始终守护它，不敢交换。”",
+          "words": [
+            {
+              "word": "虽然",
+              "pinyin": "suī rán",
+              "meaning": "虽然这样",
+              "type": "虚词"
+            },
+            {
+              "word": "受",
+              "pinyin": "shòu",
+              "meaning": "接受",
+              "type": "实词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "先王",
+              "pinyin": "xiān wáng",
+              "meaning": "已故君王",
+              "type": "实词"
+            },
+            {
+              "word": "愿",
+              "pinyin": "yuàn",
+              "meaning": "愿意",
+              "type": "实词"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "始终",
+              "type": "虚词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "守护",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢",
+              "type": "实词"
+            },
+            {
+              "word": "易",
+              "pinyin": "yì",
+              "meaning": "交换",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "秦王不说。",
+          "translation": "秦王不高兴。",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "Qín Wáng",
+              "meaning": "秦国君王",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "说",
+              "pinyin": "yuè",
+              "meaning": "高兴",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "安陵君因使唐雎使于秦。",
+          "translation": "安陵君于是派遣唐雎出使秦国。",
+          "words": [
+            {
+              "word": "安陵君",
+              "pinyin": "Ān Líng Jūn",
+              "meaning": "安陵国君主",
+              "type": "人名"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "唐雎",
+              "pinyin": "Táng Jū",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "出使",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "Qín",
+              "meaning": "秦国",
+              "type": "地名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "秦王谓唐雎曰：“寡人以五百里之地易安陵，安陵君不听寡人，何也？且秦灭韩亡魏，而君以五十里之地存者，以君为长者，故不错意也。今吾以十倍之地，请广于君，而君逆寡人者，轻寡人与？”唐雎对曰：“否，非若是也。安陵君受地于先王而守之，虽千里不敢易也，岂直五百里哉？”",
+      "translation": "秦王对唐雎说：“我用五百里的土地来交换安陵，安陵君却不听从我，这是为什么呢？况且秦国已经灭亡了韩国和魏国，而安陵君却能凭借五十里的土地幸存下来，是因为我把他视为长者，所以没有放在心上。现在我用十倍的土地，请求让安陵君扩大领土，但他却违抗我，是轻视我吗？”唐雎回答说：“不，不是这样。安陵君从先王那里接受土地并守护它，即使是一千里也不敢交换，何况只是五百里呢？”",
+      "sentences": [
+        {
+          "original": "秦王谓唐雎曰：“寡人以五百里之地易安陵，安陵君不听寡人，何也？",
+          "translation": "秦王对唐雎说：“我用五百里的土地来交换安陵，安陵君却不听从我，这是为什么呢？",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦国国王",
+              "type": "人名"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "对...说",
+              "type": "实词"
+            },
+            {
+              "word": "唐雎",
+              "pinyin": "táng jū",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我（君主自称）",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "五百里",
+              "pinyin": "wǔ bǎi lǐ",
+              "meaning": "五百里地",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "易",
+              "pinyin": "yì",
+              "meaning": "交换",
+              "type": "实词"
+            },
+            {
+              "word": "安陵",
+              "pinyin": "ān líng",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "安陵君",
+              "pinyin": "ān líng jūn",
+              "meaning": "安陵的君主",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "听",
+              "pinyin": "tīng",
+              "meaning": "听从",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "且秦灭韩亡魏，而君以五十里之地存者，以君为长者，故错意也。",
+          "translation": "况且秦国已经灭亡了韩国和魏国，而安陵君却能凭借五十里的土地幸存下来，是因为我把他视为长者，所以没有放在心上。",
+          "words": [
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "灭",
+              "pinyin": "miè",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "韩国",
+              "type": "地名"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "五十里",
+              "pinyin": "wǔ shí lǐ",
+              "meaning": "五十里地",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "存",
+              "pinyin": "cún",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的原因",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "长者",
+              "pinyin": "zhǎng zhě",
+              "meaning": "年长有德的人",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "错",
+              "pinyin": "cuò",
+              "meaning": "放置",
+              "type": "实词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "心意",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "今吾以十倍之地，请广于君，而君逆寡人者，轻寡人与？”",
+          "translation": "现在我用十倍的土地，请求让安陵君扩大领土，但他却违抗我，是轻视我吗？”",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "十倍",
+              "pinyin": "shí bèi",
+              "meaning": "十倍",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "广",
+              "pinyin": "guǎng",
+              "meaning": "扩大",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "虚词"
+            },
+            {
+              "word": "逆",
+              "pinyin": "nì",
+              "meaning": "违背",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "轻",
+              "pinyin": "qīng",
+              "meaning": "轻视",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yú",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "唐雎对曰：“否，非若是也。",
+          "translation": "唐雎回答说：“不，不是这样。",
+          "words": [
+            {
+              "word": "唐雎",
+              "pinyin": "Táng Jū",
+              "meaning": "安陵使臣",
+              "type": "人名"
+            },
+            {
+              "word": "对曰",
+              "pinyin": "duì yuē",
+              "meaning": "回答说",
+              "type": "实词"
+            },
+            {
+              "word": "否",
+              "pinyin": "fǒu",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "若是",
+              "pinyin": "ruò shì",
+              "meaning": "像这样",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "安陵君受地于先王而守之，虽千里不敢易也，岂直五百里哉？”",
+          "translation": "安陵君从先王那里接受土地并守护它，即使是一千里也不敢交换，何况只是五百里呢？”",
+          "words": [
+            {
+              "word": "安陵君",
+              "pinyin": "Ān Líng Jūn",
+              "meaning": "安陵国君",
+              "type": "人名"
+            },
+            {
+              "word": "受地",
+              "pinyin": "shòu dì",
+              "meaning": "接受土地",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "先王",
+              "pinyin": "xiān wáng",
+              "meaning": "已故君王",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "守之",
+              "pinyin": "shǒu zhī",
+              "meaning": "守护它",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "千里",
+              "pinyin": "qiān lǐ",
+              "meaning": "千里土地",
+              "type": "实词"
+            },
+            {
+              "word": "不敢",
+              "pinyin": "bù gǎn",
+              "meaning": "不敢",
+              "type": "实词"
+            },
+            {
+              "word": "易",
+              "pinyin": "yì",
+              "meaning": "交换",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "直",
+              "pinyin": "zhí",
+              "meaning": "只",
+              "type": "虚词"
+            },
+            {
+              "word": "五百里",
+              "pinyin": "wǔ bǎi lǐ",
+              "meaning": "五百里土地",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "秦王怫然怒，谓唐雎曰：“公亦尝闻天子之怒乎？”唐雎对曰：“臣未尝闻也。”秦王曰：“天子之怒，伏尸百万，流血千里。”唐雎曰：“大王尝闻布衣之怒乎？”秦王曰：“布衣之怒，亦免冠徒跣，以头抢地耳。”唐雎曰：“此庸夫之怒也，非士之怒也。夫专诸之刺王僚也，彗星袭月；聂政之刺韩傀也，白虹贯日；要离之刺庆忌也，苍鹰击于殿上。此三子皆布衣之士也，怀怒未发，休祲降于天，与臣而将四矣。若士必怒，伏尸二人，流血五步，天下缟素，今日是也。”",
+      "translation": "秦王勃然大怒，对唐雎说：“您也曾听说过天子的愤怒吗？”唐雎回答说：“臣未曾听说过。”秦王说：“天子的愤怒，会使尸体倒下百万，血流千里。”唐雎说：“大王曾听说过平民的愤怒吗？”秦王说：“平民的愤怒，也不过是摘掉帽子，光着脚，用头撞地罢了。”唐雎说：“这是平庸之人的愤怒，不是士人的愤怒。专诸刺杀王僚时，彗星袭击月亮；聂政刺杀韩傀时，白虹贯穿太阳；要离刺杀庆忌时，苍鹰扑击在殿上。这三个人都是平民士人，心中的愤怒还未发作时，上天就降示吉凶的征兆，加上我将成为第四个人了。如果士人真的发怒，只会倒下两具尸体，血流五步，天下人都要穿丧服，今天就是这样。”",
+      "sentences": [
+        {
+          "original": "秦王怫然怒，谓唐雎曰：“公亦尝闻天子之怒乎？”",
+          "translation": "秦王勃然大怒，对唐雎说：“您也曾听说过天子的愤怒吗？”",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦王",
+              "type": "人名"
+            },
+            {
+              "word": "怫然",
+              "pinyin": "fú rán",
+              "meaning": "愤怒的样子",
+              "type": "实词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "发怒",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "对...说",
+              "type": "实词"
+            },
+            {
+              "word": "唐雎",
+              "pinyin": "táng jū",
+              "meaning": "唐雎",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "天子",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "唐雎对曰：“臣未尝闻也。”",
+          "translation": "唐雎回答说：“臣未曾听说过。”",
+          "words": [
+            {
+              "word": "唐雎",
+              "pinyin": "táng jū",
+              "meaning": "唐雎",
+              "type": "人名"
+            },
+            {
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "秦王曰：“天子之怒，伏尸百万，流血千里。”",
+          "translation": "秦王说：“天子的愤怒，会使尸体倒下百万，血流千里。”",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦王",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "天子",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "伏",
+              "pinyin": "fú",
+              "meaning": "倒下",
+              "type": "实词"
+            },
+            {
+              "word": "尸",
+              "pinyin": "shī",
+              "meaning": "尸体",
+              "type": "实词"
+            },
+            {
+              "word": "百万",
+              "pinyin": "bǎi wàn",
+              "meaning": "一百万",
+              "type": "实词"
+            },
+            {
+              "word": "流",
+              "pinyin": "liú",
+              "meaning": "流淌",
+              "type": "实词"
+            },
+            {
+              "word": "血",
+              "pinyin": "xuè",
+              "meaning": "血液",
+              "type": "实词"
+            },
+            {
+              "word": "千里",
+              "pinyin": "qiān lǐ",
+              "meaning": "一千里",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "唐雎曰：“大王尝闻布衣之怒乎？”",
+          "translation": "唐雎说：“大王曾听说过平民的愤怒吗？”",
+          "words": [
+            {
+              "word": "唐雎",
+              "pinyin": "Táng Jū",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "大王",
+              "pinyin": "dà wáng",
+              "meaning": "君王尊称",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "布衣",
+              "pinyin": "bù yī",
+              "meaning": "平民百姓",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "秦王曰：“布衣之怒，亦免冠徒跣，以头抢地耳。”",
+          "translation": "秦王说：“平民的愤怒，也不过是摘掉帽子，光着脚，用头撞地罢了。”",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "Qín Wáng",
+              "meaning": "秦国君王",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "布衣",
+              "pinyin": "bù yī",
+              "meaning": "平民百姓",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "免冠",
+              "pinyin": "miǎn guān",
+              "meaning": "脱帽",
+              "type": "实词"
+            },
+            {
+              "word": "徒跣",
+              "pinyin": "tú xiǎn",
+              "meaning": "光脚",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "头",
+              "pinyin": "tóu",
+              "meaning": "头部",
+              "type": "实词"
+            },
+            {
+              "word": "抢",
+              "pinyin": "qiāng",
+              "meaning": "撞",
+              "type": "实词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "地面",
+              "type": "实词"
+            },
+            {
+              "word": "耳",
+              "pinyin": "ěr",
+              "meaning": "罢了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "唐雎曰：“此庸夫之怒也，非士之怒也。”",
+          "translation": "唐雎说：“这是平庸之人的愤怒，不是士人的愤怒。”",
+          "words": [
+            {
+              "word": "唐雎",
+              "pinyin": "Táng Jū",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "庸夫",
+              "pinyin": "yōng fū",
+              "meaning": "平庸之人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "夫专诸之刺王僚也，彗星袭月；",
+          "translation": "专诸刺杀王僚时，彗星袭击月亮；",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "专诸",
+              "pinyin": "zhuān zhū",
+              "meaning": "刺客名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词",
+              "type": "虚词"
+            },
+            {
+              "word": "刺",
+              "pinyin": "cì",
+              "meaning": "刺杀",
+              "type": "实词"
+            },
+            {
+              "word": "王僚",
+              "pinyin": "wáng liáo",
+              "meaning": "吴王名",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "彗星",
+              "pinyin": "huì xīng",
+              "meaning": "扫帚星",
+              "type": "实词"
+            },
+            {
+              "word": "袭",
+              "pinyin": "xí",
+              "meaning": "袭击",
+              "type": "实词"
+            },
+            {
+              "word": "月",
+              "pinyin": "yuè",
+              "meaning": "月亮",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "聂政之刺韩傀也，白虹贯日；",
+          "translation": "聂政刺杀韩傀时，白虹贯穿太阳；",
+          "words": [
+            {
+              "word": "聂政",
+              "pinyin": "niè zhèng",
+              "meaning": "刺客名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词",
+              "type": "虚词"
+            },
+            {
+              "word": "刺",
+              "pinyin": "cì",
+              "meaning": "刺杀",
+              "type": "实词"
+            },
+            {
+              "word": "韩傀",
+              "pinyin": "hán guī",
+              "meaning": "韩国相国",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "白虹",
+              "pinyin": "bái hóng",
+              "meaning": "白色虹",
+              "type": "实词"
+            },
+            {
+              "word": "贯",
+              "pinyin": "guàn",
+              "meaning": "贯穿",
+              "type": "实词"
+            },
+            {
+              "word": "日",
+              "pinyin": "rì",
+              "meaning": "太阳",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "要离之刺庆忌也，苍鹰击于殿上。",
+          "translation": "要离刺杀庆忌时，苍鹰扑击在殿上。",
+          "words": [
+            {
+              "word": "要离",
+              "pinyin": "yào lí",
+              "meaning": "刺客名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词",
+              "type": "虚词"
+            },
+            {
+              "word": "刺",
+              "pinyin": "cì",
+              "meaning": "刺杀",
+              "type": "实词"
+            },
+            {
+              "word": "庆忌",
+              "pinyin": "qìng jì",
+              "meaning": "吴王僚子",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "苍鹰",
+              "pinyin": "cāng yīng",
+              "meaning": "老鹰",
+              "type": "实词"
+            },
+            {
+              "word": "击",
+              "pinyin": "jī",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "殿上",
+              "pinyin": "diàn shàng",
+              "meaning": "宫殿上",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "此三子皆布衣之士也，怀怒未发，休祲降于天，与臣而将四矣。",
+          "translation": "这三个人都是平民士人，心中的愤怒还未发作时，上天就降示吉凶的征兆，加上我将成为第四个人了。",
+          "words": [
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "三子",
+              "pinyin": "sān zǐ",
+              "meaning": "三个人",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "布衣之士",
+              "pinyin": "bù yī zhī shì",
+              "meaning": "平民士人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            },
+            {
+              "word": "怀怒",
+              "pinyin": "huái nù",
+              "meaning": "心怀愤怒",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "发",
+              "pinyin": "fā",
+              "meaning": "发作",
+              "type": "实词"
+            },
+            {
+              "word": "休祲",
+              "pinyin": "xiū jìn",
+              "meaning": "吉凶征兆",
+              "type": "实词"
+            },
+            {
+              "word": "降",
+              "pinyin": "jiàng",
+              "meaning": "降临",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "天",
+              "pinyin": "tiān",
+              "meaning": "上天",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "将",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "四",
+              "pinyin": "sì",
+              "meaning": "成为四个",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若士必怒，伏尸二人，流血五步，天下缟素，今日是也。",
+          "translation": "如果士人真的发怒，只会倒下两具尸体，血流五步，天下人都要穿丧服，今天就是这样。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "发怒",
+              "type": "实词"
+            },
+            {
+              "word": "伏尸",
+              "pinyin": "fú shī",
+              "meaning": "倒下尸体",
+              "type": "实词"
+            },
+            {
+              "word": "二人",
+              "pinyin": "èr rén",
+              "meaning": "两个人",
+              "type": "实词"
+            },
+            {
+              "word": "流血",
+              "pinyin": "liú xuè",
+              "meaning": "流淌鲜血",
+              "type": "实词"
+            },
+            {
+              "word": "五步",
+              "pinyin": "wǔ bù",
+              "meaning": "五步之内",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下人",
+              "type": "实词"
+            },
+            {
+              "word": "缟素",
+              "pinyin": "gǎo sù",
+              "meaning": "穿丧服",
+              "type": "实词"
+            },
+            {
+              "word": "今日",
+              "pinyin": "jīn rì",
+              "meaning": "今天",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "就是",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表肯定",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "挺剑而起。",
+      "translation": "唐雎拔剑站起来。秦王脸色沮丧，挺直上身跪着向唐雎道歉，说：“先生请坐！哪里至于这样！我明白了。韩国、魏国灭亡，但安陵却凭借五十里的土地幸存下来，只是因为有先生您啊。”",
+      "sentences": [
+        {
+          "original": "挺剑而起。",
+          "translation": "拔剑站起来。",
+          "words": [
+            {
+              "word": "挺剑",
+              "pinyin": "tǐng jiàn",
+              "meaning": "举起剑",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表承接",
+              "type": "虚词"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "起身",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "秦王色挠，长跪而谢之，",
+          "translation": "秦王脸色沮丧，挺直上身跪着向唐雎道歉，",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦王嬴政",
+              "type": "人名"
+            },
+            {
+              "word": "色挠",
+              "pinyin": "sè náo",
+              "meaning": "脸色屈服",
+              "type": "实词"
+            },
+            {
+              "word": "长跪",
+              "pinyin": "cháng guì",
+              "meaning": "直身而跪",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表修饰",
+              "type": "虚词"
+            },
+            {
+              "word": "谢",
+              "pinyin": "xiè",
+              "meaning": "道歉",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指唐雎",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“先生坐！何至于此！寡人谕矣。",
+          "translation": "说：“先生请坐！哪里至于这样！我明白了。",
+          "words": []
+        },
+        {
+          "original": "夫韩、魏灭亡，而安陵以五十里之地存者，徒以有先生也。”",
+          "translation": "韩国、魏国灭亡，但安陵却凭借五十里的土地幸存下来，只是因为有先生您啊。”",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "韩国",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "灭亡",
+              "pinyin": "miè wáng",
+              "meaning": "被消灭",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "安陵",
+              "pinyin": "ān líng",
+              "meaning": "安陵国",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "五十里",
+              "pinyin": "wǔ shí lǐ",
+              "meaning": "五十里地",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "存",
+              "pinyin": "cún",
+              "meaning": "保存",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的原因",
+              "type": "虚词"
+            },
+            {
+              "word": "徒",
+              "pinyin": "tú",
+              "meaning": "只",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "先生",
+              "pinyin": "xiān sheng",
+              "meaning": "先生",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "秦王色挠，长跪而谢之，曰：“先生坐！何至于此！寡人谕矣。夫韩、魏灭亡，而安陵以五十里之地存者，徒以有先生也。”",
+      "translation": "秦王脸色沮丧，长跪着向唐雎道歉，说：“先生请坐！何至于这样！我明白了。韩国和魏国都灭亡了，而安陵凭借五十里的土地幸存，只是因为有先生您啊。”",
+      "sentences": [
+        {
+          "original": "秦王色挠，长跪而谢之，",
+          "translation": "秦王脸色沮丧，长跪着向他道歉。",
+          "words": [
+            {
+              "word": "秦王",
+              "pinyin": "qín wáng",
+              "meaning": "秦国国王",
+              "type": "人名"
+            },
+            {
+              "word": "色挠",
+              "pinyin": "sè náo",
+              "meaning": "脸色屈服",
+              "type": "实词"
+            },
+            {
+              "word": "长跪",
+              "pinyin": "cháng guì",
+              "meaning": "挺直跪着",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "谢之",
+              "pinyin": "xiè zhī",
+              "meaning": "向他道歉",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“先生坐！何至于此！寡人谕矣。”",
+          "translation": "说：“先生请坐！何至于这样！我明白了。”",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "先生",
+              "pinyin": "xiān sheng",
+              "meaning": "尊称对方",
+              "type": "实词"
+            },
+            {
+              "word": "坐",
+              "pinyin": "zuò",
+              "meaning": "坐下",
+              "type": "实词"
+            },
+            {
+              "word": "何至于此",
+              "pinyin": "hé zhì yú cǐ",
+              "meaning": "为何到此地步",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "我（君王自称）",
+              "type": "实词"
+            },
+            {
+              "word": "谕",
+              "pinyin": "yù",
+              "meaning": "明白",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "夫韩、魏灭亡，而安陵以五十里之地存者，徒以有先生也。",
+          "translation": "韩国和魏国都灭亡了，而安陵凭借五十里的土地幸存，只是因为有先生您啊。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "韩国",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "灭亡",
+              "pinyin": "miè wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "安陵",
+              "pinyin": "ān líng",
+              "meaning": "安陵国",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "五十里",
+              "pinyin": "wǔ shí lǐ",
+              "meaning": "五十里",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "存者",
+              "pinyin": "cún zhě",
+              "meaning": "存在的原因",
+              "type": "实词"
+            },
+            {
+              "word": "徒",
+              "pinyin": "tú",
+              "meaning": "只",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "先生",
+              "pinyin": "xiān sheng",
+              "meaning": "先生",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

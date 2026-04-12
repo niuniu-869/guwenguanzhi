@@ -1,0 +1,118 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getDynasties } from '../lib/data';
+
+const dynasties = getDynasties();
+const totalArticles = dynasties.reduce((sum, d) => sum + d.article_count, 0);
+const totalAuthors = dynasties.reduce((sum, d) => sum + d.authors.length, 0);
+
+// 朝代装饰色（用于时间线节点和卡片顶部细线）
+const dynastyColors: Record<string, string> = {
+  pre_qin: '#8B6914',
+  han: '#C84032',
+  wei_jin: '#4A7C59',
+  tang: '#2A5CAA',
+  song: '#7B4B94',
+  ming: '#B8860B',
+};
+---
+
+<BaseLayout title="古文观止" description="古文观止全文翻译，逐句翻译，逐词注释，拼音标注">
+  <!-- Hero -->
+  <section class="relative overflow-hidden">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 pt-20 pb-16 text-center relative z-10">
+      <!-- 装饰性引号 -->
+      <div class="text-8xl font-serif text-border-light select-none leading-none mb-[-1rem]" aria-hidden="true">"</div>
+      <h1 class="font-serif text-5xl sm:text-6xl font-bold tracking-[0.15em] text-ink">
+        古文观止
+      </h1>
+      <p class="mt-5 text-ink-light text-lg tracking-widest">
+        清 · 吴楚材 吴调侯 编
+      </p>
+      <div class="mt-6 flex items-center justify-center gap-6 text-sm text-ink-faint">
+        <span>{totalArticles} 篇</span>
+        <span class="w-1 h-1 rounded-full bg-border"></span>
+        <span>{totalAuthors} 位作者</span>
+        <span class="w-1 h-1 rounded-full bg-border"></span>
+        <span>逐句翻译 · 逐词注释</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 朝代时间线 -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pb-24">
+    <!-- 时间线轴（桌面端） -->
+    <nav class="hidden sm:block mb-16" aria-label="朝代导航">
+      <div class="relative flex items-start justify-between px-8">
+        <!-- 连线 -->
+        <div class="absolute left-8 right-8 top-3 h-px bg-gradient-to-r from-border via-border to-border"></div>
+        {dynasties.map((d) => (
+          <a
+            href={`#${d.id}`}
+            class="relative z-10 flex flex-col items-center gap-3 no-underline group w-24"
+          >
+            <span
+              class="w-[7px] h-[7px] rounded-full ring-2 ring-paper transition-transform group-hover:scale-150"
+              style={`background-color: ${dynastyColors[d.id]}`}
+            ></span>
+            <span class="font-serif text-sm font-semibold text-ink group-hover:text-cinnabar transition-colors">
+              {d.name}
+            </span>
+            <span class="text-[11px] text-ink-faint tracking-wider">{d.article_count} 篇</span>
+          </a>
+        ))}
+      </div>
+    </nav>
+
+    <!-- 朝代内容 -->
+    <div class="space-y-16">
+      {dynasties.map((dynasty) => (
+        <section id={dynasty.id}>
+          <!-- 朝代标题 -->
+          <div class="flex items-end gap-4 mb-8 border-b border-border-light pb-4">
+            <h2 class="font-serif text-3xl font-bold text-ink leading-none">{dynasty.name}</h2>
+            <span class="text-sm text-ink-faint pb-0.5">{dynasty.period}</span>
+            <span
+              class="ml-auto text-sm font-medium pb-0.5"
+              style={`color: ${dynastyColors[dynasty.id]}`}
+            >
+              {dynasty.article_count} 篇 · {dynasty.authors.length} 位作者
+            </span>
+          </div>
+
+          <!-- 作者卡片网格 -->
+          <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {dynasty.authors.map((author) => (
+              <div class="group relative bg-card rounded border border-border-light hover:border-border hover:shadow-sm transition-all duration-200">
+                <!-- 卡片顶部装饰线 -->
+                <div
+                  class="h-[2px] rounded-t"
+                  style={`background-color: ${dynastyColors[dynasty.id]}; opacity: 0.4`}
+                ></div>
+                <div class="px-5 py-4">
+                  <div class="flex items-baseline justify-between mb-3">
+                    <h3 class="font-serif text-lg font-semibold text-ink">{author.name}</h3>
+                    <span class="text-xs text-ink-faint">{author.articles.length} 篇</span>
+                  </div>
+                  <ul class="space-y-1.5">
+                    {author.articles.map((article) => (
+                      <li>
+                        <a
+                          href={`/article/${article.id}`}
+                          class="flex items-baseline gap-1.5 text-sm text-ink-light hover:text-cinnabar transition-colors no-underline"
+                        >
+                          <span class="w-1 h-1 rounded-full bg-border-light shrink-0 mt-2"></span>
+                          <span>{article.title}</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

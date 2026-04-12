@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ReadingView from '../../components/ReadingView';
+import { getAllArticles, getDynastyName, type ArticleFull } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const articles = getAllArticles();
+
+  // 动态加载所有文章 JSON
+  const modules = import.meta.glob('../../../../data/articles/**/*.json', { eager: true });
+
+  return articles.map((article) => {
+    const key = `../../../../data/articles/${article.dynasty}/${article.id}.json`;
+    const mod = modules[key] as { default: ArticleFull } | undefined;
+    return {
+      params: { id: article.id },
+      props: { article: mod?.default ?? null, meta: article },
+    };
+  }).filter(entry => entry.props.article !== null);
+}
+
+const { article, meta } = Astro.props as { article: ArticleFull; meta: any };
+const dynastyName = getDynastyName(article.dynasty);
+---
+
+<BaseLayout title={article.title} description={`${article.title} · ${article.author.name} · 古文观止`}>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+    <!-- 文章头部 -->
+    <header class="text-center mb-12">
+      <div class="flex items-center justify-center gap-2 mb-4">
+        <span class="dynasty-badge">{dynastyName}</span>
+        <span class="text-ink-faint text-sm">·</span>
+        <a
+          href={`/dynasty/${article.dynasty}`}
+          class="text-sm text-ink-light hover:text-cinnabar transition-colors no-underline"
+        >
+          {article.author.name}
+        </a>
+      </div>
+      <h1 class="font-serif text-3xl sm:text-4xl font-bold tracking-wider text-ink">
+        {article.title}
+      </h1>
+      {article.source && (
+        <p class="mt-3 text-sm text-ink-faint">{article.source}</p>
+      )}
+      {article.tags.length > 0 && (
+        <div class="flex items-center justify-center gap-2 mt-4">
+          {article.tags.map((tag) => (
+            <span class="text-xs px-2 py-0.5 rounded-sm bg-silk text-ink-light">
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+    </header>
+
+    <!-- 写作背景 -->
+    {article.background && (
+      <section class="mb-10 px-5 py-4 bg-silk rounded border border-border-light">
+        <h2 class="text-sm font-semibold text-ink-light mb-2 tracking-wider">写作背景</h2>
+        <p class="text-sm text-ink-light leading-relaxed">{article.background}</p>
+      </section>
+    )}
+
+    <!-- 正文阅读区（React 岛屿） -->
+    <section class="mb-12">
+      <ReadingView paragraphs={article.paragraphs} client:load />
+    </section>
+
+    <hr class="divider-ink" />
+
+    <!-- 赏析 -->
+    {article.appreciation && (
+      <section class="mb-10">
+        <h2 class="font-serif text-xl font-semibold text-ink mb-4">赏析</h2>
+        <p class="text-ink-light leading-relaxed">{article.appreciation}</p>
+      </section>
+    )}
+
+    <!-- 作者简介 -->
+    {article.author.bio && (
+      <section class="mb-10 px-5 py-4 bg-card rounded border border-border-light">
+        <h2 class="text-sm font-semibold text-ink-light mb-2 tracking-wider">
+          关于 {article.author.name}
+        </h2>
+        <p class="text-sm text-ink-light leading-relaxed">{article.author.bio}</p>
+      </section>
+    )}
+  </article>
+</BaseLayout>
