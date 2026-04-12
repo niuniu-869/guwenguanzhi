@@ -18,7 +18,7 @@ const { dynasty } = Astro.props;
     <!-- 朝代头部 -->
     <header class="mb-10">
       <nav class="text-sm text-ink-faint mb-4">
-        <a href="/" class="hover:text-ink transition-colors no-underline">首页</a>
+        <a href={import.meta.env.BASE_URL} class="hover:text-ink transition-colors no-underline">首页</a>
         <span class="mx-2">›</span>
         <span class="text-ink-light">{dynasty.name}</span>
       </nav>
@@ -37,7 +37,7 @@ const { dynasty } = Astro.props;
           <div class="grid gap-3 sm:grid-cols-2">
             {author.articles.map((article) => (
               <a
-                href={`/article/${article.id}`}
+                href={`${import.meta.env.BASE_URL}/article/${article.id}`}
                 class="article-card block no-underline"
               >
                 <h3 class="font-serif text-base font-medium text-ink">{article.title}</h3>

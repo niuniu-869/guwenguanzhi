@@ -98,7 +98,7 @@ const dynastyColors: Record<string, string> = {
                     {author.articles.map((article) => (
                       <li>
                         <a
-                          href={`/article/${article.id}`}
+                          href={`${import.meta.env.BASE_URL}/article/${article.id}`}
                           class="flex items-baseline gap-1.5 text-sm text-ink-light hover:text-cinnabar transition-colors no-underline"
                         >
                           <span class="w-1 h-1 rounded-full bg-border-light shrink-0 mt-2"></span>

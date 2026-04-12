@@ -99,7 +99,41 @@ body {
   border-color: var(--color-ink);
 }
 
-/* 词注释弹窗 */
+/* 可点击词悬停效果（原文/对照模式） */
+.word-clickable {
+  transition: color 0.15s ease, transform 0.15s ease;
+  border-bottom: 1.5px solid transparent;
+}
+.word-clickable:hover {
+  color: var(--color-cinnabar);
+  border-bottom-color: color-mix(in srgb, var(--color-cinnabar) 40%, transparent);
+}
+
+/* 词注释弹窗（自动对齐版本） */
+.word-popover-auto {
+  position: absolute;
+  top: calc(100% + 6px);
+  padding: 0.625rem 0.875rem;
+  background: var(--color-ink);
+  color: var(--color-paper);
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  white-space: normal;
+  min-width: 120px;
+  max-width: min(280px, 90vw);
+  z-index: 50;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  animation: popover-in 0.15s ease-out;
+}
+
+@keyframes popover-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* 旧版弹窗（兼容保留） */
 .word-popover {
   position: absolute;
   top: calc(100% + 6px);
@@ -112,9 +146,12 @@ body {
   font-size: 0.8125rem;
   font-family: var(--font-sans);
   line-height: 1.5;
-  white-space: nowrap;
+  white-space: normal;
+  min-width: 120px;
+  max-width: min(280px, 90vw);
   z-index: 50;
   box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  animation: popover-in 0.15s ease-out;
 }
 .word-popover::before {
   content: '';

@@ -99,6 +99,7 @@ python scripts/run_all_parallel.py
 ## 致谢
 
 - 原文语料来源：[wenyuange/ji](https://github.com/wenyuange/ji)
+- 翻译模型由 [platform.xiaomimimo.com](https://platform.xiaomimimo.com) 赞助
 - 翻译数据由 AI 生成，仅供参考学习
 
 ## License

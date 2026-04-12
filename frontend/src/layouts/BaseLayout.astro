@@ -26,11 +26,11 @@ const fullTitle = title === '古文观止' ? title : `${title} · 古文观止`;
     <!-- 顶部导航 -->
     <header class="border-b border-border-light">
       <nav class="max-w-4xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
-        <a href="/" class="flex items-center gap-2 text-ink no-underline hover:opacity-80 transition-opacity">
+        <a href={import.meta.env.BASE_URL} class="flex items-center gap-2 text-ink no-underline hover:opacity-80 transition-opacity">
           <span class="font-serif text-lg font-semibold tracking-wider">古文观止</span>
         </a>
         <div class="flex items-center gap-4 text-sm text-ink-light">
-          <a href="/" class="hover:text-ink transition-colors no-underline">首页</a>
+          <a href={import.meta.env.BASE_URL} class="hover:text-ink transition-colors no-underline">首页</a>
           <a
             href="https://github.com/niuniu-869/guwenguanzhi"
             target="_blank"
@@ -53,6 +53,7 @@ const fullTitle = title === '古文观止' ? title : `${title} · 古文观止`;
       <div class="max-w-4xl mx-auto px-4 sm:px-6 py-8 text-center text-sm text-ink-faint">
         <p>古文观止 · 开源古文学习工具</p>
         <p class="mt-1">翻译内容由 AI 生成，仅供参考学习</p>
+        <p class="mt-1">模型由 <a href="https://platform.xiaomimimo.com" target="_blank" rel="noopener" class="text-ink-light hover:text-cinnabar transition-colors">platform.xiaomimimo.com</a> 赞助</p>
       </div>
     </footer>
   </body>
