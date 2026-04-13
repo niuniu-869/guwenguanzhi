@@ -1,0 +1,4370 @@
+{
+  "id": "125",
+  "book": "shiji",
+  "juan": 125,
+  "title": "佞幸列传",
+  "category": "liezhuan",
+  "category_name": "列传",
+  "order_in_category": 65,
+  "author": {
+    "name": "司马迁",
+    "dynasty": "西汉"
+  },
+  "summary": "本卷《佞幸列传》记载了汉朝时期多位因谄媚得宠的臣子，如邓通、韩嫣、李延年等。他们凭借色相、技能或关系获得皇帝宠幸，一时权倾朝野，但最终多因失宠、犯罪或政治斗争而悲惨结局。时代背景从汉高祖至汉武帝，反映了宫廷中佞幸现象的兴衰和“爱憎之时”的无常。通过这些人物故事，司马迁揭示了权力与宠幸的虚幻本质，以及社会机遇与个人命运的复杂关系。",
+  "appreciation": "司马迁在《佞幸列传》中运用了生动的叙事技法，通过具体事件和对话刻画人物，如邓通因梦得幸、韩嫣傲慢失礼、李延年以歌受宠等，使故事栩栩如生，增强了历史真实感。思想立场上，他批判佞幸现象，引用谚语“力田不如逢年，善仕不如遇合”强调命运与机遇的重要性，并在太史公曰中感慨“甚哉爱憎之时”，表达了对人性与社会的深刻洞察，警示后人佞幸之臣的虚幻与危害。名句如“弥子瑕之行，足以观后人佞幸矣”具有道德教化意义。史学价值在于记录了汉朝宫廷政治的侧面，为研究汉代社会提供了独特视角；文学价值则体现在其叙事艺术和道德评论中，语言简练而寓意深远，成为后世历史书写的典范。",
+  "tags": [
+    "佞幸",
+    "汉朝",
+    "宫廷政治",
+    "司马迁",
+    "史记"
+  ],
+  "key_figures": [
+    "邓通",
+    "韩嫣",
+    "李延年"
+  ],
+  "historical_period": "西汉初期至中期（汉高祖至汉武帝时期）",
+  "paragraphs": [
+    {
+      "original": "谚曰“力田不如逢年，善仕不如遇合”，固无虚言。非独女以色媚，而士宦亦有之。",
+      "translation": "谚语说：“努力耕田不如遇到好年景，善于做官不如遇到赏识自己的君主。”这确实不是虚言。不仅女子用美色谄媚，士人和官宦中也有这样的人。",
+      "sentences": [
+        {
+          "original": "谚曰“力田不如逢年，善仕不如遇合”",
+          "translation": "谚语说：“努力耕田不如遇到好年景，善于做官不如遇到赏识自己的君主。”",
+          "words": [
+            {
+              "word": "谚曰",
+              "pinyin": "yàn yuē",
+              "meaning": "谚语说",
+              "type": "实词"
+            },
+            {
+              "word": "力田",
+              "pinyin": "lì tián",
+              "meaning": "努力耕田",
+              "type": "实词"
+            },
+            {
+              "word": "不如",
+              "pinyin": "bù rú",
+              "meaning": "比不上",
+              "type": "实词"
+            },
+            {
+              "word": "逢年",
+              "pinyin": "féng nián",
+              "meaning": "遇到好年景",
+              "type": "实词"
+            },
+            {
+              "word": "善仕",
+              "pinyin": "shàn shì",
+              "meaning": "善于做官",
+              "type": "实词"
+            },
+            {
+              "word": "不如",
+              "pinyin": "bù rú",
+              "meaning": "比不上",
+              "type": "实词"
+            },
+            {
+              "word": "遇合",
+              "pinyin": "yù hé",
+              "meaning": "遇到赏识",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "固无虚言。",
+          "translation": "这确实不是虚言。",
+          "words": [
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "确实",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "虚言",
+              "pinyin": "xū yán",
+              "meaning": "虚假的话",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "非独女以色媚，而士宦亦有之。",
+          "translation": "不仅女子用美色谄媚，士人和官宦中也有这样的人。",
+          "words": [
+            {
+              "word": "非独",
+              "pinyin": "fēi dú",
+              "meaning": "不仅",
+              "type": "实词"
+            },
+            {
+              "word": "女",
+              "pinyin": "nǚ",
+              "meaning": "女子",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "色",
+              "pinyin": "sè",
+              "meaning": "美色",
+              "type": "实词"
+            },
+            {
+              "word": "媚",
+              "pinyin": "mèi",
+              "meaning": "谄媚",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "士宦",
+              "pinyin": "shì huàn",
+              "meaning": "士人官吏",
+              "type": "实词"
+            },
+            {
+              "word": "亦有",
+              "pinyin": "yì yǒu",
+              "meaning": "也有",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "昔以色幸者多矣。至汉兴，高祖至暴抗也，然籍孺以佞幸；孝惠时有闳孺。",
+      "translation": "过去凭借美色得到宠幸的人很多。到了汉朝兴起，高祖极其暴躁刚直，然而籍孺凭借谄媚得到宠幸；孝惠帝时有闳孺。",
+      "sentences": [
+        {
+          "original": "昔以色幸者多矣。",
+          "translation": "过去凭借美色得到宠幸的人很多。",
+          "words": [
+            {
+              "word": "昔",
+              "pinyin": "xī",
+              "meaning": "从前",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "色",
+              "pinyin": "sè",
+              "meaning": "美色",
+              "type": "实词"
+            },
+            {
+              "word": "幸",
+              "pinyin": "xìng",
+              "meaning": "宠幸",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "至汉兴，高祖至暴抗也，然籍孺以佞幸；",
+          "translation": "到了汉朝兴起，高祖极其暴躁刚直，然而籍孺凭借谄媚得到宠幸；",
+          "words": [
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "兴起",
+              "type": "实词"
+            },
+            {
+              "word": "高祖",
+              "pinyin": "gāo zǔ",
+              "meaning": "汉高祖",
+              "type": "人名"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "极",
+              "type": "实词"
+            },
+            {
+              "word": "暴抗",
+              "pinyin": "bào kàng",
+              "meaning": "暴虐刚直",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "籍孺",
+              "pinyin": "jí rú",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "佞幸",
+              "pinyin": "nìng xìng",
+              "meaning": "谄媚宠幸",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "孝惠时有闳孺。",
+          "translation": "孝惠帝时有闳孺。",
+          "words": [
+            {
+              "word": "孝惠",
+              "pinyin": "xiào huì",
+              "meaning": "汉孝惠帝",
+              "type": "人名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "闳孺",
+              "pinyin": "hóng rú",
+              "meaning": "人名",
+              "type": "人名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "此两人非有材能，徒以婉佞贵幸，与上卧起，公卿皆因关说。故孝惠时郎侍中皆冠鵕鸃，贝带，傅脂粉，化闳、籍之属也。两人徙家安陵。",
+      "translation": "这两个人并没有才能，只是靠着谄媚逢迎而尊贵受宠，与皇帝同起居，公卿们都通过他们来关说。所以在孝惠帝时，郎侍中们都头戴鵕鸃冠，腰系贝带，脸上涂脂粉，效仿闳孺、籍孺这类人。这两人迁家到安陵。",
+      "sentences": [
+        {
+          "original": "此两人非有材能，徒以婉佞贵幸，与上卧起，公卿皆因关说。",
+          "translation": "这两个人并没有才能，只是靠着谄媚逢迎而尊贵受宠，与皇帝同起居，公卿们都通过他们来关说。",
+          "words": [
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "两人",
+              "pinyin": "liǎng rén",
+              "meaning": "两个人",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "材能",
+              "pinyin": "cái néng",
+              "meaning": "才能",
+              "type": "实词"
+            },
+            {
+              "word": "徒",
+              "pinyin": "tú",
+              "meaning": "仅仅",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "婉佞",
+              "pinyin": "wǎn nìng",
+              "meaning": "谄媚",
+              "type": "实词"
+            },
+            {
+              "word": "贵幸",
+              "pinyin": "guì xìng",
+              "meaning": "受宠",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "卧起",
+              "pinyin": "wò qǐ",
+              "meaning": "同卧同起",
+              "type": "实词"
+            },
+            {
+              "word": "公卿",
+              "pinyin": "gōng qīng",
+              "meaning": "高官",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "通过",
+              "type": "虚词"
+            },
+            {
+              "word": "关说",
+              "pinyin": "guān shuō",
+              "meaning": "通关节进言",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "故孝惠时郎侍中皆冠鵕鸃，贝带，傅脂粉，化闳、籍之属也。",
+          "translation": "所以在孝惠帝时，郎侍中们都头戴鵕鸃冠，腰系贝带，脸上涂脂粉，效仿闳孺、籍孺这类人。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "孝惠",
+              "pinyin": "xiào huì",
+              "meaning": "汉孝惠帝",
+              "type": "年号"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "郎",
+              "pinyin": "láng",
+              "meaning": "郎官",
+              "type": "官职"
+            },
+            {
+              "word": "侍中",
+              "pinyin": "shì zhōng",
+              "meaning": "侍中官",
+              "type": "官职"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "冠",
+              "pinyin": "guàn",
+              "meaning": "戴帽",
+              "type": "实词"
+            },
+            {
+              "word": "鵕鸃",
+              "pinyin": "jùn yí",
+              "meaning": "鸟羽帽",
+              "type": "器物"
+            },
+            {
+              "word": "贝带",
+              "pinyin": "bèi dài",
+              "meaning": "贝饰带",
+              "type": "器物"
+            },
+            {
+              "word": "傅",
+              "pinyin": "fù",
+              "meaning": "涂抹",
+              "type": "实词"
+            },
+            {
+              "word": "脂粉",
+              "pinyin": "zhī fěn",
+              "meaning": "胭脂粉",
+              "type": "实词"
+            },
+            {
+              "word": "化",
+              "pinyin": "huà",
+              "meaning": "效仿",
+              "type": "实词"
+            },
+            {
+              "word": "闳",
+              "pinyin": "hóng",
+              "meaning": "人名闳",
+              "type": "人名"
+            },
+            {
+              "word": "籍",
+              "pinyin": "jí",
+              "meaning": "人名籍",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "属",
+              "pinyin": "shǔ",
+              "meaning": "类",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "两人徙家安陵。",
+          "translation": "这两人迁家到安陵。",
+          "words": [
+            {
+              "word": "两人",
+              "pinyin": "liǎng rén",
+              "meaning": "两个人",
+              "type": "实词"
+            },
+            {
+              "word": "徙",
+              "pinyin": "xǐ",
+              "meaning": "迁移",
+              "type": "实词"
+            },
+            {
+              "word": "家",
+              "pinyin": "jiā",
+              "meaning": "家",
+              "type": "实词"
+            },
+            {
+              "word": "安陵",
+              "pinyin": "ān líng",
+              "meaning": "地名安陵",
+              "type": "地名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "孝文时中宠臣，士人则邓通，宦者则赵同、北宫伯子。北宫伯子以爱人长者；而赵同以星气幸，常为文帝参乘；邓通无伎能。邓通，蜀郡南安人也，以濯船为黄头郎。孝文帝梦欲上天，不能，有一黄头郎从后推之上天，顾见其衣裻带后穿。",
+      "translation": "孝文帝时期的宫中宠臣，士人有邓通，宦官有赵同和北宫伯子。北宫伯子因为仁爱和年长而受宠；而赵同因为星象占卜之术得幸，经常为文帝陪乘。邓通没有技能。邓通是蜀郡南安人，因为划船而成为黄头郎。孝文帝做梦想上天，却上不去，有一个黄头郎从后面推他上天，回头看时，看见那人的衣服腰带后面穿了个洞。",
+      "sentences": [
+        {
+          "original": "孝文时中宠臣，士人则邓通，宦者则赵同、北宫伯子。",
+          "translation": "孝文帝时期的宫中宠臣，士人有邓通，宦官有赵同和北宫伯子。",
+          "words": [
+            {
+              "word": "孝文",
+              "pinyin": "xiào wén",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时期",
+              "type": "实词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "宫中",
+              "type": "实词"
+            },
+            {
+              "word": "宠臣",
+              "pinyin": "chǒng chén",
+              "meaning": "受宠的臣子",
+              "type": "实词"
+            },
+            {
+              "word": "士人",
+              "pinyin": "shì rén",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "宦者",
+              "pinyin": "huàn zhě",
+              "meaning": "宦官",
+              "type": "实词"
+            },
+            {
+              "word": "赵同",
+              "pinyin": "zhào tóng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "北宫伯子",
+              "pinyin": "běi gōng bó zǐ",
+              "meaning": "人名",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "北宫伯子以爱人长者；而赵同以星气幸，常为文帝参乘；",
+          "translation": "北宫伯子因为仁爱和年长而受宠；而赵同因为星象占卜之术得幸，经常为文帝陪乘。",
+          "words": [
+            {
+              "word": "北宫伯子",
+              "pinyin": "běi gōng bó zǐ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "爱人",
+              "pinyin": "ài rén",
+              "meaning": "仁爱的人",
+              "type": "实词"
+            },
+            {
+              "word": "长者",
+              "pinyin": "zhǎng zhě",
+              "meaning": "年长有德者",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "赵同",
+              "pinyin": "zhào tóng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "星气",
+              "pinyin": "xīng qì",
+              "meaning": "星象气运",
+              "type": "实词"
+            },
+            {
+              "word": "幸",
+              "pinyin": "xìng",
+              "meaning": "受宠幸",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "文帝",
+              "pinyin": "wén dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "参乘",
+              "pinyin": "cān shèng",
+              "meaning": "陪乘",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "邓通无伎能。",
+          "translation": "邓通没有技能。",
+          "words": [
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "伎能",
+              "pinyin": "jì néng",
+              "meaning": "技能",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "邓通，蜀郡南安人也，以濯船为黄头郎。",
+          "translation": "邓通是蜀郡南安人，因为划船而成为黄头郎。",
+          "words": [
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "蜀郡",
+              "pinyin": "shǔ jùn",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "南安",
+              "pinyin": "nán ān",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "濯船",
+              "pinyin": "zhuó chuán",
+              "meaning": "划船",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "虚词"
+            },
+            {
+              "word": "黄头郎",
+              "pinyin": "huáng tóu láng",
+              "meaning": "船夫或官职",
+              "type": "官职"
+            }
+          ]
+        },
+        {
+          "original": "孝文帝梦欲上天，不能，有一黄头郎从后推之上天，顾见其衣裻带后穿。",
+          "translation": "孝文帝做梦想上天，却上不去，有一个黄头郎从后面推他上天，回头看时，看见那人的衣服腰带后面穿了个洞。",
+          "words": [
+            {
+              "word": "孝文帝",
+              "pinyin": "xiào wén dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "梦",
+              "pinyin": "mèng",
+              "meaning": "做梦",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "上天",
+              "pinyin": "shàng tiān",
+              "meaning": "升上天空",
+              "type": "实词"
+            },
+            {
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "不能够",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "一个",
+              "type": "实词"
+            },
+            {
+              "word": "黄头郎",
+              "pinyin": "huáng tóu láng",
+              "meaning": "船夫或官职",
+              "type": "官职"
+            },
+            {
+              "word": "从后",
+              "pinyin": "cóng hòu",
+              "meaning": "从后面",
+              "type": "实词"
+            },
+            {
+              "word": "推",
+              "pinyin": "tuī",
+              "meaning": "推",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "上天",
+              "pinyin": "shàng tiān",
+              "meaning": "升上天空",
+              "type": "实词"
+            },
+            {
+              "word": "顾见",
+              "pinyin": "gù jiàn",
+              "meaning": "回头看",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "衣裻",
+              "pinyin": "yī dū",
+              "meaning": "衣服背部",
+              "type": "实词"
+            },
+            {
+              "word": "带",
+              "pinyin": "dài",
+              "meaning": "腰带",
+              "type": "实词"
+            },
+            {
+              "word": "后穿",
+              "pinyin": "hòu chuān",
+              "meaning": "后面穿孔",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "觉而之渐台，以梦中阴目求推者郎，即见邓通，其衣后穿，梦中所见也。召问其名姓，姓邓氏，名通，文帝说焉，尊幸之日异。通亦愿谨，不好外交，虽赐洗沐，不欲出。於是文帝赏赐通巨万以十数，官至上大夫。文帝时时如邓通家游戏。然邓通无他能，不能有所荐士，独自谨其身以媚上而已。上使善相者相通，曰“当贫饿死”。文帝曰：“能富通者在我也。何谓贫乎？”於是赐邓通蜀严道铜山，得自铸钱，“邓氏钱”布天下。其富如此。",
+      "translation": "文帝醒来后前往渐台，根据梦中暗中观察寻找推他上天的郎官，随即看见邓通，他的衣服后面有洞，正是梦中所见。召见询问他的姓名，姓邓，名通，文帝很高兴，日益尊宠他。邓通也谨慎老实，不喜欢与外人交往，即使赐予休假，也不愿外出。于是文帝赏赐邓通巨万钱财多次，官位升至上大夫。文帝时常到邓通家游玩。但邓通没有其他才能，不能推荐士人，只是自身谨慎以取悦皇上。皇上派善于相面的人给邓通看相，说“应当贫穷饿死”。文帝说：“能使邓通富有的人是我。怎么说会贫穷呢？”于是赐给邓通蜀郡严道的铜山，可以自己铸钱，“邓氏钱”遍布天下。他富有到这种程度。",
+      "sentences": [
+        {
+          "original": "觉而之渐台，以梦中阴目求推者郎，即见邓通，其衣后穿，梦中所见也。",
+          "translation": "文帝醒来后前往渐台，根据梦中暗中观察寻找推他上天的郎官，随即看见邓通，他的衣服后面有洞，正是梦中所见。",
+          "words": [
+            {
+              "word": "觉",
+              "pinyin": "jué",
+              "meaning": "醒来",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "渐台",
+              "pinyin": "jiàn tái",
+              "meaning": "台名",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "梦中",
+              "pinyin": "mèng zhōng",
+              "meaning": "在梦中",
+              "type": "实词"
+            },
+            {
+              "word": "阴目",
+              "pinyin": "yīn mù",
+              "meaning": "暗中用眼",
+              "type": "实词"
+            },
+            {
+              "word": "求",
+              "pinyin": "qiú",
+              "meaning": "寻找",
+              "type": "实词"
+            },
+            {
+              "word": "推者郎",
+              "pinyin": "tuī zhě láng",
+              "meaning": "推车的郎官",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "Dèng Tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "实词"
+            },
+            {
+              "word": "衣后穿",
+              "pinyin": "yī hòu chuān",
+              "meaning": "衣服后有破洞",
+              "type": "实词"
+            },
+            {
+              "word": "梦中所见",
+              "pinyin": "mèng zhōng suǒ jiàn",
+              "meaning": "梦中见到的",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "召问其名姓，姓邓氏，名通，文帝说焉，尊幸之日异。",
+          "translation": "召见询问他的姓名，姓邓，名通，文帝很高兴，日益尊宠他。",
+          "words": [
+            {
+              "word": "召",
+              "pinyin": "zhào",
+              "meaning": "召唤",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "实词"
+            },
+            {
+              "word": "名姓",
+              "pinyin": "míng xìng",
+              "meaning": "姓名",
+              "type": "实词"
+            },
+            {
+              "word": "姓邓氏",
+              "pinyin": "xìng Dèng shì",
+              "meaning": "姓邓",
+              "type": "实词"
+            },
+            {
+              "word": "名通",
+              "pinyin": "míng Tōng",
+              "meaning": "名通",
+              "type": "实词"
+            },
+            {
+              "word": "文帝",
+              "pinyin": "Wén Dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "说",
+              "pinyin": "yuè",
+              "meaning": "通悦，高兴",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "尊幸",
+              "pinyin": "zūn xìng",
+              "meaning": "尊重宠幸",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "日异",
+              "pinyin": "rì yì",
+              "meaning": "日益特殊",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "通亦愿谨，不好外交，虽赐洗沐，不欲出。",
+          "translation": "邓通也谨慎老实，不喜欢与外人交往，即使赐予休假，也不愿外出。",
+          "words": [
+            {
+              "word": "通",
+              "pinyin": "Tōng",
+              "meaning": "邓通",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "实词"
+            },
+            {
+              "word": "愿谨",
+              "pinyin": "yuàn jǐn",
+              "meaning": "谨慎老实",
+              "type": "实词"
+            },
+            {
+              "word": "不好",
+              "pinyin": "bù hào",
+              "meaning": "不喜欢",
+              "type": "实词"
+            },
+            {
+              "word": "外交",
+              "pinyin": "wài jiāo",
+              "meaning": "对外交往",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "实词"
+            },
+            {
+              "word": "赐",
+              "pinyin": "cì",
+              "meaning": "赏赐",
+              "type": "实词"
+            },
+            {
+              "word": "洗沐",
+              "pinyin": "xǐ mù",
+              "meaning": "休假沐浴",
+              "type": "实词"
+            },
+            {
+              "word": "不欲",
+              "pinyin": "bù yù",
+              "meaning": "不想",
+              "type": "实词"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出去",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "於是文帝赏赐通巨万以十数，官至上大夫。",
+          "translation": "于是文帝赏赐邓通巨万钱财多次，官位升至上大夫。",
+          "words": [
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "文帝",
+              "pinyin": "Wén Dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "赏赐",
+              "pinyin": "shǎng cì",
+              "meaning": "奖赏赐予",
+              "type": "实词"
+            },
+            {
+              "word": "通",
+              "pinyin": "Tōng",
+              "meaning": "邓通",
+              "type": "人名"
+            },
+            {
+              "word": "巨万",
+              "pinyin": "jù wàn",
+              "meaning": "极多钱财",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "十数",
+              "pinyin": "shí shù",
+              "meaning": "数十次",
+              "type": "实词"
+            },
+            {
+              "word": "官至",
+              "pinyin": "guān zhì",
+              "meaning": "官职升到",
+              "type": "实词"
+            },
+            {
+              "word": "上大夫",
+              "pinyin": "shàng dà fū",
+              "meaning": "官职名",
+              "type": "官职"
+            }
+          ]
+        },
+        {
+          "original": "文帝时时如邓通家游戏。",
+          "translation": "文帝时常到邓通家游玩。",
+          "words": [
+            {
+              "word": "文帝",
+              "pinyin": "Wén Dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "时时",
+              "pinyin": "shí shí",
+              "meaning": "常常",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "到，去",
+              "type": "实词"
+            },
+            {
+              "word": "邓通家",
+              "pinyin": "Dèng Tōng jiā",
+              "meaning": "邓通的家",
+              "type": "实词"
+            },
+            {
+              "word": "游戏",
+              "pinyin": "yóu xì",
+              "meaning": "游玩",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "然邓通无他能，不能有所荐士，独自谨其身以媚上而已。",
+          "translation": "但邓通没有其他才能，不能推荐士人，只是自身谨慎以取悦皇上。",
+          "words": [
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "转折",
+              "type": "虚词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "Dèng Tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "他",
+              "pinyin": "tā",
+              "meaning": "其他",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "才能",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "荐",
+              "pinyin": "jiàn",
+              "meaning": "推荐",
+              "type": "实词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "独自",
+              "pinyin": "dú zì",
+              "meaning": "单独",
+              "type": "实词"
+            },
+            {
+              "word": "谨",
+              "pinyin": "jǐn",
+              "meaning": "谨慎",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "实词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "身体",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "媚",
+              "pinyin": "mèi",
+              "meaning": "谄媚",
+              "type": "实词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "而已",
+              "pinyin": "ér yǐ",
+              "meaning": "罢了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "上使善相者相通，曰“当贫饿死”。",
+          "translation": "皇上派善于相面的人给邓通看相，说“应当贫穷饿死”。",
+          "words": [
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "擅长",
+              "type": "实词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相面",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相面",
+              "type": "实词"
+            },
+            {
+              "word": "通",
+              "pinyin": "Tōng",
+              "meaning": "邓通",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应当",
+              "type": "实词"
+            },
+            {
+              "word": "贫",
+              "pinyin": "pín",
+              "meaning": "贫穷",
+              "type": "实词"
+            },
+            {
+              "word": "饿死",
+              "pinyin": "è sǐ",
+              "meaning": "饿死",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "文帝曰：“能富通者在我也。何谓贫乎？”",
+          "translation": "文帝说：“能使邓通富有的人是我。怎么说会贫穷呢？”",
+          "words": [
+            {
+              "word": "文帝",
+              "pinyin": "Wén Dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "富",
+              "pinyin": "fù",
+              "meaning": "使富",
+              "type": "实词"
+            },
+            {
+              "word": "通",
+              "pinyin": "Tōng",
+              "meaning": "邓通",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "在于",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "何谓",
+              "pinyin": "hé wèi",
+              "meaning": "什么叫",
+              "type": "实词"
+            },
+            {
+              "word": "贫",
+              "pinyin": "pín",
+              "meaning": "贫穷",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "於是赐邓通蜀严道铜山，得自铸钱，“邓氏钱”布天下。",
+          "translation": "于是赐给邓通蜀郡严道的铜山，可以自己铸钱，“邓氏钱”遍布天下。",
+          "words": [
+            {
+              "word": "於是",
+              "pinyin": "yú shì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "赐",
+              "pinyin": "cì",
+              "meaning": "赐给",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "Dèng Tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "蜀",
+              "pinyin": "Shǔ",
+              "meaning": "蜀郡",
+              "type": "地名"
+            },
+            {
+              "word": "严道",
+              "pinyin": "Yán Dào",
+              "meaning": "严道县",
+              "type": "地名"
+            },
+            {
+              "word": "铜山",
+              "pinyin": "tóng shān",
+              "meaning": "铜矿",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "得以",
+              "type": "实词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "铸",
+              "pinyin": "zhù",
+              "meaning": "铸造",
+              "type": "实词"
+            },
+            {
+              "word": "钱",
+              "pinyin": "qián",
+              "meaning": "钱币",
+              "type": "实词"
+            },
+            {
+              "word": "邓氏钱",
+              "pinyin": "Dèng Shì qián",
+              "meaning": "邓氏钱币",
+              "type": "器物"
+            },
+            {
+              "word": "布",
+              "pinyin": "bù",
+              "meaning": "遍布",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其富如此。",
+          "translation": "他富有到这种程度。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "实词"
+            },
+            {
+              "word": "富",
+              "pinyin": "fù",
+              "meaning": "富有",
+              "type": "实词"
+            },
+            {
+              "word": "如此",
+              "pinyin": "rú cǐ",
+              "meaning": "像这样",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "文帝尝病痈，邓通常为帝唶吮之。文帝不乐，从容问通曰：“天下谁最爱我者乎？”通曰：“宜莫如太子。”太子入问病，文帝使唶痈，唶痈而色难之。已而闻邓通常为帝唶吮之，心惭，由此怨通矣。及文帝崩，景帝立，邓通免，家居。",
+      "translation": "文帝曾经生了痈疮，邓通经常为他吸吮。文帝不高兴，从容地问邓通：“天下谁最爱我呢？”邓通说：“应该没有人比得上太子。”太子进宫问病，文帝让他吸吮痈疮，太子吸吮时面露难色。不久后听说邓通经常为文帝吸吮痈疮，心中感到惭愧，因此怨恨邓通。等到文帝去世，景帝即位，邓通被免职，闲居在家。",
+      "sentences": [
+        {
+          "original": "文帝尝病痈，邓通常为帝唶吮之。",
+          "translation": "文帝曾经生了痈疮，邓通经常为他吸吮。",
+          "words": [
+            {
+              "word": "文帝",
+              "pinyin": "wén dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "病",
+              "pinyin": "bìng",
+              "meaning": "生病",
+              "type": "实词"
+            },
+            {
+              "word": "痈",
+              "pinyin": "yōng",
+              "meaning": "毒疮",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替",
+              "type": "虚词"
+            },
+            {
+              "word": "帝",
+              "pinyin": "dì",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "唶吮",
+              "pinyin": "jí shǔn",
+              "meaning": "吮吸",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "文帝不乐，从容问通曰：“天下谁最爱我者乎？”",
+          "translation": "文帝不高兴，从容地问邓通说：“天下谁最爱我呢？”",
+          "words": [
+            {
+              "word": "文帝",
+              "pinyin": "wén dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "高兴",
+              "type": "实词"
+            },
+            {
+              "word": "从容",
+              "pinyin": "cóng róng",
+              "meaning": "悠闲地",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "谁",
+              "pinyin": "shuí",
+              "meaning": "谁",
+              "type": "虚词"
+            },
+            {
+              "word": "最",
+              "pinyin": "zuì",
+              "meaning": "最",
+              "type": "虚词"
+            },
+            {
+              "word": "爱",
+              "pinyin": "ài",
+              "meaning": "爱护",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "通曰：“宜莫如太子。”",
+          "translation": "邓通说：“应该没有人比得上太子。”",
+          "words": [
+            {
+              "word": "通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "虚词"
+            },
+            {
+              "word": "莫如",
+              "pinyin": "mò rú",
+              "meaning": "不如",
+              "type": "虚词"
+            },
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "太子",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "太子入问病，文帝使唶痈，唶痈而色难之。",
+          "translation": "太子进宫问病，文帝让他吸吮痈疮，太子吸吮时面露难色。",
+          "words": [
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "太子",
+              "type": "人名"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "病",
+              "pinyin": "bìng",
+              "meaning": "疾病",
+              "type": "实词"
+            },
+            {
+              "word": "文帝",
+              "pinyin": "wén dì",
+              "meaning": "汉文帝",
+              "type": "人名"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "唶痈",
+              "pinyin": "jí yōng",
+              "meaning": "吮吸痈疮",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "色难",
+              "pinyin": "sè nán",
+              "meaning": "面露难色",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "已而闻邓通常为帝唶吮之，心惭，由此怨通矣。",
+          "translation": "不久后听说邓通经常为文帝吸吮痈疮，心中感到惭愧，因此怨恨邓通。",
+          "words": [
+            {
+              "word": "已而",
+              "pinyin": "yǐ ér",
+              "meaning": "不久之后",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替",
+              "type": "虚词"
+            },
+            {
+              "word": "帝",
+              "pinyin": "dì",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "唶吮",
+              "pinyin": "jí shǔn",
+              "meaning": "吮吸",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            },
+            {
+              "word": "心惭",
+              "pinyin": "xīn cán",
+              "meaning": "心里惭愧",
+              "type": "实词"
+            },
+            {
+              "word": "由此",
+              "pinyin": "yóu cǐ",
+              "meaning": "从此",
+              "type": "虚词"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "及文帝崩，景帝立，邓通免，家居。",
+          "translation": "等到文帝去世，景帝即位，邓通被免职，闲居在家。",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "文帝",
+              "pinyin": "wén dì",
+              "meaning": "汉文帝刘恒",
+              "type": "人名"
+            },
+            {
+              "word": "崩",
+              "pinyin": "bēng",
+              "meaning": "帝王去世",
+              "type": "实词"
+            },
+            {
+              "word": "景帝",
+              "pinyin": "jǐng dì",
+              "meaning": "汉景帝刘启",
+              "type": "人名"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "登基即位",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "西汉文帝宠臣",
+              "type": "人名"
+            },
+            {
+              "word": "免",
+              "pinyin": "miǎn",
+              "meaning": "被免职",
+              "type": "实词"
+            },
+            {
+              "word": "家居",
+              "pinyin": "jiā jū",
+              "meaning": "在家闲居",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "居无何，人有告邓通盗出徼外铸钱。下吏验问，颇有之，遂竟案，尽没入邓通家，尚负责数巨万。长公主赐邓通，吏辄随没入之，一簪不得著身。於是长公主乃令假衣食。竟不得名一钱，寄死人家。",
+      "translation": "不久之后，有人告发邓通偷偷到境外铸钱。下吏审问，确有此事，于是结案，全部没收邓通家产，还欠债数巨万。长公主赐给邓通东西，官吏随即没收，连一根簪子都不能留在身上。于是长公主就让人借给他衣服和食物。最终不能拥有一文钱，寄居在别人家死去。",
+      "sentences": [
+        {
+          "original": "居无何，人有告邓通盗出徼外铸钱。",
+          "translation": "不久之后，有人告发邓通偷偷到境外铸钱。",
+          "words": [
+            {
+              "word": "居无何",
+              "pinyin": "jū wú hé",
+              "meaning": "不久之后",
+              "type": "成语"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "告",
+              "pinyin": "gào",
+              "meaning": "告发",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "盗出",
+              "pinyin": "dào chū",
+              "meaning": "偷运出",
+              "type": "实词"
+            },
+            {
+              "word": "徼外",
+              "pinyin": "jiào wài",
+              "meaning": "边境之外",
+              "type": "地名"
+            },
+            {
+              "word": "铸钱",
+              "pinyin": "zhù qián",
+              "meaning": "铸造钱币",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "下吏验问，颇有之，遂竟案，尽没入邓通家，尚负责数巨万。",
+          "translation": "下吏审问，确有此事，于是结案，全部没收邓通家产，还欠债数巨万。",
+          "words": [
+            {
+              "word": "下吏",
+              "pinyin": "xià lì",
+              "meaning": "下级官吏",
+              "type": "官职"
+            },
+            {
+              "word": "验问",
+              "pinyin": "yàn wèn",
+              "meaning": "审问",
+              "type": "实词"
+            },
+            {
+              "word": "颇",
+              "pinyin": "pō",
+              "meaning": "很",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这些",
+              "type": "虚词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "实词"
+            },
+            {
+              "word": "竟案",
+              "pinyin": "jìng àn",
+              "meaning": "最终定案",
+              "type": "实词"
+            },
+            {
+              "word": "尽",
+              "pinyin": "jìn",
+              "meaning": "全部",
+              "type": "实词"
+            },
+            {
+              "word": "没入",
+              "pinyin": "mò rù",
+              "meaning": "没收",
+              "type": "实词"
+            },
+            {
+              "word": "邓通家",
+              "pinyin": "dèng tōng jiā",
+              "meaning": "邓通的家产",
+              "type": "实词"
+            },
+            {
+              "word": "尚",
+              "pinyin": "shàng",
+              "meaning": "还",
+              "type": "实词"
+            },
+            {
+              "word": "负责",
+              "pinyin": "fù zé",
+              "meaning": "负债",
+              "type": "实词"
+            },
+            {
+              "word": "数巨万",
+              "pinyin": "shù jù wàn",
+              "meaning": "巨额钱财",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "长公主赐邓通，吏辄随没入之，一簪不得著身。",
+          "translation": "长公主赐给邓通东西，官吏随即没收，连一根簪子都不能留在身上。",
+          "words": [
+            {
+              "word": "长公主",
+              "pinyin": "cháng gōng zhǔ",
+              "meaning": "长公主",
+              "type": "人名"
+            },
+            {
+              "word": "赐",
+              "pinyin": "cì",
+              "meaning": "赐予",
+              "type": "实词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "官职"
+            },
+            {
+              "word": "辄",
+              "pinyin": "zhé",
+              "meaning": "就",
+              "type": "实词"
+            },
+            {
+              "word": "随",
+              "pinyin": "suí",
+              "meaning": "随即",
+              "type": "实词"
+            },
+            {
+              "word": "没入",
+              "pinyin": "mò rù",
+              "meaning": "没收",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它们",
+              "type": "虚词"
+            },
+            {
+              "word": "一簪",
+              "pinyin": "yī zān",
+              "meaning": "一根簪子",
+              "type": "实词"
+            },
+            {
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "不能",
+              "type": "实词"
+            },
+            {
+              "word": "著身",
+              "pinyin": "zhuó shēn",
+              "meaning": "穿戴在身",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "於是长公主乃令假衣食。",
+          "translation": "于是长公主就让人借给他衣服和食物。",
+          "words": [
+            {
+              "word": "於是",
+              "pinyin": "yú shì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "长公主",
+              "pinyin": "cháng gōng zhǔ",
+              "meaning": "长公主",
+              "type": "人名"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "就",
+              "type": "实词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "假衣食",
+              "pinyin": "jiǎ yī shí",
+              "meaning": "借给衣食",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "竟不得名一钱，寄死人家。",
+          "translation": "最终不能拥有一文钱，寄居在别人家死去。",
+          "words": [
+            {
+              "word": "竟",
+              "pinyin": "jìng",
+              "meaning": "最终",
+              "type": "实词"
+            },
+            {
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "不能",
+              "type": "实词"
+            },
+            {
+              "word": "名一钱",
+              "pinyin": "míng yī qián",
+              "meaning": "拥有一钱",
+              "type": "实词"
+            },
+            {
+              "word": "寄死",
+              "pinyin": "jì sǐ",
+              "meaning": "寄居而死",
+              "type": "实词"
+            },
+            {
+              "word": "人家",
+              "pinyin": "rén jiā",
+              "meaning": "别人家",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "孝景帝时，中无宠臣，然独郎中令周文仁，仁宠最过庸，乃不甚笃。",
+      "translation": "孝景帝时期，宫中没有宠臣，然而只有郎中令周文仁，他的宠爱超过一般人，但并不深厚。",
+      "sentences": [
+        {
+          "original": "孝景帝时，中无宠臣",
+          "translation": "孝景帝时期，宫中没有宠臣。",
+          "words": [
+            {
+              "word": "孝景帝",
+              "pinyin": "Xiào Jǐng Dì",
+              "meaning": "汉景帝刘启",
+              "type": "人名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "宫中",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "宠臣",
+              "pinyin": "chǒng chén",
+              "meaning": "受宠的臣子",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "然独郎中令周文仁，仁宠最过庸，乃不甚笃",
+          "translation": "然而只有郎中令周文仁，他的宠爱超过一般人，但并不深厚。",
+          "words": [
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "唯独",
+              "type": "实词"
+            },
+            {
+              "word": "郎中令",
+              "pinyin": "láng zhōng lìng",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "周文仁",
+              "pinyin": "Zhōu Wén Rén",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "仁",
+              "pinyin": "rén",
+              "meaning": "指周文仁",
+              "type": "人名"
+            },
+            {
+              "word": "宠",
+              "pinyin": "chǒng",
+              "meaning": "受宠",
+              "type": "实词"
+            },
+            {
+              "word": "最",
+              "pinyin": "zuì",
+              "meaning": "最",
+              "type": "实词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "超过",
+              "type": "实词"
+            },
+            {
+              "word": "庸",
+              "pinyin": "yōng",
+              "meaning": "平庸",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很",
+              "type": "实词"
+            },
+            {
+              "word": "笃",
+              "pinyin": "dǔ",
+              "meaning": "深厚",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "今天子中宠臣，士人则韩王孙嫣，宦者则李延年。嫣者，弓高侯孽孙也。今上为胶东王时，嫣与上学书相爱。及上为太子，愈益亲嫣。嫣善骑射，善佞。上即位，欲事伐匈奴，而嫣先习胡兵，以故益尊贵，官至上大夫，赏赐拟於邓通。",
+      "translation": "当今天子的宠臣中，士人是韩王孙嫣，宦者是李延年。嫣是弓高侯的孽孙。当今皇上还是胶东王时，嫣与皇上一起学习书法，关系亲密。等到皇上成为太子，更加亲近嫣。嫣擅长骑射，擅长谄媚。皇上即位后，打算讨伐匈奴，而嫣事先熟悉胡人兵法，因此更加尊贵，官至上大夫，赏赐可与邓通相比。",
+      "sentences": [
+        {
+          "original": "今天子中宠臣，士人则韩王孙嫣，宦者则李延年。",
+          "translation": "当今天子的宠臣中，士人是韩王孙嫣，宦者是李延年。",
+          "words": [
+            {
+              "word": "今天子",
+              "pinyin": "jīn tiān zǐ",
+              "meaning": "当今天子",
+              "type": "人名"
+            },
+            {
+              "word": "中宠臣",
+              "pinyin": "zhōng chǒng chén",
+              "meaning": "宫中的宠臣",
+              "type": "实词"
+            },
+            {
+              "word": "士人",
+              "pinyin": "shì rén",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "韩王孙嫣",
+              "pinyin": "hán wáng sūn yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "宦者",
+              "pinyin": "huàn zhě",
+              "meaning": "宦官",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "李延年",
+              "pinyin": "lǐ yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "嫣者，弓高侯孽孙也。",
+          "translation": "嫣是弓高侯的孽孙。",
+          "words": [
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "弓高侯",
+              "pinyin": "gōng gāo hóu",
+              "meaning": "弓高侯",
+              "type": "人名"
+            },
+            {
+              "word": "孽孙",
+              "pinyin": "niè sūn",
+              "meaning": "庶孙",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "今上为胶东王时，嫣与上学书相爱。",
+          "translation": "当今皇上还是胶东王时，嫣与皇上一起学习书法，关系亲密。",
+          "words": [
+            {
+              "word": "今上",
+              "pinyin": "jīn shàng",
+              "meaning": "当今天子",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "胶东王",
+              "pinyin": "jiāo dōng wáng",
+              "meaning": "胶东王",
+              "type": "人名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "学书",
+              "pinyin": "xué shū",
+              "meaning": "学习书法",
+              "type": "实词"
+            },
+            {
+              "word": "相爱",
+              "pinyin": "xiāng ài",
+              "meaning": "互相亲爱",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "及上为太子，愈益亲嫣。",
+          "translation": "等到皇上成为太子，更加亲近嫣。",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "太子",
+              "type": "官职"
+            },
+            {
+              "word": "愈益",
+              "pinyin": "yù yì",
+              "meaning": "更加",
+              "type": "实词"
+            },
+            {
+              "word": "亲",
+              "pinyin": "qīn",
+              "meaning": "亲近",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "嫣善骑射，善佞。",
+          "translation": "嫣擅长骑射，擅长谄媚。",
+          "words": [
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "擅长",
+              "type": "实词"
+            },
+            {
+              "word": "骑射",
+              "pinyin": "qí shè",
+              "meaning": "骑马射箭",
+              "type": "实词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "擅长",
+              "type": "实词"
+            },
+            {
+              "word": "佞",
+              "pinyin": "nìng",
+              "meaning": "谄媚",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "上即位，欲事伐匈奴，而嫣先习胡兵，以故益尊贵，官至上大夫，赏赐拟於邓通。",
+          "translation": "皇上即位后，打算讨伐匈奴，而嫣事先熟悉胡人兵法，因此更加尊贵，官至上大夫，赏赐可与邓通相比。",
+          "words": [
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "即位",
+              "pinyin": "jí wèi",
+              "meaning": "登基",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "计划从事",
+              "type": "实词"
+            },
+            {
+              "word": "伐",
+              "pinyin": "fá",
+              "meaning": "讨伐",
+              "type": "实词"
+            },
+            {
+              "word": "匈奴",
+              "pinyin": "xiōng nú",
+              "meaning": "北方民族",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "先前",
+              "type": "实词"
+            },
+            {
+              "word": "习",
+              "pinyin": "xí",
+              "meaning": "熟悉",
+              "type": "实词"
+            },
+            {
+              "word": "胡兵",
+              "pinyin": "hú bīng",
+              "meaning": "胡人军队",
+              "type": "实词"
+            },
+            {
+              "word": "以故",
+              "pinyin": "yǐ gù",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "更加",
+              "type": "实词"
+            },
+            {
+              "word": "尊贵",
+              "pinyin": "zūn guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "官至",
+              "pinyin": "guān zhì",
+              "meaning": "官职升到",
+              "type": "实词"
+            },
+            {
+              "word": "上大夫",
+              "pinyin": "shàng dà fū",
+              "meaning": "高级官职",
+              "type": "官职"
+            },
+            {
+              "word": "赏赐",
+              "pinyin": "shǎng cì",
+              "meaning": "赏赐",
+              "type": "实词"
+            },
+            {
+              "word": "拟於",
+              "pinyin": "nǐ yú",
+              "meaning": "比拟于",
+              "type": "虚词"
+            },
+            {
+              "word": "邓通",
+              "pinyin": "dèng tōng",
+              "meaning": "邓通",
+              "type": "人名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "时嫣常与上卧起。江都王入朝，有诏得从入猎上林中。天子车驾跸道未行，而先使嫣乘副车，从数十百骑，骛驰视兽。江都王望见，以为天子，辟从者，伏谒道傍。嫣驱不见。既过，江都王怒，为皇太后泣曰：“请得归国入宿卫，比韩嫣。”",
+      "translation": "当时韩嫣常与皇上同卧同起。江都王入朝，诏许随入上林苑打猎。天子车驾警戒未发，却先使韩嫣乘副车，率数十百骑，疾驰视兽。江都王望见，以为天子，命随从回避，伏地路旁拜见。韩嫣驱车而过，未加理会。事后江都王怒，对皇太后泣道：“请准我归国入宿卫，比照韩嫣。”",
+      "sentences": [
+        {
+          "original": "时嫣常与上卧起。",
+          "translation": "当时韩嫣常与皇上同卧同起。",
+          "words": [
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "当时",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "卧起",
+              "pinyin": "wò qǐ",
+              "meaning": "起居",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "江都王入朝，有诏得从入猎上林中。",
+          "translation": "江都王入朝，诏许随入上林苑打猎。",
+          "words": [
+            {
+              "word": "江都王",
+              "pinyin": "jiāng dū wáng",
+              "meaning": "江都王",
+              "type": "人名"
+            },
+            {
+              "word": "入朝",
+              "pinyin": "rù cháo",
+              "meaning": "入朝觐见",
+              "type": "实词"
+            },
+            {
+              "word": "有诏",
+              "pinyin": "yǒu zhào",
+              "meaning": "有诏令",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "从入",
+              "pinyin": "cóng rù",
+              "meaning": "跟随进入",
+              "type": "实词"
+            },
+            {
+              "word": "猎",
+              "pinyin": "liè",
+              "meaning": "打猎",
+              "type": "实词"
+            },
+            {
+              "word": "上林",
+              "pinyin": "shàng lín",
+              "meaning": "上林苑",
+              "type": "地名"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "里面",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "天子车驾跸道未行，而先使嫣乘副车，从数十百骑，骛驰视兽。",
+          "translation": "天子车驾警戒未发，却先使韩嫣乘副车，率数十百骑，疾驰视兽。",
+          "words": [
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "车驾",
+              "pinyin": "chē jià",
+              "meaning": "车马",
+              "type": "实词"
+            },
+            {
+              "word": "跸道",
+              "pinyin": "bì dào",
+              "meaning": "清道",
+              "type": "实词"
+            },
+            {
+              "word": "未行",
+              "pinyin": "wèi xíng",
+              "meaning": "未出发",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "先",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "乘",
+              "pinyin": "chéng",
+              "meaning": "乘坐",
+              "type": "实词"
+            },
+            {
+              "word": "副车",
+              "pinyin": "fù chē",
+              "meaning": "副车",
+              "type": "实词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "跟随",
+              "type": "实词"
+            },
+            {
+              "word": "数十百骑",
+              "pinyin": "shù shí bǎi qí",
+              "meaning": "众多骑兵",
+              "type": "实词"
+            },
+            {
+              "word": "骛驰",
+              "pinyin": "wù chí",
+              "meaning": "奔驰",
+              "type": "实词"
+            },
+            {
+              "word": "视兽",
+              "pinyin": "shì shòu",
+              "meaning": "看兽",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "江都王望见，以为天子，辟从者，伏谒道傍。嫣驱不见。",
+          "translation": "江都王望见，以为天子，命随从回避，伏地路旁拜见。韩嫣驱车而过，未加理会。",
+          "words": [
+            {
+              "word": "江都王",
+              "pinyin": "jiāng dū wáng",
+              "meaning": "江都王",
+              "type": "人名"
+            },
+            {
+              "word": "望见",
+              "pinyin": "wàng jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "辟",
+              "pinyin": "bì",
+              "meaning": "避开",
+              "type": "实词"
+            },
+            {
+              "word": "从者",
+              "pinyin": "cóng zhě",
+              "meaning": "随从",
+              "type": "实词"
+            },
+            {
+              "word": "伏谒",
+              "pinyin": "fú yè",
+              "meaning": "伏拜谒见",
+              "type": "实词"
+            },
+            {
+              "word": "道傍",
+              "pinyin": "dào bàng",
+              "meaning": "路旁",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "驱",
+              "pinyin": "qū",
+              "meaning": "驱马",
+              "type": "实词"
+            },
+            {
+              "word": "不见",
+              "pinyin": "bù jiàn",
+              "meaning": "不见",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "既过，江都王怒，为皇太后泣曰：“请得归国入宿卫，比韩嫣。”",
+          "translation": "事后江都王怒，对皇太后泣道：“请准我归国入宿卫，比照韩嫣。”",
+          "words": [
+            {
+              "word": "既过",
+              "pinyin": "jì guò",
+              "meaning": "已经过去",
+              "type": "实词"
+            },
+            {
+              "word": "江都王",
+              "pinyin": "jiāng dū wáng",
+              "meaning": "江都王",
+              "type": "人名"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "发怒",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "对",
+              "type": "虚词"
+            },
+            {
+              "word": "皇太后",
+              "pinyin": "huáng tài hòu",
+              "meaning": "皇太后",
+              "type": "人名"
+            },
+            {
+              "word": "泣曰",
+              "pinyin": "qì yuē",
+              "meaning": "哭着说",
+              "type": "实词"
+            },
+            {
+              "word": "请得",
+              "pinyin": "qǐng dé",
+              "meaning": "请求能够",
+              "type": "实词"
+            },
+            {
+              "word": "归国",
+              "pinyin": "guī guó",
+              "meaning": "回国",
+              "type": "实词"
+            },
+            {
+              "word": "入宿卫",
+              "pinyin": "rù sù wèi",
+              "meaning": "入宫宿卫",
+              "type": "实词"
+            },
+            {
+              "word": "比",
+              "pinyin": "bǐ",
+              "meaning": "比得上",
+              "type": "实词"
+            },
+            {
+              "word": "韩嫣",
+              "pinyin": "hán yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "太后由此嗛嫣。嫣侍上，出入永巷不禁，以奸闻皇太后。皇太后怒，使使赐嫣死。上为谢，终不能得，嫣遂死。而案道侯韩说，其弟也，亦佞幸。",
+      "translation": "太后因此对韩嫣怀恨在心。韩嫣侍奉皇上，出入永巷毫无禁忌，因奸情被皇太后得知。皇太后大怒，派人赐韩嫣死罪。皇上为他求情，但最终未能挽回，韩嫣于是死了。而案道侯韩说，是韩嫣的弟弟，也因谄媚而受宠。",
+      "sentences": [
+        {
+          "original": "太后由此嗛嫣。",
+          "translation": "太后因此对韩嫣怀恨在心。",
+          "words": [
+            {
+              "word": "太后",
+              "pinyin": "tài hòu",
+              "meaning": "皇帝的母亲",
+              "type": "人名"
+            },
+            {
+              "word": "由",
+              "pinyin": "yóu",
+              "meaning": "从、因为",
+              "type": "虚词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "嗛",
+              "pinyin": "qiè",
+              "meaning": "怀恨",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "嫣侍上，出入永巷不禁，以奸闻皇太后。",
+          "translation": "韩嫣侍奉皇上，出入永巷毫无禁忌，因奸情被皇太后得知。",
+          "words": [
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "侍",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "出入",
+              "pinyin": "chū rù",
+              "meaning": "进出",
+              "type": "实词"
+            },
+            {
+              "word": "永巷",
+              "pinyin": "yǒng xiàng",
+              "meaning": "宫中长巷",
+              "type": "地名"
+            },
+            {
+              "word": "不禁",
+              "pinyin": "bù jìn",
+              "meaning": "不禁止",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用、因为",
+              "type": "虚词"
+            },
+            {
+              "word": "奸",
+              "pinyin": "jiān",
+              "meaning": "奸情",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "使听到",
+              "type": "实词"
+            },
+            {
+              "word": "皇太后",
+              "pinyin": "huáng tài hòu",
+              "meaning": "皇帝的母亲",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "皇太后怒，使使赐嫣死。",
+          "translation": "皇太后大怒，派人赐韩嫣死罪。",
+          "words": [
+            {
+              "word": "皇太后",
+              "pinyin": "huáng tài hòu",
+              "meaning": "皇帝的母亲",
+              "type": "人名"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "发怒",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "使者",
+              "type": "实词"
+            },
+            {
+              "word": "赐",
+              "pinyin": "cì",
+              "meaning": "赐予",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "上为谢，终不能得，嫣遂死。",
+          "translation": "皇上为他求情，但最终未能挽回，韩嫣于是死了。",
+          "words": [
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替、为了",
+              "type": "虚词"
+            },
+            {
+              "word": "谢",
+              "pinyin": "xiè",
+              "meaning": "谢罪",
+              "type": "实词"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "最终",
+              "type": "实词"
+            },
+            {
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "不能",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "得到",
+              "type": "实词"
+            },
+            {
+              "word": "嫣",
+              "pinyin": "yān",
+              "meaning": "韩嫣",
+              "type": "人名"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "而案道侯韩说，其弟也，亦佞幸。",
+          "translation": "而案道侯韩说，是韩嫣的弟弟，也因谄媚而受宠。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "案道侯韩说",
+              "pinyin": "àn dào hóu hán yuè",
+              "meaning": "韩说封案道侯",
+              "type": "人名"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "实词"
+            },
+            {
+              "word": "弟",
+              "pinyin": "dì",
+              "meaning": "弟弟",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "佞幸",
+              "pinyin": "nìng xìng",
+              "meaning": "谄媚宠幸",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "李延年，中山人也。父母及身兄弟及女，皆故倡也。延年坐法腐，给事狗中。",
+      "translation": "李延年是中山人。他的父母以及他本人、兄弟和女儿，都是从前的倡优。李延年因犯法被处以腐刑，供职于狗中。",
+      "sentences": [
+        {
+          "original": "李延年，中山人也。",
+          "translation": "李延年是中山人。",
+          "words": [
+            {
+              "word": "李延年",
+              "pinyin": "lǐ yán nián",
+              "meaning": "西汉音乐家",
+              "type": "人名"
+            },
+            {
+              "word": "中山",
+              "pinyin": "zhōng shān",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "父母及身兄弟及女，皆故倡也。",
+          "translation": "他的父母以及他本人、兄弟和女儿，都是从前的倡优。",
+          "words": [
+            {
+              "word": "父母",
+              "pinyin": "fù mǔ",
+              "meaning": "父亲和母亲",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "自己",
+              "type": "实词"
+            },
+            {
+              "word": "兄弟",
+              "pinyin": "xiōng dì",
+              "meaning": "兄弟",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "女",
+              "pinyin": "nǚ",
+              "meaning": "女儿",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "旧时",
+              "type": "实词"
+            },
+            {
+              "word": "倡",
+              "pinyin": "chāng",
+              "meaning": "倡优",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "延年坐法腐，给事狗中。",
+          "translation": "李延年因犯法被处以腐刑，供职于狗中。",
+          "words": [
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            },
+            {
+              "word": "坐法",
+              "pinyin": "zuò fǎ",
+              "meaning": "犯法",
+              "type": "实词"
+            },
+            {
+              "word": "腐",
+              "pinyin": "fǔ",
+              "meaning": "腐刑",
+              "type": "实词"
+            },
+            {
+              "word": "给事",
+              "pinyin": "jǐ shì",
+              "meaning": "供职",
+              "type": "实词"
+            },
+            {
+              "word": "狗中",
+              "pinyin": "gǒu zhōng",
+              "meaning": "狗监",
+              "type": "官职"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "而平阳公主言延年女弟善舞，上见，心说之，及入永巷，而召贵延年。延年善歌，为变新声，而上方兴天地祠，欲造乐诗歌弦之。延年善承意，弦次初诗。其女弟亦幸，有子男。延年佩二千石印，号协声律。与上卧起，甚贵幸，埒如韩嫣也。",
+      "translation": "平阳公主说延年的妹妹善于跳舞，皇帝见到后心中喜悦，等到她进入永巷，便召见并尊宠延年。延年擅长歌唱，创制新声，而皇帝当时正兴建天地祠，想要创作乐诗来弦歌。延年善于承顺皇帝的心意，用弦乐编排初诗。他的妹妹也受到宠幸，生了一个儿子。延年佩戴二千石官印，号为协声律。与皇帝一同起居，极为尊贵宠幸，比得上韩嫣。",
+      "sentences": [
+        {
+          "original": "而平阳公主言延年女弟善舞，上见，心说之，及入永巷，而召贵延年。",
+          "translation": "平阳公主说延年的妹妹善于跳舞，皇帝见到后心中喜悦，等到她进入永巷，便召见并尊宠延年。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "表示承接",
+              "type": "虚词"
+            },
+            {
+              "word": "平阳公主",
+              "pinyin": "píng yáng gōng zhǔ",
+              "meaning": "汉武帝姐姐",
+              "type": "人名"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            },
+            {
+              "word": "女弟",
+              "pinyin": "nǚ dì",
+              "meaning": "妹妹",
+              "type": "实词"
+            },
+            {
+              "word": "善舞",
+              "pinyin": "shàn wǔ",
+              "meaning": "擅长跳舞",
+              "type": "实词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "内心",
+              "type": "实词"
+            },
+            {
+              "word": "说",
+              "pinyin": "yuè",
+              "meaning": "喜欢",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "她",
+              "type": "虚词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "永巷",
+              "pinyin": "yǒng xiàng",
+              "meaning": "宫中长巷",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "表示承接",
+              "type": "虚词"
+            },
+            {
+              "word": "召",
+              "pinyin": "zhào",
+              "meaning": "召见",
+              "type": "实词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "使尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "延年善歌，为变新声，而上方兴天地祠，欲造乐诗歌弦之。",
+          "translation": "延年擅长歌唱，创制新声，而皇帝当时正兴建天地祠，想要创作乐诗来弦歌。",
+          "words": [
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            },
+            {
+              "word": "善歌",
+              "pinyin": "shàn gē",
+              "meaning": "擅长唱歌",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "做",
+              "type": "实词"
+            },
+            {
+              "word": "变新声",
+              "pinyin": "biàn xīn shēng",
+              "meaning": "创作新曲调",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "表示承接",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "正在",
+              "type": "虚词"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "兴建",
+              "type": "实词"
+            },
+            {
+              "word": "天地祠",
+              "pinyin": "tiān dì cí",
+              "meaning": "祭祀天地祠庙",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "造",
+              "pinyin": "zào",
+              "meaning": "创作",
+              "type": "实词"
+            },
+            {
+              "word": "乐诗",
+              "pinyin": "yuè shī",
+              "meaning": "乐歌诗篇",
+              "type": "实词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "弦",
+              "pinyin": "xián",
+              "meaning": "弹奏",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "延年善承意，弦次初诗。",
+          "translation": "延年善于承顺皇帝的心意，用弦乐编排初诗。",
+          "words": [
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            },
+            {
+              "word": "善承意",
+              "pinyin": "shàn chéng yì",
+              "meaning": "善于迎合心意",
+              "type": "实词"
+            },
+            {
+              "word": "弦次初诗",
+              "pinyin": "xián cì chū shī",
+              "meaning": "弹奏编排初诗",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其女弟亦幸，有子男。",
+          "translation": "他的妹妹也受到宠幸，生了一个儿子。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "女弟",
+              "pinyin": "nǚ dì",
+              "meaning": "妹妹",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "幸",
+              "pinyin": "xìng",
+              "meaning": "受宠幸",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "子男",
+              "pinyin": "zǐ nán",
+              "meaning": "儿子",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "延年佩二千石印，号协声律。",
+          "translation": "延年佩戴二千石官印，号为协声律。",
+          "words": [
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            },
+            {
+              "word": "佩",
+              "pinyin": "pèi",
+              "meaning": "佩戴",
+              "type": "实词"
+            },
+            {
+              "word": "二千石印",
+              "pinyin": "èr qiān dàn yìn",
+              "meaning": "高官俸禄印",
+              "type": "官职"
+            },
+            {
+              "word": "号",
+              "pinyin": "hào",
+              "meaning": "称号",
+              "type": "实词"
+            },
+            {
+              "word": "协声律",
+              "pinyin": "xié shēng lǜ",
+              "meaning": "协调声律",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "与上卧起，甚贵幸，埒如韩嫣也。",
+          "translation": "与皇帝一同起居，极为尊贵宠幸，比得上韩嫣。",
+          "words": [
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和，跟",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "卧起",
+              "pinyin": "wò qǐ",
+              "meaning": "同起居",
+              "type": "实词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很，非常",
+              "type": "虚词"
+            },
+            {
+              "word": "贵幸",
+              "pinyin": "guì xìng",
+              "meaning": "尊贵受宠",
+              "type": "实词"
+            },
+            {
+              "word": "埒如",
+              "pinyin": "liè rú",
+              "meaning": "等同于",
+              "type": "实词"
+            },
+            {
+              "word": "韩嫣",
+              "pinyin": "Hán Yān",
+              "meaning": "汉武帝宠臣",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "久之，浸与中人乱，出入骄恣。及其女弟李夫人卒后，爱弛，则禽诛延年昆弟也。",
+      "translation": "过了一段时间，李延年逐渐与宫中之人发生淫乱行为，出入时骄傲放纵。等到他的妹妹李夫人去世后，宠爱减退，就逮捕并诛杀了李延年兄弟。",
+      "sentences": [
+        {
+          "original": "久之，浸与中人乱，出入骄恣。",
+          "translation": "过了一段时间，李延年逐渐与宫中之人发生淫乱行为，出入时骄傲放纵。",
+          "words": [
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "长久",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "浸",
+              "pinyin": "jìn",
+              "meaning": "逐渐",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "中人",
+              "pinyin": "zhōng rén",
+              "meaning": "宫中侍从",
+              "type": "实词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "淫乱",
+              "type": "实词"
+            },
+            {
+              "word": "出入",
+              "pinyin": "chū rù",
+              "meaning": "进出行为",
+              "type": "实词"
+            },
+            {
+              "word": "骄恣",
+              "pinyin": "jiāo zì",
+              "meaning": "骄傲放纵",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "及其女弟李夫人卒后，爱弛，则禽诛延年昆弟也。",
+          "translation": "等到他的妹妹李夫人去世后，宠爱减退，就逮捕并诛杀了李延年兄弟。",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "女弟",
+              "pinyin": "nǚ dì",
+              "meaning": "妹妹",
+              "type": "实词"
+            },
+            {
+              "word": "李夫人",
+              "pinyin": "lǐ fū rén",
+              "meaning": "李夫人",
+              "type": "人名"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "之后",
+              "type": "实词"
+            },
+            {
+              "word": "爱弛",
+              "pinyin": "ài chí",
+              "meaning": "宠爱减退",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "禽诛",
+              "pinyin": "qín zhū",
+              "meaning": "擒杀",
+              "type": "实词"
+            },
+            {
+              "word": "延年",
+              "pinyin": "yán nián",
+              "meaning": "李延年",
+              "type": "人名"
+            },
+            {
+              "word": "昆弟",
+              "pinyin": "kūn dì",
+              "meaning": "兄弟",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "自是之后，内宠嬖臣大底外戚之家，然不足数也。卫青、霍去病亦以外戚贵幸，然颇用材能自进。",
+      "translation": "从此以后，皇帝宠爱的臣子大都出自外戚家族，但不足以称道。卫青、霍去病也因为外戚关系而尊贵受宠，但主要凭借自己的才能进取。",
+      "sentences": [
+        {
+          "original": "自是之后，内宠嬖臣大底外戚之家，然不足数也。",
+          "translation": "从此以后，皇帝宠爱的臣子大都出自外戚家族，但不足以称道。",
+          "words": [
+            {
+              "word": "自是",
+              "pinyin": "zì shǐ",
+              "meaning": "从此",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "以后",
+              "type": "实词"
+            },
+            {
+              "word": "内宠",
+              "pinyin": "nèi chǒng",
+              "meaning": "内宫宠臣",
+              "type": "实词"
+            },
+            {
+              "word": "嬖臣",
+              "pinyin": "bì chén",
+              "meaning": "宠臣",
+              "type": "实词"
+            },
+            {
+              "word": "大底",
+              "pinyin": "dà dǐ",
+              "meaning": "大概",
+              "type": "实词"
+            },
+            {
+              "word": "外戚",
+              "pinyin": "wài qī",
+              "meaning": "外戚",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "家",
+              "pinyin": "jiā",
+              "meaning": "家庭",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "不足数",
+              "pinyin": "bù zú shǔ",
+              "meaning": "不值得计数",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "卫青、霍去病亦以外戚贵幸，然颇用材能自进。",
+          "translation": "卫青、霍去病也因为外戚关系而尊贵受宠，但主要凭借自己的才能进取。",
+          "words": [
+            {
+              "word": "卫青",
+              "pinyin": "wèi qīng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "霍去病",
+              "pinyin": "huò qù bìng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "外戚",
+              "pinyin": "wài qī",
+              "meaning": "外戚",
+              "type": "实词"
+            },
+            {
+              "word": "贵幸",
+              "pinyin": "guì xìng",
+              "meaning": "尊贵受宠",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "颇",
+              "pinyin": "pō",
+              "meaning": "很",
+              "type": "实词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "凭借",
+              "type": "实词"
+            },
+            {
+              "word": "材能",
+              "pinyin": "cái néng",
+              "meaning": "才能",
+              "type": "实词"
+            },
+            {
+              "word": "自进",
+              "pinyin": "zì jìn",
+              "meaning": "自我进取",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "太史公曰：甚哉爱憎之时！弥子瑕之行，足以观后人佞幸矣。虽百世可知也。",
+      "translation": "太史公说：爱憎的时机真是至关重要啊！弥子瑕的行为，足以用来观察后世的佞幸之人了。即使百代之后也能知道。",
+      "sentences": [
+        {
+          "original": "太史公曰：甚哉爱憎之时！",
+          "translation": "太史公说：爱憎的时机真是至关重要啊！",
+          "words": [
+            {
+              "word": "太史公曰",
+              "pinyin": "tài shǐ gōng yuē",
+              "meaning": "太史公说",
+              "type": "典故"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很、非常",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词，表感叹",
+              "type": "虚词"
+            },
+            {
+              "word": "爱憎",
+              "pinyin": "ài zēng",
+              "meaning": "喜爱和憎恶",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时机",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "弥子瑕之行，足以观后人佞幸矣。",
+          "translation": "弥子瑕的行为，足以用来观察后世的佞幸之人了。",
+          "words": [
+            {
+              "word": "弥子瑕",
+              "pinyin": "mí zǐ xiá",
+              "meaning": "春秋卫国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "行为",
+              "type": "实词"
+            },
+            {
+              "word": "足以",
+              "pinyin": "zú yǐ",
+              "meaning": "足够用来",
+              "type": "实词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观察",
+              "type": "实词"
+            },
+            {
+              "word": "后人",
+              "pinyin": "hòu rén",
+              "meaning": "后世的人",
+              "type": "实词"
+            },
+            {
+              "word": "佞幸",
+              "pinyin": "nìng xìng",
+              "meaning": "谄媚得宠",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词，表完成",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "虽百世可知也。",
+          "translation": "即使百代之后也能知道。",
+          "words": [
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "百世",
+              "pinyin": "bǎi shì",
+              "meaning": "百代",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词，表肯定",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "shiji",
+  "legacyId": "shiji_125"
+}

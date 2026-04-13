@@ -1,0 +1,2632 @@
+{
+  "id": "213_象祠记",
+  "title": "象祠记",
+  "author": {
+    "id": "ming_王守仁",
+    "name": "王守仁",
+    "dynasty": "ming",
+    "bio": "王守仁（1472-1529），字伯安，号阳明，浙江余姚人，明代著名思想家、哲学家、军事家和教育家，心学的集大成者。他提出“致良知”和“知行合一”的学说，对东亚哲学影响深远。生平经历丰富，曾平定宁王之乱，晚年致力于讲学传播心学，主要著作有《传习录》、《大学问》等。"
+  },
+  "source": "",
+  "dynasty": "ming",
+  "volume": 12,
+  "background": "《象祠记》是明代思想家王守仁（王阳明）在正德年间被贬贵州龙场驿丞期间所作。当时，王守仁因反对宦官刘瑾而遭贬谪，在贵州接触到当地苗夷等少数民族的文化，发现他们世代祭祀象——舜的弟弟，历史上被视为不仁之人。这引发了他的哲学思考，结合其心学思想，王守仁借此文章探讨人性本善和道德教化的可能性。文章写于他“龙场悟道”之后，体现了心学“致良知”的理念，同时反映了明朝对少数民族的治理背景以及王守仁个人经历的融合，旨在通过象祠的案例阐述教化的力量和普遍人性。",
+  "appreciation": "《象祠记》以问答形式展开，结构严谨，逻辑层层递进。开头叙述象祠的存在和修缮请求，引出核心疑问：为何祭祀不仁之象？王守仁通过历史对比（如唐代毁象祠）和儒家经典引用（如《尚书》、《孟子》），论证舜的德行感化了象，使象从不仁转变为善，从而升华主题，表达“人性本善，天下无不可化之人”的哲学观点。语言简洁有力，说理透彻，体现了王阳明文章的典型风格，融合了儒家“仁”与“教化”思想，是心学“知行合一”的实践体现。文章从具体事件引申到普遍道理，富有感染力，强调了道德修养和教化的重要性，对后世文学和哲学有深远影响。",
+  "tags": [
+    "王阳明心学",
+    "儒家教化",
+    "人性本善"
+  ],
+  "paragraphs": [
+    {
+      "original": "灵博之山，有象祠焉。其下诸苗夷之居者，咸神而祠之。宣尉安君因诸苗夷之请，新其祠屋，而请记于予。予曰：“毁之乎，其新之也？”曰：“新之。”",
+      "translation": "灵博山上有一座象的祠堂。山下居住的各个苗夷，都把它当作神来祭祀。宣尉安君应苗夷的请求，翻新了祠堂，并请我写一篇记。我问道：“是毁掉它，还是翻新它？”他回答说：“翻新它。”",
+      "sentences": [
+        {
+          "original": "灵博之山，有象祠焉。",
+          "translation": "灵博山上有一座象的祠堂。",
+          "words": [
+            {
+              "word": "灵博之山",
+              "pinyin": "líng bó zhī shān",
+              "meaning": "灵博山",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "象祠",
+              "pinyin": "xiàng cí",
+              "meaning": "象的祠堂",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其下诸苗夷之居者，咸神而祠之。",
+          "translation": "山下居住的各个苗夷，都把它当作神来祭祀。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "下面",
+              "type": "实词"
+            },
+            {
+              "word": "诸苗夷",
+              "pinyin": "zhū miáo yí",
+              "meaning": "各苗夷族",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "居者",
+              "pinyin": "jū zhě",
+              "meaning": "居住的人",
+              "type": "实词"
+            },
+            {
+              "word": "咸",
+              "pinyin": "xián",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "神",
+              "pinyin": "shén",
+              "meaning": "奉为神",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "祠",
+              "pinyin": "cí",
+              "meaning": "祭祀",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "宣尉安君因诸苗夷之请，新其祠屋，而请记于予。",
+          "translation": "宣尉安君应苗夷的请求，翻新了祠堂，并请我写一篇记。",
+          "words": [
+            {
+              "word": "宣尉安君",
+              "pinyin": "xuān wèi ān jūn",
+              "meaning": "宣尉安君",
+              "type": "人名"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "诸苗夷",
+              "pinyin": "zhū miáo yí",
+              "meaning": "各苗夷族",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "新",
+              "pinyin": "xīn",
+              "meaning": "翻新",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "祠屋",
+              "pinyin": "cí wū",
+              "meaning": "祠堂房屋",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "请记",
+              "pinyin": "qǐng jì",
+              "meaning": "请求记文",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "予",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "予曰：“毁之乎，其新之也？”",
+          "translation": "我问道：“是毁掉它，还是翻新它？”",
+          "words": [
+            {
+              "word": "予",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "毁",
+              "pinyin": "huǐ",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "呢",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "还是",
+              "type": "虚词"
+            },
+            {
+              "word": "新",
+              "pinyin": "xīn",
+              "meaning": "翻新",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“新之。”",
+          "translation": "他回答说：“翻新它。”",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "新",
+              "pinyin": "xīn",
+              "meaning": "翻新",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "“新之也何居乎？”曰：“斯祠之肇也，盖莫知其原，然吾诸蛮夷之居是者，自吾父、吾祖溯曾高而上，皆尊奉而禋祀焉，举而不改废也。”予曰：“胡然乎？",
+      "translation": "为什么要翻新它呢？安君说：‘这座祠庙的起源，大概没有人知道它的源头了，但是我们这些居住在这里的蛮夷，从我的父亲、祖父追溯到曾祖、高祖以上，都尊敬供奉并祭祀它，一直延续而不废弃。’我说：‘为什么会这样呢？’",
+      "sentences": [
+        {
+          "original": "“新之也何居乎？”",
+          "translation": "“为什么要翻新它呢？”",
+          "words": [
+            {
+              "word": "新之",
+              "pinyin": "xīn zhī",
+              "meaning": "更新它",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "何居",
+              "pinyin": "hé jū",
+              "meaning": "为什么",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "疑问语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“斯祠之肇也，盖莫知其原，然吾诸蛮夷之居是者，自吾父、吾祖溯曾高而上，皆尊奉而禋祀焉，举而不改废也。”",
+          "translation": "安君说：‘这座祠庙的起源，大概没有人知道它的源头了，但是我们这些居住在这里的蛮夷，从我的父亲、祖父追溯到曾祖、高祖以上，都尊敬供奉并祭祀它，一直延续而不废弃。’",
+          "words": [
+            {
+              "word": "斯祠",
+              "pinyin": "sī cí",
+              "meaning": "这个祠堂",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "肇",
+              "pinyin": "zhào",
+              "meaning": "起源",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "莫知",
+              "pinyin": "mò zhī",
+              "meaning": "无人知道",
+              "type": "实词"
+            },
+            {
+              "word": "其原",
+              "pinyin": "qí yuán",
+              "meaning": "它的起源",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我们",
+              "type": "虚词"
+            },
+            {
+              "word": "诸蛮夷",
+              "pinyin": "zhū mán yí",
+              "meaning": "各蛮夷",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "居是者",
+              "pinyin": "jū shì zhě",
+              "meaning": "居住者",
+              "type": "实词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "吾父",
+              "pinyin": "wú fù",
+              "meaning": "我父",
+              "type": "实词"
+            },
+            {
+              "word": "吾祖",
+              "pinyin": "wú zǔ",
+              "meaning": "我祖",
+              "type": "实词"
+            },
+            {
+              "word": "溯",
+              "pinyin": "sù",
+              "meaning": "追溯",
+              "type": "实词"
+            },
+            {
+              "word": "曾高",
+              "pinyin": "zēng gāo",
+              "meaning": "曾高祖",
+              "type": "实词"
+            },
+            {
+              "word": "而上",
+              "pinyin": "ér shàng",
+              "meaning": "以上",
+              "type": "虚词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "尊奉",
+              "pinyin": "zūn fèng",
+              "meaning": "尊奉",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "禋祀",
+              "pinyin": "yīn sì",
+              "meaning": "祭祀",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "举行",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "不改废",
+              "pinyin": "bù gǎi fèi",
+              "meaning": "不废弃",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "予曰：“胡然乎？”",
+          "translation": "我说：‘为什么会这样呢？’",
+          "words": [
+            {
+              "word": "予",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "胡然",
+              "pinyin": "hú rán",
+              "meaning": "为什么这样",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "疑问语气",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "有鼻之祀，唐之人盖尝毁之。象之道，以为子则不孝，以为弟则傲。斥于唐，而犹存于今；坏于有鼻，而犹盛于兹土也。胡然乎？”",
+      "translation": "有鼻的祭祀，唐朝的人曾经毁坏过它。象的行为，作为儿子则不孝，作为弟弟则傲慢。在唐朝被排斥，但至今仍然存在；在有鼻被毁坏，但在这片土地上仍然兴盛。为什么会这样呢？",
+      "sentences": [
+        {
+          "original": "有鼻之祀，唐之人盖尝毁之。",
+          "translation": "有鼻的祭祀，唐朝的人曾经毁坏过它。",
+          "words": [
+            {
+              "word": "有鼻",
+              "pinyin": "yǒu bí",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "祀",
+              "pinyin": "sì",
+              "meaning": "祭祀",
+              "type": "实词"
+            },
+            {
+              "word": "唐",
+              "pinyin": "táng",
+              "meaning": "唐朝",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人们",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "毁",
+              "pinyin": "huǐ",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "象之道，以为子则不孝，以为弟则傲。",
+          "translation": "象的行为，作为儿子则不孝，作为弟弟则傲慢。",
+          "words": [
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜弟",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "行为",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "不孝",
+              "pinyin": "bù xiào",
+              "meaning": "不孝顺",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "弟",
+              "pinyin": "dì",
+              "meaning": "弟弟",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "傲",
+              "pinyin": "ào",
+              "meaning": "傲慢",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "斥于唐，而犹存于今；坏于有鼻，而犹盛于兹土也。",
+          "translation": "在唐朝被排斥，但至今仍然存在；在有鼻被毁坏，但在这片土地上仍然兴盛。",
+          "words": [
+            {
+              "word": "斥",
+              "pinyin": "chì",
+              "meaning": "排斥",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "唐",
+              "pinyin": "táng",
+              "meaning": "唐朝",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "仍然",
+              "type": "虚词"
+            },
+            {
+              "word": "存",
+              "pinyin": "cún",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "坏",
+              "pinyin": "huài",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "有鼻",
+              "pinyin": "yǒu bí",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "仍然",
+              "type": "虚词"
+            },
+            {
+              "word": "盛",
+              "pinyin": "shèng",
+              "meaning": "兴盛",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "兹",
+              "pinyin": "zī",
+              "meaning": "此",
+              "type": "实词"
+            },
+            {
+              "word": "土",
+              "pinyin": "tǔ",
+              "meaning": "土地",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "胡然乎？",
+          "translation": "为什么会这样呢？",
+          "words": [
+            {
+              "word": "胡",
+              "pinyin": "hú",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "这样",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "我知之矣：君子之爱若人也，推及于其屋之乌，而况于圣人之弟乎哉。然则祠者为舜，非为象也。意象之死，其在干羽既格之后乎。不然，古之骜桀者岂少哉？而象之祠独延于世。吾于是盖有以见舜德之至，入人之深，而流泽之远且久也。",
+      "translation": "我明白了：君子爱那个人，连他屋上的乌鸦都爱，更何况是圣人的弟弟呢？那么，祠堂是为了舜，而不是为了象。推测象的死，大概在干羽已经感化之后吧？不然的话，古代骜桀不驯的人难道少吗？但象的祠堂却独独延续于世。我于是因此看到舜的德行至极，深入人心，流布恩泽深远而长久。",
+      "sentences": [
+        {
+          "original": "我知之矣：",
+          "translation": "我明白了：",
+          "words": [
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "第一人称代词",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它，指代事物",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了，表示完成",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "君子之爱若人也，推及于其屋之乌，而况于圣人之弟乎哉。",
+          "translation": "君子爱那个人，连他屋上的乌鸦都爱，更何况是圣人的弟弟呢？",
+          "words": [
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "有德行的人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的，结构助词",
+              "type": "虚词"
+            },
+            {
+              "word": "爱",
+              "pinyin": "ài",
+              "meaning": "爱护",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "这个",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "推及",
+              "pinyin": "tuī jí",
+              "meaning": "推广及于",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "实词"
+            },
+            {
+              "word": "屋",
+              "pinyin": "wū",
+              "meaning": "房屋",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "乌",
+              "pinyin": "wū",
+              "meaning": "乌鸦",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "况",
+              "pinyin": "kuàng",
+              "meaning": "何况",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "圣人",
+              "pinyin": "shèng rén",
+              "meaning": "品德最高的人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "弟",
+              "pinyin": "dì",
+              "meaning": "弟弟",
+              "type": "实词"
+            },
+            {
+              "word": "乎哉",
+              "pinyin": "hū zāi",
+              "meaning": "呢，语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "然则祠者为舜，非为象也。",
+          "translation": "那么，祠堂是为了舜，而不是为了象。",
+          "words": [
+            {
+              "word": "然则",
+              "pinyin": "rán zé",
+              "meaning": "既然如此，那么",
+              "type": "虚词"
+            },
+            {
+              "word": "祠",
+              "pinyin": "cí",
+              "meaning": "祠堂",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人或物",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "实词"
+            },
+            {
+              "word": "舜",
+              "pinyin": "Shùn",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "Xiàng",
+              "meaning": "舜的弟弟",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "意象之死，其在干羽既格之后乎。",
+          "translation": "推测象的死，大概在干羽已经感化之后吧？",
+          "words": [
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "推测",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜弟名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "表示推测",
+              "type": "虚词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "在于",
+              "type": "实词"
+            },
+            {
+              "word": "干羽",
+              "pinyin": "gān yǔ",
+              "meaning": "盾和羽，象征教化",
+              "type": "实词"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "格",
+              "pinyin": "gé",
+              "meaning": "感化",
+              "type": "实词"
+            },
+            {
+              "word": "之后",
+              "pinyin": "zhī hòu",
+              "meaning": "以后",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "不然，古之骜桀者岂少哉？而象之祠独延于世。",
+          "translation": "不然的话，古代骜桀不驯的人难道少吗？但象的祠堂却独独延续于世。",
+          "words": [
+            {
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "否则",
+              "type": "虚词"
+            },
+            {
+              "word": "古",
+              "pinyin": "gǔ",
+              "meaning": "古代",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "骜桀者",
+              "pinyin": "áo jié zhě",
+              "meaning": "凶暴的人",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "少",
+              "pinyin": "shǎo",
+              "meaning": "少",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜弟名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "祠",
+              "pinyin": "cí",
+              "meaning": "祠堂",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "唯独",
+              "type": "虚词"
+            },
+            {
+              "word": "延",
+              "pinyin": "yán",
+              "meaning": "延续",
+              "type": "实词"
+            },
+            {
+              "word": "于世",
+              "pinyin": "yú shì",
+              "meaning": "在世上",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "吾于是盖有以见舜德之至，入人之深，而流泽之远且久也。",
+          "translation": "我于是因此看到舜的德行至极，深入人心，流布恩泽深远而长久。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "有以",
+              "pinyin": "yǒu yǐ",
+              "meaning": "有用来",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "舜德",
+              "pinyin": "shùn dé",
+              "meaning": "舜的德行",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "极致",
+              "type": "实词"
+            },
+            {
+              "word": "入人",
+              "pinyin": "rù rén",
+              "meaning": "深入人心",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "深",
+              "pinyin": "shēn",
+              "meaning": "深",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "流泽",
+              "pinyin": "liú zé",
+              "meaning": "流传恩泽",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "远且久",
+              "pinyin": "yuǎn qiě jiǔ",
+              "meaning": "遥远且长久",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "象之不仁，盖其始焉耳，又乌知其终之不见化于舜也？《书》不云乎：“克谐以孝，烝烝乂，不格奸”，“瞽瞍亦允若”。则已化而为慈父。象犹不弟，不可以为谐。进治于善，则不至于恶。不底于奸，则必入于善。信乎象盖已化于舜矣。《孟子》曰：“天子使吏治其国”。象不得以有为也。斯盖舜爱象之深而虑之详，所以扶持辅导之者之周也。不然，周公之圣，而管蔡不免焉。斯可以见象之见化于舜，故能任贤使能，而安于其位，泽加于其民，既死而人怀之也。诸侯之卿，命于天子，盖《周官》之制，其殆仿于舜之封象欤？",
+      "translation": "象的不仁，大概只是他起初的表现罢了，又怎么知道他最终没有被舜感化呢？《尚书》不是说过吗：“能够用孝道和谐家庭，使家庭和睦，不陷入邪恶”，“瞽瞍也变得诚信和顺”。那么（瞽瞍）已经化为慈父了。象如果还不守弟道，就不能算是和谐。向善的方向前进，就不会至于邪恶；不陷入奸邪，就必定会进入善境。确实啊，象大概已经被舜感化了。《孟子》说：“天子派官吏治理他的国家。”象不能有所作为。这大概是舜对象的爱深切而考虑周详，扶持辅导他的方式周全。否则，像周公那样圣明，管叔、蔡叔却不免于作乱。由此可见象被舜感化，所以能够任用贤能，安于其位，施恩惠于百姓，死后人们怀念他。诸侯的卿由天子任命，大概是《周官》的制度，可能仿效了舜对象的分封。",
+      "sentences": [
+        {
+          "original": "象之不仁，盖其始焉耳，又乌知其终之不见化于舜也？",
+          "translation": "象的不仁，大概只是他起初的表现罢了，又怎么知道他最终没有被舜感化呢？",
+          "words": [
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜的弟弟",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "不仁",
+              "pinyin": "bù rén",
+              "meaning": "不仁慈",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "其始",
+              "pinyin": "qí shǐ",
+              "meaning": "他的开始",
+              "type": "实词"
+            },
+            {
+              "word": "焉耳",
+              "pinyin": "yān ěr",
+              "meaning": "罢了",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "乌知",
+              "pinyin": "wū zhī",
+              "meaning": "怎么知道",
+              "type": "实词"
+            },
+            {
+              "word": "其终",
+              "pinyin": "qí zhōng",
+              "meaning": "他的最终",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "取消句子独立性",
+              "type": "虚词"
+            },
+            {
+              "word": "不见化于舜",
+              "pinyin": "bù jiàn huà yú shùn",
+              "meaning": "不被舜感化",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "《书》不云乎：“克谐以孝，烝烝乂，不格奸”，“瞽瞍亦允若”。则已化而为慈父。",
+          "translation": "《尚书》不是说过吗：“能够用孝道和谐家庭，使家庭和睦，不陷入邪恶”，“瞽瞍也变得诚信和顺”。那么（瞽瞍）已经化为慈父了。",
+          "words": [
+            {
+              "word": "《书》",
+              "pinyin": "shū",
+              "meaning": "《尚书》",
+              "type": "典故"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "克谐以孝",
+              "pinyin": "kè xié yǐ xiào",
+              "meaning": "能以孝道和谐",
+              "type": "实词"
+            },
+            {
+              "word": "烝烝乂",
+              "pinyin": "zhēng zhēng yì",
+              "meaning": "淳厚治理",
+              "type": "实词"
+            },
+            {
+              "word": "不格奸",
+              "pinyin": "bù gé jiān",
+              "meaning": "不至奸恶",
+              "type": "实词"
+            },
+            {
+              "word": "瞽瞍亦允若",
+              "pinyin": "gǔ sǒu yì yǔn ruò",
+              "meaning": "瞽瞍也诚信顺从",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "化",
+              "pinyin": "huà",
+              "meaning": "变化",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "慈父",
+              "pinyin": "cí fù",
+              "meaning": "慈爱的父亲",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "象犹不弟，不可以为谐。进治于善，则不至于恶。不底于奸，则必入于善。",
+          "translation": "象如果还不守弟道，就不能算是和谐。向善的方向前进，就不会至于邪恶；不陷入奸邪，就必定会进入善境。",
+          "words": [
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜的弟弟",
+              "type": "人名"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "不弟",
+              "pinyin": "bù dì",
+              "meaning": "不尊敬兄长",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "做到",
+              "type": "实词"
+            },
+            {
+              "word": "谐",
+              "pinyin": "xié",
+              "meaning": "和谐",
+              "type": "实词"
+            },
+            {
+              "word": "进治",
+              "pinyin": "jìn zhì",
+              "meaning": "进修治理",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "善道",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "至于",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "恶",
+              "pinyin": "è",
+              "meaning": "恶",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "底",
+              "pinyin": "dǐ",
+              "meaning": "至",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "奸",
+              "pinyin": "jiān",
+              "meaning": "奸恶",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "必然",
+              "type": "虚词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "善",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "信乎象盖已化于舜矣。",
+          "translation": "确实啊，象大概已经被舜感化了。",
+          "words": [
+            {
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "确实",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "象",
+              "type": "人名"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "化",
+              "pinyin": "huà",
+              "meaning": "教化",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "被",
+              "type": "虚词"
+            },
+            {
+              "word": "舜",
+              "pinyin": "shùn",
+              "meaning": "舜",
+              "type": "人名"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "《孟子》曰：“天子使吏治其国”。象不得以有为也。",
+          "translation": "《孟子》说：“天子派官吏治理他的国家。”象不能有所作为。",
+          "words": [
+            {
+              "word": "孟子",
+              "pinyin": "mèng zǐ",
+              "meaning": "孟子书",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "天子",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "实词"
+            },
+            {
+              "word": "治",
+              "pinyin": "zhì",
+              "meaning": "治理",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "象",
+              "type": "人名"
+            },
+            {
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "有为",
+              "pinyin": "yǒu wéi",
+              "meaning": "有所作为",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "斯盖舜爱象之深而虑之详，所以扶持辅导之者之周也。",
+          "translation": "这大概是舜对象的爱深切而考虑周详，扶持辅导他的方式周全。",
+          "words": [
+            {
+              "word": "斯",
+              "pinyin": "sī",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "舜",
+              "pinyin": "shùn",
+              "meaning": "舜",
+              "type": "人名"
+            },
+            {
+              "word": "爱",
+              "pinyin": "ài",
+              "meaning": "爱护",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "象",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "深",
+              "pinyin": "shēn",
+              "meaning": "深切",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "虑",
+              "pinyin": "lǜ",
+              "meaning": "考虑",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "详",
+              "pinyin": "xiáng",
+              "meaning": "周详",
+              "type": "实词"
+            },
+            {
+              "word": "所以",
+              "pinyin": "suǒ yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "扶持",
+              "pinyin": "fú chí",
+              "meaning": "扶持",
+              "type": "实词"
+            },
+            {
+              "word": "辅导",
+              "pinyin": "fǔ dǎo",
+              "meaning": "辅导",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周到",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "不然，周公之圣，而管蔡不免焉。",
+          "translation": "否则，像周公那样圣明，管叔、蔡叔却不免于作乱。",
+          "words": [
+            {
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "否则",
+              "type": "虚词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "圣",
+              "pinyin": "shèng",
+              "meaning": "圣明",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "管蔡",
+              "pinyin": "Guǎn Cài",
+              "meaning": "管叔蔡叔",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "免",
+              "pinyin": "miǎn",
+              "meaning": "幸免",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "于此",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "斯可以见象之见化于舜，故能任贤使能，而安于其位，泽加于其民，既死而人怀之也。",
+          "translation": "由此可见象被舜感化，所以能够任用贤能，安于其位，施恩惠于百姓，死后人们怀念他。",
+          "words": [
+            {
+              "word": "斯",
+              "pinyin": "sī",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "可以",
+              "pinyin": "kě yǐ",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看出",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "Xiàng",
+              "meaning": "象",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "见化",
+              "pinyin": "jiàn huà",
+              "meaning": "被感化",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "被",
+              "type": "虚词"
+            },
+            {
+              "word": "舜",
+              "pinyin": "Shùn",
+              "meaning": "舜",
+              "type": "人名"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "任贤使能",
+              "pinyin": "rèn xián shǐ néng",
+              "meaning": "任用贤能",
+              "type": "典故"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "安于其位",
+              "pinyin": "ān yú qí wèi",
+              "meaning": "安于职位",
+              "type": "实词"
+            },
+            {
+              "word": "泽加于其民",
+              "pinyin": "zé jiā yú qí mín",
+              "meaning": "恩泽施于民",
+              "type": "实词"
+            },
+            {
+              "word": "既死",
+              "pinyin": "jì sǐ",
+              "meaning": "死后",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而",
+              "type": "虚词"
+            },
+            {
+              "word": "人怀之",
+              "pinyin": "rén huái zhī",
+              "meaning": "人怀念他",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "诸侯之卿，命于天子，盖《周官》之制，其殆仿于舜之封象欤？",
+          "translation": "诸侯的卿由天子任命，大概是《周官》的制度，可能仿效了舜对象的分封。",
+          "words": [
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "卿",
+              "pinyin": "qīng",
+              "meaning": "卿",
+              "type": "官职"
+            },
+            {
+              "word": "命于天子",
+              "pinyin": "mìng yú tiān zǐ",
+              "meaning": "由天子任命",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "《周官》",
+              "pinyin": "Zhōu Guān",
+              "meaning": "《周礼》",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "制",
+              "pinyin": "zhì",
+              "meaning": "制度",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "殆",
+              "pinyin": "dài",
+              "meaning": "恐怕",
+              "type": "虚词"
+            },
+            {
+              "word": "仿于舜之封象",
+              "pinyin": "fǎng yú Shùn zhī fēng Xiàng",
+              "meaning": "仿效舜封象",
+              "type": "实词"
+            },
+            {
+              "word": "欤",
+              "pinyin": "yú",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "吾于是盖有以信人性之善，天下无不可化之人也。然则唐人之毁之也，据象之始也；今之诸苗之奉之也，承象之终也。斯义也，吾将以表于世。使知人之不善，虽若象焉，犹可以改；而君子这修德，及其至也，虽若象之不仁，而犹可以化之也。",
+      "translation": "我因此大概有理由相信人性的善良，天下没有不能被教化的人。那么，唐人毁掉象祠，是根据象的初始行为；而今天苗民供奉他，是继承象的最终转变。这个道理，我将用来向世人表明。让人们知道，人的不善，即使像象那样，仍然可以改正；而君子修养德行，当达到极致时，即使像象那样不仁，也仍然可以被教化。",
+      "sentences": [
+        {
+          "original": "吾于是盖有以信人性之善，天下无不可化之人也。",
+          "translation": "我因此大概有理由相信人性的善良，天下没有不能被教化的人。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "在这种情况下",
+              "type": "虚词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "有以",
+              "pinyin": "yǒu yǐ",
+              "meaning": "有用来",
+              "type": "虚词"
+            },
+            {
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "相信",
+              "type": "实词"
+            },
+            {
+              "word": "人性",
+              "pinyin": "rén xìng",
+              "meaning": "人的本性",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "善良",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下人",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "化",
+              "pinyin": "huà",
+              "meaning": "教化",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "然则唐人之毁之也，据象之始也；今之诸苗之奉之也，承象之终也。",
+          "translation": "那么，唐人毁掉象祠，是根据象的初始行为；而今天苗民供奉他，是继承象的最终转变。",
+          "words": [
+            {
+              "word": "然则",
+              "pinyin": "rán zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "唐人",
+              "pinyin": "táng rén",
+              "meaning": "唐人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "毁",
+              "pinyin": "huǐ",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "据",
+              "pinyin": "jù",
+              "meaning": "根据",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "象",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "诸苗",
+              "pinyin": "zhū miáo",
+              "meaning": "诸苗族",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "奉",
+              "pinyin": "fèng",
+              "meaning": "供奉",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "承",
+              "pinyin": "chéng",
+              "meaning": "继承",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "象",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "终结",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "斯义也，吾将以表于世。",
+          "translation": "这个道理，我将用来向世人表明。",
+          "words": [
+            {
+              "word": "斯",
+              "pinyin": "sī",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "义",
+              "pinyin": "yì",
+              "meaning": "意义",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "表",
+              "pinyin": "biǎo",
+              "meaning": "表明",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "世间",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "使知人之不善，虽若象焉，犹可以改；而君子之修德，及其至也，虽若象之不仁，而犹可以化之也。",
+          "translation": "让人们知道，人的不善，即使像象那样，仍然可以改正；而君子修养德行，当达到极致时，即使像象那样不仁，也仍然可以被教化。",
+          "words": [
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "让、使得",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人类",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "不善",
+              "pinyin": "bù shàn",
+              "meaning": "不善良",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜弟象",
+              "type": "人名"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "一样",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "仍然",
+              "type": "虚词"
+            },
+            {
+              "word": "可以",
+              "pinyin": "kě yǐ",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "改",
+              "pinyin": "gǎi",
+              "meaning": "改正",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "有德之人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "修德",
+              "pinyin": "xiū dé",
+              "meaning": "修养德行",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "达到",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "极致",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "舜弟象",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "不仁",
+              "pinyin": "bù rén",
+              "meaning": "不仁慈",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "仍然",
+              "type": "虚词"
+            },
+            {
+              "word": "可以",
+              "pinyin": "kě yǐ",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "化",
+              "pinyin": "huà",
+              "meaning": "感化",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气结束",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

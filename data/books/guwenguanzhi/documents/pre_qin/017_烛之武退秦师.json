@@ -1,0 +1,1648 @@
+{
+  "id": "017_烛之武退秦师",
+  "title": "烛之武退秦师",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋末期鲁国史官，相传为《左传》的作者。字不详，生卒年约公元前501年至公元前451年（具体年份有争议）。他编撰了《左传》，全称《春秋左氏传》，是中国古代第一部叙事详细的编年体史书，记录了春秋时期的历史事件，对后世史学和文学有深远影响。左丘明以严谨的史笔和生动的叙事著称，其作品不仅保存了珍贵的历史资料，还展现了高超的文学艺术，被誉为“文宗史祖”。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 1,
+  "background": "《烛之武退秦师》出自《左传》，记录了春秋时期鲁僖公三十年（公元前630年）的历史事件。当时，晋文公在秦国支持下即位后，晋秦两国结盟，共同围攻郑国。起因是郑国曾对晋文公无礼，并在晋楚争霸中依附楚国，招致晋国报复。秦国作为晋国盟友参与围郑，但烛之武通过外交手段说服秦伯退兵，揭示了诸侯争霸中利益权衡的复杂性。这篇文章反映了春秋时期诸侯国间的外交策略和战争背景，展现了小国在大国夹缝中求生存的智慧，是研究先秦历史与政治的重要文献。",
+  "appreciation": "《烛之武退秦师》是一篇杰出的先秦历史散文，文学价值极高。文章叙事简洁明快，开篇直入主题，迅速交代晋秦围郑的危机，为烛之武的出场铺垫。烛之武的说辞是全文核心，逻辑严密，层层递进：先承认郑国将亡以示坦诚，再分析亡郑对秦无益反而利晋，接着提出保留郑国可为秦提供东道主便利，最后揭露晋国贪婪本性，以“阙秦以利晋”警示秦伯。这种利害分析手法体现了古代外交辞令的雄辩艺术，运用了对比、反问等修辞，增强说服力。人物刻画生动，烛之武虽年老却智慧超群，郑伯能认错纳谏，秦伯明智果断，晋文公则展现“仁”、“知”、“武”的道德观念。文章语言精炼，结构紧凑，通过对话推动情节，展示了《左传》作为历史散文的典范，对后世文学和史学影响深远。",
+  "tags": [
+    "历史散文",
+    "外交辞令",
+    "春秋时期"
+  ],
+  "paragraphs": [
+    {
+      "original": "晋侯、秦伯围郑，以其无礼于晋，且贰于楚也。晋军函陵，秦军泛南。佚之狐言于郑伯曰：“国危矣！若使烛之武见秦君，师必退。”公从之。辞曰：“臣之壮也，犹不如人；今老矣，无能为也已。”公曰：“吾不能早用子，今急而求子，是寡人之过也。然郑亡，子亦有不利焉！”许之。",
+      "translation": "晋侯和秦伯包围郑国，因为郑国对晋国无礼，并且对楚国有二心。晋军驻扎在函陵，秦军驻扎在泛南。佚之狐对郑伯说：“国家危险了！如果派烛之武去见秦君，军队一定会撤退。”郑伯听从了他的建议。烛之武推辞说：“我壮年的时候，尚且不如别人；现在老了，无能为力了。”郑伯说：“我不能早重用您，现在情况紧急才来求您，这是我的过错。然而郑国灭亡，对您也有不利啊！”烛之武答应了。",
+      "sentences": [
+        {
+          "original": "晋侯、秦伯围郑，以其无礼于晋，且贰于楚也。",
+          "translation": "晋侯和秦伯包围郑国，因为郑国对晋国无礼，并且对楚国有二心。",
+          "words": [
+            {
+              "word": "晋侯",
+              "pinyin": "jìn hóu",
+              "meaning": "晋国君主",
+              "type": "人名"
+            },
+            {
+              "word": "秦伯",
+              "pinyin": "qín bó",
+              "meaning": "秦国君主",
+              "type": "人名"
+            },
+            {
+              "word": "围郑",
+              "pinyin": "wéi zhèng",
+              "meaning": "围攻郑国",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它（指郑国）",
+              "type": "实词"
+            },
+            {
+              "word": "无礼",
+              "pinyin": "wú lǐ",
+              "meaning": "没有礼貌",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "晋",
+              "pinyin": "jìn",
+              "meaning": "晋国",
+              "type": "地名"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "楚",
+              "pinyin": "chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "晋军函陵，秦军泛南。",
+          "translation": "晋军驻扎在函陵，秦军驻扎在泛南。",
+          "words": [
+            {
+              "word": "晋军",
+              "pinyin": "jìn jūn",
+              "meaning": "晋国军队",
+              "type": "实词"
+            },
+            {
+              "word": "函陵",
+              "pinyin": "hán líng",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "秦军",
+              "pinyin": "qín jūn",
+              "meaning": "秦国军队",
+              "type": "实词"
+            },
+            {
+              "word": "泛南",
+              "pinyin": "fàn nán",
+              "meaning": "泛水之南",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "佚之狐言于郑伯曰：“国危矣！若使烛之武见秦君，师必退。”",
+          "translation": "佚之狐对郑伯说：“国家危险了！如果派烛之武去见秦君，军队一定会撤退。”",
+          "words": [
+            {
+              "word": "佚之狐",
+              "pinyin": "yì zhī hú",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对",
+              "type": "虚词"
+            },
+            {
+              "word": "郑伯",
+              "pinyin": "zhèng bó",
+              "meaning": "郑国君主",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "危",
+              "pinyin": "wēi",
+              "meaning": "危险",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "烛之武",
+              "pinyin": "zhú zhī wǔ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "拜见",
+              "type": "实词"
+            },
+            {
+              "word": "秦君",
+              "pinyin": "qín jūn",
+              "meaning": "秦国君主",
+              "type": "实词"
+            },
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "必定",
+              "type": "虚词"
+            },
+            {
+              "word": "退",
+              "pinyin": "tuì",
+              "meaning": "撤退",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "公从之。",
+          "translation": "郑伯听从了他的建议。",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "郑伯",
+              "type": "人名"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "听从",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它，指建议",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "辞曰：“臣之壮也，犹不如人；今老矣，无能为也已。”",
+          "translation": "烛之武推辞说：“我壮年的时候，尚且不如别人；现在老了，无能为力了。”",
+          "words": [
+            {
+              "word": "辞",
+              "pinyin": "cí",
+              "meaning": "推辞",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我，自称",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，取消独立性",
+              "type": "虚词"
+            },
+            {
+              "word": "壮",
+              "pinyin": "zhuàng",
+              "meaning": "壮年",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "不如",
+              "pinyin": "bù rú",
+              "meaning": "比不上",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "别人",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "老",
+              "pinyin": "lǎo",
+              "meaning": "年老",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "无能为",
+              "pinyin": "wú néng wéi",
+              "meaning": "不能有所作为",
+              "type": "实词"
+            },
+            {
+              "word": "也已",
+              "pinyin": "yě yǐ",
+              "meaning": "语气词连用",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "公曰：“吾不能早用子，今急而求子，是寡人之过也。然郑亡，子亦有不利焉！”",
+          "translation": "郑伯说：“我不能早重用您，现在情况紧急才来求您，这是我的过错。然而郑国灭亡，对您也有不利啊！”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "郑伯",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "不能够",
+              "type": "实词"
+            },
+            {
+              "word": "早",
+              "pinyin": "zǎo",
+              "meaning": "早些",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "任用",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "急",
+              "pinyin": "jí",
+              "meaning": "紧急",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "求",
+              "pinyin": "qiú",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "寡人",
+              "pinyin": "guǎ rén",
+              "meaning": "国君自称",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "过错",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "郑",
+              "pinyin": "zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "不利",
+              "pinyin": "bù lì",
+              "meaning": "没有好处",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "许之。",
+          "translation": "烛之武答应了。",
+          "words": [
+            {
+              "word": "许",
+              "pinyin": "xǔ",
+              "meaning": "答应",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "夜缒而出。见秦伯曰：“秦、晋围郑，郑既知亡矣。若亡郑而有益于君，敢以烦执事。越国以鄙远，君知其难也。焉用亡郑以陪邻？邻之厚，君之薄也。若舍郑以为东道主，行李之往来，共其乏困，君亦无所害。且君尝为晋君赐矣，许君焦、瑕，朝济而夕设版焉，君之所知也。夫晋何厌之有？既东封郑，又欲肆其西封。若不阙秦，将焉取之？阙秦以利晋，唯君图之。”",
+      "translation": "夜晚，烛之武用绳子从城墙上吊下去。见到秦伯说：“秦国和晋国包围郑国，郑国已经知道要灭亡了。如果灭亡郑国对您有好处，那就冒昧地麻烦您。越过别国把远方的郑国作为边邑，您知道那是很难的。为什么要灭亡郑国来增加邻国的土地呢？邻国的实力增强了，您的实力就相对削弱了。如果您放弃围攻郑国而把它当作东方道路上的主人，秦国使者往来，郑国可以供给他们所缺乏的东西，对您也没有什么害处。况且您曾经对晋君有恩，他答应给您焦、瑕两地，但早晨渡过黄河回国，晚上就筑城防御，这是您所知道的。晋国哪里有满足的时候？已经在东边向郑国开拓疆界，又想扩张它西边的疆界。如果不损害秦国，将从哪里取得土地呢？损害秦国而让晋国得利，希望您考虑这件事。”",
+      "sentences": [
+        {
+          "original": "夜缒而出。",
+          "translation": "夜晚，烛之武用绳子从城墙上吊下去。",
+          "words": [
+            {
+              "word": "夜",
+              "pinyin": "yè",
+              "meaning": "夜晚",
+              "type": "实词"
+            },
+            {
+              "word": "缒",
+              "pinyin": "zhuì",
+              "meaning": "用绳子拴着放下去",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，承接",
+              "type": "虚词"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出来",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "见秦伯曰：“秦、晋围郑，郑既知亡矣。”",
+          "translation": "见到秦伯说：“秦国和晋国包围郑国，郑国已经知道要灭亡了。”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "拜见",
+              "type": "实词"
+            },
+            {
+              "word": "秦伯",
+              "pinyin": "Qín bó",
+              "meaning": "秦穆公",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "Qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "晋",
+              "pinyin": "Jìn",
+              "meaning": "晋国",
+              "type": "地名"
+            },
+            {
+              "word": "围",
+              "pinyin": "wéi",
+              "meaning": "包围",
+              "type": "实词"
+            },
+            {
+              "word": "郑",
+              "pinyin": "Zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "郑",
+              "pinyin": "Zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若亡郑而有益于君，敢以烦执事。",
+          "translation": "如果灭亡郑国对您有好处，那就冒昧地麻烦您。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "使灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "郑",
+              "pinyin": "Zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，承接",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "具有",
+              "type": "实词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "好处",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "冒昧",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "烦",
+              "pinyin": "fán",
+              "meaning": "麻烦",
+              "type": "实词"
+            },
+            {
+              "word": "执事",
+              "pinyin": "zhí shì",
+              "meaning": "敬称对方",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "越国以鄙远，君知其难也。",
+          "translation": "越过别国把远方的郑国作为边邑，您知道那是很难的。",
+          "words": [
+            {
+              "word": "越国",
+              "pinyin": "yuè guó",
+              "meaning": "越过别国",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "鄙远",
+              "pinyin": "bǐ yuǎn",
+              "meaning": "远设边邑",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "困难",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "焉用亡郑以陪邻？邻之厚，君之薄也。",
+          "translation": "为什么要灭亡郑国来增加邻国的土地呢？邻国的实力增强了，您的实力就相对削弱了。",
+          "words": [
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "怎么",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "需要",
+              "type": "实词"
+            },
+            {
+              "word": "亡郑",
+              "pinyin": "wáng zhèng",
+              "meaning": "灭亡郑国",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "陪邻",
+              "pinyin": "péi lín",
+              "meaning": "增益邻国",
+              "type": "实词"
+            },
+            {
+              "word": "邻",
+              "pinyin": "lín",
+              "meaning": "邻国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "厚",
+              "pinyin": "hòu",
+              "meaning": "雄厚",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "薄",
+              "pinyin": "bó",
+              "meaning": "薄弱",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若舍郑以为东道主，行李之往来，共其乏困，君亦无所害。",
+          "translation": "如果您放弃围攻郑国而把它当作东方道路上的主人，秦国使者往来，郑国可以供给他们所缺乏的东西，对您也没有什么害处。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "舍郑",
+              "pinyin": "shě zhèng",
+              "meaning": "放弃郑国",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "东道主",
+              "pinyin": "dōng dào zhǔ",
+              "meaning": "东方主人",
+              "type": "实词"
+            },
+            {
+              "word": "行李",
+              "pinyin": "xíng lǐ",
+              "meaning": "使者",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "往来",
+              "pinyin": "wǎng lái",
+              "meaning": "来往",
+              "type": "实词"
+            },
+            {
+              "word": "共",
+              "pinyin": "gōng",
+              "meaning": "供给",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "虚词"
+            },
+            {
+              "word": "乏困",
+              "pinyin": "fá kùn",
+              "meaning": "匮乏",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "无所害",
+              "pinyin": "wú suǒ hài",
+              "meaning": "没有害处",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "且君尝为晋君赐矣，许君焦、瑕，朝济而夕设版焉，君之所知也。",
+          "translation": "况且您曾经对晋君有恩，他答应给您焦、瑕两地，但早晨渡过黄河回国，晚上就筑城防御，这是您所知道的。",
+          "words": [
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "给予",
+              "type": "实词"
+            },
+            {
+              "word": "晋君",
+              "pinyin": "jìn jūn",
+              "meaning": "晋国君主",
+              "type": "实词"
+            },
+            {
+              "word": "赐",
+              "pinyin": "cì",
+              "meaning": "恩惠",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "许",
+              "pinyin": "xǔ",
+              "meaning": "答应",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "焦",
+              "pinyin": "jiāo",
+              "meaning": "焦地",
+              "type": "地名"
+            },
+            {
+              "word": "瑕",
+              "pinyin": "xiá",
+              "meaning": "瑕地",
+              "type": "地名"
+            },
+            {
+              "word": "朝",
+              "pinyin": "zhāo",
+              "meaning": "早晨",
+              "type": "实词"
+            },
+            {
+              "word": "济",
+              "pinyin": "jì",
+              "meaning": "渡河",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "夕",
+              "pinyin": "xī",
+              "meaning": "傍晚",
+              "type": "实词"
+            },
+            {
+              "word": "设",
+              "pinyin": "shè",
+              "meaning": "设置",
+              "type": "实词"
+            },
+            {
+              "word": "版",
+              "pinyin": "bǎn",
+              "meaning": "防御墙",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "在那里",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "所知",
+              "pinyin": "suǒ zhī",
+              "meaning": "知道的事",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "夫晋何厌之有？既东封郑，又欲肆其西封。",
+          "translation": "晋国哪里有满足的时候？已经在东边向郑国开拓疆界，又想扩张它西边的疆界。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "晋",
+              "pinyin": "jìn",
+              "meaning": "晋国",
+              "type": "地名"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "实词"
+            },
+            {
+              "word": "厌",
+              "pinyin": "yàn",
+              "meaning": "满足",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "宾语前置标志",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "东",
+              "pinyin": "dōng",
+              "meaning": "在东边",
+              "type": "实词"
+            },
+            {
+              "word": "封",
+              "pinyin": "fēng",
+              "meaning": "划定疆界",
+              "type": "实词"
+            },
+            {
+              "word": "郑",
+              "pinyin": "zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "肆",
+              "pinyin": "sì",
+              "meaning": "扩张",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "西",
+              "pinyin": "xī",
+              "meaning": "西边",
+              "type": "实词"
+            },
+            {
+              "word": "封",
+              "pinyin": "fēng",
+              "meaning": "疆界",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "若不阙秦，将焉取之？阙秦以利晋，唯君图之。",
+          "translation": "如果不损害秦国，将从哪里取得土地呢？损害秦国而让晋国得利，希望您考虑这件事。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "阙",
+              "pinyin": "quē",
+              "meaning": "损害",
+              "type": "实词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "哪里",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "取得",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "实词"
+            },
+            {
+              "word": "阙",
+              "pinyin": "quē",
+              "meaning": "损害",
+              "type": "实词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "利",
+              "pinyin": "lì",
+              "meaning": "使得利",
+              "type": "实词"
+            },
+            {
+              "word": "晋",
+              "pinyin": "jìn",
+              "meaning": "晋国",
+              "type": "地名"
+            },
+            {
+              "word": "唯",
+              "pinyin": "wéi",
+              "meaning": "希望",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "图",
+              "pinyin": "tú",
+              "meaning": "考虑",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "秦伯说，与郑人盟，使杞子、逢孙、杨孙戍之，乃还。子犯请击之。公曰：“不可。微夫人之力不及此。因人之力而敝之，不仁；失其所与，不知；以乱易整，不武。吾其还也。”亦去之。",
+      "translation": "秦伯很高兴，与郑国结盟，派遣杞子、逢孙、杨孙戍守郑国，然后撤军。子犯请求攻击秦军。晋文公说：“不行。如果没有秦穆公的力量，我到不了今天。依靠了别人的力量却又去损害他，这是不仁义的；失掉自己的同盟者，这是不明智的；用混乱相攻取代联合一致，这是不勇武的。我们还是回去吧。”于是也撤军离开了。",
+      "sentences": [
+        {
+          "original": "秦伯说，与郑人盟，使杞子、逢孙、杨孙戍之，乃还。",
+          "translation": "秦伯很高兴，与郑国结盟，派遣杞子、逢孙、杨孙戍守郑国，然后撤军。",
+          "words": [
+            {
+              "word": "秦伯",
+              "pinyin": "Qín bó",
+              "meaning": "秦穆公",
+              "type": "人名"
+            },
+            {
+              "word": "说",
+              "pinyin": "yuè",
+              "meaning": "高兴",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "郑人",
+              "pinyin": "Zhèng rén",
+              "meaning": "郑国人",
+              "type": "实词"
+            },
+            {
+              "word": "盟",
+              "pinyin": "méng",
+              "meaning": "结盟",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "杞子",
+              "pinyin": "Qǐ zǐ",
+              "meaning": "秦大夫",
+              "type": "人名"
+            },
+            {
+              "word": "逢孙",
+              "pinyin": "Páng sūn",
+              "meaning": "秦大夫",
+              "type": "人名"
+            },
+            {
+              "word": "杨孙",
+              "pinyin": "Yáng sūn",
+              "meaning": "秦大夫",
+              "type": "人名"
+            },
+            {
+              "word": "戍",
+              "pinyin": "shù",
+              "meaning": "戍守",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指郑国",
+              "type": "虚词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "还",
+              "pinyin": "huán",
+              "meaning": "返回",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "子犯请击之。",
+          "translation": "子犯请求攻击秦军。",
+          "words": [
+            {
+              "word": "子犯",
+              "pinyin": "Zǐ fàn",
+              "meaning": "晋大夫",
+              "type": "人名"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "击",
+              "pinyin": "jī",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指秦军",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "公曰：“不可。微夫人之力不及此。因人之力而敝之，不仁；失其所与，不知；以乱易整，不武。吾其还也。”",
+          "translation": "晋文公说：“不行。如果没有秦穆公的力量，我到不了今天。依靠了别人的力量却又去损害他，这是不仁义的；失掉自己的同盟者，这是不明智的；用混乱相攻取代联合一致，这是不勇武的。我们还是回去吧。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "Gōng",
+              "meaning": "晋文公",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "微",
+              "pinyin": "wēi",
+              "meaning": "如果没有",
+              "type": "虚词"
+            },
+            {
+              "word": "夫人",
+              "pinyin": "fū rén",
+              "meaning": "那个人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "力",
+              "pinyin": "lì",
+              "meaning": "力量",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "达到",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这个",
+              "type": "虚词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "依靠",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "他人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "力",
+              "pinyin": "lì",
+              "meaning": "力量",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "敝",
+              "pinyin": "bì",
+              "meaning": "损害",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指他人",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "仁",
+              "pinyin": "rén",
+              "meaning": "仁义",
+              "type": "实词"
+            },
+            {
+              "word": "失",
+              "pinyin": "shī",
+              "meaning": "失去",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "自己的",
+              "type": "虚词"
+            },
+            {
+              "word": "所与",
+              "pinyin": "suǒ yǔ",
+              "meaning": "所结交的盟友",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhì",
+              "meaning": "明智",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "混乱",
+              "type": "实词"
+            },
+            {
+              "word": "易",
+              "pinyin": "yì",
+              "meaning": "代替",
+              "type": "实词"
+            },
+            {
+              "word": "整",
+              "pinyin": "zhěng",
+              "meaning": "整齐",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "武",
+              "pinyin": "wǔ",
+              "meaning": "武德",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "还",
+              "pinyin": "huán",
+              "meaning": "回去",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "亦去之。",
+          "translation": "于是也撤军离开了。",
+          "words": [
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "离开",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

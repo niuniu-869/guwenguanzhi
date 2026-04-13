@@ -1,0 +1,2690 @@
+{
+  "id": "028_季札观周乐",
+  "title": "季札观周乐",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋时期鲁国史官，生卒年不详，约活动于公元前5世纪。相传他双目失明，故称'盲左'。他是中国古代著名的史学家和文学家，被尊为中国传统史学的创始人之一。左丘明著有《左传》，全称《春秋左氏传》，是中国第一部叙事详细的编年体史书，记载了春秋时期的历史。他的作品对后世史学和文学产生了深远影响，被誉为'文宗史祖'，通过《左传》不仅记录历史事件，还融入道德评判和哲学思考，展现了高超的叙事技巧。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 2,
+  "background": "《季札观周乐》出自《左传》，记载了春秋时期吴国公子季札访问鲁国时观赏周乐的事件。鲁国作为周公旦的封地，保存了完整的周朝礼乐文化，是当时礼乐中心的象征。季札通过评论诗歌和舞蹈，展现了周朝的德政和各国的兴衰，反映了春秋时期诸侯国之间的文化交流和季札对周朝文化的推崇。左丘明记录此事，旨在通过季札的智慧，彰显礼乐在政治和社会中的重要性。春秋时期，周王室衰微，但礼乐文化仍在诸侯国中传承，季札的观乐行为体现了对传统文化的尊重和继承，同时也隐含了对当时政治局势的评判，强调了'乐与政通'的思想。",
+  "appreciation": "《季札观周乐》是一篇富有哲理的散文，通过季札对周乐的评论，展现了先秦时期音乐与政治、道德的紧密联系。文章语言精炼，使用大量排比和对仗句式，如'直而不倨，曲而不屈'，增强了节奏感和表现力，体现了先秦散文的简洁风格。季札的评论不仅针对音乐本身，更延伸到国家的兴衰和君主的德行，体现了'观乐知政'的思想。例如，他评论《郑风》说'其细已甚，民弗堪也'，预示郑国的衰亡；评论《齐风》则赞美其宏大，预示齐国的强盛。文章结构清晰，按诗歌和舞蹈的顺序展开，层次分明，从《周南》《召南》到《颂》，逐步深化主题。季札对《颂》的赞美达到了高潮，称其'至矣哉'，强调了盛德的境界，融合了儒家道德观念。在文学价值上，这篇文章不仅是历史记录，更是艺术创作，生动刻画了季札的形象，展现了左丘明高超的叙事技巧和深刻的历史洞察力，对后世文学和史学产生了深远影响。",
+  "tags": [
+    "春秋历史",
+    "音乐评论",
+    "散文艺术"
+  ],
+  "paragraphs": [
+    {
+      "original": "吴公子札来聘，请观于周乐。使工为之歌《周南》、《召南》，曰：“美哉！",
+      "translation": "吴国的公子札来访问，请求观赏周朝的乐舞。让乐工为他歌唱《周南》和《召南》，他说：“美啊！”",
+      "sentences": [
+        {
+          "original": "吴公子札来聘",
+          "translation": "吴国的公子札来访问",
+          "words": [
+            {
+              "word": "吴公子札",
+              "pinyin": "wú gōng zǐ zhá",
+              "meaning": "吴国公子札",
+              "type": "人名"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "前来",
+              "type": "实词"
+            },
+            {
+              "word": "聘",
+              "pinyin": "pìn",
+              "meaning": "访问",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "请观于周乐",
+          "translation": "请求观赏周朝的乐舞",
+          "words": [
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观看",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "周乐",
+              "pinyin": "zhōu yuè",
+              "meaning": "周朝乐舞",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "使工为之歌《周南》、《召南》",
+          "translation": "让乐工为他歌唱《周南》和《召南》",
+          "words": [
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "让",
+              "type": "实词"
+            },
+            {
+              "word": "工",
+              "pinyin": "gōng",
+              "meaning": "乐工",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "周南",
+              "pinyin": "zhōu nán",
+              "meaning": "诗经篇章",
+              "type": "典故"
+            },
+            {
+              "word": "召南",
+              "pinyin": "shào nán",
+              "meaning": "诗经篇章",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "曰：“美哉！”",
+          "translation": "说：“美啊！”",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美好",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "始基之矣，犹未也，然勤而不怨矣！”为之歌《邶》、《鄘》、《卫》，曰：“美哉，渊乎！忧而不困者也。吾闻卫康叔、武公之德如是，是其《卫风》乎？”",
+      "translation": "季札说：“（《周南》、《召南》）已经开始打下基础了，但还没有成功，不过人民勤劳而没有怨言。”乐工为他歌唱《邶风》、《鄘风》、《卫风》，季札说：“美妙啊，多么深沉！忧愁而不窘迫。我听说卫康叔、武公的德行就像这样，这莫非是《卫风》吗？”",
+      "sentences": [
+        {
+          "original": "始基之矣，犹未也，然勤而不怨矣！",
+          "translation": "已经开始打下基础了，但还没有成功，不过人民勤劳而没有怨言。",
+          "words": [
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "基",
+              "pinyin": "jī",
+              "meaning": "奠基",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词",
+              "type": "虚词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "勤",
+              "pinyin": "qín",
+              "meaning": "勤劳",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《邶》、《鄘》、《卫》，曰：“美哉，渊乎！忧而不困者也。吾闻卫康叔、武公之德如是，是其《卫风》乎？”",
+          "translation": "乐工为他歌唱《邶风》、《鄘风》、《卫风》，季札说：“美妙啊，多么深沉！忧愁而不窘迫。我听说卫康叔、武公的德行就像这样，这莫非是《卫风》吗？”",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "给",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "《邶》",
+              "pinyin": "bèi",
+              "meaning": "邶风诗歌",
+              "type": "典故"
+            },
+            {
+              "word": "《鄘》",
+              "pinyin": "yōng",
+              "meaning": "鄘风诗歌",
+              "type": "典故"
+            },
+            {
+              "word": "《卫》",
+              "pinyin": "wèi",
+              "meaning": "卫风诗歌",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美好",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "渊",
+              "pinyin": "yuān",
+              "meaning": "深远",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "忧",
+              "pinyin": "yōu",
+              "meaning": "忧虑",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "困",
+              "pinyin": "kùn",
+              "meaning": "困窘",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "卫康叔",
+              "pinyin": "wèi kāng shū",
+              "meaning": "卫国康叔",
+              "type": "人名"
+            },
+            {
+              "word": "武公",
+              "pinyin": "wǔ gōng",
+              "meaning": "卫武公",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "德行",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这样",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "《卫风》",
+              "pinyin": "wèi fēng",
+              "meaning": "卫风诗歌",
+              "type": "典故"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "为之歌《王》，曰：“美哉！思而不惧，其周之东乎？”为之歌《郑》，曰：“美哉！其细已甚，民弗堪也。是其先亡乎？”为之歌《齐》，曰：“美哉！泱泱乎，大风也哉！表东海者，其大公乎？国未可量也。”为之歌《豳》，曰：“美哉，荡乎！乐而不淫，其周公之东乎？”为之歌《秦》，曰：“此之谓夏声。",
+      "translation": "当乐工为季札歌唱《王》时，季札说：“真美啊！有忧思但不恐惧，这大概是周朝东迁以后的诗歌吧？”当歌唱《郑》时，他说：“真美啊！但过于琐细，百姓不能忍受。这恐怕是要先灭亡的吧？”当歌唱《齐》时，他说：“真美啊！宏大啊，这是大国的音乐啊！作为东海一带的表率，大概是太公的国家吧？国家前途不可限量。”当歌唱《豳》时，他说：“真美啊，博大啊！快乐而不过度，这大概是周公东征时的诗歌吧？”当歌唱《秦》时，他说：“这就是所谓的夏声。”",
+      "sentences": [
+        {
+          "original": "为之歌《王》，曰：“美哉！思而不惧，其周之东乎？”",
+          "translation": "当为他歌唱《王》时，季札说：“真美啊！忧思而不恐惧，这大概是周朝东迁以后的诗歌吧？”",
+          "words": [
+            {
+              "word": "为之",
+              "pinyin": "wèi zhī",
+              "meaning": "给他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wáng",
+              "meaning": "《王风》",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美哉",
+              "pinyin": "měi zāi",
+              "meaning": "美啊",
+              "type": "实词"
+            },
+            {
+              "word": "思而不惧",
+              "pinyin": "sī ér bù jù",
+              "meaning": "思虑不惧",
+              "type": "实词"
+            },
+            {
+              "word": "其周之东乎",
+              "pinyin": "qí zhōu zhī dōng hū",
+              "meaning": "周东迁吧",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《郑》，曰：“美哉！其细已甚，民弗堪也。是其先亡乎？”",
+          "translation": "当为他歌唱《郑》时，季札说：“真美啊！但过于琐细，百姓不能忍受。这恐怕是要先灭亡的吧？”",
+          "words": [
+            {
+              "word": "为之",
+              "pinyin": "wèi zhī",
+              "meaning": "给他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "郑",
+              "pinyin": "zhèng",
+              "meaning": "《郑风》",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美哉",
+              "pinyin": "měi zāi",
+              "meaning": "美啊",
+              "type": "实词"
+            },
+            {
+              "word": "其细已甚",
+              "pinyin": "qí xì yǐ shèn",
+              "meaning": "琐碎太过",
+              "type": "实词"
+            },
+            {
+              "word": "民弗堪也",
+              "pinyin": "mín fú kān yě",
+              "meaning": "民不堪受",
+              "type": "实词"
+            },
+            {
+              "word": "是其先亡乎",
+              "pinyin": "shì qí xiān wáng hū",
+              "meaning": "先灭亡吧",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《齐》，曰：“美哉！泱泱乎，大风也哉！表东海者，其大公乎？国未可量也。”",
+          "translation": "当为他歌唱《齐》时，季札说：“真美啊！宏大啊，这是大国的音乐啊！作为东海一带的表率，大概是太公的国家吧？国家前途不可限量。”",
+          "words": [
+            {
+              "word": "为之",
+              "pinyin": "wèi zhī",
+              "meaning": "给他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "《齐风》",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美哉",
+              "pinyin": "měi zāi",
+              "meaning": "美啊",
+              "type": "实词"
+            },
+            {
+              "word": "泱泱乎",
+              "pinyin": "yāng yāng hū",
+              "meaning": "宏大啊",
+              "type": "实词"
+            },
+            {
+              "word": "大风也哉",
+              "pinyin": "dà fēng yě zāi",
+              "meaning": "大风啊",
+              "type": "实词"
+            },
+            {
+              "word": "表东海者",
+              "pinyin": "biǎo dōng hǎi zhě",
+              "meaning": "表率东海者",
+              "type": "实词"
+            },
+            {
+              "word": "其大公乎",
+              "pinyin": "qí dà gōng hū",
+              "meaning": "太公吧",
+              "type": "虚词"
+            },
+            {
+              "word": "国未可量也",
+              "pinyin": "guó wèi kě liàng yě",
+              "meaning": "国不可量",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《豳》，曰：“美哉，荡乎！乐而不淫，其周公之东乎？”",
+          "translation": "当为他歌唱《豳》时，季札说：“真美啊，博大啊！快乐而不过度，这大概是周公东征时的诗歌吧？”",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "介词，给",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "动词，歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "豳",
+              "pinyin": "bīn",
+              "meaning": "地名，古国名",
+              "type": "地名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "形容词，美好",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "叹词，啊",
+              "type": "虚词"
+            },
+            {
+              "word": "荡",
+              "pinyin": "dàng",
+              "meaning": "形容词，广大",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "助词，啊",
+              "type": "虚词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "动词，快乐",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，但是",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，不",
+              "type": "虚词"
+            },
+            {
+              "word": "淫",
+              "pinyin": "yín",
+              "meaning": "动词，过度",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，那",
+              "type": "虚词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "zhōu gōng",
+              "meaning": "人名，周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "东",
+              "pinyin": "dōng",
+              "meaning": "动词，东征",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "助词，吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《秦》，曰：“此之谓夏声。",
+          "translation": "当为他歌唱《秦》时，季札说：“这就是所谓的夏声。”",
+          "words": []
+        }
+      ]
+    },
+    {
+      "original": "夫能夏则大，大之至也！其周之旧乎？”为之歌《魏》，曰：“美哉，沨沨乎！大而婉，险而易行。以德辅此，则明主也！”为之歌《唐》，曰：“思深哉！",
+      "translation": "季札评论说：'能发夏声就能宏大，宏大到极点了！这大概是周朝旧地的音乐吧？'接着，乐工为他歌唱《魏风》，他说：'美啊，多么婉转悠扬！宏大而婉约，险峻但易于通行。如果用德行来辅助，那就是明君了！'然后为他歌唱《唐风》，他说：'思虑深远啊！'",
+      "sentences": [
+        {
+          "original": "夫能夏则大，大之至也！其周之旧乎？",
+          "translation": "能发夏声就能宏大，宏大到极点了！这大概是周朝旧地的音乐吧？",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "能夏",
+              "pinyin": "néng xià",
+              "meaning": "能像夏乐",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "宏大",
+              "type": "实词"
+            },
+            {
+              "word": "大之至",
+              "pinyin": "dà zhī zhì",
+              "meaning": "大到极点",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "周之旧",
+              "pinyin": "zhōu zhī jiù",
+              "meaning": "周朝旧乐",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《魏》，曰：“美哉，沨沨乎！大而婉，险而易行。以德辅此，则明主也！”",
+          "translation": "为他歌唱《魏风》，他说：'美啊，多么婉转悠扬！宏大而婉约，险峻但易于通行。如果用德行来辅助，那就是明君了！'",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "魏国",
+              "type": "地名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美妙",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "沨沨",
+              "pinyin": "fēng fēng",
+              "meaning": "声音悠扬",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "宏大",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "婉",
+              "pinyin": "wǎn",
+              "meaning": "婉转",
+              "type": "实词"
+            },
+            {
+              "word": "险",
+              "pinyin": "xiǎn",
+              "meaning": "险急",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "易行",
+              "pinyin": "yì xíng",
+              "meaning": "容易实行",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "德行",
+              "type": "实词"
+            },
+            {
+              "word": "辅",
+              "pinyin": "fǔ",
+              "meaning": "辅助",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这个",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "明主",
+              "pinyin": "míng zhǔ",
+              "meaning": "英明君主",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《唐》，曰：“思深哉！”",
+          "translation": "为他歌唱《唐风》，他说：'思虑深远啊！'",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "唐",
+              "pinyin": "táng",
+              "meaning": "唐国",
+              "type": "地名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "思深",
+              "pinyin": "sī shēn",
+              "meaning": "思虑深远",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "其有陶唐氏之遗民乎？不然，何忧之远也？非令德之后，谁能若是？”为之歌《陈》，曰：“国无主，其能久乎？”自《郐》以下，无讥焉。",
+      "translation": "这大概有陶唐氏的遗民吧？不然的话，为什么忧思如此深远呢？如果不是有美德之人的后代，谁能像这样？为他歌唱《陈风》，他说：“国家没有君主，它能长久吗？”从《郐风》以下，他就没有评论了。",
+      "sentences": [
+        {
+          "original": "其有陶唐氏之遗民乎？不然，何忧之远也？非令德之后，谁能若是？",
+          "translation": "这大概有陶唐氏的遗民吧？不然的话，为什么忧思如此深远呢？如果不是有美德之人的后代，谁能像这样？",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "陶唐氏",
+              "pinyin": "Táo Táng Shì",
+              "meaning": "尧的部落",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "遗民",
+              "pinyin": "yí mín",
+              "meaning": "遗留的百姓",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "否则",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "忧",
+              "pinyin": "yōu",
+              "meaning": "忧虑",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "远",
+              "pinyin": "yuǎn",
+              "meaning": "深远",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "令德",
+              "pinyin": "lìng dé",
+              "meaning": "美德",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "谁",
+              "pinyin": "shuí",
+              "meaning": "谁",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这样",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《陈》，曰：“国无主，其能久乎？”",
+          "translation": "为他歌唱《陈风》，他说：“国家没有君主，它能长久吗？”",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "陈",
+              "pinyin": "Chén",
+              "meaning": "陈国",
+              "type": "地名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "主",
+              "pinyin": "zhǔ",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "长久",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "自《郐》以下，无讥焉。",
+          "translation": "从《郐风》以下，他就没有评论了。",
+          "words": [
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "郐",
+              "pinyin": "Kuài",
+              "meaning": "郐国",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "而",
+              "type": "虚词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "以下",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "讥",
+              "pinyin": "jī",
+              "meaning": "评论",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "为之歌《小雅》，曰：“美哉！思而不贰，怨而不言，其周德之衰乎？犹有先王之遗民焉！”为之歌《大雅》，曰：“广哉，熙熙乎！曲而有直体，其文王之德乎！”",
+      "translation": "当乐工为季札歌唱《小雅》时，他说：“真美妙啊！有忧思却没有二心，有怨恨却不直言，这大概是周朝德行衰微的时候吧？但还有先王遗留下来的民风啊！”接着为他歌唱《大雅》时，他说：“多么宽广啊，多么和乐啊！曲折中却有正直的体性，这大概是文王的德行吧！",
+      "sentences": [
+        {
+          "original": "为之歌《小雅》，曰：“美哉！思而不贰，怨而不言，其周德之衰乎？犹有先王之遗民焉！”",
+          "translation": "当乐工为他歌唱《小雅》时，他说：“真美妙啊！有忧思却没有二心，有怨恨却不直言，这大概是周朝德行衰微的时候吧？但还有先王遗留下来的民风啊！”",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "介词，为了",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "动词，歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "小雅",
+              "pinyin": "xiǎo yǎ",
+              "meaning": "《诗经》部分",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "形容词，美好",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词，啊",
+              "type": "虚词"
+            },
+            {
+              "word": "思",
+              "pinyin": "sī",
+              "meaning": "动词，思念",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，但是",
+              "type": "虚词"
+            },
+            {
+              "word": "不贰",
+              "pinyin": "bù èr",
+              "meaning": "不背叛",
+              "type": "实词"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "动词，怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，却",
+              "type": "虚词"
+            },
+            {
+              "word": "不言",
+              "pinyin": "bù yán",
+              "meaning": "不说话",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "副词，大概",
+              "type": "虚词"
+            },
+            {
+              "word": "周德",
+              "pinyin": "zhōu dé",
+              "meaning": "周朝德行",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "衰",
+              "pinyin": "shuāi",
+              "meaning": "形容词，衰微",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词，吗",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "副词，还",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，有",
+              "type": "实词"
+            },
+            {
+              "word": "先王",
+              "pinyin": "xiān wáng",
+              "meaning": "古代帝王",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "遗民",
+              "pinyin": "yí mín",
+              "meaning": "遗留百姓",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词，啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "为之歌《大雅》，曰：“广哉，熙熙乎！曲而有直体，其文王之德乎！”",
+          "translation": "当乐工为他歌唱《大雅》时，他说：“多么宽广啊，多么和乐啊！曲折中却有正直的体性，这大概是文王的德行吧！”",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "介词，为了",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "动词，歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "大雅",
+              "pinyin": "dà yǎ",
+              "meaning": "《诗经》部分",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
+              "type": "实词"
+            },
+            {
+              "word": "广",
+              "pinyin": "guǎng",
+              "meaning": "形容词，广阔",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "语气词，啊",
+              "type": "虚词"
+            },
+            {
+              "word": "熙熙",
+              "pinyin": "xī xī",
+              "meaning": "形容词，和乐",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词，啊",
+              "type": "虚词"
+            },
+            {
+              "word": "曲",
+              "pinyin": "qū",
+              "meaning": "形容词，曲折",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，却",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，有",
+              "type": "实词"
+            },
+            {
+              "word": "直体",
+              "pinyin": "zhí tǐ",
+              "meaning": "正直本质",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "副词，大概",
+              "type": "虚词"
+            },
+            {
+              "word": "文王",
+              "pinyin": "wén wáng",
+              "meaning": "周文王",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "名词，德行",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词，吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "为之歌《颂》，曰：“至矣哉！直而不倨，曲而不屈；迩而不逼，远而不携；迁而不淫，复而不厌；哀而不愁，乐而不荒；用而不匮，广而不宣；施而不费，取而不贪；处而不底，行而不流。五声和，八风平；节有度，守有序。盛德之所同也。”",
+      "translation": "当乐工为他歌唱《颂》时，他说：“美到极致了！正直而不傲慢，委曲而不屈服；亲近而不逼迫，疏远而不离心；变化而不放纵，反复而不厌倦；悲哀而不忧愁，快乐而不荒淫；使用而不匮乏，广阔而不张扬；施舍而不浪费，获取而不贪婪；静止而不停滞，流动而不泛滥。五声和谐，八风平和；节拍有度，秩序井然。这是盛大德行所共同具备的。”",
+      "sentences": [
+        {
+          "original": "为之歌《颂》，曰：",
+          "translation": "当乐工为他歌唱《颂》时，他说：",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "给",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "歌",
+              "pinyin": "gē",
+              "meaning": "歌唱",
+              "type": "实词"
+            },
+            {
+              "word": "颂",
+              "pinyin": "sòng",
+              "meaning": "《颂》诗",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "至矣哉！",
+          "translation": "美到极致了！",
+          "words": [
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "极致",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "直而不倨，曲而不屈；",
+          "translation": "正直而不傲慢，委曲而不屈服；",
+          "words": []
+        },
+        {
+          "original": "迩而不逼，远而不携；",
+          "translation": "亲近而不逼迫，疏远而不离心；",
+          "words": [
+            {
+              "word": "迩",
+              "pinyin": "ěr",
+              "meaning": "近",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "逼",
+              "pinyin": "bī",
+              "meaning": "逼迫",
+              "type": "实词"
+            },
+            {
+              "word": "远",
+              "pinyin": "yuǎn",
+              "meaning": "远",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "携",
+              "pinyin": "xié",
+              "meaning": "离散",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "迁而不淫，复而不厌；",
+          "translation": "变化而不放纵，反复而不厌倦；",
+          "words": [
+            {
+              "word": "迁",
+              "pinyin": "qiān",
+              "meaning": "变动",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "淫",
+              "pinyin": "yín",
+              "meaning": "过度",
+              "type": "实词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "重复",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "厌",
+              "pinyin": "yàn",
+              "meaning": "厌倦",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "哀而不愁，乐而不荒；",
+          "translation": "悲哀而不忧愁，快乐而不荒淫；",
+          "words": [
+            {
+              "word": "哀",
+              "pinyin": "āi",
+              "meaning": "悲哀",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "愁",
+              "pinyin": "chóu",
+              "meaning": "忧愁",
+              "type": "实词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "快乐",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "荒",
+              "pinyin": "huāng",
+              "meaning": "荒废",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "用而不匮，广而不宣；",
+          "translation": "使用而不匮乏，广阔而不张扬；",
+          "words": [
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "使用",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "匮",
+              "pinyin": "kuì",
+              "meaning": "匮乏",
+              "type": "实词"
+            },
+            {
+              "word": "广",
+              "pinyin": "guǎng",
+              "meaning": "广阔",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "宣",
+              "pinyin": "xuān",
+              "meaning": "宣扬",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "施而不费，取而不贪；",
+          "translation": "施舍而不浪费，获取而不贪婪；",
+          "words": [
+            {
+              "word": "施",
+              "pinyin": "shī",
+              "meaning": "施予",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "费",
+              "pinyin": "fèi",
+              "meaning": "耗费",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "获取",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "贪",
+              "pinyin": "tān",
+              "meaning": "贪婪",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "处而不底，行而不流。",
+          "translation": "静止而不停滞，流动而不泛滥。",
+          "words": [
+            {
+              "word": "处",
+              "pinyin": "chǔ",
+              "meaning": "停留",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "底",
+              "pinyin": "dǐ",
+              "meaning": "停滞",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "行走",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "流",
+              "pinyin": "liú",
+              "meaning": "流动",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "五声和，八风平；",
+          "translation": "五声和谐，八风平和；",
+          "words": [
+            {
+              "word": "五声",
+              "pinyin": "wǔ shēng",
+              "meaning": "五声音阶",
+              "type": "实词"
+            },
+            {
+              "word": "和",
+              "pinyin": "hé",
+              "meaning": "和谐",
+              "type": "实词"
+            },
+            {
+              "word": "八风",
+              "pinyin": "bā fēng",
+              "meaning": "八方之风",
+              "type": "实词"
+            },
+            {
+              "word": "平",
+              "pinyin": "píng",
+              "meaning": "平和",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "节有度，守有序。",
+          "translation": "节拍有度，秩序井然。",
+          "words": [
+            {
+              "word": "节",
+              "pinyin": "jié",
+              "meaning": "节制",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "具有",
+              "type": "实词"
+            },
+            {
+              "word": "度",
+              "pinyin": "dù",
+              "meaning": "法度",
+              "type": "实词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "遵守",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "具有",
+              "type": "实词"
+            },
+            {
+              "word": "序",
+              "pinyin": "xù",
+              "meaning": "次序",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "盛德之所同也。",
+          "translation": "这是盛大德行所共同具备的。",
+          "words": [
+            {
+              "word": "盛德",
+              "pinyin": "shèng dé",
+              "meaning": "盛大德行",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所字结构",
+              "type": "虚词"
+            },
+            {
+              "word": "同",
+              "pinyin": "tóng",
+              "meaning": "相同",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "见舞《象箾》、《南籥》者，曰：“美哉！犹有憾。”见舞《大武》者，曰：“美哉！周之盛也，其若此乎！”见舞《韶濩》者，曰：“圣人之弘也，而犹有惭德。圣人之难也。”见舞《大夏》者，曰：“美哉！勤而不德，非禹，其谁能修之？”见舞《韶箾》者，曰：“德至矣哉！大矣，如天之无不帱也，如地之无不载也！虽甚盛德，其蔑以加于此矣。观止矣！若有他乐，吾不敢请已！”",
+      "translation": "季札观看舞蹈《象箾》和《南籥》时，说：“美啊！但还有遗憾。”观看舞蹈《大武》时，说：“美啊！周朝的兴盛，大概就像这样吧！”观看舞蹈《韶濩》时，说：“圣人的弘大啊，却还有惭愧的德行。圣人真是难得啊。”观看舞蹈《大夏》时，说：“美啊！勤劳而不自居有德，不是禹，谁能成就这样的功业？”观看舞蹈《韶箾》时，说：“德行达到极致了！伟大啊，像天无不覆盖，像地无不承载！即使有再盛大的德行，也无法超过这个了。观赏到此为止了！如果有其他音乐，我也不敢再请求了！”",
+      "sentences": [
+        {
+          "original": "见舞《象箾》、《南籥》者，曰：“美哉！犹有憾。”",
+          "translation": "观看舞蹈《象箾》和《南籥》时，说：“美啊！但还有遗憾。”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "舞",
+              "pinyin": "wǔ",
+              "meaning": "舞蹈",
+              "type": "实词"
+            },
+            {
+              "word": "《象箾》",
+              "pinyin": "xiàng shuò",
+              "meaning": "乐舞名",
+              "type": "典故"
+            },
+            {
+              "word": "《南籥》",
+              "pinyin": "nán yuè",
+              "meaning": "乐舞名",
+              "type": "典故"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美好",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "憾",
+              "pinyin": "hàn",
+              "meaning": "遗憾",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "见舞《大武》者，曰：“美哉！周之盛也，其若此乎！”",
+          "translation": "观看舞蹈《大武》时，说：“美啊！周朝的兴盛，大概就像这样吧！”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "舞",
+              "pinyin": "wǔ",
+              "meaning": "舞蹈",
+              "type": "实词"
+            },
+            {
+              "word": "《大武》",
+              "pinyin": "dà wǔ",
+              "meaning": "乐舞名",
+              "type": "典故"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美好",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周朝",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "盛",
+              "pinyin": "shèng",
+              "meaning": "兴盛",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这样",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "见舞《韶濩》者，曰：“圣人之弘也，而犹有惭德。圣人之难也。”",
+          "translation": "观看舞蹈《韶濩》时，说：“圣人的弘大啊，却还有惭愧的德行。圣人真是难得啊。”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "舞",
+              "pinyin": "wǔ",
+              "meaning": "舞蹈",
+              "type": "实词"
+            },
+            {
+              "word": "《韶濩》",
+              "pinyin": "sháo hù",
+              "meaning": "乐舞名",
+              "type": "典故"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "圣人",
+              "pinyin": "shèng rén",
+              "meaning": "圣人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "弘",
+              "pinyin": "hóng",
+              "meaning": "宏大",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "惭德",
+              "pinyin": "cán dé",
+              "meaning": "惭愧之德",
+              "type": "实词"
+            },
+            {
+              "word": "圣人",
+              "pinyin": "shèng rén",
+              "meaning": "圣人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "艰难",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "见舞《大夏》者，曰：“美哉！勤而不德，非禹，其谁能修之？”",
+          "translation": "观看舞蹈《大夏》时，说：“美啊！勤劳而不自居有德，不是禹，谁能成就这样的功业？”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "舞",
+              "pinyin": "wǔ",
+              "meaning": "跳舞",
+              "type": "实词"
+            },
+            {
+              "word": "大夏",
+              "pinyin": "dà xià",
+              "meaning": "夏禹乐舞",
+              "type": "典故"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美丽",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "勤",
+              "pinyin": "qín",
+              "meaning": "勤劳",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "德行",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "禹",
+              "pinyin": "yǔ",
+              "meaning": "大禹",
+              "type": "人名"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "谁",
+              "pinyin": "shuí",
+              "meaning": "谁",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "完成",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "见舞《韶箾》者，曰：“德至矣哉！大矣，如天之无不帱也，如地之无不载也！虽甚盛德，其蔑以加于此矣。观止矣！若有他乐，吾不敢请已！”",
+          "translation": "观看舞蹈《韶箾》时，说：“德行达到极致了！伟大啊，像天无不覆盖，像地无不承载！即使有再盛大的德行，也无法超过这个了。观赏到此为止了！如果有其他音乐，我也不敢再请求了！”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "舞",
+              "pinyin": "wǔ",
+              "meaning": "跳舞",
+              "type": "实词"
+            },
+            {
+              "word": "韶箾",
+              "pinyin": "sháo xiāo",
+              "meaning": "舜乐舞",
+              "type": "典故"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "德行",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "伟大",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "如同",
+              "type": "实词"
+            },
+            {
+              "word": "天",
+              "pinyin": "tiān",
+              "meaning": "天空",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "帱",
+              "pinyin": "chóu",
+              "meaning": "覆盖",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "如同",
+              "type": "实词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "大地",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "载",
+              "pinyin": "zài",
+              "meaning": "承载",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很",
+              "type": "虚词"
+            },
+            {
+              "word": "盛",
+              "pinyin": "shèng",
+              "meaning": "盛大",
+              "type": "实词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "德行",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "蔑",
+              "pinyin": "miè",
+              "meaning": "无",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "加",
+              "pinyin": "jiā",
+              "meaning": "增加",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观看",
+              "type": "实词"
+            },
+            {
+              "word": "止",
+              "pinyin": "zhǐ",
+              "meaning": "停止",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "他",
+              "pinyin": "tā",
+              "meaning": "其他",
+              "type": "实词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "yuè",
+              "meaning": "音乐",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢",
+              "type": "实词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "停止",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

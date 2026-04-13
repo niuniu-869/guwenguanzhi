@@ -1,0 +1,38 @@
+{
+  "books": [
+    {
+      "id": "guwenguanzhi",
+      "name": "古文观止",
+      "displayName": "古文觀止",
+      "author": null,
+      "editor": "吴楚材 吴调侯",
+      "dynasty": "qing",
+      "period": "清 · 康熙三十四年（1695）成书",
+      "summary": "中国清代吴楚材、吴调侯叔侄编选的古代散文选本，收录自东周至明末的 222 篇经典古文，是近三百年来流传最广的古文入门读物。",
+      "totalDocuments": 222,
+      "structureType": "collection",
+      "cover": {
+        "theme": "ink",
+        "pattern": "classic"
+      },
+      "order": 1
+    },
+    {
+      "id": "shiji",
+      "name": "史记",
+      "displayName": "史記",
+      "author": "司马迁",
+      "editor": null,
+      "dynasty": "han",
+      "period": "约公元前 109 - 前 91 年",
+      "summary": "二十四史之首，西汉司马迁撰，纪传体通史，记载自上古黄帝至汉武帝太初年间约三千年历史，共 130 卷。",
+      "totalDocuments": 130,
+      "structureType": "jizhuan",
+      "cover": {
+        "theme": "crimson",
+        "pattern": "bamboo"
+      },
+      "order": 2
+    }
+  ]
+}

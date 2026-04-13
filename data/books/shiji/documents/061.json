@@ -1,0 +1,7476 @@
+{
+  "id": "061",
+  "book": "shiji",
+  "juan": 61,
+  "title": "伯夷列传",
+  "category": "liezhuan",
+  "category_name": "列传",
+  "order_in_category": 1,
+  "author": {
+    "name": "司马迁",
+    "dynasty": "西汉"
+  },
+  "summary": "本卷包括《史记》卷六十一《伯夷列传》和卷六十二《管晏列传》。伯夷列传讲述商末周初孤竹君之子伯夷、叔齐让位逃隐、谏阻周武王伐纣、不食周粟饿死首阳山的故事，司马迁借此探讨天道与善恶报应的哲学问题。管晏列传则聚焦春秋时期齐国贤臣管仲和晏子，管仲辅佐齐桓公称霸，推行富国强兵政策；晏子以节俭力行著称，通过轶事展现其智慧与品德。两卷共同体现了司马迁对历史人物的深刻评价，涵盖商末至春秋时期的社会伦理与政治智慧。",
+  "appreciation": "在文学与史学价值上，司马迁运用了精湛的叙事技法。伯夷列传以议论开篇，引用孔子言论和轶诗，通过对比伯夷叔齐的遭遇与盗跖的寿终，引发对天道的质疑，增强了文本的思辨性与感染力。管晏列传则通过具体轶事，如管仲与鲍叔牙的友谊、晏子赎越石父等，生动刻画人物性格，体现了“以事见人”的史传传统。思想立场上，司马迁表达了对贤士的同情和对社会不公的愤懑，如“天道无亲，常与善人”的反思，以及“富贵如可求，虽执鞭之士，吾亦为之”的价值观探讨。名句如“岁寒，然后知松柏之后凋”和“仓廪实而知礼节”不仅文采斐然，还蕴含深刻哲理，成为后世传诵的经典。这些列传不仅是历史记录，更是文学佳作，展现了司马迁卓越的史才与文心，对后世史学与文学影响深远。",
+  "tags": [
+    "伯夷",
+    "叔齐",
+    "管仲",
+    "晏子",
+    "天道",
+    "贤臣",
+    "春秋",
+    "史记"
+  ],
+  "key_figures": [
+    "伯夷",
+    "叔齐",
+    "管仲",
+    "晏子"
+  ],
+  "historical_period": "商末至春秋时期",
+  "paragraphs": [
+    {
+      "original": "夫学者载籍极博，犹考信於六蓺。诗书虽缺，然虞夏之文可知也。尧将逊位，让於虞舜，舜禹之间，岳牧咸荐，乃试之於位，典职数十年，功用既兴，然后授政。示天下重器，王者大统，传天下若斯之难也。而说者曰尧让天下於许由，许由不受，耻之逃隐。及夏之时，有卞随、务光者。此何以称焉？太史公曰：余登箕山，其上盖有许由冢云。孔子序列古之仁圣贤人，如吴太伯、伯夷之伦详矣。",
+      "translation": "学者虽然书籍极其广博，但仍以六艺为考证依据。诗书虽然缺失，但虞夏时代的文献可以知道。尧将要退位，让给虞舜，在舜和禹之间，四岳和九牧都推荐，于是让他们在职位上试职，掌管职务数十年，功绩已经建立，然后才授予政权。这表明天下是重器，帝王是大统，传让天下是如此困难。然而有人说尧将天下让给许由，许由不接受，以此为耻而逃跑隐居。到了夏朝的时候，有卞随、务光这样的人。这怎么解释呢？太史公说：我登上箕山，那上面大概有许由的坟墓。孔子详细叙述了古代的仁圣贤人，如吴太伯、伯夷这类人。",
+      "sentences": [
+        {
+          "original": "夫学者载籍极博，犹考信於六蓺。",
+          "translation": "学者虽然书籍极其广博，但仍以六艺为考证依据。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "学者",
+              "pinyin": "xué zhě",
+              "meaning": "求学的人",
+              "type": "实词"
+            },
+            {
+              "word": "载籍",
+              "pinyin": "zǎi jí",
+              "meaning": "书籍",
+              "type": "实词"
+            },
+            {
+              "word": "极博",
+              "pinyin": "jí bó",
+              "meaning": "极其广博",
+              "type": "实词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "仍然",
+              "type": "虚词"
+            },
+            {
+              "word": "考信",
+              "pinyin": "kǎo xìn",
+              "meaning": "考证信实",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "六蓺",
+              "pinyin": "liù yì",
+              "meaning": "六经",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诗书虽缺，然虞夏之文可知也。",
+          "translation": "诗书虽然缺失，但虞夏时代的文献可以知道。",
+          "words": [
+            {
+              "word": "诗书",
+              "pinyin": "shī shū",
+              "meaning": "诗经和尚书",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "缺",
+              "pinyin": "quē",
+              "meaning": "缺失",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "虞夏",
+              "pinyin": "yú xià",
+              "meaning": "虞舜和夏朝",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "文",
+              "pinyin": "wén",
+              "meaning": "文献",
+              "type": "实词"
+            },
+            {
+              "word": "可知",
+              "pinyin": "kě zhī",
+              "meaning": "可以知道",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "尧将逊位，让於虞舜，舜禹之间，岳牧咸荐，乃试之於位，典职数十年，功用既兴，然后授政。",
+          "translation": "尧将要退位，让给虞舜，在舜和禹之间，四岳和九牧都推荐，于是让他们在职位上试职，掌管职务数十年，功绩已经建立，然后才授予政权。",
+          "words": [
+            {
+              "word": "尧",
+              "pinyin": "yáo",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "逊位",
+              "pinyin": "xùn wèi",
+              "meaning": "退位",
+              "type": "实词"
+            },
+            {
+              "word": "让",
+              "pinyin": "ràng",
+              "meaning": "让位",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "虞舜",
+              "pinyin": "yú shùn",
+              "meaning": "舜帝",
+              "type": "人名"
+            },
+            {
+              "word": "舜禹",
+              "pinyin": "shùn yǔ",
+              "meaning": "舜和禹",
+              "type": "人名"
+            },
+            {
+              "word": "之间",
+              "pinyin": "zhī jiān",
+              "meaning": "之间",
+              "type": "虚词"
+            },
+            {
+              "word": "岳牧",
+              "pinyin": "yuè mù",
+              "meaning": "四岳和九牧",
+              "type": "官职"
+            },
+            {
+              "word": "咸",
+              "pinyin": "xián",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "荐",
+              "pinyin": "jiàn",
+              "meaning": "推荐",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "试",
+              "pinyin": "shì",
+              "meaning": "试用",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "位",
+              "pinyin": "wèi",
+              "meaning": "职位",
+              "type": "实词"
+            },
+            {
+              "word": "典职",
+              "pinyin": "diǎn zhí",
+              "meaning": "掌管职务",
+              "type": "实词"
+            },
+            {
+              "word": "数十年",
+              "pinyin": "shù shí nián",
+              "meaning": "几十年",
+              "type": "实词"
+            },
+            {
+              "word": "功用",
+              "pinyin": "gōng yòng",
+              "meaning": "功绩",
+              "type": "实词"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "兴起",
+              "type": "实词"
+            },
+            {
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "授政",
+              "pinyin": "shòu zhèng",
+              "meaning": "授予政权",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "示天下重器，王者大统，传天下若斯之难也。",
+          "translation": "这表明天下是重器，帝王是大统，传让天下是如此困难。",
+          "words": [
+            {
+              "word": "示",
+              "pinyin": "shì",
+              "meaning": "显示",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "重器",
+              "pinyin": "zhòng qì",
+              "meaning": "重要器物",
+              "type": "实词"
+            },
+            {
+              "word": "王者",
+              "pinyin": "wáng zhě",
+              "meaning": "君王",
+              "type": "实词"
+            },
+            {
+              "word": "大统",
+              "pinyin": "dà tǒng",
+              "meaning": "大业",
+              "type": "实词"
+            },
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传承",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "若斯",
+              "pinyin": "ruò sī",
+              "meaning": "如此",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "困难",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "而说者曰尧让天下於许由，许由不受，耻之逃隐。",
+          "translation": "然而有人说尧将天下让给许由，许由不接受，以此为耻而逃跑隐居。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "说者",
+              "pinyin": "shuō zhě",
+              "meaning": "谈论的人",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "尧",
+              "pinyin": "yáo",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "让",
+              "pinyin": "ràng",
+              "meaning": "让位",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "许由",
+              "pinyin": "xǔ yóu",
+              "meaning": "隐士",
+              "type": "人名"
+            },
+            {
+              "word": "不受",
+              "pinyin": "bù shòu",
+              "meaning": "不接受",
+              "type": "实词"
+            },
+            {
+              "word": "耻",
+              "pinyin": "chǐ",
+              "meaning": "以...为耻",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "虚词"
+            },
+            {
+              "word": "逃隐",
+              "pinyin": "táo yǐn",
+              "meaning": "逃跑隐居",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "及夏之时，有卞随、务光者。",
+          "translation": "到了夏朝的时候，有卞随、务光这样的人。",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "夏",
+              "pinyin": "xià",
+              "meaning": "夏朝",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "卞随",
+              "pinyin": "biàn suí",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "务光",
+              "pinyin": "wù guāng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "此何以称焉？",
+          "translation": "这怎么解释呢？",
+          "words": [
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "称",
+              "pinyin": "chēng",
+              "meaning": "称道",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "太史公曰：余登箕山，其上盖有许由冢云。",
+          "translation": "太史公说：我登上箕山，那上面大概有许由的坟墓。",
+          "words": [
+            {
+              "word": "太史公曰",
+              "pinyin": "tài shǐ gōng yuē",
+              "meaning": "太史公说",
+              "type": "典故"
+            },
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "登",
+              "pinyin": "dēng",
+              "meaning": "登上",
+              "type": "实词"
+            },
+            {
+              "word": "箕山",
+              "pinyin": "jī shān",
+              "meaning": "箕山",
+              "type": "地名"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "上面",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "许由",
+              "pinyin": "xǔ yóu",
+              "meaning": "许由",
+              "type": "人名"
+            },
+            {
+              "word": "冢",
+              "pinyin": "zhǒng",
+              "meaning": "坟墓",
+              "type": "实词"
+            },
+            {
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "据说",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "孔子序列古之仁圣贤人，如吴太伯、伯夷之伦详矣。",
+          "translation": "孔子详细叙述了古代的仁圣贤人，如吴太伯、伯夷这类人。",
+          "words": [
+            {
+              "word": "孔子",
+              "pinyin": "kǒng zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "序列",
+              "pinyin": "xù liè",
+              "meaning": "依次列举",
+              "type": "实词"
+            },
+            {
+              "word": "古",
+              "pinyin": "gǔ",
+              "meaning": "古代",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "仁",
+              "pinyin": "rén",
+              "meaning": "仁德",
+              "type": "实词"
+            },
+            {
+              "word": "圣",
+              "pinyin": "shèng",
+              "meaning": "圣明",
+              "type": "实词"
+            },
+            {
+              "word": "贤人",
+              "pinyin": "xián rén",
+              "meaning": "贤能的人",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "比如",
+              "type": "实词"
+            },
+            {
+              "word": "吴太伯",
+              "pinyin": "wú tài bó",
+              "meaning": "吴太伯",
+              "type": "人名"
+            },
+            {
+              "word": "伯夷",
+              "pinyin": "bó yí",
+              "meaning": "伯夷",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "伦",
+              "pinyin": "lún",
+              "meaning": "类",
+              "type": "实词"
+            },
+            {
+              "word": "详",
+              "pinyin": "xiáng",
+              "meaning": "详细",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "余以所闻由、光义至高，其文辞不少概见，何哉？孔子曰：“伯夷、叔齐，不念旧恶，怨是用希。”“求仁得仁，又何怨乎？”余悲伯夷之意，睹轶诗可异焉。其传曰：伯夷、叔齐，孤竹君之二子也。父欲立叔齐，及父卒，叔齐让伯夷。伯夷曰：“父命也。”遂逃去。叔齐亦不肯立而逃之。国人立其中子。於是伯夷、叔齐闻西伯昌善养老，盍往归焉。及至，西伯卒，武王载木主，号为文王，东伐纣。伯夷、叔齐叩马而谏曰：“父死不葬，爰及干戈，可谓孝乎？以臣弑君，可谓仁乎？”左右欲兵之。太公曰：“此义人也。”",
+      "translation": "我根据所听说，许由、务光的义行极高，但他们的文字记载却很少见到，这是为什么呢？孔子说：“伯夷、叔齐不记旧怨，因此怨恨很少。”“他们求仁得仁，又有什么怨恨呢？”我悲叹伯夷的心意，看到轶诗感到奇怪。他们的传记说：伯夷、叔齐是孤竹君的两个儿子。父亲想立叔齐为君，等到父亲去世，叔齐让位给伯夷。伯夷说：“这是父亲的命令。”于是逃走。叔齐也不肯立为君而逃走。国人立了他们的中间那个儿子。于是伯夷、叔齐听说西伯昌善于奉养老人，何不去归附他呢。等到到达时，西伯已死，武王载着木主，号称文王，向东讨伐纣王。伯夷、叔齐勒住马劝谏说：“父亲死了不安葬，就动起干戈，能说是孝吗？以臣子的身份弑杀君主，能说是仁吗？”左右的人想杀他们。太公说：“这是义人啊。”",
+      "sentences": [
+        {
+          "original": "余以所闻由、光义至高，其文辞不少概见，何哉？",
+          "translation": "我根据所听说，许由、务光的义行极高，但他们的文字记载却很少见到，这是为什么呢？",
+          "words": [
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "所闻",
+              "pinyin": "suǒ wén",
+              "meaning": "所听到的事",
+              "type": "实词"
+            },
+            {
+              "word": "由、光",
+              "pinyin": "Yóu, Guāng",
+              "meaning": "许由和务光",
+              "type": "人名"
+            },
+            {
+              "word": "义至高",
+              "pinyin": "yì zhì gāo",
+              "meaning": "义理极高",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "虚词"
+            },
+            {
+              "word": "文辞",
+              "pinyin": "wén cí",
+              "meaning": "文章言辞",
+              "type": "实词"
+            },
+            {
+              "word": "不少概见",
+              "pinyin": "bù shǎo gài jiàn",
+              "meaning": "很少见到",
+              "type": "成语"
+            },
+            {
+              "word": "何哉",
+              "pinyin": "hé zāi",
+              "meaning": "为什么呢",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "孔子曰：“伯夷、叔齐，不念旧恶，怨是用希。”“求仁得仁，又何怨乎？”",
+          "translation": "孔子说：“伯夷、叔齐不记旧怨，因此怨恨很少。”“他们求仁得仁，又有什么怨恨呢？”",
+          "words": [
+            {
+              "word": "孔子曰",
+              "pinyin": "Kǒng zǐ yuē",
+              "meaning": "孔子说",
+              "type": "典故"
+            },
+            {
+              "word": "伯夷、叔齐",
+              "pinyin": "Bó Yí, Shū Qí",
+              "meaning": "伯夷和叔齐",
+              "type": "人名"
+            },
+            {
+              "word": "不念旧恶",
+              "pinyin": "bù niàn jiù è",
+              "meaning": "不记过去的仇恨",
+              "type": "成语"
+            },
+            {
+              "word": "怨是用希",
+              "pinyin": "yuàn shì yòng xī",
+              "meaning": "怨恨因此稀少",
+              "type": "实词"
+            },
+            {
+              "word": "求仁得仁",
+              "pinyin": "qiú rén dé rén",
+              "meaning": "追求仁德得到仁德",
+              "type": "成语"
+            },
+            {
+              "word": "又何怨乎",
+              "pinyin": "yòu hé yuàn hū",
+              "meaning": "又有什么怨恨呢",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "余悲伯夷之意，睹轶诗可异焉。",
+          "translation": "我悲叹伯夷的心意，看到轶诗感到奇怪。",
+          "words": [
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "悲",
+              "pinyin": "bēi",
+              "meaning": "悲伤",
+              "type": "实词"
+            },
+            {
+              "word": "伯夷之意",
+              "pinyin": "Bó Yí zhī yì",
+              "meaning": "伯夷的心意",
+              "type": "实词"
+            },
+            {
+              "word": "睹",
+              "pinyin": "dǔ",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "轶诗",
+              "pinyin": "yì shī",
+              "meaning": "散失的诗歌",
+              "type": "实词"
+            },
+            {
+              "word": "可异焉",
+              "pinyin": "kě yì yān",
+              "meaning": "可以感到奇怪",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其传曰：伯夷、叔齐，孤竹君之二子也。父欲立叔齐，及父卒，叔齐让伯夷。伯夷曰：“父命也。”遂逃去。叔齐亦不肯立而逃之。国人立其中子。",
+          "translation": "他们的传记说：伯夷、叔齐是孤竹君的两个儿子。父亲想立叔齐为君，等到父亲去世，叔齐让位给伯夷。伯夷说：“这是父亲的命令。”于是逃走。叔齐也不肯立为君而逃走。国人立了他们的中间那个儿子。",
+          "words": [
+            {
+              "word": "其传曰",
+              "pinyin": "qí zhuàn yuē",
+              "meaning": "传记说",
+              "type": "典故"
+            },
+            {
+              "word": "伯夷、叔齐",
+              "pinyin": "Bó Yí, Shū Qí",
+              "meaning": "伯夷和叔齐",
+              "type": "人名"
+            },
+            {
+              "word": "孤竹君",
+              "pinyin": "Gū Zhú jūn",
+              "meaning": "孤竹国的君主",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "二子",
+              "pinyin": "èr zǐ",
+              "meaning": "两个儿子",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "立为君",
+              "type": "实词"
+            },
+            {
+              "word": "叔齐",
+              "pinyin": "Shū Qí",
+              "meaning": "叔齐",
+              "type": "人名"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "父卒",
+              "pinyin": "fù zú",
+              "meaning": "父亲去世",
+              "type": "实词"
+            },
+            {
+              "word": "叔齐让伯夷",
+              "pinyin": "Shū Qí ràng Bó Yí",
+              "meaning": "叔齐让给伯夷",
+              "type": "实词"
+            },
+            {
+              "word": "伯夷曰",
+              "pinyin": "Bó Yí yuē",
+              "meaning": "伯夷说",
+              "type": "人名"
+            },
+            {
+              "word": "父命也",
+              "pinyin": "fù mìng yě",
+              "meaning": "父亲的命令",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "逃去",
+              "pinyin": "táo qù",
+              "meaning": "逃走",
+              "type": "实词"
+            },
+            {
+              "word": "叔齐亦不肯立而逃之",
+              "pinyin": "Shū Qí yì bù kěn lì ér táo zhī",
+              "meaning": "叔齐也不肯立而逃走",
+              "type": "实词"
+            },
+            {
+              "word": "国人",
+              "pinyin": "guó rén",
+              "meaning": "国人",
+              "type": "实词"
+            },
+            {
+              "word": "立其中子",
+              "pinyin": "lì qí zhōng zǐ",
+              "meaning": "立了中间的儿子",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "於是伯夷、叔齐闻西伯昌善养老，盍往归焉。及至，西伯卒，武王载木主，号为文王，东伐纣。",
+          "translation": "于是伯夷、叔齐听说西伯昌善于奉养老人，何不去归附他呢。等到到达时，西伯已死，武王载着木主，号称文王，向东讨伐纣王。",
+          "words": [
+            {
+              "word": "於是",
+              "pinyin": "yú shì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "伯夷、叔齐",
+              "pinyin": "Bó Yí, Shū Qí",
+              "meaning": "伯夷和叔齐",
+              "type": "人名"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "西伯昌",
+              "pinyin": "Xī Bó Chāng",
+              "meaning": "西伯姬昌",
+              "type": "人名"
+            },
+            {
+              "word": "善养老",
+              "pinyin": "shàn yǎng lǎo",
+              "meaning": "善于赡养老人",
+              "type": "实词"
+            },
+            {
+              "word": "盍往归焉",
+              "pinyin": "hé wǎng guī yān",
+              "meaning": "何不前去归附",
+              "type": "虚词"
+            },
+            {
+              "word": "及至",
+              "pinyin": "jí zhì",
+              "meaning": "等到到达",
+              "type": "虚词"
+            },
+            {
+              "word": "西伯卒",
+              "pinyin": "Xī Bó zú",
+              "meaning": "西伯去世",
+              "type": "实词"
+            },
+            {
+              "word": "武王",
+              "pinyin": "Wǔ Wáng",
+              "meaning": "周武王",
+              "type": "人名"
+            },
+            {
+              "word": "载木主",
+              "pinyin": "zài mù zhǔ",
+              "meaning": "载着木制牌位",
+              "type": "实词"
+            },
+            {
+              "word": "号为文王",
+              "pinyin": "hào wéi Wén Wáng",
+              "meaning": "称号为文王",
+              "type": "实词"
+            },
+            {
+              "word": "东伐纣",
+              "pinyin": "dōng fá Zhòu",
+              "meaning": "向东讨伐纣王",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "伯夷、叔齐叩马而谏曰：“父死不葬，爰及干戈，可谓孝乎？以臣弑君，可谓仁乎？”左右欲兵之。太公曰：“此义人也。”",
+          "translation": "伯夷、叔齐勒住马劝谏说：“父亲死了不安葬，就动起干戈，能说是孝吗？以臣子的身份弑杀君主，能说是仁吗？”左右的人想杀他们。太公说：“这是义人啊。”",
+          "words": [
+            {
+              "word": "伯夷",
+              "pinyin": "Bó Yí",
+              "meaning": "孤竹君长子",
+              "type": "人名"
+            },
+            {
+              "word": "叔齐",
+              "pinyin": "Shū Qí",
+              "meaning": "孤竹君次子",
+              "type": "人名"
+            },
+            {
+              "word": "叩马",
+              "pinyin": "kòu mǎ",
+              "meaning": "勒住马",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表承接",
+              "type": "虚词"
+            },
+            {
+              "word": "谏",
+              "pinyin": "jiàn",
+              "meaning": "劝谏",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "父死不葬",
+              "pinyin": "fù sǐ bù zàng",
+              "meaning": "父亲死了不安葬",
+              "type": "实词"
+            },
+            {
+              "word": "爰及干戈",
+              "pinyin": "yuán jí gān gē",
+              "meaning": "就动起干戈",
+              "type": "实词"
+            },
+            {
+              "word": "可谓",
+              "pinyin": "kě wèi",
+              "meaning": "可以说",
+              "type": "实词"
+            },
+            {
+              "word": "孝",
+              "pinyin": "xiào",
+              "meaning": "孝顺",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词，吗",
+              "type": "虚词"
+            },
+            {
+              "word": "以臣弑君",
+              "pinyin": "yǐ chén shì jūn",
+              "meaning": "作为臣子弑杀君主",
+              "type": "实词"
+            },
+            {
+              "word": "可谓",
+              "pinyin": "kě wèi",
+              "meaning": "可以说",
+              "type": "实词"
+            },
+            {
+              "word": "仁",
+              "pinyin": "rén",
+              "meaning": "仁爱",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词，吗",
+              "type": "虚词"
+            },
+            {
+              "word": "左右",
+              "pinyin": "zuǒ yòu",
+              "meaning": "身边的人",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "用兵器攻击",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他们",
+              "type": "虚词"
+            },
+            {
+              "word": "太公",
+              "pinyin": "Tài Gōng",
+              "meaning": "姜太公",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "义人",
+              "pinyin": "yì rén",
+              "meaning": "有义之人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词，表判断",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "扶而去之。武王已平殷乱，天下宗周，而伯夷、叔齐耻之，义不食周粟，隐於首阳山，采薇而食之。及饿且死，作歌。其辞曰：“登彼西山兮，采其薇矣。以暴易暴兮，不知其非矣。神农、虞、夏忽焉没兮，我安適归矣？于嗟徂兮，命之衰矣！”遂饿死於首阳山。由此观之，怨邪非邪？或曰：“天道无亲，常与善人。”若伯夷、叔齐，可谓善人者非邪？积仁絜行如此而饿死！且七十子之徒，仲尼独荐颜渊为好学。然回也屡空，糟糠不厌，而卒蚤夭。天之报施善人，其何如哉？盗蹠日杀不辜，肝人之肉，暴戾恣睢，聚党数千人横行天下，竟以寿终。是遵何德哉？此其尤大彰明较著者也。若至近世，操行不轨，专犯忌讳，而终身逸乐，富厚累世不绝。或择地而蹈之，时然后出言，行不由径，非公正不发愤，而遇祸灾者，不可胜数也。余甚惑焉，傥所谓天道，是邪非邪？子曰“道不同不相为谋”，亦各从其志也。故曰“富贵如可求，虽执鞭之士，吾亦为之。如不可求，从吾所好”。“岁寒，然后知松柏之后凋”。举世混浊，清士乃见。岂以其重若彼，其轻若此哉？“君子疾没世而名不称焉。”贾子曰：“贪夫徇财，烈士徇名，夸者死权，众庶冯生。”“同明相照，同类相求。”“云从龙，风从虎，圣人作而万物睹。”",
+      "translation": "左右的人便搀扶着他们离开了。武王已经平定了殷商的乱政，天下都归附了周朝，但伯夷、叔齐以此为耻，坚持义节不吃周朝的粮食，隐居在首阳山，采摘薇菜来吃。等到饿得将要死的时候，他们作了一首歌。歌词是：“登上那西山啊，采摘那薇菜。用暴力替换暴力啊，却不知其错误。神农、虞舜、夏禹的时代忽然消逝了，我哪里可以归宿呢？唉呀，要死去了啊，命运如此衰微！”于是饿死在首阳山。从这来看，他们是怨恨呢，还是不怨恨呢？有人说：“天道没有偏私，常常帮助善人。”像伯夷、叔齐，可以称得上善人了吧？积累仁德、品行高洁却这样饿死了！而且在那七十位弟子中，孔子唯独推荐颜渊是好学的。然而颜回常常贫困，连糟糠都吃不饱，最终早逝。上天对善人的报答，究竟是怎样的呢？盗跖每天杀害无辜的人，吃人肉，残暴凶狠，聚集党徒数千人横行天下，竟然得以寿终。这是遵循了什么德行呢？这是其中特别明显昭著的例子。至于近世，那些操行不轨，专门触犯忌讳的人，却终身安逸享乐，财富丰厚世代不断。有的人选择地方才落脚，看准时机才说话，走路不走小路，不是公正的事情就不发愤去做，却遭遇祸患灾难的，数不胜数。我非常疑惑，倘若所说的天道，是正确的呢，还是错误的呢？孔子说“道路不同就不互相谋划”，也是各自遵从自己的志向。所以说“富贵如果可以求得，即使是执鞭驾车的低贱工作，我也愿意做。如果不可求，就顺从我的爱好”。“到了寒冷的季节，才知道松柏是最后凋零的”。整个世界都混浊，清廉之士才会显现。难道是因为他们看重那样（指仁义），而轻视这样（指富贵）吗？“君子担心死后名声不被称颂。”贾谊说：“贪婪的人为财而死，烈士为名而死，夸耀权势的人为权而死，普通百姓依靠生存。”“同样明亮的东西互相照耀，同类的事物互相寻求。”“云跟随着龙，风跟随着虎，圣人兴起而万物瞩目。”",
+      "sentences": [
+        {
+          "original": "扶而去之。",
+          "translation": "左右的人便搀扶着他们离开了。",
+          "words": [
+            {
+              "word": "扶",
+              "pinyin": "fú",
+              "meaning": "搀扶",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表承接",
+              "type": "虚词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "使离开",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他们",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "武王已平殷乱，天下宗周，而伯夷、叔齐耻之，义不食周粟，隐於首阳山，采薇而食之。",
+          "translation": "武王已经平定了殷商的乱政，天下都归附了周朝，但伯夷、叔齐以此为耻，坚持义节不吃周朝的粮食，隐居在首阳山，采摘薇菜来吃。",
+          "words": [
+            {
+              "word": "武王",
+              "pinyin": "wǔ wáng",
+              "meaning": "周武王",
+              "type": "人名"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "平",
+              "pinyin": "píng",
+              "meaning": "平定",
+              "type": "实词"
+            },
+            {
+              "word": "殷乱",
+              "pinyin": "yīn luàn",
+              "meaning": "殷商之乱",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            },
+            {
+              "word": "宗",
+              "pinyin": "zōng",
+              "meaning": "尊奉",
+              "type": "实词"
+            },
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周朝",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表转折",
+              "type": "虚词"
+            },
+            {
+              "word": "伯夷、叔齐",
+              "pinyin": "bó yí, shū qí",
+              "meaning": "古代贤人",
+              "type": "人名"
+            },
+            {
+              "word": "耻",
+              "pinyin": "chǐ",
+              "meaning": "以...为耻",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，这",
+              "type": "虚词"
+            },
+            {
+              "word": "义",
+              "pinyin": "yì",
+              "meaning": "坚持正义",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "吃",
+              "type": "实词"
+            },
+            {
+              "word": "周粟",
+              "pinyin": "zhōu sù",
+              "meaning": "周朝的粮食",
+              "type": "实词"
+            },
+            {
+              "word": "隐",
+              "pinyin": "yǐn",
+              "meaning": "隐居",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词，在",
+              "type": "虚词"
+            },
+            {
+              "word": "首阳山",
+              "pinyin": "shǒu yáng shān",
+              "meaning": "山名",
+              "type": "地名"
+            },
+            {
+              "word": "采薇",
+              "pinyin": "cǎi wēi",
+              "meaning": "采摘薇菜",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表方式",
+              "type": "虚词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "吃",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "及饿且死，作歌。其辞曰：“登彼西山兮，采其薇矣。以暴易暴兮，不知其非矣。神农、虞、夏忽焉没兮，我安適归矣？于嗟徂兮，命之衰矣！”",
+          "translation": "等到饿得将要死的时候，他们作了一首歌。歌词是：“登上那西山啊，采摘那薇菜。用暴力替换暴力啊，却不知其错误。神农、虞舜、夏禹的时代忽然消逝了，我哪里可以归宿呢？唉呀，要死去了啊，命运如此衰微！”",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "饿",
+              "pinyin": "è",
+              "meaning": "饥饿",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "作歌",
+              "pinyin": "zuò gē",
+              "meaning": "创作歌曲",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的",
+              "type": "虚词"
+            },
+            {
+              "word": "辞",
+              "pinyin": "cí",
+              "meaning": "歌词",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "登",
+              "pinyin": "dēng",
+              "meaning": "登上",
+              "type": "实词"
+            },
+            {
+              "word": "彼",
+              "pinyin": "bǐ",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "西山",
+              "pinyin": "xī shān",
+              "meaning": "山名",
+              "type": "地名"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "采",
+              "pinyin": "cǎi",
+              "meaning": "采摘",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，它的",
+              "type": "虚词"
+            },
+            {
+              "word": "薇",
+              "pinyin": "wēi",
+              "meaning": "薇菜",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "以暴易暴",
+              "pinyin": "yǐ bào yì bào",
+              "meaning": "用暴力更换暴力",
+              "type": "成语"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "不知",
+              "pinyin": "bù zhī",
+              "meaning": "不知道",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，这",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "错误",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "神农、虞、夏",
+              "pinyin": "shén nóng, yú, xià",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "忽焉",
+              "pinyin": "hū yān",
+              "meaning": "迅速地",
+              "type": "实词"
+            },
+            {
+              "word": "没",
+              "pinyin": "mò",
+              "meaning": "消亡",
+              "type": "实词"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "安適",
+              "pinyin": "ān shì",
+              "meaning": "何处",
+              "type": "实词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "归宿",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "于嗟",
+              "pinyin": "xū jiē",
+              "meaning": "叹词",
+              "type": "虚词"
+            },
+            {
+              "word": "徂",
+              "pinyin": "cú",
+              "meaning": "往，死",
+              "type": "实词"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命运",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "衰",
+              "pinyin": "shuāi",
+              "meaning": "衰败",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "遂饿死於首阳山。",
+          "translation": "于是饿死在首阳山。",
+          "words": [
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "饿死",
+              "pinyin": "è sǐ",
+              "meaning": "饥饿而死",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词，在",
+              "type": "虚词"
+            },
+            {
+              "word": "首阳山",
+              "pinyin": "shǒu yáng shān",
+              "meaning": "山名",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "由此观之，怨邪非邪？",
+          "translation": "从这来看，他们是怨恨呢，还是不怨恨呢？",
+          "words": [
+            {
+              "word": "由",
+              "pinyin": "yóu",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "看",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，它",
+              "type": "虚词"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "语气词，吗",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "语气词，吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "或曰：“天道无亲，常与善人。”",
+          "translation": "有人说：“天道没有偏私，常常帮助善人。”",
+          "words": [
+            {
+              "word": "或",
+              "pinyin": "huò",
+              "meaning": "有人",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "天道",
+              "pinyin": "tiān dào",
+              "meaning": "天道",
+              "type": "实词"
+            },
+            {
+              "word": "无亲",
+              "pinyin": "wú qīn",
+              "meaning": "没有偏爱",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "常常",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "给予",
+              "type": "虚词"
+            },
+            {
+              "word": "善人",
+              "pinyin": "shàn rén",
+              "meaning": "善良的人",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "若伯夷、叔齐，可谓善人者非邪？积仁絜行如此而饿死！",
+          "translation": "像伯夷、叔齐，可以称得上善人了吧？积累仁德、品行高洁却这样饿死了！",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "虚词"
+            },
+            {
+              "word": "伯夷",
+              "pinyin": "bó yí",
+              "meaning": "伯夷",
+              "type": "人名"
+            },
+            {
+              "word": "叔齐",
+              "pinyin": "shū qí",
+              "meaning": "叔齐",
+              "type": "人名"
+            },
+            {
+              "word": "可谓",
+              "pinyin": "kě wèi",
+              "meaning": "可以称为",
+              "type": "实词"
+            },
+            {
+              "word": "善人者",
+              "pinyin": "shàn rén zhě",
+              "meaning": "善良的人",
+              "type": "实词"
+            },
+            {
+              "word": "非邪",
+              "pinyin": "fēi yé",
+              "meaning": "不是吗",
+              "type": "虚词"
+            },
+            {
+              "word": "积仁絜行",
+              "pinyin": "jī rén jié xíng",
+              "meaning": "积累仁德清洁行为",
+              "type": "成语"
+            },
+            {
+              "word": "如此",
+              "pinyin": "rú cǐ",
+              "meaning": "像这样",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "饿死",
+              "pinyin": "è sǐ",
+              "meaning": "饿死",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "且七十子之徒，仲尼独荐颜渊为好学。然回也屡空，糟糠不厌，而卒蚤夭。",
+          "translation": "而且在那七十位弟子中，孔子唯独推荐颜渊是好学的。然而颜回常常贫困，连糟糠都吃不饱，最终早逝。",
+          "words": [
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "七十子之徒",
+              "pinyin": "qī shí zǐ zhī tú",
+              "meaning": "七十子这些人",
+              "type": "典故"
+            },
+            {
+              "word": "仲尼",
+              "pinyin": "zhòng ní",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "独荐",
+              "pinyin": "dú jiàn",
+              "meaning": "单独推荐",
+              "type": "实词"
+            },
+            {
+              "word": "颜渊",
+              "pinyin": "yán yuān",
+              "meaning": "颜回",
+              "type": "人名"
+            },
+            {
+              "word": "为好学",
+              "pinyin": "wéi hào xué",
+              "meaning": "是好学的",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "回也",
+              "pinyin": "huí yě",
+              "meaning": "颜回啊",
+              "type": "实词"
+            },
+            {
+              "word": "屡空",
+              "pinyin": "lǚ kōng",
+              "meaning": "常常空乏",
+              "type": "实词"
+            },
+            {
+              "word": "糟糠不厌",
+              "pinyin": "zāo kāng bù yàn",
+              "meaning": "吃糟糠不满足",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "卒蚤夭",
+              "pinyin": "zú zǎo yāo",
+              "meaning": "终于早死",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "天之报施善人，其何如哉？",
+          "translation": "上天对善人的报答，究竟是怎样的呢？",
+          "words": [
+            {
+              "word": "天之",
+              "pinyin": "tiān zhī",
+              "meaning": "天的",
+              "type": "实词"
+            },
+            {
+              "word": "报施善人",
+              "pinyin": "bào shī shàn rén",
+              "meaning": "报答施与善良的人",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "何如",
+              "pinyin": "hé rú",
+              "meaning": "怎么样",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "盗蹠日杀不辜，肝人之肉，暴戾恣睢，聚党数千人横行天下，竟以寿终。是遵何德哉？",
+          "translation": "盗跖每天杀害无辜的人，吃人肉，残暴凶狠，聚集党徒数千人横行天下，竟然得以寿终。这是遵循了什么德行呢？",
+          "words": [
+            {
+              "word": "盗蹠",
+              "pinyin": "dào zhí",
+              "meaning": "盗跖",
+              "type": "人名"
+            },
+            {
+              "word": "日杀不辜",
+              "pinyin": "rì shā bù gū",
+              "meaning": "每天杀无辜者",
+              "type": "实词"
+            },
+            {
+              "word": "肝人之肉",
+              "pinyin": "gān rén zhī ròu",
+              "meaning": "吃人肝肉",
+              "type": "典故"
+            },
+            {
+              "word": "暴戾恣睢",
+              "pinyin": "bào lì zì suī",
+              "meaning": "残暴凶狠",
+              "type": "成语"
+            },
+            {
+              "word": "聚党数千人",
+              "pinyin": "jù dǎng shù qiān rén",
+              "meaning": "聚集党羽数千人",
+              "type": "实词"
+            },
+            {
+              "word": "横行天下",
+              "pinyin": "héng xíng tiān xià",
+              "meaning": "横行天下",
+              "type": "成语"
+            },
+            {
+              "word": "竟以寿终",
+              "pinyin": "jìng yǐ shòu zhōng",
+              "meaning": "终于长寿而终",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "遵何德",
+              "pinyin": "zūn hé dé",
+              "meaning": "遵循什么德行",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "此其尤大彰明较著者也。",
+          "translation": "这是其中特别明显昭著的例子。",
+          "words": [
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "实词"
+            },
+            {
+              "word": "尤大",
+              "pinyin": "yóu dà",
+              "meaning": "尤其大",
+              "type": "实词"
+            },
+            {
+              "word": "彰明较著",
+              "pinyin": "zhāng míng jiào zhù",
+              "meaning": "非常明显",
+              "type": "成语"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若至近世，操行不轨，专犯忌讳，而终身逸乐，富厚累世不绝。",
+          "translation": "至于近世，那些操行不轨，专门触犯忌讳的人，却终身安逸享乐，财富丰厚世代不断。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "近世",
+              "pinyin": "jìn shì",
+              "meaning": "近代",
+              "type": "实词"
+            },
+            {
+              "word": "操行不轨",
+              "pinyin": "cāo xíng bù guǐ",
+              "meaning": "行为不正",
+              "type": "成语"
+            },
+            {
+              "word": "专犯忌讳",
+              "pinyin": "zhuān fàn jì huì",
+              "meaning": "专门触犯忌讳",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但",
+              "type": "虚词"
+            },
+            {
+              "word": "终身",
+              "pinyin": "zhōng shēn",
+              "meaning": "一辈子",
+              "type": "实词"
+            },
+            {
+              "word": "逸乐",
+              "pinyin": "yì lè",
+              "meaning": "安逸享乐",
+              "type": "实词"
+            },
+            {
+              "word": "富厚",
+              "pinyin": "fù hòu",
+              "meaning": "财富丰厚",
+              "type": "实词"
+            },
+            {
+              "word": "累世",
+              "pinyin": "lěi shì",
+              "meaning": "历代",
+              "type": "实词"
+            },
+            {
+              "word": "不绝",
+              "pinyin": "bù jué",
+              "meaning": "不断",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "或择地而蹈之，时然后出言，行不由径，非公正不发愤，而遇祸灾者，不可胜数也。",
+          "translation": "有的人选择地方才落脚，看准时机才说话，走路不走小路，不是公正的事情就不发愤去做，却遭遇祸患灾难的，数不胜数。",
+          "words": [
+            {
+              "word": "或",
+              "pinyin": "huò",
+              "meaning": "有的人",
+              "type": "实词"
+            },
+            {
+              "word": "择地",
+              "pinyin": "zé dì",
+              "meaning": "选择地方",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "蹈之",
+              "pinyin": "dǎo zhī",
+              "meaning": "踩踏它",
+              "type": "实词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时机",
+              "type": "实词"
+            },
+            {
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "出言",
+              "pinyin": "chū yán",
+              "meaning": "说话",
+              "type": "实词"
+            },
+            {
+              "word": "行不由径",
+              "pinyin": "xíng bù yóu jìng",
+              "meaning": "走路不走小路",
+              "type": "成语"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "公正",
+              "pinyin": "gōng zhèng",
+              "meaning": "公正",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "发愤",
+              "pinyin": "fā fèn",
+              "meaning": "发愤努力",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "遇",
+              "pinyin": "yù",
+              "meaning": "遇到",
+              "type": "实词"
+            },
+            {
+              "word": "祸灾",
+              "pinyin": "huò zāi",
+              "meaning": "灾祸",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "不可胜数",
+              "pinyin": "bù kě shèng shǔ",
+              "meaning": "数不清",
+              "type": "成语"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表陈述",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "余甚惑焉，傥所谓天道，是邪非邪？",
+          "translation": "我非常疑惑，倘若所说的天道，是正确的呢，还是错误的呢？",
+          "words": [
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很",
+              "type": "虚词"
+            },
+            {
+              "word": "惑",
+              "pinyin": "huò",
+              "meaning": "疑惑",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "傥",
+              "pinyin": "tǎng",
+              "meaning": "倘若",
+              "type": "虚词"
+            },
+            {
+              "word": "所谓",
+              "pinyin": "suǒ wèi",
+              "meaning": "所说的",
+              "type": "实词"
+            },
+            {
+              "word": "天道",
+              "pinyin": "tiān dào",
+              "meaning": "天道",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "呢",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "子曰“道不同不相为谋”，亦各从其志也。",
+          "translation": "孔子说“道路不同就不互相谋划”，也是各自遵从自己的志向。",
+          "words": [
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "道不同不相为谋",
+              "pinyin": "dào bù tóng bù xiāng wéi móu",
+              "meaning": "道路不同不互相谋划",
+              "type": "成语"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "各",
+              "pinyin": "gè",
+              "meaning": "各自",
+              "type": "实词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "跟随",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "实词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "志向",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表陈述",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故曰“富贵如可求，虽执鞭之士，吾亦为之。如不可求，从吾所好”。",
+          "translation": "所以说“富贵如果可以求得，即使是执鞭驾车的低贱工作，我也愿意做。如果不可求，就顺从我的爱好”。",
+          "words": [
+            {
+              "word": "故曰",
+              "pinyin": "gù yuē",
+              "meaning": "所以说",
+              "type": "实词"
+            },
+            {
+              "word": "富贵",
+              "pinyin": "fù guì",
+              "meaning": "财富地位",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "求",
+              "pinyin": "qiú",
+              "meaning": "追求",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "执鞭之士",
+              "pinyin": "zhí biān zhī shì",
+              "meaning": "执鞭驾车人",
+              "type": "典故"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "做",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "求",
+              "pinyin": "qiú",
+              "meaning": "追求",
+              "type": "实词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "遵从",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所",
+              "type": "虚词"
+            },
+            {
+              "word": "好",
+              "pinyin": "hào",
+              "meaning": "爱好",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "“岁寒，然后知松柏之后凋”。",
+          "translation": "“到了寒冷的季节，才知道松柏是最后凋零的”。",
+          "words": [
+            {
+              "word": "岁寒",
+              "pinyin": "suì hán",
+              "meaning": "一年寒冷时",
+              "type": "实词"
+            },
+            {
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "这样以后",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "松柏",
+              "pinyin": "sōng bǎi",
+              "meaning": "松树柏树",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "后凋",
+              "pinyin": "hòu diāo",
+              "meaning": "最后凋谢",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "举世混浊，清士乃见。",
+          "translation": "整个世界都混浊，清廉之士才会显现。",
+          "words": [
+            {
+              "word": "举世",
+              "pinyin": "jǔ shì",
+              "meaning": "整个世界",
+              "type": "实词"
+            },
+            {
+              "word": "混浊",
+              "pinyin": "hùn zhuó",
+              "meaning": "混乱污浊",
+              "type": "实词"
+            },
+            {
+              "word": "清士",
+              "pinyin": "qīng shì",
+              "meaning": "清白之士",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "才",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "xiàn",
+              "meaning": "显现",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "岂以其重若彼，其轻若此哉？",
+          "translation": "难道是因为他们看重那样（指仁义），而轻视这样（指富贵）吗？",
+          "words": [
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "重",
+              "pinyin": "zhòng",
+              "meaning": "重要",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "虚词"
+            },
+            {
+              "word": "彼",
+              "pinyin": "bǐ",
+              "meaning": "那样",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "轻",
+              "pinyin": "qīng",
+              "meaning": "轻视",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "像",
+              "type": "虚词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这样",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "“君子疾没世而名不称焉。”",
+          "translation": "“君子担心死后名声不被称颂。”",
+          "words": [
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "有德之人",
+              "type": "实词"
+            },
+            {
+              "word": "疾",
+              "pinyin": "jí",
+              "meaning": "担忧",
+              "type": "实词"
+            },
+            {
+              "word": "没世",
+              "pinyin": "mò shì",
+              "meaning": "终身",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名声",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "称",
+              "pinyin": "chèn",
+              "meaning": "相称",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "贾子曰：“贪夫徇财，烈士徇名，夸者死权，众庶冯生。”",
+          "translation": "贾谊说：“贪婪的人为财而死，烈士为名而死，夸耀权势的人为权而死，普通百姓依靠生存。”",
+          "words": [
+            {
+              "word": "贾子曰",
+              "pinyin": "jiǎ zǐ yuē",
+              "meaning": "贾谊说",
+              "type": "典故"
+            },
+            {
+              "word": "贪夫徇财",
+              "pinyin": "tān fū xùn cái",
+              "meaning": "贪财者为财死",
+              "type": "成语"
+            },
+            {
+              "word": "烈士徇名",
+              "pinyin": "liè shì xùn míng",
+              "meaning": "烈士为名而死",
+              "type": "成语"
+            },
+            {
+              "word": "夸者死权",
+              "pinyin": "kuā zhě sǐ quán",
+              "meaning": "夸耀者为权死",
+              "type": "成语"
+            },
+            {
+              "word": "众庶冯生",
+              "pinyin": "zhòng shù píng shēng",
+              "meaning": "百姓依仗生存",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "“同明相照，同类相求。”",
+          "translation": "“同样明亮的东西互相照耀，同类的事物互相寻求。”",
+          "words": [
+            {
+              "word": "同明相照",
+              "pinyin": "tóng míng xiāng zhào",
+              "meaning": "同光相映",
+              "type": "成语"
+            },
+            {
+              "word": "同类相求",
+              "pinyin": "tóng lèi xiāng qiú",
+              "meaning": "同类相吸引",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "“云从龙，风从虎，圣人作而万物睹。”",
+          "translation": "“云跟随着龙，风跟随着虎，圣人兴起而万物瞩目。”",
+          "words": [
+            {
+              "word": "云从龙",
+              "pinyin": "yún cóng lóng",
+              "meaning": "云随龙行",
+              "type": "成语"
+            },
+            {
+              "word": "风从虎",
+              "pinyin": "fēng cóng hǔ",
+              "meaning": "风随虎行",
+              "type": "成语"
+            },
+            {
+              "word": "圣人作",
+              "pinyin": "shèng rén zuò",
+              "meaning": "圣人兴起",
+              "type": "成语"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "万物睹",
+              "pinyin": "wàn wù dǔ",
+              "meaning": "万物可见",
+              "type": "成语"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "伯夷、叔齐虽贤，得夫子而名益彰。颜渊虽笃学，附骥尾而行益显。岩穴之士，趣舍有时若此，类名堙灭而不称，悲夫！闾巷之人，欲砥行立名者，非附青云之士，恶能施于后世哉？                  卷六十二 管晏列传第二",
+      "translation": "伯夷、叔齐虽然贤德，但得到孔子的称赞而名声更加显扬。颜渊虽然专心学问，但依附孔子而品行更加显著。那些隐居山林的士人，进退取舍有时也像这样，但大多名声埋没而不被称道，真是可悲啊！平民百姓中，那些想磨砺品行建立名声的人，如果不依附有权势或有名望的人，怎能流传到后世呢？",
+      "sentences": [
+        {
+          "original": "伯夷、叔齐虽贤，得夫子而名益彰。",
+          "translation": "伯夷、叔齐虽然贤德，但得到孔子的称赞而名声更加显扬。",
+          "words": [
+            {
+              "word": "伯夷、叔齐",
+              "pinyin": "Bó Yí, Shū Qí",
+              "meaning": "两位古代贤人",
+              "type": "人名"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "得到",
+              "type": "实词"
+            },
+            {
+              "word": "夫子",
+              "pinyin": "fū zǐ",
+              "meaning": "指孔子",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "承接连词",
+              "type": "虚词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名声",
+              "type": "实词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "更加",
+              "type": "实词"
+            },
+            {
+              "word": "彰",
+              "pinyin": "zhāng",
+              "meaning": "彰显",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "颜渊虽笃学，附骥尾而行益显。",
+          "translation": "颜渊虽然专心学问，但依附孔子而品行更加显著。",
+          "words": [
+            {
+              "word": "颜渊",
+              "pinyin": "Yán Yuān",
+              "meaning": "孔子弟子",
+              "type": "人名"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "笃学",
+              "pinyin": "dǔ xué",
+              "meaning": "专心学习",
+              "type": "实词"
+            },
+            {
+              "word": "附骥尾",
+              "pinyin": "fù jì wěi",
+              "meaning": "依附他人成名",
+              "type": "成语"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "承接连词",
+              "type": "虚词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "品行",
+              "type": "实词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "更加",
+              "type": "实词"
+            },
+            {
+              "word": "显",
+              "pinyin": "xiǎn",
+              "meaning": "显扬",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "岩穴之士，趣舍有时若此，类名堙灭而不称，悲夫！",
+          "translation": "那些隐居山林的士人，进退取舍有时也像这样，但大多名声埋没而不被称道，真是可悲啊！",
+          "words": [
+            {
+              "word": "岩穴之士",
+              "pinyin": "yán xué zhī shì",
+              "meaning": "隐士",
+              "type": "实词"
+            },
+            {
+              "word": "趣舍",
+              "pinyin": "qù shě",
+              "meaning": "取舍",
+              "type": "实词"
+            },
+            {
+              "word": "有时",
+              "pinyin": "yǒu shí",
+              "meaning": "有固定时机",
+              "type": "实词"
+            },
+            {
+              "word": "若此",
+              "pinyin": "ruò cǐ",
+              "meaning": "像这样",
+              "type": "实词"
+            },
+            {
+              "word": "类名",
+              "pinyin": "lèi míng",
+              "meaning": "类似名声",
+              "type": "实词"
+            },
+            {
+              "word": "堙灭",
+              "pinyin": "yīn miè",
+              "meaning": "埋没",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "转折连词",
+              "type": "虚词"
+            },
+            {
+              "word": "不称",
+              "pinyin": "bù chēng",
+              "meaning": "不被称道",
+              "type": "实词"
+            },
+            {
+              "word": "悲夫",
+              "pinyin": "bēi fū",
+              "meaning": "悲伤啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "闾巷之人，欲砥行立名者，非附青云之士，恶能施于后世哉？",
+          "translation": "平民百姓中，那些想磨砺品行建立名声的人，如果不依附有权势或有名望的人，怎能流传到后世呢？",
+          "words": [
+            {
+              "word": "闾巷之人",
+              "pinyin": "lǘ xiàng zhī rén",
+              "meaning": "平民",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "砥行",
+              "pinyin": "dǐ xíng",
+              "meaning": "磨练品行",
+              "type": "实词"
+            },
+            {
+              "word": "立名",
+              "pinyin": "lì míng",
+              "meaning": "树立名声",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "附",
+              "pinyin": "fù",
+              "meaning": "依附",
+              "type": "实词"
+            },
+            {
+              "word": "青云之士",
+              "pinyin": "qīng yún zhī shì",
+              "meaning": "高位者",
+              "type": "实词"
+            },
+            {
+              "word": "恶",
+              "pinyin": "wū",
+              "meaning": "怎么",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "施",
+              "pinyin": "shī",
+              "meaning": "传扬",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "疑问语气",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "管仲夷吾者，颍上人也。少时常与鲍叔牙游，鲍叔知其贤。管仲贫困，常欺鲍叔，鲍叔终善遇之，不以为言。已而鲍叔事齐公子小白，管仲事公子纠。及小白立，为桓公，公子纠死，管仲囚焉。鲍叔遂进管仲。管仲既用，任政於齐，齐桓公以霸，九合诸侯，一匡天下，管仲之谋也。",
+      "translation": "管仲，名夷吾，是颍上人。年轻时经常与鲍叔牙交往，鲍叔牙知道他贤能。管仲贫困时，常常欺骗鲍叔牙，但鲍叔牙始终好好对待他，不因此说什么。后来鲍叔牙侍奉齐国的公子小白，管仲侍奉公子纠。等到小白即位，成为桓公，公子纠死了，管仲被囚禁。鲍叔牙于是推荐管仲。管仲被任用后，在齐国执政，齐桓公因此称霸，多次会合诸侯，匡正天下，都是管仲的谋略。",
+      "sentences": [
+        {
+          "original": "管仲夷吾者，颍上人也。",
+          "translation": "管仲，名夷吾，是颍上人。",
+          "words": [
+            {
+              "word": "管仲夷吾",
+              "pinyin": "guǎn zhòng yí wú",
+              "meaning": "管仲全名",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "颍上",
+              "pinyin": "yǐng shàng",
+              "meaning": "颍水之滨",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "少时常与鲍叔牙游，鲍叔知其贤。",
+          "translation": "年轻时经常与鲍叔牙交往，鲍叔牙知道他贤能。",
+          "words": [
+            {
+              "word": "少时",
+              "pinyin": "shǎo shí",
+              "meaning": "年轻时",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "鲍叔牙",
+              "pinyin": "bào shū yá",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "游",
+              "pinyin": "yóu",
+              "meaning": "交游",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "bào shū",
+              "meaning": "鲍叔简称",
+              "type": "人名"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "管仲贫困，常欺鲍叔，鲍叔终善遇之，不以为言。",
+          "translation": "管仲贫困时，常常欺骗鲍叔牙，但鲍叔牙始终好好对待他，不因此说什么。",
+          "words": [
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "贫困",
+              "pinyin": "pín kùn",
+              "meaning": "贫穷困苦",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "虚词"
+            },
+            {
+              "word": "欺",
+              "pinyin": "qī",
+              "meaning": "欺骗",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "bào shū",
+              "meaning": "鲍叔",
+              "type": "人名"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "bào shū",
+              "meaning": "鲍叔",
+              "type": "人名"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "始终",
+              "type": "虚词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "好好地",
+              "type": "实词"
+            },
+            {
+              "word": "遇",
+              "pinyin": "yù",
+              "meaning": "对待",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说话",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "已而鲍叔事齐公子小白，管仲事公子纠。",
+          "translation": "后来鲍叔牙侍奉齐国的公子小白，管仲侍奉公子纠。",
+          "words": [
+            {
+              "word": "已而",
+              "pinyin": "yǐ ér",
+              "meaning": "不久之后",
+              "type": "虚词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "bào shū",
+              "meaning": "鲍叔",
+              "type": "人名"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "公子小白",
+              "pinyin": "gōng zǐ xiǎo bái",
+              "meaning": "公子小白",
+              "type": "人名"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "公子纠",
+              "pinyin": "gōng zǐ jiū",
+              "meaning": "公子纠",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "及小白立，为桓公，公子纠死，管仲囚焉。",
+          "translation": "等到小白即位，成为桓公，公子纠死了，管仲被囚禁。",
+          "words": [
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "小白",
+              "pinyin": "xiǎo bái",
+              "meaning": "公子小白",
+              "type": "人名"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "即位",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "桓公",
+              "pinyin": "huán gōng",
+              "meaning": "齐桓公",
+              "type": "人名"
+            },
+            {
+              "word": "公子纠",
+              "pinyin": "gōng zǐ jiū",
+              "meaning": "公子纠",
+              "type": "人名"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "囚",
+              "pinyin": "qiú",
+              "meaning": "被囚禁",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "在那里",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "鲍叔遂进管仲。",
+          "translation": "鲍叔牙于是推荐管仲。",
+          "words": [
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙，齐国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是，就",
+              "type": "虚词"
+            },
+            {
+              "word": "进",
+              "pinyin": "jìn",
+              "meaning": "推荐，引进",
+              "type": "实词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "Guan Zhong",
+              "meaning": "管夷吾，齐国相",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "管仲既用，任政於齐，齐桓公以霸，九合诸侯，一匡天下，管仲之谋也。",
+          "translation": "管仲被任用后，在齐国执政，齐桓公因此称霸，多次会合诸侯，匡正天下，都是管仲的谋略。",
+          "words": [
+            {
+              "word": "管仲",
+              "pinyin": "Guan Zhong",
+              "meaning": "管夷吾，齐国相",
+              "type": "人名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "被任用",
+              "type": "实词"
+            },
+            {
+              "word": "任政",
+              "pinyin": "rèn zhèng",
+              "meaning": "担任政事",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "Qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "齐桓公",
+              "pinyin": "Qí Huán Gōng",
+              "meaning": "齐国君主",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "霸",
+              "pinyin": "bà",
+              "meaning": "称霸",
+              "type": "实词"
+            },
+            {
+              "word": "九合诸侯",
+              "pinyin": "jiǔ hé zhū hóu",
+              "meaning": "多次会合诸侯",
+              "type": "成语"
+            },
+            {
+              "word": "一匡天下",
+              "pinyin": "yī kuāng tiān xià",
+              "meaning": "匡正天下",
+              "type": "成语"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "Guan Zhong",
+              "meaning": "管夷吾",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "谋",
+              "pinyin": "móu",
+              "meaning": "计谋",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表示判断",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "管仲曰：“吾始困时，尝与鲍叔贾，分财利多自与，鲍叔不以我为贪，知我贫也。吾尝为鲍叔谋事而更穷困，鲍叔不以我为愚，知时有利不利也。吾尝三仕三见逐於君，鲍叔不以我为不肖，知我不遭时也。吾尝三战三走，鲍叔不以我怯，知我有老母也。公子纠败，召忽死之，吾幽囚受辱，鲍叔不以我为无耻，知我不羞小节而耻功名不显于天下也。生我者父母，知我者鲍子也。”",
+      "translation": "管仲说：“我起初贫困时，曾和鲍叔一起经商，分钱财时多给自己，鲍叔不认为我贪婪，知道我贫穷。我曾为鲍叔谋划事情却更加穷困，鲍叔不认为我愚笨，知道时机有有利和不利的时候。我曾三次做官三次被君主驱逐，鲍叔不认为我不贤，知道我没遇到好时机。我曾三次作战三次逃跑，鲍叔不认为我胆怯，知道我有老母亲。公子纠失败，召忽为此自杀，我被囚禁受辱，鲍叔不认为我无耻，知道我不以小节为羞耻而以功名不显扬于天下为耻。生我的是父母，了解我的是鲍叔。”",
+      "sentences": [
+        {
+          "original": "吾始困时，尝与鲍叔贾，分财利多自与，鲍叔不以我为贪，知我贫也。",
+          "translation": "我起初贫困时，曾和鲍叔一起经商，分钱财时多给自己，鲍叔不认为我贪婪，知道我贫穷。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "始困时",
+              "pinyin": "shǐ kùn shí",
+              "meaning": "起初贫困的时候",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "贾",
+              "pinyin": "gǔ",
+              "meaning": "经商",
+              "type": "实词"
+            },
+            {
+              "word": "分财利多自与",
+              "pinyin": "fēn cái lì duō zì yǔ",
+              "meaning": "分配财利多给自己",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "不以我为贪",
+              "pinyin": "bù yǐ wǒ wéi tān",
+              "meaning": "不认为我贪婪",
+              "type": "实词"
+            },
+            {
+              "word": "知我贫",
+              "pinyin": "zhī wǒ pín",
+              "meaning": "知道我贫穷",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "吾尝为鲍叔谋事而更穷困，鲍叔不以我为愚，知时有利不利也。",
+          "translation": "我曾为鲍叔谋划事情却更加穷困，鲍叔不认为我愚笨，知道时机有有利和不利的时候。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "为鲍叔谋事",
+              "pinyin": "wèi Bào Shū móu shì",
+              "meaning": "为鲍叔谋划事情",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "更穷困",
+              "pinyin": "gèng qióng kùn",
+              "meaning": "更加穷困",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "不以我为愚",
+              "pinyin": "bù yǐ wǒ wéi yú",
+              "meaning": "不认为我愚笨",
+              "type": "实词"
+            },
+            {
+              "word": "知时有利不利",
+              "pinyin": "zhī shí yǒu lì bù lì",
+              "meaning": "知道时机有利不利",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "吾尝三仕三见逐於君，鲍叔不以我为不肖，知我不遭时也。",
+          "translation": "我曾三次做官三次被君主驱逐，鲍叔不认为我不贤，知道我没遇到好时机。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "三仕三见逐於君",
+              "pinyin": "sān shì sān jiàn zhú yú jūn",
+              "meaning": "三次做官三次被君主驱逐",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "不以我为不肖",
+              "pinyin": "bù yǐ wǒ wéi bù xiào",
+              "meaning": "不认为我不贤",
+              "type": "实词"
+            },
+            {
+              "word": "知我不遭时",
+              "pinyin": "zhī wǒ bù zāo shí",
+              "meaning": "知道我没遇到好时机",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "吾尝三战三走，鲍叔不以我怯，知我有老母也。",
+          "translation": "我曾三次作战三次逃跑，鲍叔不认为我胆怯，知道我有老母亲。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "虚词"
+            },
+            {
+              "word": "三战三走",
+              "pinyin": "sān zhàn sān zǒu",
+              "meaning": "三次作战三次逃跑",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "不以我怯",
+              "pinyin": "bù yǐ wǒ qiè",
+              "meaning": "不认为我胆怯",
+              "type": "实词"
+            },
+            {
+              "word": "知我有老母",
+              "pinyin": "zhī wǒ yǒu lǎo mǔ",
+              "meaning": "知道我有老母亲",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "公子纠败，召忽死之，吾幽囚受辱，鲍叔不以我为无耻，知我不羞小节而耻功名不显于天下也。",
+          "translation": "公子纠失败，召忽为此自杀，我被囚禁受辱，鲍叔不认为我无耻，知道我不以小节为羞耻而以功名不显扬于天下为耻。",
+          "words": [
+            {
+              "word": "公子纠",
+              "pinyin": "Gōngzǐ Jiū",
+              "meaning": "公子纠",
+              "type": "人名"
+            },
+            {
+              "word": "败",
+              "pinyin": "bài",
+              "meaning": "失败",
+              "type": "实词"
+            },
+            {
+              "word": "召忽",
+              "pinyin": "Shào Hū",
+              "meaning": "召忽",
+              "type": "人名"
+            },
+            {
+              "word": "死之",
+              "pinyin": "sǐ zhī",
+              "meaning": "为他而死",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "幽囚受辱",
+              "pinyin": "yōu qiú shòu rǔ",
+              "meaning": "被囚禁受辱",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "不以我为无耻",
+              "pinyin": "bù yǐ wǒ wéi wú chǐ",
+              "meaning": "不认为我无耻",
+              "type": "实词"
+            },
+            {
+              "word": "知我不羞小节",
+              "pinyin": "zhī wǒ bù xiū xiǎo jié",
+              "meaning": "知道我不羞小节",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "耻功名不显于天下",
+              "pinyin": "chǐ gōng míng bù xiǎn yú tiān xià",
+              "meaning": "耻于功名不显于天下",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "生我者父母，知我者鲍子也。",
+          "translation": "生我的是父母，了解我的是鲍叔。",
+          "words": [
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "生育",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "父母",
+              "pinyin": "fù mǔ",
+              "meaning": "父母",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "了解",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "鲍子",
+              "pinyin": "Bào zǐ",
+              "meaning": "鲍叔牙",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "鲍叔既进管仲，以身下之。子孙世禄於齐，有封邑者十馀世，常为名大夫。",
+      "translation": "鲍叔推荐了管仲之后，自己甘愿位居其下。他的子孙世代在齐国享受俸禄，拥有封邑的有十多代，常常成为著名的大夫。",
+      "sentences": [
+        {
+          "original": "鲍叔既进管仲，以身下之。",
+          "translation": "鲍叔推荐了管仲之后，自己甘愿位居其下。",
+          "words": [
+            {
+              "word": "鲍叔",
+              "pinyin": "Bào Shū",
+              "meaning": "鲍叔牙，齐国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "进",
+              "pinyin": "jìn",
+              "meaning": "推荐",
+              "type": "实词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "Guǎn Zhòng",
+              "meaning": "管仲，齐国相",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "自身",
+              "type": "实词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "谦让",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "子孙世禄於齐，有封邑者十馀世，常为名大夫。",
+          "translation": "子孙世代在齐国享受俸禄，拥有封邑的有十多代，常常成为著名的大夫。",
+          "words": [
+            {
+              "word": "子孙",
+              "pinyin": "zǐ sūn",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "世禄",
+              "pinyin": "shì lù",
+              "meaning": "世代俸禄",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "Qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "封邑",
+              "pinyin": "fēng yì",
+              "meaning": "封地",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "十馀",
+              "pinyin": "shí yú",
+              "meaning": "十余",
+              "type": "实词"
+            },
+            {
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "代",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "著名",
+              "type": "实词"
+            },
+            {
+              "word": "大夫",
+              "pinyin": "dà fū",
+              "meaning": "官职名",
+              "type": "官职"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "天下不多管仲之贤而多鲍叔能知人也。",
+      "translation": "天下人不称赞管仲的贤能，而是称赞鲍叔能够识人。",
+      "sentences": [
+        {
+          "original": "天下不多管仲之贤",
+          "translation": "天下人不称赞管仲的贤能。",
+          "words": [
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国或世界",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "称赞",
+              "type": "实词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "齐国政治家",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "而多鲍叔能知人也",
+          "translation": "而是称赞鲍叔能够识人。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "称赞",
+              "type": "实词"
+            },
+            {
+              "word": "鲍叔",
+              "pinyin": "bào shū",
+              "meaning": "齐国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "知人",
+              "pinyin": "zhī rén",
+              "meaning": "了解人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "管仲既任政相齐，以区区之齐在海滨，通货积财，富国彊兵，与俗同好恶。",
+      "translation": "管仲已经担任齐国的相国，执掌政务，凭借小小的齐国地处海滨，流通货物，积累财富，使国家富足，军队强大，并与百姓同好恶。",
+      "sentences": [
+        {
+          "original": "管仲既任政相齐",
+          "translation": "管仲已经担任齐国的相国，执掌政务。",
+          "words": [
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "任政",
+              "pinyin": "rèn zhèng",
+              "meaning": "执政",
+              "type": "实词"
+            },
+            {
+              "word": "相齐",
+              "pinyin": "xiàng qí",
+              "meaning": "辅佐齐国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "以区区之齐在海滨",
+          "translation": "凭借小小的齐国，地处海滨。",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "区区",
+              "pinyin": "qū qū",
+              "meaning": "小小的",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "位于",
+              "type": "实词"
+            },
+            {
+              "word": "海滨",
+              "pinyin": "hǎi bīn",
+              "meaning": "海边",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "通货积财",
+          "translation": "流通货物，积累财富。",
+          "words": [
+            {
+              "word": "通货积财",
+              "pinyin": "tōng huò jī cái",
+              "meaning": "流通货物积累财富",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "富国彊兵",
+          "translation": "使国家富足，军队强大。",
+          "words": [
+            {
+              "word": "富国彊兵",
+              "pinyin": "fù guó qiáng bīng",
+              "meaning": "使国家富足军队强大",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "与俗同好恶",
+          "translation": "与百姓同好恶。",
+          "words": [
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "俗",
+              "pinyin": "sú",
+              "meaning": "世俗民众",
+              "type": "实词"
+            },
+            {
+              "word": "同",
+              "pinyin": "tóng",
+              "meaning": "相同",
+              "type": "实词"
+            },
+            {
+              "word": "好恶",
+              "pinyin": "hào wù",
+              "meaning": "喜好厌恶",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "故其称曰：“仓廪实而知礼节，衣食足而知荣辱，上服度则六亲固。四维不张，国乃灭亡。下令如流水之原，令顺民心。”故论卑而易行。俗之所欲，因而予之；俗之所否，因而去之。",
+      "translation": "管仲说：“粮仓充实了，百姓就会懂得礼节；衣食丰足了，百姓就会知道荣辱；君主遵守法度，六亲就会团结。礼义廉耻不伸张，国家就会灭亡。下达政令要像流水的源头一样，使政令顺应民心。”所以他的主张平易而容易实行。百姓想要的，就给予他们；百姓反对的，就废除它。",
+      "sentences": [
+        {
+          "original": "故其称曰：“仓廪实而知礼节，衣食足而知荣辱，上服度则六亲固。四维不张，国乃灭亡。下令如流水之原，令顺民心。”",
+          "translation": "管仲说：“粮仓充实了，百姓就会懂得礼节；衣食丰足了，百姓就会知道荣辱；君主遵守法度，六亲就会团结。礼义廉耻不伸张，国家就会灭亡。下达政令要像流水的源头一样，使政令顺应民心。”",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "称曰",
+              "pinyin": "chēng yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "仓廪实",
+              "pinyin": "cāng lǐn shí",
+              "meaning": "粮仓充实",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "知礼节",
+              "pinyin": "zhī lǐ jié",
+              "meaning": "懂得礼节",
+              "type": "实词"
+            },
+            {
+              "word": "衣食足",
+              "pinyin": "yī shí zú",
+              "meaning": "衣食充足",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "知荣辱",
+              "pinyin": "zhī róng rǔ",
+              "meaning": "知道荣辱",
+              "type": "实词"
+            },
+            {
+              "word": "上服度",
+              "pinyin": "shàng fú dù",
+              "meaning": "君主守法度",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "六亲固",
+              "pinyin": "liù qīn gù",
+              "meaning": "亲属稳固",
+              "type": "实词"
+            },
+            {
+              "word": "四维",
+              "pinyin": "sì wéi",
+              "meaning": "礼义廉耻",
+              "type": "典故"
+            },
+            {
+              "word": "不张",
+              "pinyin": "bù zhāng",
+              "meaning": "不伸张",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "灭亡",
+              "pinyin": "miè wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "下令",
+              "pinyin": "xià lìng",
+              "meaning": "下达命令",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "像",
+              "type": "虚词"
+            },
+            {
+              "word": "流水之原",
+              "pinyin": "liú shuǐ zhī yuán",
+              "meaning": "流水的源头",
+              "type": "实词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "顺民心",
+              "pinyin": "shùn mín xīn",
+              "meaning": "顺应民心",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "故论卑而易行。",
+          "translation": "所以他的主张平易而容易实行。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "论卑",
+              "pinyin": "lùn bēi",
+              "meaning": "论调低下",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "易行",
+              "pinyin": "yì xíng",
+              "meaning": "容易实行",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "俗之所欲，因而予之；俗之所否，因而去之。",
+          "translation": "百姓想要的，就给予他们；百姓反对的，就废除它。",
+          "words": [
+            {
+              "word": "俗",
+              "pinyin": "sú",
+              "meaning": "风俗",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "所欲",
+              "pinyin": "suǒ yù",
+              "meaning": "想要的",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "予之",
+              "pinyin": "yǔ zhī",
+              "meaning": "给予他们",
+              "type": "实词"
+            },
+            {
+              "word": "俗",
+              "pinyin": "sú",
+              "meaning": "风俗",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "所否",
+              "pinyin": "suǒ fǒu",
+              "meaning": "否定的",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "去之",
+              "pinyin": "qù zhī",
+              "meaning": "去除它们",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "其为政也，善因祸而为福，转败而为功。贵轻重，慎权衡。桓公实怒少姬，南袭蔡，管仲因而伐楚，责包茅不入贡於周室。桓公实北征山戎，而管仲因而令燕修召公之政。於柯之会，桓公欲背曹沫之约，管仲因而信之，诸侯由是归齐。",
+      "translation": "管仲处理政务时，善于将祸患转化为福气，将失败转变为成功。他重视轻重缓急，谨慎权衡利弊。桓公实际上是因为对少姬发怒，向南袭击蔡国，管仲趁机讨伐楚国，责备楚国不向周王室进贡包茅。桓公实际上北征山戎，而管仲趁机命令燕国恢复召公的政治。在柯地的会盟上，桓公想要背弃与曹沫的约定，管仲趁机使齐国守信，诸侯因此归附齐国。",
+      "sentences": [
+        {
+          "original": "其为政也，善因祸而为福，转败而为功。",
+          "translation": "管仲处理政务时，善于将祸患转化为福气，将失败转变为成功。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他",
+              "type": "实词"
+            },
+            {
+              "word": "为政",
+              "pinyin": "wéi zhèng",
+              "meaning": "处理政事",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "擅长",
+              "type": "实词"
+            },
+            {
+              "word": "因祸而为福",
+              "pinyin": "yīn huò ér wéi fú",
+              "meaning": "利用灾祸转为福",
+              "type": "成语"
+            },
+            {
+              "word": "转败而为功",
+              "pinyin": "zhuǎn bài ér wéi gōng",
+              "meaning": "将失败转为成功",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "贵轻重，慎权衡。",
+          "translation": "重视轻重缓急，谨慎权衡利弊。",
+          "words": [
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "重视",
+              "type": "实词"
+            },
+            {
+              "word": "轻重",
+              "pinyin": "qīng zhòng",
+              "meaning": "轻重缓急",
+              "type": "实词"
+            },
+            {
+              "word": "慎",
+              "pinyin": "shèn",
+              "meaning": "谨慎",
+              "type": "实词"
+            },
+            {
+              "word": "权衡",
+              "pinyin": "quán héng",
+              "meaning": "权衡利弊",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "桓公实怒少姬，南袭蔡，管仲因而伐楚，责包茅不入贡於周室。",
+          "translation": "桓公实际上是因为对少姬发怒，向南袭击蔡国，管仲趁机讨伐楚国，责备楚国不向周王室进贡包茅。",
+          "words": [
+            {
+              "word": "桓公",
+              "pinyin": "huán gōng",
+              "meaning": "齐桓公",
+              "type": "人名"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "实际上",
+              "type": "虚词"
+            },
+            {
+              "word": "怒",
+              "pinyin": "nù",
+              "meaning": "生气",
+              "type": "实词"
+            },
+            {
+              "word": "少姬",
+              "pinyin": "shào jī",
+              "meaning": "蔡姬",
+              "type": "人名"
+            },
+            {
+              "word": "南",
+              "pinyin": "nán",
+              "meaning": "向南",
+              "type": "实词"
+            },
+            {
+              "word": "袭",
+              "pinyin": "xí",
+              "meaning": "袭击",
+              "type": "实词"
+            },
+            {
+              "word": "蔡",
+              "pinyin": "cài",
+              "meaning": "蔡国",
+              "type": "地名"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "因而",
+              "pinyin": "yīn ér",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "伐",
+              "pinyin": "fá",
+              "meaning": "讨伐",
+              "type": "实词"
+            },
+            {
+              "word": "楚",
+              "pinyin": "chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "责",
+              "pinyin": "zé",
+              "meaning": "责备",
+              "type": "实词"
+            },
+            {
+              "word": "包茅",
+              "pinyin": "bāo máo",
+              "meaning": "祭祀用茅草",
+              "type": "器物"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "入贡",
+              "pinyin": "rù gòng",
+              "meaning": "进贡",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "周室",
+              "pinyin": "zhōu shì",
+              "meaning": "周王室",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "桓公实北征山戎，而管仲因而令燕修召公之政。",
+          "translation": "桓公实际上北征山戎，而管仲趁机命令燕国恢复召公的政治。",
+          "words": [
+            {
+              "word": "桓公",
+              "pinyin": "huán gōng",
+              "meaning": "齐桓公",
+              "type": "人名"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "实际上",
+              "type": "虚词"
+            },
+            {
+              "word": "北",
+              "pinyin": "běi",
+              "meaning": "向北",
+              "type": "实词"
+            },
+            {
+              "word": "征",
+              "pinyin": "zhēng",
+              "meaning": "征讨",
+              "type": "实词"
+            },
+            {
+              "word": "山戎",
+              "pinyin": "shān róng",
+              "meaning": "山戎族",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "因而",
+              "pinyin": "yīn ér",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "燕",
+              "pinyin": "yān",
+              "meaning": "燕国",
+              "type": "地名"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "修明",
+              "type": "实词"
+            },
+            {
+              "word": "召公",
+              "pinyin": "shào gōng",
+              "meaning": "召公奭",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政事",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "於柯之会，桓公欲背曹沫之约，管仲因而信之，诸侯由是归齐。",
+          "translation": "在柯地的会盟上，桓公想要背弃与曹沫的约定，管仲趁机使齐国守信，诸侯因此归附齐国。",
+          "words": [
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "柯",
+              "pinyin": "kē",
+              "meaning": "柯邑",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "会",
+              "pinyin": "huì",
+              "meaning": "会盟",
+              "type": "实词"
+            },
+            {
+              "word": "桓公",
+              "pinyin": "huán gōng",
+              "meaning": "齐桓公",
+              "type": "人名"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "背",
+              "pinyin": "bèi",
+              "meaning": "背弃",
+              "type": "实词"
+            },
+            {
+              "word": "曹沫",
+              "pinyin": "cáo mò",
+              "meaning": "曹沫",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "约",
+              "pinyin": "yuē",
+              "meaning": "盟约",
+              "type": "实词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "因而",
+              "pinyin": "yīn ér",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "守信",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它，指盟约",
+              "type": "虚词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "由是",
+              "pinyin": "yóu shì",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "归附",
+              "type": "实词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "故曰：“知与之为取，政之宝也。”",
+      "translation": "所以说：‘知道给予就是获取，这是为政的法宝。’",
+      "sentences": [
+        {
+          "original": "故曰：‘知与之为取，政之宝也。’",
+          "translation": "所以说：‘知道给予就是获取，这是为政的法宝。’",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "给予",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "获取",
+              "type": "实词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政治",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "宝",
+              "pinyin": "bǎo",
+              "meaning": "法宝",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "管仲富拟於公室，有三归、反坫，齐人不以为侈。管仲卒，齐国遵其政，常彊於诸侯。后百馀年而有晏子焉。",
+      "translation": "管仲的财富可以比得上公室，拥有三归和反坫，齐国人不认为这是奢侈。管仲去世后，齐国遵循他的政策，常常在诸侯中保持强大。一百多年后，出现了晏子。",
+      "sentences": [
+        {
+          "original": "管仲富拟於公室，有三归、反坫，齐人不以为侈。",
+          "translation": "管仲的财富可以比得上公室，拥有三归和反坫，齐国人不认为这是奢侈。",
+          "words": [
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "富",
+              "pinyin": "fù",
+              "meaning": "富有",
+              "type": "实词"
+            },
+            {
+              "word": "拟",
+              "pinyin": "nǐ",
+              "meaning": "比拟",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词，表比较",
+              "type": "虚词"
+            },
+            {
+              "word": "公室",
+              "pinyin": "gōng shì",
+              "meaning": "公家宫室",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "三归",
+              "pinyin": "sān guī",
+              "meaning": "管仲三处家产",
+              "type": "典故"
+            },
+            {
+              "word": "反坫",
+              "pinyin": "fǎn diàn",
+              "meaning": "反爵之坫",
+              "type": "器物"
+            },
+            {
+              "word": "齐人",
+              "pinyin": "qí rén",
+              "meaning": "齐国人",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，用",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "侈",
+              "pinyin": "chǐ",
+              "meaning": "奢侈",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "管仲卒，齐国遵其政，常彊於诸侯。",
+          "translation": "管仲去世后，齐国遵循他的政策，常常在诸侯中保持强大。",
+          "words": [
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "去世",
+              "type": "实词"
+            },
+            {
+              "word": "齐国",
+              "pinyin": "qí guó",
+              "meaning": "诸侯国名",
+              "type": "地名"
+            },
+            {
+              "word": "遵",
+              "pinyin": "zūn",
+              "meaning": "遵循",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的",
+              "type": "虚词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政策",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "虚词"
+            },
+            {
+              "word": "彊",
+              "pinyin": "qiáng",
+              "meaning": "强大",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词，表比较",
+              "type": "虚词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "后百馀年而有晏子焉。",
+          "translation": "一百多年后，出现了晏子。",
+          "words": [
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "之后",
+              "type": "实词"
+            },
+            {
+              "word": "百馀年",
+              "pinyin": "bǎi yú nián",
+              "meaning": "百余年",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "出现",
+              "type": "实词"
+            },
+            {
+              "word": "晏子",
+              "pinyin": "yàn zǐ",
+              "meaning": "齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "晏平仲婴者，莱之夷维人也。事齐灵公、庄公、景公，以节俭力行重於齐。",
+      "translation": "晏平仲婴，是莱地夷维人。他侍奉齐灵公、庄公、景公，凭借节俭和力行在齐国受到尊重。",
+      "sentences": [
+        {
+          "original": "晏平仲婴者，莱之夷维人也。",
+          "translation": "晏平仲婴，是莱地夷维人。",
+          "words": [
+            {
+              "word": "晏平仲婴",
+              "pinyin": "Yàn Píng Zhòng Yīng",
+              "meaning": "晏婴，字平仲",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表示停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "莱",
+              "pinyin": "Lái",
+              "meaning": "古国名",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "夷维",
+              "pinyin": "Yí Wéi",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "事齐灵公、庄公、景公，以节俭力行重於齐。",
+          "translation": "他侍奉齐灵公、庄公、景公，凭借节俭和力行在齐国受到尊重。",
+          "words": [
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "齐灵公",
+              "pinyin": "Qí Líng Gōng",
+              "meaning": "齐国国君",
+              "type": "人名"
+            },
+            {
+              "word": "庄公",
+              "pinyin": "Zhuāng Gōng",
+              "meaning": "齐庄公",
+              "type": "人名"
+            },
+            {
+              "word": "景公",
+              "pinyin": "Jǐng Gōng",
+              "meaning": "齐景公",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "节俭",
+              "pinyin": "jié jiǎn",
+              "meaning": "节约俭省",
+              "type": "实词"
+            },
+            {
+              "word": "力行",
+              "pinyin": "lì xíng",
+              "meaning": "努力实行",
+              "type": "实词"
+            },
+            {
+              "word": "重",
+              "pinyin": "zhòng",
+              "meaning": "受尊重",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "Qí",
+              "meaning": "齐国",
+              "type": "地名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "既相齐，食不重肉，妾不衣帛。其在朝，君语及之，即危言；语不及之，即危行。",
+      "translation": "晏子担任齐相后，饮食简单，不吃两种以上的肉食，妾不穿丝绸衣服。他在朝廷上，国君问到他，他就正直地进言；国君不问到他，他就正直地行事。",
+      "sentences": [
+        {
+          "original": "既相齐，食不重肉，妾不衣帛。",
+          "translation": "晏子担任齐相后，饮食不吃两种以上的肉食，妾不穿丝绸衣服。",
+          "words": [
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "相齐",
+              "pinyin": "xiàng qí",
+              "meaning": "辅佐齐国",
+              "type": "实词"
+            },
+            {
+              "word": "食不重肉",
+              "pinyin": "shí bù chóng ròu",
+              "meaning": "饮食节俭",
+              "type": "成语"
+            },
+            {
+              "word": "妾不衣帛",
+              "pinyin": "qiè bù yì bó",
+              "meaning": "妾不穿丝绸",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "其在朝，君语及之，即危言；语不及之，即危行。",
+          "translation": "他在朝廷上，国君问到他，他就正直地进言；国君不问到他，他就正直地行事。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "在朝",
+              "pinyin": "zài cháo",
+              "meaning": "在朝廷上",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "语及",
+              "pinyin": "yǔ jí",
+              "meaning": "说到",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "危言",
+              "pinyin": "wēi yán",
+              "meaning": "谨慎的言辞",
+              "type": "实词"
+            },
+            {
+              "word": "语",
+              "pinyin": "yǔ",
+              "meaning": "说话",
+              "type": "实词"
+            },
+            {
+              "word": "不及",
+              "pinyin": "bù jí",
+              "meaning": "没说到",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "危行",
+              "pinyin": "wēi xíng",
+              "meaning": "谨慎的行为",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "国有道，即顺命；无道，即衡命。以此三世显名於诸侯。",
+      "translation": "当国家政治清明时，就顺从命令；当国家政治黑暗时，就权衡命令。因此三代在诸侯中显扬名声。",
+      "sentences": [
+        {
+          "original": "国有道，即顺命；无道，即衡命。",
+          "translation": "当国家政治清明时，就顺从命令；当国家政治黑暗时，就权衡命令。",
+          "words": [
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "道义",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "顺",
+              "pinyin": "shùn",
+              "meaning": "顺应",
+              "type": "实词"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "道义",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "衡",
+              "pinyin": "héng",
+              "meaning": "衡量",
+              "type": "实词"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "以此三世显名於诸侯。",
+          "translation": "因此三代在诸侯中显扬名声。",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "三世",
+              "pinyin": "sānshì",
+              "meaning": "三代",
+              "type": "实词"
+            },
+            {
+              "word": "显",
+              "pinyin": "xiǎn",
+              "meaning": "显扬",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名声",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhūhóu",
+              "meaning": "诸侯国",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "越石父贤，在缧绁中。晏子出，遭之涂，解左骖赎之，载归。弗谢，入闺。",
+      "translation": "越石父是个贤能的人，但被囚禁着。晏子外出时，在路上遇到他，便解下左边的骖马赎他出来，载他回家。越石父没有道谢，就径直进入内室。",
+      "sentences": [
+        {
+          "original": "越石父贤，在缧绁中。",
+          "translation": "越石父贤能，但被关在监狱中。",
+          "words": [
+            {
+              "word": "越石父",
+              "pinyin": "yuè shí fù",
+              "meaning": "贤士",
+              "type": "人名"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "处于",
+              "type": "实词"
+            },
+            {
+              "word": "缧绁",
+              "pinyin": "léi xiè",
+              "meaning": "监狱",
+              "type": "实词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "之中",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "晏子出，遭之涂，解左骖赎之，载归。",
+          "translation": "晏子外出，在路上遇到他，解下左边的骖马赎他出来，载他回家。",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "yàn zǐ",
+              "meaning": "齐国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "外出",
+              "type": "实词"
+            },
+            {
+              "word": "遭",
+              "pinyin": "zāo",
+              "meaning": "遇到",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "涂",
+              "pinyin": "tú",
+              "meaning": "道路",
+              "type": "实词"
+            },
+            {
+              "word": "解",
+              "pinyin": "jiě",
+              "meaning": "解开",
+              "type": "实词"
+            },
+            {
+              "word": "左",
+              "pinyin": "zuǒ",
+              "meaning": "左边",
+              "type": "实词"
+            },
+            {
+              "word": "骖",
+              "pinyin": "cān",
+              "meaning": "骖马",
+              "type": "实词"
+            },
+            {
+              "word": "赎",
+              "pinyin": "shú",
+              "meaning": "赎回",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "载",
+              "pinyin": "zài",
+              "meaning": "载着",
+              "type": "实词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "返回",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "弗谢，入闺。",
+          "translation": "越石父没有道谢，就进入内室。",
+          "words": [
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "谢",
+              "pinyin": "xiè",
+              "meaning": "感谢",
+              "type": "实词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "闺",
+              "pinyin": "guī",
+              "meaning": "内室",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "久之，越石父请绝。晏子戄然，摄衣冠谢曰：“婴虽不仁，免子於戹，何子求绝之速也？”石父曰：“不然。吾闻君子诎於不知己而信於知己者。方吾在缧绁中，彼不知我也。夫子既已感寤而赎我，是知己；知己而无礼，固不如在缧绁之中。”晏子於是延入为上客。",
+      "translation": "过了一段时间，越石父请求绝交。晏子震惊，整理衣冠道歉说：“婴虽然不仁，但把你从危难中解救出来，为什么你这么快就请求绝交呢？”越石父说：“不是这样。我听说君子在不了解自己的人那里受屈，在了解自己的人那里伸张。当我在囚禁中时，那些人不了解我。您既然已经感悟并赎了我，就是了解我的人；但了解我却对我无礼，那还不如在囚禁之中。”晏子于是请他进来，待为上宾。",
+      "sentences": [
+        {
+          "original": "久之，越石父请绝。",
+          "translation": "过了一段时间，越石父请求绝交。",
+          "words": [
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "长久",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "越石父",
+              "pinyin": "yuè shí fù",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "绝",
+              "pinyin": "jué",
+              "meaning": "断绝",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "晏子戄然，摄衣冠谢曰：“婴虽不仁，免子於戹，何子求绝之速也？”",
+          "translation": "晏子震惊，整理衣冠道歉说：“婴虽然不仁，但把你从危难中解救出来，为什么你这么快就请求绝交呢？”",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "yàn zǐ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "戄然",
+              "pinyin": "jué rán",
+              "meaning": "惊惧的样子",
+              "type": "实词"
+            },
+            {
+              "word": "摄",
+              "pinyin": "shè",
+              "meaning": "整理",
+              "type": "实词"
+            },
+            {
+              "word": "衣冠",
+              "pinyin": "yī guān",
+              "meaning": "衣帽",
+              "type": "实词"
+            },
+            {
+              "word": "谢",
+              "pinyin": "xiè",
+              "meaning": "道歉",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "婴",
+              "pinyin": "yīng",
+              "meaning": "晏婴自称",
+              "type": "人名"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "不仁",
+              "pinyin": "bù rén",
+              "meaning": "不仁德",
+              "type": "实词"
+            },
+            {
+              "word": "免",
+              "pinyin": "miǎn",
+              "meaning": "解救",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "戹",
+              "pinyin": "è",
+              "meaning": "困厄",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "为什么",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "求",
+              "pinyin": "qiú",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "绝",
+              "pinyin": "jué",
+              "meaning": "断绝",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "速",
+              "pinyin": "sù",
+              "meaning": "快",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "石父曰：“不然。吾闻君子诎於不知己而信於知己者。方吾在缧绁中，彼不知我也。夫子既已感寤而赎我，是知己；知己而无礼，固不如在缧绁之中。”",
+          "translation": "越石父说：“不是这样。我听说君子在不了解自己的人那里受屈，在了解自己的人那里伸张。当我在囚禁中时，那些人不了解我。您既然已经感悟并赎了我，就是了解我的人；但了解我却对我无礼，那还不如在囚禁之中。”",
+          "words": [
+            {
+              "word": "石父",
+              "pinyin": "shí fù",
+              "meaning": "越石父",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "不是这样",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "有德之人",
+              "type": "实词"
+            },
+            {
+              "word": "诎",
+              "pinyin": "qū",
+              "meaning": "屈服",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "不知己",
+              "pinyin": "bù zhī jǐ",
+              "meaning": "不了解自己的人",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "信",
+              "pinyin": "shēn",
+              "meaning": "伸展",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "知己者",
+              "pinyin": "zhī jǐ zhě",
+              "meaning": "了解自己的人",
+              "type": "实词"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "当",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "在",
+              "type": "实词"
+            },
+            {
+              "word": "缧绁",
+              "pinyin": "léi xiè",
+              "meaning": "囚禁",
+              "type": "实词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "中",
+              "type": "实词"
+            },
+            {
+              "word": "彼",
+              "pinyin": "bǐ",
+              "meaning": "他",
+              "type": "实词"
+            },
+            {
+              "word": "不知",
+              "pinyin": "bù zhī",
+              "meaning": "不了解",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "夫子",
+              "pinyin": "fū zǐ",
+              "meaning": "尊称晏子",
+              "type": "人名"
+            },
+            {
+              "word": "既已",
+              "pinyin": "jì yǐ",
+              "meaning": "已经",
+              "type": "实词"
+            },
+            {
+              "word": "感寤",
+              "pinyin": "gǎn wù",
+              "meaning": "感悟",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "赎",
+              "pinyin": "shú",
+              "meaning": "赎买",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "知己",
+              "pinyin": "zhī jǐ",
+              "meaning": "了解自己",
+              "type": "实词"
+            },
+            {
+              "word": "知己",
+              "pinyin": "zhī jǐ",
+              "meaning": "了解自己",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "无礼",
+              "pinyin": "wú lǐ",
+              "meaning": "没有礼貌",
+              "type": "实词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "本来",
+              "type": "实词"
+            },
+            {
+              "word": "不如",
+              "pinyin": "bù rú",
+              "meaning": "不如",
+              "type": "实词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "在",
+              "type": "实词"
+            },
+            {
+              "word": "缧绁",
+              "pinyin": "léi xiè",
+              "meaning": "囚禁",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "中",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "晏子於是延入为上客。",
+          "translation": "晏子于是请他进来，待为上宾。",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "yàn zǐ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "延",
+              "pinyin": "yán",
+              "meaning": "邀请",
+              "type": "实词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "上客",
+              "pinyin": "shàng kè",
+              "meaning": "上等宾客",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "晏子为齐相，出，其御之妻从门间而闚其夫。其夫为相御，拥大盖，策驷马，意气扬扬，甚自得也。既而归，其妻请去。夫问其故。妻曰：“晏子长不满六尺，身相齐国，名显诸侯。今者妾观其出，志念深矣，常有以自下者。今子长八尺，乃为人仆御，然子之意自以为足，妾是以求去也。”其后夫自抑损。晏子怪而问之，御以实对。晏子荐以为大夫。",
+      "translation": "晏子担任齐国的相国，一次出行，他的车夫的妻子从门缝里窥视她的丈夫。她的丈夫为相国驾车，手持大车盖，鞭策着四匹马，意气风发，非常自得。不久后回家，他的妻子请求离开。丈夫问她原因。妻子说：“晏子身高不满六尺，担任齐国的相国，名声显赫于诸侯。今天我观察他出行，志向深远，常常表现出谦卑的态度。现在你身高八尺，却只是做别人的车夫，然而你的意气自以为满足，我因此请求离开。”之后，丈夫自我克制、谦逊起来。晏子感到奇怪并问他，车夫如实回答。晏子推荐他做了大夫。",
+      "sentences": [
+        {
+          "original": "晏子为齐相，出，其御之妻从门间而闚其夫。",
+          "translation": "晏子担任齐国的相国，出行时，他的车夫的妻子从门缝里窥视她的丈夫。",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "Yàn Zǐ",
+              "meaning": "齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "齐相",
+              "pinyin": "Qí xiàng",
+              "meaning": "齐国的相国",
+              "type": "官职"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出来",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "御",
+              "pinyin": "yù",
+              "meaning": "驾车的人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "妻",
+              "pinyin": "qī",
+              "meaning": "妻子",
+              "type": "实词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "门间",
+              "pinyin": "mén jiān",
+              "meaning": "门缝",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "闚",
+              "pinyin": "kuī",
+              "meaning": "偷看",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "她的",
+              "type": "虚词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "丈夫",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其夫为相御，拥大盖，策驷马，意气扬扬，甚自得也。",
+          "translation": "她的丈夫为相国驾车，手持大车盖，鞭策着四匹马，意气风发，非常自得。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "丈夫",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替",
+              "type": "虚词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相国",
+              "type": "官职"
+            },
+            {
+              "word": "御",
+              "pinyin": "yù",
+              "meaning": "驾车",
+              "type": "实词"
+            },
+            {
+              "word": "拥",
+              "pinyin": "yōng",
+              "meaning": "持着",
+              "type": "实词"
+            },
+            {
+              "word": "大盖",
+              "pinyin": "dà gài",
+              "meaning": "大伞盖",
+              "type": "器物"
+            },
+            {
+              "word": "策",
+              "pinyin": "cè",
+              "meaning": "鞭打",
+              "type": "实词"
+            },
+            {
+              "word": "驷马",
+              "pinyin": "sì mǎ",
+              "meaning": "四匹马",
+              "type": "实词"
+            },
+            {
+              "word": "意气扬扬",
+              "pinyin": "yì qì yáng yáng",
+              "meaning": "得意的样子",
+              "type": "成语"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "很",
+              "type": "虚词"
+            },
+            {
+              "word": "自得",
+              "pinyin": "zì dé",
+              "meaning": "自满",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "既而归，其妻请去。",
+          "translation": "不久后回家，他的妻子请求离开。",
+          "words": [
+            {
+              "word": "既而",
+              "pinyin": "jì ér",
+              "meaning": "不久",
+              "type": "虚词"
+            },
+            {
+              "word": "归",
+              "pinyin": "guī",
+              "meaning": "回来",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "妻",
+              "pinyin": "qī",
+              "meaning": "妻子",
+              "type": "实词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "离开",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫问其故。",
+          "translation": "丈夫问她原因。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "丈夫",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "其中",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "缘故",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "妻曰：“晏子长不满六尺，身相齐国，名显诸侯。今者妾观其出，志念深矣，常有以自下者。今子长八尺，乃为人仆御，然子之意自以为足，妾是以求去也。”",
+          "translation": "妻子说：“晏子身高不满六尺，担任齐国的相国，名声显赫于诸侯。今天我观察他出行，志向深远，常常表现出谦卑的态度。现在你身高八尺，却只是做别人的车夫，然而你的意气自以为满足，我因此请求离开。”",
+          "words": [
+            {
+              "word": "妻",
+              "pinyin": "qī",
+              "meaning": "妻子",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "晏子",
+              "pinyin": "Yàn Zǐ",
+              "meaning": "齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "长",
+              "pinyin": "cháng",
+              "meaning": "身高",
+              "type": "实词"
+            },
+            {
+              "word": "不满",
+              "pinyin": "bù mǎn",
+              "meaning": "不足",
+              "type": "实词"
+            },
+            {
+              "word": "六尺",
+              "pinyin": "liù chǐ",
+              "meaning": "六尺高",
+              "type": "实词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "自身",
+              "type": "实词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "担任相",
+              "type": "实词"
+            },
+            {
+              "word": "齐国",
+              "pinyin": "Qí guó",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名声",
+              "type": "实词"
+            },
+            {
+              "word": "显",
+              "pinyin": "xiǎn",
+              "meaning": "显扬",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "今者",
+              "pinyin": "jīn zhě",
+              "meaning": "现在",
+              "type": "虚词"
+            },
+            {
+              "word": "妾",
+              "pinyin": "qiè",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观察",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出来",
+              "type": "实词"
+            },
+            {
+              "word": "志念",
+              "pinyin": "zhì niàn",
+              "meaning": "志向",
+              "type": "实词"
+            },
+            {
+              "word": "深",
+              "pinyin": "shēn",
+              "meaning": "深远",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "常常",
+              "type": "虚词"
+            },
+            {
+              "word": "有以",
+              "pinyin": "yǒu yǐ",
+              "meaning": "有用来",
+              "type": "虚词"
+            },
+            {
+              "word": "自下",
+              "pinyin": "zì xià",
+              "meaning": "自我谦下",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的情况",
+              "type": "虚词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "长",
+              "pinyin": "cháng",
+              "meaning": "身高",
+              "type": "实词"
+            },
+            {
+              "word": "八尺",
+              "pinyin": "bā chǐ",
+              "meaning": "八尺高",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "做",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "别人",
+              "type": "实词"
+            },
+            {
+              "word": "仆御",
+              "pinyin": "pú yù",
+              "meaning": "仆役驾车",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "心意",
+              "type": "实词"
+            },
+            {
+              "word": "自以为",
+              "pinyin": "zì yǐ wéi",
+              "meaning": "自己认为",
+              "type": "实词"
+            },
+            {
+              "word": "足",
+              "pinyin": "zú",
+              "meaning": "满足",
+              "type": "实词"
+            },
+            {
+              "word": "妾",
+              "pinyin": "qiè",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "是以",
+              "pinyin": "shì yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "求去",
+              "pinyin": "qiú qù",
+              "meaning": "请求离开",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其后夫自抑损。",
+          "translation": "之后，丈夫自我克制、谦逊起来。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "之后",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "丈夫",
+              "type": "实词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "自己",
+              "type": "虚词"
+            },
+            {
+              "word": "抑损",
+              "pinyin": "yì sǔn",
+              "meaning": "谦逊克制",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "晏子怪而问之，御以实对。",
+          "translation": "晏子感到奇怪并问他，车夫如实回答。",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "Yàn Zǐ",
+              "meaning": "齐相晏婴",
+              "type": "人名"
+            },
+            {
+              "word": "怪",
+              "pinyin": "guài",
+              "meaning": "感到奇怪",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "御",
+              "pinyin": "yù",
+              "meaning": "车夫",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "实情",
+              "type": "实词"
+            },
+            {
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "晏子荐以为大夫。",
+          "translation": "晏子推荐他做了大夫。",
+          "words": [
+            {
+              "word": "晏子",
+              "pinyin": "Yàn Zǐ",
+              "meaning": "齐相晏婴",
+              "type": "人名"
+            },
+            {
+              "word": "荐",
+              "pinyin": "jiàn",
+              "meaning": "推荐",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "任命为",
+              "type": "实词"
+            },
+            {
+              "word": "大夫",
+              "pinyin": "dà fū",
+              "meaning": "官职名",
+              "type": "官职"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "太史公曰：吾读管氏牧民、山高、乘马、轻重、九府，及晏子春秋，详哉其言之也。既见其著书，欲观其行事，故次其传。至其书，世多有之，是以不论，论其轶事。",
+      "translation": "太史公说：我读管氏的《牧民》、《山高》、《乘马》、《轻重》、《九府》，以及《晏子春秋》，这些书详细地论述了这些内容。既然看到了他们的著作，想要观察他们的行为事迹，所以编次他们的传记。至于他们的书，世间多有流传，因此不讨论，只讨论他们的轶事。",
+      "sentences": [
+        {
+          "original": "太史公曰：吾读管氏牧民、山高、乘马、轻重、九府，及晏子春秋，详哉其言之也。",
+          "translation": "太史公说：我读管氏的《牧民》、《山高》、《乘马》、《轻重》、《九府》，以及《晏子春秋》，这些书详细地论述了这些内容。",
+          "words": [
+            {
+              "word": "太史公曰",
+              "pinyin": "tài shǐ gōng yuē",
+              "meaning": "太史公说",
+              "type": "典故"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "读",
+              "pinyin": "dú",
+              "meaning": "阅读",
+              "type": "实词"
+            },
+            {
+              "word": "管氏",
+              "pinyin": "guǎn shì",
+              "meaning": "管仲",
+              "type": "人名"
+            },
+            {
+              "word": "牧民",
+              "pinyin": "mù mín",
+              "meaning": "《牧民》篇",
+              "type": "典故"
+            },
+            {
+              "word": "山高",
+              "pinyin": "shān gāo",
+              "meaning": "《山高》篇",
+              "type": "典故"
+            },
+            {
+              "word": "乘马",
+              "pinyin": "chéng mǎ",
+              "meaning": "《乘马》篇",
+              "type": "典故"
+            },
+            {
+              "word": "轻重",
+              "pinyin": "qīng zhòng",
+              "meaning": "《轻重》篇",
+              "type": "典故"
+            },
+            {
+              "word": "九府",
+              "pinyin": "jiǔ fǔ",
+              "meaning": "《九府》篇",
+              "type": "典故"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "晏子春秋",
+              "pinyin": "yàn zǐ chūn qiū",
+              "meaning": "《晏子春秋》书",
+              "type": "典故"
+            },
+            {
+              "word": "详哉",
+              "pinyin": "xiáng zāi",
+              "meaning": "详细啊",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "言之",
+              "pinyin": "yán zhī",
+              "meaning": "谈论它",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "既见其著书，欲观其行事，故次其传。",
+          "translation": "既然看到了他们的著作，想要观察他们的行为事迹，所以编次他们的传记。",
+          "words": [
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "著书",
+              "pinyin": "zhù shū",
+              "meaning": "著作",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观察",
+              "type": "实词"
+            },
+            {
+              "word": "行事",
+              "pinyin": "xíng shì",
+              "meaning": "行为事迹",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "次",
+              "pinyin": "cì",
+              "meaning": "编次",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "传",
+              "pinyin": "zhuàn",
+              "meaning": "传记",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "至其书，世多有之，是以不论，论其轶事。",
+          "translation": "至于他们的书，世间多有流传，因此不讨论，只讨论他们的轶事。",
+          "words": [
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "至于",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "书",
+              "pinyin": "shū",
+              "meaning": "书",
+              "type": "实词"
+            },
+            {
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "世间",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "是以",
+              "pinyin": "shì yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "不论",
+              "pinyin": "bù lùn",
+              "meaning": "不讨论",
+              "type": "实词"
+            },
+            {
+              "word": "论",
+              "pinyin": "lùn",
+              "meaning": "讨论",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "轶事",
+              "pinyin": "yì shì",
+              "meaning": "轶事",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "管仲，世所谓贤臣，然孔子小之。岂以为周道衰微，桓公既贤，而不勉之至王，乃称霸哉？语曰“将顺其美，匡救其恶，故上下能相亲也”。岂管仲之谓乎？方晏子伏庄公尸哭之，成礼然后去，岂所谓“见义不为无勇”者邪？至其谏说，犯君之颜，此所谓“进思尽忠，退思补过”者哉！假令晏子而在，余虽为之执鞭，所忻慕焉。",
+      "translation": "管仲是世人所称道的贤臣，然而孔子却轻视他。难道是因为周朝王道衰微，齐桓公既然贤能，管仲却不勉励他推行王道，反而让他称霸吗？古语说：“顺势助成他的美德，匡正挽救他的过错，所以上下能相亲相爱。”这难道指的就是管仲吗？当晏子伏在齐庄公的尸体上哭泣，完成丧礼然后离去，这难道不是所说的“见到正义之事不去做就是没有勇气”吗？至于他进谏时，敢于冒犯君主的威严，这正是所说的“在朝时想着尽忠，退朝时想着补过”啊！假使晏子还在世，我即使为他执鞭驾车，也是我所欣然向往的。",
+      "sentences": [
+        {
+          "original": "管仲，世所谓贤臣，然孔子小之。",
+          "translation": "管仲是世人所称道的贤臣，然而孔子却轻视他。",
+          "words": [
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "春秋齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "世人",
+              "type": "实词"
+            },
+            {
+              "word": "所谓",
+              "pinyin": "suǒ wèi",
+              "meaning": "所说的",
+              "type": "虚词"
+            },
+            {
+              "word": "贤臣",
+              "pinyin": "xián chén",
+              "meaning": "贤能的臣子",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "kǒng zǐ",
+              "meaning": "儒家创始人",
+              "type": "人名"
+            },
+            {
+              "word": "小",
+              "pinyin": "xiǎo",
+              "meaning": "轻视",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "岂以为周道衰微，桓公既贤，而不勉之至王，乃称霸哉？",
+          "translation": "难道是因为周朝王道衰微，齐桓公既然贤能，管仲却不勉励他推行王道，反而让他称霸吗？",
+          "words": [
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "虚词"
+            },
+            {
+              "word": "周道",
+              "pinyin": "zhōu dào",
+              "meaning": "周朝的治国之道",
+              "type": "实词"
+            },
+            {
+              "word": "衰微",
+              "pinyin": "shuāi wēi",
+              "meaning": "衰落微弱",
+              "type": "实词"
+            },
+            {
+              "word": "桓公",
+              "pinyin": "huán gōng",
+              "meaning": "齐桓公",
+              "type": "人名"
+            },
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "勉",
+              "pinyin": "miǎn",
+              "meaning": "勉励",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "达到",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wáng",
+              "meaning": "王道",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "称霸",
+              "pinyin": "chēng bà",
+              "meaning": "称霸诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "语曰“将顺其美，匡救其恶，故上下能相亲也”。岂管仲之谓乎？",
+          "translation": "古语说：“顺势助成他的美德，匡正挽救他的过错，所以上下能相亲相爱。”这难道指的就是管仲吗？",
+          "words": [
+            {
+              "word": "语",
+              "pinyin": "yǔ",
+              "meaning": "话",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "将顺其美",
+              "pinyin": "jiāng shùn qí měi",
+              "meaning": "顺势助成美德",
+              "type": "典故"
+            },
+            {
+              "word": "匡救其恶",
+              "pinyin": "kuāng jiù qí è",
+              "meaning": "纠正挽救恶行",
+              "type": "典故"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "上下",
+              "pinyin": "shàng xià",
+              "meaning": "上下级",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "虚词"
+            },
+            {
+              "word": "相亲",
+              "pinyin": "xiāng qīn",
+              "meaning": "互相亲近",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "管仲",
+              "pinyin": "guǎn zhòng",
+              "meaning": "春秋齐国名相",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "方晏子伏庄公尸哭之，成礼然后去，岂所谓“见义不为无勇”者邪？",
+          "translation": "当晏子伏在齐庄公的尸体上哭泣，完成丧礼然后离去，这难道不是所说的“见到正义之事不去做就是没有勇气”吗？",
+          "words": [
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "当",
+              "type": "虚词"
+            },
+            {
+              "word": "晏子",
+              "pinyin": "yàn zǐ",
+              "meaning": "晏婴",
+              "type": "人名"
+            },
+            {
+              "word": "伏",
+              "pinyin": "fú",
+              "meaning": "伏身",
+              "type": "实词"
+            },
+            {
+              "word": "庄公",
+              "pinyin": "zhuāng gōng",
+              "meaning": "齐庄公",
+              "type": "人名"
+            },
+            {
+              "word": "尸",
+              "pinyin": "shī",
+              "meaning": "尸体",
+              "type": "实词"
+            },
+            {
+              "word": "哭",
+              "pinyin": "kū",
+              "meaning": "哭泣",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "成礼",
+              "pinyin": "chéng lǐ",
+              "meaning": "完成礼节",
+              "type": "实词"
+            },
+            {
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "之后",
+              "type": "虚词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "离开",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "所谓",
+              "pinyin": "suǒ wèi",
+              "meaning": "所说的",
+              "type": "虚词"
+            },
+            {
+              "word": "见义不为无勇",
+              "pinyin": "jiàn yì bù wéi wú yǒng",
+              "meaning": "见义不为即无勇",
+              "type": "成语"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "至其谏说，犯君之颜，此所谓“进思尽忠，退思补过”者哉！",
+          "translation": "至于他进谏时，敢于冒犯君主的威严，这正是所说的“在朝时想着尽忠，退朝时想着补过”啊！",
+          "words": [
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "至于",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "谏说",
+              "pinyin": "jiàn shuō",
+              "meaning": "进谏劝说",
+              "type": "实词"
+            },
+            {
+              "word": "犯",
+              "pinyin": "fàn",
+              "meaning": "冒犯",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "颜",
+              "pinyin": "yán",
+              "meaning": "颜面",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "所谓",
+              "pinyin": "suǒ wèi",
+              "meaning": "所说的",
+              "type": "虚词"
+            },
+            {
+              "word": "进思尽忠，退思补过",
+              "pinyin": "jìn sī jìn zhōng, tuì sī bǔ guò",
+              "meaning": "进谏尽忠，退省补过",
+              "type": "成语"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "假令晏子而在，余虽为之执鞭，所忻慕焉。",
+          "translation": "假使晏子还在世，我即使为他执鞭驾车，也是我所欣然向往的。",
+          "words": [
+            {
+              "word": "假令",
+              "pinyin": "jiǎ lìng",
+              "meaning": "假如",
+              "type": "虚词"
+            },
+            {
+              "word": "晏子",
+              "pinyin": "yàn zǐ",
+              "meaning": "晏婴",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "执鞭",
+              "pinyin": "zhí biān",
+              "meaning": "驾车侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所...的",
+              "type": "虚词"
+            },
+            {
+              "word": "忻慕",
+              "pinyin": "xīn mù",
+              "meaning": "欣喜羡慕",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "shiji",
+  "legacyId": "shiji_061"
+}

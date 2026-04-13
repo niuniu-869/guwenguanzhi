@@ -1,0 +1,1742 @@
+{
+  "id": "019_郑子家告赵宣子",
+  "title": "郑子家告赵宣子",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋时期鲁国太史，相传为《左传》和《国语》的作者。生卒年不详，约生活在公元前5世纪，与孔子同时或稍后。他学识渊博，秉笔直书，以生动的叙事和精炼的语言记录了春秋时期的历史事件，对后世史学和文学影响深远。其著作被誉为“文宗史祖”，在古代汉语和散文发展中占有重要地位。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 2,
+  "background": "本文出自《左传》，记载了春秋时期晋楚争霸背景下的一次外交事件。晋侯在扈地会合诸侯，旨在平定宋国局势，但因怀疑郑国暗中依附楚国，故意不见郑伯。郑国大夫子家（即公子归生）为维护国家利益，派遣执讯官送信给晋国执政赵宣子（即赵盾），陈述郑国对晋国的忠诚历史，以辩解误会。当时郑国地处中原，夹在晋、楚两大强国之间，常需灵活外交以自保。此信反映了小国在强权政治下的艰难处境和外交智慧，是春秋时期诸侯国间复杂关系的缩影。",
+  "appreciation": "这篇文章以书信形式呈现，展现了高超的外交辞令和文学技巧。首先，结构严谨，逻辑清晰：子家先回顾郑国历代君主对晋国的朝贡与支持，用具体事例（如蔡侯、陈侯的交往）证明忠诚，层层递进，反驳晋国的指责。其次，修辞丰富，善用典故和比喻，如引用古语“畏首畏尾，身其馀几？”和“鹿死不择音”，形象地刻画小国在大国压迫下的窘境，增强说服力。语言委婉含蓄，却暗含锋芒，如“敝邑有亡，无以加焉”表达了郑国宁可灭亡也不屈服的决心。最后，以强硬警告收尾，将小国比作“鹿”，铤而走险，迫使晋国反思。全文体现了春秋时期外交文书的典雅与机智，兼具历史价值和文学美感。",
+  "tags": [
+    "外交辞令",
+    "春秋历史",
+    "左传文学"
+  ],
+  "paragraphs": [
+    {
+      "original": "晋侯合诸侯于扈，平宋也。于是晋侯不见郑伯，以为贰于楚也。",
+      "translation": "晋侯在扈地会合诸侯，是为了平定宋国。于是晋侯不接见郑伯，认为郑伯对晋国有二心，倾向于楚国。",
+      "sentences": [
+        {
+          "original": "晋侯合诸侯于扈，平宋也。",
+          "translation": "晋侯在扈地会合诸侯，是为了平定宋国。",
+          "words": [
+            {
+              "word": "晋侯",
+              "pinyin": "Jìn Hóu",
+              "meaning": "晋国君主",
+              "type": "人名"
+            },
+            {
+              "word": "合",
+              "pinyin": "hé",
+              "meaning": "会合",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "各诸侯国君",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "扈",
+              "pinyin": "Hù",
+              "meaning": "地名扈",
+              "type": "地名"
+            },
+            {
+              "word": "平",
+              "pinyin": "píng",
+              "meaning": "平定",
+              "type": "实词"
+            },
+            {
+              "word": "宋",
+              "pinyin": "Sòng",
+              "meaning": "宋国",
+              "type": "地名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "于是晋侯不见郑伯，以为贰于楚也。",
+          "translation": "于是晋侯不接见郑伯，认为郑伯对晋国有二心，倾向于楚国。",
+          "words": [
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "晋侯",
+              "pinyin": "Jìn Hóu",
+              "meaning": "晋国君主",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "会见",
+              "type": "实词"
+            },
+            {
+              "word": "郑伯",
+              "pinyin": "Zhèng Bó",
+              "meaning": "郑国君主",
+              "type": "人名"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "怀有二心",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "楚",
+              "pinyin": "Chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "郑子家使执讯而与之书，以告赵宣子。曰：“寡君即位三年，召蔡侯而与之事君。九月，蔡侯入于敝邑以行。敝邑以侯宣多之难，寡君是以不得与蔡侯偕。",
+      "translation": "郑子家派遣执讯并交给他一封信，用来告诉赵宣子。信中说：“我的君主即位第三年，召见蔡侯并和他一起侍奉您。九月，蔡侯进入我国并出行。我国因为侯宣多的祸难，我的君主因此不能和蔡侯同行。”",
+      "sentences": [
+        {
+          "original": "郑子家使执讯而与之书，以告赵宣子。",
+          "translation": "郑子家派遣执讯并交给他一封信，用来告诉赵宣子。",
+          "words": [
+            {
+              "word": "郑子家",
+              "pinyin": "Zhèng Zǐjiā",
+              "meaning": "郑国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "执讯",
+              "pinyin": "zhí xùn",
+              "meaning": "通讯官",
+              "type": "官职"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "给予",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "书",
+              "pinyin": "shū",
+              "meaning": "信件",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "告",
+              "pinyin": "gào",
+              "meaning": "告诉",
+              "type": "实词"
+            },
+            {
+              "word": "赵宣子",
+              "pinyin": "Zhào Xuānzǐ",
+              "meaning": "晋国正卿",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "曰：“寡君即位三年，召蔡侯而与之事君。",
+          "translation": "说：“我的君主即位第三年，召见蔡侯并和他一起侍奉您。",
+          "words": [
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "寡君",
+              "pinyin": "guǎ jūn",
+              "meaning": "我的君主",
+              "type": "实词"
+            },
+            {
+              "word": "即位",
+              "pinyin": "jí wèi",
+              "meaning": "登基",
+              "type": "实词"
+            },
+            {
+              "word": "三年",
+              "pinyin": "sān nián",
+              "meaning": "三年",
+              "type": "实词"
+            },
+            {
+              "word": "召",
+              "pinyin": "zhào",
+              "meaning": "召唤",
+              "type": "实词"
+            },
+            {
+              "word": "蔡侯",
+              "pinyin": "Cài Hóu",
+              "meaning": "蔡国君主",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "事君",
+              "pinyin": "shì jūn",
+              "meaning": "事奉君主",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "九月，蔡侯入于敝邑以行。",
+          "translation": "九月，蔡侯进入我国并出行。",
+          "words": [
+            {
+              "word": "九月",
+              "pinyin": "jiǔ yuè",
+              "meaning": "九月份",
+              "type": "实词"
+            },
+            {
+              "word": "蔡侯",
+              "pinyin": "Cài Hóu",
+              "meaning": "蔡国君主",
+              "type": "人名"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "敝邑",
+              "pinyin": "bì yì",
+              "meaning": "我的国家",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "出行",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "敝邑以侯宣多之难，寡君是以不得与蔡侯偕。",
+          "translation": "我国因为侯宣多的祸难，我的君主因此不能和蔡侯同行。",
+          "words": [
+            {
+              "word": "敝邑",
+              "pinyin": "bì yì",
+              "meaning": "我们的国家",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "侯宣多",
+              "pinyin": "Hóu Xuān Duō",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nàn",
+              "meaning": "祸难",
+              "type": "实词"
+            },
+            {
+              "word": "寡君",
+              "pinyin": "guǎ jūn",
+              "meaning": "我们的君主",
+              "type": "实词"
+            },
+            {
+              "word": "是以",
+              "pinyin": "shì yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "不能",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "蔡侯",
+              "pinyin": "Cài Hóu",
+              "meaning": "蔡国君主",
+              "type": "人名"
+            },
+            {
+              "word": "偕",
+              "pinyin": "xié",
+              "meaning": "同行",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "十一月，克减侯宣多，而随蔡侯以朝于执事。十二年六月，归生佐寡君之嫡夷，以请陈侯于楚，而朝诸君。十四年七月，寡君又朝，以蒇陈事。十五年五月，陈侯自敝邑往朝于君。往年正月，烛之武往朝夷也。八月，寡君又往朝。以陈、蔡之密迩于楚而不敢贰焉，则敝邑之故也。虽敝邑之事君，何以不免？在位之中，一朝于襄，而再见于君。夷与孤之二三臣相及于绛，虽我小国，则蔑以过之矣。",
+      "translation": "十一月，平定了侯宣多的叛乱，然后跟随蔡侯来朝见您。十二年六月，我辅佐我们国君的太子夷，向楚国请求让陈侯来朝见您。十四年七月，我们国君又亲自朝见，以完成陈国的事务。十五年五月，陈侯从我国前往朝见您。去年正月，烛之武前往朝见（晋国），是为了太子夷的事情。八月，我们国君又亲自前往朝见。陈国和蔡国靠近楚国，却不敢对晋国有二心，这都是因为我国的缘故。虽然我国这样侍奉您，为什么还不能免于罪责？在我们国君在位期间，一次朝见晋襄公，两次朝见您。太子夷和我的几个臣子接连来到绛，即使我们是小国，也没有超过这样的了。",
+      "sentences": [
+        {
+          "original": "十一月，克减侯宣多，而随蔡侯以朝于执事。",
+          "translation": "十一月，平定了侯宣多的叛乱，然后跟随蔡侯来朝见您。",
+          "words": [
+            {
+              "word": "十一月",
+              "pinyin": "shí yī yuè",
+              "meaning": "第十一个月",
+              "type": "实词"
+            },
+            {
+              "word": "克减",
+              "pinyin": "kè jiǎn",
+              "meaning": "战胜削减",
+              "type": "实词"
+            },
+            {
+              "word": "侯宣多",
+              "pinyin": "Hóu Xuān duō",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "随",
+              "pinyin": "suí",
+              "meaning": "跟随",
+              "type": "实词"
+            },
+            {
+              "word": "蔡侯",
+              "pinyin": "Cài hóu",
+              "meaning": "蔡国君主",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "执事",
+              "pinyin": "zhí shì",
+              "meaning": "官员",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "十二年六月，归生佐寡君之嫡夷，以请陈侯于楚，而朝诸君。",
+          "translation": "十二年六月，我辅佐我们国君的太子夷，向楚国请求让陈侯来朝见您。",
+          "words": [
+            {
+              "word": "十二年六月",
+              "pinyin": "shí èr nián liù yuè",
+              "meaning": "第十二年六月",
+              "type": "实词"
+            },
+            {
+              "word": "归生",
+              "pinyin": "Guī shēng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "佐",
+              "pinyin": "zuǒ",
+              "meaning": "辅佐",
+              "type": "实词"
+            },
+            {
+              "word": "寡君",
+              "pinyin": "guǎ jūn",
+              "meaning": "我的君主",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "嫡夷",
+              "pinyin": "dí yí",
+              "meaning": "太子夷",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "陈侯",
+              "pinyin": "Chén hóu",
+              "meaning": "陈国君主",
+              "type": "人名"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "楚",
+              "pinyin": "Chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "诸",
+              "pinyin": "zhū",
+              "meaning": "之于",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "十四年七月，寡君又朝，以蒇陈事。",
+          "translation": "十四年七月，我们国君又亲自朝见，以完成陈国的事务。",
+          "words": [
+            {
+              "word": "十四年七月",
+              "pinyin": "shí sì nián qī yuè",
+              "meaning": "第十四年七月",
+              "type": "实词"
+            },
+            {
+              "word": "寡君",
+              "pinyin": "guǎ jūn",
+              "meaning": "我的君主",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "蒇",
+              "pinyin": "chǎn",
+              "meaning": "完成",
+              "type": "实词"
+            },
+            {
+              "word": "陈事",
+              "pinyin": "Chén shì",
+              "meaning": "陈国事务",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "十五年五月，陈侯自敝邑往朝于君。",
+          "translation": "十五年五月，陈侯从我国前往朝见您。",
+          "words": [
+            {
+              "word": "十五",
+              "pinyin": "shí wǔ",
+              "meaning": "十五",
+              "type": "实词"
+            },
+            {
+              "word": "年",
+              "pinyin": "nián",
+              "meaning": "年",
+              "type": "实词"
+            },
+            {
+              "word": "五",
+              "pinyin": "wǔ",
+              "meaning": "五",
+              "type": "实词"
+            },
+            {
+              "word": "月",
+              "pinyin": "yuè",
+              "meaning": "月",
+              "type": "实词"
+            },
+            {
+              "word": "陈侯",
+              "pinyin": "Chén Hóu",
+              "meaning": "陈国君主",
+              "type": "人名"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "敝邑",
+              "pinyin": "bì yì",
+              "meaning": "我国",
+              "type": "实词"
+            },
+            {
+              "word": "往",
+              "pinyin": "wǎng",
+              "meaning": "去",
+              "type": "实词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "往年正月，烛之武往朝夷也。",
+          "translation": "去年正月，烛之武前往朝见（晋国），是为了太子夷的事情。",
+          "words": [
+            {
+              "word": "往年",
+              "pinyin": "wǎng nián",
+              "meaning": "去年",
+              "type": "实词"
+            },
+            {
+              "word": "正月",
+              "pinyin": "zhēng yuè",
+              "meaning": "正月",
+              "type": "实词"
+            },
+            {
+              "word": "烛之武",
+              "pinyin": "Zhú Zhī Wǔ",
+              "meaning": "郑国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "往",
+              "pinyin": "wǎng",
+              "meaning": "去",
+              "type": "实词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "夷",
+              "pinyin": "Yí",
+              "meaning": "太子夷",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "八月，寡君又往朝。",
+          "translation": "八月，我们国君又亲自前往朝见。",
+          "words": [
+            {
+              "word": "八月",
+              "pinyin": "bā yuè",
+              "meaning": "八月",
+              "type": "实词"
+            },
+            {
+              "word": "寡君",
+              "pinyin": "guǎ jūn",
+              "meaning": "我国君主",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "往",
+              "pinyin": "wǎng",
+              "meaning": "去",
+              "type": "实词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "以陈、蔡之密迩于楚而不敢贰焉，则敝邑之故也。",
+          "translation": "陈国和蔡国靠近楚国，却不敢对晋国有二心，这都是因为我国的缘故。",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "陈",
+              "pinyin": "Chén",
+              "meaning": "陈国",
+              "type": "地名"
+            },
+            {
+              "word": "蔡",
+              "pinyin": "Cài",
+              "meaning": "蔡国",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "密迩",
+              "pinyin": "mì'ěr",
+              "meaning": "靠近",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "楚",
+              "pinyin": "Chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "不敢",
+              "pinyin": "bù gǎn",
+              "meaning": "不敢",
+              "type": "实词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "背叛",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "敝邑",
+              "pinyin": "bì yì",
+              "meaning": "我国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "原因",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "虽敝邑之事君，何以不免？",
+          "translation": "虽然我国这样侍奉您，为什么还不能免于罪责？",
+          "words": [
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "敝邑",
+              "pinyin": "bì yì",
+              "meaning": "我国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "事君",
+              "pinyin": "shì jūn",
+              "meaning": "侍奉君主",
+              "type": "实词"
+            },
+            {
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "为什么",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "免",
+              "pinyin": "miǎn",
+              "meaning": "免除",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "在位之中，一朝于襄，而再见于君。",
+          "translation": "在我们国君在位期间，一次朝见晋襄公，两次朝见您。",
+          "words": [
+            {
+              "word": "在位之中",
+              "pinyin": "zài wèi zhī zhōng",
+              "meaning": "在位期间",
+              "type": "实词"
+            },
+            {
+              "word": "一朝",
+              "pinyin": "yī zhāo",
+              "meaning": "一次朝见",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "襄",
+              "pinyin": "Xiāng",
+              "meaning": "晋襄公",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "再见",
+              "pinyin": "zài jiàn",
+              "meaning": "两次朝见",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "君",
+              "pinyin": "Jūn",
+              "meaning": "晋君",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "夷与孤之二三臣相及于绛，虽我小国，则蔑以过之矣。",
+          "translation": "太子夷和我的几个臣子接连来到绛，即使我们是小国，也没有超过这样的了。",
+          "words": [
+            {
+              "word": "夷",
+              "pinyin": "yí",
+              "meaning": "郑国太子名",
+              "type": "人名"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "孤",
+              "pinyin": "gū",
+              "meaning": "君主自称",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "二三臣",
+              "pinyin": "èr sān chén",
+              "meaning": "几个臣子",
+              "type": "实词"
+            },
+            {
+              "word": "相及",
+              "pinyin": "xiāng jí",
+              "meaning": "相继到达",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "到",
+              "type": "虚词"
+            },
+            {
+              "word": "绛",
+              "pinyin": "jiàng",
+              "meaning": "晋国都城",
+              "type": "地名"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "我小国",
+              "pinyin": "wǒ xiǎo guó",
+              "meaning": "我们小国",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "蔑以",
+              "pinyin": "miè yǐ",
+              "meaning": "无以",
+              "type": "实词"
+            },
+            {
+              "word": "过之",
+              "pinyin": "guò zhī",
+              "meaning": "超过这个",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "今大国曰：‘尔未逞吾志。’敝邑有亡，无以加焉。古人有言曰：‘畏首畏尾，身其馀几？’又曰；‘鹿死不择音。’小国之事大国也，德，则其人也；不德，则其鹿也。铤而走险，急何能择。命之罔极，亦知亡矣，将悉敝赋，以待于鯈，唯执事命之。文公二年，朝于齐。四年，为齐侵蔡，亦获成于楚。居大国之间而从于强令，岂其罪也大国若弗图，无所逃命。”",
+      "translation": "现在大国说：“你们没有满足我的意愿。”我们小国即使灭亡，也无法再增加什么了。古人有话说：“怕头怕尾，身体还剩下多少？”又说：“鹿死的时候不选择声音。”小国侍奉大国，如果大国有德，就把小国当人看待；如果无德，就把小国当鹿一样对待。在紧急情况下冒险而行，危急时怎能有所选择。大国的命令没有极限，我们也知道要灭亡了，将动员我们所有的兵力，在鯈地等待，只听从您的命令。文公二年，朝见齐国。四年，为齐国侵犯蔡国，也与楚国达成和议。夹在大国之间而服从强加的命令，难道是我们的罪过吗？大国如果不考虑这一点，我们就没有地方可以逃避命令了。",
+      "sentences": [
+        {
+          "original": "今大国曰：‘尔未逞吾志。’敝邑有亡，无以加焉。",
+          "translation": "现在大国说：“你们没有满足我的意愿。”我们小国即使灭亡，也无法再增加什么了。",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "虚词"
+            },
+            {
+              "word": "大国",
+              "pinyin": "dà guó",
+              "meaning": "大的国家",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "你",
+              "type": "虚词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "逞",
+              "pinyin": "chěng",
+              "meaning": "满足",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我的",
+              "type": "虚词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "意愿",
+              "type": "实词"
+            },
+            {
+              "word": "敝邑",
+              "pinyin": "bì yì",
+              "meaning": "我的国家",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "加",
+              "pinyin": "jiā",
+              "meaning": "增加",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "于此",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "古人有言曰：‘畏首畏尾，身其馀几？’又曰；‘鹿死不择音。’",
+          "translation": "古人有话说：“怕头怕尾，身体还剩下多少？”又说：“鹿死的时候不选择声音。”",
+          "words": [
+            {
+              "word": "古人",
+              "pinyin": "gǔ rén",
+              "meaning": "古代的人",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "话",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "畏首畏尾",
+              "pinyin": "wèi shǒu wèi wěi",
+              "meaning": "怕头怕尾",
+              "type": "典故"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "身体",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "馀",
+              "pinyin": "yú",
+              "meaning": "剩余",
+              "type": "实词"
+            },
+            {
+              "word": "几",
+              "pinyin": "jǐ",
+              "meaning": "多少",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "鹿死不择音",
+              "pinyin": "lù sǐ bù zé yīn",
+              "meaning": "鹿死时不择荫",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "小国之事大国也，德，则其人也；不德，则其鹿也。",
+          "translation": "小国侍奉大国，如果大国有德，就把小国当人看待；如果无德，就把小国当鹿一样对待。",
+          "words": [
+            {
+              "word": "小国",
+              "pinyin": "xiǎo guó",
+              "meaning": "小的国家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事奉",
+              "type": "实词"
+            },
+            {
+              "word": "大国",
+              "pinyin": "dà guó",
+              "meaning": "大的国家",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "有德",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "德",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "鹿",
+              "pinyin": "lù",
+              "meaning": "鹿",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "铤而走险，急何能择。",
+          "translation": "在紧急情况下冒险而行，危急时怎能有所选择。",
+          "words": [
+            {
+              "word": "铤",
+              "pinyin": "tǐng",
+              "meaning": "快跑",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "走险",
+              "pinyin": "zǒu xiǎn",
+              "meaning": "奔赴险地",
+              "type": "实词"
+            },
+            {
+              "word": "急",
+              "pinyin": "jí",
+              "meaning": "紧急",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "怎么",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "择",
+              "pinyin": "zé",
+              "meaning": "选择",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "命之罔极，亦知亡矣，将悉敝赋，以待于鯈，唯执事命之。",
+          "translation": "大国的命令没有极限，我们也知道要灭亡了，将动员我们所有的兵力，在鯈地等待，只听从您的命令。",
+          "words": [
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "罔极",
+              "pinyin": "wǎng jí",
+              "meaning": "没有准则",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "悉",
+              "pinyin": "xī",
+              "meaning": "全部拿出",
+              "type": "实词"
+            },
+            {
+              "word": "敝赋",
+              "pinyin": "bì fù",
+              "meaning": "敝国军队",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "待",
+              "pinyin": "dài",
+              "meaning": "等待",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "鯈",
+              "pinyin": "tiáo",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "唯",
+              "pinyin": "wéi",
+              "meaning": "只",
+              "type": "虚词"
+            },
+            {
+              "word": "执事",
+              "pinyin": "zhí shì",
+              "meaning": "敬称对方",
+              "type": "官职"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指代事情",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "文公二年，朝于齐。四年，为齐侵蔡，亦获成于楚。",
+          "translation": "文公二年，朝见齐国。四年，为齐国侵犯蔡国，也与楚国达成和议。",
+          "words": [
+            {
+              "word": "文公",
+              "pinyin": "wén gōng",
+              "meaning": "郑文公",
+              "type": "人名"
+            },
+            {
+              "word": "二年",
+              "pinyin": "èr nián",
+              "meaning": "第二年",
+              "type": "实词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "四年",
+              "pinyin": "sì nián",
+              "meaning": "第四年",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "替",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "侵",
+              "pinyin": "qīn",
+              "meaning": "侵犯",
+              "type": "实词"
+            },
+            {
+              "word": "蔡",
+              "pinyin": "cài",
+              "meaning": "蔡国",
+              "type": "地名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "获成",
+              "pinyin": "huò chéng",
+              "meaning": "获得和解",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "与",
+              "type": "虚词"
+            },
+            {
+              "word": "楚",
+              "pinyin": "chǔ",
+              "meaning": "楚国",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "居大国之间而从于强令，岂其罪也大国若弗图，无所逃命。",
+          "translation": "夹在大国之间而服从强加的命令，难道是我们的罪过吗？大国如果不考虑这一点，我们就没有地方可以逃避命令了。",
+          "words": [
+            {
+              "word": "居",
+              "pinyin": "jū",
+              "meaning": "处于",
+              "type": "实词"
+            },
+            {
+              "word": "大国",
+              "pinyin": "dà guó",
+              "meaning": "大国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "间",
+              "pinyin": "jiān",
+              "meaning": "中间",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "服从",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "强令",
+              "pinyin": "qiáng lìng",
+              "meaning": "强加的命令",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "罪",
+              "pinyin": "zuì",
+              "meaning": "罪过",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "大国",
+              "pinyin": "dà guó",
+              "meaning": "大国",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "图",
+              "pinyin": "tú",
+              "meaning": "考虑",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "地方",
+              "type": "虚词"
+            },
+            {
+              "word": "逃命",
+              "pinyin": "táo mìng",
+              "meaning": "逃避命令",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "晋巩朔行成于郑，赵穿、公婿池为质焉。",
+      "translation": "晋国派巩朔到郑国讲和，赵穿和公婿池作为人质。",
+      "sentences": [
+        {
+          "original": "晋巩朔行成于郑",
+          "translation": "晋国派巩朔到郑国讲和",
+          "words": []
+        },
+        {
+          "original": "赵穿、公婿池为质焉",
+          "translation": "赵穿和公婿池作为人质",
+          "words": []
+        }
+      ]
+    }
+  ]
+}

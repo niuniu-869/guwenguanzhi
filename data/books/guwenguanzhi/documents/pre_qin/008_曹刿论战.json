@@ -1,0 +1,1323 @@
+{
+  "id": "008_曹刿论战",
+  "title": "曹刿论战",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋时期鲁国史官，相传为《左传》的作者。字丘，名明，生卒年不详，约活动于公元前5世纪。传统上认为他双目失明，故称‘盲左’。他学识渊博，曾任鲁国太史，负责记录历史。除《左传》外，还著有《国语》，记载春秋时期各国史事。左丘明被尊为‘百家文字之宗，万世古文之祖’，对后世史学和文学有深远影响。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 1,
+  "background": "《曹刿论战》出自《左传》，记载了春秋时期鲁庄公十年（公元前684年）的长勺之战。当时，周王室衰微，诸侯争霸，齐国在桓公和管仲的治理下国力强盛，借口鲁国曾支持公子纠而发动战争。鲁国弱小，面临强敌入侵，国内士气不振。曹刿作为平民，主动请见鲁庄公，讨论战备策略。文章通过对话形式，揭示了战争胜负的关键在于民心向背和正确的战术指挥，反映了春秋时期‘民为邦本’的思想和士人参与政治的传统。《左传》作为编年体史书，记录此事以警示后人，强调治国用兵需以诚信和民心为基础。",
+  "appreciation": "《曹刿论战》是一篇经典的先秦散文，文学价值极高。文章以简洁的叙事手法，生动刻画了曹刿和鲁庄公两个人物形象。曹刿的远谋与庄公的‘鄙’形成鲜明对比，突出了智慧与勇气的结合。对话部分尤为精彩，如‘何以战？’的三问三答，层层递进，从‘小惠’、‘小信’到‘忠之属’，揭示了政治与民心的关系，语言精炼而富有哲理。‘一鼓作气’的论述成为后世成语，寓意深刻，体现了战术心理的把握。叙事结构完整，从战前准备、战中指挥到战后总结，逻辑严密，制造悬念，如曹刿的‘未可’与‘可矣’反复，增强戏剧性。人物语言个性化，曹刿的果断与庄公的虚心求教，栩栩如生。文章通过小事件反映大道理，兼具史学的真实性和文学的艺术性，体现了《左传》‘微而显，志而晦，婉而成章’的特色，对后世传记文学有深远影响。",
+  "tags": [
+    "军事谋略",
+    "历史叙事",
+    "先秦文学"
+  ],
+  "paragraphs": [
+    {
+      "original": "齐师伐我。公将战。曹刿请见。其乡人曰：“肉食者谋之，又何间焉？”刿曰：“肉食者鄙，未能远谋。”遂入见。",
+      "translation": "齐国军队攻打我国。鲁庄公将要迎战。曹刿请求拜见。他的同乡说：“当权者自会谋划这件事，你又何必去参与呢？”曹刿说：“当权者见识浅陋，不能深谋远虑。”于是入宫拜见。",
+      "sentences": [
+        {
+          "original": "齐师伐我。",
+          "translation": "齐国军队攻打我国。",
+          "words": [
+            {
+              "word": "齐师",
+              "pinyin": "qí shī",
+              "meaning": "齐国军队",
+              "type": "实词"
+            },
+            {
+              "word": "伐",
+              "pinyin": "fá",
+              "meaning": "攻打",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我国",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "公将战。",
+          "translation": "鲁庄公将要迎战。",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "战",
+              "pinyin": "zhàn",
+              "meaning": "迎战",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "曹刿请见。",
+          "translation": "曹刿请求拜见。",
+          "words": [
+            {
+              "word": "曹刿",
+              "pinyin": "cáo guì",
+              "meaning": "曹刿",
+              "type": "人名"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "接见",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其乡人曰：“肉食者谋之，又何间焉？”",
+          "translation": "他的同乡说：“当权者自会谋划这件事，你又何必去参与呢？”",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "乡人",
+              "pinyin": "xiāng rén",
+              "meaning": "同乡人",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "肉食者",
+              "pinyin": "ròu shí zhě",
+              "meaning": "当权者",
+              "type": "实词"
+            },
+            {
+              "word": "谋",
+              "pinyin": "móu",
+              "meaning": "谋划",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "何必",
+              "type": "虚词"
+            },
+            {
+              "word": "间",
+              "pinyin": "jiàn",
+              "meaning": "参与",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "刿曰：“肉食者鄙，未能远谋。”",
+          "translation": "曹刿说：“当权者见识浅陋，不能深谋远虑。”",
+          "words": [
+            {
+              "word": "刿",
+              "pinyin": "guì",
+              "meaning": "曹刿",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "肉食者",
+              "pinyin": "ròu shí zhě",
+              "meaning": "当权者",
+              "type": "实词"
+            },
+            {
+              "word": "鄙",
+              "pinyin": "bǐ",
+              "meaning": "鄙陋",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "远",
+              "pinyin": "yuǎn",
+              "meaning": "长远",
+              "type": "实词"
+            },
+            {
+              "word": "谋",
+              "pinyin": "móu",
+              "meaning": "谋划",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "遂入见。",
+          "translation": "于是入宫拜见。",
+          "words": [
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "拜见",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "问：“何以战？”公曰：“衣食所安，弗敢专也，必以分人。”对曰：“小惠未遍，民弗从也。”公曰：“犠牲玉帛，弗敢加也，必以信。”对曰：“小信未孚，神弗福也。”公曰：“小大之狱，虽不能察，必以情。”对曰：“忠之属也，可以一战。战则请从。”",
+      "translation": "曹刿问：“凭什么去作战？”鲁庄公说：“衣食这些安身的东西，我不敢独自享用，一定把它分给别人。”曹刿回答说：“小恩小惠不能遍及百姓，百姓是不会听从的。”鲁庄公说：“祭祀用的牲畜、玉帛，我不敢虚报，一定对神诚实。”曹刿回答说：“小信用未能使神信服，神是不会保佑的。”鲁庄公说：“大大小小的案件，虽然不能一一明察，但一定根据实情处理。”曹刿回答说：“这是尽心尽力为百姓办事的表现，可以凭这个打一仗。如果作战，请允许我跟从。”",
+      "sentences": [
+        {
+          "original": "问：“何以战？”",
+          "translation": "曹刿问：“凭什么去作战？”",
+          "words": [
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "战",
+              "pinyin": "zhàn",
+              "meaning": "作战",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "公曰：“衣食所安，弗敢专也，必以分人。”",
+          "translation": "鲁庄公说：“衣食这些安身的东西，我不敢独自享用，一定把它分给别人。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "衣",
+              "pinyin": "yī",
+              "meaning": "衣服",
+              "type": "实词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "食物",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所...的东西",
+              "type": "虚词"
+            },
+            {
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "安身",
+              "type": "实词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢于",
+              "type": "实词"
+            },
+            {
+              "word": "专",
+              "pinyin": "zhuān",
+              "meaning": "独占",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "分",
+              "pinyin": "fēn",
+              "meaning": "分给",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "别人",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "对曰：“小惠未遍，民弗从也。”",
+          "translation": "曹刿回答说：“小恩小惠不能遍及百姓，百姓是不会听从的。”",
+          "words": [
+            {
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "小",
+              "pinyin": "xiǎo",
+              "meaning": "小的",
+              "type": "实词"
+            },
+            {
+              "word": "惠",
+              "pinyin": "huì",
+              "meaning": "恩惠",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "遍",
+              "pinyin": "biàn",
+              "meaning": "普遍",
+              "type": "实词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "百姓",
+              "type": "实词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "跟随",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "公曰：“犠牲玉帛，弗敢加也，必以信。”",
+          "translation": "鲁庄公说：“祭祀用的牲畜、玉帛，我不敢虚报，一定对神诚实。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "犠牲玉帛",
+              "pinyin": "xī shēng yù bó",
+              "meaning": "祭祀用品",
+              "type": "实词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢于",
+              "type": "实词"
+            },
+            {
+              "word": "加",
+              "pinyin": "jiā",
+              "meaning": "增加",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "诚信",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "对曰：“小信未孚，神弗福也。”",
+          "translation": "曹刿回答说：“小信用未能使神信服，神是不会保佑的。”",
+          "words": [
+            {
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "小信",
+              "pinyin": "xiǎo xìn",
+              "meaning": "小诚信",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "孚",
+              "pinyin": "fú",
+              "meaning": "信服",
+              "type": "实词"
+            },
+            {
+              "word": "神",
+              "pinyin": "shén",
+              "meaning": "神灵",
+              "type": "实词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "福",
+              "pinyin": "fú",
+              "meaning": "赐福",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "公曰：“小大之狱，虽不能察，必以情。”",
+          "translation": "鲁庄公说：“大大小小的案件，虽然不能一一明察，但一定根据实情处理。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "小大之狱",
+              "pinyin": "xiǎo dà zhī yù",
+              "meaning": "大小案件",
+              "type": "实词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "虽然",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "察",
+              "pinyin": "chá",
+              "meaning": "明察",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "情",
+              "pinyin": "qíng",
+              "meaning": "实情",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "对曰：“忠之属也，可以一战。战则请从。”",
+          "translation": "曹刿回答说：“这是尽心尽力为百姓办事的表现，可以凭这个打一仗。如果作战，请允许我跟从。”",
+          "words": []
+        }
+      ]
+    },
+    {
+      "original": "公与之乘，战于长勺。公将鼓之，刿曰：“未可。”齐人三鼓，刿曰：“可矣。”齐师败绩。公将驰之，刿曰：“未可。”下，视其辙，登轼而望之，刿曰：“可矣。”遂逐齐师。",
+      "translation": "鲁庄公和曹刿同乘一辆战车，在长勺与齐军作战。鲁庄公将要击鼓进军，曹刿说：“不行。”齐军击了三次鼓后，曹刿说：“可以了。”齐军大败。鲁庄公将要驱车追击，曹刿说：“不行。”曹刿下车，察看齐军的车辙，又登上车前的横木远望齐军，然后说：“可以了。”于是追击齐军。",
+      "sentences": [
+        {
+          "original": "公与之乘，战于长勺。",
+          "translation": "鲁庄公和曹刿同乘一辆战车，在长勺作战。",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "乘",
+              "pinyin": "chéng",
+              "meaning": "乘车",
+              "type": "实词"
+            },
+            {
+              "word": "战",
+              "pinyin": "zhàn",
+              "meaning": "作战",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "长勺",
+              "pinyin": "cháng sháo",
+              "meaning": "长勺",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "公将鼓之，刿曰：“未可。”",
+          "translation": "鲁庄公将要击鼓进军，曹刿说：“不行。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "鼓",
+              "pinyin": "gǔ",
+              "meaning": "击鼓",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "刿",
+              "pinyin": "guì",
+              "meaning": "曹刿",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "齐人三鼓，刿曰：“可矣。”",
+          "translation": "齐军击了三次鼓，曹刿说：“可以了。”",
+          "words": [
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐国",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "三",
+              "pinyin": "sān",
+              "meaning": "三次",
+              "type": "实词"
+            },
+            {
+              "word": "鼓",
+              "pinyin": "gǔ",
+              "meaning": "击鼓",
+              "type": "实词"
+            },
+            {
+              "word": "刿",
+              "pinyin": "guì",
+              "meaning": "曹刿",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "齐师败绩。",
+          "translation": "齐军大败。",
+          "words": [
+            {
+              "word": "齐师",
+              "pinyin": "qí shī",
+              "meaning": "齐国军队",
+              "type": "实词"
+            },
+            {
+              "word": "败绩",
+              "pinyin": "bài jì",
+              "meaning": "溃败",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "公将驰之，刿曰：“未可。”",
+          "translation": "鲁庄公将要驱车追击，曹刿说：“不行。”",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "驰",
+              "pinyin": "chí",
+              "meaning": "驱车追赶",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词指齐军",
+              "type": "虚词"
+            },
+            {
+              "word": "刿",
+              "pinyin": "guì",
+              "meaning": "曹刿",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "下，视其辙，登轼而望之，刿曰：“可矣。”",
+          "translation": "曹刿下车，察看齐军的车辙，又登上车前的横木远望齐军，然后说：“可以了。”",
+          "words": [
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "下车",
+              "type": "实词"
+            },
+            {
+              "word": "视",
+              "pinyin": "shì",
+              "meaning": "看",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "虚词"
+            },
+            {
+              "word": "辙",
+              "pinyin": "zhé",
+              "meaning": "车辙",
+              "type": "实词"
+            },
+            {
+              "word": "登",
+              "pinyin": "dēng",
+              "meaning": "登上",
+              "type": "实词"
+            },
+            {
+              "word": "轼",
+              "pinyin": "shì",
+              "meaning": "车前横木",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "望",
+              "pinyin": "wàng",
+              "meaning": "眺望",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词指齐军",
+              "type": "虚词"
+            },
+            {
+              "word": "刿",
+              "pinyin": "guì",
+              "meaning": "曹刿",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "遂逐齐师。",
+          "translation": "于是追击齐军。",
+          "words": [
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是，就",
+              "type": "虚词"
+            },
+            {
+              "word": "逐",
+              "pinyin": "zhú",
+              "meaning": "追逐",
+              "type": "实词"
+            },
+            {
+              "word": "齐师",
+              "pinyin": "qí shī",
+              "meaning": "齐国军队",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "既克，公问其故。对曰：“夫战，勇气也。一鼓作气；再而衰；三而竭。彼竭我盈，故克之。夫大国，难测也，惧有伏焉。吾视其辙乱，望其旗靡，故逐之。”",
+      "translation": "已经战胜了，公问其中的缘故。曹刿回答说：“战争，是靠勇气的。第一次击鼓振作士气；第二次击鼓士气就衰弱了；第三次击鼓士气就竭尽了。他们的士气竭尽而我方士气充沛，所以战胜了他们。大国，难以预测，恐怕有埋伏。我看到他们的车辙混乱，望见他们的旗帜倒下，所以追击他们。”",
+      "sentences": [
+        {
+          "original": "既克，公问其故。",
+          "translation": "已经战胜了，公问其中的缘故。",
+          "words": [
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "克",
+              "pinyin": "kè",
+              "meaning": "战胜",
+              "type": "实词"
+            },
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁庄公",
+              "type": "人名"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "其中的",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "原因",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "对曰：“夫战，勇气也。",
+          "translation": "曹刿回答说：“战争，是靠勇气的。”",
+          "words": [
+            {
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "战",
+              "pinyin": "zhàn",
+              "meaning": "作战",
+              "type": "实词"
+            },
+            {
+              "word": "勇气",
+              "pinyin": "yǒng qì",
+              "meaning": "战斗勇气",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "一鼓作气；再而衰；三而竭。",
+          "translation": "第一次击鼓振作士气；第二次击鼓士气就衰弱了；第三次击鼓士气就竭尽了。",
+          "words": [
+            {
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "第一次",
+              "type": "实词"
+            },
+            {
+              "word": "鼓",
+              "pinyin": "gǔ",
+              "meaning": "击鼓",
+              "type": "实词"
+            },
+            {
+              "word": "作",
+              "pinyin": "zuò",
+              "meaning": "振作",
+              "type": "实词"
+            },
+            {
+              "word": "气",
+              "pinyin": "qì",
+              "meaning": "士气",
+              "type": "实词"
+            },
+            {
+              "word": "再",
+              "pinyin": "zài",
+              "meaning": "第二次",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "衰",
+              "pinyin": "shuāi",
+              "meaning": "衰减",
+              "type": "实词"
+            },
+            {
+              "word": "三",
+              "pinyin": "sān",
+              "meaning": "第三次",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "竭",
+              "pinyin": "jié",
+              "meaning": "竭尽",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "彼竭我盈，故克之。",
+          "translation": "他们的士气竭尽而我方士气充沛，所以战胜了他们。",
+          "words": [
+            {
+              "word": "彼",
+              "pinyin": "bǐ",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "竭",
+              "pinyin": "jié",
+              "meaning": "枯竭",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我们",
+              "type": "实词"
+            },
+            {
+              "word": "盈",
+              "pinyin": "yíng",
+              "meaning": "充盈",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "克",
+              "pinyin": "kè",
+              "meaning": "战胜",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他们",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫大国，难测也，惧有伏焉。",
+          "translation": "大国，难以预测，恐怕有埋伏。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "大的",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "难以",
+              "type": "虚词"
+            },
+            {
+              "word": "测",
+              "pinyin": "cè",
+              "meaning": "预测",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "惧",
+              "pinyin": "jù",
+              "meaning": "担心",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "伏",
+              "pinyin": "fú",
+              "meaning": "埋伏",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "吾视其辙乱，望其旗靡，故逐之。",
+          "translation": "我看到他们的车辙混乱，望见他们的旗帜倒下，所以追击他们。",
+          "words": [
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "视",
+              "pinyin": "shì",
+              "meaning": "看",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "实词"
+            },
+            {
+              "word": "辙",
+              "pinyin": "zhé",
+              "meaning": "车辙",
+              "type": "实词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "混乱",
+              "type": "实词"
+            },
+            {
+              "word": "望",
+              "pinyin": "wàng",
+              "meaning": "远望",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "实词"
+            },
+            {
+              "word": "旗",
+              "pinyin": "qí",
+              "meaning": "旗帜",
+              "type": "实词"
+            },
+            {
+              "word": "靡",
+              "pinyin": "mǐ",
+              "meaning": "倒下",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "逐",
+              "pinyin": "zhú",
+              "meaning": "追击",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他们",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "shiji",
+  "name": "史记",
+  "displayName": "史記",
+  "author": "司马迁",
+  "editor": null,
+  "dynasty": "han",
+  "period": "约公元前 109 - 前 91 年",
+  "summary": "二十四史之首，西汉司马迁撰，纪传体通史，记载自上古黄帝至汉武帝太初年间约三千年历史，共 130 卷。",
+  "structureType": "jizhuan",
+  "hierarchy": [
+    "category",
+    "document"
+  ],
+  "totalDocuments": 130,
+  "totalChars": 694151,
+  "totalParagraphs": 6583,
+  "source": "殆知阁古代文献藏书（garychowcmu/daizhigev20）",
+  "license": "原文公有领域",
+  "cover": {
+    "theme": "crimson",
+    "pattern": "bamboo"
+  },
+  "order": 2
+}

@@ -1,0 +1,790 @@
+{
+  "id": "002_周郑交质",
+  "title": "周郑交质",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋末期鲁国史官，相传为《左传》的作者。名丘明，一说姓左，名丘明，生卒年不详，约与孔子同时或稍晚。他学识渊博，曾任鲁国太史，著有《左传》和《国语》，是中国古代重要的史学家和文学家。《左传》以编年体记载春秋历史，文笔生动，富含哲理，对后世史学和文学影响深远。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 1,
+  "background": "《周郑交质》出自《左传》，记载春秋时期周王室与郑国之间的政治纠纷。周平王时，郑武公、庄公担任卿士，权势日增。周平王为分权于虢公，引起郑伯不满，双方交换人质以示信任：王子狐质于郑，郑公子忽质于周。但周平王死后，周人将政权畀虢公，郑国报复，派兵取温之麦、成周之禾，导致关系彻底恶化。左丘明通过此事，记录春秋时期周室衰微、诸侯争霸的历史背景，并借“君子曰”评论，强调政治交往中诚信与礼仪的重要性，以警示后人。",
+  "appreciation": "《周郑交质》以简洁生动的叙事开篇，直入主题交代事件缘起，通过“王曰：‘无之。’”等对话刻画人物心理，展现政治博弈的微妙。文章结构严谨，先叙事后议论，以“君子曰”升华主题，提出“信不由中，质无益也”的核心观点，强调诚信必须发自内心，否则形式上的交换人质也无济于事。引用《诗经》中的《采蘩》、《采苹》等篇目，以经典佐证，增强论证权威性。语言精炼，运用“涧、溪、沼、沚之毛”等自然意象，比喻微薄之物若怀诚信亦可荐鬼神、羞王公，突出信义高于物质形式。文章从具体历史事件上升到普遍道德教训，倡导“明恕而行，要之以礼”，体现了《左传》史论结合的特点，对后世政治伦理和文学创作影响深远，警示人们以诚信和礼仪维系关系。",
+  "tags": [
+    "历史叙事",
+    "政治伦理",
+    "诚信礼仪"
+  ],
+  "paragraphs": [
+    {
+      "original": "郑武公、庄公为平王卿士。王贰于虢，郑伯怨王。王曰：“无之。”故周、郑交质。王子狐为质于郑，郑公子忽为质于周。王崩，周人将畀虢公政。四月，郑祭足帅师取温之麦；秋，又取成周之禾。周、郑交恶。",
+      "translation": "郑武公和郑庄公担任周平王的卿士。周平王对虢国有所偏心，郑庄公怨恨周王。周王说：“没有这回事。”因此周和郑交换人质。王子狐到郑国做人质，郑公子忽到周朝做人质。周平王去世，周人打算把政权交给虢公。四月，郑国的祭足率领军队收割温地的麦子；秋天，又收割成周的谷物。周和郑互相憎恶。",
+      "sentences": [
+        {
+          "original": "郑武公、庄公为平王卿士。",
+          "translation": "郑武公和郑庄公担任周平王的卿士。",
+          "words": [
+            {
+              "word": "郑武公",
+              "pinyin": "Zhèng Wǔ Gōng",
+              "meaning": "郑国武公",
+              "type": "人名"
+            },
+            {
+              "word": "庄公",
+              "pinyin": "Zhuāng Gōng",
+              "meaning": "郑庄公",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "担任",
+              "type": "实词"
+            },
+            {
+              "word": "平王",
+              "pinyin": "Píng Wáng",
+              "meaning": "周平王",
+              "type": "人名"
+            },
+            {
+              "word": "卿士",
+              "pinyin": "qīng shì",
+              "meaning": "执政官",
+              "type": "官职"
+            }
+          ]
+        },
+        {
+          "original": "王贰于虢，郑伯怨王。",
+          "translation": "周平王对虢国有所偏心，郑庄公怨恨周王。",
+          "words": [
+            {
+              "word": "王",
+              "pinyin": "Wáng",
+              "meaning": "周平王",
+              "type": "人名"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对",
+              "type": "虚词"
+            },
+            {
+              "word": "虢",
+              "pinyin": "Guó",
+              "meaning": "虢国",
+              "type": "地名"
+            },
+            {
+              "word": "郑伯",
+              "pinyin": "Zhèng Bó",
+              "meaning": "郑庄公",
+              "type": "人名"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "Wáng",
+              "meaning": "周平王",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "王曰：“无之。”",
+          "translation": "周王说：“没有这回事。”",
+          "words": [
+            {
+              "word": "王",
+              "pinyin": "Wáng",
+              "meaning": "周平王",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故周、郑交质。",
+          "translation": "因此周和郑交换人质。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "周",
+              "pinyin": "Zhōu",
+              "meaning": "周朝",
+              "type": "地名"
+            },
+            {
+              "word": "郑",
+              "pinyin": "Zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "交质",
+              "pinyin": "jiāo zhì",
+              "meaning": "交换人质",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "王子狐为质于郑，郑公子忽为质于周。",
+          "translation": "王子狐到郑国做人质，郑公子忽到周朝做人质。",
+          "words": [
+            {
+              "word": "王子狐",
+              "pinyin": "Wáng Zǐ Hú",
+              "meaning": "周王子狐",
+              "type": "人名"
+            },
+            {
+              "word": "为质",
+              "pinyin": "wéi zhì",
+              "meaning": "作为人质",
+              "type": "实词"
+            },
+            {
+              "word": "于郑",
+              "pinyin": "yú Zhèng",
+              "meaning": "在郑国",
+              "type": "虚词"
+            },
+            {
+              "word": "郑公子忽",
+              "pinyin": "Zhèng Gōng Zǐ Hū",
+              "meaning": "郑国公子忽",
+              "type": "人名"
+            },
+            {
+              "word": "为质",
+              "pinyin": "wéi zhì",
+              "meaning": "作为人质",
+              "type": "实词"
+            },
+            {
+              "word": "于周",
+              "pinyin": "yú Zhōu",
+              "meaning": "在周朝",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "王崩，周人将畀虢公政。",
+          "translation": "周平王去世，周人打算把政权交给虢公。",
+          "words": [
+            {
+              "word": "王崩",
+              "pinyin": "wáng bēng",
+              "meaning": "周王去世",
+              "type": "实词"
+            },
+            {
+              "word": "周人",
+              "pinyin": "Zhōu rén",
+              "meaning": "周朝的人",
+              "type": "实词"
+            },
+            {
+              "word": "将畀",
+              "pinyin": "jiāng bì",
+              "meaning": "将要给予",
+              "type": "实词"
+            },
+            {
+              "word": "虢公政",
+              "pinyin": "Guó Gōng zhèng",
+              "meaning": "虢公的政事",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "四月，郑祭足帅师取温之麦；",
+          "translation": "四月，郑国的祭足率领军队收割温地的麦子；",
+          "words": [
+            {
+              "word": "四月",
+              "pinyin": "sì yuè",
+              "meaning": "第四个月",
+              "type": "实词"
+            },
+            {
+              "word": "郑祭足",
+              "pinyin": "Zhèng Jì Zú",
+              "meaning": "郑国大夫祭足",
+              "type": "人名"
+            },
+            {
+              "word": "帅师",
+              "pinyin": "shuài shī",
+              "meaning": "率领军队",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "夺取",
+              "type": "实词"
+            },
+            {
+              "word": "温",
+              "pinyin": "Wēn",
+              "meaning": "温地",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "麦",
+              "pinyin": "mài",
+              "meaning": "麦子",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "秋，又取成周之禾。",
+          "translation": "秋天，又收割成周的谷物。",
+          "words": [
+            {
+              "word": "秋",
+              "pinyin": "qiū",
+              "meaning": "秋季",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "再次",
+              "type": "虚词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "夺取",
+              "type": "实词"
+            },
+            {
+              "word": "成周",
+              "pinyin": "Chéng Zhōu",
+              "meaning": "成周城",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "禾",
+              "pinyin": "hé",
+              "meaning": "谷物",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "周、郑交恶。",
+          "translation": "周和郑互相憎恶。",
+          "words": [
+            {
+              "word": "周",
+              "pinyin": "Zhōu",
+              "meaning": "周王室",
+              "type": "地名"
+            },
+            {
+              "word": "郑",
+              "pinyin": "Zhèng",
+              "meaning": "郑国",
+              "type": "地名"
+            },
+            {
+              "word": "交恶",
+              "pinyin": "jiāo wù",
+              "meaning": "互相敌对",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "君子曰：“信不由中，质无益也。明恕而行，要之以礼，虽无有质，谁能间之？苟有明信，涧、溪、沼、沚之毛，苹、蘩、蕰藻之菜，筐、筥、锜、釜之器，潢污、行潦之水，可荐于鬼神，可羞于王公，而况君子结二国之信，行之以礼，又焉用质？《风》有《采蘩》、《采苹》，《雅》有《行苇》、《泂酌》，昭忠信也。”",
+      "translation": "君子说：“如果信义不是发自内心，即使有人质也没有用。”以明达宽恕之心行事，用礼义来约束，即使没有人为质，谁又能离间他们呢？如果有明信，即使是山涧、溪流、池塘、小洲的草，苹、蘩、蕰藻这些菜，筐、筥、锜、釜这些器具，积水、路上的雨水，都可以进献给鬼神，可以奉献给王公，何况君子缔结两国的信义，用礼来推行，又哪里需要人质呢？《国风》中有《采蘩》、《采苹》，《大雅》中有《行苇》、《泂酌》，都是用来彰显忠信的。",
+      "sentences": [
+        {
+          "original": "君子曰：“信不由中，质无益也。”",
+          "translation": "君子说：“如果信义不是发自内心，即使有人质也没有用。”",
+          "words": [
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "有道德的人",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "诚信",
+              "type": "实词"
+            },
+            {
+              "word": "不由",
+              "pinyin": "bù yóu",
+              "meaning": "不是出自",
+              "type": "虚词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "内心",
+              "type": "实词"
+            },
+            {
+              "word": "质",
+              "pinyin": "zhì",
+              "meaning": "人质",
+              "type": "实词"
+            },
+            {
+              "word": "无益",
+              "pinyin": "wú yì",
+              "meaning": "没有益处",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "明恕而行，要之以礼，虽无有质，谁能间之？",
+          "translation": "以明达宽恕之心行事，用礼义来约束，即使没有人为质，谁又能离间他们呢？",
+          "words": [
+            {
+              "word": "明恕",
+              "pinyin": "míng shù",
+              "meaning": "明察宽恕",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "行动",
+              "type": "实词"
+            },
+            {
+              "word": "要之",
+              "pinyin": "yāo zhī",
+              "meaning": "约束它",
+              "type": "实词"
+            },
+            {
+              "word": "以礼",
+              "pinyin": "yǐ lǐ",
+              "meaning": "用礼仪",
+              "type": "虚词"
+            },
+            {
+              "word": "虽",
+              "pinyin": "suī",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "无有质",
+              "pinyin": "wú yǒu zhì",
+              "meaning": "没有人质",
+              "type": "实词"
+            },
+            {
+              "word": "谁能",
+              "pinyin": "shuí néng",
+              "meaning": "谁能",
+              "type": "实词"
+            },
+            {
+              "word": "间之",
+              "pinyin": "jiàn zhī",
+              "meaning": "离间它",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "苟有明信，涧、溪、沼、沚之毛，苹、蘩、蕰藻之菜，筐、筥、锜、釜之器，潢污、行潦之水，可荐于鬼神，可羞于王公，而况君子结二国之信，行之以礼，又焉用质？",
+          "translation": "如果有明信，即使是山涧、溪流、池塘、小洲的草，苹、蘩、蕰藻这些菜，筐、筥、锜、釜这些器具，积水、路上的雨水，都可以进献给鬼神，可以奉献给王公，何况君子缔结两国的信义，用礼来推行，又哪里需要人质呢？",
+          "words": [
+            {
+              "word": "苟",
+              "pinyin": "gǒu",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "明信",
+              "pinyin": "míng xìn",
+              "meaning": "诚信",
+              "type": "实词"
+            },
+            {
+              "word": "涧",
+              "pinyin": "jiàn",
+              "meaning": "山涧",
+              "type": "实词"
+            },
+            {
+              "word": "溪",
+              "pinyin": "xī",
+              "meaning": "溪流",
+              "type": "实词"
+            },
+            {
+              "word": "沼",
+              "pinyin": "zhǎo",
+              "meaning": "沼泽",
+              "type": "实词"
+            },
+            {
+              "word": "沚",
+              "pinyin": "zhǐ",
+              "meaning": "水中小洲",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "毛",
+              "pinyin": "máo",
+              "meaning": "草",
+              "type": "实词"
+            },
+            {
+              "word": "苹",
+              "pinyin": "píng",
+              "meaning": "一种植物",
+              "type": "实词"
+            },
+            {
+              "word": "蘩",
+              "pinyin": "fán",
+              "meaning": "白蒿",
+              "type": "实词"
+            },
+            {
+              "word": "蕰藻",
+              "pinyin": "wēn zǎo",
+              "meaning": "水草",
+              "type": "实词"
+            },
+            {
+              "word": "菜",
+              "pinyin": "cài",
+              "meaning": "蔬菜",
+              "type": "实词"
+            },
+            {
+              "word": "筐",
+              "pinyin": "kuāng",
+              "meaning": "筐子",
+              "type": "实词"
+            },
+            {
+              "word": "筥",
+              "pinyin": "jǔ",
+              "meaning": "圆形竹筐",
+              "type": "实词"
+            },
+            {
+              "word": "锜",
+              "pinyin": "qí",
+              "meaning": "三脚锅",
+              "type": "实词"
+            },
+            {
+              "word": "釜",
+              "pinyin": "fǔ",
+              "meaning": "锅",
+              "type": "实词"
+            },
+            {
+              "word": "器",
+              "pinyin": "qì",
+              "meaning": "器皿",
+              "type": "实词"
+            },
+            {
+              "word": "潢污",
+              "pinyin": "huáng wū",
+              "meaning": "积水",
+              "type": "实词"
+            },
+            {
+              "word": "行潦",
+              "pinyin": "xíng lǎo",
+              "meaning": "流水",
+              "type": "实词"
+            },
+            {
+              "word": "水",
+              "pinyin": "shuǐ",
+              "meaning": "水",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "荐",
+              "pinyin": "jiàn",
+              "meaning": "献",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "鬼神",
+              "pinyin": "guǐ shén",
+              "meaning": "鬼神",
+              "type": "实词"
+            },
+            {
+              "word": "羞",
+              "pinyin": "xiū",
+              "meaning": "进献",
+              "type": "实词"
+            },
+            {
+              "word": "王公",
+              "pinyin": "wáng gōng",
+              "meaning": "王公",
+              "type": "实词"
+            },
+            {
+              "word": "而况",
+              "pinyin": "ér kuàng",
+              "meaning": "何况",
+              "type": "虚词"
+            },
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "有道德的人",
+              "type": "实词"
+            },
+            {
+              "word": "结",
+              "pinyin": "jié",
+              "meaning": "缔结",
+              "type": "实词"
+            },
+            {
+              "word": "二国",
+              "pinyin": "èr guó",
+              "meaning": "两国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "信用",
+              "type": "实词"
+            },
+            {
+              "word": "行之",
+              "pinyin": "xíng zhī",
+              "meaning": "实行它",
+              "type": "实词"
+            },
+            {
+              "word": "以礼",
+              "pinyin": "yǐ lǐ",
+              "meaning": "用礼仪",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "何必",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "用",
+              "type": "实词"
+            },
+            {
+              "word": "质",
+              "pinyin": "zhì",
+              "meaning": "人质",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "《风》有《采蘩》、《采苹》，《雅》有《行苇》、《泂酌》，昭忠信也。",
+          "translation": "《国风》中有《采蘩》、《采苹》，《大雅》中有《行苇》、《泂酌》，都是用来彰显忠信的。",
+          "words": [
+            {
+              "word": "《风》",
+              "pinyin": "fēng",
+              "meaning": "《诗经》国风",
+              "type": "典故"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "《采蘩》",
+              "pinyin": "cǎi fán",
+              "meaning": "国风篇名",
+              "type": "典故"
+            },
+            {
+              "word": "《采苹》",
+              "pinyin": "cǎi píng",
+              "meaning": "国风篇名",
+              "type": "典故"
+            },
+            {
+              "word": "《雅》",
+              "pinyin": "yǎ",
+              "meaning": "《诗经》雅部分",
+              "type": "典故"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "《行苇》",
+              "pinyin": "xíng wěi",
+              "meaning": "大雅篇名",
+              "type": "典故"
+            },
+            {
+              "word": "《泂酌》",
+              "pinyin": "jiǒng zhuó",
+              "meaning": "大雅篇名",
+              "type": "典故"
+            },
+            {
+              "word": "昭",
+              "pinyin": "zhāo",
+              "meaning": "表明",
+              "type": "实词"
+            },
+            {
+              "word": "忠信",
+              "pinyin": "zhōng xìn",
+              "meaning": "忠诚信义",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

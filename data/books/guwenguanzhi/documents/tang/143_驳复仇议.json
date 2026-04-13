@@ -1,0 +1,3376 @@
+{
+  "id": "143_驳复仇议",
+  "title": "驳复仇议",
+  "author": {
+    "id": "tang_柳宗元",
+    "name": "柳宗元",
+    "dynasty": "tang",
+    "bio": "柳宗元（773年－819年），字子厚，唐代著名文学家、思想家，唐宋八大家之一。他祖籍河东（今山西运城），世称“柳河东”。柳宗元积极参与永贞革新，失败后被贬至永州、柳州等地。其文学成就以散文著称，作品多揭露社会矛盾、倡导改革，如《永州八记》、《捕蛇者说》等，风格峻洁幽深，富有现实主义精神。哲学上主张“天人不相预”，强调人事作用。柳宗元与韩愈并称“韩柳”，共同领导唐代古文运动，对后世文学发展贡献卓著。"
+  },
+  "source": "",
+  "dynasty": "tang",
+  "volume": 9,
+  "background": "《驳复仇议》是唐代文学家柳宗元针对武则天时期一桩复仇案所写的议论文。案件涉及同州下邽人徐元庆，其父徐爽被县尉赵师韫杀害，徐元庆成年后手刃仇人，随后自首。谏臣陈子昂建议诛杀徐元庆以正国法，同时旌表其门闾以彰孝道，并提议将此定为永久国典。柳宗元认为这一建议矛盾重重，破坏了礼与刑的统一性，遂撰文驳斥。文章写于柳宗元政治生涯中期，可能反映了他对法律、道德和社会正义的深刻思考，以及永贞革新失败后对现实政治的反思。背景中强调礼刑防乱的本源，旨在批判当时司法实践中的模糊与不公。",
+  "appreciation": "《驳复仇议》是一篇结构严谨、论证严密的唐代议论文典范。柳宗元以逻辑推理为核心，首先引述陈子昂的观点，继而从礼与刑的本源出发，指出旌表与诛杀不可并施，否则会导致赏罚混乱、礼法崩坏。文章分两种情况深入分析：若徐元庆之父无辜，则复仇是守礼行义，不应诛杀；若其父有罪，则复仇是违法悖上，不应旌表。这种二分法增强了论证的清晰度和说服力。柳宗元巧妙引用《周礼》和《春秋公羊传》等经典，援古证今，赋予文章权威性和历史深度。语言简洁明快，句式多变，既有说理的严谨，又不失文采，如“诛其可旌，兹谓滥”等句，铿锵有力。整体上，文章体现了柳宗元作为散文大家的思辨能力和文学造诣，对后世议论文写作影响深远。",
+  "tags": [
+    "复仇",
+    "礼法冲突",
+    "唐代散文"
+  ],
+  "paragraphs": [
+    {
+      "original": "臣伏见天后时，有同州下邽人徐元庆者，父爽为县尉赵师韫所杀，卒能手刃父仇，束身归罪。当时谏臣陈子昂建议诛之而旌其闾，且请“编之于令，永为国典。”臣窃独过之。",
+      "translation": "我恭敬地看到在天后时期，有一个同州下邽人叫徐元庆，他的父亲徐爽被县尉赵师韫杀害。他最终能亲手杀死父亲的仇人，然后自缚归案。当时的谏臣陈子昂建议处死他但表彰他的乡里，并且请求“将此事编入法令，永久作为国家的典章。”我私下独自认为这是错误的。",
+      "sentences": [
+        {
+          "original": "臣伏见天后时，有同州下邽人徐元庆者，父爽为县尉赵师韫所杀。",
+          "translation": "我恭敬地看到在天后时期，有一个同州下邽人叫徐元庆，他的父亲徐爽被县尉赵师韫杀害。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "伏见",
+              "pinyin": "fújiàn",
+              "meaning": "谦辞表示听说",
+              "type": "实词"
+            },
+            {
+              "word": "天后",
+              "pinyin": "tiānhòu",
+              "meaning": "武则天",
+              "type": "人名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "同州",
+              "pinyin": "tóngzhōu",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "下邽",
+              "pinyin": "xiàguī",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "徐元庆",
+              "pinyin": "xúyuánqìng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "虚词表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "爽",
+              "pinyin": "shuǎng",
+              "meaning": "徐爽",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "被",
+              "type": "虚词"
+            },
+            {
+              "word": "县尉",
+              "pinyin": "xiànwèi",
+              "meaning": "官职",
+              "type": "官职"
+            },
+            {
+              "word": "赵师韫",
+              "pinyin": "zhàoshīyùn",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "虚词表被动",
+              "type": "虚词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀害",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "卒能手刃父仇，束身归罪。",
+          "translation": "他最终能亲手杀死父亲的仇人，然后自缚归案。",
+          "words": [
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "最终",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "手刃",
+              "pinyin": "shǒurèn",
+              "meaning": "亲手杀死",
+              "type": "实词"
+            },
+            {
+              "word": "父仇",
+              "pinyin": "fùchóu",
+              "meaning": "父亲的仇人",
+              "type": "实词"
+            },
+            {
+              "word": "束身",
+              "pinyin": "shùshēn",
+              "meaning": "自首",
+              "type": "实词"
+            },
+            {
+              "word": "归罪",
+              "pinyin": "guīzuì",
+              "meaning": "归案认罪",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "当时谏臣陈子昂建议诛之而旌其闾，且请“编之于令，永为国典。”",
+          "translation": "当时的谏臣陈子昂建议处死他但表彰他的乡里，并且请求“将此事编入法令，永久作为国家的典章。”",
+          "words": [
+            {
+              "word": "当时",
+              "pinyin": "dāngshí",
+              "meaning": "那时候",
+              "type": "实词"
+            },
+            {
+              "word": "谏臣",
+              "pinyin": "jiànchén",
+              "meaning": "谏官",
+              "type": "官职"
+            },
+            {
+              "word": "陈子昂",
+              "pinyin": "chénzǐáng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "建议",
+              "pinyin": "jiànyì",
+              "meaning": "提出建议",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "旌",
+              "pinyin": "jīng",
+              "meaning": "表彰",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "闾",
+              "pinyin": "lǘ",
+              "meaning": "里门",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "编",
+              "pinyin": "biān",
+              "meaning": "编入",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "法令",
+              "type": "实词"
+            },
+            {
+              "word": "永",
+              "pinyin": "yǒng",
+              "meaning": "永远",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "国典",
+              "pinyin": "guódiǎn",
+              "meaning": "国家法典",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣窃独过之。",
+          "translation": "我私下独自认为这是错误的。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "臣子",
+              "type": "实词"
+            },
+            {
+              "word": "窃",
+              "pinyin": "qiè",
+              "meaning": "私下",
+              "type": "虚词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "独自",
+              "type": "虚词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "认为有错",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "指代此事",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "臣闻礼之大本，以防乱也。若曰无为贼虐，凡为子者杀无赦。刑之大本，亦以防乱也，若曰无为贼虐，凡为治者杀无赦。其本则合，其用则异。旌与诛莫得而并焉。诛其可旌，兹谓滥，黩刑甚矣。旌其可诛，兹谓僣，坏礼甚矣。果以是示于天下，传于后代，趋义者不知所向，违害者不知所立，以是为典可乎？盖圣人之制，穷理以定赏罚，本情以正褒贬，统于一而已矣。",
+      "translation": "我听说礼的根本是为了防止混乱。如果说不要做残暴的事，那么凡是做儿子的杀人就不能赦免。刑罚的根本也是为了防止混乱，如果说不要做残暴的事，那么凡是治理者杀人就不能赦免。它们的根源是相同的，但应用却不同。表彰和诛杀不能同时进行。诛杀那些应该表彰的人，这叫做滥用，是严重亵渎刑罚。表彰那些应该诛杀的人，这叫做僭越，是严重破坏礼制。如果真的把这展示给天下，传给后代，追求正义的人不知道方向，避开危害的人不知道立足点，这能作为法典吗？大概圣人的制度，穷尽道理来确定赏罚，根据情理来纠正褒贬，统一于一个原则罢了。",
+      "sentences": [
+        {
+          "original": "臣闻礼之大本，以防乱也。",
+          "translation": "我听说礼的根本，是为了防止混乱。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "臣子",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "礼",
+              "pinyin": "lǐ",
+              "meaning": "礼仪",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "大本",
+              "pinyin": "dà běn",
+              "meaning": "根本",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "防",
+              "pinyin": "fáng",
+              "meaning": "防止",
+              "type": "实词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "混乱",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若曰无为贼虐，凡为子者杀无赦。",
+          "translation": "如果说不要做残暴的事，那么凡是做儿子的杀人就不能赦免。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "无为",
+              "pinyin": "wú wéi",
+              "meaning": "不要做",
+              "type": "虚词"
+            },
+            {
+              "word": "贼虐",
+              "pinyin": "zéi nüè",
+              "meaning": "残害",
+              "type": "实词"
+            },
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "为子者",
+              "pinyin": "wéi zǐ zhě",
+              "meaning": "作为儿子的人",
+              "type": "实词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀",
+              "type": "实词"
+            },
+            {
+              "word": "无赦",
+              "pinyin": "wú shè",
+              "meaning": "不赦免",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "刑之大本，亦以防乱也，",
+          "translation": "刑罚的根本，也是为了防止混乱，",
+          "words": [
+            {
+              "word": "刑",
+              "pinyin": "xíng",
+              "meaning": "刑罚",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "大本",
+              "pinyin": "dà běn",
+              "meaning": "根本",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "防",
+              "pinyin": "fáng",
+              "meaning": "防止",
+              "type": "实词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "混乱",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若曰无为贼虐，凡为治者杀无赦。",
+          "translation": "如果说不要做残暴的事，那么凡是治理者杀人就不能赦免。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "无为",
+              "pinyin": "wú wéi",
+              "meaning": "不要做",
+              "type": "虚词"
+            },
+            {
+              "word": "贼虐",
+              "pinyin": "zéi nüè",
+              "meaning": "残暴",
+              "type": "实词"
+            },
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "为治者",
+              "pinyin": "wéi zhì zhě",
+              "meaning": "治理者",
+              "type": "实词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀死",
+              "type": "实词"
+            },
+            {
+              "word": "无赦",
+              "pinyin": "wú shè",
+              "meaning": "不赦免",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其本则合，其用则异。",
+          "translation": "它们的根源是相同的，但应用却不同。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "本",
+              "pinyin": "běn",
+              "meaning": "根本",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "合",
+              "pinyin": "hé",
+              "meaning": "相同",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "应用",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "异",
+              "pinyin": "yì",
+              "meaning": "不同",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "旌与诛莫得而并焉。",
+          "translation": "表彰和诛杀不能同时进行。",
+          "words": [
+            {
+              "word": "旌",
+              "pinyin": "jīng",
+              "meaning": "表彰",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "莫得",
+              "pinyin": "mò dé",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "并",
+              "pinyin": "bìng",
+              "meaning": "同时进行",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "诛其可旌，兹谓滥，黩刑甚矣。",
+          "translation": "诛杀那些应该表彰的人，这叫做滥用，是严重亵渎刑罚。",
+          "words": [
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "惩罚",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那些",
+              "type": "虚词"
+            },
+            {
+              "word": "可旌",
+              "pinyin": "kě jīng",
+              "meaning": "可以表彰",
+              "type": "实词"
+            },
+            {
+              "word": "兹",
+              "pinyin": "zī",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "叫做",
+              "type": "实词"
+            },
+            {
+              "word": "滥",
+              "pinyin": "làn",
+              "meaning": "过度",
+              "type": "实词"
+            },
+            {
+              "word": "黩刑",
+              "pinyin": "dú xíng",
+              "meaning": "滥用刑罚",
+              "type": "实词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "严重",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "旌其可诛，兹谓僣，坏礼甚矣。",
+          "translation": "表彰那些应该诛杀的人，这叫做僭越，是严重破坏礼制。",
+          "words": [
+            {
+              "word": "旌",
+              "pinyin": "jīng",
+              "meaning": "表彰",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那些",
+              "type": "虚词"
+            },
+            {
+              "word": "可诛",
+              "pinyin": "kě zhū",
+              "meaning": "可以惩罚",
+              "type": "实词"
+            },
+            {
+              "word": "兹",
+              "pinyin": "zī",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "叫做",
+              "type": "实词"
+            },
+            {
+              "word": "僣",
+              "pinyin": "jiàn",
+              "meaning": "僭越",
+              "type": "实词"
+            },
+            {
+              "word": "坏礼",
+              "pinyin": "huài lǐ",
+              "meaning": "破坏礼仪",
+              "type": "实词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "严重",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "果以是示于天下，传于后代，趋义者不知所向，违害者不知所立，以是为典可乎？",
+          "translation": "如果真的把这展示给天下，传给后代，追求正义的人不知道方向，避开危害的人不知道立足点，这能作为法典吗？",
+          "words": [
+            {
+              "word": "果",
+              "pinyin": "guǒ",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "示",
+              "pinyin": "shì",
+              "meaning": "展示",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "给",
+              "type": "虚词"
+            },
+            {
+              "word": "后代",
+              "pinyin": "hòu dài",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "趋义",
+              "pinyin": "qū yì",
+              "meaning": "追求道义",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "所向",
+              "pinyin": "suǒ xiàng",
+              "meaning": "方向",
+              "type": "实词"
+            },
+            {
+              "word": "违害",
+              "pinyin": "wéi hài",
+              "meaning": "避开危害",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "所立",
+              "pinyin": "suǒ lì",
+              "meaning": "立足点",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "典",
+              "pinyin": "diǎn",
+              "meaning": "典范",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "盖圣人之制，穷理以定赏罚，本情以正褒贬，统于一而已矣。",
+          "translation": "大概圣人的制度，穷尽道理来确定赏罚，根据情理来纠正褒贬，统一于一个原则罢了。",
+          "words": [
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "句首语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "圣人",
+              "pinyin": "shèng rén",
+              "meaning": "道德智慧极高者",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "制",
+              "pinyin": "zhì",
+              "meaning": "制度",
+              "type": "实词"
+            },
+            {
+              "word": "穷理",
+              "pinyin": "qióng lǐ",
+              "meaning": "穷究道理",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "定",
+              "pinyin": "dìng",
+              "meaning": "确定",
+              "type": "实词"
+            },
+            {
+              "word": "赏罚",
+              "pinyin": "shǎng fá",
+              "meaning": "奖赏惩罚",
+              "type": "实词"
+            },
+            {
+              "word": "本情",
+              "pinyin": "běn qíng",
+              "meaning": "依据情理",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "正",
+              "pinyin": "zhèng",
+              "meaning": "端正",
+              "type": "实词"
+            },
+            {
+              "word": "褒贬",
+              "pinyin": "bāo biǎn",
+              "meaning": "赞扬批评",
+              "type": "实词"
+            },
+            {
+              "word": "统",
+              "pinyin": "tǒng",
+              "meaning": "统一",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "一致",
+              "type": "实词"
+            },
+            {
+              "word": "而已",
+              "pinyin": "ér yǐ",
+              "meaning": "罢了",
+              "type": "虚词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "向使刺谳其诚伪，考正其曲直，原始而求其端，则刑礼之用，判然离矣。何者？若元庆之父，不陷于公罪，师韫之诛，独以其私怨，奋其吏气，虐于非辜；州牧不知罪，刑官不知问，上下蒙冒，吁号不闻。而元庆能以戴天为大耻，枕戈为得礼，处心积虑，以冲仇人之胸，介然自克，即死无憾。是守礼而行义也。执事者宜有惭色，将谢之不暇，而又何诛焉？",
+      "translation": "假如当初能审察案件的真伪，考正其中的是非曲直，推究事情的本源，那么刑与礼的运用，就会明显地区分开来。为什么呢？如果徐元庆的父亲没有犯下公罪，赵师韫杀他只是出于私怨，滥用官吏的职权，虐杀无辜之人；州官不追究罪责，刑官不加以过问，上下蒙蔽，呼号无人听闻。而徐元庆能以与仇人共存于天下为大耻，枕戈待旦视为合乎礼，处心积虑，以刺杀仇人，坚定地自我克制，即使赴死也无遗憾。这是遵守礼制而践行义举。执政者应当感到惭愧，向他谢罪都来不及，又为什么要诛杀他呢？",
+      "sentences": [
+        {
+          "original": "向使刺谳其诚伪，考正其曲直，原始而求其端，则刑礼之用，判然离矣。",
+          "translation": "假如当初能审察案件的真伪，考正其中的是非曲直，推究事情的本源，那么刑与礼的运用，就会明显地区分开来。",
+          "words": [
+            {
+              "word": "向使",
+              "pinyin": "xiàng shǐ",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "刺谳",
+              "pinyin": "cì yàn",
+              "meaning": "审讯",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "诚伪",
+              "pinyin": "chéng wěi",
+              "meaning": "真假",
+              "type": "实词"
+            },
+            {
+              "word": "考正",
+              "pinyin": "kǎo zhèng",
+              "meaning": "考察纠正",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "曲直",
+              "pinyin": "qū zhí",
+              "meaning": "是非",
+              "type": "实词"
+            },
+            {
+              "word": "原始",
+              "pinyin": "yuán shǐ",
+              "meaning": "推究起源",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "求",
+              "pinyin": "qiú",
+              "meaning": "寻求",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "端",
+              "pinyin": "duān",
+              "meaning": "端倪",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "刑礼",
+              "pinyin": "xíng lǐ",
+              "meaning": "刑法礼制",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "应用",
+              "type": "实词"
+            },
+            {
+              "word": "判然",
+              "pinyin": "pàn rán",
+              "meaning": "分明",
+              "type": "实词"
+            },
+            {
+              "word": "离",
+              "pinyin": "lí",
+              "meaning": "分离",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "何者？",
+          "translation": "为什么呢？",
+          "words": [
+            {
+              "word": "何者",
+              "pinyin": "hé zhě",
+              "meaning": "为什么",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "若元庆之父，不陷于公罪，师韫之诛，独以其私怨，奋其吏气，虐于非辜；",
+          "translation": "如果徐元庆的父亲没有犯下公罪，赵师韫杀他只是出于私怨，滥用官吏的职权，虐杀无辜之人；",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "元庆",
+              "pinyin": "yuán qìng",
+              "meaning": "元庆",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "陷",
+              "pinyin": "xiàn",
+              "meaning": "陷入",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "公罪",
+              "pinyin": "gōng zuì",
+              "meaning": "公罪",
+              "type": "实词"
+            },
+            {
+              "word": "师韫",
+              "pinyin": "shī yùn",
+              "meaning": "师韫",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "独自",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "私怨",
+              "pinyin": "sī yuàn",
+              "meaning": "私怨",
+              "type": "实词"
+            },
+            {
+              "word": "奋",
+              "pinyin": "fèn",
+              "meaning": "奋发",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "吏气",
+              "pinyin": "lì qì",
+              "meaning": "官吏气势",
+              "type": "实词"
+            },
+            {
+              "word": "虐",
+              "pinyin": "nüè",
+              "meaning": "虐待",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "非辜",
+              "pinyin": "fēi gū",
+              "meaning": "无辜",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "州牧不知罪，刑官不知问，上下蒙冒，吁号不闻。",
+          "translation": "州官不追究罪责，刑官不加以过问，上下蒙蔽，呼号无人听闻。",
+          "words": [
+            {
+              "word": "州牧",
+              "pinyin": "zhōu mù",
+              "meaning": "州的长官",
+              "type": "官职"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "罪",
+              "pinyin": "zuì",
+              "meaning": "罪行",
+              "type": "实词"
+            },
+            {
+              "word": "刑官",
+              "pinyin": "xíng guān",
+              "meaning": "刑狱之官",
+              "type": "官职"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "上下",
+              "pinyin": "shàng xià",
+              "meaning": "上级下级",
+              "type": "实词"
+            },
+            {
+              "word": "蒙冒",
+              "pinyin": "méng mào",
+              "meaning": "蒙蔽掩盖",
+              "type": "实词"
+            },
+            {
+              "word": "吁号",
+              "pinyin": "yù háo",
+              "meaning": "呼喊申诉",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听到",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "而元庆能以戴天为大耻，枕戈为得礼，处心积虑，以冲仇人之胸，介然自克，即死无憾。",
+          "translation": "而徐元庆能以与仇人共存于天下为大耻，枕戈待旦视为合乎礼，处心积虑，以刺杀仇人，坚定地自我克制，即使赴死也无遗憾。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "元庆",
+              "pinyin": "yuán qìng",
+              "meaning": "徐元庆",
+              "type": "人名"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "戴天",
+              "pinyin": "dài tiān",
+              "meaning": "不共戴天之仇",
+              "type": "典故"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "大耻",
+              "pinyin": "dà chǐ",
+              "meaning": "大耻辱",
+              "type": "实词"
+            },
+            {
+              "word": "枕戈",
+              "pinyin": "zhěn gē",
+              "meaning": "枕戈待旦",
+              "type": "典故"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "得礼",
+              "pinyin": "dé lǐ",
+              "meaning": "符合礼",
+              "type": "实词"
+            },
+            {
+              "word": "处心积虑",
+              "pinyin": "chǔ xīn jī lǜ",
+              "meaning": "长期谋划",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "冲",
+              "pinyin": "chōng",
+              "meaning": "冲击",
+              "type": "实词"
+            },
+            {
+              "word": "仇人",
+              "pinyin": "chóu rén",
+              "meaning": "仇人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "胸",
+              "pinyin": "xiōng",
+              "meaning": "胸膛",
+              "type": "实词"
+            },
+            {
+              "word": "介然",
+              "pinyin": "jiè rán",
+              "meaning": "坚定地",
+              "type": "实词"
+            },
+            {
+              "word": "自克",
+              "pinyin": "zì kè",
+              "meaning": "自我克制",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "即使",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "无憾",
+              "pinyin": "wú hàn",
+              "meaning": "无遗憾",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "是守礼而行义也。",
+          "translation": "这是遵守礼制而践行义举。",
+          "words": [
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "守礼",
+              "pinyin": "shǒu lǐ",
+              "meaning": "守礼制",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "行义",
+              "pinyin": "xíng yì",
+              "meaning": "行义举",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "执事者宜有惭色，将谢之不暇，而又何诛焉？",
+          "translation": "执政者应当感到惭愧，向他谢罪都来不及，又为什么要诛杀他呢？",
+          "words": [
+            {
+              "word": "执事者",
+              "pinyin": "zhí shì zhě",
+              "meaning": "掌权的人",
+              "type": "实词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "虚词"
+            },
+            {
+              "word": "有惭色",
+              "pinyin": "yǒu cán sè",
+              "meaning": "感到羞愧",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "谢之不暇",
+              "pinyin": "xiè zhī bù xiá",
+              "meaning": "来不及道歉",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "何诛焉",
+              "pinyin": "hé zhū yān",
+              "meaning": "为何诛杀",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "其或元庆之父，不免于罪，师韫之诛，不愆于法。是非死于吏也，是死于法也。法其可仇乎？仇天子之法，而戕奉法之吏，是悖骜而凌上也。执而诛之，所以正邦典，而又何旌焉？",
+      "translation": "如果徐元庆的父亲确实有罪，赵师韫的诛杀没有违反法律。这不是死于官吏之手，而是死于法律。法律难道可以仇恨吗？仇恨天子的法律，并杀害执法的官吏，这是悖逆傲慢、欺凌上级的行为。逮捕并诛杀他，是为了正国法，又为什么要表彰呢？",
+      "sentences": [
+        {
+          "original": "其或元庆之父，不免于罪，师韫之诛，不愆于法。",
+          "translation": "如果徐元庆的父亲确实有罪，赵师韫的诛杀没有违反法律。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "或",
+              "pinyin": "huò",
+              "meaning": "或许",
+              "type": "虚词"
+            },
+            {
+              "word": "元庆",
+              "pinyin": "yuán qìng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "不免",
+              "pinyin": "bù miǎn",
+              "meaning": "不能避免",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "罪",
+              "pinyin": "zuì",
+              "meaning": "罪行",
+              "type": "实词"
+            },
+            {
+              "word": "师韫",
+              "pinyin": "shī yùn",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "不愆",
+              "pinyin": "bù qiān",
+              "meaning": "不违背",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "法",
+              "pinyin": "fǎ",
+              "meaning": "法律",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "是非死于吏也，是死于法也。",
+          "translation": "这不是死于官吏之手，而是死于法律。",
+          "words": [
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "法",
+              "pinyin": "fǎ",
+              "meaning": "法律",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "法其可仇乎？",
+          "translation": "法律难道可以仇恨吗？",
+          "words": [
+            {
+              "word": "法",
+              "pinyin": "fǎ",
+              "meaning": "法律",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "仇天子之法，而戕奉法之吏，是悖骜而凌上也。",
+          "translation": "仇恨天子的法律，并杀害执法的官吏，这是悖逆傲慢、欺凌上级的行为。",
+          "words": [
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiānzǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "法",
+              "pinyin": "fǎ",
+              "meaning": "法律",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但",
+              "type": "虚词"
+            },
+            {
+              "word": "戕",
+              "pinyin": "qiāng",
+              "meaning": "杀害",
+              "type": "实词"
+            },
+            {
+              "word": "奉法",
+              "pinyin": "fèngfǎ",
+              "meaning": "奉行法律",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "悖骜",
+              "pinyin": "bèi'ào",
+              "meaning": "悖逆傲慢",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "凌上",
+              "pinyin": "língshàng",
+              "meaning": "凌驾于上",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "执而诛之，所以正邦典，而又何旌焉？",
+          "translation": "逮捕并诛杀他，是为了正国法，又为什么要表彰呢？",
+          "words": [
+            {
+              "word": "执",
+              "pinyin": "zhí",
+              "meaning": "捉拿",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "实词"
+            },
+            {
+              "word": "所以",
+              "pinyin": "suǒyǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "正",
+              "pinyin": "zhèng",
+              "meaning": "匡正",
+              "type": "实词"
+            },
+            {
+              "word": "邦典",
+              "pinyin": "bāngdiǎn",
+              "meaning": "国家法典",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "何以",
+              "type": "实词"
+            },
+            {
+              "word": "旌",
+              "pinyin": "jīng",
+              "meaning": "表彰",
+              "type": "实词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "呢",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "且其议曰：“人必有子，子必有亲，亲亲相仇，其乱谁救？”是惑于礼也甚矣。礼之所谓仇者，盖其冤抑沉痛而号无告也；非谓抵罪触法，陷于大戮。而曰彼杀之，我乃杀之。不议曲直，暴寡胁弱而已。其非经背圣，不亦甚哉！",
+      "translation": "而且他的议论说：“人一定有儿子，儿子一定有亲人，亲人之间相互报仇，这种混乱谁能拯救？”这是对礼的误解太深了。礼所说的仇，大概是冤屈压抑沉痛而呼号无告的情况；不是指触犯法律、陷入死刑的情况。却说他杀了人，我就杀了他。不讨论是非曲直，只是以强凌弱、以众暴寡罢了。这违背经典、背离圣人，不是太严重了吗！",
+      "sentences": [
+        {
+          "original": "且其议曰：“人必有子，子必有亲，亲亲相仇，其乱谁救？”",
+          "translation": "而且他的议论说：“人一定有儿子，儿子一定有亲人，亲人之间相互报仇，这种混乱谁能拯救？”",
+          "words": [
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "议",
+              "pinyin": "yì",
+              "meaning": "议论",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "亲",
+              "pinyin": "qīn",
+              "meaning": "父母",
+              "type": "实词"
+            },
+            {
+              "word": "亲亲",
+              "pinyin": "qīn qīn",
+              "meaning": "亲人之间",
+              "type": "实词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiāng",
+              "meaning": "互相",
+              "type": "虚词"
+            },
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "混乱",
+              "type": "实词"
+            },
+            {
+              "word": "谁",
+              "pinyin": "shuí",
+              "meaning": "谁",
+              "type": "虚词"
+            },
+            {
+              "word": "救",
+              "pinyin": "jiù",
+              "meaning": "拯救",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "是惑于礼也甚矣。",
+          "translation": "这是对礼的误解太深了。",
+          "words": [
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "惑",
+              "pinyin": "huò",
+              "meaning": "迷惑",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "礼",
+              "pinyin": "lǐ",
+              "meaning": "礼",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "严重",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "礼之所谓仇者，盖其冤抑沉痛而号无告也；非谓抵罪触法，陷于大戮。",
+          "translation": "礼所说的仇，大概是冤屈压抑沉痛而呼号无告的情况；不是指触犯法律、陷入死刑的情况。",
+          "words": [
+            {
+              "word": "礼",
+              "pinyin": "lǐ",
+              "meaning": "礼",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "所谓",
+              "pinyin": "suǒ wèi",
+              "meaning": "所说的",
+              "type": "实词"
+            },
+            {
+              "word": "仇者",
+              "pinyin": "chóu zhě",
+              "meaning": "仇恨的情况",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "冤抑",
+              "pinyin": "yuān yì",
+              "meaning": "冤屈",
+              "type": "实词"
+            },
+            {
+              "word": "沉痛",
+              "pinyin": "chén tòng",
+              "meaning": "沉痛",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "号",
+              "pinyin": "háo",
+              "meaning": "呼号",
+              "type": "实词"
+            },
+            {
+              "word": "无告",
+              "pinyin": "wú gào",
+              "meaning": "无处申诉",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "非谓",
+              "pinyin": "fēi wèi",
+              "meaning": "不是说",
+              "type": "实词"
+            },
+            {
+              "word": "抵罪",
+              "pinyin": "dǐ zuì",
+              "meaning": "抵罪",
+              "type": "实词"
+            },
+            {
+              "word": "触法",
+              "pinyin": "chù fǎ",
+              "meaning": "触犯法律",
+              "type": "实词"
+            },
+            {
+              "word": "陷于",
+              "pinyin": "xiàn yú",
+              "meaning": "陷入",
+              "type": "实词"
+            },
+            {
+              "word": "大戮",
+              "pinyin": "dà lù",
+              "meaning": "大刑",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "而曰彼杀之，我乃杀之。",
+          "translation": "却说他杀了人，我就杀了他。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "彼",
+              "pinyin": "bǐ",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀死",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我",
+              "type": "虚词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀死",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "不议曲直，暴寡胁弱而已。",
+          "translation": "不讨论是非曲直，只是以强凌弱、以众暴寡罢了。",
+          "words": [
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "议",
+              "pinyin": "yì",
+              "meaning": "讨论",
+              "type": "实词"
+            },
+            {
+              "word": "曲直",
+              "pinyin": "qū zhí",
+              "meaning": "是非",
+              "type": "实词"
+            },
+            {
+              "word": "暴",
+              "pinyin": "bào",
+              "meaning": "欺凌",
+              "type": "实词"
+            },
+            {
+              "word": "寡",
+              "pinyin": "guǎ",
+              "meaning": "弱者",
+              "type": "实词"
+            },
+            {
+              "word": "胁",
+              "pinyin": "xié",
+              "meaning": "威胁",
+              "type": "实词"
+            },
+            {
+              "word": "弱",
+              "pinyin": "ruò",
+              "meaning": "弱者",
+              "type": "实词"
+            },
+            {
+              "word": "而已",
+              "pinyin": "ér yǐ",
+              "meaning": "罢了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其非经背圣，不亦甚哉！",
+          "translation": "这违背经典、背离圣人，不是太严重了吗！",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "违反",
+              "type": "实词"
+            },
+            {
+              "word": "经",
+              "pinyin": "jīng",
+              "meaning": "经典",
+              "type": "实词"
+            },
+            {
+              "word": "背",
+              "pinyin": "bèi",
+              "meaning": "违背",
+              "type": "实词"
+            },
+            {
+              "word": "圣",
+              "pinyin": "shèng",
+              "meaning": "圣人",
+              "type": "实词"
+            },
+            {
+              "word": "不亦",
+              "pinyin": "bù yì",
+              "meaning": "不也是",
+              "type": "虚词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "过分",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "《周礼》：“调人，掌司万人之仇。”“凡杀人而义者，令勿仇，仇之则死。”",
+      "translation": "《周礼》说：“调人，掌管万人的仇怨。”“凡是杀人而合乎道义的，命令不要复仇，复仇就处死。”“有反过来杀人的人，邦国共同仇视他。”又怎么能亲人之间相互复仇呢？",
+      "sentences": [
+        {
+          "original": "《周礼》：“调人，掌司万人之仇。”",
+          "translation": "《周礼》说：“调人，掌管万人的仇怨。”",
+          "words": [
+            {
+              "word": "周礼",
+              "pinyin": "zhōu lǐ",
+              "meaning": "书名",
+              "type": "典故"
+            },
+            {
+              "word": "调人",
+              "pinyin": "tiáo rén",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "掌司",
+              "pinyin": "zhǎng sī",
+              "meaning": "掌管",
+              "type": "实词"
+            },
+            {
+              "word": "万人",
+              "pinyin": "wàn rén",
+              "meaning": "万人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "仇怨",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "“凡杀人而义者，令勿仇，仇之则死。”",
+          "translation": "“凡是杀人而合乎道义的，命令不要复仇，复仇就处死。”",
+          "words": [
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "杀人",
+              "pinyin": "shā rén",
+              "meaning": "杀人",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而",
+              "type": "虚词"
+            },
+            {
+              "word": "义者",
+              "pinyin": "yì zhě",
+              "meaning": "义者",
+              "type": "实词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "勿",
+              "pinyin": "wù",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "报仇",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "之",
+              "type": "虚词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "“有反杀者，邦国交仇之。”",
+          "translation": "“有反过来杀人的人，邦国共同仇视他。”",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "反杀者",
+              "pinyin": "fǎn shā zhě",
+              "meaning": "反杀的人",
+              "type": "实词"
+            },
+            {
+              "word": "邦国",
+              "pinyin": "bāng guó",
+              "meaning": "邦国",
+              "type": "实词"
+            },
+            {
+              "word": "交",
+              "pinyin": "jiāo",
+              "meaning": "交相",
+              "type": "虚词"
+            },
+            {
+              "word": "仇",
+              "pinyin": "chóu",
+              "meaning": "仇视",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "之",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "又安得亲亲相仇也？",
+          "translation": "又怎么能亲人之间相互复仇呢？",
+          "words": [
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "安得",
+              "pinyin": "ān dé",
+              "meaning": "怎么能",
+              "type": "虚词"
+            },
+            {
+              "word": "亲亲",
+              "pinyin": "qīn qīn",
+              "meaning": "亲人之间",
+              "type": "实词"
+            },
+            {
+              "word": "相仇",
+              "pinyin": "xiāng chóu",
+              "meaning": "互相仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "“有反杀者，邦国交仇之。”又安得亲亲相仇也？《春秋公羊传》曰：“父不受诛，子复仇可也。父受诛，子复仇，此推刃之道，复仇不除害。”今若取此以断两下相杀，则合于礼矣。且夫不忘仇，孝也。不爱死，义也。元庆能不越于礼，服孝死义，是必达理而闻道者也。夫达理闻道之人，岂其以王法为敌仇者哉？议者反以为戮，黩刑坏礼，其不可以为典，明矣。",
+      "translation": "“如果有反过来杀害仇人的人，整个国家都会把他当作仇敌。”又怎么能让亲人之间互相仇杀呢？《春秋公羊传》说：“父亲没有罪而被杀，儿子复仇是可以的；父亲有罪而被杀，儿子复仇，这只是互相残杀的做法，复仇并不能消除祸害。”现在如果用这个原则来判断双方互相杀害，就符合礼了。而且，不忘仇恨，是孝；不惜死亡，是义。元庆能够不越出礼的范围，履行孝道、为义而死，这一定是通达事理、明白道义的人。通达事理、明白道义的人，怎么会把王法当作仇敌呢？提议的人反而要杀他，这是滥用刑罚、破坏礼制，显然不能作为典范。",
+      "sentences": [
+        {
+          "original": "“有反杀者，邦国交仇之。”又安得亲亲相仇也？",
+          "translation": "“如果有反过来杀害仇人的人，整个国家都会把他当作仇敌。”又怎么能让亲人之间互相仇杀呢？",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "反杀",
+              "pinyin": "fǎn shā",
+              "meaning": "反杀",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "邦国",
+              "pinyin": "bāng guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "交仇",
+              "pinyin": "jiāo chóu",
+              "meaning": "互相仇视",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "怎么",
+              "type": "虚词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "亲亲",
+              "pinyin": "qīn qīn",
+              "meaning": "亲近亲人",
+              "type": "实词"
+            },
+            {
+              "word": "相仇",
+              "pinyin": "xiāng chóu",
+              "meaning": "互相仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "《春秋公羊传》曰：“父不受诛，子复仇可也。父受诛，子复仇，此推刃之道，复仇不除害。”",
+          "translation": "《春秋公羊传》说：“父亲没有罪而被杀，儿子复仇是可以的；父亲有罪而被杀，儿子复仇，这只是互相残杀的做法，复仇并不能消除祸害。”",
+          "words": [
+            {
+              "word": "《春秋公羊传》",
+              "pinyin": "Chūn Qiū Gōngyáng Zhuàn",
+              "meaning": "书名，典故",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "受",
+              "pinyin": "shòu",
+              "meaning": "接受",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "复仇",
+              "pinyin": "fù chóu",
+              "meaning": "报仇",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "受",
+              "pinyin": "shòu",
+              "meaning": "接受",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "复仇",
+              "pinyin": "fù chóu",
+              "meaning": "报仇",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "推刃",
+              "pinyin": "tuī rèn",
+              "meaning": "复仇",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "方法",
+              "type": "实词"
+            },
+            {
+              "word": "复仇",
+              "pinyin": "fù chóu",
+              "meaning": "报仇",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "除害",
+              "pinyin": "chú hài",
+              "meaning": "消除祸害",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "今若取此以断两下相杀，则合于礼矣。",
+          "translation": "现在如果用这个原则来判断双方互相杀害，就符合礼了。",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "取用",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "断",
+              "pinyin": "duàn",
+              "meaning": "判断",
+              "type": "实词"
+            },
+            {
+              "word": "两下",
+              "pinyin": "liǎng xià",
+              "meaning": "双方",
+              "type": "实词"
+            },
+            {
+              "word": "相杀",
+              "pinyin": "xiāng shā",
+              "meaning": "互相杀害",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "合",
+              "pinyin": "hé",
+              "meaning": "符合",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "礼",
+              "pinyin": "lǐ",
+              "meaning": "礼",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "且夫不忘仇，孝也。不爱死，义也。",
+          "translation": "而且，不忘仇恨，是孝；不惜死亡，是义。",
+          "words": [
+            {
+              "word": "且夫",
+              "pinyin": "qiě fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "不忘仇",
+              "pinyin": "bù wàng chóu",
+              "meaning": "不忘记仇恨",
+              "type": "实词"
+            },
+            {
+              "word": "孝",
+              "pinyin": "xiào",
+              "meaning": "孝道",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "不爱死",
+              "pinyin": "bù ài sǐ",
+              "meaning": "不吝惜死亡",
+              "type": "实词"
+            },
+            {
+              "word": "义",
+              "pinyin": "yì",
+              "meaning": "正义",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "元庆能不越于礼，服孝死义，是必达理而闻道者也。",
+          "translation": "元庆能够不越出礼的范围，履行孝道、为义而死，这一定是通达事理、明白道义的人。",
+          "words": [
+            {
+              "word": "元庆",
+              "pinyin": "yuán qìng",
+              "meaning": "陈元庆",
+              "type": "人名"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "不越于礼",
+              "pinyin": "bù yuè yú lǐ",
+              "meaning": "不超越礼法",
+              "type": "实词"
+            },
+            {
+              "word": "服孝",
+              "pinyin": "fú xiào",
+              "meaning": "践行孝道",
+              "type": "实词"
+            },
+            {
+              "word": "死义",
+              "pinyin": "sǐ yì",
+              "meaning": "为义而死",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "达理",
+              "pinyin": "dá lǐ",
+              "meaning": "通达道理",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "闻道",
+              "pinyin": "wén dào",
+              "meaning": "听闻道义",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "夫达理闻道之人，岂其以王法为敌仇者哉？",
+          "translation": "通达事理、明白道义的人，怎么会把王法当作仇敌呢？",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "达理",
+              "pinyin": "dá lǐ",
+              "meaning": "通达道理",
+              "type": "实词"
+            },
+            {
+              "word": "闻道",
+              "pinyin": "wén dào",
+              "meaning": "听闻道义",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "把",
+              "type": "虚词"
+            },
+            {
+              "word": "王法",
+              "pinyin": "wáng fǎ",
+              "meaning": "王法",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "敌仇",
+              "pinyin": "dí chóu",
+              "meaning": "仇敌",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "议者反以为戮，黩刑坏礼，其不可以为典，明矣。",
+          "translation": "提议的人反而要杀他，这是滥用刑罚、破坏礼制，显然不能作为典范。",
+          "words": [
+            {
+              "word": "议者",
+              "pinyin": "yì zhě",
+              "meaning": "议论的人",
+              "type": "实词"
+            },
+            {
+              "word": "反",
+              "pinyin": "fǎn",
+              "meaning": "反而",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用、来",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "戮",
+              "pinyin": "lù",
+              "meaning": "杀戮",
+              "type": "实词"
+            },
+            {
+              "word": "黩刑",
+              "pinyin": "dú xíng",
+              "meaning": "滥用刑罚",
+              "type": "实词"
+            },
+            {
+              "word": "坏礼",
+              "pinyin": "huài lǐ",
+              "meaning": "破坏礼制",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用、来",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "典",
+              "pinyin": "diǎn",
+              "meaning": "典范",
+              "type": "实词"
+            },
+            {
+              "word": "明",
+              "pinyin": "míng",
+              "meaning": "明显",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "请下臣议附于令。有断斯狱者，不宜以前议从事。谨议。",
+      "translation": "恳请将我的奏议附载于法令之中。以后有审理这类案件的人，不应按照之前的建议来处理。恭敬地提出此议。",
+      "sentences": [
+        {
+          "original": "请下臣议附于令。",
+          "translation": "恳请将我的奏议附载于法令之中。",
+          "words": [
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "请求",
+              "type": "实词"
+            },
+            {
+              "word": "下臣",
+              "pinyin": "xià chén",
+              "meaning": "臣下",
+              "type": "实词"
+            },
+            {
+              "word": "议",
+              "pinyin": "yì",
+              "meaning": "议论",
+              "type": "实词"
+            },
+            {
+              "word": "附",
+              "pinyin": "fù",
+              "meaning": "附着",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词",
+              "type": "虚词"
+            },
+            {
+              "word": "令",
+              "pinyin": "lìng",
+              "meaning": "法令",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "有断斯狱者，不宜以前议从事。",
+          "translation": "以后有审理这类案件的人，不应按照之前的建议来处理。",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "存在",
+              "type": "实词"
+            },
+            {
+              "word": "断",
+              "pinyin": "duàn",
+              "meaning": "判决",
+              "type": "实词"
+            },
+            {
+              "word": "斯狱",
+              "pinyin": "sī yù",
+              "meaning": "这个案件",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定",
+              "type": "虚词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "前议",
+              "pinyin": "qián yì",
+              "meaning": "以前的议论",
+              "type": "实词"
+            },
+            {
+              "word": "从事",
+              "pinyin": "cóng shì",
+              "meaning": "办理",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "谨议。",
+          "translation": "恭敬地提出此议。",
+          "words": [
+            {
+              "word": "谨",
+              "pinyin": "jǐn",
+              "meaning": "恭敬地",
+              "type": "实词"
+            },
+            {
+              "word": "议",
+              "pinyin": "yì",
+              "meaning": "议论",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

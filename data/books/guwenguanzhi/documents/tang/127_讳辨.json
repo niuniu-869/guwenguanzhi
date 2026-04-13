@@ -1,0 +1,2222 @@
+{
+  "id": "127_讳辨",
+  "title": "讳辨",
+  "author": {
+    "id": "tang_韩愈",
+    "name": "韩愈",
+    "dynasty": "tang",
+    "bio": "韩愈（768年－824年），字退之，河南河阳（今河南孟州）人，世称韩昌黎。唐代杰出的文学家、思想家、哲学家，古文运动的倡导者，被尊为唐宋八大家之首。他倡导散文改革，反对六朝以来的骈俪文风，提倡质朴的古文。韩愈官至吏部侍郎，谥号‘文’，故又称韩文公。其作品收录于《韩昌黎集》，对后世文学影响深远。"
+  },
+  "source": "",
+  "dynasty": "tang",
+  "volume": 8,
+  "background": "《讳辨》是唐代文学家韩愈为友人李贺所作的一篇辩护文章。当时，李贺准备参加进士考试，但因父亲名‘晋肃’，‘进’与‘晋’谐音，被指责犯了避讳之忌，不应举进士。韩愈对此荒谬观点深感不满，遂写此文进行辩驳。文章创作于唐代避讳风气盛行的背景下，尤其在科举中，避讳成为士人晋升的障碍。李贺才华横溢，韩愈赏识其才，写此文不仅为李贺个人辩护，更是抨击这种不合理的社会习俗。韩愈通过引用经典法律和历史事例，批判了过度避讳的形式主义，主张合理的避讳规范，反映了他对社会风气的批判和改革精神。此文也体现了唐代法律对避讳的规定，韩愈巧妙地利用这些规定来反驳对手，推动理性思考。",
+  "appreciation": "《讳辨》是一篇杰出的论说文，展现了韩愈高超的论证技巧和文学才华。文章结构严谨，首先提出问题，然后引用法律条文‘二名不偏讳’和‘不讳嫌名’，并举例说明，如周公、孔子不讳二名，曾参不讳父名等，以证明避讳的合理性边界。韩愈运用大量反问句，如‘若父名“仁”，子不得为人乎？’，增强了文章的说服力和讽刺效果。语言简洁明快，逻辑层层递进，从经典到现实，从历史到当下，全面驳斥了过度避讳的荒谬。主题上，文章强调道德行为重于形式避讳，批判了当时社会舍本逐末的现象。修辞上，韩愈善用对比和排比，如将周公、孔子与宦官宫妾对比，突出避讳过度的可笑。文章还引用《春秋》等经典，增强权威性。从文学史看，《讳辨》是唐代散文的典范，对后世论说文有深远影响，体现了韩愈的古文运动精神，反对浮华文风，提倡质朴实用的散文。整体上，它不仅是一篇辩护词，更是一篇思想深刻、艺术精湛的文学作品。",
+  "tags": [
+    "避讳辩论",
+    "韩愈散文",
+    "唐代文学"
+  ],
+  "paragraphs": [
+    {
+      "original": "愈与李贺书，劝贺举进士。贺举进士有名，与贺争名者毁之曰：“贺父名晋肃，贺不举进士为是，劝之举者为非。”听者不察也，和而倡之，同然一辞，皇甫湜曰：“若不明白，子与贺且得罪。”愈曰：“然”。",
+      "translation": "韩愈写信给李贺，劝他参加进士考试。李贺参加进士考试有了名声，与李贺竞争的人诋毁他说：“李贺的父亲名叫晋肃，李贺不应该参加进士考试才是对的，劝他参加的人是错的。”听到的人不加以明察，就随声附和，众口一词。皇甫湜说：“如果不把这事辩白清楚，你和李贺都将获罪。”韩愈说：“是的。”",
+      "sentences": [
+        {
+          "original": "愈与李贺书，劝贺举进士。",
+          "translation": "韩愈写信给李贺，劝他参加进士考试。",
+          "words": [
+            {
+              "word": "愈",
+              "pinyin": "Yù",
+              "meaning": "韩愈",
+              "type": "人名"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "李贺",
+              "pinyin": "Lǐ Hè",
+              "meaning": "诗人李贺",
+              "type": "人名"
+            },
+            {
+              "word": "书",
+              "pinyin": "shū",
+              "meaning": "书信",
+              "type": "实词"
+            },
+            {
+              "word": "劝",
+              "pinyin": "quàn",
+              "meaning": "劝说",
+              "type": "实词"
+            },
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "举进士",
+              "pinyin": "jǔ jìnshì",
+              "meaning": "参加进士考试",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "贺举进士有名，与贺争名者毁之曰：“贺父名晋肃，贺不举进士为是，劝之举者为非。”",
+          "translation": "李贺参加进士考试有了名声，与李贺竞争的人诋毁他说：“李贺的父亲名叫晋肃，李贺不应该参加进士考试才是对的，劝他参加的人是错的。”",
+          "words": [
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "举进士",
+              "pinyin": "jǔ jìnshì",
+              "meaning": "参加进士考试",
+              "type": "实词"
+            },
+            {
+              "word": "有名",
+              "pinyin": "yǒu míng",
+              "meaning": "有名声",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "争名",
+              "pinyin": "zhēng míng",
+              "meaning": "争夺名声",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "毁",
+              "pinyin": "huǐ",
+              "meaning": "诋毁",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "晋肃",
+              "pinyin": "Jìn Sù",
+              "meaning": "李贺父名",
+              "type": "人名"
+            },
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "举进士",
+              "pinyin": "jǔ jìnshì",
+              "meaning": "参加进士考试",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "对的",
+              "type": "实词"
+            },
+            {
+              "word": "劝",
+              "pinyin": "quàn",
+              "meaning": "劝说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "参加",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "错的",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "听者不察也，和而倡之，同然一辞，",
+          "translation": "听到的人不加以明察，就随声附和，众口一词。",
+          "words": [
+            {
+              "word": "听",
+              "pinyin": "tīng",
+              "meaning": "听",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "察",
+              "pinyin": "chá",
+              "meaning": "明察",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            },
+            {
+              "word": "和",
+              "pinyin": "hè",
+              "meaning": "应和",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "倡",
+              "pinyin": "chàng",
+              "meaning": "倡导",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "同",
+              "pinyin": "tóng",
+              "meaning": "相同",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "这样",
+              "type": "虚词"
+            },
+            {
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "一种",
+              "type": "实词"
+            },
+            {
+              "word": "辞",
+              "pinyin": "cí",
+              "meaning": "言辞",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "皇甫湜曰：“若不明白，子与贺且得罪。”",
+          "translation": "皇甫湜说：“如果不把这事辩白清楚，你和李贺都将获罪。”",
+          "words": [
+            {
+              "word": "皇甫湜",
+              "pinyin": "Huángfǔ Shí",
+              "meaning": "皇甫湜",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "明白",
+              "pinyin": "míngbai",
+              "meaning": "清楚",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "将",
+              "type": "虚词"
+            },
+            {
+              "word": "得罪",
+              "pinyin": "dézuì",
+              "meaning": "获罪",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "愈曰：“然”。",
+          "translation": "韩愈说：“是的。”",
+          "words": [
+            {
+              "word": "愈",
+              "pinyin": "Yù",
+              "meaning": "韩愈",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "是的",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "律曰：“二名不偏讳。”释之者曰：“谓若言‘征’不称‘在’，言‘在’不称‘征’是也。”律曰：“不讳嫌名。”释之者曰：“谓若‘禹’与‘雨’、‘丘’与‘蓲’之类”是也。今贺父名晋肃，贺举进士，为犯二名律乎？为犯嫌名律乎？父名晋肃，子不得举进士。若父名“仁”，子不得为人乎？",
+      "translation": "法律说：‘两个字的名字不需要单独避讳每一个字。’解释的人说：‘意思是比如只说‘征’不说‘在’，或只说‘在’不说‘征’。’法律说：‘不避讳音近的字。’解释的人说：‘意思是比如‘禹’和‘雨’、‘丘’和‘蓲’这类。’现在李贺的父亲名叫晋肃，李贺参加进士考试，是违反了二名律呢？还是违反了嫌名律呢？父亲名叫晋肃，儿子就不能参加进士考试。如果父亲名叫‘仁’，儿子就不能做人了吗？",
+      "sentences": [
+        {
+          "original": "律曰：\"二名不偏讳。\"释之者曰：\"谓若言‘征’不称‘在’，言‘在’不称‘征’是也。\"",
+          "translation": "法律说：‘两个字的名字不需要单独避讳每一个字。’解释的人说：‘意思是比如只说‘征’不说‘在’，或只说‘在’不说‘征’。’",
+          "words": []
+        },
+        {
+          "original": "律曰：\"不讳嫌名。\"释之者曰：\"谓若‘禹’与‘雨’、‘丘’与‘蓲’之类\"是也。",
+          "translation": "法律说：‘不避讳音近的字。’解释的人说：‘意思是比如‘禹’和‘雨’、‘丘’和‘蓲’这类。’",
+          "words": []
+        },
+        {
+          "original": "今贺父名晋肃，贺举进士，为犯二名律乎？为犯嫌名律乎？",
+          "translation": "现在李贺的父亲名叫晋肃，李贺参加进士考试，是违反了二名律呢？还是违反了嫌名律呢？",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "贺",
+              "pinyin": "hè",
+              "meaning": "贺（人名）",
+              "type": "人名"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "晋肃",
+              "pinyin": "jìn sù",
+              "meaning": "晋肃（人名）",
+              "type": "人名"
+            },
+            {
+              "word": "贺",
+              "pinyin": "hè",
+              "meaning": "贺（人名）",
+              "type": "人名"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "参加",
+              "type": "实词"
+            },
+            {
+              "word": "进士",
+              "pinyin": "jìn shì",
+              "meaning": "进士",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "犯",
+              "pinyin": "fàn",
+              "meaning": "犯",
+              "type": "实词"
+            },
+            {
+              "word": "二名律",
+              "pinyin": "èr míng lǜ",
+              "meaning": "二名律",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "犯",
+              "pinyin": "fàn",
+              "meaning": "犯",
+              "type": "实词"
+            },
+            {
+              "word": "嫌名律",
+              "pinyin": "xián míng lǜ",
+              "meaning": "嫌名律",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "父名晋肃，子不得举进士。若父名\"仁\"，子不得为人乎？",
+          "translation": "父亲名叫晋肃，儿子就不能参加进士考试。如果父亲名叫‘仁’，儿子就不能做人了吗？",
+          "words": [
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名叫",
+              "type": "实词"
+            },
+            {
+              "word": "晋肃",
+              "pinyin": "jìn sù",
+              "meaning": "晋肃",
+              "type": "人名"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "参加",
+              "type": "实词"
+            },
+            {
+              "word": "进士",
+              "pinyin": "jìn shì",
+              "meaning": "进士考试",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名叫",
+              "type": "实词"
+            },
+            {
+              "word": "仁",
+              "pinyin": "rén",
+              "meaning": "仁",
+              "type": "人名"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "做",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "夫讳始于何时？作法制以教天下者，非周公、孔子欤？周公作诗不讳，孔子不偏讳二名，《春秋》不讥不讳嫌名，康王钊之孙，实为昭王。曾参之父名皙，曾子不讳“昔”。周之时有骐期，汉之时有杜度，此其子宜如何讳？将讳其嫌，遂讳其姓乎？将不讳其嫌者乎？汉讳武帝名“彻”为“通”，不闻又讳车辙之“辙”为某字也；讳吕后名“雉”为“野鸡”，不闻又讳治天下之“治”为某字也。今上章及诏，不闻讳“浒”、“势”、“秉”、“机”也。惟宦者宫妾，乃不敢言“谕”及“机”，以为触犯。士君子立言行事，宜何所法守也？今考之于经，质之于律，稽之以国家之典，贺举进士为可邪？为不可邪？",
+      "translation": "避讳是从什么时候开始的？制定礼法来教化天下的人，不就是周公、孔子吗？周公作诗时不避讳，孔子不偏避两个字的名字，《春秋》不讥讽不避讳嫌名。康王钊的孙子，实际上是昭王。曾参的父亲名叫皙，曾子不避讳“昔”字。周朝有骐期，汉朝有杜度，他们的儿子应该如何避讳？是要避讳嫌名，连姓也避讳呢？还是不避讳嫌名呢？汉朝避讳武帝的名字“彻”改为“通”，没听说又避讳车辙的“辙”字改为某个字；避讳吕后的名字“雉”改为“野鸡”，没听说又避讳治理天下的“治”字改为某个字。现在的奏章和诏书中，没听说避讳“浒”、“势”、“秉”、“机”这些字。只有宦官和宫女，才不敢说“谕”和“机”，认为会触犯。士君子说话做事，应该效法遵守什么呢？现在从经典中考察，用法律质证，用国家的典籍查考，李贺考进士是可以的呢？还是不可以的呢？",
+      "sentences": [
+        {
+          "original": "夫讳始于何时？",
+          "translation": "避讳是从什么时候开始的？",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fū",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "何时",
+              "pinyin": "hé shí",
+              "meaning": "什么时候",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "作法制以教天下者，非周公、孔子欤？",
+          "translation": "制定礼法来教化天下的人，不就是周公、孔子吗？",
+          "words": [
+            {
+              "word": "作",
+              "pinyin": "zuò",
+              "meaning": "制定",
+              "type": "实词"
+            },
+            {
+              "word": "法制",
+              "pinyin": "fǎ zhì",
+              "meaning": "法律制度",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "教",
+              "pinyin": "jiào",
+              "meaning": "教导",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下人",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "zhōu gōng",
+              "meaning": "周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "kǒng zǐ",
+              "meaning": "孔丘",
+              "type": "人名"
+            },
+            {
+              "word": "欤",
+              "pinyin": "yú",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "周公作诗不讳，孔子不偏讳二名，《春秋》不讥不讳嫌名，",
+          "translation": "周公作诗时不避讳，孔子不偏避两个字的名字，《春秋》不讥讽不避讳嫌名。",
+          "words": [
+            {
+              "word": "周公",
+              "pinyin": "zhōu gōng",
+              "meaning": "周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "作诗",
+              "pinyin": "zuò shī",
+              "meaning": "创作诗歌",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "kǒng zǐ",
+              "meaning": "孔丘",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "偏",
+              "pinyin": "piān",
+              "meaning": "偏颇",
+              "type": "实词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "二名",
+              "pinyin": "èr míng",
+              "meaning": "两个字名",
+              "type": "实词"
+            },
+            {
+              "word": "春秋",
+              "pinyin": "chūn qiū",
+              "meaning": "《春秋》",
+              "type": "典故"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "讥",
+              "pinyin": "jī",
+              "meaning": "讥讽",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "嫌名",
+              "pinyin": "xián míng",
+              "meaning": "音近名",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "康王钊之孙，实为昭王。",
+          "translation": "康王钊的孙子，实际上是昭王。",
+          "words": [
+            {
+              "word": "康王钊",
+              "pinyin": "kāng wáng zhāo",
+              "meaning": "周康王名钊",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "孙",
+              "pinyin": "sūn",
+              "meaning": "孙子",
+              "type": "实词"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "确实",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "昭王",
+              "pinyin": "zhāo wáng",
+              "meaning": "周昭王",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "曾参之父名皙，曾子不讳“昔”。",
+          "translation": "曾参的父亲名叫皙，曾子不避讳“昔”字。",
+          "words": [
+            {
+              "word": "曾参",
+              "pinyin": "zēng shēn",
+              "meaning": "孔子弟子",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "皙",
+              "pinyin": "xī",
+              "meaning": "曾皙",
+              "type": "人名"
+            },
+            {
+              "word": "曾子",
+              "pinyin": "zēng zǐ",
+              "meaning": "曾参尊称",
+              "type": "人名"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "昔",
+              "pinyin": "xī",
+              "meaning": "昔字",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "周之时有骐期，汉之时有杜度，此其子宜如何讳？",
+          "translation": "周朝有骐期，汉朝有杜度，他们的儿子应该如何避讳？",
+          "words": [
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周朝",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时代",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "虚词"
+            },
+            {
+              "word": "骐期",
+              "pinyin": "qí qí",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时代",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "虚词"
+            },
+            {
+              "word": "杜度",
+              "pinyin": "dù dù",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "虚词"
+            },
+            {
+              "word": "如何",
+              "pinyin": "rú hé",
+              "meaning": "怎么",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "将讳其嫌，遂讳其姓乎？将不讳其嫌者乎？",
+          "translation": "是要避讳嫌名，连姓也避讳呢？还是不避讳嫌名呢？",
+          "words": [
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "选择",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "嫌",
+              "pinyin": "xián",
+              "meaning": "嫌名",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "姓",
+              "pinyin": "xìng",
+              "meaning": "姓氏",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "选择",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "嫌",
+              "pinyin": "xián",
+              "meaning": "嫌名",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "汉讳武帝名“彻”为“通”，不闻又讳车辙之“辙”为某字也；",
+          "translation": "汉朝避讳武帝的名字“彻”改为“通”，没听说又避讳车辙的“辙”字改为某个字；",
+          "words": [
+            {
+              "word": "汉",
+              "pinyin": "Hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "武帝",
+              "pinyin": "Wǔdì",
+              "meaning": "汉武帝",
+              "type": "人名"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "彻",
+              "pinyin": "Chè",
+              "meaning": "汉武帝名",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "通",
+              "pinyin": "Tōng",
+              "meaning": "通字",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "车辙",
+              "pinyin": "chēzhé",
+              "meaning": "车辙",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "辙",
+              "pinyin": "zhé",
+              "meaning": "车辙",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "某",
+              "pinyin": "mǒu",
+              "meaning": "某个",
+              "type": "虚词"
+            },
+            {
+              "word": "字",
+              "pinyin": "zì",
+              "meaning": "字",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "讳吕后名“雉”为“野鸡”，不闻又讳治天下之“治”为某字也。",
+          "translation": "避讳吕后的名字“雉”改为“野鸡”，没听说又避讳治理天下的“治”字改为某个字。",
+          "words": [
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "吕后",
+              "pinyin": "Lǚhòu",
+              "meaning": "吕后",
+              "type": "人名"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "雉",
+              "pinyin": "Zhì",
+              "meaning": "吕后名",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "野鸡",
+              "pinyin": "yějī",
+              "meaning": "野鸡",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "治",
+              "pinyin": "zhì",
+              "meaning": "治理",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiānxià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "治",
+              "pinyin": "zhì",
+              "meaning": "治理",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "某",
+              "pinyin": "mǒu",
+              "meaning": "某个",
+              "type": "虚词"
+            },
+            {
+              "word": "字",
+              "pinyin": "zì",
+              "meaning": "字",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "今上章及诏，不闻讳“浒”、“势”、“秉”、“机”也。",
+          "translation": "现在的奏章和诏书中，没听说避讳“浒”、“势”、“秉”、“机”这些字。",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "上章",
+              "pinyin": "shàng zhāng",
+              "meaning": "上奏章表",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "诏",
+              "pinyin": "zhào",
+              "meaning": "诏书",
+              "type": "实词"
+            },
+            {
+              "word": "不闻",
+              "pinyin": "bù wén",
+              "meaning": "没有听说",
+              "type": "实词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "浒",
+              "pinyin": "hǔ",
+              "meaning": "水边",
+              "type": "实词"
+            },
+            {
+              "word": "势",
+              "pinyin": "shì",
+              "meaning": "势力",
+              "type": "实词"
+            },
+            {
+              "word": "秉",
+              "pinyin": "bǐng",
+              "meaning": "持握",
+              "type": "实词"
+            },
+            {
+              "word": "机",
+              "pinyin": "jī",
+              "meaning": "机巧",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "惟宦者宫妾，乃不敢言“谕”及“机”，以为触犯。",
+          "translation": "只有宦官和宫女，才不敢说“谕”和“机”，认为会触犯。",
+          "words": [
+            {
+              "word": "惟",
+              "pinyin": "wéi",
+              "meaning": "只有",
+              "type": "虚词"
+            },
+            {
+              "word": "宦者",
+              "pinyin": "huàn zhě",
+              "meaning": "宦官",
+              "type": "实词"
+            },
+            {
+              "word": "宫妾",
+              "pinyin": "gōng qiè",
+              "meaning": "宫女",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "才",
+              "type": "虚词"
+            },
+            {
+              "word": "不敢",
+              "pinyin": "bù gǎn",
+              "meaning": "不敢",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "谕",
+              "pinyin": "yù",
+              "meaning": "字谕",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "机",
+              "pinyin": "jī",
+              "meaning": "机巧",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "触犯",
+              "pinyin": "chù fàn",
+              "meaning": "触犯",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "士君子立言行事，宜何所法守也？",
+          "translation": "士君子说话做事，应该效法遵守什么呢？",
+          "words": [
+            {
+              "word": "士君子",
+              "pinyin": "shì jūn zǐ",
+              "meaning": "士人君子",
+              "type": "实词"
+            },
+            {
+              "word": "立言",
+              "pinyin": "lì yán",
+              "meaning": "立言",
+              "type": "实词"
+            },
+            {
+              "word": "行事",
+              "pinyin": "xíng shì",
+              "meaning": "行事",
+              "type": "实词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "虚词"
+            },
+            {
+              "word": "何所",
+              "pinyin": "hé suǒ",
+              "meaning": "何处",
+              "type": "实词"
+            },
+            {
+              "word": "法守",
+              "pinyin": "fǎ shǒu",
+              "meaning": "效法遵守",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "今考之于经，质之于律，稽之以国家之典，贺举进士为可邪？为不可邪？",
+          "translation": "现在从经典中考察，用法律质证，用国家的典籍查考，李贺考进士是可以的呢？还是不可以的呢？",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "虚词"
+            },
+            {
+              "word": "考",
+              "pinyin": "kǎo",
+              "meaning": "考察",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "经",
+              "pinyin": "jīng",
+              "meaning": "经书",
+              "type": "实词"
+            },
+            {
+              "word": "质",
+              "pinyin": "zhì",
+              "meaning": "质询",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "根据",
+              "type": "虚词"
+            },
+            {
+              "word": "律",
+              "pinyin": "lǜ",
+              "meaning": "法律",
+              "type": "实词"
+            },
+            {
+              "word": "稽",
+              "pinyin": "jī",
+              "meaning": "查考",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "国家",
+              "pinyin": "guó jiā",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "典",
+              "pinyin": "diǎn",
+              "meaning": "典籍",
+              "type": "实词"
+            },
+            {
+              "word": "贺",
+              "pinyin": "Hè",
+              "meaning": "李贺",
+              "type": "人名"
+            },
+            {
+              "word": "举进士",
+              "pinyin": "jǔ jìn shì",
+              "meaning": "考进士",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "不可以",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "凡事父母，得如曾参，可以无讥矣。作人得如周公、孔子，亦可以止矣。今世之士，不务行曾参、周公、孔子之行，而讳亲之名则务胜于曾参、周公、孔子，亦见其惑也。夫周公、孔子、曾参，卒不可胜。胜周公、孔子、曾参，乃比于宦官宫妾。则是宦官宫妾之孝于其亲，贤于周公、孔子、曾参者邪？",
+      "translation": "侍奉父母，如果能像曾参那样，就可以没有讥讽了。做人如果能像周公、孔子那样，也就可以到此为止了。当今的读书人，不努力实践曾参、周公、孔子的行为，而在避讳父母的名字上却力求超过曾参、周公、孔子，这也可见他们的迷惑。周公、孔子、曾参，终究是不可超越的。如果超过了周公、孔子、曾参，那就只能与宦官宫妾相比了。那么，宦官宫妾对父母的孝顺，难道比周公、孔子、曾参还要贤能吗？",
+      "sentences": [
+        {
+          "original": "凡事父母，得如曾参，可以无讥矣。",
+          "translation": "侍奉父母，如果能像曾参那样，就可以没有讥讽了。",
+          "words": [
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "父母",
+              "pinyin": "fù mǔ",
+              "meaning": "父母",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "曾参",
+              "pinyin": "Zēng Shēn",
+              "meaning": "曾子",
+              "type": "人名"
+            },
+            {
+              "word": "可以",
+              "pinyin": "kě yǐ",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "讥",
+              "pinyin": "jī",
+              "meaning": "讥讽",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "作人得如周公、孔子，亦可以止矣。",
+          "translation": "做人如果能像周公、孔子那样，也就可以到此为止了。",
+          "words": [
+            {
+              "word": "作",
+              "pinyin": "zuò",
+              "meaning": "做",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "像",
+              "type": "实词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng Zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "可以",
+              "pinyin": "kě yǐ",
+              "meaning": "可以",
+              "type": "虚词"
+            },
+            {
+              "word": "止",
+              "pinyin": "zhǐ",
+              "meaning": "停止",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "今世之士，不务行曾参、周公、孔子之行，而讳亲之名则务胜于曾参、周公、孔子，亦见其惑也。",
+          "translation": "当今的读书人，不努力实践曾参、周公、孔子的行为，而在避讳父母的名字上却力求超过曾参、周公、孔子，这也可见他们的迷惑。",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "时代",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "士",
+              "pinyin": "shì",
+              "meaning": "士人",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "务",
+              "pinyin": "wù",
+              "meaning": "致力",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "实行",
+              "type": "实词"
+            },
+            {
+              "word": "曾参",
+              "pinyin": "Zēng Shēn",
+              "meaning": "曾子",
+              "type": "人名"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng Zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "行为",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "避讳",
+              "type": "实词"
+            },
+            {
+              "word": "亲",
+              "pinyin": "qīn",
+              "meaning": "亲人",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名字",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "务",
+              "pinyin": "wù",
+              "meaning": "致力",
+              "type": "实词"
+            },
+            {
+              "word": "胜",
+              "pinyin": "shèng",
+              "meaning": "胜过",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "比",
+              "type": "虚词"
+            },
+            {
+              "word": "曾参",
+              "pinyin": "Zēng Shēn",
+              "meaning": "曾子",
+              "type": "人名"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng Zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看出",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "虚词"
+            },
+            {
+              "word": "惑",
+              "pinyin": "huò",
+              "meaning": "迷惑",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "夫周公、孔子、曾参，卒不可胜。",
+          "translation": "周公、孔子、曾参，终究是不可超越的。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng Zǐ",
+              "meaning": "孔丘",
+              "type": "人名"
+            },
+            {
+              "word": "曾参",
+              "pinyin": "Zēng Shēn",
+              "meaning": "曾子",
+              "type": "人名"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "最终",
+              "type": "虚词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "不能",
+              "type": "虚词"
+            },
+            {
+              "word": "胜",
+              "pinyin": "shèng",
+              "meaning": "超过",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "胜周公、孔子、曾参，乃比于宦官宫妾。",
+          "translation": "如果超过了周公、孔子、曾参，那就只能与宦官宫妾相比了。",
+          "words": [
+            {
+              "word": "胜",
+              "pinyin": "shèng",
+              "meaning": "超过",
+              "type": "实词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng Zǐ",
+              "meaning": "孔丘",
+              "type": "人名"
+            },
+            {
+              "word": "曾参",
+              "pinyin": "Zēng Shēn",
+              "meaning": "曾子",
+              "type": "人名"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "比于",
+              "pinyin": "bǐ yú",
+              "meaning": "比作于",
+              "type": "虚词"
+            },
+            {
+              "word": "宦官",
+              "pinyin": "huàn guān",
+              "meaning": "宦官",
+              "type": "实词"
+            },
+            {
+              "word": "宫妾",
+              "pinyin": "gōng qiè",
+              "meaning": "宫女",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "则是宦官宫妾之孝于其亲，贤于周公、孔子、曾参者邪？",
+          "translation": "那么，宦官宫妾对父母的孝顺，难道比周公、孔子、曾参还要贤能吗？",
+          "words": [
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "宦官",
+              "pinyin": "huàn guān",
+              "meaning": "宦官",
+              "type": "实词"
+            },
+            {
+              "word": "宫妾",
+              "pinyin": "gōng qiè",
+              "meaning": "宫女",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "孝",
+              "pinyin": "xiào",
+              "meaning": "孝道",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "虚词"
+            },
+            {
+              "word": "亲",
+              "pinyin": "qīn",
+              "meaning": "父母",
+              "type": "实词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "比",
+              "type": "虚词"
+            },
+            {
+              "word": "周公",
+              "pinyin": "Zhōu Gōng",
+              "meaning": "周公旦",
+              "type": "人名"
+            },
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng Zǐ",
+              "meaning": "孔丘",
+              "type": "人名"
+            },
+            {
+              "word": "曾参",
+              "pinyin": "Zēng Shēn",
+              "meaning": "曾子",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "...的人",
+              "type": "虚词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

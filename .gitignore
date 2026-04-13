@@ -41,3 +41,10 @@ data/articles/**/*_meta.json
 data/articles/**/*_trans.json
 data/articles/**/*_words.json
 data/quality_report.json
+
+# Multi-book pipeline: keep documents/, skip intermediate outputs
+data/books/*/output/
+data/books/*/raw_source/
+
+# Frontend public data: auto-generated symlinks from scripts/sync_frontend_data.py
+frontend/public/data/

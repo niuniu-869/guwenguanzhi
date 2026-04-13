@@ -1,0 +1,4186 @@
+{
+  "id": "013",
+  "book": "shiji",
+  "juan": 13,
+  "title": "三代世表",
+  "category": "biao",
+  "category_name": "表",
+  "order_in_category": 1,
+  "author": {
+    "name": "司马迁",
+    "dynasty": "西汉"
+  },
+  "summary": "本卷为《史记》中的世表部分，主要探讨五帝三代的历史记载与世系传承。太史公评论古代历史记载的模糊性，强调孔子整理历史时的谨慎态度，提出'疑则传疑'的原则。通过张夫子与褚先生的对话，解释契和后稷的神话出生传说，并追溯他们的后代如何建立商周王朝，涉及尧、汤、文王等人物。内容延伸至汉代，以霍光为例，说明黄帝后世的延续，突出天命和德泽在历史中的作用。整体旨在展示从黄帝到汉代的历史连续性和天命观念。",
+  "appreciation": "本卷在文学上采用对话体叙事，通过张夫子与褚先生的问答，生动呈现历史争议，增强可读性和思辨性。引用诗传和孔子言论，赋予内容权威性，名句如'信以传信，疑以传疑'体现司马迁的史学方法论，强调存疑与传信的平衡，展现严谨的史家精神。思想立场上，突出天命和德泽，认为王朝兴衰源于天命和祖先德行，如黄帝子孙复立为天子，反映汉代对天命观的推崇。叙事技法融合神话、历史与哲学，将契和后稷的传说与三代世系结合，调和神话与历史，体现《史记》的宏大视野和叙事创新。史学价值在于提供三代世系的参考框架，并记录汉代对古代传说的诠释，为后世研究上古史提供重要线索。",
+  "tags": [
+    "三代世表",
+    "天命观念",
+    "神话历史",
+    "史记叙事",
+    "黄帝后世"
+  ],
+  "key_figures": [
+    "黄帝",
+    "契",
+    "后稷",
+    "尧",
+    "褚先生",
+    "司马迁"
+  ],
+  "historical_period": "上古至三代时期（黄帝至周朝），延伸至汉代",
+  "paragraphs": [
+    {
+      "original": "太史公曰：五帝、三代之记，尚矣。自殷以前诸侯不可得而谱，周以来乃颇可著。孔子因史文次春秋，纪元年，正时日月，盖其详哉。至於序尚书则略，无年月；或颇有，然多阙，不可录。故疑则传疑，盖其慎也。",
+      "translation": "太史公说：五帝和三代的记载，已经很久远了。从殷商以前，诸侯的世系无法谱录，周朝以来才逐渐可以著录。孔子根据历史文献编次《春秋》，记录年份，订正时间，大概很详细了。至于编次《尚书》则简略，没有年月；或者有些有，但大多缺失，无法记录。所以有疑问就存疑，大概是为了谨慎。",
+      "sentences": [
+        {
+          "original": "太史公曰：五帝、三代之记，尚矣。",
+          "translation": "太史公说：五帝和三代的记载，已经很久远了。",
+          "words": [
+            {
+              "word": "太史公曰",
+              "pinyin": "tài shǐ gōng yuē",
+              "meaning": "太史公说",
+              "type": "官职"
+            },
+            {
+              "word": "五帝",
+              "pinyin": "wǔ dì",
+              "meaning": "五位帝王",
+              "type": "实词"
+            },
+            {
+              "word": "三代",
+              "pinyin": "sān dài",
+              "meaning": "夏商周三代",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "记",
+              "pinyin": "jì",
+              "meaning": "记载",
+              "type": "实词"
+            },
+            {
+              "word": "尚",
+              "pinyin": "shàng",
+              "meaning": "久远",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "自殷以前诸侯不可得而谱，周以来乃颇可著。",
+          "translation": "从殷商以前，诸侯的世系无法谱录，周朝以来才逐渐可以著录。",
+          "words": [
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "殷",
+              "pinyin": "yīn",
+              "meaning": "商朝",
+              "type": "实词"
+            },
+            {
+              "word": "以前",
+              "pinyin": "yǐ qián",
+              "meaning": "之前",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国",
+              "type": "实词"
+            },
+            {
+              "word": "不可得",
+              "pinyin": "bù kě dé",
+              "meaning": "不能够",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而",
+              "type": "虚词"
+            },
+            {
+              "word": "谱",
+              "pinyin": "pǔ",
+              "meaning": "谱系记录",
+              "type": "实词"
+            },
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周朝",
+              "type": "实词"
+            },
+            {
+              "word": "以来",
+              "pinyin": "yǐ lái",
+              "meaning": "以来",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "才",
+              "type": "虚词"
+            },
+            {
+              "word": "颇",
+              "pinyin": "pō",
+              "meaning": "稍微",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "著",
+              "pinyin": "zhù",
+              "meaning": "著录",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "孔子因史文次春秋，纪元年，正时日月，盖其详哉。",
+          "translation": "孔子根据历史文献编次《春秋》，记录年份，订正时间，大概很详细了。",
+          "words": [
+            {
+              "word": "孔子",
+              "pinyin": "kǒng zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "依据",
+              "type": "虚词"
+            },
+            {
+              "word": "史文",
+              "pinyin": "shǐ wén",
+              "meaning": "历史文献",
+              "type": "实词"
+            },
+            {
+              "word": "次",
+              "pinyin": "cì",
+              "meaning": "编排",
+              "type": "实词"
+            },
+            {
+              "word": "春秋",
+              "pinyin": "chūn qiū",
+              "meaning": "春秋经",
+              "type": "实词"
+            },
+            {
+              "word": "纪",
+              "pinyin": "jì",
+              "meaning": "记录",
+              "type": "实词"
+            },
+            {
+              "word": "元年",
+              "pinyin": "yuán nián",
+              "meaning": "元年",
+              "type": "实词"
+            },
+            {
+              "word": "正",
+              "pinyin": "zhèng",
+              "meaning": "校正",
+              "type": "实词"
+            },
+            {
+              "word": "时日月",
+              "pinyin": "shí rì yuè",
+              "meaning": "时间日期",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "详",
+              "pinyin": "xiáng",
+              "meaning": "详细",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "至於序尚书则略，无年月；或颇有，然多阙，不可录。",
+          "translation": "至于编次《尚书》则简略，没有年月；或者有些有，但大多缺失，无法记录。",
+          "words": [
+            {
+              "word": "至於",
+              "pinyin": "zhì yú",
+              "meaning": "至于",
+              "type": "虚词"
+            },
+            {
+              "word": "序",
+              "pinyin": "xù",
+              "meaning": "编排",
+              "type": "实词"
+            },
+            {
+              "word": "尚书",
+              "pinyin": "shàng shū",
+              "meaning": "尚书经",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "略",
+              "pinyin": "lüè",
+              "meaning": "简略",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "年月",
+              "pinyin": "nián yuè",
+              "meaning": "年月",
+              "type": "实词"
+            },
+            {
+              "word": "或",
+              "pinyin": "huò",
+              "meaning": "有的",
+              "type": "虚词"
+            },
+            {
+              "word": "颇",
+              "pinyin": "pō",
+              "meaning": "稍微",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "然而",
+              "type": "虚词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "阙",
+              "pinyin": "quē",
+              "meaning": "缺失",
+              "type": "实词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "不能",
+              "type": "实词"
+            },
+            {
+              "word": "录",
+              "pinyin": "lù",
+              "meaning": "记录",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "故疑则传疑，盖其慎也。",
+          "translation": "所以有疑问就存疑，大概是为了谨慎。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "疑",
+              "pinyin": "yí",
+              "meaning": "疑问",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传述",
+              "type": "实词"
+            },
+            {
+              "word": "疑",
+              "pinyin": "yí",
+              "meaning": "疑问",
+              "type": "实词"
+            },
+            {
+              "word": "盖",
+              "pinyin": "gài",
+              "meaning": "大概",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "虚词"
+            },
+            {
+              "word": "慎",
+              "pinyin": "shèn",
+              "meaning": "谨慎",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "余读谍记，黄帝以来皆有年数。稽其历谱谍终始五德之传，古文咸不同，乖异。夫子之弗论次其年月，岂虚哉！於是以五帝系谍、尚书集世纪黄帝以来讫共和为世表。",
+      "translation": "我阅读谱谍记录，从黄帝以来都有年数。考察这些历谱、谱谍以及五德终始的传承，古代文献都不同，相互矛盾。孔子不讨论编排这些年月，难道是虚妄的吗！于是根据五帝系谍、尚书等汇集记载，从黄帝以来到共和时期，编制成世表。",
+      "sentences": [
+        {
+          "original": "余读谍记，黄帝以来皆有年数。",
+          "translation": "我阅读谱谍记录，从黄帝以来都有年数。",
+          "words": [
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "读",
+              "pinyin": "dú",
+              "meaning": "阅读",
+              "type": "实词"
+            },
+            {
+              "word": "谍记",
+              "pinyin": "dié jì",
+              "meaning": "谱谍记录",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "黄帝",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "以来",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "年数",
+              "pinyin": "nián shù",
+              "meaning": "年代数",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "稽其历谱谍终始五德之传，古文咸不同，乖异。",
+          "translation": "考察这些历谱、谱谍以及五德终始的传承，古代文献都不同，相互矛盾。",
+          "words": [
+            {
+              "word": "稽",
+              "pinyin": "jī",
+              "meaning": "考察",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那些",
+              "type": "虚词"
+            },
+            {
+              "word": "历谱谍",
+              "pinyin": "lì pǔ dié",
+              "meaning": "历法谱谍",
+              "type": "实词"
+            },
+            {
+              "word": "终始",
+              "pinyin": "zhōng shǐ",
+              "meaning": "始终",
+              "type": "实词"
+            },
+            {
+              "word": "五德",
+              "pinyin": "wǔ dé",
+              "meaning": "五行德运",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传承",
+              "type": "实词"
+            },
+            {
+              "word": "古文",
+              "pinyin": "gǔ wén",
+              "meaning": "古代文献",
+              "type": "实词"
+            },
+            {
+              "word": "咸",
+              "pinyin": "xián",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "不同",
+              "pinyin": "bù tóng",
+              "meaning": "不相同",
+              "type": "实词"
+            },
+            {
+              "word": "乖异",
+              "pinyin": "guāi yì",
+              "meaning": "差异大",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫子之弗论次其年月，岂虚哉！",
+          "translation": "孔子不讨论编排这些年月，难道是虚妄的吗！",
+          "words": [
+            {
+              "word": "夫子",
+              "pinyin": "fū zǐ",
+              "meaning": "孔子",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "弗",
+              "pinyin": "fú",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "论次",
+              "pinyin": "lùn cì",
+              "meaning": "论列编次",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那些",
+              "type": "虚词"
+            },
+            {
+              "word": "年月",
+              "pinyin": "nián yuè",
+              "meaning": "年代",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "虚",
+              "pinyin": "xū",
+              "meaning": "虚妄",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "於是以五帝系谍、尚书集世纪黄帝以来讫共和为世表。",
+          "translation": "于是根据五帝系谍、尚书等汇集记载，从黄帝以来到共和时期，编制成世表。",
+          "words": [
+            {
+              "word": "於是",
+              "pinyin": "yú shì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "五帝系谍",
+              "pinyin": "wǔ dì xì dié",
+              "meaning": "五帝系谱记录",
+              "type": "实词"
+            },
+            {
+              "word": "尚书",
+              "pinyin": "shàng shū",
+              "meaning": "《尚书》",
+              "type": "典故"
+            },
+            {
+              "word": "集",
+              "pinyin": "jí",
+              "meaning": "汇集",
+              "type": "实词"
+            },
+            {
+              "word": "世纪",
+              "pinyin": "shì jì",
+              "meaning": "世代记录",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "黄帝",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "以来",
+              "type": "实词"
+            },
+            {
+              "word": "讫",
+              "pinyin": "qì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "共和",
+              "pinyin": "gòng hé",
+              "meaning": "共和时期",
+              "type": "年号"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "世表",
+              "pinyin": "shì biǎo",
+              "meaning": "世表",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "（表略）张夫子问褚先生曰：“诗言契、后稷皆无父而生。今案诸传记咸言有父，父皆黄帝子也，得无与诗谬乎？”褚先生曰：“不然。诗言契生於卵，后稷人迹者，欲见其有天命精诚之意耳。",
+      "translation": "张夫子问褚先生说：“《诗经》中说契和后稷都没有父亲而生。现在考察各种传记都说他们有父亲，而且父亲都是黄帝的儿子，这难道不是与《诗经》相矛盾吗？”褚先生回答说：“不对。《诗经》中说契从卵中生，后稷从人的足迹中生，是为了显示他们有天命精诚的意思。”",
+      "sentences": [
+        {
+          "original": "张夫子问褚先生曰：“诗言契、后稷皆无父而生。今案诸传记咸言有父，父皆黄帝子也，得无与诗谬乎？”",
+          "translation": "张夫子问褚先生说：“《诗经》中说契和后稷都没有父亲而生。现在考察各种传记都说他们有父亲，而且父亲都是黄帝的儿子，这难道不是与《诗经》相矛盾吗？”",
+          "words": [
+            {
+              "word": "张夫子",
+              "pinyin": "zhāng fū zǐ",
+              "meaning": "张姓学者",
+              "type": "人名"
+            },
+            {
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问",
+              "type": "实词"
+            },
+            {
+              "word": "褚先生",
+              "pinyin": "chǔ xiān sheng",
+              "meaning": "褚姓先生",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "《诗经》",
+              "type": "典故"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "契",
+              "pinyin": "xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "案",
+              "pinyin": "àn",
+              "meaning": "考察",
+              "type": "实词"
+            },
+            {
+              "word": "诸",
+              "pinyin": "zhū",
+              "meaning": "各",
+              "type": "实词"
+            },
+            {
+              "word": "传记",
+              "pinyin": "zhuàn jì",
+              "meaning": "传记文献",
+              "type": "实词"
+            },
+            {
+              "word": "咸",
+              "pinyin": "xián",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝子",
+              "pinyin": "huáng dì zǐ",
+              "meaning": "黄帝的儿子",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "得无",
+              "pinyin": "dé wú",
+              "meaning": "难道不是",
+              "type": "成语"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "《诗经》",
+              "type": "典故"
+            },
+            {
+              "word": "谬",
+              "pinyin": "miù",
+              "meaning": "错误",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "褚先生曰：“不然。诗言契生於卵，后稷人迹者，欲见其有天命精诚之意耳。”",
+          "translation": "褚先生说：“不对。《诗经》中说契从卵中生，后稷从人的足迹中生，是为了显示他们有天命精诚的意思。”",
+          "words": [
+            {
+              "word": "褚先生",
+              "pinyin": "chǔ xiān sheng",
+              "meaning": "褚姓先生",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "不是这样",
+              "type": "成语"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "《诗经》",
+              "type": "典故"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "契",
+              "pinyin": "xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "卵",
+              "pinyin": "luǎn",
+              "meaning": "蛋",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "人迹",
+              "pinyin": "rén jì",
+              "meaning": "人的足迹",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "显示",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "天命精诚",
+              "pinyin": "tiān mìng jīng chéng",
+              "meaning": "天命与精诚",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "意思",
+              "type": "实词"
+            },
+            {
+              "word": "耳",
+              "pinyin": "ěr",
+              "meaning": "罢了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "鬼神不能自成，须人而生，柰何无父而生乎！一言有父，一言无父，信以传信，疑以传疑，故两言之。尧知契、稷皆贤人，天之所生，故封之契七十里，后十馀世至汤，王天下。尧知后稷子孙之后王也，故益封之百里，其后世且千岁，至文王而有天下。诗传曰：‘汤之先为契，无父而生。契母与姊妹浴於玄丘水，有燕衔卵堕之，契母得，故含之，误吞之，即生契。契生而贤，尧立为司徒，姓之曰子氏。子者兹；兹，益大也。诗人美而颂之曰“殷社芒芒，天命玄鸟，降而生商”。",
+      "translation": "鬼神不能自我形成，必须依靠人才能产生，怎么能没有父亲而出生呢！一种说法有父亲，一种说法没有父亲，可信的就传述可信的，可疑的就传述可疑的，所以两种说法都记录下来。尧知道契和后稷都是贤人，是上天所生的，所以封给契七十里土地，后来经过十多代到了汤，统治了天下。尧知道后稷的子孙将来会称王，所以增封给他百里土地，他的后代将近千年，到了文王就拥有了天下。诗传说：“汤的祖先是契，没有父亲而生。契的母亲和姐妹在玄丘水洗澡，有燕子衔着卵掉下来，契的母亲捡到，所以含着它，不小心吞了下去，于是生下了契。契生下来就很贤能，尧任命他为司徒，赐姓为子氏。子的意思是兹；兹，是增益壮大的意思。诗人赞美并歌颂说‘殷商的土地广阔，上天命令玄鸟，降下来生了商’。”",
+      "sentences": [
+        {
+          "original": "鬼神不能自成，须人而生，柰何无父而生乎！",
+          "translation": "鬼神不能自我形成，必须依靠人才能产生，怎么能没有父亲而出生呢！",
+          "words": [
+            {
+              "word": "鬼神",
+              "pinyin": "guǐ shén",
+              "meaning": "鬼怪神灵",
+              "type": "实词"
+            },
+            {
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "不能够",
+              "type": "实词"
+            },
+            {
+              "word": "自成",
+              "pinyin": "zì chéng",
+              "meaning": "自己形成",
+              "type": "实词"
+            },
+            {
+              "word": "须人",
+              "pinyin": "xū rén",
+              "meaning": "需要人",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "柰何",
+              "pinyin": "nài hé",
+              "meaning": "如何、为什么",
+              "type": "实词"
+            },
+            {
+              "word": "无父",
+              "pinyin": "wú fù",
+              "meaning": "没有父亲",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "疑问语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "一言有父，一言无父，信以传信，疑以传疑，故两言之。",
+          "translation": "一种说法有父亲，一种说法没有父亲，可信的就传述可信的，可疑的就传述可疑的，所以两种说法都记录下来。",
+          "words": [
+            {
+              "word": "一言",
+              "pinyin": "yī yán",
+              "meaning": "一种说法",
+              "type": "实词"
+            },
+            {
+              "word": "有父",
+              "pinyin": "yǒu fù",
+              "meaning": "有父亲",
+              "type": "实词"
+            },
+            {
+              "word": "一言",
+              "pinyin": "yī yán",
+              "meaning": "一种说法",
+              "type": "实词"
+            },
+            {
+              "word": "无父",
+              "pinyin": "wú fù",
+              "meaning": "没有父亲",
+              "type": "实词"
+            },
+            {
+              "word": "信以传信",
+              "pinyin": "xìn yǐ chuán xìn",
+              "meaning": "相信的就传相信的",
+              "type": "成语"
+            },
+            {
+              "word": "疑以传疑",
+              "pinyin": "yí yǐ chuán yí",
+              "meaning": "怀疑的就传怀疑的",
+              "type": "成语"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "两言",
+              "pinyin": "liǎng yán",
+              "meaning": "两种说法",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "尧知契、稷皆贤人，天之所生，故封之契七十里，后十馀世至汤，王天下。",
+          "translation": "尧知道契和后稷都是贤人，是上天所生的，所以封给契七十里土地，后来经过十多代到了汤，统治了天下。",
+          "words": [
+            {
+              "word": "尧",
+              "pinyin": "Yáo",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "稷",
+              "pinyin": "Jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "贤人",
+              "pinyin": "xián rén",
+              "meaning": "贤能的人",
+              "type": "实词"
+            },
+            {
+              "word": "天之所生",
+              "pinyin": "tiān zhī suǒ shēng",
+              "meaning": "天所生的",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "封",
+              "pinyin": "fēng",
+              "meaning": "分封",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "七十里",
+              "pinyin": "qī shí lǐ",
+              "meaning": "七十里地",
+              "type": "实词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "之后",
+              "type": "实词"
+            },
+            {
+              "word": "十馀世",
+              "pinyin": "shí yú shì",
+              "meaning": "十多代",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "汤",
+              "pinyin": "Tāng",
+              "meaning": "商朝开国君主",
+              "type": "人名"
+            },
+            {
+              "word": "王天下",
+              "pinyin": "wàng tiān xià",
+              "meaning": "统治天下",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "尧知后稷子孙之后王也，故益封之百里，其后世且千岁，至文王而有天下。",
+          "translation": "尧知道后稷的子孙将来会称王，所以增封给他百里土地，他的后代将近千年，到了文王就拥有了天下。",
+          "words": [
+            {
+              "word": "尧",
+              "pinyin": "Yáo",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "Hòu Jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "子孙",
+              "pinyin": "zǐ sūn",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "之后王",
+              "pinyin": "zhī hòu wàng",
+              "meaning": "之后称王",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "益封",
+              "pinyin": "yì fēng",
+              "meaning": "增加封地",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "百里",
+              "pinyin": "bǎi lǐ",
+              "meaning": "一百里地",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的",
+              "type": "虚词"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "将近",
+              "type": "虚词"
+            },
+            {
+              "word": "千岁",
+              "pinyin": "qiān suì",
+              "meaning": "一千年",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "文王",
+              "pinyin": "Wén Wáng",
+              "meaning": "周文王",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "有天下",
+              "pinyin": "yǒu tiān xià",
+              "meaning": "拥有天下",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诗传曰：‘汤之先为契，无父而生。契母与姊妹浴於玄丘水，有燕衔卵堕之，契母得，故含之，误吞之，即生契。契生而贤，尧立为司徒，姓之曰子氏。子者兹；兹，益大也。诗人美而颂之曰“殷社芒芒，天命玄鸟，降而生商”。’",
+          "translation": "诗传说：“汤的祖先是契，没有父亲而生。契的母亲和姐妹在玄丘水洗澡，有燕子衔着卵掉下来，契的母亲捡到，所以含着它，不小心吞了下去，于是生下了契。契生下来就很贤能，尧任命他为司徒，赐姓为子氏。子的意思是兹；兹，是增益壮大的意思。诗人赞美并歌颂说‘殷商的土地广阔，上天命令玄鸟，降下来生了商’。”",
+          "words": [
+            {
+              "word": "诗传",
+              "pinyin": "shī zhuàn",
+              "meaning": "诗经传注",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "汤",
+              "pinyin": "Tāng",
+              "meaning": "商朝开国君主",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "祖先",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "无父",
+              "pinyin": "wú fù",
+              "meaning": "没有父亲",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "契母",
+              "pinyin": "Xiè mǔ",
+              "meaning": "契的母亲",
+              "type": "人名"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "姊妹",
+              "pinyin": "zǐ mèi",
+              "meaning": "姐妹",
+              "type": "实词"
+            },
+            {
+              "word": "浴",
+              "pinyin": "yù",
+              "meaning": "洗澡",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "玄丘水",
+              "pinyin": "xuán qiū shuǐ",
+              "meaning": "水名",
+              "type": "地名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "燕",
+              "pinyin": "yàn",
+              "meaning": "燕子",
+              "type": "实词"
+            },
+            {
+              "word": "衔",
+              "pinyin": "xián",
+              "meaning": "衔着",
+              "type": "实词"
+            },
+            {
+              "word": "卵",
+              "pinyin": "luǎn",
+              "meaning": "卵",
+              "type": "实词"
+            },
+            {
+              "word": "堕",
+              "pinyin": "duò",
+              "meaning": "掉落",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，它",
+              "type": "虚词"
+            },
+            {
+              "word": "契母",
+              "pinyin": "Xiè mǔ",
+              "meaning": "契的母亲",
+              "type": "人名"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "得到",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "含",
+              "pinyin": "hán",
+              "meaning": "含着",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，它",
+              "type": "虚词"
+            },
+            {
+              "word": "误",
+              "pinyin": "wù",
+              "meaning": "误",
+              "type": "实词"
+            },
+            {
+              "word": "吞",
+              "pinyin": "tūn",
+              "meaning": "吞下",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，它",
+              "type": "虚词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "生下",
+              "type": "实词"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商始祖",
+              "type": "人名"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "尧",
+              "pinyin": "Yáo",
+              "meaning": "古代帝王",
+              "type": "人名"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "立",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "司徒",
+              "pinyin": "sī tú",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "姓",
+              "pinyin": "xìng",
+              "meaning": "赐姓",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "叫",
+              "type": "虚词"
+            },
+            {
+              "word": "子氏",
+              "pinyin": "Zǐ shì",
+              "meaning": "姓氏",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "子",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "是",
+              "type": "虚词"
+            },
+            {
+              "word": "兹",
+              "pinyin": "zī",
+              "meaning": "兹",
+              "type": "实词"
+            },
+            {
+              "word": "兹",
+              "pinyin": "zī",
+              "meaning": "兹",
+              "type": "实词"
+            },
+            {
+              "word": "益大",
+              "pinyin": "yì dà",
+              "meaning": "增益大",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气",
+              "type": "虚词"
+            },
+            {
+              "word": "诗人",
+              "pinyin": "shī rén",
+              "meaning": "诗人",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "赞美",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "颂",
+              "pinyin": "sòng",
+              "meaning": "颂扬",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "殷社",
+              "pinyin": "Yīn shè",
+              "meaning": "殷商社稷",
+              "type": "典故"
+            },
+            {
+              "word": "芒芒",
+              "pinyin": "máng máng",
+              "meaning": "广阔",
+              "type": "实词"
+            },
+            {
+              "word": "天命",
+              "pinyin": "tiān mìng",
+              "meaning": "天命",
+              "type": "实词"
+            },
+            {
+              "word": "玄鸟",
+              "pinyin": "xuán niǎo",
+              "meaning": "玄鸟",
+              "type": "实词"
+            },
+            {
+              "word": "降",
+              "pinyin": "jiàng",
+              "meaning": "降下",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "诞生",
+              "type": "实词"
+            },
+            {
+              "word": "商",
+              "pinyin": "Shāng",
+              "meaning": "商朝",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "商者质，殷号也。文王之先为后稷，后稷亦无父而生。后稷母为姜嫄，出见大人迹而履践之，知於身，则生后稷。姜嫄以为无父，贱而弃之道中，牛羊避不践也。抱之山中，山者养之。又捐之大泽，鸟覆席食之。姜嫄怪之，於是知其天子，乃取长之。尧知其贤才，立以为大农，姓之曰姬氏。姬者，本也。诗人美而颂之曰“厥初生民”，深修益成，而道后稷之始也。’孔子曰：‘昔者尧命契为子氏，为有汤也。命后稷为姬氏，为有文王也。大王命季历，明天瑞也。太伯之吴，遂生源也。’天命难言，非圣人莫能见。舜、禹、契、后稷皆黄帝子孙也。",
+      "translation": "商朝质朴，是殷的称号。文王的祖先是后稷，后稷也是无父而生。后稷的母亲是姜嫄，她外出时看见一个巨人的足迹，踩上去后身体感应，于是生下了后稷。姜嫄认为他没有父亲，觉得卑贱就把他丢弃在路上，但牛羊都避开不踩他。抱到山里，山里人养育他。又丢弃在大泽中，鸟儿用翅膀覆盖他并喂食。姜嫄觉得奇怪，于是明白他是天子之命，就取回抚养他长大。尧知道他的贤能，任命他为大农，赐姓姬氏。姬，意思是根本。诗人赞美并歌颂他说“厥初生民”，他深入修行日益成就，这述说了后稷的起源。孔子说：“从前尧赐契为子氏，是为了后来有汤。赐后稷为姬氏，是为了后来有文王。大王任命季历，是显示天降祥瑞。太伯前往吴地，于是衍生了后代的源头。”天命难以言说，不是圣人就不能洞察。舜、禹、契、后稷都是黄帝的子孙。",
+      "sentences": [
+        {
+          "original": "商者质，殷号也。",
+          "translation": "商朝质朴，是殷的称号。",
+          "words": [
+            {
+              "word": "商",
+              "pinyin": "shāng",
+              "meaning": "商朝",
+              "type": "地名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "质",
+              "pinyin": "zhì",
+              "meaning": "质朴",
+              "type": "实词"
+            },
+            {
+              "word": "殷号",
+              "pinyin": "yīn hào",
+              "meaning": "殷的称号",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词，表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "文王之先为后稷，后稷亦无父而生。",
+          "translation": "文王的祖先是后稷，后稷也是无父而生。",
+          "words": [
+            {
+              "word": "文王",
+              "pinyin": "wén wáng",
+              "meaning": "周文王",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "祖先",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "后稷，周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "后稷，周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "无父",
+              "pinyin": "wú fù",
+              "meaning": "没有父亲",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "后稷母为姜嫄，出见大人迹而履践之，知於身，则生后稷。",
+          "translation": "后稷的母亲是姜嫄，她外出时看见一个巨人的足迹，踩上去后身体感应，于是生下了后稷。",
+          "words": [
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "后稷",
+              "type": "人名"
+            },
+            {
+              "word": "母",
+              "pinyin": "mǔ",
+              "meaning": "母亲",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "姜嫄",
+              "pinyin": "jiāng yuán",
+              "meaning": "姜嫄，后稷母",
+              "type": "人名"
+            },
+            {
+              "word": "出见",
+              "pinyin": "chū jiàn",
+              "meaning": "出去看见",
+              "type": "实词"
+            },
+            {
+              "word": "大人迹",
+              "pinyin": "dà rén jì",
+              "meaning": "大人的足迹",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "履践",
+              "pinyin": "lǚ jiàn",
+              "meaning": "踩踏",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指足迹",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "介词，在",
+              "type": "虚词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "身体，指怀孕",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "连词，就",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "生下",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "后稷",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "姜嫄以为无父，贱而弃之道中，牛羊避不践也。抱之山中，山者养之。又捐之大泽，鸟覆席食之。",
+          "translation": "姜嫄认为他没有父亲，觉得卑贱就把他丢弃在路上，但牛羊都避开不踩他。抱到山里，山里人养育他。又丢弃在大泽中，鸟儿用翅膀覆盖他并喂食。",
+          "words": [
+            {
+              "word": "姜嫄",
+              "pinyin": "jiāng yuán",
+              "meaning": "姜嫄",
+              "type": "人名"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "无父",
+              "pinyin": "wú fù",
+              "meaning": "没有父亲",
+              "type": "实词"
+            },
+            {
+              "word": "贱",
+              "pinyin": "jiàn",
+              "meaning": "轻视",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表因果",
+              "type": "虚词"
+            },
+            {
+              "word": "弃",
+              "pinyin": "qì",
+              "meaning": "抛弃",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指后稷",
+              "type": "虚词"
+            },
+            {
+              "word": "道中",
+              "pinyin": "dào zhōng",
+              "meaning": "道路中",
+              "type": "实词"
+            },
+            {
+              "word": "牛羊",
+              "pinyin": "niú yáng",
+              "meaning": "牛和羊",
+              "type": "实词"
+            },
+            {
+              "word": "避",
+              "pinyin": "bì",
+              "meaning": "躲避",
+              "type": "实词"
+            },
+            {
+              "word": "不践",
+              "pinyin": "bù jiàn",
+              "meaning": "不踩踏",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词，表陈述",
+              "type": "虚词"
+            },
+            {
+              "word": "抱",
+              "pinyin": "bào",
+              "meaning": "抱起",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指后稷",
+              "type": "虚词"
+            },
+            {
+              "word": "山中",
+              "pinyin": "shān zhōng",
+              "meaning": "山中",
+              "type": "实词"
+            },
+            {
+              "word": "山者",
+              "pinyin": "shān zhě",
+              "meaning": "山神或山中之物",
+              "type": "实词"
+            },
+            {
+              "word": "养",
+              "pinyin": "yǎng",
+              "meaning": "养育",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指后稷",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "捐",
+              "pinyin": "juān",
+              "meaning": "丢弃",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指后稷",
+              "type": "虚词"
+            },
+            {
+              "word": "大泽",
+              "pinyin": "dà zé",
+              "meaning": "大湖",
+              "type": "实词"
+            },
+            {
+              "word": "鸟",
+              "pinyin": "niǎo",
+              "meaning": "鸟",
+              "type": "实词"
+            },
+            {
+              "word": "覆席",
+              "pinyin": "fù xí",
+              "meaning": "覆盖垫席，指鸟翼覆盖",
+              "type": "实词"
+            },
+            {
+              "word": "食",
+              "pinyin": "sì",
+              "meaning": "喂食",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指后稷",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "姜嫄怪之，於是知其天子，乃取长之。",
+          "translation": "姜嫄觉得奇怪，于是明白他是天子之命，就取回抚养他长大。",
+          "words": [
+            {
+              "word": "姜嫄",
+              "pinyin": "jiāng yuán",
+              "meaning": "姜嫄",
+              "type": "人名"
+            },
+            {
+              "word": "怪",
+              "pinyin": "guài",
+              "meaning": "感到奇怪",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指此事",
+              "type": "虚词"
+            },
+            {
+              "word": "於是",
+              "pinyin": "yú shì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他",
+              "type": "虚词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "天子",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "取回",
+              "type": "实词"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "抚养",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指后稷",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "尧知其贤才，立以为大农，姓之曰姬氏。姬者，本也。",
+          "translation": "尧知道他的贤能，任命他为大农，赐姓姬氏。姬，意思是根本。",
+          "words": [
+            {
+              "word": "尧",
+              "pinyin": "Yáo",
+              "meaning": "传说中的帝王",
+              "type": "人名"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道,了解",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的,指后稷",
+              "type": "实词"
+            },
+            {
+              "word": "贤才",
+              "pinyin": "xián cái",
+              "meaning": "贤能的人才",
+              "type": "实词"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "任命,设立",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来,介词",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为,担任",
+              "type": "实词"
+            },
+            {
+              "word": "大农",
+              "pinyin": "dà nóng",
+              "meaning": "官职,掌管农业",
+              "type": "官职"
+            },
+            {
+              "word": "姓",
+              "pinyin": "xìng",
+              "meaning": "赐姓",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他,代词",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "叫做",
+              "type": "实词"
+            },
+            {
+              "word": "姬氏",
+              "pinyin": "Jī shì",
+              "meaning": "姓氏",
+              "type": "人名"
+            },
+            {
+              "word": "姬",
+              "pinyin": "Jī",
+              "meaning": "姓氏",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词,表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "本",
+              "pinyin": "běn",
+              "meaning": "根本,本源",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词,表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "诗人美而颂之曰“厥初生民”，深修益成，而道后稷之始也。",
+          "translation": "诗人赞美并歌颂他说“厥初生民”，他深入修行日益成就，这述说了后稷的起源。",
+          "words": [
+            {
+              "word": "诗人",
+              "pinyin": "shī rén",
+              "meaning": "诗歌作者",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "赞美",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词,并且",
+              "type": "虚词"
+            },
+            {
+              "word": "颂",
+              "pinyin": "sòng",
+              "meaning": "歌颂",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词,它",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "厥初生民",
+              "pinyin": "jué chū shēng mín",
+              "meaning": "诗句,最初生民",
+              "type": "典故"
+            },
+            {
+              "word": "深修益成",
+              "pinyin": "shēn xiū yì chéng",
+              "meaning": "深入修行,日益成就",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词,然后",
+              "type": "虚词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dào",
+              "meaning": "讲述",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "Hòu jì",
+              "meaning": "周朝始祖",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词,的",
+              "type": "虚词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "孔子曰：‘昔者尧命契为子氏，为有汤也。命后稷为姬氏，为有文王也。大王命季历，明天瑞也。太伯之吴，遂生源也。’",
+          "translation": "孔子说：“从前尧赐契为子氏，是为了后来有汤。赐后稷为姬氏，是为了后来有文王。大王任命季历，是显示天降祥瑞。太伯前往吴地，于是衍生了后代的源头。”",
+          "words": [
+            {
+              "word": "孔子",
+              "pinyin": "Kǒng zǐ",
+              "meaning": "儒家创始人",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "昔",
+              "pinyin": "xī",
+              "meaning": "从前",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词,表时间",
+              "type": "虚词"
+            },
+            {
+              "word": "尧",
+              "pinyin": "Yáo",
+              "meaning": "帝王",
+              "type": "人名"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商朝始祖",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "子氏",
+              "pinyin": "Zǐ shì",
+              "meaning": "姓氏",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "汤",
+              "pinyin": "Tāng",
+              "meaning": "商朝开国君主",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "Hòu jì",
+              "meaning": "周朝始祖",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "姬氏",
+              "pinyin": "Jī shì",
+              "meaning": "姓氏",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "文王",
+              "pinyin": "Wén wáng",
+              "meaning": "周文王",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "大王",
+              "pinyin": "Dài wáng",
+              "meaning": "指古公亶父",
+              "type": "人名"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "季历",
+              "pinyin": "Jì lì",
+              "meaning": "周文王之父",
+              "type": "人名"
+            },
+            {
+              "word": "明",
+              "pinyin": "míng",
+              "meaning": "表明",
+              "type": "实词"
+            },
+            {
+              "word": "天瑞",
+              "pinyin": "tiān ruì",
+              "meaning": "天降祥瑞",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "太伯",
+              "pinyin": "Tài bó",
+              "meaning": "周太王长子",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "去,到",
+              "type": "实词"
+            },
+            {
+              "word": "吴",
+              "pinyin": "Wú",
+              "meaning": "地名,吴地",
+              "type": "地名"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "实词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "产生",
+              "type": "实词"
+            },
+            {
+              "word": "源",
+              "pinyin": "yuán",
+              "meaning": "源头",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "天命难言，非圣人莫能见。",
+          "translation": "天命难以言说，不是圣人就不能洞察。",
+          "words": [
+            {
+              "word": "天命",
+              "pinyin": "tiān mìng",
+              "meaning": "天意,命运",
+              "type": "实词"
+            },
+            {
+              "word": "难言",
+              "pinyin": "nán yán",
+              "meaning": "难以言说",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "圣人",
+              "pinyin": "shèng rén",
+              "meaning": "德行高超的人",
+              "type": "实词"
+            },
+            {
+              "word": "莫",
+              "pinyin": "mò",
+              "meaning": "没有谁",
+              "type": "实词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看见,洞察",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "舜、禹、契、后稷皆黄帝子孙也。",
+          "translation": "舜、禹、契、后稷都是黄帝的子孙。",
+          "words": [
+            {
+              "word": "舜",
+              "pinyin": "Shùn",
+              "meaning": "帝王",
+              "type": "人名"
+            },
+            {
+              "word": "禹",
+              "pinyin": "Yǔ",
+              "meaning": "夏朝开国君主",
+              "type": "人名"
+            },
+            {
+              "word": "契",
+              "pinyin": "Xiè",
+              "meaning": "商朝始祖",
+              "type": "人名"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "Hòu jì",
+              "meaning": "周朝始祖",
+              "type": "人名"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "Huáng dì",
+              "meaning": "中华民族始祖",
+              "type": "人名"
+            },
+            {
+              "word": "子孙",
+              "pinyin": "zǐ sūn",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "黄帝策天命而治天下，德泽深后世，故其子孙皆复立为天子，是天之报有德也。",
+      "translation": "黄帝根据天命治理天下，恩泽深远地惠及后世，因此他的子孙都再次被立为天子，这体现了上天对有德之人的回报。",
+      "sentences": [
+        {
+          "original": "黄帝策天命而治天下，德泽深后世",
+          "translation": "黄帝根据天命治理天下，恩泽深远地惠及后世。",
+          "words": [
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "传说中的帝王",
+              "type": "人名"
+            },
+            {
+              "word": "策",
+              "pinyin": "cè",
+              "meaning": "占卜",
+              "type": "实词"
+            },
+            {
+              "word": "天命",
+              "pinyin": "tiān mìng",
+              "meaning": "天的命令",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "治天下",
+              "pinyin": "zhì tiān xià",
+              "meaning": "治理国家",
+              "type": "实词"
+            },
+            {
+              "word": "德泽",
+              "pinyin": "dé zé",
+              "meaning": "恩德",
+              "type": "实词"
+            },
+            {
+              "word": "深",
+              "pinyin": "shēn",
+              "meaning": "深厚",
+              "type": "实词"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "故其子孙皆复立为天子，是天之报有德也。",
+          "translation": "所以他的子孙都再次被立为天子，这是上天对有德之人的回报。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "子孙",
+              "pinyin": "zǐ sūn",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "立为",
+              "pinyin": "lì wéi",
+              "meaning": "立为",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "帝王",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "天",
+              "pinyin": "tiān",
+              "meaning": "天",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "报",
+              "pinyin": "bào",
+              "meaning": "报答",
+              "type": "实词"
+            },
+            {
+              "word": "有德",
+              "pinyin": "yǒu dé",
+              "meaning": "有德行的人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "人不知，以为氾从布衣匹夫起耳。夫布衣匹夫安能无故而起王天下乎？其有天命然。”",
+      "translation": "人们不知道，以为氾是从平民百姓兴起罢了。那些平民百姓怎么能无缘无故地兴起而统治天下呢？这是因为他们有天命的缘故。",
+      "sentences": [
+        {
+          "original": "人不知，以为氾从布衣匹夫起耳。",
+          "translation": "人们不知道，以为氾是从平民百姓兴起罢了。",
+          "words": [
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人们",
+              "type": "实词"
+            },
+            {
+              "word": "不知",
+              "pinyin": "bù zhī",
+              "meaning": "不知道",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "氾",
+              "pinyin": "fán",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "从",
+              "type": "实词"
+            },
+            {
+              "word": "布衣匹夫",
+              "pinyin": "bù yī pǐ fū",
+              "meaning": "平民百姓",
+              "type": "成语"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "起家",
+              "type": "实词"
+            },
+            {
+              "word": "耳",
+              "pinyin": "ěr",
+              "meaning": "而已",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫布衣匹夫安能无故而起王天下乎？",
+          "translation": "那些平民百姓怎么能无缘无故地兴起而统治天下呢？",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "实词"
+            },
+            {
+              "word": "布衣匹夫",
+              "pinyin": "bù yī pǐ fū",
+              "meaning": "平民百姓",
+              "type": "成语"
+            },
+            {
+              "word": "安能",
+              "pinyin": "ān néng",
+              "meaning": "怎么能",
+              "type": "实词"
+            },
+            {
+              "word": "无故",
+              "pinyin": "wú gù",
+              "meaning": "无缘无故",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而",
+              "type": "虚词"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "起",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wàng",
+              "meaning": "称王",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其有天命然。",
+          "translation": "这是因为他们有天命的缘故。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "天命",
+              "pinyin": "tiān mìng",
+              "meaning": "天命",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "这样",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "“黄帝后世何王天下之久远邪？”曰：“传云天下之君王为万夫之黔首请赎民之命者帝，有福万世。黄帝是也。",
+      "translation": "黄帝的后代为什么统治天下这么久远呢？回答说：“传说中，天下的君王是万民的黔首，为百姓请命赎命的人称帝，有福于万世。黄帝就是这样。”",
+      "sentences": [
+        {
+          "original": "黄帝后世何王天下之久远邪？",
+          "translation": "黄帝的后代为什么统治天下这么久远呢？",
+          "words": [
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "传说帝王",
+              "type": "人名"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代子孙",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "为什么",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wàng",
+              "meaning": "统治",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "久远",
+              "pinyin": "jiǔ yuǎn",
+              "meaning": "长久",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曰：“传云天下之君王为万夫之黔首请赎民之命者帝，有福万世。黄帝是是也。”",
+          "translation": "说：“传说中，天下的君王是万民的黔首，为百姓请命赎命的人称帝，有福于万世。黄帝就是这样。”",
+          "words": []
+        }
+      ]
+    },
+    {
+      "original": "五政明则修礼义，因天时举兵征伐而利者王，有福千世。蜀王，黄帝后世也，至今在汉西南五千里，常来朝降，输献於汉，非以其先之有德，泽流后世邪？行道德岂可以忽乎哉！人君王者举而观之。汉大将军霍子孟名光者，亦黄帝后世也。",
+      "translation": "政治修明就能修整礼义，顺应天时出兵征伐而得利的人可以称王，福泽绵延千代。蜀王是黄帝的后世，至今在汉朝西南五千里处，常常来朝见归降，向汉朝进贡，这难道不是因为他祖先有德行，恩泽流传后世吗？践行道德怎么可以忽视呢！作为君王的人应该举出此事来观察。汉朝的大将军霍子孟，名光，也是黄帝的后世。",
+      "sentences": [
+        {
+          "original": "五政明则修礼义，因天时举兵征伐而利者王，有福千世。",
+          "translation": "政治修明就能修整礼义，顺应天时出兵征伐而得利的人可以称王，福泽绵延千代。",
+          "words": [
+            {
+              "word": "五政",
+              "pinyin": "wǔ zhèng",
+              "meaning": "五种政事",
+              "type": "实词"
+            },
+            {
+              "word": "明",
+              "pinyin": "míng",
+              "meaning": "清明",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "修习",
+              "type": "实词"
+            },
+            {
+              "word": "礼义",
+              "pinyin": "lǐ yì",
+              "meaning": "礼仪道义",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "天时",
+              "pinyin": "tiān shí",
+              "meaning": "天时",
+              "type": "实词"
+            },
+            {
+              "word": "举兵",
+              "pinyin": "jǔ bīng",
+              "meaning": "起兵",
+              "type": "实词"
+            },
+            {
+              "word": "征伐",
+              "pinyin": "zhēng fá",
+              "meaning": "征讨",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "承接",
+              "type": "虚词"
+            },
+            {
+              "word": "利",
+              "pinyin": "lì",
+              "meaning": "得利",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的人",
+              "type": "虚词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wàng",
+              "meaning": "称王",
+              "type": "实词"
+            },
+            {
+              "word": "有福",
+              "pinyin": "yǒu fú",
+              "meaning": "享有福分",
+              "type": "实词"
+            },
+            {
+              "word": "千世",
+              "pinyin": "qiān shì",
+              "meaning": "千代",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "蜀王，黄帝后世也，至今在汉西南五千里，常来朝降，输献於汉，非以其先之有德，泽流后世邪？",
+          "translation": "蜀王是黄帝的后世，至今在汉朝西南五千里处，常常来朝见归降，向汉朝进贡，这难道不是因为他祖先有德行，恩泽流传后世吗？",
+          "words": [
+            {
+              "word": "蜀王",
+              "pinyin": "shǔ wáng",
+              "meaning": "蜀国君主",
+              "type": "人名"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "黄帝",
+              "type": "人名"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "判断语气",
+              "type": "虚词"
+            },
+            {
+              "word": "至今",
+              "pinyin": "zhì jīn",
+              "meaning": "到现在",
+              "type": "实词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "位于",
+              "type": "实词"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "西南",
+              "pinyin": "xī nán",
+              "meaning": "西南方向",
+              "type": "实词"
+            },
+            {
+              "word": "五千里",
+              "pinyin": "wǔ qiān lǐ",
+              "meaning": "五千里距离",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "实词"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "前来",
+              "type": "实词"
+            },
+            {
+              "word": "朝降",
+              "pinyin": "cháo jiàng",
+              "meaning": "朝见投降",
+              "type": "实词"
+            },
+            {
+              "word": "输献",
+              "pinyin": "shū xiàn",
+              "meaning": "进献",
+              "type": "实词"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "向",
+              "type": "虚词"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "其先",
+              "pinyin": "qí xiān",
+              "meaning": "他的祖先",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "有德",
+              "pinyin": "yǒu dé",
+              "meaning": "具有德行",
+              "type": "实词"
+            },
+            {
+              "word": "泽流后世",
+              "pinyin": "zé liú hòu shì",
+              "meaning": "恩泽流传后代",
+              "type": "成语"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "反问语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "行道德岂可以忽乎哉！",
+          "translation": "践行道德怎么可以忽视呢！",
+          "words": [
+            {
+              "word": "行道德",
+              "pinyin": "xíng dào dé",
+              "meaning": "实行道德",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "忽",
+              "pinyin": "hū",
+              "meaning": "忽视",
+              "type": "实词"
+            },
+            {
+              "word": "乎哉",
+              "pinyin": "hū zāi",
+              "meaning": "感叹语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "人君王者举而观之。",
+          "translation": "作为君王的人应该举出此事来观察。",
+          "words": [
+            {
+              "word": "人君王者",
+              "pinyin": "rén jūn wáng zhě",
+              "meaning": "君主帝王",
+              "type": "实词"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "举用",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "承接",
+              "type": "虚词"
+            },
+            {
+              "word": "观",
+              "pinyin": "guān",
+              "meaning": "观察",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "汉大将军霍子孟名光者，亦黄帝后世也。",
+          "translation": "汉朝的大将军霍子孟，名光，也是黄帝的后世。",
+          "words": [
+            {
+              "word": "汉大将军",
+              "pinyin": "hàn dà jiāng jūn",
+              "meaning": "汉朝大将军",
+              "type": "官职"
+            },
+            {
+              "word": "霍子孟名光者",
+              "pinyin": "huò zǐ mèng míng guāng zhě",
+              "meaning": "霍光字子孟",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也是",
+              "type": "实词"
+            },
+            {
+              "word": "黄帝后世",
+              "pinyin": "huáng dì hòu shì",
+              "meaning": "黄帝后代",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "判断语气",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "此可为博闻远见者言，固难为浅闻者说也。何以言之？古诸侯以国为姓。霍者，国名也。武王封弟叔处於霍，后世晋献公灭霍公，后世为庶民，往来居平阳。平阳在河东，河东晋地，分为卫国。以诗言之，亦可为周世。周起后稷，后稷无父而生。以三代世传言之，后稷有父名高辛；高辛，黄帝曾孙。黄帝终始传曰：‘汉兴百有馀年，有人不短不长，出白燕之乡，持天下之政，时有婴儿主，却行车。’霍将军者，本居平阳白燕。臣为郎时，与方士考功会旗亭下，为臣言。岂不伟哉！”",
+      "translation": "这可以对博闻远见的人说，本来就难以对见识浅薄的人讲。为什么这么说呢？古代诸侯以国名作为姓氏。霍，是一个国名。武王将弟弟叔处封在霍地，后来晋献公灭了霍公，后代成为平民，往来居住在平阳。平阳在河东，河东是晋地，后来分为卫国。从诗经来看，也可以算是周朝的世代。周朝起源于后稷，后稷没有父亲而出生。根据三代世表的传说，后稷有父亲名叫高辛；高辛是黄帝的曾孙。黄帝终始传说：“汉朝兴起一百多年后，有个人不高不矮，出自白燕乡，掌握天下政权，当时有婴儿皇帝，却行车。”霍将军，本来居住在平阳的白燕。我担任郎官时，与方士考功在旗亭下相会，他告诉我。难道不伟大吗！",
+      "sentences": [
+        {
+          "original": "此可为博闻远见者言，固难为浅闻者说也。",
+          "translation": "这可以对博闻远见的人说，本来就难以对见识浅薄的人讲。",
+          "words": [
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "对",
+              "type": "虚词"
+            },
+            {
+              "word": "博闻远见者",
+              "pinyin": "bó wén yuǎn jiàn zhě",
+              "meaning": "见闻广博见识远大的人",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "本来",
+              "type": "虚词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "困难",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "对",
+              "type": "虚词"
+            },
+            {
+              "word": "浅闻者",
+              "pinyin": "qiǎn wén zhě",
+              "meaning": "见闻浅薄的人",
+              "type": "实词"
+            },
+            {
+              "word": "说",
+              "pinyin": "shuō",
+              "meaning": "解释",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "何以言之？",
+          "translation": "为什么这么说呢？",
+          "words": [
+            {
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "为什么",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "古诸侯以国为姓。霍者，国名也。",
+          "translation": "古代诸侯以国名作为姓氏。霍，是一个国名。",
+          "words": [
+            {
+              "word": "古",
+              "pinyin": "gǔ",
+              "meaning": "古代",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "姓",
+              "pinyin": "xìng",
+              "meaning": "姓氏",
+              "type": "实词"
+            },
+            {
+              "word": "霍",
+              "pinyin": "huò",
+              "meaning": "霍国",
+              "type": "地名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "国名",
+              "pinyin": "guó míng",
+              "meaning": "国家名称",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "武王封弟叔处於霍，后世晋献公灭霍公，后世为庶民，往来居平阳。",
+          "translation": "武王将弟弟叔处封在霍地，后来晋献公灭了霍公，后代成为平民，往来居住在平阳。",
+          "words": [
+            {
+              "word": "武王",
+              "pinyin": "wǔ wáng",
+              "meaning": "周武王",
+              "type": "人名"
+            },
+            {
+              "word": "封",
+              "pinyin": "fēng",
+              "meaning": "分封",
+              "type": "实词"
+            },
+            {
+              "word": "弟",
+              "pinyin": "dì",
+              "meaning": "弟弟",
+              "type": "实词"
+            },
+            {
+              "word": "叔处",
+              "pinyin": "shū chù",
+              "meaning": "叔处",
+              "type": "人名"
+            },
+            {
+              "word": "於",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "霍",
+              "pinyin": "huò",
+              "meaning": "霍地",
+              "type": "地名"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "晋献公",
+              "pinyin": "jìn xiàn gōng",
+              "meaning": "晋献公",
+              "type": "人名"
+            },
+            {
+              "word": "灭",
+              "pinyin": "miè",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "霍公",
+              "pinyin": "huò gōng",
+              "meaning": "霍国君主",
+              "type": "人名"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "庶民",
+              "pinyin": "shù mín",
+              "meaning": "平民",
+              "type": "实词"
+            },
+            {
+              "word": "往来",
+              "pinyin": "wǎng lái",
+              "meaning": "来往",
+              "type": "实词"
+            },
+            {
+              "word": "居",
+              "pinyin": "jū",
+              "meaning": "居住",
+              "type": "实词"
+            },
+            {
+              "word": "平阳",
+              "pinyin": "píng yáng",
+              "meaning": "平阳",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "平阳在河东，河东晋地，分为卫国。",
+          "translation": "平阳在河东，河东是晋地，后来分为卫国。",
+          "words": [
+            {
+              "word": "平阳",
+              "pinyin": "píng yáng",
+              "meaning": "平阳",
+              "type": "地名"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "位于",
+              "type": "实词"
+            },
+            {
+              "word": "河东",
+              "pinyin": "hé dōng",
+              "meaning": "河东地区",
+              "type": "地名"
+            },
+            {
+              "word": "河东",
+              "pinyin": "hé dōng",
+              "meaning": "河东地区",
+              "type": "地名"
+            },
+            {
+              "word": "晋地",
+              "pinyin": "jìn dì",
+              "meaning": "晋国之地",
+              "type": "实词"
+            },
+            {
+              "word": "分为",
+              "pinyin": "fēn wéi",
+              "meaning": "划分成为",
+              "type": "实词"
+            },
+            {
+              "word": "卫国",
+              "pinyin": "wèi guó",
+              "meaning": "卫国",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "以诗言之，亦可为周世。",
+          "translation": "从诗经来看，也可以算是周朝的世代。",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "诗经",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "可以",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周朝",
+              "type": "地名"
+            },
+            {
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "世代",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "周起后稷，后稷无父而生。",
+          "translation": "周朝起源于后稷，后稷没有父亲而出生。",
+          "words": [
+            {
+              "word": "周",
+              "pinyin": "zhōu",
+              "meaning": "周朝",
+              "type": "地名"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "起源",
+              "type": "实词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "以三代世传言之，后稷有父名高辛；高辛，黄帝曾孙。",
+          "translation": "根据三代世表的传说，后稷有父亲名叫高辛；高辛是黄帝的曾孙。",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "根据",
+              "type": "虚词"
+            },
+            {
+              "word": "三代",
+              "pinyin": "sān dài",
+              "meaning": "夏商周",
+              "type": "实词"
+            },
+            {
+              "word": "世传",
+              "pinyin": "shì chuán",
+              "meaning": "世代传承",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "后稷",
+              "pinyin": "hòu jì",
+              "meaning": "周始祖",
+              "type": "人名"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名叫",
+              "type": "实词"
+            },
+            {
+              "word": "高辛",
+              "pinyin": "gāo xīn",
+              "meaning": "帝喾",
+              "type": "人名"
+            },
+            {
+              "word": "高辛",
+              "pinyin": "gāo xīn",
+              "meaning": "帝喾",
+              "type": "人名"
+            },
+            {
+              "word": "黄帝",
+              "pinyin": "huáng dì",
+              "meaning": "华夏始祖",
+              "type": "人名"
+            },
+            {
+              "word": "曾孙",
+              "pinyin": "zēng sūn",
+              "meaning": "曾孙",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "黄帝终始传曰：‘汉兴百有馀年，有人不短不长，出白燕之乡，持天下之政，时有婴儿主，却行车。’",
+          "translation": "黄帝终始传说：“汉朝兴起一百多年后，有个人不高不矮，出自白燕乡，掌握天下政权，当时有婴儿皇帝，却行车。”",
+          "words": [
+            {
+              "word": "黄帝终始传",
+              "pinyin": "huáng dì zhōng shǐ zhuàn",
+              "meaning": "书名或典故",
+              "type": "典故"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "兴起",
+              "type": "实词"
+            },
+            {
+              "word": "百",
+              "pinyin": "bǎi",
+              "meaning": "一百",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "馀年",
+              "pinyin": "yú nián",
+              "meaning": "多年",
+              "type": "实词"
+            },
+            {
+              "word": "有人",
+              "pinyin": "yǒu rén",
+              "meaning": "有人",
+              "type": "实词"
+            },
+            {
+              "word": "不短不长",
+              "pinyin": "bù duǎn bù cháng",
+              "meaning": "身材中等",
+              "type": "成语"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出自",
+              "type": "实词"
+            },
+            {
+              "word": "白燕之乡",
+              "pinyin": "bái yàn zhī xiāng",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "持",
+              "pinyin": "chí",
+              "meaning": "掌握",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "天下",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政权",
+              "type": "实词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "当时",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "婴儿主",
+              "pinyin": "yīng ér zhǔ",
+              "meaning": "婴儿皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "却行车",
+              "pinyin": "què xíng chē",
+              "meaning": "车倒退",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "霍将军者，本居平阳白燕。",
+          "translation": "霍将军，本来居住在平阳的白燕。",
+          "words": [
+            {
+              "word": "霍将军",
+              "pinyin": "huò jiāng jūn",
+              "meaning": "将军",
+              "type": "官职"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词",
+              "type": "虚词"
+            },
+            {
+              "word": "本",
+              "pinyin": "běn",
+              "meaning": "本来",
+              "type": "实词"
+            },
+            {
+              "word": "居",
+              "pinyin": "jū",
+              "meaning": "居住",
+              "type": "实词"
+            },
+            {
+              "word": "平阳白燕",
+              "pinyin": "píng yáng bái yàn",
+              "meaning": "地名",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "臣为郎时，与方士考功会旗亭下，为臣言。",
+          "translation": "我担任郎官时，与方士考功在旗亭下相会，他告诉我。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "担任",
+              "type": "实词"
+            },
+            {
+              "word": "郎",
+              "pinyin": "láng",
+              "meaning": "郎官",
+              "type": "官职"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "方士",
+              "pinyin": "fāng shì",
+              "meaning": "方士",
+              "type": "实词"
+            },
+            {
+              "word": "考功",
+              "pinyin": "kǎo gōng",
+              "meaning": "考功官",
+              "type": "官职"
+            },
+            {
+              "word": "会",
+              "pinyin": "huì",
+              "meaning": "会面",
+              "type": "实词"
+            },
+            {
+              "word": "旗亭",
+              "pinyin": "qí tíng",
+              "meaning": "市楼",
+              "type": "地名"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "下面",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "对",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "岂不伟哉！",
+          "translation": "难道不伟大吗！",
+          "words": [
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "伟",
+              "pinyin": "wěi",
+              "meaning": "伟大",
+              "type": "实词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "shiji",
+  "legacyId": "shiji_013"
+}

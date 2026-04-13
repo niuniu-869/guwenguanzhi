@@ -1,0 +1,1118 @@
+{
+  "id": "026_产告范宣子轻币",
+  "title": "产告范宣子轻币",
+  "author": {
+    "id": "pre_qin_左丘明",
+    "name": "左丘明",
+    "dynasty": "pre_qin",
+    "bio": "左丘明，春秋末期鲁国史学家，相传为《左传》的作者。生卒年不详，大约与孔子（公元前551年—前479年）同时代。他姓丘名明，因其世代担任左史官，故称左丘明，双目失明，故又称“盲左”。左丘明学识渊博，品德高尚，孔子在《论语》中称赞其为“君子”。他编撰的《左传》是中国古代第一部叙事详细的编年体史书，记载了春秋时期的历史事件，文学价值极高，对后世史学和文学影响深远；相传《国语》也出自其手。他的作品以生动的叙事、深刻的见解和优美的语言著称，是研究先秦历史和文化的重要资料。"
+  },
+  "source": "左传",
+  "dynasty": "pre_qin",
+  "volume": 2,
+  "background": "本文出自《左传》，记载了春秋时期郑国政治家子产劝说晋国执政范宣子减轻诸侯贡品的事件。当时，晋国作为中原霸主，向附属国征收重币（贡品），以维持其霸权地位，但过重的负担导致小国如郑国不堪重负，民生凋敝。郑伯于鲁襄公二十四年（公元前549年）二月访问晋国，试图交涉此事。子产（公孙侨）作为郑国的执政大夫，通过子西转交一封书信给范宣子，以德政和令名的重要性为核心论点，劝说其减轻贡品。这一事件反映了春秋时期诸侯国之间复杂的外交关系和政治博弈，子产的劝说最终成功，体现了以理服人、以德化人的政治智慧，也揭示了当时小国在大国压力下的生存策略。",
+  "appreciation": "本文是《左传》中一篇杰出的外交辞令，展现了子产高超的劝说艺术和文学造诣。文章以书信形式展开，结构严谨，逻辑清晰：先指出范宣子只闻重币而未闻令德，引发对方反思；接着论证令名与德行对国家长治久安的重要性，引用《诗经》如“乐只君子，邦家之基”和“上帝临女，无贰尔心”，增强文化底蕴和说服力；最后以“象有齿以焚其身”的比喻，警示贪婪贿赂终将自取灭亡，形象深刻。修辞上，运用对比、排比和比喻，如“诸侯贰，则晋国坏；晋国贰，则子之家坏”，层层递进，气势磅礴，语言简练而富有感染力。思想上，文章体现了儒家德政理念，强调为政以德、轻利重名，认为“令名，德之舆也；德，国家之基也”，将道德声誉视为国家根基，对后世政治哲学有深远影响。整篇文章叙事精炼，辞令优美，是先秦历史散文的典范，展现了《左传》“微而显，志而晦”的文学特色。",
+  "tags": [
+    "春秋外交",
+    "德政思想",
+    "左传文学"
+  ],
+  "paragraphs": [
+    {
+      "original": "范宣子为政，诸侯之币重。郑人病之。",
+      "translation": "范宣子执政时，诸侯的贡赋负担沉重。郑国人对此深感忧虑。",
+      "sentences": [
+        {
+          "original": "范宣子为政，诸侯之币重。",
+          "translation": "范宣子执政，诸侯的贡赋沉重。",
+          "words": [
+            {
+              "word": "范宣子",
+              "pinyin": "Fàn Xuān zǐ",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "为政",
+              "pinyin": "wéi zhèng",
+              "meaning": "执政",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "币",
+              "pinyin": "bì",
+              "meaning": "贡品",
+              "type": "实词"
+            },
+            {
+              "word": "重",
+              "pinyin": "zhòng",
+              "meaning": "沉重",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "郑人病之。",
+          "translation": "郑国人对此感到苦恼。",
+          "words": [
+            {
+              "word": "郑人",
+              "pinyin": "Zhèng rén",
+              "meaning": "郑国人",
+              "type": "实词"
+            },
+            {
+              "word": "病",
+              "pinyin": "bìng",
+              "meaning": "担忧",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "二月，郑伯如晋。子产寓书于子西以告宣子，曰：“子为晋国，四邻诸侯，不闻令德，而闻重币，侨也惑之。侨闻君子长国家者，非无贿之患，而无令名之难。夫诸侯之贿聚于公室，则诸侯贰。若吾子赖之，则晋国贰。诸侯贰，则晋国坏；晋国贰，则子之家坏。何没没也！将焉用贿？夫令名，德之舆也；德，国家之基也。有基无坏，无亦是务乎！有德则乐，乐则能久。《诗》云：‘乐只君子，邦家之基。’有令德也夫！‘上帝临女，无贰尔心。’有令名也夫！恕思以明德，则令名载而行之，是以远至迩安。毋宁使人谓子‘子实生我’，而谓‘子浚我以生’乎？象有齿以焚其身，贿也。”",
+      "translation": "二月，郑伯前往晋国。子产托子西带信给宣子，信中说：“您治理晋国，四方诸侯没有听到美德，却听到加重贡币，我对此感到困惑。我听说君子治理国家，不担心没有财富，而担心没有好名声。如果诸侯的财富都聚集在公室，那么诸侯就会有二心。如果您依赖这些财富，那么晋国就会有二心。诸侯有二心，晋国就会受损；晋国有二心，您的家族就会受损。何必这样执迷不悟呢！哪里用得着这些财富？好名声，是德行的载体；德行，是国家的根基。有了根基就不会败坏，何不致力于此呢！有德行就会快乐，快乐就能长久。《诗经》说：‘快乐的君子，是国家的根基。’这就是有美德啊！‘上帝监视着你，不要有二心。’这就是有好名声啊！以宽厚之心来彰显德行，那么好名声就会载着德行传播，因此远方的人来归附，近处的人安心。宁愿让人们说‘您确实养活了我们’，还是说‘您榨取我们来养活自己’呢？象因为有象牙而招致杀身之祸，就是因为象牙值钱啊。”",
+      "sentences": [
+        {
+          "original": "二月，郑伯如晋。",
+          "translation": "二月，郑伯前往晋国。",
+          "words": [
+            {
+              "word": "二月",
+              "pinyin": "èr yuè",
+              "meaning": "第二个月",
+              "type": "实词"
+            },
+            {
+              "word": "郑伯",
+              "pinyin": "Zhèng bó",
+              "meaning": "郑国君主",
+              "type": "人名"
+            },
+            {
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "去、往",
+              "type": "实词"
+            },
+            {
+              "word": "晋",
+              "pinyin": "Jìn",
+              "meaning": "晋国",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "子产寓书于子西以告宣子，曰：“子为晋国，四邻诸侯，不闻令德，而闻重币，侨也惑之。”",
+          "translation": "子产托子西带信给宣子，信中说：“您治理晋国，四方诸侯没有听到美德，却听到加重贡币，我对此感到困惑。”",
+          "words": [
+            {
+              "word": "子产",
+              "pinyin": "Zǐ chǎn",
+              "meaning": "郑国大夫",
+              "type": "人名"
+            },
+            {
+              "word": "寓书",
+              "pinyin": "yù shū",
+              "meaning": "寄信",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "给、向",
+              "type": "虚词"
+            },
+            {
+              "word": "子西",
+              "pinyin": "Zǐ xī",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "告",
+              "pinyin": "gào",
+              "meaning": "告诉",
+              "type": "实词"
+            },
+            {
+              "word": "宣子",
+              "pinyin": "Xuān zǐ",
+              "meaning": "范宣子",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "治理",
+              "type": "实词"
+            },
+            {
+              "word": "晋国",
+              "pinyin": "Jìn guó",
+              "meaning": "晋国",
+              "type": "地名"
+            },
+            {
+              "word": "四邻诸侯",
+              "pinyin": "sì lín zhū hóu",
+              "meaning": "四周邻国的诸侯",
+              "type": "实词"
+            },
+            {
+              "word": "不闻",
+              "pinyin": "bù wén",
+              "meaning": "没有听到",
+              "type": "实词"
+            },
+            {
+              "word": "令德",
+              "pinyin": "lìng dé",
+              "meaning": "美德",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听到",
+              "type": "实词"
+            },
+            {
+              "word": "重币",
+              "pinyin": "zhòng bì",
+              "meaning": "重礼",
+              "type": "实词"
+            },
+            {
+              "word": "侨",
+              "pinyin": "Qiáo",
+              "meaning": "子产自称",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "惑",
+              "pinyin": "huò",
+              "meaning": "疑惑",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "这件事",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "侨闻君子长国家者，非无贿之患，而无令名之难。",
+          "translation": "我听说君子治理国家，不担心没有财富，而担心没有好名声。",
+          "words": [
+            {
+              "word": "侨",
+              "pinyin": "Qiáo",
+              "meaning": "子产自称",
+              "type": "人名"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听说",
+              "type": "实词"
+            },
+            {
+              "word": "君子长国家者",
+              "pinyin": "jūn zǐ zhǎng guó jiā zhě",
+              "meaning": "君子治理国家的人",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "无贿之患",
+              "pinyin": "wú huì zhī huàn",
+              "meaning": "没有贿赂的忧虑",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "而是",
+              "type": "虚词"
+            },
+            {
+              "word": "无令名之难",
+              "pinyin": "wú lìng míng zhī nán",
+              "meaning": "没有美名的困难",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫诸侯之贿聚于公室，则诸侯贰。",
+          "translation": "如果诸侯的财富都聚集在公室，那么诸侯就会有二心。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "句首发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国君",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "贿",
+              "pinyin": "huì",
+              "meaning": "财物",
+              "type": "实词"
+            },
+            {
+              "word": "聚",
+              "pinyin": "jù",
+              "meaning": "聚集",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "在",
+              "type": "虚词"
+            },
+            {
+              "word": "公室",
+              "pinyin": "gōng shì",
+              "meaning": "公家府库",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国君",
+              "type": "实词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "若吾子赖之，则晋国贰。",
+          "translation": "如果您依赖这些财富，那么晋国就会有二心。",
+          "words": [
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "吾子",
+              "pinyin": "wú zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "赖",
+              "pinyin": "lài",
+              "meaning": "依赖",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "它",
+              "type": "虚词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "晋国",
+              "pinyin": "jìn guó",
+              "meaning": "晋国",
+              "type": "实词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诸侯贰，则晋国坏；晋国贰，则子之家坏。",
+          "translation": "诸侯有二心，晋国就会受损；晋国有二心，您的家族就会受损。",
+          "words": [
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "诸侯国君",
+              "type": "实词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "晋国",
+              "pinyin": "jìn guó",
+              "meaning": "晋国",
+              "type": "实词"
+            },
+            {
+              "word": "坏",
+              "pinyin": "huài",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "晋国",
+              "pinyin": "jìn guó",
+              "meaning": "晋国",
+              "type": "实词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "家",
+              "pinyin": "jiā",
+              "meaning": "家族",
+              "type": "实词"
+            },
+            {
+              "word": "坏",
+              "pinyin": "huài",
+              "meaning": "毁坏",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "何没没也！将焉用贿？",
+          "translation": "何必这样执迷不悟呢！哪里用得着这些财富？",
+          "words": [
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "没没",
+              "pinyin": "mò mò",
+              "meaning": "沉迷贪恋",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "打算",
+              "type": "虚词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "哪里",
+              "type": "虚词"
+            },
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "使用",
+              "type": "实词"
+            },
+            {
+              "word": "贿",
+              "pinyin": "huì",
+              "meaning": "财物",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫令名，德之舆也；德，国家之基也。",
+          "translation": "好名声，是德行的载体；德行，是国家的根基。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "发语词",
+              "type": "虚词"
+            },
+            {
+              "word": "令名",
+              "pinyin": "lìng míng",
+              "meaning": "美好名声",
+              "type": "实词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "道德",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "舆",
+              "pinyin": "yú",
+              "meaning": "车",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "道德",
+              "type": "实词"
+            },
+            {
+              "word": "国家",
+              "pinyin": "guó jiā",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "基",
+              "pinyin": "jī",
+              "meaning": "基础",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "有基无坏，无亦是务乎！",
+          "translation": "有了根基就不会败坏，何不致力于此呢！",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "基",
+              "pinyin": "jī",
+              "meaning": "基础",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "坏",
+              "pinyin": "huài",
+              "meaning": "毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "无亦",
+              "pinyin": "wú yì",
+              "meaning": "不也",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这",
+              "type": "实词"
+            },
+            {
+              "word": "务",
+              "pinyin": "wù",
+              "meaning": "致力",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "有德则乐，乐则能久。",
+          "translation": "有德行就会快乐，快乐就能长久。",
+          "words": [
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有",
+              "type": "实词"
+            },
+            {
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "道德",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "快乐",
+              "type": "实词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "快乐",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "长久",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "《诗》云：‘乐只君子，邦家之基。’有令德也夫！",
+          "translation": "《诗经》说：‘快乐的君子，是国家的根基。’这就是有美德啊！",
+          "words": [
+            {
+              "word": "《诗》",
+              "pinyin": "shī",
+              "meaning": "诗经",
+              "type": "典故"
+            },
+            {
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "快乐",
+              "type": "实词"
+            },
+            {
+              "word": "只",
+              "pinyin": "zhǐ",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "君子",
+              "pinyin": "jūn zǐ",
+              "meaning": "君子",
+              "type": "实词"
+            },
+            {
+              "word": "邦家",
+              "pinyin": "bāng jiā",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "基",
+              "pinyin": "jī",
+              "meaning": "基础",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "令德",
+              "pinyin": "lìng dé",
+              "meaning": "美德",
+              "type": "实词"
+            },
+            {
+              "word": "也夫",
+              "pinyin": "yě fú",
+              "meaning": "感叹语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "‘上帝临女，无贰尔心。’有令名也夫！",
+          "translation": "‘上帝监视着你，不要有二心。’这就是有好名声啊！",
+          "words": [
+            {
+              "word": "上帝",
+              "pinyin": "shàng dì",
+              "meaning": "上天",
+              "type": "典故"
+            },
+            {
+              "word": "临",
+              "pinyin": "lín",
+              "meaning": "监视",
+              "type": "实词"
+            },
+            {
+              "word": "女",
+              "pinyin": "rǔ",
+              "meaning": "你",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "贰",
+              "pinyin": "èr",
+              "meaning": "有二心",
+              "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "你的",
+              "type": "实词"
+            },
+            {
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "心",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "令名",
+              "pinyin": "lìng míng",
+              "meaning": "美名",
+              "type": "实词"
+            },
+            {
+              "word": "也夫",
+              "pinyin": "yě fú",
+              "meaning": "感叹语气",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "恕思以明德，则令名载而行之，是以远至迩安。",
+          "translation": "以宽厚之心来彰显德行，那么好名声就会载着德行传播，因此远方的人来归附，近处的人安心。",
+          "words": [
+            {
+              "word": "恕思",
+              "pinyin": "shù sī",
+              "meaning": "宽厚思考",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "明德",
+              "pinyin": "míng dé",
+              "meaning": "彰显美德",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "令名",
+              "pinyin": "lìng míng",
+              "meaning": "美名",
+              "type": "实词"
+            },
+            {
+              "word": "载",
+              "pinyin": "zài",
+              "meaning": "承载",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "行之",
+              "pinyin": "xíng zhī",
+              "meaning": "传播它",
+              "type": "实词"
+            },
+            {
+              "word": "是以",
+              "pinyin": "shì yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "远至",
+              "pinyin": "yuǎn zhì",
+              "meaning": "远方来归",
+              "type": "实词"
+            },
+            {
+              "word": "迩安",
+              "pinyin": "ěr ān",
+              "meaning": "近处安定",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "毋宁使人谓子‘子实生我’，而谓‘子浚我以生’乎？",
+          "translation": "宁愿让人们说‘您确实养活了我们’，还是说‘您榨取我们来养活自己’呢？",
+          "words": [
+            {
+              "word": "毋宁",
+              "pinyin": "wú nìng",
+              "meaning": "不如",
+              "type": "虚词"
+            },
+            {
+              "word": "使人",
+              "pinyin": "shǐ rén",
+              "meaning": "让人",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "确实",
+              "type": "实词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "养育",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我们",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "您",
+              "type": "实词"
+            },
+            {
+              "word": "浚",
+              "pinyin": "jùn",
+              "meaning": "榨取",
+              "type": "实词"
+            },
+            {
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "我们",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "来",
+              "type": "虚词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "生存",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "吗",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "象有齿以焚其身，贿也。",
+          "translation": "象因为有象牙而招致杀身之祸，就是因为象牙值钱啊。",
+          "words": [
+            {
+              "word": "象",
+              "pinyin": "xiàng",
+              "meaning": "大象",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "齿",
+              "pinyin": "chǐ",
+              "meaning": "牙齿",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "焚",
+              "pinyin": "fén",
+              "meaning": "毁灭",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "身体",
+              "type": "实词"
+            },
+            {
+              "word": "贿",
+              "pinyin": "huì",
+              "meaning": "象牙",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "是",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "宣子说，乃轻币。",
+      "translation": "宣子很高兴，于是减轻了贡品。",
+      "sentences": [
+        {
+          "original": "宣子说",
+          "translation": "宣子很高兴。",
+          "words": []
+        },
+        {
+          "original": "乃轻币",
+          "translation": "于是减轻了贡品。",
+          "words": []
+        }
+      ]
+    }
+  ]
+}

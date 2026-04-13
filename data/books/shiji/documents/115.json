@@ -1,0 +1,4862 @@
+{
+  "id": "115",
+  "book": "shiji",
+  "juan": 115,
+  "title": "朝鲜列传",
+  "category": "liezhuan",
+  "category_name": "列传",
+  "order_in_category": 55,
+  "author": {
+    "name": "司马迁",
+    "dynasty": "西汉"
+  },
+  "summary": "本卷记述了朝鲜王卫满及其孙右渠的历史。卫满原是燕人，秦末逃到朝鲜，聚众建国，都王险。汉初，辽东太守约其为外臣，保塞外蛮夷。至右渠时，诱纳汉亡人，不入见天子，阻挠旁国朝汉。元封二年，汉使涉何挑衅，刺杀朝鲜裨王，引发战争。汉武帝遣楼船将军杨仆、左将军荀彘率军征讨，初期失利，后经外交周折和内部冲突，最终朝鲜被征服，设立乐浪、临屯、玄菟、真番四郡。事件反映了汉朝边疆政策与朝鲜的互动，以及将领争功导致的失误。",
+  "appreciation": "在文学上，司马迁运用了生动的叙事技法，通过细节描写和人物对话刻画历史场景，如涉何诬报战功的傲慢、右渠降而复疑的谨慎、杨仆的怯懦与荀彘的争胜，展现了人物的复杂性和事件的戏剧性。史学价值上，本卷详细记录了汉武帝时期汉朝与朝鲜的外交和军事冲突，提供了边疆政策实例，反映了汉朝扩张的得失。思想立场上，司马迁通过太史公曰批评了将领们的争功和失误，如‘荀彘争劳，与遂皆诛’，强调了诚信、策略和历史教训的重要性。名句‘右渠负固，国以绝祀’总结了固守不化的后果，‘两军俱辱，将率莫侯矣’讽刺了将领们的无能，增强了文章的感染力。整体上，本卷体现了司马迁卓越的史学眼光和文学才华，叙事简洁而深刻。",
+  "tags": [
+    "汉朝朝鲜关系",
+    "边疆战争",
+    "史记列传"
+  ],
+  "key_figures": [
+    "卫满",
+    "右渠",
+    "涉何",
+    "杨仆",
+    "荀彘"
+  ],
+  "historical_period": "西汉初期至汉武帝时期",
+  "paragraphs": [
+    {
+      "original": "朝鲜王满者，故燕人也。自始全燕时尝略属真番、朝鲜，为置吏，筑鄣塞。",
+      "translation": "朝鲜王满，原本是燕国人。从燕国全盛时期开始，曾经攻占并管辖真番、朝鲜，设置官吏，修筑要塞。",
+      "sentences": [
+        {
+          "original": "朝鲜王满者，故燕人也。",
+          "translation": "朝鲜王满，原本是燕国人。",
+          "words": [
+            {
+              "word": "朝鲜王满",
+              "pinyin": "Cháoxiān Wáng Mǎn",
+              "meaning": "朝鲜王名叫满",
+              "type": "人名"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表提顿",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "原本",
+              "type": "实词"
+            },
+            {
+              "word": "燕人",
+              "pinyin": "Yān rén",
+              "meaning": "燕国人",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "自始全燕时尝略属真番、朝鲜，为置吏，筑鄣塞。",
+          "translation": "从燕国全盛时期开始，曾经攻占并管辖真番、朝鲜，设置官吏，修筑要塞。",
+          "words": [
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "全燕",
+              "pinyin": "Quán Yān",
+              "meaning": "整个燕国",
+              "type": "地名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时期",
+              "type": "实词"
+            },
+            {
+              "word": "尝",
+              "pinyin": "cháng",
+              "meaning": "曾经",
+              "type": "实词"
+            },
+            {
+              "word": "略属",
+              "pinyin": "lüè shǔ",
+              "meaning": "攻占归属",
+              "type": "实词"
+            },
+            {
+              "word": "真番",
+              "pinyin": "Zhēn Pān",
+              "meaning": "真番地名",
+              "type": "地名"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "Cháoxiǎn",
+              "meaning": "朝鲜地名",
+              "type": "地名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为此",
+              "type": "虚词"
+            },
+            {
+              "word": "置吏",
+              "pinyin": "zhì lì",
+              "meaning": "设置官吏",
+              "type": "实词"
+            },
+            {
+              "word": "筑",
+              "pinyin": "zhù",
+              "meaning": "修筑",
+              "type": "实词"
+            },
+            {
+              "word": "鄣塞",
+              "pinyin": "zhāng sài",
+              "meaning": "屏障要塞",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "秦灭燕，属辽东外徼。汉兴，为其远难守，复修辽东故塞，至浿水为界，属燕。",
+      "translation": "秦朝灭亡燕国后，朝鲜归属辽东外徼。汉朝兴起后，因为距离遥远难以防守，重新修建辽东的旧塞，以浿水为边界，归属燕国。",
+      "sentences": [
+        {
+          "original": "秦灭燕，属辽东外徼。",
+          "translation": "秦朝灭亡燕国后，朝鲜归属辽东外徼。",
+          "words": [
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "秦国",
+              "type": "地名"
+            },
+            {
+              "word": "灭",
+              "pinyin": "miè",
+              "meaning": "灭亡",
+              "type": "实词"
+            },
+            {
+              "word": "燕",
+              "pinyin": "yān",
+              "meaning": "燕国",
+              "type": "地名"
+            },
+            {
+              "word": "属",
+              "pinyin": "shǔ",
+              "meaning": "归属",
+              "type": "实词"
+            },
+            {
+              "word": "辽东",
+              "pinyin": "liáo dōng",
+              "meaning": "辽东地区",
+              "type": "地名"
+            },
+            {
+              "word": "外",
+              "pinyin": "wài",
+              "meaning": "外部",
+              "type": "实词"
+            },
+            {
+              "word": "徼",
+              "pinyin": "jiào",
+              "meaning": "边界",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "汉兴，为其远难守，复修辽东故塞，至浿水为界，属燕。",
+          "translation": "汉朝兴起后，因为距离遥远难以防守，重新修建辽东的旧塞，以浿水为边界，归属燕国。",
+          "words": [
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            },
+            {
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "兴起",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "因为",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "实词"
+            },
+            {
+              "word": "远",
+              "pinyin": "yuǎn",
+              "meaning": "遥远",
+              "type": "实词"
+            },
+            {
+              "word": "难",
+              "pinyin": "nán",
+              "meaning": "困难",
+              "type": "实词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "防守",
+              "type": "实词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "重新",
+              "type": "实词"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "修筑",
+              "type": "实词"
+            },
+            {
+              "word": "辽东",
+              "pinyin": "liáo dōng",
+              "meaning": "辽东地区",
+              "type": "地名"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "旧",
+              "type": "实词"
+            },
+            {
+              "word": "塞",
+              "pinyin": "sài",
+              "meaning": "要塞",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "pèi shuǐ",
+              "meaning": "浿水河",
+              "type": "地名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "界",
+              "pinyin": "jiè",
+              "meaning": "边界",
+              "type": "实词"
+            },
+            {
+              "word": "属",
+              "pinyin": "shǔ",
+              "meaning": "归属",
+              "type": "实词"
+            },
+            {
+              "word": "燕",
+              "pinyin": "yān",
+              "meaning": "燕国",
+              "type": "地名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "燕王卢绾反，入匈奴，满亡命，聚党千馀人，魋结蛮夷服而东走出塞，渡浿水，居秦故空地上下鄣，稍役属真番、朝鲜蛮夷及故燕、齐亡命者王之，都王险。",
+      "translation": "燕王卢绾反叛，逃入匈奴。满逃亡，聚集党羽一千多人，魋结发式、穿着蛮夷服装向东逃出边塞，渡过浿水，居住在秦朝旧时的空地上下鄣。逐渐役使并归属真番、朝鲜的蛮夷以及旧燕、齐的逃亡者，以他们为王，定都王险。",
+      "sentences": [
+        {
+          "original": "燕王卢绾反，入匈奴",
+          "translation": "燕王卢绾反叛，逃入匈奴。",
+          "words": [
+            {
+              "word": "燕王卢绾",
+              "pinyin": "Yán Wáng Lú Wǎn",
+              "meaning": "燕王卢绾",
+              "type": "人名"
+            },
+            {
+              "word": "反",
+              "pinyin": "fǎn",
+              "meaning": "反叛",
+              "type": "实词"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "匈奴",
+              "pinyin": "Xiōngnú",
+              "meaning": "匈奴族",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "满亡命，聚党千馀人，魋结蛮夷服而东走出塞，渡浿水",
+          "translation": "满逃亡，聚集党羽一千多人，魋结发式、穿着蛮夷服装向东逃出边塞，渡过浿水。",
+          "words": [
+            {
+              "word": "满",
+              "pinyin": "Mǎn",
+              "meaning": "卫满",
+              "type": "人名"
+            },
+            {
+              "word": "亡命",
+              "pinyin": "wáng mìng",
+              "meaning": "逃亡",
+              "type": "实词"
+            },
+            {
+              "word": "聚党",
+              "pinyin": "jù dǎng",
+              "meaning": "聚集党羽",
+              "type": "实词"
+            },
+            {
+              "word": "千馀人",
+              "pinyin": "qiān yú rén",
+              "meaning": "一千多人",
+              "type": "实词"
+            },
+            {
+              "word": "魋结",
+              "pinyin": "tuí jié",
+              "meaning": "魋形发髻",
+              "type": "实词"
+            },
+            {
+              "word": "蛮夷服",
+              "pinyin": "mán yí fú",
+              "meaning": "蛮夷服装",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "东走",
+              "pinyin": "dōng zǒu",
+              "meaning": "向东逃跑",
+              "type": "实词"
+            },
+            {
+              "word": "出塞",
+              "pinyin": "chū sài",
+              "meaning": "出边塞",
+              "type": "实词"
+            },
+            {
+              "word": "渡",
+              "pinyin": "dù",
+              "meaning": "渡过",
+              "type": "实词"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "Pèi Shuǐ",
+              "meaning": "浿水河",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "居秦故空地上下鄣",
+          "translation": "居住在秦朝旧时的空地上下鄣。",
+          "words": [
+            {
+              "word": "居",
+              "pinyin": "jū",
+              "meaning": "居住",
+              "type": "实词"
+            },
+            {
+              "word": "秦故空地",
+              "pinyin": "Qín gù kòng dì",
+              "meaning": "秦朝故空地",
+              "type": "地名"
+            },
+            {
+              "word": "上下鄣",
+              "pinyin": "shàng xià zhàng",
+              "meaning": "上下鄣塞",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "稍役属真番、朝鲜蛮夷及故燕、齐亡命者王之，都王险",
+          "translation": "逐渐役使并归属真番、朝鲜的蛮夷以及旧燕、齐的逃亡者，以他们为王，定都王险。",
+          "words": [
+            {
+              "word": "稍",
+              "pinyin": "shāo",
+              "meaning": "逐渐",
+              "type": "虚词"
+            },
+            {
+              "word": "役属",
+              "pinyin": "yì shǔ",
+              "meaning": "役使归属",
+              "type": "实词"
+            },
+            {
+              "word": "真番",
+              "pinyin": "Zhēn Pān",
+              "meaning": "真番地",
+              "type": "地名"
+            },
+            {
+              "word": "朝鲜蛮夷",
+              "pinyin": "Cháoxiǎn mán yí",
+              "meaning": "朝鲜蛮夷",
+              "type": "地名"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "故燕",
+              "pinyin": "gù Yān",
+              "meaning": "故燕地",
+              "type": "地名"
+            },
+            {
+              "word": "齐",
+              "pinyin": "Qí",
+              "meaning": "齐地",
+              "type": "地名"
+            },
+            {
+              "word": "亡命者",
+              "pinyin": "wáng mìng zhě",
+              "meaning": "逃亡者",
+              "type": "实词"
+            },
+            {
+              "word": "王之",
+              "pinyin": "wáng zhī",
+              "meaning": "称王于他们",
+              "type": "实词"
+            },
+            {
+              "word": "都",
+              "pinyin": "dū",
+              "meaning": "定都",
+              "type": "实词"
+            },
+            {
+              "word": "王险",
+              "pinyin": "Wáng Xiǎn",
+              "meaning": "王险城",
+              "type": "地名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "会孝惠、高后时天下初定，辽东太守即约满为外臣，保塞外蛮夷，无使盗边；诸蛮夷君长欲入见天子，勿得禁止。以闻，上许之，以故满得兵威财物侵降其旁小邑，真番、临屯皆来服属，方数千里。",
+      "translation": "适逢孝惠帝、高后时期天下刚刚安定，辽东太守就约定满作为外臣，保护塞外的蛮夷，不让他们侵犯边境；各蛮夷的君长想要入朝拜见天子，不得禁止。将此事上报，皇上允许了。因此满凭借兵威和财物侵吞降服了他旁边的小城邑，真番、临屯都来归服臣属，方圆数千里。",
+      "sentences": [
+        {
+          "original": "会孝惠、高后时天下初定，辽东太守即约满为外臣，保塞外蛮夷，无使盗边；",
+          "translation": "适逢孝惠帝、高后时期天下刚刚安定，辽东太守就约定满作为外臣，保护塞外的蛮夷，不让他们侵犯边境。",
+          "words": [
+            {
+              "word": "会",
+              "pinyin": "huì",
+              "meaning": "适逢",
+              "type": "虚词"
+            },
+            {
+              "word": "孝惠",
+              "pinyin": "xiào huì",
+              "meaning": "汉孝惠帝年号",
+              "type": "年号"
+            },
+            {
+              "word": "高后",
+              "pinyin": "gāo hòu",
+              "meaning": "汉高后年号",
+              "type": "年号"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "时候",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "初定",
+              "pinyin": "chū dìng",
+              "meaning": "刚刚安定",
+              "type": "实词"
+            },
+            {
+              "word": "辽东太守",
+              "pinyin": "liáo dōng tài shǒu",
+              "meaning": "辽东地区长官",
+              "type": "官职"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "约",
+              "pinyin": "yuē",
+              "meaning": "约定",
+              "type": "实词"
+            },
+            {
+              "word": "满",
+              "pinyin": "mǎn",
+              "meaning": "卫满",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "虚词"
+            },
+            {
+              "word": "外臣",
+              "pinyin": "wài chén",
+              "meaning": "外部臣子",
+              "type": "实词"
+            },
+            {
+              "word": "保",
+              "pinyin": "bǎo",
+              "meaning": "保护",
+              "type": "实词"
+            },
+            {
+              "word": "塞外蛮夷",
+              "pinyin": "sài wài mán yí",
+              "meaning": "塞外少数民族",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "让",
+              "type": "实词"
+            },
+            {
+              "word": "盗边",
+              "pinyin": "dào biān",
+              "meaning": "侵犯边境",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诸蛮夷君长欲入见天子，勿得禁止。",
+          "translation": "各蛮夷的君长想要入朝拜见天子，不得禁止。",
+          "words": [
+            {
+              "word": "诸",
+              "pinyin": "zhū",
+              "meaning": "各个",
+              "type": "虚词"
+            },
+            {
+              "word": "蛮夷君长",
+              "pinyin": "mán yí jūn zhǎng",
+              "meaning": "蛮夷首领",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "入见",
+              "pinyin": "rù jiàn",
+              "meaning": "入朝觐见",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "勿",
+              "pinyin": "wù",
+              "meaning": "不要",
+              "type": "虚词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "禁止",
+              "pinyin": "jìn zhǐ",
+              "meaning": "禁止",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "以闻，上许之，",
+          "translation": "将此事上报，皇上允许了。",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "上报",
+              "type": "实词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "许",
+              "pinyin": "xǔ",
+              "meaning": "允许",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "以故满得兵威财物侵降其旁小邑，真番、临屯皆来服属，方数千里。",
+          "translation": "因此满凭借兵威和财物侵吞降服了他旁边的小城邑，真番、临屯都来归服臣属，方圆数千里。",
+          "words": [
+            {
+              "word": "以故",
+              "pinyin": "yǐ gù",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "满",
+              "pinyin": "mǎn",
+              "meaning": "卫满",
+              "type": "人名"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "获得",
+              "type": "实词"
+            },
+            {
+              "word": "兵威财物",
+              "pinyin": "bīng wēi cái wù",
+              "meaning": "军力和财富",
+              "type": "实词"
+            },
+            {
+              "word": "侵降",
+              "pinyin": "qīn jiàng",
+              "meaning": "侵略降服",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "旁小邑",
+              "pinyin": "páng xiǎo yì",
+              "meaning": "旁边小城",
+              "type": "实词"
+            },
+            {
+              "word": "真番",
+              "pinyin": "zhēn pān",
+              "meaning": "古地名",
+              "type": "地名"
+            },
+            {
+              "word": "临屯",
+              "pinyin": "lín tún",
+              "meaning": "古地名",
+              "type": "地名"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "来",
+              "pinyin": "lái",
+              "meaning": "前来",
+              "type": "实词"
+            },
+            {
+              "word": "服属",
+              "pinyin": "fú shǔ",
+              "meaning": "臣服归属",
+              "type": "实词"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "方圆",
+              "type": "实词"
+            },
+            {
+              "word": "数千里",
+              "pinyin": "shù qiān lǐ",
+              "meaning": "几千里",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "传子至孙右渠，所诱汉亡人滋多，又未尝入见；真番旁众国欲上书见天子，又拥阏不通。元封二年，汉使涉何谯谕右渠，终不肯奉诏。何去至界上，临浿水，使御刺杀送何者朝鲜裨王长，即渡，驰入塞，遂归报天子曰“杀朝鲜将”。",
+      "translation": "王位传到儿子再到孙子右渠，他引诱的汉朝逃亡者日益增多，又从未入朝觐见；真番旁边的众多国家想上书朝见天子，又被阻挠不通。元封二年，汉朝使者涉何责备劝谕右渠，右渠最终不肯接受诏令。涉何走到边界上，临近浿水，命令车夫刺杀护送他的朝鲜裨王长，然后渡河，飞驰进入边塞，于是回去报告天子说“杀了朝鲜将领”。",
+      "sentences": [
+        {
+          "original": "传子至孙右渠，所诱汉亡人滋多，又未尝入见；",
+          "translation": "王位传到儿子再到孙子右渠，他引诱的汉朝逃亡者日益增多，又从未入朝觐见。",
+          "words": [
+            {
+              "word": "传子至孙",
+              "pinyin": "chuán zǐ zhì sūn",
+              "meaning": "传位给儿子再到孙子",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "Yòu Qú",
+              "meaning": "朝鲜王名",
+              "type": "人名"
+            },
+            {
+              "word": "所诱",
+              "pinyin": "suǒ yòu",
+              "meaning": "所诱惑的",
+              "type": "虚词"
+            },
+            {
+              "word": "汉亡人",
+              "pinyin": "Hàn wáng rén",
+              "meaning": "汉朝逃亡者",
+              "type": "实词"
+            },
+            {
+              "word": "滋多",
+              "pinyin": "zī duō",
+              "meaning": "更加多",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又，再",
+              "type": "虚词"
+            },
+            {
+              "word": "未尝",
+              "pinyin": "wèi cháng",
+              "meaning": "不曾",
+              "type": "虚词"
+            },
+            {
+              "word": "入见",
+              "pinyin": "rù jiàn",
+              "meaning": "入朝拜见",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "真番旁众国欲上书见天子，又拥阏不通。",
+          "translation": "真番旁边的众多国家想上书朝见天子，又被阻挠不通。",
+          "words": [
+            {
+              "word": "真番",
+              "pinyin": "Zhēn Pān",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "旁众国",
+              "pinyin": "páng zhòng guó",
+              "meaning": "旁边的众国",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "上书",
+              "pinyin": "shàng shū",
+              "meaning": "上呈书信",
+              "type": "实词"
+            },
+            {
+              "word": "见天子",
+              "pinyin": "jiàn tiān zǐ",
+              "meaning": "拜见天子",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又，再",
+              "type": "虚词"
+            },
+            {
+              "word": "拥阏",
+              "pinyin": "yōng è",
+              "meaning": "阻塞",
+              "type": "实词"
+            },
+            {
+              "word": "不通",
+              "pinyin": "bù tōng",
+              "meaning": "不通行",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "元封二年，汉使涉何谯谕右渠，终不肯奉诏。",
+          "translation": "元封二年，汉朝使者涉何责备劝谕右渠，右渠最终不肯接受诏令。",
+          "words": [
+            {
+              "word": "元封二年",
+              "pinyin": "Yuán Fēng èr nián",
+              "meaning": "汉武帝年号",
+              "type": "年号"
+            },
+            {
+              "word": "汉使",
+              "pinyin": "Hàn shǐ",
+              "meaning": "汉朝使者",
+              "type": "实词"
+            },
+            {
+              "word": "涉何",
+              "pinyin": "Shè Hé",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "谯谕",
+              "pinyin": "qiáo yù",
+              "meaning": "责备晓谕",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "Yòu Qú",
+              "meaning": "朝鲜王名",
+              "type": "人名"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "最终",
+              "type": "虚词"
+            },
+            {
+              "word": "不肯",
+              "pinyin": "bù kěn",
+              "meaning": "不愿意",
+              "type": "实词"
+            },
+            {
+              "word": "奉诏",
+              "pinyin": "fèng zhào",
+              "meaning": "接受诏令",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "何去至界上，临浿水，使御刺杀送何者朝鲜裨王长，即渡，驰入塞，遂归报天子曰“杀朝鲜将”。",
+          "translation": "涉何走到边界上，临近浿水，命令车夫刺杀护送他的朝鲜裨王长，然后渡河，飞驰进入边塞，于是回去报告天子说“杀了朝鲜将领”。",
+          "words": [
+            {
+              "word": "何",
+              "pinyin": "Hé",
+              "meaning": "涉何",
+              "type": "人名"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "离开",
+              "type": "实词"
+            },
+            {
+              "word": "至界上",
+              "pinyin": "zhì jiè shàng",
+              "meaning": "到达边界上",
+              "type": "实词"
+            },
+            {
+              "word": "临",
+              "pinyin": "lín",
+              "meaning": "面对",
+              "type": "实词"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "Pèi Shuǐ",
+              "meaning": "河流名",
+              "type": "地名"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "御",
+              "pinyin": "yù",
+              "meaning": "车夫",
+              "type": "实词"
+            },
+            {
+              "word": "刺杀",
+              "pinyin": "cì shā",
+              "meaning": "刺死",
+              "type": "实词"
+            },
+            {
+              "word": "送何者",
+              "pinyin": "sòng Hé zhě",
+              "meaning": "护送涉何的人",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜裨王长",
+              "pinyin": "Cháo xiǎn pí wáng Cháng",
+              "meaning": "朝鲜裨王名长",
+              "type": "人名"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "立即",
+              "type": "虚词"
+            },
+            {
+              "word": "渡",
+              "pinyin": "dù",
+              "meaning": "渡河",
+              "type": "实词"
+            },
+            {
+              "word": "驰",
+              "pinyin": "chí",
+              "meaning": "骑马奔驰",
+              "type": "实词"
+            },
+            {
+              "word": "入塞",
+              "pinyin": "rù sài",
+              "meaning": "进入边塞",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "归报",
+              "pinyin": "guī bào",
+              "meaning": "回去报告",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "杀朝鲜将",
+              "pinyin": "shā Cháo xiǎn jiàng",
+              "meaning": "杀了朝鲜将领",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "上为其名美，即不诘，拜何为辽东东部都尉。朝鲜怨何，发兵袭攻杀何。",
+      "translation": "皇上因为涉何的名声好，就没有责问，任命他为辽东东部都尉。朝鲜怨恨涉何，发兵袭击攻杀了他。",
+      "sentences": [
+        {
+          "original": "上为其名美，即不诘，拜何为辽东东部都尉。",
+          "translation": "皇上因为涉何的名声好，就没有责问，任命他为辽东东部都尉。",
+          "words": [
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "皇上",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "因为",
+              "type": "实词"
+            },
+            {
+              "word": "其名",
+              "pinyin": "qí míng",
+              "meaning": "他的名声",
+              "type": "实词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "好",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "实词"
+            },
+            {
+              "word": "不诘",
+              "pinyin": "bù jié",
+              "meaning": "不责问",
+              "type": "实词"
+            },
+            {
+              "word": "拜",
+              "pinyin": "bài",
+              "meaning": "任命",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "Hé",
+              "meaning": "涉何",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "作为",
+              "type": "实词"
+            },
+            {
+              "word": "辽东东部都尉",
+              "pinyin": "Liáodōng Dōngbù Dūwèi",
+              "meaning": "辽东东部都尉官职",
+              "type": "官职"
+            }
+          ]
+        },
+        {
+          "original": "朝鲜怨何，发兵袭攻杀何。",
+          "translation": "朝鲜怨恨涉何，发兵袭击攻杀了他。",
+          "words": [
+            {
+              "word": "朝鲜",
+              "pinyin": "Cháoxiǎn",
+              "meaning": "朝鲜国",
+              "type": "地名"
+            },
+            {
+              "word": "怨",
+              "pinyin": "yuàn",
+              "meaning": "怨恨",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "Hé",
+              "meaning": "涉何",
+              "type": "人名"
+            },
+            {
+              "word": "发兵",
+              "pinyin": "fā bīng",
+              "meaning": "派遣军队",
+              "type": "实词"
+            },
+            {
+              "word": "袭攻杀",
+              "pinyin": "xí gōng shā",
+              "meaning": "袭击攻杀",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "Hé",
+              "meaning": "涉何",
+              "type": "人名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "天子募罪人击朝鲜。其秋，遣楼船将军杨仆从齐浮渤海；兵五万人，左将军荀彘出辽东：讨右渠。右渠发兵距险。左将军卒正多率辽东兵先纵，败散，多还走，坐法斩。楼船将军将齐兵七千人先至王险。右渠城守，窥知楼船军少，即出城击楼船，楼船军败散走。将军杨仆失其众，遁山中十馀日，稍求收散卒，复聚。",
+      "translation": "天子招募罪犯攻打朝鲜。那年秋天，派遣楼船将军杨仆从齐地渡渤海，士兵五万人；左将军荀彘从辽东出发，讨伐右渠。右渠派兵据守险要之地。左将军的卒正多率领辽东兵先行出击，战败溃散，多逃回，依法被斩。楼船将军率领齐兵七千人先到达王险。右渠据城防守，窥探得知楼船军人数少，就出城攻击楼船军，楼船军战败溃散逃跑。将军杨仆失去他的部众，逃入山中十多天，逐渐收集散兵，重新聚集。",
+      "sentences": [
+        {
+          "original": "天子募罪人击朝鲜。",
+          "translation": "天子招募罪犯攻打朝鲜。",
+          "words": [
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "募",
+              "pinyin": "mù",
+              "meaning": "招募",
+              "type": "实词"
+            },
+            {
+              "word": "罪人",
+              "pinyin": "zuì rén",
+              "meaning": "罪犯",
+              "type": "实词"
+            },
+            {
+              "word": "击",
+              "pinyin": "jī",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "其秋，遣楼船将军杨仆从齐浮渤海；兵五万人，左将军荀彘出辽东：讨右渠。",
+          "translation": "那年秋天，派遣楼船将军杨仆从齐地渡渤海；士兵五万人，左将军荀彘从辽东出发：讨伐右渠。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "那",
+              "type": "虚词"
+            },
+            {
+              "word": "秋",
+              "pinyin": "qiū",
+              "meaning": "秋天",
+              "type": "实词"
+            },
+            {
+              "word": "遣",
+              "pinyin": "qiǎn",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "楼船将军",
+              "pinyin": "lóu chuán jiāng jūn",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "杨仆",
+              "pinyin": "yáng pú",
+              "meaning": "杨仆",
+              "type": "人名"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐地",
+              "type": "地名"
+            },
+            {
+              "word": "浮",
+              "pinyin": "fú",
+              "meaning": "渡",
+              "type": "实词"
+            },
+            {
+              "word": "渤海",
+              "pinyin": "bó hǎi",
+              "meaning": "渤海",
+              "type": "地名"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "五万人",
+              "pinyin": "wǔ wàn rén",
+              "meaning": "五万人",
+              "type": "实词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军",
+              "type": "官职"
+            },
+            {
+              "word": "荀彘",
+              "pinyin": "xún zhì",
+              "meaning": "荀彘",
+              "type": "人名"
+            },
+            {
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出动",
+              "type": "实词"
+            },
+            {
+              "word": "辽东",
+              "pinyin": "liáo dōng",
+              "meaning": "辽东",
+              "type": "地名"
+            },
+            {
+              "word": "讨",
+              "pinyin": "tǎo",
+              "meaning": "讨伐",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "右渠",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "右渠发兵距险。",
+          "translation": "右渠派兵据守险要之地。",
+          "words": [
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "右渠",
+              "type": "人名"
+            },
+            {
+              "word": "发",
+              "pinyin": "fā",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "距",
+              "pinyin": "jù",
+              "meaning": "抵御",
+              "type": "实词"
+            },
+            {
+              "word": "险",
+              "pinyin": "xiǎn",
+              "meaning": "险要",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "左将军卒正多率辽东兵先纵，败散，多还走，坐法斩。",
+          "translation": "左将军的卒正多率领辽东兵先行出击，战败溃散，多逃回，依法被斩。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军",
+              "type": "官职"
+            },
+            {
+              "word": "卒正",
+              "pinyin": "zú zhèng",
+              "meaning": "卒正",
+              "type": "官职"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "人名"
+            },
+            {
+              "word": "率",
+              "pinyin": "shuài",
+              "meaning": "率领",
+              "type": "实词"
+            },
+            {
+              "word": "辽东",
+              "pinyin": "liáo dōng",
+              "meaning": "辽东",
+              "type": "地名"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "先",
+              "type": "虚词"
+            },
+            {
+              "word": "纵",
+              "pinyin": "zòng",
+              "meaning": "出击",
+              "type": "实词"
+            },
+            {
+              "word": "败",
+              "pinyin": "bài",
+              "meaning": "溃败",
+              "type": "实词"
+            },
+            {
+              "word": "散",
+              "pinyin": "sàn",
+              "meaning": "散开",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "人名"
+            },
+            {
+              "word": "还",
+              "pinyin": "huán",
+              "meaning": "返回",
+              "type": "实词"
+            },
+            {
+              "word": "走",
+              "pinyin": "zǒu",
+              "meaning": "逃跑",
+              "type": "实词"
+            },
+            {
+              "word": "坐法",
+              "pinyin": "zuò fǎ",
+              "meaning": "犯法",
+              "type": "实词"
+            },
+            {
+              "word": "斩",
+              "pinyin": "zhǎn",
+              "meaning": "斩首",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "楼船将军将齐兵七千人先至王险。",
+          "translation": "楼船将军率领齐兵七千人先到达王险。",
+          "words": [
+            {
+              "word": "楼船将军",
+              "pinyin": "lóu chuán jiāng jūn",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "率领",
+              "type": "实词"
+            },
+            {
+              "word": "齐",
+              "pinyin": "qí",
+              "meaning": "齐地",
+              "type": "地名"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "七千人",
+              "pinyin": "qī qiān rén",
+              "meaning": "七千人",
+              "type": "实词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "先",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "王险",
+              "pinyin": "wáng xiǎn",
+              "meaning": "王险",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "右渠城守，窥知楼船军少，即出城击楼船，楼船军败散走。",
+          "translation": "右渠据城防守，窥探得知楼船军人数少，就出城攻击楼船军，楼船军战败溃散逃跑。",
+          "words": [
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王",
+              "type": "人名"
+            },
+            {
+              "word": "城守",
+              "pinyin": "chéng shǒu",
+              "meaning": "守城",
+              "type": "实词"
+            },
+            {
+              "word": "窥知",
+              "pinyin": "kuī zhī",
+              "meaning": "窥探得知",
+              "type": "实词"
+            },
+            {
+              "word": "楼船军",
+              "pinyin": "lóu chuán jūn",
+              "meaning": "楼船将军的军队",
+              "type": "实词"
+            },
+            {
+              "word": "少",
+              "pinyin": "shǎo",
+              "meaning": "少",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "出城",
+              "pinyin": "chū chéng",
+              "meaning": "出城",
+              "type": "实词"
+            },
+            {
+              "word": "击",
+              "pinyin": "jī",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "败散走",
+              "pinyin": "bài sàn zǒu",
+              "meaning": "溃败逃散",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "将军杨仆失其众，遁山中十馀日，稍求收散卒，复聚。",
+          "translation": "将军杨仆失去他的部众，逃入山中十多天，逐渐收集散兵，重新聚集。",
+          "words": [
+            {
+              "word": "将军",
+              "pinyin": "jiāng jūn",
+              "meaning": "将军",
+              "type": "官职"
+            },
+            {
+              "word": "杨仆",
+              "pinyin": "yáng pú",
+              "meaning": "杨仆",
+              "type": "人名"
+            },
+            {
+              "word": "失其众",
+              "pinyin": "shī qí zhòng",
+              "meaning": "失去部众",
+              "type": "实词"
+            },
+            {
+              "word": "遁山中",
+              "pinyin": "dùn shān zhōng",
+              "meaning": "逃入山中",
+              "type": "实词"
+            },
+            {
+              "word": "十馀日",
+              "pinyin": "shí yú rì",
+              "meaning": "十多天",
+              "type": "实词"
+            },
+            {
+              "word": "稍",
+              "pinyin": "shāo",
+              "meaning": "逐渐",
+              "type": "虚词"
+            },
+            {
+              "word": "求收",
+              "pinyin": "qiú shōu",
+              "meaning": "寻求收拢",
+              "type": "实词"
+            },
+            {
+              "word": "散卒",
+              "pinyin": "sàn zú",
+              "meaning": "溃散士兵",
+              "type": "实词"
+            },
+            {
+              "word": "复聚",
+              "pinyin": "fù jù",
+              "meaning": "重新聚集",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "左将军击朝鲜浿水西军，未能破自前。",
+      "translation": "左将军攻击朝鲜在浿水西岸的军队，但未能攻破敌军。",
+      "sentences": [
+        {
+          "original": "左将军击朝鲜浿水西军",
+          "translation": "左将军攻击朝鲜在浿水西岸的军队",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "击",
+              "pinyin": "jī",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜国",
+              "type": "地名"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "pèi shuǐ",
+              "meaning": "河流名",
+              "type": "地名"
+            },
+            {
+              "word": "西军",
+              "pinyin": "xī jūn",
+              "meaning": "西边军队",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "未能破自前",
+          "translation": "未能攻破敌军",
+          "words": [
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "破",
+              "pinyin": "pò",
+              "meaning": "攻破",
+              "type": "实词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "从",
+              "type": "虚词"
+            },
+            {
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "前面",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "天子为两将未有利，乃使卫山因兵威往谕右渠。右渠见使者顿首谢：“愿降，恐两将诈杀臣；今见信节，请服降。”遣太子入谢，献马五千匹，及馈军粮。人众万馀，持兵，方渡浿水，使者及左将军疑其为变，谓太子已服降，宜命人毋持兵。太子亦疑使者左将军诈杀之，遂不渡浿水，复引归。山还报天子，天子诛山。",
+      "translation": "天子因为两位将军没有取得有利进展，于是派卫山凭借军威去晓谕右渠。右渠见到使者，叩头谢罪说：“我愿意投降，但担心两位将军欺诈杀我；现在看到信节，请求归服投降。”于是派遣太子入朝谢罪，献上五千匹马，并馈赠军粮。太子带领一万多人，手持兵器，正要渡过浿水，使者和左将军怀疑他们要叛变，说太子已经归服投降，应该命令人们不要持兵器。太子也怀疑使者和左将军要欺诈杀他，于是不渡浿水，又带兵回去了。卫山回来报告天子，天子诛杀了卫山。",
+      "sentences": [
+        {
+          "original": "天子为两将未有利，乃使卫山因兵威往谕右渠。",
+          "translation": "天子因为两位将军没有取得有利进展，于是派卫山凭借军威去晓谕右渠。",
+          "words": [
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "官职"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "因为",
+              "type": "实词"
+            },
+            {
+              "word": "两将",
+              "pinyin": "liǎng jiàng",
+              "meaning": "两位将军",
+              "type": "实词"
+            },
+            {
+              "word": "未有利",
+              "pinyin": "wèi yǒu lì",
+              "meaning": "没有好处",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "卫山",
+              "pinyin": "wèi shān",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "凭借",
+              "type": "实词"
+            },
+            {
+              "word": "兵威",
+              "pinyin": "bīng wēi",
+              "meaning": "军事威势",
+              "type": "实词"
+            },
+            {
+              "word": "往谕",
+              "pinyin": "wǎng yù",
+              "meaning": "前往晓谕",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王",
+              "type": "人名"
+            }
+          ]
+        },
+        {
+          "original": "右渠见使者顿首谢：“愿降，恐两将诈杀臣；今见信节，请服降。”",
+          "translation": "右渠见到使者，叩头谢罪说：“我愿意投降，但担心两位将军欺诈杀我；现在看到信节，请求归服投降。”",
+          "words": [
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王",
+              "type": "人名"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "拜见",
+              "type": "实词"
+            },
+            {
+              "word": "使者",
+              "pinyin": "shǐ zhě",
+              "meaning": "使臣",
+              "type": "实词"
+            },
+            {
+              "word": "顿首",
+              "pinyin": "dùn shǒu",
+              "meaning": "磕头",
+              "type": "实词"
+            },
+            {
+              "word": "谢",
+              "pinyin": "xiè",
+              "meaning": "谢罪",
+              "type": "实词"
+            },
+            {
+              "word": "愿降",
+              "pinyin": "yuàn jiàng",
+              "meaning": "愿意投降",
+              "type": "实词"
+            },
+            {
+              "word": "恐",
+              "pinyin": "kǒng",
+              "meaning": "恐怕",
+              "type": "实词"
+            },
+            {
+              "word": "两将",
+              "pinyin": "liǎng jiàng",
+              "meaning": "两位将军",
+              "type": "实词"
+            },
+            {
+              "word": "诈杀",
+              "pinyin": "zhà shā",
+              "meaning": "欺诈杀害",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "看到",
+              "type": "实词"
+            },
+            {
+              "word": "信节",
+              "pinyin": "xìn jié",
+              "meaning": "信物符节",
+              "type": "实词"
+            },
+            {
+              "word": "请服降",
+              "pinyin": "qǐng fú jiàng",
+              "meaning": "请求归顺投降",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "遣太子入谢，献马五千匹，及馈军粮。",
+          "translation": "右渠派遣太子入朝谢罪，献上五千匹马，并馈赠军粮。",
+          "words": [
+            {
+              "word": "遣",
+              "pinyin": "qiǎn",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "朝鲜太子",
+              "type": "人名"
+            },
+            {
+              "word": "入谢",
+              "pinyin": "rù xiè",
+              "meaning": "入朝谢罪",
+              "type": "实词"
+            },
+            {
+              "word": "献",
+              "pinyin": "xiàn",
+              "meaning": "进献",
+              "type": "实词"
+            },
+            {
+              "word": "马五千匹",
+              "pinyin": "mǎ wǔ qiān pǐ",
+              "meaning": "五千匹马",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "以及",
+              "type": "实词"
+            },
+            {
+              "word": "馈",
+              "pinyin": "kuì",
+              "meaning": "赠送",
+              "type": "实词"
+            },
+            {
+              "word": "军粮",
+              "pinyin": "jūn liáng",
+              "meaning": "军队粮食",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "人众万馀，持兵，方渡浿水，使者及左将军疑其为变，谓太子已服降，宜命人毋持兵。",
+          "translation": "太子带领一万多人，手持兵器，正要渡过浿水，使者和左将军怀疑他们要叛变，说太子已经归服投降，应该命令人们不要持兵器。",
+          "words": [
+            {
+              "word": "人众",
+              "pinyin": "rén zhòng",
+              "meaning": "人群",
+              "type": "实词"
+            },
+            {
+              "word": "万馀",
+              "pinyin": "wàn yú",
+              "meaning": "一万多人",
+              "type": "实词"
+            },
+            {
+              "word": "持兵",
+              "pinyin": "chí bīng",
+              "meaning": "拿着兵器",
+              "type": "实词"
+            },
+            {
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "正在",
+              "type": "实词"
+            },
+            {
+              "word": "渡",
+              "pinyin": "dù",
+              "meaning": "渡过",
+              "type": "实词"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "pèi shuǐ",
+              "meaning": "河流名",
+              "type": "地名"
+            },
+            {
+              "word": "使者",
+              "pinyin": "shǐ zhě",
+              "meaning": "使臣",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "实词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "疑",
+              "pinyin": "yí",
+              "meaning": "怀疑",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "为变",
+              "pinyin": "wéi biàn",
+              "meaning": "发生变故",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "朝鲜太子",
+              "type": "人名"
+            },
+            {
+              "word": "已服降",
+              "pinyin": "yǐ fú jiàng",
+              "meaning": "已经归顺投降",
+              "type": "实词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "实词"
+            },
+            {
+              "word": "命人",
+              "pinyin": "mìng rén",
+              "meaning": "命令人们",
+              "type": "实词"
+            },
+            {
+              "word": "毋",
+              "pinyin": "wú",
+              "meaning": "不要",
+              "type": "实词"
+            },
+            {
+              "word": "持兵",
+              "pinyin": "chí bīng",
+              "meaning": "拿着兵器",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "太子亦疑使者左将军诈杀之，遂不渡浿水，复引归。",
+          "translation": "太子也怀疑使者和左将军要欺诈杀他，于是不渡浿水，又带兵回去了。",
+          "words": [
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "朝鲜太子",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "实词"
+            },
+            {
+              "word": "疑",
+              "pinyin": "yí",
+              "meaning": "怀疑",
+              "type": "实词"
+            },
+            {
+              "word": "使者",
+              "pinyin": "shǐ zhě",
+              "meaning": "使臣",
+              "type": "实词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "诈杀",
+              "pinyin": "zhà shā",
+              "meaning": "欺诈杀害",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指太子",
+              "type": "虚词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "实词"
+            },
+            {
+              "word": "不渡",
+              "pinyin": "bù dù",
+              "meaning": "不渡过",
+              "type": "实词"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "pèi shuǐ",
+              "meaning": "河流名",
+              "type": "地名"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "又",
+              "type": "实词"
+            },
+            {
+              "word": "引归",
+              "pinyin": "yǐn guī",
+              "meaning": "带领返回",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "山还报天子，天子诛山。",
+          "translation": "卫山回来报告天子，天子诛杀了卫山。",
+          "words": [
+            {
+              "word": "山",
+              "pinyin": "shān",
+              "meaning": "卫山",
+              "type": "人名"
+            },
+            {
+              "word": "还报",
+              "pinyin": "huán bào",
+              "meaning": "返回报告",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "官职"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "官职"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "山",
+              "pinyin": "shān",
+              "meaning": "卫山",
+              "type": "人名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "左将军破浿水上军，乃前，至城下，围其西北。楼船亦往会，居城南。右渠遂坚守城，数月未能下。",
+      "translation": "左将军击败了浿水边的敌军，于是前进，到达城下，包围了城的西北面。楼船将军也前往会合，驻扎在城南。右渠于是坚守城池，数月未能攻下。",
+      "sentences": [
+        {
+          "original": "左将军破浿水上军，乃前，至城下，围其西北。",
+          "translation": "左将军击败了浿水边的敌军，于是前进，到达城下，包围了城的西北面。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "破",
+              "pinyin": "pò",
+              "meaning": "击败",
+              "type": "实词"
+            },
+            {
+              "word": "浿水",
+              "pinyin": "pèi shuǐ",
+              "meaning": "河流名",
+              "type": "地名"
+            },
+            {
+              "word": "上军",
+              "pinyin": "shàng jūn",
+              "meaning": "军队编制",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "前进",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "城下",
+              "pinyin": "chéng xià",
+              "meaning": "城墙下",
+              "type": "实词"
+            },
+            {
+              "word": "围",
+              "pinyin": "wéi",
+              "meaning": "包围",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "它的",
+              "type": "虚词"
+            },
+            {
+              "word": "西北",
+              "pinyin": "xī běi",
+              "meaning": "西北方向",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "楼船亦往会，居城南。",
+          "translation": "楼船将军也前往会合，驻扎在城南。",
+          "words": [
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "往",
+              "pinyin": "wǎng",
+              "meaning": "前往",
+              "type": "实词"
+            },
+            {
+              "word": "会",
+              "pinyin": "huì",
+              "meaning": "会合",
+              "type": "实词"
+            },
+            {
+              "word": "居",
+              "pinyin": "jū",
+              "meaning": "驻扎",
+              "type": "实词"
+            },
+            {
+              "word": "城南",
+              "pinyin": "chéng nán",
+              "meaning": "城的南部",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "右渠遂坚守城，数月未能下。",
+          "translation": "右渠于是坚守城池，数月未能攻下。",
+          "words": [
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王名",
+              "type": "人名"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "坚守",
+              "pinyin": "jiān shǒu",
+              "meaning": "坚决守卫",
+              "type": "实词"
+            },
+            {
+              "word": "城",
+              "pinyin": "chéng",
+              "meaning": "城池",
+              "type": "实词"
+            },
+            {
+              "word": "数月",
+              "pinyin": "shù yuè",
+              "meaning": "几个月",
+              "type": "实词"
+            },
+            {
+              "word": "未能",
+              "pinyin": "wèi néng",
+              "meaning": "没有能够",
+              "type": "实词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "攻下",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "左将军素侍中，幸，将燕代卒，悍，乘胜，军多骄。楼船将齐卒，入海，固已多败亡；其先与右渠战，困辱亡卒，卒皆恐，将心惭，其围右渠，常持和节。",
+      "translation": "左将军一向在宫中侍奉，受宠幸，率领燕地和代地的士兵，强悍，乘着胜利，军队多骄傲。楼船将军率领齐地士兵，进入海上，本来已经多有败亡；他先前与右渠作战，困辱损失士兵，士兵都恐惧，将军心中惭愧，他围攻右渠时，常常持和节。",
+      "sentences": [
+        {
+          "original": "左将军素侍中，幸，将燕代卒，悍，乘胜，军多骄。",
+          "translation": "左将军一向在宫中侍奉，受宠幸，率领燕地和代地的士兵，强悍，乘着胜利，军队多骄傲。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军官职",
+              "type": "官职"
+            },
+            {
+              "word": "素",
+              "pinyin": "sù",
+              "meaning": "平素",
+              "type": "实词"
+            },
+            {
+              "word": "侍中",
+              "pinyin": "shì zhōng",
+              "meaning": "侍中官职",
+              "type": "官职"
+            },
+            {
+              "word": "幸",
+              "pinyin": "xìng",
+              "meaning": "受宠幸",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "率领",
+              "type": "实词"
+            },
+            {
+              "word": "燕代卒",
+              "pinyin": "yàn dài zú",
+              "meaning": "燕代士兵",
+              "type": "实词"
+            },
+            {
+              "word": "悍",
+              "pinyin": "hàn",
+              "meaning": "强悍",
+              "type": "实词"
+            },
+            {
+              "word": "乘胜",
+              "pinyin": "chéng shèng",
+              "meaning": "趁着胜利",
+              "type": "成语"
+            },
+            {
+              "word": "军",
+              "pinyin": "jūn",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多，很",
+              "type": "实词"
+            },
+            {
+              "word": "骄",
+              "pinyin": "jiāo",
+              "meaning": "骄傲",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "楼船将齐卒，入海，固已多败亡；",
+          "translation": "楼船将军率领齐地士兵，进入海上，本来已经多有败亡；",
+          "words": [
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "率领",
+              "type": "实词"
+            },
+            {
+              "word": "齐卒",
+              "pinyin": "qí zú",
+              "meaning": "齐地士兵",
+              "type": "实词"
+            },
+            {
+              "word": "入海",
+              "pinyin": "rù hǎi",
+              "meaning": "进入海洋",
+              "type": "实词"
+            },
+            {
+              "word": "固",
+              "pinyin": "gù",
+              "meaning": "本来",
+              "type": "实词"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "败亡",
+              "pinyin": "bài wáng",
+              "meaning": "败逃死亡",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其先与右渠战，困辱亡卒，卒皆恐，将心惭，其围右渠，常持和节。",
+          "translation": "他先前与右渠作战，困辱损失士兵，士兵都恐惧，将军心中惭愧，他围攻右渠时，常常持和节。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "先前",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王",
+              "type": "人名"
+            },
+            {
+              "word": "战",
+              "pinyin": "zhàn",
+              "meaning": "作战",
+              "type": "实词"
+            },
+            {
+              "word": "困辱",
+              "pinyin": "kùn rǔ",
+              "meaning": "困顿侮辱",
+              "type": "实词"
+            },
+            {
+              "word": "亡卒",
+              "pinyin": "wáng zú",
+              "meaning": "逃亡士兵",
+              "type": "实词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "士兵",
+              "type": "实词"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "恐",
+              "pinyin": "kǒng",
+              "meaning": "恐惧",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "将领",
+              "type": "实词"
+            },
+            {
+              "word": "心惭",
+              "pinyin": "xīn cán",
+              "meaning": "心中惭愧",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们",
+              "type": "实词"
+            },
+            {
+              "word": "围",
+              "pinyin": "wéi",
+              "meaning": "包围",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王",
+              "type": "人名"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "实词"
+            },
+            {
+              "word": "持",
+              "pinyin": "chí",
+              "meaning": "持守",
+              "type": "实词"
+            },
+            {
+              "word": "和节",
+              "pinyin": "hé jié",
+              "meaning": "和平节符",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "左将军急击之，朝鲜大臣乃阴间使人私约降楼船，往来言，尚未肯决。左将军数与楼船期战，楼船欲急就其约，不会；左将军亦使人求间郤降下朝鲜，朝鲜不肯，心附楼船：以故两将不相能。左将军心意楼船前有失军罪，今与朝鲜私善而又不降，疑其有反计，未敢发。天子曰将率不能，前乃使卫山谕降右渠，右渠遣太子，山使不能剸决，与左将军计相误，卒沮约。今两将围城，又乖异，以故久不决。",
+      "translation": "左将军急攻朝鲜，朝鲜大臣于是暗中派人私下与楼船将军约定投降，双方往来商谈，但尚未做出决定。左将军多次与楼船将军约定作战日期，但楼船将军想急于达成投降约定，所以不赴约。左将军也派人寻求机会降服朝鲜，但朝鲜不肯，心向楼船将军；因此两位将领不和。左将军心想楼船将军之前有失军之罪，现在又与朝鲜私下友好而不投降，怀疑他有反叛计划，但不敢发作。天子说将领无能，之前派卫山劝降右渠，右渠派太子，卫山不能专断，与左将军计谋相误，最终破坏了约定。现在两位将领围城，又意见不合，因此久拖不决。",
+      "sentences": [
+        {
+          "original": "左将军急击之，朝鲜大臣乃阴间使人私约降楼船，往来言，尚未肯决。",
+          "translation": "左将军急攻朝鲜，朝鲜大臣于是暗中派人私下与楼船将军约定投降，双方往来商谈，但尚未做出决定。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名，左路将军",
+              "type": "官职"
+            },
+            {
+              "word": "急击",
+              "pinyin": "jí jī",
+              "meaning": "急攻",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代敌人",
+              "type": "虚词"
+            },
+            {
+              "word": "朝鲜大臣",
+              "pinyin": "cháo xiǎn dà chén",
+              "meaning": "朝鲜的大臣",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "阴间",
+              "pinyin": "yīn jiàn",
+              "meaning": "暗中",
+              "type": "实词"
+            },
+            {
+              "word": "使人",
+              "pinyin": "shǐ rén",
+              "meaning": "派人",
+              "type": "实词"
+            },
+            {
+              "word": "私约降",
+              "pinyin": "sī yuē xiáng",
+              "meaning": "私下约定投降",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军，指杨仆",
+              "type": "官职"
+            },
+            {
+              "word": "往来言",
+              "pinyin": "wǎng lái yán",
+              "meaning": "来回传话",
+              "type": "实词"
+            },
+            {
+              "word": "尚未肯决",
+              "pinyin": "shàng wèi kěn jué",
+              "meaning": "还没有决定",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "左将军数与楼船期战，楼船欲急就其约，不会；",
+          "translation": "左将军多次与楼船将军约定作战日期，但楼船将军想急于达成投降约定，所以不赴约。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名，左路将军",
+              "type": "官职"
+            },
+            {
+              "word": "数",
+              "pinyin": "shuò",
+              "meaning": "多次",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军，指杨仆",
+              "type": "官职"
+            },
+            {
+              "word": "期战",
+              "pinyin": "qī zhàn",
+              "meaning": "约定作战",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军，指杨仆",
+              "type": "官职"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "虚词"
+            },
+            {
+              "word": "急就其约",
+              "pinyin": "jí jiù qí yuē",
+              "meaning": "急于完成约定",
+              "type": "实词"
+            },
+            {
+              "word": "不会",
+              "pinyin": "bù huì",
+              "meaning": "没有会合",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "左将军亦使人求间郤降下朝鲜，朝鲜不肯，心附楼船：以故两将不相能。",
+          "translation": "左将军也派人寻求机会降服朝鲜，但朝鲜不肯，心向楼船将军；因此两位将领不和。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名，左路将军",
+              "type": "官职"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "使人",
+              "pinyin": "shǐ rén",
+              "meaning": "派人",
+              "type": "实词"
+            },
+            {
+              "word": "求间郤降下朝鲜",
+              "pinyin": "qiú jiàn xì xiáng xià cháo xiǎn",
+              "meaning": "寻求机会降服朝鲜",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜国",
+              "type": "地名"
+            },
+            {
+              "word": "不肯",
+              "pinyin": "bù kěn",
+              "meaning": "不愿意",
+              "type": "实词"
+            },
+            {
+              "word": "心附楼船",
+              "pinyin": "xīn fù lóu chuán",
+              "meaning": "心向楼船将军",
+              "type": "实词"
+            },
+            {
+              "word": "以故",
+              "pinyin": "yǐ gù",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "两将",
+              "pinyin": "liǎng jiāng",
+              "meaning": "两位将军",
+              "type": "实词"
+            },
+            {
+              "word": "不相能",
+              "pinyin": "bù xiāng néng",
+              "meaning": "不和睦",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "左将军心意楼船前有失军罪，今与朝鲜私善而又不降，疑其有反计，未敢发。",
+          "translation": "左将军心想楼船将军之前有失军之罪，现在又与朝鲜私下友好而不投降，怀疑他有反叛计划，但不敢发作。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名，左路将军",
+              "type": "官职"
+            },
+            {
+              "word": "心意",
+              "pinyin": "xīn yì",
+              "meaning": "心里想",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军，指杨仆",
+              "type": "官职"
+            },
+            {
+              "word": "前有失军罪",
+              "pinyin": "qián yǒu shī jūn zuì",
+              "meaning": "以前有失军之罪",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜国",
+              "type": "地名"
+            },
+            {
+              "word": "私善",
+              "pinyin": "sī shàn",
+              "meaning": "私下友好",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "却",
+              "type": "虚词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "降",
+              "pinyin": "xiáng",
+              "meaning": "投降",
+              "type": "实词"
+            },
+            {
+              "word": "疑其有反计",
+              "pinyin": "yí qí yǒu fǎn jì",
+              "meaning": "怀疑他有反叛计划",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢",
+              "type": "虚词"
+            },
+            {
+              "word": "发",
+              "pinyin": "fā",
+              "meaning": "发动",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "天子曰将率不能，前乃使卫山谕降右渠，右渠遣太子，山使不能剸决，与左将军计相误，卒沮约。",
+          "translation": "天子说将领无能，之前派卫山劝降右渠，右渠派太子，卫山不能专断，与左将军计谋相误，最终破坏了约定。",
+          "words": [
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "虚词"
+            },
+            {
+              "word": "将率不能",
+              "pinyin": "jiāng shuài bù néng",
+              "meaning": "将帅无能",
+              "type": "实词"
+            },
+            {
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "以前",
+              "type": "实词"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派",
+              "type": "实词"
+            },
+            {
+              "word": "卫山",
+              "pinyin": "wèi shān",
+              "meaning": "人名，卫山",
+              "type": "人名"
+            },
+            {
+              "word": "谕降",
+              "pinyin": "yù xiáng",
+              "meaning": "谕令投降",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "人名，朝鲜王右渠",
+              "type": "人名"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "人名，朝鲜王右渠",
+              "type": "人名"
+            },
+            {
+              "word": "遣",
+              "pinyin": "qiǎn",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "太子",
+              "pinyin": "tài zǐ",
+              "meaning": "太子",
+              "type": "实词"
+            },
+            {
+              "word": "山使",
+              "pinyin": "shān shǐ",
+              "meaning": "卫山出使",
+              "type": "实词"
+            },
+            {
+              "word": "不能剸决",
+              "pinyin": "bù néng zhuàn jué",
+              "meaning": "不能专断",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名，左路将军",
+              "type": "官职"
+            },
+            {
+              "word": "计",
+              "pinyin": "jì",
+              "meaning": "计划",
+              "type": "实词"
+            },
+            {
+              "word": "相误",
+              "pinyin": "xiāng wù",
+              "meaning": "相互错误",
+              "type": "实词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "最终",
+              "type": "实词"
+            },
+            {
+              "word": "沮约",
+              "pinyin": "jǔ yuē",
+              "meaning": "破坏约定",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "今两将围城，又乖异，以故久不决。",
+          "translation": "现在两位将领围城，又意见不合，因此久拖不决。",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "两将",
+              "pinyin": "liǎng jiàng",
+              "meaning": "两位将军",
+              "type": "实词"
+            },
+            {
+              "word": "围城",
+              "pinyin": "wéi chéng",
+              "meaning": "包围城池",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又，再次",
+              "type": "虚词"
+            },
+            {
+              "word": "乖异",
+              "pinyin": "guāi yì",
+              "meaning": "不一致",
+              "type": "实词"
+            },
+            {
+              "word": "以故",
+              "pinyin": "yǐ gù",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "长久",
+              "type": "虚词"
+            },
+            {
+              "word": "不决",
+              "pinyin": "bù jué",
+              "meaning": "没有决定",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "使济南太守公孙遂往正之，有便宜得以从事。遂至，左将军曰：“朝鲜当下久矣，不下者有状。”言楼船数朝不会，具以素所意告遂，曰：“今如此不取，恐为大害，非独楼船，又且与朝鲜共灭吾军。”遂亦以为然，而以节召楼船将军入左将军营计事，即命左将军麾下执捕楼船将军，并其军，以报天子。天子诛遂。",
+      "translation": "派遣济南太守公孙遂前往纠正此事，允许他根据情况自行决断。公孙遂到达后，左将军说：“朝鲜早该被攻下了，攻不下来是有原因的。”他提到楼船将军多次约定朝见却不来会合，详细地将平日所怀疑的告诉公孙遂，说：“现在如果不拿下他，恐怕会造成大祸害，不只是楼船将军，还会与朝鲜一起消灭我的军队。”公孙遂也认为是这样，于是用符节召楼船将军进入左将军军营商议事情，随即命令左将军的部下逮捕楼船将军，兼并了他的军队，并报告天子。天子诛杀了公孙遂。",
+      "sentences": [
+        {
+          "original": "使济南太守公孙遂往正之，有便宜得以从事。",
+          "translation": "派遣济南太守公孙遂前往纠正此事，允许他根据情况自行决断。",
+          "words": [
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "济南太守",
+              "pinyin": "jǐ nán tài shǒu",
+              "meaning": "济南太守",
+              "type": "官职"
+            },
+            {
+              "word": "公孙遂",
+              "pinyin": "gōng sūn suì",
+              "meaning": "公孙遂",
+              "type": "人名"
+            },
+            {
+              "word": "往",
+              "pinyin": "wǎng",
+              "meaning": "前往",
+              "type": "实词"
+            },
+            {
+              "word": "正",
+              "pinyin": "zhèng",
+              "meaning": "纠正",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "便宜",
+              "pinyin": "biàn yí",
+              "meaning": "便利机会",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "从事",
+              "pinyin": "cóng shì",
+              "meaning": "处理事务",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "遂至，左将军曰：“朝鲜当下久矣，不下者有状。”言楼船数朝不会，具以素所意告遂，曰：“今如此不取，恐为大害，非独楼船，又且与朝鲜共灭吾军。”",
+          "translation": "公孙遂到达后，左将军说：“朝鲜早该被攻下了，攻不下来是有原因的。”他提到楼船将军多次约定朝见却不来会合，详细地将平日所怀疑的告诉公孙遂，说：“现在如果不拿下他，恐怕会造成大祸害，不只是楼船将军，还会与朝鲜一起消灭我的军队。”",
+          "words": [
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "公孙遂",
+              "type": "人名"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军",
+              "type": "官职"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜",
+              "type": "地名"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应该",
+              "type": "实词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "攻下",
+              "type": "实词"
+            },
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "长久",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "攻下",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "的原因",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "状",
+              "pinyin": "zhuàng",
+              "meaning": "情况",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "数",
+              "pinyin": "shuò",
+              "meaning": "多次",
+              "type": "实词"
+            },
+            {
+              "word": "朝",
+              "pinyin": "cháo",
+              "meaning": "朝见",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "会",
+              "pinyin": "huì",
+              "meaning": "会面",
+              "type": "实词"
+            },
+            {
+              "word": "具",
+              "pinyin": "jù",
+              "meaning": "详细",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "把",
+              "type": "虚词"
+            },
+            {
+              "word": "素",
+              "pinyin": "sù",
+              "meaning": "平时",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "所",
+              "type": "虚词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "想法",
+              "type": "实词"
+            },
+            {
+              "word": "告",
+              "pinyin": "gào",
+              "meaning": "告诉",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "公孙遂",
+              "type": "人名"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "实词"
+            },
+            {
+              "word": "如此",
+              "pinyin": "rú cǐ",
+              "meaning": "这样",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "攻取",
+              "type": "实词"
+            },
+            {
+              "word": "恐",
+              "pinyin": "kǒng",
+              "meaning": "恐怕",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "大",
+              "type": "实词"
+            },
+            {
+              "word": "害",
+              "pinyin": "hài",
+              "meaning": "祸害",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "仅",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "实词"
+            },
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜",
+              "type": "地名"
+            },
+            {
+              "word": "共",
+              "pinyin": "gòng",
+              "meaning": "共同",
+              "type": "实词"
+            },
+            {
+              "word": "灭",
+              "pinyin": "miè",
+              "meaning": "消灭",
+              "type": "实词"
+            },
+            {
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "我的",
+              "type": "实词"
+            },
+            {
+              "word": "军",
+              "pinyin": "jūn",
+              "meaning": "军队",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "遂亦以为然，而以节召楼船将军入左将军营计事，即命左将军麾下执捕楼船将军，并其军，以报天子。",
+          "translation": "公孙遂也认为是这样，于是用符节召楼船将军进入左将军军营商议事情，随即命令左将军的部下逮捕楼船将军，兼并了他的军队，并报告天子。",
+          "words": [
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "公孙遂",
+              "type": "人名"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "实词"
+            },
+            {
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "认为",
+              "type": "实词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "这样",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "节",
+              "pinyin": "jié",
+              "meaning": "符节",
+              "type": "实词"
+            },
+            {
+              "word": "召",
+              "pinyin": "zhào",
+              "meaning": "召唤",
+              "type": "实词"
+            },
+            {
+              "word": "楼船将军",
+              "pinyin": "lóu chuán jiāng jūn",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "进入",
+              "type": "实词"
+            },
+            {
+              "word": "左将军营",
+              "pinyin": "zuǒ jiāng jūn yíng",
+              "meaning": "左将军军营",
+              "type": "实词"
+            },
+            {
+              "word": "计事",
+              "pinyin": "jì shì",
+              "meaning": "商议事情",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "立即",
+              "type": "实词"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令",
+              "type": "实词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军",
+              "type": "官职"
+            },
+            {
+              "word": "麾下",
+              "pinyin": "huī xià",
+              "meaning": "部下",
+              "type": "实词"
+            },
+            {
+              "word": "执捕",
+              "pinyin": "zhí bǔ",
+              "meaning": "逮捕",
+              "type": "实词"
+            },
+            {
+              "word": "楼船将军",
+              "pinyin": "lóu chuán jiāng jūn",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "并",
+              "pinyin": "bìng",
+              "meaning": "合并",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他的",
+              "type": "虚词"
+            },
+            {
+              "word": "军",
+              "pinyin": "jūn",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "报",
+              "pinyin": "bào",
+              "meaning": "报告",
+              "type": "实词"
+            },
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "天子诛遂。",
+          "translation": "天子诛杀了公孙遂。",
+          "words": [
+            {
+              "word": "天子",
+              "pinyin": "tiān zǐ",
+              "meaning": "皇帝",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "公孙遂",
+              "type": "人名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "左将军已并两军，即急击朝鲜。朝鲜相路人、相韩阴、尼谿相参、将军王唊相与谋曰：“始欲降楼船，楼船今执，独左将军并将，战益急，恐不能与，王又不肯降。”阴、唊、路人皆亡降汉。路人道死。元封三年夏，尼谿相参乃使人杀朝鲜王右渠来降。王险城未下，故右渠之大臣成巳又反，复攻吏。左将军使右渠子长降、相路人之子最告谕其民，诛成巳，以故遂定朝鲜，为四郡。封参为澅清侯，阴为荻苴侯，唊为平州侯，长降为几侯。最以父死颇有功，为温阳侯。",
+      "translation": "左将军已经合并了两支军队，立即急攻朝鲜。朝鲜的相路人、相韩阴、尼谿相参、将军王唊一起谋划说：“起初想投降楼船将军，现在楼船将军被拘捕，只有左将军统领两军，战斗更加急迫，恐怕无法抵抗，国王又不肯投降。”韩阴、王唊、路人都逃亡投降了汉朝。路人在路上死了。元封三年夏天，尼谿相参于是派人杀了朝鲜王右渠来投降。王险城还没有被攻下，所以右渠的大臣成巳又反叛，再次攻击官吏。左将军派右渠的儿子长降、相路人的儿子最告谕民众，诛杀了成巳，因此于是平定了朝鲜，设置为四个郡。封参为澅清侯，韩阴为荻苴侯，王唊为平州侯，长降为几侯。最因为父亲死得颇有功劳，被封为温阳侯。",
+      "sentences": [
+        {
+          "original": "左将军已并两军，即急击朝鲜。",
+          "translation": "左将军已经合并了两支军队，立即急攻朝鲜。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军",
+              "type": "官职"
+            },
+            {
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "并",
+              "pinyin": "bìng",
+              "meaning": "合并",
+              "type": "实词"
+            },
+            {
+              "word": "两军",
+              "pinyin": "liǎng jūn",
+              "meaning": "两支军队",
+              "type": "实词"
+            },
+            {
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "急击",
+              "pinyin": "jí jī",
+              "meaning": "急攻",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "朝鲜相路人、相韩阴、尼谿相参、将军王唊相与谋曰：“始欲降楼船，楼船今执，独左将军并将，战益急，恐不能与，王又不肯降。”",
+          "translation": "朝鲜的相路人、相韩阴、尼谿相参、将军王唊一起谋划说：“起初想投降楼船将军，现在楼船将军被拘捕，只有左将军统领两军，战斗更加急迫，恐怕无法抵抗，国王又不肯投降。”",
+          "words": [
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "朝鲜",
+              "type": "地名"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相",
+              "type": "官职"
+            },
+            {
+              "word": "路人",
+              "pinyin": "lù rén",
+              "meaning": "路人",
+              "type": "人名"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相",
+              "type": "官职"
+            },
+            {
+              "word": "韩阴",
+              "pinyin": "hán yīn",
+              "meaning": "韩阴",
+              "type": "人名"
+            },
+            {
+              "word": "尼谿",
+              "pinyin": "ní xī",
+              "meaning": "尼谿",
+              "type": "地名"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相",
+              "type": "官职"
+            },
+            {
+              "word": "参",
+              "pinyin": "cān",
+              "meaning": "参",
+              "type": "人名"
+            },
+            {
+              "word": "将军",
+              "pinyin": "jiāng jūn",
+              "meaning": "将军",
+              "type": "官职"
+            },
+            {
+              "word": "王唊",
+              "pinyin": "wáng jiá",
+              "meaning": "王唊",
+              "type": "人名"
+            },
+            {
+              "word": "相与",
+              "pinyin": "xiāng yǔ",
+              "meaning": "一起",
+              "type": "虚词"
+            },
+            {
+              "word": "谋",
+              "pinyin": "móu",
+              "meaning": "谋划",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "虚词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "虚词"
+            },
+            {
+              "word": "降",
+              "pinyin": "xiáng",
+              "meaning": "投降",
+              "type": "实词"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "虚词"
+            },
+            {
+              "word": "执",
+              "pinyin": "zhí",
+              "meaning": "被抓",
+              "type": "实词"
+            },
+            {
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "只有",
+              "type": "虚词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军",
+              "type": "官职"
+            },
+            {
+              "word": "并",
+              "pinyin": "bìng",
+              "meaning": "合并",
+              "type": "实词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "战",
+              "pinyin": "zhàn",
+              "meaning": "战斗",
+              "type": "实词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "更加",
+              "type": "虚词"
+            },
+            {
+              "word": "急",
+              "pinyin": "jí",
+              "meaning": "紧急",
+              "type": "实词"
+            },
+            {
+              "word": "恐",
+              "pinyin": "kǒng",
+              "meaning": "恐怕",
+              "type": "虚词"
+            },
+            {
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "不能",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "对付",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wáng",
+              "meaning": "朝鲜王",
+              "type": "人名"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "不肯",
+              "pinyin": "bù kěn",
+              "meaning": "不愿意",
+              "type": "实词"
+            },
+            {
+              "word": "降",
+              "pinyin": "xiáng",
+              "meaning": "投降",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "阴、唊、路人皆亡降汉。",
+          "translation": "韩阴、王唊、路人都逃亡投降了汉朝。",
+          "words": [
+            {
+              "word": "阴",
+              "pinyin": "yīn",
+              "meaning": "韩阴",
+              "type": "人名"
+            },
+            {
+              "word": "唊",
+              "pinyin": "jiá",
+              "meaning": "王唊",
+              "type": "人名"
+            },
+            {
+              "word": "路人",
+              "pinyin": "lù rén",
+              "meaning": "路人",
+              "type": "人名"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "虚词"
+            },
+            {
+              "word": "亡降",
+              "pinyin": "wáng xiáng",
+              "meaning": "逃亡投降",
+              "type": "实词"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "汉朝",
+              "type": "地名"
+            }
+          ]
+        },
+        {
+          "original": "路人道死。",
+          "translation": "路人在路上死了。",
+          "words": [
+            {
+              "word": "路人",
+              "pinyin": "lù rén",
+              "meaning": "路人",
+              "type": "人名"
+            },
+            {
+              "word": "道死",
+              "pinyin": "dào sǐ",
+              "meaning": "死在路上",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "元封三年夏，尼谿相参乃使人杀朝鲜王右渠来降。",
+          "translation": "元封三年夏天，尼谿相参于是派人杀了朝鲜王右渠来投降。",
+          "words": [
+            {
+              "word": "元封三年",
+              "pinyin": "yuán fēng sān nián",
+              "meaning": "元封三年",
+              "type": "年号"
+            },
+            {
+              "word": "夏",
+              "pinyin": "xià",
+              "meaning": "夏天",
+              "type": "实词"
+            },
+            {
+              "word": "尼谿",
+              "pinyin": "ní xī",
+              "meaning": "尼谿",
+              "type": "地名"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "相",
+              "type": "官职"
+            },
+            {
+              "word": "参",
+              "pinyin": "cān",
+              "meaning": "参",
+              "type": "人名"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "使人",
+              "pinyin": "shǐ rén",
+              "meaning": "派人",
+              "type": "实词"
+            },
+            {
+              "word": "杀",
+              "pinyin": "shā",
+              "meaning": "杀死",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜王",
+              "pinyin": "cháo xiǎn wáng",
+              "meaning": "朝鲜王",
+              "type": "官职"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "右渠",
+              "type": "人名"
+            },
+            {
+              "word": "来降",
+              "pinyin": "lái xiáng",
+              "meaning": "来投降",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "王险城未下，故右渠之大臣成巳又反，复攻吏。",
+          "translation": "王险城还没有被攻下，所以右渠的大臣成巳又反叛，再次攻击官吏。",
+          "words": [
+            {
+              "word": "王险城",
+              "pinyin": "wáng xiǎn chéng",
+              "meaning": "朝鲜都城",
+              "type": "地名"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "攻下",
+              "type": "实词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "大臣",
+              "pinyin": "dà chén",
+              "meaning": "高官",
+              "type": "实词"
+            },
+            {
+              "word": "成巳",
+              "pinyin": "chéng sì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "再次",
+              "type": "虚词"
+            },
+            {
+              "word": "反",
+              "pinyin": "fǎn",
+              "meaning": "反叛",
+              "type": "实词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "又",
+              "type": "虚词"
+            },
+            {
+              "word": "攻",
+              "pinyin": "gōng",
+              "meaning": "攻击",
+              "type": "实词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "官吏",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "左将军使右渠子长降、相路人之子最告谕其民，诛成巳，以故遂定朝鲜，为四郡。",
+          "translation": "左将军派右渠的儿子长降、相路人的儿子最告谕民众，诛杀了成巳，因此于是平定了朝鲜，设置为四个郡。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
+              "type": "实词"
+            },
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王名",
+              "type": "人名"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "长降",
+              "pinyin": "cháng jiàng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "相路人",
+              "pinyin": "xiàng lù rén",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "最",
+              "pinyin": "zuì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "告谕",
+              "pinyin": "gào yù",
+              "meaning": "告知",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他们的",
+              "type": "虚词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "百姓",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "成巳",
+              "pinyin": "chéng sì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "缘故",
+              "type": "虚词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "定",
+              "pinyin": "dìng",
+              "meaning": "平定",
+              "type": "实词"
+            },
+            {
+              "word": "朝鲜",
+              "pinyin": "cháo xiǎn",
+              "meaning": "国名",
+              "type": "地名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "设立为",
+              "type": "实词"
+            },
+            {
+              "word": "四",
+              "pinyin": "sì",
+              "meaning": "四",
+              "type": "实词"
+            },
+            {
+              "word": "郡",
+              "pinyin": "jùn",
+              "meaning": "郡县",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "封参为澅清侯，阴为荻苴侯，唊为平州侯，长降为几侯。",
+          "translation": "封参为澅清侯，韩阴为荻苴侯，王唊为平州侯，长降为几侯。",
+          "words": [
+            {
+              "word": "封",
+              "pinyin": "fēng",
+              "meaning": "封赏",
+              "type": "实词"
+            },
+            {
+              "word": "参",
+              "pinyin": "cān",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "封为",
+              "type": "实词"
+            },
+            {
+              "word": "澅清侯",
+              "pinyin": "huà qīng hóu",
+              "meaning": "封号",
+              "type": "官职"
+            },
+            {
+              "word": "阴",
+              "pinyin": "yīn",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "封为",
+              "type": "实词"
+            },
+            {
+              "word": "荻苴侯",
+              "pinyin": "dí jū hóu",
+              "meaning": "封号",
+              "type": "官职"
+            },
+            {
+              "word": "唊",
+              "pinyin": "jiá",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "封为",
+              "type": "实词"
+            },
+            {
+              "word": "平州侯",
+              "pinyin": "píng zhōu hóu",
+              "meaning": "封号",
+              "type": "官职"
+            },
+            {
+              "word": "长降",
+              "pinyin": "cháng jiàng",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "封为",
+              "type": "实词"
+            },
+            {
+              "word": "几侯",
+              "pinyin": "jǐ hóu",
+              "meaning": "封号",
+              "type": "官职"
+            }
+          ]
+        },
+        {
+          "original": "最以父死颇有功，为温阳侯。",
+          "translation": "最因为父亲死得颇有功劳，被封为温阳侯。",
+          "words": [
+            {
+              "word": "最",
+              "pinyin": "zuì",
+              "meaning": "人名",
+              "type": "人名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "父",
+              "pinyin": "fù",
+              "meaning": "父亲",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死亡",
+              "type": "实词"
+            },
+            {
+              "word": "颇",
+              "pinyin": "pō",
+              "meaning": "很",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "功",
+              "pinyin": "gōng",
+              "meaning": "功劳",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "封为",
+              "type": "实词"
+            },
+            {
+              "word": "温阳侯",
+              "pinyin": "wēn yáng hóu",
+              "meaning": "封号",
+              "type": "官职"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "左将军徵至，坐争功相嫉，乖计，弃市。楼船将军亦坐兵至洌口，当待左将军，擅先纵，失亡多，当诛，赎为庶人。",
+      "translation": "左将军被召回，因争功相嫉、违背计策，被处死弃市。楼船将军也因兵至洌口时，应当等待左将军，却擅自先行进军，损失惨重，应被诛杀，但赎为庶人。",
+      "sentences": [
+        {
+          "original": "左将军徵至，坐争功相嫉，乖计，弃市。",
+          "translation": "左将军被召回，因争功相嫉、违背计策，被处死弃市。",
+          "words": [
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军官职",
+              "type": "官职"
+            },
+            {
+              "word": "徵",
+              "pinyin": "zhēng",
+              "meaning": "征召",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "坐",
+              "pinyin": "zuò",
+              "meaning": "因...获罪",
+              "type": "实词"
+            },
+            {
+              "word": "争功",
+              "pinyin": "zhēng gōng",
+              "meaning": "争夺功劳",
+              "type": "实词"
+            },
+            {
+              "word": "相嫉",
+              "pinyin": "xiāng jí",
+              "meaning": "互相嫉妒",
+              "type": "实词"
+            },
+            {
+              "word": "乖",
+              "pinyin": "guāi",
+              "meaning": "违背",
+              "type": "实词"
+            },
+            {
+              "word": "计",
+              "pinyin": "jì",
+              "meaning": "计策",
+              "type": "实词"
+            },
+            {
+              "word": "弃市",
+              "pinyin": "qì shì",
+              "meaning": "处死示众",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "楼船将军亦坐兵至洌口，当待左将军，擅先纵，失亡多，当诛，赎为庶人。",
+          "translation": "楼船将军也因兵至洌口时，应当等待左将军，却擅自先行进军，损失惨重，应被诛杀，但赎为庶人。",
+          "words": [
+            {
+              "word": "楼船将军",
+              "pinyin": "lóu chuán jiāng jūn",
+              "meaning": "楼船将军官职",
+              "type": "官职"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "也",
+              "type": "虚词"
+            },
+            {
+              "word": "坐",
+              "pinyin": "zuò",
+              "meaning": "因...获罪",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到达",
+              "type": "实词"
+            },
+            {
+              "word": "洌口",
+              "pinyin": "liè kǒu",
+              "meaning": "洌水之口",
+              "type": "地名"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应当",
+              "type": "实词"
+            },
+            {
+              "word": "待",
+              "pinyin": "dài",
+              "meaning": "等待",
+              "type": "实词"
+            },
+            {
+              "word": "左将军",
+              "pinyin": "zuǒ jiāng jūn",
+              "meaning": "左将军官职",
+              "type": "官职"
+            },
+            {
+              "word": "擅",
+              "pinyin": "shàn",
+              "meaning": "擅自",
+              "type": "实词"
+            },
+            {
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "先",
+              "type": "实词"
+            },
+            {
+              "word": "纵",
+              "pinyin": "zòng",
+              "meaning": "进军",
+              "type": "实词"
+            },
+            {
+              "word": "失亡",
+              "pinyin": "shī wáng",
+              "meaning": "损失伤亡",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多",
+              "type": "实词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应当",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            },
+            {
+              "word": "赎",
+              "pinyin": "shú",
+              "meaning": "赎罪",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "实词"
+            },
+            {
+              "word": "庶人",
+              "pinyin": "shù rén",
+              "meaning": "平民",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "太史公曰：右渠负固，国以绝祀。涉何诬功，为兵发首。楼船将狭，及难离咎。悔失番禺，乃反见疑。荀彘争劳，与遂皆诛。两军俱辱，将率莫侯矣。",
+      "translation": "太史公说：右渠依仗险固，国家因此灭亡。涉何诬陷功劳，成为战争爆发的开端。楼船将军心胸狭隘，遭遇灾难，陷入罪咎。他后悔失去番禺，反而被怀疑。荀彘争功，与公孙遂都被诛杀。两军都蒙受耻辱，将领们没有封侯。",
+      "sentences": [
+        {
+          "original": "太史公曰：",
+          "translation": "太史公说：",
+          "words": [
+            {
+              "word": "太史公曰",
+              "pinyin": "tài shǐ gōng yuē",
+              "meaning": "司马迁评论说",
+              "type": "成语"
+            }
+          ]
+        },
+        {
+          "original": "右渠负固，国以绝祀。",
+          "translation": "右渠依仗险固，国家因此断绝祭祀。",
+          "words": [
+            {
+              "word": "右渠",
+              "pinyin": "yòu qú",
+              "meaning": "朝鲜王名",
+              "type": "人名"
+            },
+            {
+              "word": "负固",
+              "pinyin": "fù gù",
+              "meaning": "依靠险固",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "绝祀",
+              "pinyin": "jué sì",
+              "meaning": "断绝祭祀",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "涉何诬功，为兵发首。",
+          "translation": "涉何诬陷功劳，成为战争爆发的开端。",
+          "words": [
+            {
+              "word": "涉何",
+              "pinyin": "shè hé",
+              "meaning": "汉朝使臣",
+              "type": "人名"
+            },
+            {
+              "word": "诬功",
+              "pinyin": "wū gōng",
+              "meaning": "诬陷功劳",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "成为",
+              "type": "虚词"
+            },
+            {
+              "word": "兵发",
+              "pinyin": "bīng fā",
+              "meaning": "发兵",
+              "type": "实词"
+            },
+            {
+              "word": "首",
+              "pinyin": "shǒu",
+              "meaning": "开端",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "楼船将狭，及难离咎。",
+          "translation": "楼船将军心胸狭隘，遭遇灾难，陷入罪咎。",
+          "words": [
+            {
+              "word": "楼船",
+              "pinyin": "lóu chuán",
+              "meaning": "楼船将军",
+              "type": "官职"
+            },
+            {
+              "word": "将狭",
+              "pinyin": "jiàng xiá",
+              "meaning": "将领狭隘",
+              "type": "实词"
+            },
+            {
+              "word": "及难",
+              "pinyin": "jí nàn",
+              "meaning": "遇到灾难",
+              "type": "实词"
+            },
+            {
+              "word": "离咎",
+              "pinyin": "lí jiù",
+              "meaning": "遭受咎责",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "悔失番禺，乃反见疑。",
+          "translation": "后悔失去番禺，反而被怀疑。",
+          "words": [
+            {
+              "word": "悔失",
+              "pinyin": "huī shī",
+              "meaning": "后悔失去",
+              "type": "实词"
+            },
+            {
+              "word": "番禺",
+              "pinyin": "pān yú",
+              "meaning": "地名",
+              "type": "地名"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "于是",
+              "type": "虚词"
+            },
+            {
+              "word": "反",
+              "pinyin": "fǎn",
+              "meaning": "反而",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "被",
+              "type": "虚词"
+            },
+            {
+              "word": "疑",
+              "pinyin": "yí",
+              "meaning": "怀疑",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "荀彘争劳，与遂皆诛。",
+          "translation": "荀彘争功，与公孙遂都被诛杀。",
+          "words": [
+            {
+              "word": "荀彘",
+              "pinyin": "xún zhì",
+              "meaning": "荀彘",
+              "type": "人名"
+            },
+            {
+              "word": "争劳",
+              "pinyin": "zhēng láo",
+              "meaning": "争夺功劳",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "遂",
+              "type": "人名"
+            },
+            {
+              "word": "皆",
+              "pinyin": "jiē",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "诛杀",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "两军俱辱，将率莫侯矣。",
+          "translation": "两军都蒙受耻辱，将领们没有封侯。",
+          "words": [
+            {
+              "word": "两军",
+              "pinyin": "liǎng jūn",
+              "meaning": "两支军队",
+              "type": "实词"
+            },
+            {
+              "word": "俱",
+              "pinyin": "jù",
+              "meaning": "都",
+              "type": "实词"
+            },
+            {
+              "word": "辱",
+              "pinyin": "rǔ",
+              "meaning": "受辱",
+              "type": "实词"
+            },
+            {
+              "word": "将率",
+              "pinyin": "jiàng shuài",
+              "meaning": "将领",
+              "type": "实词"
+            },
+            {
+              "word": "莫",
+              "pinyin": "mò",
+              "meaning": "没有人",
+              "type": "实词"
+            },
+            {
+              "word": "侯",
+              "pinyin": "hóu",
+              "meaning": "封侯",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "了",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "shiji",
+  "legacyId": "shiji_115"
+}

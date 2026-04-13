@@ -1,0 +1,2092 @@
+{
+  "id": "105_陈情表",
+  "title": "陈情表",
+  "author": {
+    "id": "wei_jin_李密",
+    "name": "李密",
+    "dynasty": "wei_jin",
+    "bio": "李密（224年－287年），字令伯，一名虔，西晋犍为武阳（今四川彭山）人。早年丧父，母亲改嫁，由祖母刘氏抚养成人，以孝行闻名。曾在蜀汉担任尚书郎，蜀汉灭亡后，晋武帝多次征召，他因祖母年老上《陈情表》推辞，暂缓出仕。祖母去世后，历任太子洗马、汉中太守等职。李密是西晋著名文学家，作品以《陈情表》最为杰出，情感真挚，流传后世，成为古代散文经典。"
+  },
+  "source": "",
+  "dynasty": "wei_jin",
+  "volume": 7,
+  "background": "李密写作《陈情表》的背景是西晋初年，晋武帝司马炎为巩固政权，大力征召蜀汉旧臣以笼络人心。李密原为蜀汉官员，曾任尚书郎，蜀汉灭亡后，他因祖母刘氏年老多病、无人奉养，多次推辞朝廷征召。文章上于晋武帝泰始三年（267年），当时李密被举荐为孝廉、秀才，后又被任命为郎中、太子洗马等职，但他均以祖母需亲自侍奉为由辞谢。晋武帝下诏催促，责备他怠慢，李密遂上此表，陈述个人孤苦身世与孝养祖母的迫切心情，请求暂缓赴任。这一背景反映了魏晋时期“以孝治天下”的社会伦理，以及士人在朝代更迭中面临的道德与政治困境，李密巧妙利用孝道作为理由，既表达真情，又避免直接触怒皇权。",
+  "appreciation": "《陈情表》是古代抒情散文的典范，以情感真挚、结构严谨著称。文章开篇叙述作者悲惨身世，如“生孩六月，慈父见背”，通过细节描写营造孤苦氛围，引出祖母抚养之恩，奠定全文情感基调。接着，描述朝廷征召与个人困境的对比，“臣欲奉诏奔驰，则以刘病日笃”，层层递进地展现忠孝两难的矛盾，语言恳切动人。修辞上，运用排比、对偶增强感染力，如“外无期功强近之亲，内无应门五尺之童”，形象刻画孤苦无依的境况；比喻手法如“乌鸟私情”，以乌鸦反哺象征孝心，生动贴切。结构上，从个人遭遇上升到国家伦理，以“伏惟圣朝以孝治天下”巧妙援引政策，使请求合理化，最后以“生当陨首，死当结草”表达忠诚，收束全文。文章情感沛然，逻辑严密，不仅颂扬孝道，还展现李密在政治压力下的智慧与真情，后世誉为“读《陈情表》不下泪者，其人必不孝”，影响深远。",
+  "tags": [
+    "孝道文学",
+    "抒情散文",
+    "魏晋南北朝"
+  ],
+  "paragraphs": [
+    {
+      "original": "臣密言：臣以险衅，夙遭闵凶。生孩六月，慈父见背。行年四岁，舅夺母志。",
+      "translation": "李密说：我因为命运坎坷，早年遭受不幸。出生才六个月，慈爱的父亲就去世了。到了四岁，舅父强迫母亲改嫁。",
+      "sentences": [
+        {
+          "original": "臣密言：臣以险衅，夙遭闵凶。",
+          "translation": "李密说：我因为命运坎坷，早年遭受不幸。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "密",
+              "pinyin": "mì",
+              "meaning": "李密",
+              "type": "人名"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "险衅",
+              "pinyin": "xiǎn xìn",
+              "meaning": "命运坎坷",
+              "type": "实词"
+            },
+            {
+              "word": "夙",
+              "pinyin": "sù",
+              "meaning": "早时",
+              "type": "虚词"
+            },
+            {
+              "word": "遭",
+              "pinyin": "zāo",
+              "meaning": "遭受",
+              "type": "实词"
+            },
+            {
+              "word": "闵凶",
+              "pinyin": "mǐn xiōng",
+              "meaning": "忧患不幸",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "生孩六月，慈父见背。",
+          "translation": "出生才六个月，慈爱的父亲就去世了。",
+          "words": [
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "出生",
+              "type": "实词"
+            },
+            {
+              "word": "孩",
+              "pinyin": "hái",
+              "meaning": "婴儿",
+              "type": "实词"
+            },
+            {
+              "word": "六月",
+              "pinyin": "liù yuè",
+              "meaning": "六个月",
+              "type": "实词"
+            },
+            {
+              "word": "慈父",
+              "pinyin": "cí fù",
+              "meaning": "慈父",
+              "type": "实词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "表示被动",
+              "type": "虚词"
+            },
+            {
+              "word": "背",
+              "pinyin": "bèi",
+              "meaning": "离世",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "行年四岁，舅夺母志。",
+          "translation": "到了四岁，舅父强迫母亲改嫁。",
+          "words": [
+            {
+              "word": "行年",
+              "pinyin": "xíng nián",
+              "meaning": "年龄增长",
+              "type": "实词"
+            },
+            {
+              "word": "四岁",
+              "pinyin": "sì suì",
+              "meaning": "四岁",
+              "type": "实词"
+            },
+            {
+              "word": "舅",
+              "pinyin": "jiù",
+              "meaning": "舅舅",
+              "type": "实词"
+            },
+            {
+              "word": "夺",
+              "pinyin": "duó",
+              "meaning": "强夺",
+              "type": "实词"
+            },
+            {
+              "word": "母志",
+              "pinyin": "mǔ zhì",
+              "meaning": "母亲的志向",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "祖母刘，愍臣孤弱，躬亲抚养。臣少多疾病，九岁不行，零丁孤苦，至于成立。",
+      "translation": "祖母刘氏怜悯我孤苦弱小，亲自抚养我。我小时候多病，九岁还不能走路，孤苦伶仃，直到成人。",
+      "sentences": [
+        {
+          "original": "祖母刘，愍臣孤弱，躬亲抚养。",
+          "translation": "祖母刘氏怜悯我孤苦弱小，亲自抚养我。",
+          "words": [
+            {
+              "word": "祖母",
+              "pinyin": "zǔ mǔ",
+              "meaning": "祖母",
+              "type": "实词"
+            },
+            {
+              "word": "刘",
+              "pinyin": "liú",
+              "meaning": "姓氏",
+              "type": "人名"
+            },
+            {
+              "word": "愍",
+              "pinyin": "mǐn",
+              "meaning": "怜悯",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "孤弱",
+              "pinyin": "gū ruò",
+              "meaning": "孤独弱小",
+              "type": "实词"
+            },
+            {
+              "word": "躬亲",
+              "pinyin": "gōng qīn",
+              "meaning": "亲自",
+              "type": "实词"
+            },
+            {
+              "word": "抚养",
+              "pinyin": "fǔ yǎng",
+              "meaning": "抚养",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣少多疾病，九岁不行，零丁孤苦，至于成立。",
+          "translation": "我小时候多病，九岁还不能走路，孤苦伶仃，直到成人。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "少",
+              "pinyin": "shào",
+              "meaning": "年少时",
+              "type": "实词"
+            },
+            {
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "多有",
+              "type": "实词"
+            },
+            {
+              "word": "疾病",
+              "pinyin": "jí bìng",
+              "meaning": "疾病",
+              "type": "实词"
+            },
+            {
+              "word": "九岁",
+              "pinyin": "jiǔ suì",
+              "meaning": "九岁",
+              "type": "实词"
+            },
+            {
+              "word": "不行",
+              "pinyin": "bù xíng",
+              "meaning": "不能行走",
+              "type": "实词"
+            },
+            {
+              "word": "零丁孤苦",
+              "pinyin": "líng dīng gū kǔ",
+              "meaning": "孤独困苦",
+              "type": "实词"
+            },
+            {
+              "word": "至于",
+              "pinyin": "zhì yú",
+              "meaning": "直到",
+              "type": "虚词"
+            },
+            {
+              "word": "成立",
+              "pinyin": "chéng lì",
+              "meaning": "成人自立",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "既无叔伯，终鲜兄弟。门衰祚薄，晚有儿息。外无期功强近之亲，内无应门五尺之童，茕茕孑立，形影相吊。而刘夙婴疾病，常在床蓐。臣侍汤药，未尝废离。",
+      "translation": "既没有叔伯，也缺少兄弟。家门衰微，福分浅薄，很晚才有子嗣。外面没有关系较近的亲戚，家里没有照应门户的童仆，孤孤单单，只有自己的身体和影子相互安慰。而祖母刘氏早年就疾病缠身，经常卧床不起。我侍奉汤药，从未停止或离开。",
+      "sentences": [
+        {
+          "original": "既无叔伯，终鲜兄弟。",
+          "translation": "既没有叔伯，也缺少兄弟。",
+          "words": [
+            {
+              "word": "既",
+              "pinyin": "jì",
+              "meaning": "已经",
+              "type": "虚词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "叔伯",
+              "pinyin": "shū bó",
+              "meaning": "叔伯亲属",
+              "type": "实词"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "最终",
+              "type": "虚词"
+            },
+            {
+              "word": "鲜",
+              "pinyin": "xiǎn",
+              "meaning": "少",
+              "type": "实词"
+            },
+            {
+              "word": "兄弟",
+              "pinyin": "xiōng dì",
+              "meaning": "兄弟亲属",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "门衰祚薄，晚有儿息。",
+          "translation": "家门衰微，福分浅薄，很晚才有子嗣。",
+          "words": [
+            {
+              "word": "门",
+              "pinyin": "mén",
+              "meaning": "家门",
+              "type": "实词"
+            },
+            {
+              "word": "衰",
+              "pinyin": "shuāi",
+              "meaning": "衰微",
+              "type": "实词"
+            },
+            {
+              "word": "祚",
+              "pinyin": "zuò",
+              "meaning": "福分",
+              "type": "实词"
+            },
+            {
+              "word": "薄",
+              "pinyin": "bó",
+              "meaning": "浅薄",
+              "type": "实词"
+            },
+            {
+              "word": "晚",
+              "pinyin": "wǎn",
+              "meaning": "晚年",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有",
+              "type": "实词"
+            },
+            {
+              "word": "儿息",
+              "pinyin": "ér xī",
+              "meaning": "子女",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "外无期功强近之亲，内无应门五尺之童，茕茕孑立，形影相吊。",
+          "translation": "外面没有关系较近的亲戚，家里没有照应门户的童仆，孤孤单单，只有自己的身体和影子相互安慰。",
+          "words": [
+            {
+              "word": "外",
+              "pinyin": "wài",
+              "meaning": "外面",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "期功",
+              "pinyin": "jī gōng",
+              "meaning": "亲属丧服",
+              "type": "实词"
+            },
+            {
+              "word": "强近",
+              "pinyin": "qiǎng jìn",
+              "meaning": "勉强接近",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "亲",
+              "pinyin": "qīn",
+              "meaning": "亲人",
+              "type": "实词"
+            },
+            {
+              "word": "内",
+              "pinyin": "nèi",
+              "meaning": "里面",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "实词"
+            },
+            {
+              "word": "应门",
+              "pinyin": "yìng mén",
+              "meaning": "照应门户",
+              "type": "实词"
+            },
+            {
+              "word": "五尺",
+              "pinyin": "wǔ chǐ",
+              "meaning": "五尺高",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "童",
+              "pinyin": "tóng",
+              "meaning": "童仆",
+              "type": "实词"
+            },
+            {
+              "word": "茕茕",
+              "pinyin": "qióng qióng",
+              "meaning": "孤独貌",
+              "type": "实词"
+            },
+            {
+              "word": "孑立",
+              "pinyin": "jié lì",
+              "meaning": "孤单站立",
+              "type": "实词"
+            },
+            {
+              "word": "形影",
+              "pinyin": "xíng yǐng",
+              "meaning": "形影",
+              "type": "实词"
+            },
+            {
+              "word": "相吊",
+              "pinyin": "xiāng diào",
+              "meaning": "互相慰问",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "而刘夙婴疾病，常在床蓐。",
+          "translation": "而祖母刘氏早年就疾病缠身，经常卧床不起。",
+          "words": [
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "但是/承接",
+              "type": "虚词"
+            },
+            {
+              "word": "刘",
+              "pinyin": "liú",
+              "meaning": "祖母刘氏",
+              "type": "人名"
+            },
+            {
+              "word": "夙",
+              "pinyin": "sù",
+              "meaning": "早/一向",
+              "type": "虚词"
+            },
+            {
+              "word": "婴",
+              "pinyin": "yīng",
+              "meaning": "缠绕/遭受",
+              "type": "实词"
+            },
+            {
+              "word": "疾病",
+              "pinyin": "jí bìng",
+              "meaning": "病",
+              "type": "实词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "经常",
+              "type": "虚词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "在",
+              "type": "实词"
+            },
+            {
+              "word": "床蓐",
+              "pinyin": "chuáng rù",
+              "meaning": "床铺",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣侍汤药，未尝废离。",
+          "translation": "我侍奉汤药，从未停止或离开。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "侍",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "汤药",
+              "pinyin": "tāng yào",
+              "meaning": "药",
+              "type": "实词"
+            },
+            {
+              "word": "未尝",
+              "pinyin": "wèi cháng",
+              "meaning": "不曾",
+              "type": "虚词"
+            },
+            {
+              "word": "废离",
+              "pinyin": "fèi lí",
+              "meaning": "废弃离开",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "逮奉圣朝，沐浴清化。前太守臣逵，察臣孝廉。后刺史臣荣，举臣秀才。臣以供养无主，辞不赴命。诏书特下，拜臣郎中，寻蒙国恩，除臣洗马。猥以微贱，当侍东宫，非臣陨首所能上报。臣具以表闻，辞不就职。诏书切峻，责臣逋慢，郡县逼迫，催臣上道。州司临门，急于星火。臣欲奉诏奔驰，则以刘病日笃，欲苟顺私情，则告诉不许。臣之进退，实为狼狈。",
+      "translation": "到了侍奉圣明的朝代，沐浴在清明的教化中。前任太守逵，考察我为孝廉。后来刺史荣，推荐我为秀才。我因为没有人供养祖母，推辞不去赴任。诏书特意下达，任命我为郎中，不久又蒙受国恩，任命我为洗马。我凭借微贱的身份，担当侍奉太子的职位，这不是我杀身所能报答的。我详细地上表报告，推辞不去就职。诏书急切严厉，责备我逃避怠慢，郡县逼迫，催促我上路。州官登门，急如星火。我想奉诏奔驰赴任，但因为刘氏的病情日益严重；想暂且顺从私情，但报告申诉不被允许。我的进退，实在是狼狈。",
+      "sentences": [
+        {
+          "original": "逮奉圣朝，沐浴清化。",
+          "translation": "到了侍奉圣明的朝代，沐浴在清明的教化中。",
+          "words": [
+            {
+              "word": "逮",
+              "pinyin": "dài",
+              "meaning": "等到",
+              "type": "虚词"
+            },
+            {
+              "word": "奉",
+              "pinyin": "fèng",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "圣朝",
+              "pinyin": "shèng cháo",
+              "meaning": "圣明朝代",
+              "type": "实词"
+            },
+            {
+              "word": "沐浴",
+              "pinyin": "mù yù",
+              "meaning": "比喻沉浸",
+              "type": "实词"
+            },
+            {
+              "word": "清化",
+              "pinyin": "qīng huà",
+              "meaning": "清明教化",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "前太守臣逵，察臣孝廉。",
+          "translation": "前任太守逵，考察我为孝廉。",
+          "words": [
+            {
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "前任",
+              "type": "实词"
+            },
+            {
+              "word": "太守",
+              "pinyin": "tài shǒu",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "臣逵",
+              "pinyin": "chén kuí",
+              "meaning": "臣子逵",
+              "type": "人名"
+            },
+            {
+              "word": "察",
+              "pinyin": "chá",
+              "meaning": "考察推荐",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "孝廉",
+              "pinyin": "xiào lián",
+              "meaning": "孝廉制度",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "后刺史臣荣，举臣秀才。",
+          "translation": "后来刺史荣，推荐我为秀才。",
+          "words": [
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "后来",
+              "type": "虚词"
+            },
+            {
+              "word": "刺史",
+              "pinyin": "cì shǐ",
+              "meaning": "官职名",
+              "type": "官职"
+            },
+            {
+              "word": "臣荣",
+              "pinyin": "chén róng",
+              "meaning": "臣子荣",
+              "type": "人名"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "推荐",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "秀才",
+              "pinyin": "xiù cái",
+              "meaning": "秀才制度",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣以供养无主，辞不赴命。",
+          "translation": "我因为没有人供养祖母，推辞不去赴任。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "供养",
+              "pinyin": "gòng yǎng",
+              "meaning": "供养",
+              "type": "实词"
+            },
+            {
+              "word": "无主",
+              "pinyin": "wú zhǔ",
+              "meaning": "无人主持",
+              "type": "实词"
+            },
+            {
+              "word": "辞",
+              "pinyin": "cí",
+              "meaning": "推辞",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "赴命",
+              "pinyin": "fù mìng",
+              "meaning": "赴任",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诏书特下，拜臣郎中，寻蒙国恩，除臣洗马。",
+          "translation": "诏书特意下达，任命我为郎中，不久又蒙受国恩，任命我为洗马。",
+          "words": [
+            {
+              "word": "诏书",
+              "pinyin": "zhào shū",
+              "meaning": "诏书",
+              "type": "实词"
+            },
+            {
+              "word": "特下",
+              "pinyin": "tè xià",
+              "meaning": "特地下达",
+              "type": "实词"
+            },
+            {
+              "word": "拜",
+              "pinyin": "bài",
+              "meaning": "任命",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "郎中",
+              "pinyin": "láng zhōng",
+              "meaning": "郎中",
+              "type": "官职"
+            },
+            {
+              "word": "寻",
+              "pinyin": "xún",
+              "meaning": "不久",
+              "type": "虚词"
+            },
+            {
+              "word": "蒙",
+              "pinyin": "méng",
+              "meaning": "蒙受",
+              "type": "实词"
+            },
+            {
+              "word": "国恩",
+              "pinyin": "guó ēn",
+              "meaning": "国家恩惠",
+              "type": "实词"
+            },
+            {
+              "word": "除",
+              "pinyin": "chú",
+              "meaning": "任命",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "洗马",
+              "pinyin": "xiǎn mǎ",
+              "meaning": "洗马",
+              "type": "官职"
+            }
+          ]
+        },
+        {
+          "original": "猥以微贱，当侍东宫，非臣陨首所能上报。",
+          "translation": "我凭借微贱的身份，担当侍奉太子的职位，这不是我杀身所能报答的。",
+          "words": [
+            {
+              "word": "猥",
+              "pinyin": "wěi",
+              "meaning": "鄙陋",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "凭借",
+              "type": "虚词"
+            },
+            {
+              "word": "微贱",
+              "pinyin": "wēi jiàn",
+              "meaning": "卑微低贱",
+              "type": "实词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应当",
+              "type": "实词"
+            },
+            {
+              "word": "侍",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "东宫",
+              "pinyin": "dōng gōng",
+              "meaning": "东宫",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "陨首",
+              "pinyin": "yǔn shǒu",
+              "meaning": "牺牲生命",
+              "type": "实词"
+            },
+            {
+              "word": "所能",
+              "pinyin": "suǒ néng",
+              "meaning": "所能",
+              "type": "虚词"
+            },
+            {
+              "word": "上报",
+              "pinyin": "shàng bào",
+              "meaning": "报答",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣具以表闻，辞不就职。",
+          "translation": "我详细地上表报告，推辞不去就职。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "具",
+              "pinyin": "jù",
+              "meaning": "详细",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "表",
+              "pinyin": "biǎo",
+              "meaning": "奏表",
+              "type": "实词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "报告",
+              "type": "实词"
+            },
+            {
+              "word": "辞",
+              "pinyin": "cí",
+              "meaning": "推辞",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "实词"
+            },
+            {
+              "word": "就职",
+              "pinyin": "jiù zhí",
+              "meaning": "就任职位",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "诏书切峻，责臣逋慢，郡县逼迫，催臣上道。",
+          "translation": "诏书急切严厉，责备我逃避怠慢，郡县逼迫，催促我上路。",
+          "words": [
+            {
+              "word": "诏书",
+              "pinyin": "zhào shū",
+              "meaning": "诏令",
+              "type": "实词"
+            },
+            {
+              "word": "切峻",
+              "pinyin": "qiè jùn",
+              "meaning": "严厉",
+              "type": "实词"
+            },
+            {
+              "word": "责",
+              "pinyin": "zé",
+              "meaning": "责备",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "逋慢",
+              "pinyin": "bū màn",
+              "meaning": "逃避怠慢",
+              "type": "实词"
+            },
+            {
+              "word": "郡县",
+              "pinyin": "jùn xiàn",
+              "meaning": "地方官府",
+              "type": "实词"
+            },
+            {
+              "word": "逼迫",
+              "pinyin": "bī pò",
+              "meaning": "强迫",
+              "type": "实词"
+            },
+            {
+              "word": "催",
+              "pinyin": "cuī",
+              "meaning": "催促",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "上道",
+              "pinyin": "shàng dào",
+              "meaning": "上路",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "州司临门，急于星火。",
+          "translation": "州官登门，急如星火。",
+          "words": [
+            {
+              "word": "州司",
+              "pinyin": "zhōu sī",
+              "meaning": "州官",
+              "type": "实词"
+            },
+            {
+              "word": "临门",
+              "pinyin": "lín mén",
+              "meaning": "来到门前",
+              "type": "实词"
+            },
+            {
+              "word": "急",
+              "pinyin": "jí",
+              "meaning": "紧急",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "比",
+              "type": "虚词"
+            },
+            {
+              "word": "星火",
+              "pinyin": "xīng huǒ",
+              "meaning": "流星火光",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣欲奉诏奔驰，则以刘病日笃，欲苟顺私情，则告诉不许。",
+          "translation": "我想奉诏奔驰赴任，但因为刘氏的病情日益严重；想暂且顺从私情，但报告申诉不被允许。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我，臣子",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "奉诏",
+              "pinyin": "fèng zhào",
+              "meaning": "接受诏命",
+              "type": "实词"
+            },
+            {
+              "word": "奔驰",
+              "pinyin": "bēn chí",
+              "meaning": "奔走效劳",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "刘病",
+              "pinyin": "liú bìng",
+              "meaning": "刘氏的疾病",
+              "type": "实词"
+            },
+            {
+              "word": "日笃",
+              "pinyin": "rì dǔ",
+              "meaning": "一天天沉重",
+              "type": "实词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
+              "type": "实词"
+            },
+            {
+              "word": "苟顺",
+              "pinyin": "gǒu shùn",
+              "meaning": "姑且顺从",
+              "type": "实词"
+            },
+            {
+              "word": "私情",
+              "pinyin": "sī qíng",
+              "meaning": "个人情感",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "就",
+              "type": "虚词"
+            },
+            {
+              "word": "告诉",
+              "pinyin": "gào sù",
+              "meaning": "禀告申诉",
+              "type": "实词"
+            },
+            {
+              "word": "不许",
+              "pinyin": "bù xǔ",
+              "meaning": "不被允许",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣之进退，实为狼狈。",
+          "translation": "我的进退，实在是狼狈。",
+          "words": [
+            {
+              "word": "臣之",
+              "pinyin": "chén zhī",
+              "meaning": "臣的",
+              "type": "虚词"
+            },
+            {
+              "word": "进退",
+              "pinyin": "jìn tuì",
+              "meaning": "处境",
+              "type": "实词"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "确实",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "狼狈",
+              "pinyin": "láng bèi",
+              "meaning": "困顿窘迫",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "伏惟圣朝以孝治天下，凡在故老，犹蒙矜育，况臣孤苦，特为尤甚。且臣少事伪朝，历职郎署，本图宦达，不矜名节。今臣亡国贱俘，至微至陋，过蒙拔擢，宠命优渥，岂敢盘桓，有所希冀？但以刘日薄西山，气息奄奄，人命危浅，朝不虑夕。臣无祖母，无以至今日，祖母无臣，无以终馀年。母孙二人，更相为命，是以区区不能废远。臣密今年四十有四，祖母刘今年九十有六，是臣尽节于陛下之日长，报刘之日短也。乌鸟私情，愿乞终养。",
+      "translation": "我想，圣朝以孝道治理天下，凡是年老的人尚且受到怜悯养育，何况我孤苦无依，情况特别严重。而且我年轻时在伪朝任职，历任郎官，本意是追求官职显达，并不注重名节。如今我是亡国的卑贱俘虏，极其微贱，过分蒙受提拔，恩宠优厚，怎敢徘徊不前，有所希冀？只是因为祖母刘氏像日落西山一样，气息微弱，生命垂危，朝不保夕。我没有祖母，不能活到今天；祖母没有我，不能安度晚年。我们祖孙二人相依为命，因此我不能放弃奉养而远离。我李密今年四十四岁，祖母刘氏今年九十六岁，这样我为陛下尽忠的日子还长，报答祖母的日子却短了。我怀着乌鸦反哺的私情，请求允许我为祖母养老送终。",
+      "sentences": [
+        {
+          "original": "伏惟圣朝以孝治天下，凡在故老，犹蒙矜育，况臣孤苦，特为尤甚。",
+          "translation": "我想，圣朝以孝道治理天下，凡是年老的人尚且受到怜悯养育，何况我孤苦无依，情况特别严重。",
+          "words": [
+            {
+              "word": "伏惟",
+              "pinyin": "fú wéi",
+              "meaning": "伏着想，谦辞",
+              "type": "虚词"
+            },
+            {
+              "word": "圣朝",
+              "pinyin": "shèng cháo",
+              "meaning": "圣明的朝代",
+              "type": "地名"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用",
+              "type": "虚词"
+            },
+            {
+              "word": "孝",
+              "pinyin": "xiào",
+              "meaning": "孝道",
+              "type": "实词"
+            },
+            {
+              "word": "治",
+              "pinyin": "zhì",
+              "meaning": "治理",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "全国",
+              "type": "实词"
+            },
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "所有",
+              "type": "虚词"
+            },
+            {
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "在",
+              "type": "实词"
+            },
+            {
+              "word": "故老",
+              "pinyin": "gù lǎo",
+              "meaning": "故旧老人",
+              "type": "实词"
+            },
+            {
+              "word": "犹",
+              "pinyin": "yóu",
+              "meaning": "还",
+              "type": "虚词"
+            },
+            {
+              "word": "蒙",
+              "pinyin": "méng",
+              "meaning": "受到",
+              "type": "实词"
+            },
+            {
+              "word": "矜育",
+              "pinyin": "jīn yù",
+              "meaning": "怜悯养育",
+              "type": "实词"
+            },
+            {
+              "word": "况",
+              "pinyin": "kuàng",
+              "meaning": "何况",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "孤苦",
+              "pinyin": "gū kū",
+              "meaning": "孤苦伶仃",
+              "type": "实词"
+            },
+            {
+              "word": "特",
+              "pinyin": "tè",
+              "meaning": "特别",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "尤甚",
+              "pinyin": "yóu shèn",
+              "meaning": "更为严重",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "且臣少事伪朝，历职郎署，本图宦达，不矜名节。",
+          "translation": "而且我年轻时在伪朝任职，历任郎官，本意是追求官职显达，并不注重名节。",
+          "words": [
+            {
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "少",
+              "pinyin": "shào",
+              "meaning": "年轻时",
+              "type": "实词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "侍奉",
+              "type": "实词"
+            },
+            {
+              "word": "伪朝",
+              "pinyin": "wěi cháo",
+              "meaning": "伪朝（指蜀汉）",
+              "type": "地名"
+            },
+            {
+              "word": "历职",
+              "pinyin": "lì zhí",
+              "meaning": "历任官职",
+              "type": "实词"
+            },
+            {
+              "word": "郎署",
+              "pinyin": "láng shǔ",
+              "meaning": "郎官衙署",
+              "type": "实词"
+            },
+            {
+              "word": "本",
+              "pinyin": "běn",
+              "meaning": "本来",
+              "type": "虚词"
+            },
+            {
+              "word": "图",
+              "pinyin": "tú",
+              "meaning": "图谋",
+              "type": "实词"
+            },
+            {
+              "word": "宦达",
+              "pinyin": "huàn dá",
+              "meaning": "官运亨通",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "矜",
+              "pinyin": "jīn",
+              "meaning": "注重",
+              "type": "实词"
+            },
+            {
+              "word": "名节",
+              "pinyin": "míng jié",
+              "meaning": "名誉节操",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "今臣亡国贱俘，至微至陋，过蒙拔擢，宠命优渥，岂敢盘桓，有所希冀？",
+          "translation": "如今我是亡国的卑贱俘虏，极其微贱，过分蒙受提拔，恩宠优厚，怎敢徘徊不前，有所希冀？",
+          "words": [
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "亡国贱俘",
+              "pinyin": "wáng guó jiàn fú",
+              "meaning": "亡国的卑贱俘虏",
+              "type": "实词"
+            },
+            {
+              "word": "至微至陋",
+              "pinyin": "zhì wēi zhì lòu",
+              "meaning": "极其微小鄙陋",
+              "type": "实词"
+            },
+            {
+              "word": "过蒙",
+              "pinyin": "guò méng",
+              "meaning": "过分受到",
+              "type": "实词"
+            },
+            {
+              "word": "拔擢",
+              "pinyin": "bá zhuó",
+              "meaning": "提拔",
+              "type": "实词"
+            },
+            {
+              "word": "宠命",
+              "pinyin": "chǒng mìng",
+              "meaning": "恩宠命令",
+              "type": "实词"
+            },
+            {
+              "word": "优渥",
+              "pinyin": "yōu wò",
+              "meaning": "优厚",
+              "type": "实词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "难道",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "敢",
+              "type": "实词"
+            },
+            {
+              "word": "盘桓",
+              "pinyin": "pán huái",
+              "meaning": "徘徊",
+              "type": "实词"
+            },
+            {
+              "word": "有所",
+              "pinyin": "yǒu suǒ",
+              "meaning": "有...的",
+              "type": "实词"
+            },
+            {
+              "word": "希冀",
+              "pinyin": "xī jì",
+              "meaning": "希望",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "但以刘日薄西山，气息奄奄，人命危浅，朝不虑夕。",
+          "translation": "只是因为祖母刘氏像日落西山一样，气息微弱，生命垂危，朝不保夕。",
+          "words": [
+            {
+              "word": "但以",
+              "pinyin": "dàn yǐ",
+              "meaning": "只是因为",
+              "type": "虚词"
+            },
+            {
+              "word": "刘",
+              "pinyin": "Liú",
+              "meaning": "祖母刘氏",
+              "type": "人名"
+            },
+            {
+              "word": "日薄西山",
+              "pinyin": "rì bó xī shān",
+              "meaning": "比喻衰老",
+              "type": "典故"
+            },
+            {
+              "word": "气息奄奄",
+              "pinyin": "qì xī yān yān",
+              "meaning": "呼吸微弱",
+              "type": "典故"
+            },
+            {
+              "word": "人命危浅",
+              "pinyin": "rén mìng wēi qiǎn",
+              "meaning": "生命垂危",
+              "type": "典故"
+            },
+            {
+              "word": "朝不虑夕",
+              "pinyin": "zhāo bù lǜ xī",
+              "meaning": "形容形势危急",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "臣无祖母，无以至今日，祖母无臣，无以终馀年。",
+          "translation": "我没有祖母，不能活到今天；祖母没有我，不能安度晚年。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我，臣自称",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "祖母",
+              "pinyin": "zǔ mǔ",
+              "meaning": "祖母",
+              "type": "实词"
+            },
+            {
+              "word": "无以",
+              "pinyin": "wú yǐ",
+              "meaning": "没有办法",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到",
+              "type": "实词"
+            },
+            {
+              "word": "今日",
+              "pinyin": "jīn rì",
+              "meaning": "今天",
+              "type": "实词"
+            },
+            {
+              "word": "祖母",
+              "pinyin": "zǔ mǔ",
+              "meaning": "祖母",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我，臣自称",
+              "type": "实词"
+            },
+            {
+              "word": "无以",
+              "pinyin": "wú yǐ",
+              "meaning": "没有办法",
+              "type": "虚词"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "度过",
+              "type": "实词"
+            },
+            {
+              "word": "馀年",
+              "pinyin": "yú nián",
+              "meaning": "余生",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "母孙二人，更相为命，是以区区不能废远。",
+          "translation": "我们祖孙二人相依为命，因此我不能放弃奉养而远离。",
+          "words": [
+            {
+              "word": "母孙",
+              "pinyin": "mǔ sūn",
+              "meaning": "祖母和孙子",
+              "type": "实词"
+            },
+            {
+              "word": "二人",
+              "pinyin": "èr rén",
+              "meaning": "两个人",
+              "type": "实词"
+            },
+            {
+              "word": "更相为命",
+              "pinyin": "gēng xiāng wéi mìng",
+              "meaning": "互相依靠生活",
+              "type": "典故"
+            },
+            {
+              "word": "是以",
+              "pinyin": "shì yǐ",
+              "meaning": "因此",
+              "type": "虚词"
+            },
+            {
+              "word": "区区",
+              "pinyin": "qū qū",
+              "meaning": "诚挚的心意",
+              "type": "实词"
+            },
+            {
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "不能够",
+              "type": "虚词"
+            },
+            {
+              "word": "废远",
+              "pinyin": "fèi yuǎn",
+              "meaning": "废弃远离",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "臣密今年四十有四，祖母刘今年九十有六，是臣尽节于陛下之日长，报刘之日短也。",
+          "translation": "我李密今年四十四岁，祖母刘氏今年九十六岁，这样我为陛下尽忠的日子还长，报答祖母的日子却短了。",
+          "words": [
+            {
+              "word": "臣密",
+              "pinyin": "chén mì",
+              "meaning": "李密自称",
+              "type": "人名"
+            },
+            {
+              "word": "今年",
+              "pinyin": "jīn nián",
+              "meaning": "今年",
+              "type": "实词"
+            },
+            {
+              "word": "四十有四",
+              "pinyin": "sì shí yǒu sì",
+              "meaning": "四十四岁",
+              "type": "实词"
+            },
+            {
+              "word": "祖母刘",
+              "pinyin": "zǔ mǔ liú",
+              "meaning": "祖母刘氏",
+              "type": "人名"
+            },
+            {
+              "word": "今年",
+              "pinyin": "jīn nián",
+              "meaning": "今年",
+              "type": "实词"
+            },
+            {
+              "word": "九十有六",
+              "pinyin": "jiù shí yǒu liù",
+              "meaning": "九十六岁",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "这，此",
+              "type": "虚词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我，臣子",
+              "type": "人名"
+            },
+            {
+              "word": "尽节",
+              "pinyin": "jìn jié",
+              "meaning": "尽忠",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "对于",
+              "type": "虚词"
+            },
+            {
+              "word": "陛下",
+              "pinyin": "bì xià",
+              "meaning": "皇帝陛下",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "日",
+              "pinyin": "rì",
+              "meaning": "日子",
+              "type": "实词"
+            },
+            {
+              "word": "长",
+              "pinyin": "cháng",
+              "meaning": "长",
+              "type": "实词"
+            },
+            {
+              "word": "报",
+              "pinyin": "bào",
+              "meaning": "报答",
+              "type": "实词"
+            },
+            {
+              "word": "刘",
+              "pinyin": "liú",
+              "meaning": "刘氏",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "日",
+              "pinyin": "rì",
+              "meaning": "日子",
+              "type": "实词"
+            },
+            {
+              "word": "短",
+              "pinyin": "duǎn",
+              "meaning": "短",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊，呀",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "乌鸟私情，愿乞终养。",
+          "translation": "我怀着乌鸦反哺的私情，请求允许我为祖母养老送终。",
+          "words": [
+            {
+              "word": "乌鸟私情",
+              "pinyin": "wū niǎo sī qíng",
+              "meaning": "孝养祖母之情",
+              "type": "典故"
+            },
+            {
+              "word": "愿",
+              "pinyin": "yuàn",
+              "meaning": "希望",
+              "type": "实词"
+            },
+            {
+              "word": "乞",
+              "pinyin": "qǐ",
+              "meaning": "乞求",
+              "type": "实词"
+            },
+            {
+              "word": "终养",
+              "pinyin": "zhōng yǎng",
+              "meaning": "养老送终",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "臣之辛苦，非独蜀之人士及二州牧伯所见明知，皇天后土，实所共鉴。愿陛下矜愍愚诚，听臣微志。庶刘侥幸，卒保馀年，臣生当陨首，死当结草。臣不胜犬马怖惧之情，谨拜表以闻。",
+      "translation": "我的苦衷和艰辛，不只是蜀地人士和两州长官所亲眼目睹、清楚明白的，连天地神明也都看得一清二楚。希望陛下能怜悯我的一片愚诚，听从我这个微不足道的心愿。或许祖母刘氏能够侥幸，最终安度晚年，那么我活着当不惜生命报效，死后也要结草报恩。我怀着像犬马一样惶恐畏惧的心情，恭敬地呈上这份表章向您禀报。",
+      "sentences": [
+        {
+          "original": "臣之辛苦，非独蜀之人士及二州牧伯所见明知，皇天后土，实所共鉴。",
+          "translation": "我的苦衷和艰辛，不只是蜀地人士和两州长官所亲眼目睹、清楚明白的，连天地神明也都看得一清二楚。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "辛苦",
+              "pinyin": "xīn kǔ",
+              "meaning": "辛酸苦楚",
+              "type": "实词"
+            },
+            {
+              "word": "非独",
+              "pinyin": "fēi dú",
+              "meaning": "不仅",
+              "type": "虚词"
+            },
+            {
+              "word": "蜀",
+              "pinyin": "shǔ",
+              "meaning": "蜀地",
+              "type": "地名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "人士",
+              "pinyin": "rén shì",
+              "meaning": "人士",
+              "type": "实词"
+            },
+            {
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "和",
+              "type": "虚词"
+            },
+            {
+              "word": "二州",
+              "pinyin": "èr zhōu",
+              "meaning": "二州",
+              "type": "实词"
+            },
+            {
+              "word": "牧伯",
+              "pinyin": "mù bó",
+              "meaning": "州牧太守",
+              "type": "官职"
+            },
+            {
+              "word": "所见",
+              "pinyin": "suǒ jiàn",
+              "meaning": "所看见的",
+              "type": "实词"
+            },
+            {
+              "word": "明知",
+              "pinyin": "míng zhī",
+              "meaning": "明确认知",
+              "type": "实词"
+            },
+            {
+              "word": "皇天后土",
+              "pinyin": "huáng tiān hòu tǔ",
+              "meaning": "天地神灵",
+              "type": "典故"
+            },
+            {
+              "word": "实",
+              "pinyin": "shí",
+              "meaning": "实在",
+              "type": "虚词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "表结构",
+              "type": "虚词"
+            },
+            {
+              "word": "共",
+              "pinyin": "gòng",
+              "meaning": "共同",
+              "type": "虚词"
+            },
+            {
+              "word": "鉴",
+              "pinyin": "jiàn",
+              "meaning": "见证",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "愿陛下矜愍愚诚，听臣微志。",
+          "translation": "希望陛下能怜悯我的一片愚诚，听从我这个微不足道的心愿。",
+          "words": [
+            {
+              "word": "愿",
+              "pinyin": "yuàn",
+              "meaning": "希望",
+              "type": "实词"
+            },
+            {
+              "word": "陛下",
+              "pinyin": "bì xià",
+              "meaning": "皇帝",
+              "type": "官职"
+            },
+            {
+              "word": "矜愍",
+              "pinyin": "jīn mǐn",
+              "meaning": "怜悯",
+              "type": "实词"
+            },
+            {
+              "word": "愚诚",
+              "pinyin": "yú chéng",
+              "meaning": "愚拙诚心",
+              "type": "实词"
+            },
+            {
+              "word": "听",
+              "pinyin": "tīng",
+              "meaning": "听从",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "微志",
+              "pinyin": "wēi zhì",
+              "meaning": "微小志向",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "庶刘侥幸，卒保馀年，臣生当陨首，死当结草。",
+          "translation": "或许祖母刘氏能够侥幸，最终安度晚年，那么我活着当不惜生命报效，死后也要结草报恩。",
+          "words": [
+            {
+              "word": "庶",
+              "pinyin": "shù",
+              "meaning": "或许",
+              "type": "虚词"
+            },
+            {
+              "word": "刘",
+              "pinyin": "liú",
+              "meaning": "祖母刘氏",
+              "type": "人名"
+            },
+            {
+              "word": "侥幸",
+              "pinyin": "jiǎo xìng",
+              "meaning": "侥幸",
+              "type": "实词"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "最终",
+              "type": "虚词"
+            },
+            {
+              "word": "保",
+              "pinyin": "bǎo",
+              "meaning": "保全",
+              "type": "实词"
+            },
+            {
+              "word": "馀年",
+              "pinyin": "yú nián",
+              "meaning": "剩余岁月",
+              "type": "实词"
+            },
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我",
+              "type": "实词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "活着时",
+              "type": "实词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应当",
+              "type": "实词"
+            },
+            {
+              "word": "陨首",
+              "pinyin": "yǔn shǒu",
+              "meaning": "牺牲生命",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "死后",
+              "type": "实词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "应当",
+              "type": "实词"
+            },
+            {
+              "word": "结草",
+              "pinyin": "jié cǎo",
+              "meaning": "报恩典故",
+              "type": "典故"
+            }
+          ]
+        },
+        {
+          "original": "臣不胜犬马怖惧之情，谨拜表以闻。",
+          "translation": "我怀着像犬马一样惶恐畏惧的心情，恭敬地呈上这份表章向您禀报。",
+          "words": [
+            {
+              "word": "臣",
+              "pinyin": "chén",
+              "meaning": "我，臣子",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词",
+              "type": "虚词"
+            },
+            {
+              "word": "胜",
+              "pinyin": "shèng",
+              "meaning": "承受",
+              "type": "实词"
+            },
+            {
+              "word": "犬马",
+              "pinyin": "quǎn mǎ",
+              "meaning": "比喻臣子",
+              "type": "典故"
+            },
+            {
+              "word": "怖惧",
+              "pinyin": "bù jù",
+              "meaning": "恐惧",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "情",
+              "pinyin": "qíng",
+              "meaning": "心情",
+              "type": "实词"
+            },
+            {
+              "word": "谨",
+              "pinyin": "jǐn",
+              "meaning": "恭敬地",
+              "type": "虚词"
+            },
+            {
+              "word": "拜表",
+              "pinyin": "bài biǎo",
+              "meaning": "拜上表章",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "用来",
+              "type": "虚词"
+            },
+            {
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "使听到",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

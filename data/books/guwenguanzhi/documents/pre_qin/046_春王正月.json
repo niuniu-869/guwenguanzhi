@@ -1,0 +1,1048 @@
+{
+  "id": "046_春王正月",
+  "title": "春王正月",
+  "author": {
+    "id": "pre_qin_公羊高",
+    "name": "公羊高",
+    "dynasty": "pre_qin",
+    "bio": "公羊高，战国时期齐国人，生卒年不详，相传为孔子弟子子夏的学生。他是《公羊传》的作者或主要传承者，该书是解释《春秋》的三部重要著作之一，与《左传》、《谷梁传》并称“春秋三传”。公羊高通过《公羊传》阐发《春秋》的微言大义，强调“大一统”和“尊王攘夷”思想，对后世儒家经学尤其是今文经学有重大影响，其学说在汉代被立为官学，塑造了中国古代政治和文化的发展脉络。"
+  },
+  "source": "公羊传",
+  "dynasty": "pre_qin",
+  "volume": 3,
+  "background": "《春王正月》出自《公羊传》，是公羊高对《春秋》经文“元年春王正月”的阐释。写作背景源于春秋时期的社会变革，周王室衰微，诸侯争霸，礼崩乐坏。公羊高作为儒家学者，通过解释《春秋》，旨在宣扬“大一统”思想，强调周天子的权威和天下统一的重要性。同时，文章讨论鲁隐公与桓公的继位问题，反映当时宗法礼制的复杂性，试图以经典解释来规范社会秩序，维护儒家伦理。公羊传成书于战国时期，是对孔子微言大义的传承，这篇文章体现了公羊学派注重义理阐释的特点，以应对时代动荡，恢复礼制秩序。",
+  "appreciation": "《春王正月》在文学上具有独特价值。文章采用问答体，结构严谨，通过一系列设问和解答，层层推进，逻辑清晰，体现了先秦论说文的典型风格。语言简洁古朴，用词精准，如“元年者何？君之始年也”，开门见山，直指核心。思想内涵丰富，首先阐释“王正月”以强调“大一统”，即天下统一于周天子，这反映了儒家对政治秩序的理想。其次，通过鲁隐公不即位的故事，讨论继承原则“立适以长不以贤，立子以贵不以长”，深入剖析宗法礼制的细节，展现古代社会的尊卑观念。文章将抽象概念与具体史实结合，使说理生动易懂，具有教育意义。整体上，这篇文章不仅是对《春秋》的注解，更是一篇富有哲理的散文，对后世经学和文学产生深远影响，彰显了公羊学派注重微言大义的阐释传统。",
+  "tags": [
+    "春秋三传",
+    "大一统思想",
+    "礼制讨论"
+  ],
+  "paragraphs": [
+    {
+      "original": "元年者何？君之始年也。春者何？岁之始也。王者孰谓？谓文王也。曷为先言“王”而后言“正月？”王正月也。何言乎王正月？大一统也。",
+      "translation": "元年是什么？是君主即位的第一年。春是什么？是一年的开始。王指的是谁？指的是文王。为什么先说‘王’然后说‘正月’？是王的正月。为什么说王正月？是为了强调大一统。",
+      "sentences": [
+        {
+          "original": "元年者何？君之始年也。",
+          "translation": "元年是什么？是君主即位的第一年。",
+          "words": [
+            {
+              "word": "元年",
+              "pinyin": "yuán nián",
+              "meaning": "君主始年",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "始年",
+              "pinyin": "shǐ nián",
+              "meaning": "开始之年",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "春者何？岁之始也。",
+          "translation": "春是什么？是一年的开始。",
+          "words": [
+            {
+              "word": "春",
+              "pinyin": "chūn",
+              "meaning": "春季",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "实词"
+            },
+            {
+              "word": "岁",
+              "pinyin": "suì",
+              "meaning": "年",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "王者孰谓？谓文王也。",
+          "translation": "王指的是谁？指的是文王。",
+          "words": [
+            {
+              "word": "王者",
+              "pinyin": "wáng zhě",
+              "meaning": "君王",
+              "type": "实词"
+            },
+            {
+              "word": "孰",
+              "pinyin": "shú",
+              "meaning": "谁",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "指的是",
+              "type": "实词"
+            },
+            {
+              "word": "文王",
+              "pinyin": "wén wáng",
+              "meaning": "周文王",
+              "type": "人名"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "表判断",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "曷为先言“王”而后言“正月？”王正月也。",
+          "translation": "为什么先说‘王’然后说‘正月’？是王的正月。",
+          "words": [
+            {
+              "word": "曷为",
+              "pinyin": "hé wéi",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "先言",
+              "pinyin": "xiān yán",
+              "meaning": "先说",
+              "type": "实词"
+            },
+            {
+              "word": "王",
+              "pinyin": "wáng",
+              "meaning": "周王",
+              "type": "人名"
+            },
+            {
+              "word": "而后",
+              "pinyin": "ér hòu",
+              "meaning": "然后",
+              "type": "虚词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "正月",
+              "pinyin": "zhèng yuè",
+              "meaning": "正月",
+              "type": "实词"
+            },
+            {
+              "word": "王正月",
+              "pinyin": "wáng zhèng yuè",
+              "meaning": "王的正月",
+              "type": "典故"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "何言乎王正月？大一统也。",
+          "translation": "为什么说王正月？是为了强调大一统。",
+          "words": [
+            {
+              "word": "何言乎",
+              "pinyin": "hé yán hū",
+              "meaning": "为什么说",
+              "type": "虚词"
+            },
+            {
+              "word": "王正月",
+              "pinyin": "wáng zhèng yuè",
+              "meaning": "王的正月",
+              "type": "典故"
+            },
+            {
+              "word": "大一统",
+              "pinyin": "dà yī tǒng",
+              "meaning": "大一统",
+              "type": "典故"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "公何以不言即位？成公意也。何成乎公之意？公将平国而反之桓。曷为反之桓？桓幼而贵，隐长而卑。其为尊卑也微，国人莫知。隐长又贤，诸大夫扳隐而立之。隐于是焉而辞立，则未知桓之将必得立也；且如桓立，则恐诸大夫之不能相幼君也。故凡隐之立，为桓立也。隐长又贤，何以不宜立？立适以长不以贤，立子以贵不以长。桓何以贵？母贵也。母贵，则子何以贵？子以母贵，母以子贵。",
+      "translation": "为什么不说隐公即位？这是为了成全隐公的意愿。成全隐公的什么意愿？隐公打算治理好国家后将君位归还给桓公。为什么要归还给桓公？因为桓公年幼但地位尊贵，隐公年长但地位卑微。他们的尊卑差别很细微，国人不知道。隐公年长又贤能，大夫们推举隐公立他为君。隐公如果辞让不立，就不知道桓公将来是否一定能立为君；而且如果桓公立为君，又担心大夫们不能辅佐年幼的君主。所以隐公的立为君，是为了桓公而立的。隐公年长又贤能，为什么不应该立？因为立嫡子以年长为标准而不以贤能为标准，立庶子以尊贵为标准而不以年长为标准。桓公为什么尊贵？因为他的母亲尊贵。母亲尊贵，那么儿子为什么尊贵？儿子因母亲而尊贵，母亲因儿子而尊贵。",
+      "sentences": [
+        {
+          "original": "公何以不言即位？成公意也。",
+          "translation": "为什么不说隐公即位？这是为了成全隐公的意愿。",
+          "words": [
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "鲁隐公",
+              "type": "人名"
+            },
+            {
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "不言",
+              "pinyin": "bù yán",
+              "meaning": "不说",
+              "type": "实词"
+            },
+            {
+              "word": "即位",
+              "pinyin": "jí wèi",
+              "meaning": "登基",
+              "type": "实词"
+            },
+            {
+              "word": "成",
+              "pinyin": "chéng",
+              "meaning": "成全",
+              "type": "实词"
+            },
+            {
+              "word": "公意",
+              "pinyin": "gōng yì",
+              "meaning": "公的意愿",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "何成乎公之意？公将平国而反之桓。",
+          "translation": "成全隐公的什么意愿？隐公打算治理好国家后将君位归还给桓公。",
+          "words": [
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "什么",
+              "type": "虚词"
+            },
+            {
+              "word": "成",
+              "pinyin": "chéng",
+              "meaning": "成全",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "于",
+              "type": "虚词"
+            },
+            {
+              "word": "公之意",
+              "pinyin": "gōng zhī yì",
+              "meaning": "公的意愿",
+              "type": "实词"
+            },
+            {
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "隐公",
+              "type": "人名"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "平国",
+              "pinyin": "píng guó",
+              "meaning": "治理国家",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "反之桓",
+              "pinyin": "fǎn zhī huán",
+              "meaning": "还政给桓公",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "曷为反之桓？桓幼而贵，隐长而卑。",
+          "translation": "为什么要归还给桓公？因为桓公年幼但地位尊贵，隐公年长但地位卑微。",
+          "words": [
+            {
+              "word": "曷为",
+              "pinyin": "hé wéi",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "反之桓",
+              "pinyin": "fǎn zhī huán",
+              "meaning": "还政给桓公",
+              "type": "实词"
+            },
+            {
+              "word": "桓",
+              "pinyin": "huán",
+              "meaning": "桓公",
+              "type": "人名"
+            },
+            {
+              "word": "幼",
+              "pinyin": "yòu",
+              "meaning": "年幼",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "隐",
+              "pinyin": "yǐn",
+              "meaning": "隐公",
+              "type": "人名"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "年长",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连接词",
+              "type": "虚词"
+            },
+            {
+              "word": "卑",
+              "pinyin": "bēi",
+              "meaning": "卑微",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "其为尊卑也微，国人莫知。",
+          "translation": "他们的尊卑差别很细微，国人不知道。",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "他/它",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "是",
+              "type": "实词"
+            },
+            {
+              "word": "尊卑",
+              "pinyin": "zūn bēi",
+              "meaning": "尊贵和卑微",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "微",
+              "pinyin": "wēi",
+              "meaning": "微小",
+              "type": "实词"
+            },
+            {
+              "word": "国人",
+              "pinyin": "guó rén",
+              "meaning": "百姓",
+              "type": "实词"
+            },
+            {
+              "word": "莫",
+              "pinyin": "mò",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "隐长又贤，诸大夫扳隐而立之。",
+          "translation": "隐公年长又贤能，大夫们推举隐公立他为君。",
+          "words": [
+            {
+              "word": "隐",
+              "pinyin": "Yǐn",
+              "meaning": "鲁隐公",
+              "type": "人名"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "年长",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "而且",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "诸大夫",
+              "pinyin": "zhū dà fū",
+              "meaning": "大夫们",
+              "type": "实词"
+            },
+            {
+              "word": "扳",
+              "pinyin": "pān",
+              "meaning": "拥戴",
+              "type": "实词"
+            },
+            {
+              "word": "隐",
+              "pinyin": "Yǐn",
+              "meaning": "鲁隐公",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "立为君",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "他",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "隐于是焉而辞立，则未知桓之将必得立也；",
+          "translation": "隐公如果辞让不立，就不知道桓公将来是否一定能立为君；",
+          "words": [
+            {
+              "word": "隐",
+              "pinyin": "Yǐn",
+              "meaning": "鲁隐公",
+              "type": "人名"
+            },
+            {
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "在此时",
+              "type": "虚词"
+            },
+            {
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "语气词",
+              "type": "虚词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词",
+              "type": "虚词"
+            },
+            {
+              "word": "辞立",
+              "pinyin": "cí lì",
+              "meaning": "辞让君位",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "没有",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "知道",
+              "type": "实词"
+            },
+            {
+              "word": "桓",
+              "pinyin": "Huán",
+              "meaning": "桓公",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "将要",
+              "type": "虚词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定",
+              "type": "虚词"
+            },
+            {
+              "word": "得立",
+              "pinyin": "dé lì",
+              "meaning": "得以立为君",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "且如桓立，则恐诸大夫之不能相幼君也。",
+          "translation": "而且如果桓公立为君，又担心大夫们不能辅佐年幼的君主。",
+          "words": [
+            {
+              "word": "且如",
+              "pinyin": "qiě rú",
+              "meaning": "如果",
+              "type": "虚词"
+            },
+            {
+              "word": "桓",
+              "pinyin": "huán",
+              "meaning": "桓公",
+              "type": "人名"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "即位",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "恐",
+              "pinyin": "kǒng",
+              "meaning": "担心",
+              "type": "实词"
+            },
+            {
+              "word": "诸",
+              "pinyin": "zhū",
+              "meaning": "众",
+              "type": "虚词"
+            },
+            {
+              "word": "大夫",
+              "pinyin": "dà fū",
+              "meaning": "官员",
+              "type": "官职"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够",
+              "type": "实词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "辅佐",
+              "type": "实词"
+            },
+            {
+              "word": "幼",
+              "pinyin": "yòu",
+              "meaning": "年幼",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "君主",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "故凡隐之立，为桓立也。",
+          "translation": "所以隐公的立为君，是为了桓公而立的。",
+          "words": [
+            {
+              "word": "故",
+              "pinyin": "gù",
+              "meaning": "所以",
+              "type": "虚词"
+            },
+            {
+              "word": "凡",
+              "pinyin": "fán",
+              "meaning": "凡是",
+              "type": "虚词"
+            },
+            {
+              "word": "隐",
+              "pinyin": "yǐn",
+              "meaning": "隐公",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "的",
+              "type": "虚词"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "即位",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "为了",
+              "type": "虚词"
+            },
+            {
+              "word": "桓",
+              "pinyin": "huán",
+              "meaning": "桓公",
+              "type": "人名"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "即位",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "啊",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "隐长又贤，何以不宜立？立适以长不以贤，立子以贵不以长。",
+          "translation": "隐公年长又贤能，为什么不应该立？因为立嫡子以年长为标准而不以贤能为标准，立庶子以尊贵为标准而不以年长为标准。",
+          "words": [
+            {
+              "word": "隐",
+              "pinyin": "yǐn",
+              "meaning": "隐公",
+              "type": "人名"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "年长",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "并且",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "宜",
+              "pinyin": "yí",
+              "meaning": "应该",
+              "type": "实词"
+            },
+            {
+              "word": "立",
+              "pinyin": "lì",
+              "meaning": "即位",
+              "type": "实词"
+            },
+            {
+              "word": "立适",
+              "pinyin": "lì dí",
+              "meaning": "立嫡子",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "根据",
+              "type": "虚词"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "年长",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "根据",
+              "type": "虚词"
+            },
+            {
+              "word": "贤",
+              "pinyin": "xián",
+              "meaning": "贤能",
+              "type": "实词"
+            },
+            {
+              "word": "立子",
+              "pinyin": "lì zǐ",
+              "meaning": "立儿子",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "根据",
+              "type": "虚词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "不",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "根据",
+              "type": "虚词"
+            },
+            {
+              "word": "长",
+              "pinyin": "zhǎng",
+              "meaning": "年长",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "桓何以贵？母贵也。",
+          "translation": "桓公为什么尊贵？因为他的母亲尊贵。",
+          "words": [
+            {
+              "word": "桓",
+              "pinyin": "Huán",
+              "meaning": "鲁桓公",
+              "type": "人名"
+            },
+            {
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "母",
+              "pinyin": "mǔ",
+              "meaning": "母亲",
+              "type": "实词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "语气词",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "母贵，则子何以贵？子以母贵，母以子贵。",
+          "translation": "母亲尊贵，那么儿子为什么尊贵？儿子因母亲而尊贵，母亲因儿子而尊贵。",
+          "words": [
+            {
+              "word": "母",
+              "pinyin": "mǔ",
+              "meaning": "母亲",
+              "type": "实词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "则",
+              "pinyin": "zé",
+              "meaning": "那么",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "为什么",
+              "type": "虚词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "母",
+              "pinyin": "mǔ",
+              "meaning": "母亲",
+              "type": "实词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            },
+            {
+              "word": "母",
+              "pinyin": "mǔ",
+              "meaning": "母亲",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "因为",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子",
+              "type": "实词"
+            },
+            {
+              "word": "贵",
+              "pinyin": "guì",
+              "meaning": "尊贵",
+              "type": "实词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

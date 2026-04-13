@@ -1,0 +1,25 @@
+{
+  "id": "guwenguanzhi",
+  "name": "古文观止",
+  "displayName": "古文觀止",
+  "author": null,
+  "editor": "吴楚材 吴调侯",
+  "dynasty": "qing",
+  "period": "清 · 康熙三十四年（1695）成书",
+  "summary": "中国清代吴楚材、吴调侯叔侄编选的古代散文选本，收录自东周至明末的 222 篇经典古文，是近三百年来流传最广的古文入门读物。",
+  "structureType": "collection",
+  "hierarchy": [
+    "dynasty",
+    "author",
+    "document"
+  ],
+  "totalDocuments": 222,
+  "totalAuthors": 61,
+  "source": "维基文库 / 中国哲学书电子化计划",
+  "license": "原文公有领域",
+  "cover": {
+    "theme": "ink",
+    "pattern": "classic"
+  },
+  "order": 1
+}

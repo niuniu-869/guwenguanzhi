@@ -11,10 +11,12 @@ import re
 import requests
 from typing import Any
 
+import os
+
 API_URL = "https://api.xiaomimimo.com/v1/chat/completions"
 API_KEY = "sk-c4906zis2rmob8pz4jwz0osfzwjofibknn88teohttcckvzm"
 MODEL = "mimo-v2-pro"
-RPM = 90  # 留 10 的余量
+RPM = int(os.environ.get("MIMO_RPM", "90"))  # 可通过 MIMO_RPM 调优；mimo 官方 100，冒险可上 150-200
 
 _last_call_times: list[float] = []
 
@@ -34,7 +36,7 @@ def _rate_limit():
 
 
 def call_llm(system_prompt: str, user_prompt: str, temperature: float = 0.3) -> str:
-    """调用 LLM API，返回原始文本响应"""
+    """调用 LLM API，返回原始文本响应。对 429 做长退避，最多 6 次重试。"""
     _rate_limit()
 
     headers = {
@@ -50,16 +52,34 @@ def call_llm(system_prompt: str, user_prompt: str, temperature: float = 0.3) -> 
         "temperature": temperature,
     }
 
-    for attempt in range(3):
+    max_attempts = 6
+    for attempt in range(max_attempts):
         try:
             resp = requests.post(API_URL, headers=headers, json=payload, timeout=180)
+            # 针对 429 特殊处理：更长退避
+            if resp.status_code == 429:
+                # 尊重服务端 Retry-After（如果有）
+                retry_after = resp.headers.get("Retry-After")
+                if retry_after:
+                    try:
+                        wait = float(retry_after)
+                    except ValueError:
+                        wait = 30.0
+                else:
+                    # 指数退避 30/45/60/75/90 秒
+                    wait = 30 + attempt * 15
+                if attempt < max_attempts - 1:
+                    time.sleep(wait)
+                    continue
+                else:
+                    raise requests.exceptions.HTTPError(f"429 after {max_attempts} retries")
             resp.raise_for_status()
             data = resp.json()
             return data["choices"][0]["message"]["content"]
         except requests.exceptions.RequestException as e:
-            print(f"    ⚠ API 请求失败 (尝试 {attempt + 1}/3): {e}")
-            if attempt < 2:
-                time.sleep(5 * (attempt + 1))
+            if attempt < max_attempts - 1:
+                # 普通错误：短退避
+                time.sleep(3 + attempt * 2)
             else:
                 raise
 
