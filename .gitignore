@@ -18,9 +18,15 @@ __pycache__/
 *.pyc
 .venv/
 
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
 # Temp
 *.log
 /tmp/
+logs/
 
 # Vite
 frontend/node_modules/.vite/
@@ -45,6 +51,10 @@ data/quality_report.json
 # Multi-book pipeline: keep documents/, skip intermediate outputs
 data/books/*/output/
 data/books/*/raw_source/
+
+# 史记数据暂下线（等二十四史 skill 对接开源数据后重建）
+data/books/shiji/
+scripts/_archive/
 
 # Frontend public data: auto-generated symlinks from scripts/sync_frontend_data.py
 frontend/public/data/
