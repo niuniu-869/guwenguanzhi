@@ -1,203 +1,205 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "165_梅圣俞诗集序",
   "title": "梅圣俞诗集序",
   "author": {
     "id": "song_欧阳修",
     "name": "欧阳修",
     "dynasty": "song",
-    "bio": "欧阳修（1007-1072），字永叔，号醉翁，晚号六一居士。北宋文学家、史学家、政治家，唐宋八大家之一。他领导了北宋诗文革新运动，提倡平易自然的文风，对后世文学发展影响深远。生平著述丰富，包括《欧阳文忠公文集》、《新唐书》等。"
+    "bio": "欧阳修，字永叔，号醉翁，晚号六一居士，生于1007年，卒于1072年，籍贯吉州永丰（今江西永丰）。北宋政治家、文学家，官至枢密副使、参知政事。代表作有散文《醉翁亭记》、史书《新五代史》等。他是唐宋八大家之一，北宋诗文革新运动的领袖，对宋代文学发展影响深远。"
   },
   "source": "",
   "dynasty": "song",
   "volume": 10,
-  "background": "本文是欧阳修在北宋时期为其友人梅尧臣（字圣俞）的诗集所作的序言。梅尧臣是宋代著名诗人，但一生仕途坎坷，屡试不第，长期担任地方小官，生活困顿。欧阳修撰写此序时，梅尧臣已去世，欧阳修整理其遗稿，感慨友人的不得志与诗歌成就。文章写作背景涉及宋代文学环境，欧阳修作为文坛领袖，通过序言阐述“穷而后工”的文学观点，既纪念友人，也反映当时诗人命运与社会现实的关联。序言约作于宋仁宗年间，体现了欧阳修对诗歌艺术的推崇和对人才埋没的惋惜。",
-  "appreciation": "《梅圣俞诗集序》是欧阳修散文的代表作之一，以严谨的结构和真挚的情感著称。文章开篇设问“诗人少达而多穷”，引出“穷而后工”的核心论点，认为诗人经历困顿后作品更精妙。接着，以梅尧臣生平为例，叙述其少时以荫补吏、屡试不第、困于州县的经历，突出其诗歌“简古纯粹”的风格和不得志的境遇。欧阳修通过对比理论与实例，层层递进，语言简洁明快，平易自然，体现了宋代散文的革新风格。文中情感深沉，既有对梅尧臣才华的赞扬，又有对其命运的惋惜，结尾处对诗集整理表示欣慰，增强了文章的感染力。整体上，文章融合了文学评论、人物传记和抒情，展现了欧阳修散文的议论精辟、情感真挚的特点，对后世文学批评有深远影响。",
+  "background": "《梅圣俞诗集序》作于北宋仁宗嘉祐年间，具体在梅尧臣（字圣俞）去世后。北宋中期社会文化繁荣，科举制度完善，但文人仕途竞争激烈，许多有才之士沉沦下僚。欧阳修时任翰林学士等职，已是文坛领袖，与梅尧臣为挚友。梅尧臣一生困顿，虽诗才卓越却屡试不第，长期担任地方小吏。欧阳修在整理梅尧臣遗稿时写作此序，动机在于悼念友人怀才不遇，并借序文阐发文学创作与人生境遇的关系，回应当时对诗人命运的议论。",
+  "appreciation": "本文为序跋体，结构严谨，以议论开篇提出“穷而后工”的核心观点，继而以梅尧臣生平为实例展开叙述，最后交代诗集编纂缘由，融议论、叙事、抒情于一体。艺术特色上，语言简古纯粹，善用反问与对比，如“夫岂然哉？”增强论辩力；节奏舒缓而情感深沉，通过具体事例如“困于州县，凡十馀年”凸显人物命运。思想内涵聚焦于文学与境遇的互动，强调困顿激发创作深度，体现欧阳修重质轻浮的文学观。此文是宋代文论的重要文献，对后世理解士人心态与诗歌批评有参考价值。",
   "tags": [
-    "宋代散文",
-    "诗歌评论",
-    "穷而后工"
+    "序跋",
+    "人物",
+    "哲理",
+    "友情"
   ],
   "paragraphs": [
     {
       "original": "予闻世谓诗人少达而多穷，夫岂然哉？盖世所传诗者，多出于古穷人之辞也。",
-      "translation": "我听说世人说诗人很少显达而多困穷，难道真是这样吗？大概世上所流传的诗歌，大多出自古代困穷之人的言辞。",
+      "translation": "我听说世人说诗人很少显达而多困窘，难道真是这样吗？大概世间所流传的诗歌，大多出自古代困窘之人的言辞。",
       "sentences": [
         {
           "original": "予闻世谓诗人少达而多穷，夫岂然哉？",
-          "translation": "我听说世人说诗人很少显达而多困穷，难道真是这样吗？",
+          "translation": "我听说世人说诗人很少显达而多困窘，难道真是这样吗？",
           "words": [
             {
               "word": "予",
-              "pinyin": "yú",
-              "meaning": "我",
+              "pinyin": "yǔ",
+              "meaning": "代词，指作者自己（欧阳修）",
               "type": "虚词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听说",
+              "meaning": "听到、听说",
               "type": "实词"
             },
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世人",
+              "meaning": "世人、社会上的人",
               "type": "实词"
             },
             {
               "word": "谓",
               "pinyin": "wèi",
-              "meaning": "说",
+              "meaning": "说、认为",
               "type": "实词"
             },
             {
               "word": "诗人",
               "pinyin": "shī rén",
-              "meaning": "诗人",
+              "meaning": "创作诗歌的人",
               "type": "实词"
             },
             {
               "word": "少",
               "pinyin": "shǎo",
-              "meaning": "少有",
+              "meaning": "稀少、不多",
               "type": "实词"
             },
             {
               "word": "达",
               "pinyin": "dá",
-              "meaning": "显达",
+              "meaning": "显达、仕途顺利",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，相当于'却'",
               "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多有",
+              "meaning": "众多、很多",
               "type": "实词"
             },
             {
               "word": "穷",
               "pinyin": "qióng",
-              "meaning": "困穷",
+              "meaning": "古义：困窘、不得志（非今义'贫穷'）",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "语气词",
+              "meaning": "此处读 fú，义为句首语气词，表示发语，引出议论",
               "type": "虚词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表示反问，难道",
               "type": "虚词"
             },
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "这样",
+              "meaning": "代词，指代前文'诗人少达而多穷'的说法",
               "type": "虚词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "吗",
+              "meaning": "句末语气词，与'岂'呼应表反问",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "盖世所传诗者，多出于古穷人之辞也。",
-          "translation": "大概世上所流传的诗歌，大多出自古代困穷之人的言辞。",
+          "translation": "大概世间所流传的诗歌，大多出自古代困窘之人的言辞。",
           "words": [
             {
               "word": "盖",
               "pinyin": "gài",
-              "meaning": "因为",
+              "meaning": "句首语气词，表示原因，相当于'大概因为'",
               "type": "虚词"
             },
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世人",
+              "meaning": "世人、社会上流传的",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "助词",
+              "meaning": "助词，与'传'结合构成'所传'，表示'所传的诗'",
               "type": "虚词"
             },
             {
               "word": "传",
               "pinyin": "chuán",
-              "meaning": "流传",
+              "meaning": "流传、传播",
               "type": "实词"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "诗歌作品",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，用于名词性短语中，表示'...的事物'，这里指诗歌",
               "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多有",
+              "meaning": "大多、很多",
               "type": "实词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出自",
+              "meaning": "出自、来源于",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "从",
+              "meaning": "介词，表示处所，从",
               "type": "虚词"
             },
             {
               "word": "古",
               "pinyin": "gǔ",
-              "meaning": "古代",
+              "meaning": "古代、古时候",
               "type": "实词"
             },
             {
               "word": "穷人",
               "pinyin": "qióng rén",
-              "meaning": "困穷的人",
+              "meaning": "古义：困窘不得志的人（非今义'贫穷的人'）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "言辞",
+              "meaning": "言辞、诗作",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
@@ -206,11 +208,11 @@
     },
     {
       "original": "凡士之蕴其所有，而不得施于世者，多喜自放于山巅水涯之外。见虫鱼草木，风云鸟兽之状类，往往探其奇怪。内有忧思感愤之郁积，其兴于怨刺，以道羁臣寡妇之所叹，而写人情之难言，盖愈穷则愈工。然则非诗之能穷人，殆穷者而后工也。",
-      "translation": "大凡那些怀有才学却无法在世间施展的士人，大多喜欢自我放逐到山巅水涯之外。看到虫鱼草木、风云鸟兽的形态，常常探究它们的奇特之处。内心积聚着忧思和愤慨，兴起怨恨和讽刺，用来表达羁臣寡妇的叹息，书写人情中难以言说的部分，大概越是困穷，诗就越精巧。那么，并非诗能使人困穷，而是困穷之后诗才能精巧。",
+      "translation": "凡是怀才不遇的士人，大多喜欢放浪于山水之间。他们观察虫鱼草木、风云鸟兽的形态，常常探究其奇异之处。内心积聚着忧思和愤懑，便通过诗歌来抒发怨恨讽刺，表达流放之臣和寡妇的哀叹，描绘人情中难以言说的部分，越是困顿，诗艺就越精巧。这样看来，并非诗歌使人困顿，而是困顿之人才能写出精巧的诗篇。",
       "sentences": [
         {
           "original": "凡士之蕴其所有，而不得施于世者，多喜自放于山巅水涯之外。",
-          "translation": "大凡那些怀有才学却无法在世间施展的士人，大多喜欢自我放逐到山巅水涯之外。",
+          "translation": "凡是士人蕴藏才能却不能在世间施展的，大多喜欢自我放逐到山水之间。",
           "words": [
             {
               "word": "凡士",
@@ -221,67 +223,67 @@
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓之间取消句子独立性，使'士蕴其所有'成为主语部分",
               "type": "虚词"
             },
             {
               "word": "蕴",
               "pinyin": "yùn",
-              "meaning": "蕴藏",
+              "meaning": "蕴藏、怀有",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
-              "type": "实词"
+              "meaning": "代词，指代'士'",
+              "type": "虚词"
             },
             {
               "word": "所有",
               "pinyin": "suǒ yǒu",
-              "meaning": "所有才能",
+              "meaning": "古义：所具有的才学、抱负（非今义'一切'）",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，却",
               "type": "虚词"
             },
             {
               "word": "不得",
               "pinyin": "bù dé",
-              "meaning": "不能",
+              "meaning": "不能够",
               "type": "实词"
             },
             {
               "word": "施",
               "pinyin": "shī",
-              "meaning": "施加",
+              "meaning": "施展、施行",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作'施'的对象'世'",
               "type": "虚词"
             },
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世间",
+              "meaning": "世间、社会",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
-              "type": "实词"
+              "meaning": "助词，与前面的'士之蕴其所有而不得施于世'构成名词性短语，指代'……的人'",
+              "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "大多",
+              "meaning": "大多、常常",
               "type": "实词"
             },
             {
@@ -293,38 +295,32 @@
             {
               "word": "自放",
               "pinyin": "zì fàng",
-              "meaning": "自我放逐",
+              "meaning": "自我放逐、寄情",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出处所'山巅水涯之外'",
               "type": "虚词"
             },
             {
-              "word": "山巅",
-              "pinyin": "shān diān",
-              "meaning": "山顶",
-              "type": "实词"
-            },
-            {
-              "word": "水涯",
-              "pinyin": "shuǐ yá",
-              "meaning": "水边",
+              "word": "山巅水涯",
+              "pinyin": "shān diān shuǐ yá",
+              "meaning": "山顶水边，泛指山水自然之境",
               "type": "实词"
             },
             {
               "word": "之外",
               "pinyin": "zhī wài",
-              "meaning": "之外",
+              "meaning": "以外的地方",
               "type": "实词"
             }
           ]
         },
         {
           "original": "见虫鱼草木，风云鸟兽之状类，往往探其奇怪。",
-          "translation": "看到虫鱼草木、风云鸟兽的形态，常常探究它们的奇特之处。",
+          "translation": "看到虫鱼草木、风云鸟兽的形状类别，往往探究它们的奇异之处。",
           "words": [
             {
               "word": "见",
@@ -333,57 +329,21 @@
               "type": "实词"
             },
             {
-              "word": "虫",
-              "pinyin": "chóng",
-              "meaning": "虫",
+              "word": "虫鱼草木",
+              "pinyin": "chóng yú cǎo mù",
+              "meaning": "虫、鱼、草、木，泛指自然万物",
               "type": "实词"
             },
             {
-              "word": "鱼",
-              "pinyin": "yú",
-              "meaning": "鱼",
-              "type": "实词"
-            },
-            {
-              "word": "草",
-              "pinyin": "cǎo",
-              "meaning": "草",
-              "type": "实词"
-            },
-            {
-              "word": "木",
-              "pinyin": "mù",
-              "meaning": "木",
-              "type": "实词"
-            },
-            {
-              "word": "风",
-              "pinyin": "fēng",
-              "meaning": "风",
-              "type": "实词"
-            },
-            {
-              "word": "云",
-              "pinyin": "yún",
-              "meaning": "云",
-              "type": "实词"
-            },
-            {
-              "word": "鸟",
-              "pinyin": "niǎo",
-              "meaning": "鸟",
-              "type": "实词"
-            },
-            {
-              "word": "兽",
-              "pinyin": "shòu",
-              "meaning": "兽",
+              "word": "风云鸟兽",
+              "pinyin": "fēng yún niǎo shòu",
+              "meaning": "风、云、鸟、兽，泛指自然景象与动物",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
@@ -401,14 +361,14 @@
             {
               "word": "探",
               "pinyin": "tàn",
-              "meaning": "探求",
+              "meaning": "探究、探求",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它们的",
-              "type": "实词"
+              "meaning": "代词，指代前面的'虫鱼草木，风云鸟兽'",
+              "type": "虚词"
             },
             {
               "word": "奇怪",
@@ -420,246 +380,222 @@
         },
         {
           "original": "内有忧思感愤之郁积，其兴于怨刺，以道羁臣寡妇之所叹，而写人情之难言，盖愈穷则愈工。",
-          "translation": "内心积聚着忧思和愤慨，兴起怨恨和讽刺，用来表达羁臣寡妇的叹息，书写人情中难以言说的部分，大概越是困穷，诗就越精巧。",
+          "translation": "内心有忧思感愤的郁积，他们兴起于怨恨讽刺，来表达羁臣寡妇的叹息，而描写人情中难以言说的部分，大概越是困顿就越工巧。",
           "words": [
             {
               "word": "内",
               "pinyin": "nèi",
-              "meaning": "内心",
+              "meaning": "方位名词，指内心、内在",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，怀有、存在",
               "type": "实词"
             },
             {
-              "word": "忧",
-              "pinyin": "yōu",
-              "meaning": "忧愁",
-              "type": "实词"
-            },
-            {
-              "word": "思",
-              "pinyin": "sī",
-              "meaning": "思虑",
-              "type": "实词"
-            },
-            {
-              "word": "感",
-              "pinyin": "gǎn",
-              "meaning": "感慨",
-              "type": "实词"
-            },
-            {
-              "word": "愤",
-              "pinyin": "fèn",
-              "meaning": "愤懑",
+              "word": "忧思感愤",
+              "pinyin": "yōu sī gǎn fèn",
+              "meaning": "忧愁、思念、感慨、愤懑等各种情绪",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语‘忧思感愤’和中心语‘郁积’，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "郁积",
               "pinyin": "yù jī",
-              "meaning": "郁结积聚",
+              "meaning": "动词，积聚、压抑于心",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代前文‘忧思感愤之郁积’",
+              "type": "虚词"
             },
             {
               "word": "兴",
               "pinyin": "xīng",
-              "meaning": "兴起",
+              "meaning": "动词，产生、兴起",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示起点或来源，相当于‘从’",
               "type": "虚词"
             },
             {
               "word": "怨刺",
               "pinyin": "yuàn cì",
-              "meaning": "怨恨讽刺",
+              "meaning": "名词，怨恨讽刺（之情）",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "表达",
+              "meaning": "动词，表达、述说",
               "type": "实词"
             },
             {
               "word": "羁臣",
               "pinyin": "jī chén",
-              "meaning": "羁旅之臣",
+              "meaning": "名词，指被贬谪流放的臣子",
               "type": "实词"
             },
             {
               "word": "寡妇",
               "pinyin": "guǎ fù",
-              "meaning": "寡妇",
+              "meaning": "名词，丧夫的妇人",
               "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
             },
             {
               "word": "所叹",
               "pinyin": "suǒ tàn",
-              "meaning": "所叹息的",
+              "meaning": "所字结构，‘所’与动词‘叹’结合，指叹息的内容",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示承接关系，并且",
               "type": "虚词"
             },
             {
               "word": "写",
               "pinyin": "xiě",
-              "meaning": "抒写",
+              "meaning": "动词，抒发、描摹",
               "type": "实词"
             },
             {
               "word": "人情",
               "pinyin": "rén qíng",
-              "meaning": "人的情感",
+              "meaning": "名词，人的情感、心理",
               "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
             },
             {
               "word": "难言",
               "pinyin": "nán yán",
-              "meaning": "难以言说",
+              "meaning": "形容词性结构，难以用言语表达",
               "type": "实词"
             },
             {
               "word": "盖",
               "pinyin": "gài",
-              "meaning": "大概",
+              "meaning": "句首语气词，表示推测原因，大概因为",
               "type": "虚词"
             },
             {
-              "word": "愈穷",
-              "pinyin": "yù qióng",
-              "meaning": "越困穷",
+              "word": "愈",
+              "pinyin": "yù",
+              "meaning": "副词，更加",
+              "type": "实词"
+            },
+            {
+              "word": "穷",
+              "pinyin": "qióng",
+              "meaning": "古义：处境困顿、仕途不得志（非今义‘贫穷’）",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示顺承关系，就",
               "type": "虚词"
             },
             {
-              "word": "愈工",
-              "pinyin": "yù gōng",
-              "meaning": "越精巧",
+              "word": "工",
+              "pinyin": "gōng",
+              "meaning": "形容词，精巧、工妙",
               "type": "实词"
             }
           ]
         },
         {
           "original": "然则非诗之能穷人，殆穷者而后工也。",
-          "translation": "那么，并非诗能使人困穷，而是困穷之后诗才能精巧。",
+          "translation": "既然如此，那么不是诗能使人困顿，大概是困顿的人然后才能工巧。",
           "words": [
             {
               "word": "然则",
               "pinyin": "rán zé",
-              "meaning": "既然这样那么",
+              "meaning": "固定结构，承接上文，表示‘既然如此，那么’",
               "type": "虚词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
-              "type": "虚词"
+              "meaning": "否定副词，不是",
+              "type": "实词"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "名词，诗歌创作",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓结构‘诗能穷人’之间，取消其独立性",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "能愿动词，能够",
               "type": "实词"
             },
             {
               "word": "穷",
               "pinyin": "qióng",
-              "meaning": "使困穷",
+              "meaning": "古义：使动用法，使…困顿、使…不得志（非今义‘贫穷’）",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人",
               "type": "实词"
             },
             {
               "word": "殆",
               "pinyin": "dài",
-              "meaning": "大概",
-              "type": "虚词"
+              "meaning": "副词，表示推测，大概、恐怕",
+              "type": "实词"
             },
             {
               "word": "穷者",
               "pinyin": "qióng zhě",
-              "meaning": "困穷的人",
+              "meaning": "者字结构，‘者’与形容词‘穷’结合，指处境困顿的人",
               "type": "实词"
             },
             {
               "word": "而后",
               "pinyin": "ér hòu",
-              "meaning": "然后",
+              "meaning": "固定结构，表示承接，然后才",
               "type": "虚词"
             },
             {
               "word": "工",
               "pinyin": "gōng",
-              "meaning": "精巧",
+              "meaning": "形容词，精巧、工妙",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示判断与肯定",
               "type": "虚词"
             }
           ]
@@ -668,142 +604,142 @@
     },
     {
       "original": "予友梅圣俞，少以荫补为吏，累举进士，辄抑于有司。困于州县，凡十馀年。",
-      "translation": "我的朋友梅圣俞，年轻时因为祖先的功勋被补任为官吏，多次参加进士考试，却总是被主考官压制。困顿在州县的小官职位上，总共十多年。",
+      "translation": "我的朋友梅圣俞，年轻时因祖先功勋补任为官吏，多次参加进士考试，却总是被主管官员压制。他困在州县官职上，总共十多年。",
       "sentences": [
         {
-          "original": "予友梅圣俞，少以荫补为吏",
-          "translation": "我的朋友梅圣俞，年轻时因为祖先的功勋被补任为官吏",
+          "original": "予友梅圣俞，少以荫补为吏，累举进士，辄抑于有司。",
+          "translation": "我的朋友梅圣俞，年轻时因祖先功勋补任为官吏，多次参加进士考试，总是被主管官员压制。",
           "words": [
             {
               "word": "予",
               "pinyin": "yú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，我。此处作主语，指作者欧阳修自己。",
+              "type": "虚词"
             },
             {
               "word": "友",
               "pinyin": "yǒu",
-              "meaning": "朋友",
+              "meaning": "朋友。",
               "type": "实词"
             },
             {
               "word": "梅圣俞",
               "pinyin": "méi shèng yú",
-              "meaning": "梅尧臣字圣俞",
+              "meaning": "北宋诗人梅尧臣（1002-1060），字圣俞，宣州宣城（今安徽宣城）人，世称宛陵先生。欧阳修挚友，诗坛革新同道。",
               "type": "人名"
             },
             {
               "word": "少",
               "pinyin": "shào",
-              "meaning": "年轻时",
+              "meaning": "年轻时。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "凭借",
+              "meaning": "介词，表示凭借，靠、因。",
               "type": "虚词"
             },
             {
-              "word": "荫补",
-              "pinyin": "yìn bǔ",
-              "meaning": "荫庇补任",
+              "word": "荫",
+              "pinyin": "yìn",
+              "meaning": "恩荫。指凭借祖先的官爵功勋而得官的制度。",
+              "type": "实词"
+            },
+            {
+              "word": "补",
+              "pinyin": "bǔ",
+              "meaning": "补任，委任官职。",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "担任",
+              "meaning": "动词，担任。",
               "type": "实词"
             },
             {
               "word": "吏",
               "pinyin": "lì",
-              "meaning": "官吏",
+              "meaning": "官吏，低级官员。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "累举进士，辄抑于有司",
-          "translation": "他多次参加进士考试，却总是被主考官压制",
-          "words": [
+            },
             {
               "word": "累",
               "pinyin": "lěi",
-              "meaning": "多次",
-              "type": "实词"
+              "meaning": "副词，多次、接连。",
+              "type": "虚词"
             },
             {
               "word": "举",
               "pinyin": "jǔ",
-              "meaning": "参加科举",
+              "meaning": "应举，参加科举考试。",
               "type": "实词"
             },
             {
               "word": "进士",
               "pinyin": "jìn shì",
-              "meaning": "进士考试",
+              "meaning": "指进士科考试。隋唐至明清科举取士的最高科目。",
               "type": "实词"
             },
             {
               "word": "辄",
               "pinyin": "zhé",
-              "meaning": "总是",
+              "meaning": "副词，总是、就。",
               "type": "虚词"
             },
             {
               "word": "抑",
               "pinyin": "yì",
-              "meaning": "压制",
+              "meaning": "压制，被黜落。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "被",
+              "meaning": "介词，表被动，被。",
               "type": "虚词"
             },
             {
               "word": "有司",
               "pinyin": "yǒu sī",
-              "meaning": "主管官员",
-              "type": "官职"
+              "meaning": "古代设官分职，各有专司，因称官吏为“有司”。此处指主考官。",
+              "type": "实词"
             }
           ]
         },
         {
-          "original": "困于州县，凡十馀年",
-          "translation": "困顿在州县的小官职位上，总共十多年",
+          "original": "困于州县，凡十馀年。",
+          "translation": "困在州县官职上，总共十多年。",
           "words": [
             {
               "word": "困",
               "pinyin": "kùn",
-              "meaning": "困顿",
+              "meaning": "困守，不得升迁。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表处所，在。",
               "type": "虚词"
             },
             {
               "word": "州县",
               "pinyin": "zhōu xiàn",
-              "meaning": "州县地方",
+              "meaning": "州和县，地方行政机构。此处指地方官职。",
               "type": "实词"
             },
             {
               "word": "凡",
               "pinyin": "fán",
-              "meaning": "总共",
-              "type": "实词"
+              "meaning": "副词，总共、一共。",
+              "type": "虚词"
             },
             {
               "word": "十馀年",
               "pinyin": "shí yú nián",
-              "meaning": "十多年",
+              "meaning": "十多年。“馀”同“余”，表示整数后的不定零数。",
               "type": "实词"
             }
           ]
@@ -812,418 +748,376 @@
     },
     {
       "original": "年今五十，犹从辟书，为人之佐，郁其所蓄，不得奋见于事业。其家宛陵，幼习于诗，自为童子，出语已惊其长老。既长，学乎六经仁义之说，其为文章，简古纯粹，不求苟说于世，世之人徒知其诗而已。然时无贤愚，语诗者必求之圣俞。",
-      "translation": "梅圣俞现在五十岁了，仍然接受征召文书，担任别人的辅佐官，压抑自己的才能，不能在事业上奋发有为。他家在宛陵，从小学习诗歌，从孩童时代起，说出的话就已经让长辈们惊讶。长大后，他学习六经仁义的学说，写的文章简洁古朴纯粹，不追求苟且取悦于世人，世人只知道他的诗歌而已。然而，无论时人贤能与否，谈论诗歌的人必定会向圣俞请教。",
+      "translation": "梅圣俞如今年已五十，仍然接受征召文书，担任别人的辅佐官员，郁积着满腹才华，无法在事业上奋发有为。他家在宛陵，幼年学习诗歌，从孩童时起，说出的话就已震惊长辈。长大后，研习六经仁义之学，写的文章简练古朴、纯正精粹，不求苟且取悦世人，世人仅仅知道他的诗罢了。然而无论贤愚，当时谈论诗歌的人必定向圣俞求教。",
       "sentences": [
         {
           "original": "年今五十，犹从辟书，为人之佐，郁其所蓄，不得奋见于事业。",
-          "translation": "梅圣俞现在五十岁了，仍然接受征召文书，担任别人的辅佐官，压抑自己的才能，不能在事业上奋发有为。",
+          "translation": "如今年已五十，仍然接受征召文书，做别人的辅佐官员，郁积着所怀有的才能，不能在事业上奋发显现。",
           "words": [
             {
               "word": "年",
               "pinyin": "nián",
-              "meaning": "年龄",
+              "meaning": "名词，年龄、年岁",
               "type": "实词"
             },
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
-              "type": "虚词"
+              "meaning": "名词，如今、现在",
+              "type": "实词"
             },
             {
               "word": "五十",
               "pinyin": "wǔ shí",
-              "meaning": "五十岁",
+              "meaning": "数词，五十岁",
               "type": "实词"
             },
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "仍然",
+              "meaning": "副词，尚且、仍然",
               "type": "虚词"
             },
             {
               "word": "从",
               "pinyin": "cóng",
-              "meaning": "跟随",
+              "meaning": "动词，听从、接受",
               "type": "实词"
             },
             {
               "word": "辟书",
               "pinyin": "bì shū",
-              "meaning": "征召文书",
+              "meaning": "名词，征召的文书。辟，此处读bì，指征召（授官）",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "实词"
+              "meaning": "动词，做、担任",
+              "type": "虚词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "别人",
+              "meaning": "名词，他人、别人",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'人'和中心语'佐'",
               "type": "虚词"
             },
             {
               "word": "佐",
               "pinyin": "zuǒ",
-              "meaning": "辅佐者",
+              "meaning": "名词，辅佐者、僚属",
               "type": "实词"
             },
             {
               "word": "郁",
               "pinyin": "yù",
-              "meaning": "压抑",
+              "meaning": "动词，郁积、压抑",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的（指梅圣俞）",
               "type": "虚词"
             },
             {
               "word": "所蓄",
               "pinyin": "suǒ xù",
-              "meaning": "所积蓄",
+              "meaning": "名词性结构，'所'字结构，指所积蓄的才学",
               "type": "实词"
             },
             {
               "word": "不得",
               "pinyin": "bù dé",
-              "meaning": "不能",
-              "type": "虚词"
+              "meaning": "能愿动词短语，不能够",
+              "type": "实词"
             },
             {
               "word": "奋见",
-              "pinyin": "fèn jiàn",
-              "meaning": "奋发显现",
+              "pinyin": "fèn xiàn",
+              "meaning": "动词短语，奋发显现。'见'此处读xiàn，义为显现、显露",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作'奋见'的处所或范围，相当于'在...方面'",
               "type": "虚词"
             },
             {
               "word": "事业",
               "pinyin": "shì yè",
-              "meaning": "事业",
+              "meaning": "古义：具体的官职事务、功业（非今义'个人成就目标'）",
               "type": "实词"
             }
           ]
         },
         {
           "original": "其家宛陵，幼习于诗，自为童子，出语已惊其长老。",
-          "translation": "他家在宛陵，从小学习诗歌，从孩童时代起，说出的话就已经让长辈们惊讶。",
+          "translation": "他家在宛陵，幼年学习诗歌，自从孩童时，说出的话就已经震惊了他的长辈。",
           "words": [
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的（指梅圣俞）",
               "type": "虚词"
             },
             {
               "word": "家",
               "pinyin": "jiā",
-              "meaning": "家住",
+              "meaning": "动词，家居、定居",
               "type": "实词"
             },
             {
               "word": "宛陵",
               "pinyin": "wǎn líng",
-              "meaning": "地名",
+              "meaning": "地名，汉代县名，即宋代宣城（今安徽宣城），梅尧臣（圣俞）的故乡",
               "type": "地名"
             },
             {
               "word": "幼",
               "pinyin": "yòu",
-              "meaning": "幼年",
-              "type": "虚词"
+              "meaning": "名词，幼年、小时候",
+              "type": "实词"
             },
             {
               "word": "习",
               "pinyin": "xí",
-              "meaning": "学习",
+              "meaning": "动词，学习、练习",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，引出动作'习'的对象，相当于'对于'",
               "type": "虚词"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "名词，诗歌",
               "type": "实词"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "自从",
+              "meaning": "介词，从",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "成为",
-              "type": "实词"
+              "meaning": "动词，做、成为。此处读wéi",
+              "type": "虚词"
             },
             {
               "word": "童子",
               "pinyin": "tóng zǐ",
-              "meaning": "儿童",
+              "meaning": "名词，儿童、未成年人",
               "type": "实词"
             },
             {
               "word": "出语",
               "pinyin": "chū yǔ",
-              "meaning": "说出的话",
+              "meaning": "动宾短语，说出话语",
               "type": "实词"
             },
             {
               "word": "已",
               "pinyin": "yǐ",
-              "meaning": "已经",
+              "meaning": "副词，已经",
               "type": "虚词"
             },
             {
               "word": "惊",
               "pinyin": "jīng",
-              "meaning": "使惊讶",
+              "meaning": "动词，使...惊讶",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的（指梅圣俞）",
               "type": "虚词"
             },
             {
               "word": "长老",
               "pinyin": "zhǎng lǎo",
-              "meaning": "长辈",
+              "meaning": "名词，长辈、年长者",
               "type": "实词"
             }
           ]
         },
         {
           "original": "既长，学乎六经仁义之说，其为文章，简古纯粹，不求苟说于世，世之人徒知其诗而已。",
-          "translation": "长大后，他学习六经仁义的学说，写的文章简洁古朴纯粹，不追求苟且取悦于世人，世人只知道他的诗歌而已。",
+          "translation": "长大以后，学习六经仁义的学说，他写的文章，简练古朴，纯正精粹，不求苟且取悦于世人，世人仅仅知道他的诗罢了。",
           "words": [
             {
-              "word": "既",
-              "pinyin": "jì",
-              "meaning": "已经",
-              "type": "虚词"
-            },
-            {
-              "word": "长",
-              "pinyin": "zhǎng",
-              "meaning": "长大",
+              "word": "既长",
+              "pinyin": "jì zhǎng",
+              "meaning": "已经长大成人。既，已经。长，长大。",
               "type": "实词"
             },
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学习",
+              "meaning": "学习，研究。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "于",
+              "meaning": "介词，相当于‘于’，引进动作‘学’的对象。",
               "type": "虚词"
             },
             {
-              "word": "六经",
-              "pinyin": "liù jīng",
-              "meaning": "六经",
-              "type": "实词"
-            },
-            {
-              "word": "仁义",
-              "pinyin": "rén yì",
-              "meaning": "仁义",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "说",
-              "pinyin": "shuō",
-              "meaning": "学说",
+              "word": "六经仁义之说",
+              "pinyin": "liù jīng rén yì zhī shuō",
+              "meaning": "指以《诗》《书》《礼》《乐》《易》《春秋》六经为核心的儒家关于仁爱正义的学说。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
+              "meaning": "代词，指代梅圣俞。",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "写作",
+              "meaning": "动词，写作，创作。",
               "type": "实词"
             },
             {
               "word": "文章",
               "pinyin": "wén zhāng",
-              "meaning": "文章",
+              "meaning": "指诗文作品。",
               "type": "实词"
             },
             {
-              "word": "简古",
-              "pinyin": "jiǎn gǔ",
-              "meaning": "简练古朴",
-              "type": "实词"
-            },
-            {
-              "word": "纯粹",
-              "pinyin": "chún cuì",
-              "meaning": "纯正",
+              "word": "简古纯粹",
+              "pinyin": "jiǎn gǔ chún cuì",
+              "meaning": "形容文章风格简练古朴，纯正精粹。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "追求",
+              "meaning": "追求，谋求。",
               "type": "实词"
             },
             {
               "word": "苟说",
-              "pinyin": "gǒu shuō",
-              "meaning": "苟且取悦",
+              "pinyin": "gǒu shuì",
+              "meaning": "苟且取悦。‘说’此处读 shuì，义为游说、取悦（区别于 shuō 之‘述说’义）。",
               "type": "实词"
             },
             {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "对于",
+              "word": "于世",
+              "pinyin": "yú shì",
+              "meaning": "介词结构，‘于’引进对象，‘世’指世俗之人。意为向世俗之人（的喜好）。",
               "type": "虚词"
-            },
-            {
-              "word": "世",
-              "pinyin": "shì",
-              "meaning": "世人",
-              "type": "实词"
             },
             {
               "word": "世之人",
               "pinyin": "shì zhī rén",
-              "meaning": "世人",
+              "meaning": "世上的人，世俗之人。",
               "type": "实词"
             },
             {
               "word": "徒",
               "pinyin": "tú",
-              "meaning": "只",
+              "meaning": "副词，仅仅，只。",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "知道，了解。",
               "type": "实词"
             },
             {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "他的",
-              "type": "虚词"
-            },
-            {
-              "word": "诗",
-              "pinyin": "shī",
-              "meaning": "诗歌",
+              "word": "其诗",
+              "pinyin": "qí shī",
+              "meaning": "他的诗歌。其，代词，他的，指梅圣俞。",
               "type": "实词"
             },
             {
               "word": "而已",
               "pinyin": "ér yǐ",
-              "meaning": "罢了",
+              "meaning": "句末语气词，表示仅此而已，罢了。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "然时无贤愚，语诗者必求之圣俞。",
-          "translation": "然而，无论时人贤能与否，谈论诗歌的人必定会向圣俞请教。",
+          "translation": "然而当时无论贤愚，谈论诗歌的人必定向圣俞请教。",
           "words": [
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "然而",
+              "meaning": "连词，表示转折，然而，但是。",
               "type": "虚词"
             },
             {
               "word": "时",
               "pinyin": "shí",
-              "meaning": "时代",
+              "meaning": "当时，那时。",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "无论，不分。",
               "type": "实词"
             },
             {
               "word": "贤愚",
               "pinyin": "xián yú",
-              "meaning": "贤愚之人",
+              "meaning": "贤能的人和愚笨的人。此处形容词用作名词。",
               "type": "实词"
             },
             {
               "word": "语诗者",
               "pinyin": "yǔ shī zhě",
-              "meaning": "论诗者",
+              "meaning": "谈论诗歌的人。‘者’字结构，指代人。",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
+              "meaning": "副词，一定，必然。",
               "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "求教",
+              "meaning": "寻求，询问。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代关于诗歌的意见或评判。",
               "type": "虚词"
             },
             {
               "word": "圣俞",
               "pinyin": "shèng yú",
-              "meaning": "梅圣俞",
+              "meaning": "北宋诗人梅尧臣（1002-1060）的字。欧阳修之友，本文是欧阳修为其诗集所作序言。",
               "type": "人名"
             }
           ]
@@ -1232,730 +1126,772 @@
     },
     {
       "original": "圣俞亦自以其不得志者，乐于诗而发之。故其平生所作，于诗尤多。世既知之矣，而未有荐于上者。昔王文康公尝见而叹曰：“二百年无此作矣！”虽知之深，亦不果荐也。若使其幸得用于朝廷，作为“雅”、“颂”，以歌咏大宋之功德，荐之清庙，而追商、周、鲁《颂》之作者，岂不伟欤？奈何使其老不得志而为穷者之诗，乃徒发于虫鱼物类、羁愁感叹之言？世徒喜其工，不知其穷之久而将老也，可不惜哉！",
-      "translation": "梅圣俞也常以自己的不得志，乐于借诗歌来抒发情怀。因此他平生所作，诗歌尤为丰富。世人虽已知晓他的诗才，却无人向皇上举荐。昔日王文康公曾见其诗，慨叹道：“二百年来无此佳作！”虽深知其才，却终究未能举荐。倘若他幸得朝廷重用，创作“雅”、“颂”之诗，以歌咏大宋功德，荐于清庙，追摹商、周、鲁《颂》之作者，岂非盛事？奈何让他老不得志，只能作穷者之诗，徒然发为虫鱼物类、羁愁感叹之语？世人只喜其诗工，却不知其穷困已久、将至老境，岂不可惜！",
+      "translation": "梅圣俞也自己用他不得志的心情，乐于在诗中抒发。所以他平生所作，诗尤其多。世人已经知道他了，但没有人推荐给皇上。从前王文康公曾经见到并感叹说：“二百年来没有这样的作品了！”虽然了解他很深，但最终也没有推荐。如果让他有幸被朝廷任用，创作“雅”、“颂”，来歌颂大宋的功德，进献到清庙，追比商、周、鲁《颂》的作者，难道不伟大吗？为何让他老不得志而写困顿者的诗，只是抒发虫鱼物类、羁旅愁苦感叹之言？世人只喜欢他诗的精妙，不知道他困顿已久而将老去，难道不可惜吗？",
       "sentences": [
         {
           "original": "圣俞亦自以其不得志者，乐于诗而发之。",
-          "translation": "梅圣俞也常以自己的不得志，乐于借诗歌来抒发情怀。",
+          "translation": "梅圣俞也自己用他不得志的心情，乐于在诗中抒发。",
           "words": [
             {
               "word": "圣俞",
-              "pinyin": "Shèng Yú",
-              "meaning": "梅尧臣的字",
+              "pinyin": "shèng yú",
+              "meaning": "北宋诗人梅尧臣的字。梅尧臣（1002-1060），宣州宣城人，世称宛陵先生，诗坛革新先驱。",
               "type": "人名"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，表示类同，相当于“也”。承接上文他人对其诗作的评价，引出圣俞自己的态度。",
               "type": "虚词"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "自己",
+              "meaning": "代词，指自己，此处指梅圣俞本人。",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因为",
+              "meaning": "介词，表示原因，相当于“因为”。引出“乐于诗而发之”的原因。",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代梅圣俞，相当于“他的”。",
               "type": "虚词"
             },
             {
               "word": "不得志",
               "pinyin": "bù dé zhì",
-              "meaning": "不得志",
+              "meaning": "不能实现自己的抱负或志愿。此处指梅圣俞仕途不顺，未获朝廷重用。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的情况",
+              "meaning": "助词，与前面的动词性短语“不得志”构成名词性结构，指“……的情况”。",
               "type": "虚词"
             },
             {
               "word": "乐",
               "pinyin": "lè",
-              "meaning": "喜爱",
+              "meaning": "动词，以……为乐，喜爱。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在...方面",
+              "meaning": "介词，引进对象，相当于“对于”。",
               "type": "虚词"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "名词，指诗歌创作。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "承接",
+              "meaning": "连词，表示承接关系，连接“乐于诗”和“发之”两个动作。",
               "type": "虚词"
             },
             {
               "word": "发",
               "pinyin": "fā",
-              "meaning": "抒发",
+              "meaning": "动词，抒发，表达。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代前文“其不得志者”，即他不得志的情绪。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "故其平生所作，于诗尤多。",
-          "translation": "因此他平生所作，诗歌尤为丰富。",
+          "translation": "所以他平生所作，诗尤其多。",
           "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示结果或结论，相当于“所以”、“因此”。承接上句原因，引出结果。",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代梅圣俞，相当于“他的”。",
               "type": "虚词"
             },
             {
               "word": "平生",
               "pinyin": "píng shēng",
-              "meaning": "一生",
+              "meaning": "名词，一生，毕生。",
               "type": "实词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词",
-              "type": "虚词"
-            },
-            {
-              "word": "作",
-              "pinyin": "zuò",
-              "meaning": "创作",
+              "word": "所作",
+              "pinyin": "suǒ zuò",
+              "meaning": "名词性结构，“所”字与动词“作”结合，指创作的作品。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进范围，相当于“在……方面”。",
               "type": "虚词"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "名词，指诗歌这一文学体裁。",
               "type": "实词"
             },
             {
               "word": "尤",
               "pinyin": "yóu",
-              "meaning": "尤其",
-              "type": "虚词"
+              "meaning": "副词，表示程度加深，尤其，特别。",
+              "type": "实词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多",
+              "meaning": "形容词，数量大。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "世既知之矣，而未有荐于上者。",
-          "translation": "世人虽已知晓他的诗才，却无人向皇上举荐。",
+          "translation": "世人已经知道他了，但没有人推荐给皇上。",
           "words": [
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世人",
+              "meaning": "名词，世间、社会上的人",
               "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，了解、知晓",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代梅尧臣（圣俞）的才华或其人",
               "type": "虚词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表已然之事，相当于“了”",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，然而、但是",
               "type": "虚词"
             },
             {
-              "word": "未",
-              "pinyin": "wèi",
-              "meaning": "没有",
-              "type": "虚词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
+              "word": "未有",
+              "pinyin": "wèi yǒu",
+              "meaning": "动词性词组，没有",
               "type": "实词"
             },
             {
               "word": "荐",
               "pinyin": "jiàn",
-              "meaning": "推荐",
+              "meaning": "动词，推荐、举荐",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "向",
+              "meaning": "介词，引出动作对象，向",
               "type": "虚词"
             },
             {
               "word": "上",
               "pinyin": "shàng",
-              "meaning": "皇上",
+              "meaning": "名词，皇上、君主",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，与动词性短语“荐于上”构成“者”字结构，指代“……的人”",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "昔王文康公尝见而叹曰：“二百年无此作矣！”",
-          "translation": "昔日王文康公曾见其诗，慨叹道：“二百年来无此佳作！”",
+          "translation": "从前王文康公曾经见到并感叹说：“二百年来没有这样的作品了！”",
           "words": [
             {
               "word": "昔",
               "pinyin": "xī",
-              "meaning": "从前",
-              "type": "实词"
+              "meaning": "副词，从前、过去",
+              "type": "虚词"
             },
             {
               "word": "王文康公",
               "pinyin": "wáng wén kāng gōng",
-              "meaning": "人名",
+              "meaning": "北宋名臣王曙（字晦叔），卒谥“文康”，官至枢密使、同中书门下平章事（宰相）",
               "type": "人名"
             },
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "曾经",
+              "meaning": "副词，曾经",
               "type": "虚词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "动词，看见、见到（指读到梅尧臣的诗作）",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "承接",
+              "meaning": "连词，表顺承，连接“见”与“叹”两个动作",
               "type": "虚词"
             },
             {
               "word": "叹",
               "pinyin": "tàn",
-              "meaning": "叹息",
+              "meaning": "动词，赞叹、感叹",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "二百年",
               "pinyin": "èr bǎi nián",
-              "meaning": "两百年",
+              "meaning": "数量词组，二百年（概言时间跨度之长）",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，这样的",
+              "type": "虚词"
             },
             {
               "word": "作",
               "pinyin": "zuò",
-              "meaning": "作品",
+              "meaning": "名词，作品、诗作",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表感叹与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "虽知之深，亦不果荐也。",
-          "translation": "虽深知其才，却终究未能举荐。",
+          "translation": "虽然了解他很深，但最终也没有推荐。",
           "words": [
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步，相当于'虽然'",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代梅圣俞的才华或其人",
               "type": "虚词"
             },
             {
               "word": "深",
               "pinyin": "shēn",
-              "meaning": "深刻",
+              "meaning": "形容词，深刻、深入",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "果",
               "pinyin": "guǒ",
-              "meaning": "最终",
+              "meaning": "副词，表示最终、果然",
               "type": "虚词"
             },
             {
               "word": "荐",
               "pinyin": "jiàn",
-              "meaning": "推荐",
+              "meaning": "动词，推荐",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气",
+              "meaning": "句末语气词，表陈述与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若使其幸得用于朝廷，作为“雅”、“颂”，以歌咏大宋之功德，荐之清庙，而追商、周、鲁《颂》之作者，岂不伟欤？",
-          "translation": "倘若他幸得朝廷重用，创作“雅”、“颂”之诗，以歌咏大宋功德，荐于清庙，追摹商、周、鲁《颂》之作者，岂非盛事？",
+          "translation": "如果让他有幸被朝廷任用，创作“雅”、“颂”，来歌颂大宋的功德，进献到清庙，追比商、周、鲁《颂》的作者，难道不伟大吗？",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表示假设，如果",
               "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，假使、让",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
+              "meaning": "代词，指代梅圣俞",
               "type": "虚词"
             },
             {
               "word": "幸",
               "pinyin": "xìng",
-              "meaning": "侥幸",
+              "meaning": "副词，侥幸、幸运地",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "动词，得到",
+              "type": "实词"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "任用",
+              "meaning": "动词，任用、使用",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，在",
               "type": "虚词"
             },
             {
               "word": "朝廷",
               "pinyin": "cháo tíng",
-              "meaning": "朝廷",
+              "meaning": "名词，指中央政府",
               "type": "实词"
             },
             {
               "word": "作为",
               "pinyin": "zuò wéi",
-              "meaning": "创作",
+              "meaning": "动词，创作、写作",
               "type": "实词"
             },
             {
               "word": "“雅”",
               "pinyin": "yǎ",
-              "meaning": "雅诗",
+              "meaning": "典故，指《诗经》中的雅诗部分，多为朝廷乐歌",
               "type": "典故"
             },
             {
               "word": "“颂”",
               "pinyin": "sòng",
-              "meaning": "颂诗",
+              "meaning": "典故，指《诗经》中的颂诗部分，多为祭祀乐歌",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "歌咏",
               "pinyin": "gē yǒng",
-              "meaning": "歌颂",
+              "meaning": "动词，歌颂、吟咏",
               "type": "实词"
             },
             {
               "word": "大宋",
               "pinyin": "dà sòng",
-              "meaning": "宋朝",
+              "meaning": "地名，指宋朝（960-1279），欧阳修所处时代",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于'的'，表示修饰关系",
               "type": "虚词"
             },
             {
               "word": "功德",
               "pinyin": "gōng dé",
-              "meaning": "功业德行",
+              "meaning": "名词，功业和德行",
               "type": "实词"
             },
             {
               "word": "荐",
               "pinyin": "jiàn",
-              "meaning": "进献",
+              "meaning": "动词，进献、奉献",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代所作的雅颂作品",
               "type": "虚词"
             },
             {
               "word": "清庙",
               "pinyin": "qīng miào",
-              "meaning": "宗庙",
+              "meaning": "名词，古代帝王祭祀祖先的庙宇",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示承接关系，然后",
               "type": "虚词"
             },
             {
               "word": "追",
               "pinyin": "zhuī",
-              "meaning": "追赶",
+              "meaning": "动词，追赶、比肩",
               "type": "实词"
             },
             {
               "word": "商",
               "pinyin": "shāng",
-              "meaning": "商朝",
+              "meaning": "地名，商朝（约前1600-前1046）",
               "type": "地名"
             },
             {
               "word": "周",
               "pinyin": "zhōu",
-              "meaning": "周朝",
+              "meaning": "地名，周朝（前1046-前256）",
               "type": "地名"
             },
             {
               "word": "鲁",
               "pinyin": "lǔ",
-              "meaning": "鲁国",
+              "meaning": "地名，鲁国，周朝诸侯国，在今山东曲阜一带",
               "type": "地名"
             },
             {
               "word": "《颂》",
               "pinyin": "sòng",
-              "meaning": "颂诗",
+              "meaning": "典故，指《诗经》中的颂诗部分，包括商颂、周颂、鲁颂",
               "type": "典故"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "作者",
               "pinyin": "zuò zhě",
-              "meaning": "创作者",
+              "meaning": "名词，创作者",
               "type": "实词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表示反问，难道",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "伟",
               "pinyin": "wěi",
-              "meaning": "伟大",
+              "meaning": "形容词，伟大、卓越",
               "type": "实词"
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示反问或感叹，吗",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "奈何使其老不得志而为穷者之诗，乃徒发于虫鱼物类、羁愁感叹之言？",
-          "translation": "奈何让他老不得志，只能作穷者之诗，徒然发为虫鱼物类、羁愁感叹之语？",
+          "translation": "为何让他老不得志而写困顿者的诗，只是抒发虫鱼物类、羁旅愁苦感叹之言？",
           "words": [
             {
               "word": "奈何",
               "pinyin": "nài hé",
-              "meaning": "为什么",
+              "meaning": "固定结构，表示疑问，相当于“怎么”、“为什么”",
               "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让、致使",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，指代梅圣俞",
+              "type": "虚词"
             },
             {
               "word": "老",
               "pinyin": "lǎo",
-              "meaning": "年老",
+              "meaning": "动词，年老、衰老",
               "type": "实词"
             },
             {
               "word": "不得志",
               "pinyin": "bù dé zhì",
-              "meaning": "不得志",
+              "meaning": "词组，指志愿不能实现，不遂心",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表顺承，可不译",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "写",
+              "meaning": "动词，创作、写",
               "type": "实词"
             },
             {
-              "word": "穷者之诗",
-              "pinyin": "qióng zhě zhī shī",
-              "meaning": "穷困者的诗",
+              "word": "穷者",
+              "pinyin": "qióng zhě",
+              "meaning": "古义：困厄不得志的人（非今义‘贫穷者’）",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "名词，诗歌",
               "type": "实词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "却",
+              "meaning": "副词，却、竟然",
               "type": "虚词"
             },
             {
               "word": "徒",
               "pinyin": "tú",
-              "meaning": "只是",
+              "meaning": "副词，仅仅、只是",
               "type": "虚词"
             },
             {
               "word": "发",
               "pinyin": "fā",
-              "meaning": "发泄",
+              "meaning": "动词，抒发、表达",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，在…方面",
               "type": "虚词"
             },
             {
               "word": "虫鱼物类",
               "pinyin": "chóng yú wù lèi",
-              "meaning": "虫鱼等物类",
+              "meaning": "词组，指诗歌中吟咏的细微事物",
               "type": "实词"
             },
             {
-              "word": "羁愁感叹之言",
-              "pinyin": "jī chóu gǎn tàn zhī yán",
-              "meaning": "羁旅愁思感叹的言语",
+              "word": "羁愁感叹",
+              "pinyin": "jī chóu gǎn tàn",
+              "meaning": "词组，指漂泊困顿的愁绪与感慨",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "名词，言辞、诗句",
               "type": "实词"
             }
           ]
         },
         {
           "original": "世徒喜其工，不知其穷之久而将老也，可不惜哉！",
-          "translation": "世人只喜其诗工，却不知其穷困已久、将至老境，岂不可惜！",
+          "translation": "世人只喜欢他诗的精妙，不知道他困顿已久而将老去，难道不可惜吗？",
           "words": [
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世人",
+              "meaning": "名词，世人、社会上的人",
               "type": "实词"
             },
             {
               "word": "徒",
               "pinyin": "tú",
-              "meaning": "只是",
+              "meaning": "副词，仅仅、只是",
               "type": "虚词"
             },
             {
               "word": "喜",
               "pinyin": "xǐ",
-              "meaning": "喜欢",
+              "meaning": "动词，喜爱、欣赏",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，指代梅圣俞的诗",
+              "type": "虚词"
             },
             {
               "word": "工",
               "pinyin": "gōng",
-              "meaning": "精巧",
+              "meaning": "形容词，精巧、工妙",
               "type": "实词"
             },
             {
               "word": "不知",
               "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "meaning": "词组，不了解、不知道",
               "type": "实词"
             },
             {
-              "word": "其穷之久",
-              "pinyin": "qí qióng zhī jiǔ",
-              "meaning": "他的穷困之久",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，指代梅圣俞",
+              "type": "虚词"
+            },
+            {
+              "word": "穷",
+              "pinyin": "qióng",
+              "meaning": "古义：困厄，不得志（非今义‘贫穷’）",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，用于主谓之间，取消句子独立性",
+              "type": "虚词"
+            },
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "形容词，时间长",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表并列",
               "type": "虚词"
             },
             {
-              "word": "将老",
-              "pinyin": "jiāng lǎo",
-              "meaning": "将要老去",
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "此处读 jiāng，义为将要、快要",
+              "type": "虚词"
+            },
+            {
+              "word": "老",
+              "pinyin": "lǎo",
+              "meaning": "动词，年老、衰老",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表陈述与停顿",
               "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
+              "meaning": "副词，表示反问，相当于“岂”、“难道”",
               "type": "虚词"
             },
             {
-              "word": "不惜",
-              "pinyin": "bù xī",
-              "meaning": "不珍惜",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "惜",
+              "pinyin": "xī",
+              "meaning": "动词，痛惜、惋惜",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "啊",
+              "meaning": "句末语气词，与“可”呼应，表感叹与反问",
               "type": "虚词"
             }
           ]
@@ -1964,65 +1900,65 @@
     },
     {
       "original": "圣俞诗既多，不自收拾。其妻之兄子谢景初，惧其多而易失也，取其自洛阳至于吴兴以来所作，次为十卷。予尝嗜圣俞诗，而患不能尽得之，遽喜谢氏之能类次也，辄序而藏之。其后十五年，圣俞以疾卒于京师，余既哭而铭之，因索于其家，得其遗稿千余篇。并旧所藏，掇其尤者，六百七十七篇，为一十五卷。呜呼！吾于圣俞诗，论之详矣，故不复云。",
-      "translation": "梅圣俞的诗作很多，他自己不整理。他妻子的侄子谢景初，担心诗作太多容易散失，就选取他从洛阳到吴兴以来所作的诗，编次为十卷。我曾经酷爱梅圣俞的诗，但担心不能全部得到，突然高兴谢景初能分类编次，就作序并收藏它。之后十五年，梅圣俞因病在京城去世，我哭吊并为他写了墓志铭，于是向他家索取，得到他的遗稿一千多篇。加上以前收藏的，选取其中最好的六百七十七篇，编成十五卷。唉！我对梅圣俞的诗，已经论述得很详细了，所以不再多说。",
+      "translation": "梅圣俞的诗已经很多，他自己却不整理。他的妻侄谢景初，担心诗作太多容易散失，便收集他从洛阳到吴兴以来的作品，编排成十卷。我曾经酷爱梅圣俞的诗，却担心不能全部得到，立刻高兴谢景初能分类编排，就写了序并收藏起来。之后十五年，梅圣俞因病在京城去世，我哭悼并为他写了墓志铭，于是向他的家人索取，得到他的遗稿一千多篇。连同旧时收藏的，选取其中最好的六百七十七篇，编成十五卷。唉！我对于梅圣俞的诗，已经论述得很详细了，所以不再多说。",
       "sentences": [
         {
           "original": "圣俞诗既多，不自收拾。",
-          "translation": "梅圣俞的诗作很多，他自己不整理。",
+          "translation": "梅圣俞的诗已经很多，他自己却不整理。",
           "words": [
             {
               "word": "圣俞",
               "pinyin": "shèng yú",
-              "meaning": "梅尧臣字",
+              "meaning": "北宋诗人梅尧臣的字，本文受序者",
               "type": "人名"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "诗歌作品",
               "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经，表示动作已完成",
               "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "数量多",
+              "meaning": "数量大",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "自己",
-              "type": "实词"
+              "meaning": "反身代词，自己，指圣俞本人",
+              "type": "虚词"
             },
             {
               "word": "收拾",
               "pinyin": "shōu shi",
-              "meaning": "整理保存",
+              "meaning": "整理、收存",
               "type": "实词"
             }
           ]
         },
         {
           "original": "其妻之兄子谢景初，惧其多而易失也，取其自洛阳至于吴兴以来所作，次为十卷。",
-          "translation": "他妻子的侄子谢景初，担心诗作太多容易散失，就选取他从洛阳到吴兴以来所作的诗，编次为十卷。",
+          "translation": "他的妻侄谢景初，担心诗作太多容易散失，便收集他从洛阳到吴兴以来的作品，编排成十卷。",
           "words": [
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，他的，指圣俞",
+              "type": "虚词"
             },
             {
               "word": "妻",
@@ -2033,565 +1969,553 @@
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的，表领属关系",
               "type": "虚词"
             },
             {
               "word": "兄子",
               "pinyin": "xiōng zǐ",
-              "meaning": "侄子",
+              "meaning": "兄长的儿子，即侄子",
               "type": "实词"
             },
             {
               "word": "谢景初",
               "pinyin": "xiè jǐng chū",
-              "meaning": "人名",
+              "meaning": "北宋人，谢绛之子，梅尧臣妻侄，曾为梅诗编次",
               "type": "人名"
             },
             {
               "word": "惧",
               "pinyin": "jù",
-              "meaning": "害怕",
+              "meaning": "担心、害怕",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指诗歌",
+              "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多",
+              "meaning": "数量大",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，因而，表因果",
               "type": "虚词"
             },
             {
-              "word": "易失",
-              "pinyin": "yì shī",
-              "meaning": "容易丢失",
+              "word": "易",
+              "pinyin": "yì",
+              "meaning": "容易",
+              "type": "实词"
+            },
+            {
+              "word": "失",
+              "pinyin": "shī",
+              "meaning": "散失、丢失",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表陈述语气",
               "type": "虚词"
             },
             {
               "word": "取",
               "pinyin": "qǔ",
-              "meaning": "取",
+              "meaning": "选取、收集",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，他的，指圣俞",
+              "type": "虚词"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "从",
+              "meaning": "介词，从",
               "type": "虚词"
             },
             {
               "word": "洛阳",
               "pinyin": "luò yáng",
-              "meaning": "地名",
+              "meaning": "北宋西京，今河南洛阳，梅尧臣曾居于此",
               "type": "地名"
             },
             {
-              "word": "至",
-              "pinyin": "zhì",
-              "meaning": "到",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "在",
+              "word": "至于",
+              "pinyin": "zhì yú",
+              "meaning": "固定结构，到，表示动作的终点",
               "type": "虚词"
             },
             {
               "word": "吴兴",
               "pinyin": "wú xīng",
-              "meaning": "地名",
+              "meaning": "宋代湖州治所，今浙江湖州，梅尧臣曾游历于此",
               "type": "地名"
             },
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "以",
+              "word": "以来",
+              "pinyin": "yǐ lái",
+              "meaning": "固定结构，表示从过去某时到现在",
               "type": "虚词"
             },
             {
-              "word": "来",
-              "pinyin": "lái",
-              "meaning": "来",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "所",
+              "word": "所作",
+              "pinyin": "suǒ zuò",
+              "meaning": "所字结构，创作的作品",
               "type": "虚词"
-            },
-            {
-              "word": "作",
-              "pinyin": "zuò",
-              "meaning": "创作",
-              "type": "实词"
             },
             {
               "word": "次",
               "pinyin": "cì",
-              "meaning": "编次",
+              "meaning": "编排次序",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "成为、作为",
               "type": "实词"
             },
             {
-              "word": "十卷",
-              "pinyin": "shí juàn",
-              "meaning": "十卷",
+              "word": "十",
+              "pinyin": "shí",
+              "meaning": "数词，十",
+              "type": "实词"
+            },
+            {
+              "word": "卷",
+              "pinyin": "juàn",
+              "meaning": "量词，书籍的计量单位",
               "type": "实词"
             }
           ]
         },
         {
           "original": "予尝嗜圣俞诗，而患不能尽得之，遽喜谢氏之能类次也，辄序而藏之。",
-          "translation": "我曾经酷爱梅圣俞的诗，但担心不能全部得到，突然高兴谢景初能分类编次，就作序并收藏它。",
+          "translation": "我曾经酷爱梅圣俞的诗，却担心不能全部得到，立刻高兴谢景初能分类编排，就写了序并收藏起来。",
           "words": [
             {
               "word": "予",
-              "pinyin": "yǔ",
-              "meaning": "我",
-              "type": "实词"
+              "pinyin": "yú",
+              "meaning": "第一人称代词，我，此处指作者欧阳修自称",
+              "type": "虚词"
             },
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "曾经",
+              "meaning": "时间副词，曾经",
               "type": "虚词"
             },
             {
               "word": "嗜",
               "pinyin": "shì",
-              "meaning": "爱好",
+              "meaning": "动词，特别爱好",
               "type": "实词"
             },
             {
               "word": "圣俞",
               "pinyin": "shèng yú",
-              "meaning": "人名",
+              "meaning": "北宋诗人梅尧臣的字",
               "type": "人名"
             },
             {
               "word": "诗",
               "pinyin": "shī",
-              "meaning": "诗歌",
+              "meaning": "名词，诗歌作品",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，然而、但是",
               "type": "虚词"
             },
             {
               "word": "患",
               "pinyin": "huàn",
-              "meaning": "担心",
+              "meaning": "动词，担忧、忧虑",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "能",
-              "pinyin": "néng",
-              "meaning": "能够",
+              "word": "不能",
+              "pinyin": "bù néng",
+              "meaning": "能愿动词短语，无法做到",
               "type": "实词"
             },
             {
               "word": "尽",
               "pinyin": "jìn",
-              "meaning": "全部",
+              "meaning": "副词，全部、都",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "动词，获得、得到",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代梅尧臣的诗作",
               "type": "虚词"
             },
             {
               "word": "遽",
               "pinyin": "jù",
-              "meaning": "立即",
-              "type": "虚词"
+              "meaning": "副词，立刻、马上，表达惊喜之情",
+              "type": "实词"
             },
             {
               "word": "喜",
               "pinyin": "xǐ",
-              "meaning": "喜欢",
+              "meaning": "动词，为…感到高兴",
               "type": "实词"
             },
             {
               "word": "谢氏",
               "pinyin": "xiè shì",
-              "meaning": "谢家",
+              "meaning": "指谢景初，梅尧臣妻子的侄子",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "能愿动词，能够",
               "type": "实词"
             },
             {
               "word": "类次",
               "pinyin": "lèi cì",
-              "meaning": "分类编次",
+              "meaning": "动词，按类编排",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表肯定与停顿",
               "type": "虚词"
             },
             {
               "word": "辄",
               "pinyin": "zhé",
-              "meaning": "就",
+              "meaning": "副词，就、便",
               "type": "虚词"
             },
             {
               "word": "序",
               "pinyin": "xù",
-              "meaning": "作序",
+              "meaning": "动词，为…作序",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表承接，然后",
               "type": "虚词"
             },
             {
               "word": "藏",
               "pinyin": "cáng",
-              "meaning": "收藏",
+              "meaning": "动词，收藏、保存",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代这部诗集",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "其后十五年，圣俞以疾卒于京师，余既哭而铭之，因索于其家，得其遗稿千余篇。",
-          "translation": "之后十五年，梅圣俞因病在京城去世，我哭吊并为他写了墓志铭，于是向他家索取，得到他的遗稿一千多篇。",
+          "translation": "之后十五年，梅圣俞因病在京城去世，我哭悼并为他写了墓志铭，于是向他的家人索取，得到他的遗稿一千多篇。",
           "words": [
             {
-              "word": "其后",
-              "pinyin": "qí hòu",
-              "meaning": "那以后",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "指示代词，那",
               "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "方位名词，以后、之后",
+              "type": "实词"
             },
             {
               "word": "十五年",
               "pinyin": "shí wǔ nián",
-              "meaning": "十五年",
+              "meaning": "数量词，十五年",
               "type": "实词"
             },
             {
               "word": "圣俞",
               "pinyin": "shèng yú",
-              "meaning": "梅尧臣",
+              "meaning": "北宋诗人梅尧臣的字",
               "type": "人名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因为",
+              "meaning": "介词，因为、由于",
               "type": "虚词"
             },
             {
               "word": "疾",
               "pinyin": "jí",
-              "meaning": "疾病",
+              "meaning": "名词，疾病",
               "type": "实词"
             },
             {
               "word": "卒",
               "pinyin": "zú",
-              "meaning": "去世",
+              "meaning": "此处读 zú，动词，死亡（区别于 cù 之‘仓猝’义）",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的地点，在",
               "type": "虚词"
             },
             {
               "word": "京师",
               "pinyin": "jīng shī",
-              "meaning": "京城",
+              "meaning": "地名，指北宋首都开封",
               "type": "地名"
             },
             {
               "word": "余",
               "pinyin": "yú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，我，指作者欧阳修",
+              "type": "虚词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经",
               "type": "虚词"
             },
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣",
+              "meaning": "动词，哭泣致哀",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表承接，然后",
               "type": "虚词"
             },
             {
               "word": "铭",
               "pinyin": "míng",
-              "meaning": "写墓志铭",
+              "meaning": "动词，撰写墓志铭",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代梅尧臣",
               "type": "虚词"
             },
             {
               "word": "因",
               "pinyin": "yīn",
-              "meaning": "于是",
+              "meaning": "连词，于是、就",
               "type": "虚词"
             },
             {
               "word": "索",
               "pinyin": "suǒ",
-              "meaning": "寻找",
+              "meaning": "动词，寻找、搜求",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的对象，向",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的，指梅尧臣的",
               "type": "虚词"
             },
             {
               "word": "家",
               "pinyin": "jiā",
-              "meaning": "家中",
+              "meaning": "名词，家庭、家中",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "动词，得到、获得",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的，指梅尧臣的",
               "type": "虚词"
             },
             {
               "word": "遗稿",
               "pinyin": "yí gǎo",
-              "meaning": "遗稿",
+              "meaning": "名词，遗留下来未刊行的文稿",
               "type": "实词"
             },
             {
               "word": "千余篇",
               "pinyin": "qiān yú piān",
-              "meaning": "千余篇",
+              "meaning": "数量词，一千多篇",
               "type": "实词"
             }
           ]
         },
         {
           "original": "并旧所藏，掇其尤者，六百七十七篇，为一十五卷。",
-          "translation": "加上以前收藏的，选取其中最好的六百七十七篇，编成十五卷。",
+          "translation": "连同旧时收藏的，选取其中最好的六百七十七篇，编成十五卷。",
           "words": [
             {
               "word": "并",
               "pinyin": "bìng",
-              "meaning": "以及",
-              "type": "虚词"
-            },
-            {
-              "word": "旧",
-              "pinyin": "jiù",
-              "meaning": "以前",
+              "meaning": "动词，合并、连同",
               "type": "实词"
             },
             {
-              "word": "所藏",
-              "pinyin": "suǒ cáng",
-              "meaning": "收藏的",
-              "type": "虚词"
+              "word": "旧所藏",
+              "pinyin": "jiù suǒ cáng",
+              "meaning": "名词性短语，'所'字结构，指旧时收藏的诗作",
+              "type": "实词"
             },
             {
               "word": "掇",
               "pinyin": "duō",
-              "meaning": "选取",
+              "meaning": "动词，选取、拾取",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "其中",
+              "meaning": "代词，指代梅圣俞的诗作",
               "type": "虚词"
             },
             {
               "word": "尤者",
               "pinyin": "yóu zhě",
-              "meaning": "优异者",
+              "meaning": "'者'字结构，指代优异的作品",
               "type": "实词"
             },
             {
               "word": "六百七十七篇",
               "pinyin": "liù bǎi qī shí qī piān",
-              "meaning": "六百七十七篇",
+              "meaning": "数量词，指诗作的篇数",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "编为",
+              "meaning": "动词，编成、作为",
               "type": "实词"
             },
             {
               "word": "一十五卷",
               "pinyin": "yī shí wǔ juàn",
-              "meaning": "十五卷",
+              "meaning": "数量词，指诗集的卷数",
               "type": "实词"
             }
           ]
         },
         {
           "original": "呜呼！吾于圣俞诗，论之详矣，故不复云。",
-          "translation": "唉！我对梅圣俞的诗，已经论述得很详细了，所以不再多说。",
+          "translation": "唉！我对于梅圣俞的诗，已经论述得很详细了，所以不再多说。",
           "words": [
             {
               "word": "呜呼",
               "pinyin": "wū hū",
-              "meaning": "唉",
+              "meaning": "叹词，表示感叹",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我（作者欧阳修自称）",
+              "type": "虚词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，对于",
               "type": "虚词"
             },
             {
               "word": "圣俞诗",
               "pinyin": "shèng yú shī",
-              "meaning": "圣俞的诗",
+              "meaning": "指梅尧臣（字圣俞）的诗作",
               "type": "实词"
             },
             {
               "word": "论",
               "pinyin": "lùn",
-              "meaning": "论述",
+              "meaning": "动词，论述、评论",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代梅圣俞的诗",
               "type": "虚词"
             },
             {
               "word": "详",
               "pinyin": "xiáng",
-              "meaning": "详细",
+              "meaning": "形容词，详尽",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表示情况已经如此",
               "type": "虚词"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，所以",
               "type": "虚词"
             },
             {
               "word": "不复",
               "pinyin": "bù fù",
-              "meaning": "不再",
+              "meaning": "副词，不再",
               "type": "虚词"
             },
             {
               "word": "云",
               "pinyin": "yún",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             }
           ]

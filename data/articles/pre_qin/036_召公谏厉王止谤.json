@@ -1,77 +1,79 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "036_召公谏厉王止谤",
   "title": "召公谏厉王止谤",
   "author": {
     "id": "pre_qin_左丘明",
     "name": "左丘明",
     "dynasty": "pre_qin",
-    "bio": "左丘明，春秋时期鲁国史官，生卒年不详，约活动于公元前5世纪。相传他双目失明，故又称“盲左”，是《左传》和《国语》的重要编纂者或作者。左丘明以严谨的史学态度记录先秦历史，其作品语言精练、叙事生动，对后世史学和散文发展有奠基性影响，被尊为中国古代史学的鼻祖之一。他的著作不仅保存了珍贵史料，还蕴含了丰富的政治和伦理思想，如民本、礼治等，成为儒家经典的重要组成部分。"
+    "bio": "左丘明，春秋时期鲁国史官，生卒年不详，约活动于公元前6世纪，与孔子同时或稍早。相传姓左，名丘明，或复姓左丘。曾任鲁国太史，负责记录国史。代表作有《左传》（又称《春秋左氏传》）和《国语》，其中《国语》为中国最早的国别体史书。左丘明在文学史上以严谨的史笔和生动的叙事著称，对先秦历史散文的发展有奠基作用，后世尊为“古文之宗”。"
   },
   "source": "国语",
   "dynasty": "pre_qin",
   "volume": 3,
-  "background": "《召公谏厉王止谤》出自《国语》，记载了西周厉王时期的史实。周厉王姬胡在位时，暴虐无道，实行高压政策，导致民怨沸腾。国人公开批评朝政，厉王不但不反省，反而任用卫国巫师监视言论，随意杀害批评者，致使国人敢怒不敢言，只能“道路以目”。召公穆公虎作为贤臣，多次劝谏厉王，指出堵塞言论的危害，但厉王一意孤行，最终引发民变，被流放于彘。左丘明作为先秦史官，编纂此文，旨在以史为鉴，警示后世统治者应重视民意、开放言路，否则将重蹈覆辙。文章反映了先秦时期民本思想的萌芽，以及历史散文的劝诫功能。",
-  "appreciation": "《召公谏厉王止谤》是一篇经典的先秦历史散文，文学价值突出。首先，在修辞手法上，文章运用了生动的比喻，如“防民之口，甚于防川”，将堵塞言论比作堵塞河流，形象地揭示了压制民意的危险性，增强了说服力。其次，结构严谨，以对话形式展开，通过召公的谏言与厉王的固执形成对比，叙事简洁而逻辑清晰，体现了《国语》记言为主的特点。思想内涵上，文章宣扬了民本思想，强调民众言论是国家兴衰的“善败”之源，统治者应“宣之使言”，通过广泛听取意见来治理国家。语言古朴有力，如“川壅而溃，伤人必多”等句，富有节奏感和警示意味。整体上，这篇文章不仅是历史记录，更是一篇政治寓言，对后世文学和思想产生了深远影响，成为劝谏文学的典范。",
+  "background": "西周厉王时期（约公元前9世纪），厉王暴虐专制，任用荣夷公专利，引发国人不满。国人公开批评朝政，厉王遂命卫巫监视谤者，告发则杀，致使国人道路以目，言论受压。作者左丘明为春秋时期鲁国史官，生活年代距厉王时代约数百年，他编纂《国语》时，基于史料记载此事件。写作动机源于史官职责，通过记录厉王止谤及召公谏言，揭示暴政导致政权崩溃的史实，为后世统治者提供政治借鉴，强调纳谏与言论自由的重要性。",
+  "appreciation": "文章出自《国语》，文体为历史散文，以叙事与议论结合。结构上，开篇简叙厉王止谤暴行，中间主体为召公谏言，通过比喻和逻辑论证展开，结尾以厉王被流放收束，形成完整叙事链。艺术特色鲜明：修辞上，运用比喻如“防民之口，甚于防川”，生动阐释压制言论的危险；排比句式如“公卿至于列士献诗”等，增强语言节奏与说服力；语言简洁精炼，对话推动情节，体现先秦散文的质朴风格。思想内涵深刻，核心观点是民众言论不可堵塞，统治者应“宣之使言”，以开放言路实现善治，这反映了早期的民本思想。文学史上，此篇是先秦历史散文的典范，对后世政论文如贾谊《过秦论》等有启发，展示了史传文学的叙事与议论技巧。",
   "tags": [
-    "谏言",
-    "民本思想",
-    "历史散文"
+    "叙事",
+    "议论",
+    "政治",
+    "历史"
   ],
   "paragraphs": [
     {
       "original": "厉王虐，国人谤王。召公告曰：“民不堪命矣！”王怒，得卫巫，使监谤者。",
-      "translation": "厉王暴虐，国都的人指责厉王。召公告诉厉王说：“百姓不能忍受政令了！”厉王发怒，找到一个卫国的巫师，让他监视批评的人。",
+      "translation": "厉王暴虐，国人都批评他。召公报告说：“百姓忍受不了政令了！”厉王发怒，找到一个卫国的巫师，让他监视批评者。",
       "sentences": [
         {
           "original": "厉王虐，国人谤王。",
-          "translation": "厉王暴虐，国都的人指责厉王。",
+          "translation": "厉王暴虐，国人都批评他。",
           "words": [
             {
               "word": "厉王",
               "pinyin": "lì wáng",
-              "meaning": "周厉王",
+              "meaning": "西周国君，名胡，在位期间暴虐无道，引发国人暴动",
               "type": "人名"
             },
             {
               "word": "虐",
               "pinyin": "nüè",
-              "meaning": "暴虐",
+              "meaning": "暴虐，残暴对待百姓",
               "type": "实词"
             },
             {
               "word": "国人",
               "pinyin": "guó rén",
-              "meaning": "国都的人",
+              "meaning": "国都的居民，这里指周朝都城的民众",
               "type": "实词"
             },
             {
               "word": "谤",
               "pinyin": "bàng",
-              "meaning": "批评",
+              "meaning": "公开批评、指责（古义，非诽谤）",
               "type": "实词"
             },
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
+              "meaning": "君王，指周厉王",
               "type": "实词"
             }
           ]
         },
         {
           "original": "召公告曰：“民不堪命矣！”",
-          "translation": "召公告诉厉王说：“百姓不能忍受政令了！”",
+          "translation": "召公报告说：“百姓忍受不了政令了！”",
           "words": [
             {
               "word": "召公",
               "pinyin": "shào gōng",
-              "meaning": "召公",
+              "meaning": "西周卿士，名虎，谥号穆公，此处为谏言者",
               "type": "人名"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告诉",
+              "meaning": "告诉、报告",
               "type": "实词"
             },
             {
@@ -83,91 +85,85 @@
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "百姓、民众",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "堪",
-              "pinyin": "kān",
-              "meaning": "忍受",
+              "word": "不堪",
+              "pinyin": "bù kān",
+              "meaning": "不能忍受",
               "type": "实词"
             },
             {
               "word": "命",
               "pinyin": "mìng",
-              "meaning": "政令",
+              "meaning": "政令、命令，这里指厉王的暴政",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表示肯定和感叹，相当于'了'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "王怒，得卫巫，使监谤者。",
-          "translation": "厉王发怒，找到一个卫国的巫师，让他监视批评的人。",
+          "translation": "厉王发怒，找到一个卫国的巫师，让他监视批评者。",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
-              "type": "实词"
+              "meaning": "此处读 wáng，义为西周君主周厉王，在本文中因国人谤己而发怒",
+              "type": "人名"
             },
             {
               "word": "怒",
               "pinyin": "nù",
-              "meaning": "发怒",
+              "meaning": "动词，发怒、生气，指周厉王因国人诽谤而恼怒",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "此处读 dé，义为得到、找到，指厉王获取了一个卫国巫师",
               "type": "实词"
             },
             {
               "word": "卫",
               "pinyin": "wèi",
-              "meaning": "卫国",
+              "meaning": "国名，卫国，周代诸侯国，在今河南北部，此处指来自卫国的",
               "type": "地名"
             },
             {
               "word": "巫",
               "pinyin": "wū",
-              "meaning": "巫师",
+              "meaning": "名词，巫师，古代从事祭祀、占卜的人，此处指卫国的巫师",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "派遣",
+              "meaning": "此处读 shǐ，义为让、派遣，指厉王命令巫师监视诽谤者",
               "type": "实词"
             },
             {
               "word": "监",
               "pinyin": "jiān",
-              "meaning": "监视",
+              "meaning": "此处读 jiān，义为监视、监察，指暗中观察诽谤者",
               "type": "实词"
             },
             {
               "word": "谤",
               "pinyin": "bàng",
-              "meaning": "批评",
+              "meaning": "动词，公开指责、批评，古义指议论过失，此处指国人对厉王的指责",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "代词性后缀，与动词“谤”构成“谤者”，表示“诽谤的人”，名词化功能",
               "type": "虚词"
             }
           ]
@@ -176,28 +172,28 @@
     },
     {
       "original": "以告，则杀之。国人莫敢言，道路以目。",
-      "translation": "如果有人告发，就杀掉他们。国都的人不敢说话，在道路上只能用眼神示意。",
+      "translation": "一旦有人报告，就杀掉他们。国都的人没有人敢说话，在道路上只能用眼神示意。",
       "sentences": [
         {
           "original": "以告，则杀之。",
-          "translation": "如果有人告发，就杀掉他们。",
+          "translation": "一旦有人报告，就杀掉他们。",
           "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "把",
+              "meaning": "介词，把、将（指把国人的批评报告给厉王）",
               "type": "虚词"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "报告",
+              "meaning": "报告、告发（指将批评上报）",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示承接关系，就",
               "type": "虚词"
             },
             {
@@ -209,25 +205,25 @@
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代被告发的人或批评者",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "国人莫敢言，道路以目。",
-          "translation": "国都的人不敢说话，在道路上只能用眼神示意。",
+          "translation": "国都的人没有人敢说话，在道路上只能用眼神示意。",
           "words": [
             {
               "word": "国人",
               "pinyin": "guó rén",
-              "meaning": "国都的人",
+              "meaning": "国都的人民，指百姓",
               "type": "实词"
             },
             {
               "word": "莫",
               "pinyin": "mò",
-              "meaning": "不",
+              "meaning": "否定代词，没有人、没有谁",
               "type": "虚词"
             },
             {
@@ -239,25 +235,25 @@
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "说话",
+              "meaning": "说话、发表言论",
               "type": "实词"
             },
             {
               "word": "道路",
               "pinyin": "dào lù",
-              "meaning": "路上",
+              "meaning": "路上、街道",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，用、凭借（指用眼睛示意）",
               "type": "虚词"
             },
             {
               "word": "目",
               "pinyin": "mù",
-              "meaning": "眼睛",
+              "meaning": "眼睛，这里指用眼睛示意（形容敢怒不敢言）",
               "type": "实词"
             }
           ]
@@ -266,580 +262,670 @@
     },
     {
       "original": "王喜，告召公曰：“吾能弭谤矣，乃不敢言。”召公曰：“是鄣之也。防民之口，甚于防川。川壅而溃，伤人必多，民亦如之。是故为川者。决之使导；为民者，宣之使言。故天子听政，使公卿至于列士献诗，瞽献典，史献书，师箴，瞍赋，蒙诵，百工谏，庶人传语，近臣尽规，亲戚补察，瞽、史教诲，耆、艾修之，而后王斟酌焉，是以事行而不悖。",
-      "translation": "厉王很高兴，告诉召公说：“我能消除诽谤了，他们不敢说话了。”召公说：“这是堵塞它啊。堵住百姓的嘴，比堵塞河流更危险。河流堵塞后溃决，伤害人一定多，百姓也是这样。所以治理河流的人，要疏通它使它畅通；治理百姓的人，要开放使他们说话。因此天子处理政事，让公卿到列士献诗，盲人乐官献典籍，史官献书，少师进箴言，瞍者赋诗，蒙者诵读，各种工匠劝谏，平民传话，近臣尽力规劝，亲戚弥补过失，盲人乐官和史官教诲，年长者提意见，然后王斟酌考虑，因此事情施行而不违背道理。",
+      "translation": "厉王很高兴，告诉召公说：“我能消除批评了，他们不敢说话了。”召公说：“这是堵塞他们啊。堵塞百姓的嘴，比堵塞河流更严重。河流堵塞而决口，伤害的人一定很多，百姓也是如此。所以治理河流的人，要疏浚它使它畅通；治理百姓的人，要开放他们使他们说话。所以天子处理政务，让公卿到列士进献诗歌，乐官进献典籍，史官进献书籍，少师进箴言，瞍者朗诵，蒙者诵读，百工劝谏，平民传达意见，近臣尽规劝之责，亲人弥补过失、监察得失，乐官、史官教导，年长者整理，然后天子考虑权衡，因此事情施行而不违背道理。",
       "sentences": [
         {
           "original": "王喜，告召公曰：“吾能弭谤矣，乃不敢言。”",
-          "translation": "厉王很高兴，告诉召公说：“我能消除诽谤了，他们不敢说话了。”",
+          "translation": "厉王很高兴，告诉召公说：“我能消除批评了，他们不敢说话了。”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
-              "type": "官职"
+              "meaning": "名词，指周厉王",
+              "type": "实词"
             },
             {
               "word": "喜",
               "pinyin": "xǐ",
-              "meaning": "高兴",
+              "meaning": "动词，高兴、喜悦",
               "type": "实词"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告诉",
+              "meaning": "动词，告诉",
               "type": "实词"
             },
             {
               "word": "召公",
               "pinyin": "shào gōng",
-              "meaning": "召公奭",
+              "meaning": "西周初期召公奭的后代，此处指周厉王的执政大臣",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "人称代词，指代周厉王自己",
+              "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能愿动词，能够",
+              "type": "实词"
             },
             {
-              "word": "弭谤",
-              "pinyin": "mǐ bàng",
-              "meaning": "消除诽谤",
+              "word": "弭",
+              "pinyin": "mǐ",
+              "meaning": "动词，消除、制止",
+              "type": "实词"
+            },
+            {
+              "word": "谤",
+              "pinyin": "bàng",
+              "meaning": "名词，公开的批评、指责",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表示已然或肯定",
               "type": "虚词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "连词，表示顺承，相当于“于是”、“就”",
               "type": "虚词"
             },
             {
-              "word": "不敢",
-              "pinyin": "bù gǎn",
-              "meaning": "不敢",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "动词，敢于",
               "type": "实词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "说话",
+              "meaning": "动词，说话、议论",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "召公曰：“是鄣之也。防民之口，甚于防川。川壅而溃，伤人必多，民亦如之。”",
-          "translation": "召公说：“这是堵塞它啊。堵住百姓的嘴，比堵塞河流更危险。河流堵塞后溃决，伤害人一定多，百姓也是这样。”",
+          "original": "召公曰：“是鄣之也。”",
+          "translation": "召公说：“这是堵塞他们啊。”",
           "words": [
             {
               "word": "召公",
               "pinyin": "shào gōng",
-              "meaning": "召公奭",
+              "meaning": "西周初期召公奭的后代，此处指周厉王的执政大臣",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，指代厉王所说的“吾能弭谤矣，乃不敢言”这种做法",
+              "type": "虚词"
             },
             {
               "word": "鄣",
               "pinyin": "zhāng",
-              "meaning": "阻挡",
+              "meaning": "通“障”，动词，堵塞、阻挡",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代百姓的口（批评言论）",
+              "type": "虚词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表示判断和肯定",
               "type": "虚词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "防民之口，甚于防川。",
+          "translation": "堵塞百姓的嘴，比堵塞河流更严重。",
+          "words": [
             {
               "word": "防",
               "pinyin": "fáng",
-              "meaning": "防止",
+              "meaning": "动词，堵塞、阻挡",
               "type": "实词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "名词，百姓",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示修饰关系，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "口",
               "pinyin": "kǒu",
-              "meaning": "嘴巴",
+              "meaning": "名词，嘴巴，此处借指言论、意见",
               "type": "实词"
             },
             {
               "word": "甚",
               "pinyin": "shèn",
-              "meaning": "严重",
+              "meaning": "动词，超过、胜过",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "比",
+              "meaning": "介词，表示比较，相当于“比”",
               "type": "虚词"
             },
             {
               "word": "防",
               "pinyin": "fáng",
-              "meaning": "防止",
+              "meaning": "动词，堵塞、阻挡",
               "type": "实词"
             },
             {
               "word": "川",
               "pinyin": "chuān",
-              "meaning": "河流",
-              "type": "实词"
-            },
-            {
-              "word": "川",
-              "pinyin": "chuān",
-              "meaning": "河流",
-              "type": "实词"
-            },
-            {
-              "word": "壅",
-              "pinyin": "yōng",
-              "meaning": "堵塞",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "因而",
-              "type": "虚词"
-            },
-            {
-              "word": "溃",
-              "pinyin": "kuì",
-              "meaning": "溃决",
-              "type": "实词"
-            },
-            {
-              "word": "伤",
-              "pinyin": "shāng",
-              "meaning": "伤害",
-              "type": "实词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
-              "type": "实词"
-            },
-            {
-              "word": "必",
-              "pinyin": "bì",
-              "meaning": "一定",
-              "type": "虚词"
-            },
-            {
-              "word": "多",
-              "pinyin": "duō",
-              "meaning": "多",
-              "type": "实词"
-            },
-            {
-              "word": "民",
-              "pinyin": "mín",
-              "meaning": "人民",
-              "type": "实词"
-            },
-            {
-              "word": "亦",
-              "pinyin": "yì",
-              "meaning": "也",
-              "type": "虚词"
-            },
-            {
-              "word": "如",
-              "pinyin": "rú",
-              "meaning": "像",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "这样",
+              "meaning": "名词，河流",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "是故为川者。决之使导；为民者，宣之使言。",
-          "translation": "所以治理河流的人，要疏通它使它畅通；治理百姓的人，要开放使他们说话。",
+          "original": "川壅而溃，伤人必多，民亦如之。",
+          "translation": "河流堵塞而决口，伤害的人一定很多，百姓也是如此。",
           "words": [
-            {
-              "word": "是",
-              "pinyin": "shì",
-              "meaning": "这",
-              "type": "实词"
-            },
-            {
-              "word": "故",
-              "pinyin": "gù",
-              "meaning": "所以",
-              "type": "虚词"
-            },
-            {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "治理",
-              "type": "实词"
-            },
             {
               "word": "川",
               "pinyin": "chuān",
-              "meaning": "河流",
+              "meaning": "名词，河流",
               "type": "实词"
             },
             {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的人",
+              "word": "壅",
+              "pinyin": "yōng",
+              "meaning": "动词，堵塞",
               "type": "实词"
             },
             {
-              "word": "决",
-              "pinyin": "jué",
-              "meaning": "疏通",
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表示承接关系，可不译",
+              "type": "虚词"
+            },
+            {
+              "word": "溃",
+              "pinyin": "kuì",
+              "meaning": "动词，（堤岸）溃决、水冲破堤坝",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "它",
+              "word": "伤",
+              "pinyin": "shāng",
+              "meaning": "动词，伤害",
               "type": "实词"
             },
             {
-              "word": "使",
-              "pinyin": "shǐ",
-              "meaning": "让",
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，人民、百姓",
               "type": "实词"
             },
             {
-              "word": "导",
-              "pinyin": "dǎo",
-              "meaning": "通畅",
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "副词，一定、必然",
               "type": "实词"
             },
             {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "治理",
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "形容词，数量大",
               "type": "实词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "名词，百姓",
               "type": "实词"
             },
             {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的人",
-              "type": "实词"
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "副词，也",
+              "type": "虚词"
             },
             {
-              "word": "宣",
-              "pinyin": "xuān",
-              "meaning": "引导",
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "动词，如同、像",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他们",
+              "meaning": "代词，指代“川壅而溃，伤人必多”这种情况",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "是故为川者。决之使导；为民者，宣之使言。",
+          "translation": "所以治理河流的人，要疏浚它使它畅通；治理百姓的人，要开放他们使他们说话。",
+          "words": [
+            {
+              "word": "是故",
+              "pinyin": "shì gù",
+              "meaning": "固定结构，连词，表示因果关系，相当于'因此'。",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "此处读 wéi，义为治理、疏通。",
               "type": "实词"
+            },
+            {
+              "word": "川",
+              "pinyin": "chuān",
+              "meaning": "河流。",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，用在动词短语后，构成名词性短语，表示施事者。",
+              "type": "虚词"
+            },
+            {
+              "word": "决",
+              "pinyin": "jué",
+              "meaning": "疏通、疏导水流。",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代河流。",
+              "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "此处读 shǐ，义为让、使得。",
+              "type": "实词"
+            },
+            {
+              "word": "导",
+              "pinyin": "dǎo",
+              "meaning": "通导、使流通。",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "此处读 wéi，义为治理。",
+              "type": "实词"
+            },
+            {
+              "word": "民",
+              "pinyin": "mín",
+              "meaning": "人民、百姓。",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，用在动词短语后，构成名词性短语，表示施事者。",
+              "type": "虚词"
+            },
+            {
+              "word": "宣",
+              "pinyin": "xuān",
+              "meaning": "宣导、让表达。",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代人民。",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "此处读 shǐ，义为让、使得。",
               "type": "实词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "说话",
+              "meaning": "说话、发表意见。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "故天子听政，使公卿至于列士献诗，瞽献典，史献书，师箴，瞍赋，蒙诵，百工谏，庶人传语，近臣尽规，亲戚补察，瞽、史教诲，耆、艾修之，而后王斟酌焉，是以事行而不悖。",
-          "translation": "因此天子处理政事，让公卿到列士献诗，盲人乐官献典籍，史官献书，少师进箴言，瞍者赋诗，蒙者诵读，各种工匠劝谏，平民传话，近臣尽力规劝，亲戚弥补过失，盲人乐官和史官教诲，年长者提意见，然后王斟酌考虑，因此事情施行而不违背道理。",
+          "translation": "所以天子处理政务，让公卿到列士进献诗歌，乐官进献典籍，史官进献书籍，少师进箴言，瞍者朗诵，蒙者诵读，百工劝谏，平民传达意见，近臣尽规劝之责，亲人弥补过失、监察得失，乐官、史官教导，年长者整理，然后天子考虑权衡，因此事情施行而不违背道理。",
           "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示因果关系，相当于'所以'。",
               "type": "虚词"
             },
             {
               "word": "天子",
               "pinyin": "tiān zǐ",
-              "meaning": "君主",
+              "meaning": "古代对君主的尊称，指周天子。",
               "type": "实词"
             },
             {
-              "word": "听政",
-              "pinyin": "tīng zhèng",
-              "meaning": "处理政务",
+              "word": "听",
+              "pinyin": "tīng",
+              "meaning": "处理、管理。",
+              "type": "实词"
+            },
+            {
+              "word": "政",
+              "pinyin": "zhèng",
+              "meaning": "政务、政事。",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让、命令",
+              "meaning": "此处读 shǐ，义为让、命令。",
               "type": "实词"
             },
             {
               "word": "公卿",
               "pinyin": "gōng qīng",
-              "meaning": "高级官员",
+              "meaning": "古代高级官职，三公九卿的合称，指朝廷重臣。",
               "type": "官职"
             },
             {
               "word": "至于",
               "pinyin": "zhì yú",
-              "meaning": "到",
+              "meaning": "连词，表示范围的延伸，相当于'到'。",
               "type": "虚词"
             },
             {
               "word": "列士",
               "pinyin": "liè shì",
-              "meaning": "各级士人",
-              "type": "官职"
+              "meaning": "指上士、中士、下士等各级士人。",
+              "type": "实词"
             },
             {
-              "word": "献诗",
-              "pinyin": "xiàn shī",
-              "meaning": "进献诗歌",
+              "word": "献",
+              "pinyin": "xiàn",
+              "meaning": "进献、呈献。",
+              "type": "实词"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "诗歌，特指采自民间的诗篇。",
               "type": "实词"
             },
             {
               "word": "瞽",
               "pinyin": "gǔ",
-              "meaning": "盲乐师",
+              "meaning": "古代盲人乐官，负责演奏音乐。",
               "type": "官职"
             },
             {
-              "word": "献典",
-              "pinyin": "xiàn diǎn",
-              "meaning": "进献典籍",
+              "word": "献",
+              "pinyin": "xiàn",
+              "meaning": "进献、呈献。",
+              "type": "实词"
+            },
+            {
+              "word": "典",
+              "pinyin": "diǎn",
+              "meaning": "典籍、法典。",
               "type": "实词"
             },
             {
               "word": "史",
               "pinyin": "shǐ",
-              "meaning": "史官",
+              "meaning": "史官，负责记录历史。",
               "type": "官职"
             },
             {
-              "word": "献书",
-              "pinyin": "xiàn shū",
-              "meaning": "进献书籍",
+              "word": "献",
+              "pinyin": "xiàn",
+              "meaning": "进献、呈献。",
+              "type": "实词"
+            },
+            {
+              "word": "书",
+              "pinyin": "shū",
+              "meaning": "史书、文献。",
               "type": "实词"
             },
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "乐师",
+              "meaning": "乐师，负责音乐教育。",
               "type": "官职"
             },
             {
               "word": "箴",
               "pinyin": "zhēn",
-              "meaning": "规诫之言",
+              "meaning": "规劝、劝诫。",
               "type": "实词"
             },
             {
               "word": "瞍",
               "pinyin": "sǒu",
-              "meaning": "盲人",
-              "type": "官职"
+              "meaning": "盲人，无目曰瞍。",
+              "type": "实词"
             },
             {
               "word": "赋",
               "pinyin": "fù",
-              "meaning": "朗诵",
+              "meaning": "不歌而诵，朗诵诗篇。",
               "type": "实词"
             },
             {
               "word": "蒙",
               "pinyin": "méng",
-              "meaning": "盲人",
-              "type": "官职"
+              "meaning": "盲人，有眸子而无所见曰蒙。",
+              "type": "实词"
             },
             {
               "word": "诵",
               "pinyin": "sòng",
-              "meaning": "诵读",
+              "meaning": "诵读、讲述。",
               "type": "实词"
             },
             {
               "word": "百工",
               "pinyin": "bǎi gōng",
-              "meaning": "各种工匠",
+              "meaning": "指各种手工业工匠。",
               "type": "实词"
             },
             {
               "word": "谏",
               "pinyin": "jiàn",
-              "meaning": "劝谏",
+              "meaning": "劝谏、规劝。",
               "type": "实词"
             },
             {
               "word": "庶人",
               "pinyin": "shù rén",
-              "meaning": "平民",
+              "meaning": "平民、百姓。",
               "type": "实词"
             },
             {
-              "word": "传语",
-              "pinyin": "chuán yǔ",
-              "meaning": "传达话语",
+              "word": "传",
+              "pinyin": "chuán",
+              "meaning": "传达、传递。",
+              "type": "实词"
+            },
+            {
+              "word": "语",
+              "pinyin": "yǔ",
+              "meaning": "此处读 yǔ，义为话语、意见。",
               "type": "实词"
             },
             {
               "word": "近臣",
               "pinyin": "jìn chén",
-              "meaning": "亲近之臣",
+              "meaning": "君主身边的臣子。",
               "type": "实词"
             },
             {
-              "word": "尽规",
-              "pinyin": "jìn guī",
-              "meaning": "尽力规劝",
+              "word": "尽",
+              "pinyin": "jìn",
+              "meaning": "尽力、竭尽。",
+              "type": "实词"
+            },
+            {
+              "word": "规",
+              "pinyin": "guī",
+              "meaning": "规劝、劝诫。",
               "type": "实词"
             },
             {
               "word": "亲戚",
               "pinyin": "qīn qī",
-              "meaning": "亲属",
+              "meaning": "古义：内外亲属，包括父母兄弟等（非今义'旁系亲属'）。",
               "type": "实词"
             },
             {
-              "word": "补察",
-              "pinyin": "bǔ chá",
-              "meaning": "弥补监察",
+              "word": "补",
+              "pinyin": "bǔ",
+              "meaning": "弥补、补救。",
               "type": "实词"
             },
             {
-              "word": "瞽、史",
-              "pinyin": "gǔ shǐ",
-              "meaning": "盲乐师和史官",
+              "word": "察",
+              "pinyin": "chá",
+              "meaning": "监察、监督。",
+              "type": "实词"
+            },
+            {
+              "word": "瞽",
+              "pinyin": "gǔ",
+              "meaning": "古代盲人乐官，负责演奏音乐。",
+              "type": "官职"
+            },
+            {
+              "word": "史",
+              "pinyin": "shǐ",
+              "meaning": "史官，负责记录历史。",
               "type": "官职"
             },
             {
               "word": "教诲",
               "pinyin": "jiào huì",
-              "meaning": "教导",
+              "meaning": "教导、训诲，其中'教'读 jiào，义为教导。",
               "type": "实词"
             },
             {
-              "word": "耆、艾",
-              "pinyin": "qí ài",
-              "meaning": "年长者",
+              "word": "耆",
+              "pinyin": "qí",
+              "meaning": "六十岁曰耆，指老年人。",
               "type": "实词"
             },
             {
-              "word": "修之",
-              "pinyin": "xiū zhī",
-              "meaning": "修正它",
+              "word": "艾",
+              "pinyin": "ài",
+              "meaning": "此处读 ài，义为五十岁曰艾，指老年人。",
               "type": "实词"
+            },
+            {
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "劝诫、警告。",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代君王。",
+              "type": "虚词"
             },
             {
               "word": "而后",
               "pinyin": "ér hòu",
-              "meaning": "然后",
+              "meaning": "连词，表示接着，相当于'然后'。",
               "type": "虚词"
             },
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君主",
+              "meaning": "此处读 wáng，义为君王。",
               "type": "实词"
             },
             {
               "word": "斟酌",
               "pinyin": "zhēn zhuó",
-              "meaning": "考虑取舍",
+              "meaning": "考虑取舍、权衡。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示肯定。",
               "type": "虚词"
             },
             {
               "word": "是以",
               "pinyin": "shì yǐ",
-              "meaning": "因此",
+              "meaning": "固定结构，表示结果，相当于'因此'。",
               "type": "虚词"
             },
             {
-              "word": "事行",
-              "pinyin": "shì xíng",
-              "meaning": "事情施行",
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "政事、事情。",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "此处读 xíng，义为运行、实行。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表示顺承或转折，此处表顺承。",
               "type": "虚词"
             },
             {
-              "word": "不悖",
-              "pinyin": "bù bèi",
-              "meaning": "不违背",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "此处读 bù，义为否定。",
+              "type": "虚词"
+            },
+            {
+              "word": "悖",
+              "pinyin": "bèi",
+              "meaning": "违背、冲突。",
               "type": "实词"
             }
           ]
@@ -848,449 +934,467 @@
     },
     {
       "original": "民之有口也，犹土之有山川也，财用于是乎出；犹其有原隰衍沃也，衣食于是乎生。口之宣言也，善败于是乎兴；行善而备败，所以阜财用、衣食者也。夫民虑之于心而宣之于口，成而行之，胡可壅也？若壅其口，其与能几何？”",
-      "translation": "百姓有嘴巴，就像土地有山川一样，财富和用度从这里产生；就像土地有高原、低地、平川、沃野，衣食从这里产生。嘴巴发表言论，善恶成败从这里兴起；推行善政而防备败坏，这是用来增加财用、衣食的方法。百姓在心里思考然后从口中表达出来，成熟了就实行它，怎么可以堵塞呢？如果堵塞他们的嘴巴，那能维持多久呢？",
+      "translation": "百姓有嘴巴，就像土地有山川一样，财富和用度从这里产生；就像土地有高原、低地、平川、沃野一样，衣食从这里产生。嘴巴发表言论，国家的治乱兴衰从这里兴起；推行好的而防备坏的，这是用来增多财物用度、衣食的方法。百姓在心里思考然后从口中发表出来，思考成熟后就付诸行动，怎么可以堵塞呢？如果堵塞他们的嘴巴，那帮助能有多少呢？",
       "sentences": [
         {
           "original": "民之有口也，犹土之有山川也，财用于是乎出；",
-          "translation": "百姓有嘴巴，就像土地有山川一样，财富和用度从这里产生。",
+          "translation": "百姓有嘴巴，就好像土地有山川一样，财富和用度从这里产生。",
           "words": [
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "名词，百姓、民众",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "结构助词",
+              "meaning": "助词，用于主谓之间，取消‘民有口’这个主谓结构的独立性，使其成为整个句子的主语",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，拥有",
               "type": "实词"
             },
             {
               "word": "口",
               "pinyin": "kǒu",
-              "meaning": "嘴巴",
+              "meaning": "名词，嘴巴，此处借指发表言论的器官",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词表停顿",
+              "meaning": "句末语气词，表停顿和提示，以待下文说明",
               "type": "虚词"
             },
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "如同",
-              "type": "实词"
+              "meaning": "动词，如同、好比",
+              "type": "虚词"
             },
             {
               "word": "土",
               "pinyin": "tǔ",
-              "meaning": "土地",
+              "meaning": "名词，土地",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "结构助词",
+              "meaning": "助词，同前，用于主谓之间，取消‘土有山川’的独立性",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，拥有",
               "type": "实词"
             },
             {
               "word": "山川",
               "pinyin": "shān chuān",
-              "meaning": "山和河流",
+              "meaning": "名词，山岳与河流，泛指土地上的自然地理特征",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定，与前一‘也’构成‘犹…也’的类比句式",
               "type": "虚词"
             },
             {
               "word": "财用",
               "pinyin": "cái yòng",
-              "meaning": "财物用度",
+              "meaning": "名词，财物用度，指国家或民众的财富资源",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "介词在",
+              "meaning": "介词，引出动作‘出’的来源，相当于‘从’",
               "type": "虚词"
             },
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "代词此",
+              "meaning": "指示代词，此、这里，指代前文‘民之有口’或‘土之有山川’这种情况",
               "type": "虚词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "语气词",
+              "meaning": "语气助词，用于句中表停顿，与‘是’连用，加强‘于是’的指代与提示语气",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "产生",
+              "meaning": "动词，产生、出产",
               "type": "实词"
             }
           ]
         },
         {
           "original": "犹其有原隰衍沃也，衣食于是乎生。",
-          "translation": "就像土地有高原、低地、平川、沃野，衣食从这里产生。",
+          "translation": "就好像土地有高原、低地、平川、沃野一样，衣食从这里产生。",
           "words": [
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "如同",
-              "type": "实词"
+              "meaning": "动词，如同、好比，承接上句继续类比",
+              "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "代词它",
+              "meaning": "代词，指代土地",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，拥有",
               "type": "实词"
             },
             {
-              "word": "原隰",
-              "pinyin": "yuán xí",
-              "meaning": "平原湿地",
-              "type": "实词"
-            },
-            {
-              "word": "衍沃",
-              "pinyin": "yǎn wò",
-              "meaning": "平坦肥沃地",
+              "word": "原隰衍沃",
+              "pinyin": "yuán xí yǎn wò",
+              "meaning": "名词，并列结构，指四种地形：原（平原）、隰（低湿之地）、衍（低下平坦之地）、沃（有河流灌溉的肥沃之地）",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表停顿，与前文‘犹土之有山川也’结构并列",
               "type": "虚词"
             },
             {
               "word": "衣食",
               "pinyin": "yī shí",
-              "meaning": "衣服食物",
+              "meaning": "名词，衣服和食物，泛指基本生活资料",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "介词在",
+              "meaning": "介词，引出动作‘生’的来源，相当于‘从’",
               "type": "虚词"
             },
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "代词此",
+              "meaning": "指示代词，此、这里，指代前文‘其有原隰衍沃’这种情况",
               "type": "虚词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "语气词",
+              "meaning": "语气助词，与‘是’连用，同前句，加强语气",
               "type": "虚词"
             },
             {
               "word": "生",
               "pinyin": "shēng",
-              "meaning": "产生",
+              "meaning": "动词，产生、生出",
               "type": "实词"
             }
           ]
         },
         {
           "original": "口之宣言也，善败于是乎兴；",
-          "translation": "嘴巴发表言论，善恶成败从这里兴起。",
+          "translation": "嘴巴发表言论，国家的治乱兴衰从这里兴起。",
           "words": [
             {
               "word": "口",
               "pinyin": "kǒu",
-              "meaning": "嘴巴",
+              "meaning": "名词，嘴巴。此处借代言论、批评的渠道。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "结构助词",
+              "meaning": "助词，用在主语“口”和谓语“宣言”之间，取消句子独立性，使“口之宣言”成为主谓短语。",
               "type": "虚词"
             },
             {
               "word": "宣言",
               "pinyin": "xuān yán",
-              "meaning": "发表言论",
+              "meaning": "古义：发表言论（非今义“宣告、声明”）。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表停顿和提示下文，与下句“于是乎兴”构成判断关系。",
               "type": "虚词"
             },
             {
               "word": "善败",
               "pinyin": "shàn bài",
-              "meaning": "善恶成败",
+              "meaning": "形容词用作名词，指（国家政治的）好坏、得失。",
               "type": "实词"
             },
             {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "介词在",
-              "type": "虚词"
-            },
-            {
-              "word": "是",
-              "pinyin": "shì",
-              "meaning": "代词此",
-              "type": "虚词"
-            },
-            {
-              "word": "乎",
-              "pinyin": "hū",
-              "meaning": "语气词",
+              "word": "于是乎",
+              "pinyin": "yú shì hū",
+              "meaning": "固定结构，介词“于”加代词“是”加语气词“乎”，相当于“从此”、“因此”。",
               "type": "虚词"
             },
             {
               "word": "兴",
               "pinyin": "xīng",
-              "meaning": "兴起",
+              "meaning": "动词，兴起、产生。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "行善而备败，所以阜财用、衣食者也。",
-          "translation": "推行善政而防备败坏，这是用来增加财用、衣食的方法。",
+          "translation": "推行好的而防备坏的，这是用来增多财物用度、衣食的方法。",
           "words": [
             {
-              "word": "行善",
-              "pinyin": "xíng shàn",
-              "meaning": "实行善政",
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "动词，推行、施行。",
+              "type": "实词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "形容词用作名词，指善政、好的措施。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词",
+              "meaning": "连词，表并列关系，连接“行善”和“备败”两种做法。",
               "type": "虚词"
             },
             {
-              "word": "备败",
-              "pinyin": "bèi bài",
-              "meaning": "防备败坏",
+              "word": "备",
+              "pinyin": "bèi",
+              "meaning": "动词，防备。",
+              "type": "实词"
+            },
+            {
+              "word": "败",
+              "pinyin": "bài",
+              "meaning": "形容词用作名词，指败政、坏的措施。",
               "type": "实词"
             },
             {
               "word": "所以",
               "pinyin": "suǒ yǐ",
-              "meaning": "用来",
+              "meaning": "固定结构，助词“所”加介词“以”，表示凭借的方法或工具，相当于“用来……的方法/途径”。",
               "type": "虚词"
             },
             {
               "word": "阜",
               "pinyin": "fù",
-              "meaning": "增加",
+              "meaning": "动词，使……丰富、增加。",
               "type": "实词"
             },
             {
               "word": "财用",
               "pinyin": "cái yòng",
-              "meaning": "财富用度",
+              "meaning": "名词，财物用度。",
               "type": "实词"
             },
             {
               "word": "衣食",
               "pinyin": "yī shí",
-              "meaning": "衣服食物",
+              "meaning": "名词，衣服和食物，泛指基本生活资料。",
               "type": "实词"
             },
             {
-              "word": "者也",
-              "pinyin": "zhě yě",
-              "meaning": "语气词",
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，与句末“也”构成“……者……也”的判断句式，此处“者”表提顿，复指前文“所以阜财用、衣食”的方法。",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，与“者”呼应，表判断和肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "夫民虑之于心而宣之于口，成而行之，胡可壅也？",
-          "translation": "百姓在心里思考然后从口中表达出来，成熟了就实行它，怎么可以堵塞呢？",
+          "translation": "百姓在心里思考然后从口中发表出来，思考成熟后就付诸行动，怎么可以堵塞呢？",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首发语词，表示议论开始，无实义",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "百姓",
               "type": "实词"
             },
             {
               "word": "虑",
               "pinyin": "lǜ",
-              "meaning": "思考",
+              "meaning": "思考、考虑",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词",
+              "meaning": "代词，指代‘民虑’这件事",
               "type": "虚词"
             },
             {
-              "word": "于心",
-              "pinyin": "yú xīn",
-              "meaning": "在心里",
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，表示处所，相当于‘在’",
               "type": "虚词"
+            },
+            {
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "内心",
+              "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词",
+              "meaning": "连词，表示承接关系",
               "type": "虚词"
             },
             {
               "word": "宣",
               "pinyin": "xuān",
-              "meaning": "表达",
+              "meaning": "表达、说出",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词",
+              "meaning": "代词，指代‘民虑’这件事",
               "type": "虚词"
             },
             {
-              "word": "于口",
-              "pinyin": "yú kǒu",
-              "meaning": "用嘴",
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，表示处所，相当于‘到’",
               "type": "虚词"
+            },
+            {
+              "word": "口",
+              "pinyin": "kǒu",
+              "meaning": "嘴巴，指言论",
+              "type": "实词"
             },
             {
               "word": "成",
               "pinyin": "chéng",
-              "meaning": "完成",
+              "meaning": "成熟、考虑完备",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词",
+              "meaning": "连词，表示承接关系",
               "type": "虚词"
             },
             {
-              "word": "行之",
-              "pinyin": "xíng zhī",
-              "meaning": "实行它",
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "施行、付诸实践",
               "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代考虑成熟后的意见",
+              "type": "虚词"
             },
             {
               "word": "胡",
               "pinyin": "hú",
-              "meaning": "怎么",
+              "meaning": "疑问代词，怎么、为什么",
               "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
-              "type": "虚词"
+              "meaning": "可以、能够",
+              "type": "实词"
             },
             {
               "word": "壅",
               "pinyin": "yōng",
-              "meaning": "堵塞",
+              "meaning": "堵塞、阻挡",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表反问",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若壅其口，其与能几何？",
-          "translation": "如果堵塞他们的嘴巴，那能维持多久呢？",
+          "translation": "如果堵塞他们的嘴巴，那帮助能有多少呢？",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，如果、假如",
               "type": "虚词"
             },
             {
               "word": "壅",
               "pinyin": "yōng",
-              "meaning": "堵塞",
+              "meaning": "堵塞、阻挡",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "代词，指代百姓",
               "type": "虚词"
             },
             {
               "word": "口",
               "pinyin": "kǒu",
-              "meaning": "嘴",
+              "meaning": "嘴巴，指言论",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那",
+              "meaning": "句首语气词，加强反问语气",
               "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yú",
-              "meaning": "语气词",
+              "meaning": "此处读yú，为句中语气词，表示停顿和舒缓语气",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能够、可以持续",
+              "type": "实词"
             },
             {
               "word": "几何",
               "pinyin": "jǐ hé",
-              "meaning": "多少",
-              "type": "实词"
+              "meaning": "古义：多少（非今义‘数学分支’）。疑问代词，询问数量",
+              "type": "虚词"
             }
           ]
         }
@@ -1298,76 +1402,76 @@
     },
     {
       "original": "王弗听，于是国人莫敢出言，三年，乃流王于彘。",
-      "translation": "厉王不听从，于是国都里的人没有人敢说话，过了三年，于是将厉王流放到彘地。",
+      "translation": "厉王不听从，于是国都的人没有谁敢说话。三年后，就把厉王流放到彘地（今山西霍州）。",
       "sentences": [
         {
-          "original": "王弗听",
-          "translation": "厉王不听从",
+          "original": "王弗听，于是国人莫敢出言，",
+          "translation": "厉王不听从，于是国都的人没有谁敢说话，",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
-              "type": "实词"
+              "meaning": "周厉王，西周国君（？-前828年），姬姓，名胡，因暴虐无道引发国人暴动",
+              "type": "人名"
             },
             {
               "word": "弗",
               "pinyin": "fú",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定，相当于“不”，用于否定及物动词时，动词宾语通常省略",
               "type": "虚词"
             },
             {
               "word": "听",
               "pinyin": "tīng",
-              "meaning": "听从",
+              "meaning": "听从、采纳（意见）",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "于是国人莫敢出言",
-          "translation": "于是国都的人没有人敢说话",
-          "words": [
+            },
             {
               "word": "于是",
               "pinyin": "yú shì",
-              "meaning": "因此",
+              "meaning": "连词，表示承接关系，可译为“从此”、“在这种情况下”",
               "type": "虚词"
             },
             {
               "word": "国人",
               "pinyin": "guó rén",
-              "meaning": "国都的人",
+              "meaning": "国都里的人民",
               "type": "实词"
             },
             {
               "word": "莫",
               "pinyin": "mò",
-              "meaning": "没有人",
+              "meaning": "否定性无定代词，没有谁，没有人",
               "type": "虚词"
             },
             {
               "word": "敢",
               "pinyin": "gǎn",
-              "meaning": "敢于",
+              "meaning": "敢于，有胆量做某事",
               "type": "实词"
             },
             {
-              "word": "出言",
-              "pinyin": "chū yán",
-              "meaning": "说话",
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "发出",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "言论，话语",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "三年",
-          "translation": "过了三年",
+          "original": "三年，乃流王于彘。",
+          "translation": "三年后，就把厉王流放到彘地（今山西霍州）。",
           "words": [
             {
               "word": "三",
               "pinyin": "sān",
-              "meaning": "三",
+              "meaning": "数词，三",
               "type": "实词"
             },
             {
@@ -1375,41 +1479,35 @@
               "pinyin": "nián",
               "meaning": "年",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "乃流王于彘",
-          "translation": "于是将厉王流放到彘地",
-          "words": [
+            },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示时间上的承接，可译为“才”、“于是”",
               "type": "虚词"
             },
             {
               "word": "流",
               "pinyin": "liú",
-              "meaning": "流放",
+              "meaning": "流放，放逐",
               "type": "实词"
             },
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "周厉王",
+              "meaning": "周厉王，西周国君（？-前828年），姬姓，名胡，因暴虐无道引发国人暴动",
               "type": "人名"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，引出动作“流”的终点，可译为“到”",
               "type": "虚词"
             },
             {
               "word": "彘",
               "pinyin": "zhì",
-              "meaning": "地名",
+              "meaning": "地名，在今山西霍县，周厉王被国人驱逐后流放于此",
               "type": "地名"
             }
           ]

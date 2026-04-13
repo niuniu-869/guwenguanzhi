@@ -1,373 +1,415 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "196_六国论",
   "title": "六国论",
   "author": {
     "id": "song_苏辙",
     "name": "苏辙",
     "dynasty": "song",
-    "bio": "苏辙（1039年—1112年），字子由，号颍滨遗老，眉州眉山（今四川眉山）人。北宋著名文学家、政治家，与父苏洵、兄苏轼并称‘三苏’，同为唐宋八大家之一。他于嘉祐年间考中进士，官至尚书右丞、门下侍郎，著有《栾城集》等。苏辙散文风格淳朴无华，文笔流畅，尤擅政论和史论，《六国论》是其代表作之一，体现了他对历史和现实的深刻思考。"
+    "bio": "苏辙（1039-1112），字子由，号颍滨遗老，眉州眉山（今四川眉山）人。北宋文学家，嘉祐年间进士，官至翰林学士、门下侍郎。与父苏洵、兄苏轼并称“三苏”，同列“唐宋八大家”。代表作有《栾城集》、《六国论》等，其文以议论见长，风格淳朴厚重。"
   },
   "source": "",
   "dynasty": "song",
   "volume": 11,
-  "background": "苏辙的《六国论》创作于北宋时期，当时宋朝面临北方辽国和西夏的持续军事威胁，边防压力巨大，朝廷内部在外交和军事策略上存在分歧。苏辙作为一位关心国事的文学家和政治家，借分析战国时期六国灭亡的历史教训，旨在讽喻当朝统治者应吸取历史经验，重视战略要地的控制，加强内部团结以抵御外侮。文章通过深入剖析韩、魏两国在对抗秦国中的关键屏障作用，指出六国因短视、分裂和贪图小利而自取灭亡，隐含对北宋软弱外交政策的批评，呼吁朝廷厚待韩、魏这样的战略缓冲国，巩固边防，以保国家长治久安。这篇史论反映了苏辙对天下大势的深刻洞察和忧国忧民的情怀。",
-  "appreciation": "《六国论》是一篇结构严谨、论证有力的史论文，展现了苏辙卓越的文学和史识才华。文章开篇以‘窃怪’引出疑问，激发读者思考，继而层层递进，从地理、战略角度论证韩、魏作为‘腹心之疾’的重要性，逻辑清晰，说服力强。苏辙运用生动的比喻，如将韩、魏比作秦国的‘腹心之疾’，形象地说明了其屏障作用；语言简洁明快，说理透彻，体现了宋代议论文的典型风格。思想上，文章强调‘天下之势’，批评六国‘虑患之疏而见利之浅’，具有深刻的现实警示意义，借古讽今，呼吁团结御敌。作为《古文观止》中的名篇，它不仅展示了苏辙的政论才华，也对后世议论文写作产生了深远影响，成为历史评论的典范之作。",
+  "background": "北宋神宗时期，朝廷面临辽与西夏的军事威胁，内部党争激烈，王安石变法引发政治分歧。苏辙作为保守派士大夫，曾因反对新法遭贬谪，写作《六国论》时，他借战国六国灭亡的历史，反思北宋的对外策略。动机在于批评当时朝廷对边疆危机的短视应对，以六国不联合韩、魏抗秦的教训，喻指北宋应重视与辽、西夏接壤的战略要地，避免重蹈覆辙。",
+  "appreciation": "《六国论》是一篇史论体议论文，结构严谨，先提出六国以优势攻秦却灭亡的疑问，继而分析韩、魏的战略地位，指出六国之失在于不知天下之势，最后提出联合抗秦的对策。艺术特色上，语言简练有力，多用比喻如“腹心之疾”形象说明韩、魏的重要性，排比和反问增强论证气势，逻辑层层递进。思想内涵核心是强调地缘政治的关键性和团结合作的必要性，价值立场立足于现实关怀，借古讽今。在文学史上，此文与苏洵《六国论》从不同角度剖析六国灭亡，展现了宋代散文的议论深度和史论传统。",
   "tags": [
-    "史论",
-    "议论文",
-    "六国",
-    "战略分析",
-    "古文观止"
+    "议论",
+    "政治",
+    "军事",
+    "怀古"
   ],
   "paragraphs": [
     {
       "original": "尝读六国世家，窃怪天下之诸侯以五倍之地、十倍之众，发愤西向，以攻山西千里之秦，而不免于灭亡。常为之深思远虑，以为必有可以自安之计，盖未尝不咎其当时之士虑患之疏而见利之浅，且不知天下之势也。",
-      "translation": "我读《六国世家》时，私下感到奇怪，天下的诸侯凭借五倍于秦的土地、十倍于秦的兵力，发愤向西进攻崤山以西的秦国，却最终灭亡。我常为他们深入思考，认为必定有可以自保的策略，这不能不责怪当时的谋士对祸患考虑不周、见识短浅，且不了解天下大势。",
+      "translation": "曾经读《六国世家》，私下奇怪天下的诸侯凭借五倍的土地、十倍的军队，发愤向西攻打崤山以西千里的秦国，却免不了灭亡。我常常为此深思远虑，认为一定有自我保全的计策，但总是责备当时的士人考虑不周、见识浅薄，不懂得天下的大势。",
       "sentences": [
         {
           "original": "尝读六国世家，窃怪天下之诸侯以五倍之地、十倍之众，发愤西向，以攻山西千里之秦，而不免于灭亡。",
-          "translation": "我曾经阅读《六国世家》，私下奇怪天下的诸侯用五倍的土地、十倍的兵力，发愤向西，去攻打崤山以西千里的秦国，却免不了灭亡。",
+          "translation": "曾经读《六国世家》，私下奇怪天下的诸侯凭借五倍的土地、十倍的军队，发愤向西进发，来攻打崤山以西千里的秦国，却免不了灭亡。",
           "words": [
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "曾经",
+              "meaning": "副词，表示动作行为曾经发生，相当于'曾经'",
               "type": "虚词"
             },
             {
               "word": "读",
               "pinyin": "dú",
-              "meaning": "阅读",
+              "meaning": "动词，阅读",
               "type": "实词"
             },
             {
               "word": "六国世家",
               "pinyin": "liù guó shì jiā",
-              "meaning": "六国的世家传",
+              "meaning": "《史记》中记载战国时期齐、楚、燕、韩、赵、魏六国历史的篇目",
               "type": "典故"
             },
             {
               "word": "窃",
               "pinyin": "qiè",
-              "meaning": "私下",
+              "meaning": "谦词，表示个人意见，私下",
               "type": "虚词"
             },
             {
               "word": "怪",
               "pinyin": "guài",
-              "meaning": "奇怪",
+              "meaning": "动词，感到奇怪",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "名词，指全国范围",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代帝王分封的各国国君，此处指战国七雄等诸侯国",
+              "type": "官职"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借，相当于'凭借'、'用'",
               "type": "虚词"
             },
             {
               "word": "五倍",
               "pinyin": "wǔ bèi",
-              "meaning": "五倍",
+              "meaning": "数量词，五倍于（秦国）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "地",
               "pinyin": "dì",
-              "meaning": "土地",
+              "meaning": "名词，土地",
               "type": "实词"
             },
             {
               "word": "十倍",
               "pinyin": "shí bèi",
-              "meaning": "十倍",
+              "meaning": "数量词，十倍于（秦国）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "众",
               "pinyin": "zhòng",
-              "meaning": "众人",
+              "meaning": "名词，军队，兵员",
               "type": "实词"
             },
             {
-              "word": "发愤西向",
-              "pinyin": "fā fèn xī xiàng",
-              "meaning": "发愤向西",
+              "word": "发愤",
+              "pinyin": "fā fèn",
+              "meaning": "动词，下定决心，竭尽全力",
+              "type": "实词"
+            },
+            {
+              "word": "西向",
+              "pinyin": "xī xiàng",
+              "meaning": "动词，向西进发（攻打秦国）",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，相当于'来'",
               "type": "虚词"
             },
             {
               "word": "攻",
               "pinyin": "gōng",
-              "meaning": "攻打",
+              "meaning": "动词，攻打",
               "type": "实词"
             },
             {
-              "word": "山西千里之秦",
-              "pinyin": "shān xī qiān lǐ zhī qín",
-              "meaning": "崤山以西千里秦国",
+              "word": "山西",
+              "pinyin": "shān xī",
+              "meaning": "古义：崤山以西（非今义'山西省'），战国时指秦国一带",
+              "type": "地名"
+            },
+            {
+              "word": "千里",
+              "pinyin": "qiān lǐ",
+              "meaning": "数量词，方圆千里，形容疆域广阔",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，都城在今陕西咸阳，最终统一天下",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表转折，却",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "免",
               "pinyin": "miǎn",
-              "meaning": "避免",
+              "meaning": "动词，避免",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "于",
+              "meaning": "介词，引出动作的施事者，表被动",
               "type": "虚词"
             },
             {
               "word": "灭亡",
               "pinyin": "miè wáng",
-              "meaning": "灭亡",
+              "meaning": "动词，被消灭，国家覆亡",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "常为之深思远虑，以为必有可以自安之计，",
-          "translation": "常常为他们深思远虑，认为一定有可以自我保全的计策，",
+          "original": "常为之深思远虑，以为必有可以自安之计，盖未尝不咎其当时之士虑患之疏而见利之浅，且不知天下之势也。",
+          "translation": "常常为这件事深思远虑，认为一定有可以自我保全的计策，大概没有不责备当时的士人考虑祸患疏忽、见识利益浅薄，而且不知道天下的形势。",
           "words": [
             {
               "word": "常",
               "pinyin": "cháng",
-              "meaning": "常常",
+              "meaning": "副词，经常，常常",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "为了",
+              "meaning": "介词，表示对象，替、给",
               "type": "虚词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代六国灭亡这件事",
               "type": "虚词"
             },
             {
               "word": "深思远虑",
               "pinyin": "shēn sī yuǎn lǜ",
-              "meaning": "深入思考长远考虑",
-              "type": "实词"
+              "meaning": "成语，深入而长远地思考谋划",
+              "type": "典故"
             },
             {
               "word": "以为",
               "pinyin": "yǐ wéi",
-              "meaning": "认为",
+              "meaning": "动词，古义：以之为，即认为（非今义'认为'）",
               "type": "实词"
             },
             {
-              "word": "必有",
-              "pinyin": "bì yǒu",
-              "meaning": "必定有",
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "副词，一定",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "可以",
               "pinyin": "kě yǐ",
-              "meaning": "可以",
+              "meaning": "能愿动词，古义：可以用来（非今义'能够'）",
               "type": "实词"
             },
             {
               "word": "自安",
               "pinyin": "zì ān",
-              "meaning": "自我安定",
+              "meaning": "动词，保全自己，使自己安定",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "计",
               "pinyin": "jì",
-              "meaning": "计策",
+              "meaning": "名词，计策，办法",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "盖未尝不咎其当时之士虑患之疏而见利之浅，且不知天下之势也。",
-          "translation": "这未尝不责怪当时的谋士考虑祸患疏忽而见识浅薄，并且不懂得天下的形势。",
-          "words": [
+            },
             {
               "word": "盖",
               "pinyin": "gài",
-              "meaning": "大概",
+              "meaning": "连词，用于句首，表示推测原因，大概因为",
               "type": "虚词"
             },
             {
               "word": "未尝",
               "pinyin": "wèi cháng",
-              "meaning": "不曾",
+              "meaning": "副词，不曾，从来没有",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "咎",
               "pinyin": "jiù",
-              "meaning": "责怪",
+              "meaning": "动词，责怪，归罪",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们",
+              "meaning": "代词，他们的，指六国诸侯的",
               "type": "虚词"
             },
             {
               "word": "当时",
               "pinyin": "dāng shí",
-              "meaning": "当时",
+              "meaning": "名词，那个时候，指六国时期",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "士",
               "pinyin": "shì",
-              "meaning": "士人",
+              "meaning": "名词，谋士，士人",
               "type": "实词"
             },
             {
-              "word": "虑患",
-              "pinyin": "lǜ huàn",
-              "meaning": "忧虑祸患",
+              "word": "虑",
+              "pinyin": "lǜ",
+              "meaning": "动词，考虑，谋划",
+              "type": "实词"
+            },
+            {
+              "word": "患",
+              "pinyin": "huàn",
+              "meaning": "名词，祸患，忧患",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于中心语和补语之间，相当于'得'",
               "type": "虚词"
             },
             {
               "word": "疏",
               "pinyin": "shū",
-              "meaning": "疏忽",
+              "meaning": "形容词，疏忽，不周密",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表并列，而且",
               "type": "虚词"
             },
             {
-              "word": "见利",
-              "pinyin": "jiàn lì",
-              "meaning": "看到利益",
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "动词，看见，看到",
+              "type": "实词"
+            },
+            {
+              "word": "利",
+              "pinyin": "lì",
+              "meaning": "名词，利益，好处",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于中心语和补语之间，相当于'得'",
               "type": "虚词"
             },
             {
               "word": "浅",
               "pinyin": "qiǎn",
-              "meaning": "浅薄",
+              "meaning": "形容词，肤浅，短浅",
               "type": "实词"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "而且",
+              "meaning": "连词，表递进，而且",
               "type": "虚词"
             },
             {
-              "word": "不知",
-              "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，了解，明白",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "名词，指全国的形势、局面",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "势",
               "pinyin": "shì",
-              "meaning": "形势",
+              "meaning": "名词，形势，趋势",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
@@ -376,274 +418,214 @@
     },
     {
       "original": "夫秦之所与诸侯争天下者，不在齐、楚、燕、赵也，而在韩、魏之郊；诸侯之所与秦争天下者，不在齐、楚、燕、赵也，而在韩、魏之野。秦之有韩、魏，譬如人之有腹心之疾也。韩、魏塞秦之冲而蔽山东之诸侯，故夫天下之所重者，莫如韩、魏也。昔者范睢用于秦而收韩，商鞅用于秦而收魏。昭王未得韩、魏之心而出兵以攻齐之刚、寿，而范睢以为忧，然则秦之所忌者可以见矣。",
-      "translation": "秦国与诸侯争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的边境；诸侯与秦国争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的田野。秦国拥有韩、魏，就像人有心腹之患一样。韩、魏堵塞了秦国的要冲，掩护了山东的诸侯，所以天下最重要的，莫过于韩、魏。从前范睢被秦国任用而收服韩国，商鞅被秦国任用而收服魏国。秦昭王没有得到韩、魏的真心归附就出兵攻打齐国的刚、寿，范睢为此担忧，那么秦国所忌惮的就可以看出来了。",
+      "translation": "秦国与诸侯争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的边境；诸侯与秦国争夺天下的关键，也不在于齐、楚、燕、赵，而在于韩、魏的原野。秦国拥有韩、魏，就像人有心腹之患一样。韩、魏阻塞了秦国的要冲，并且掩护了崤山以东的诸侯，所以天下最重要的地方，没有比得上韩、魏的了。从前范睢被秦国任用就收服了韩国，商鞅被秦国任用就收服了魏国。秦昭王没有得到韩、魏的归心就出兵攻打齐国的刚、寿，范睢因此担忧，那么秦国所忌惮的事情就可以看出来了。",
       "sentences": [
         {
           "original": "夫秦之所与诸侯争天下者，不在齐、楚、燕、赵也，而在韩、魏之郊；",
-          "translation": "秦国与诸侯争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的边境。",
+          "translation": "秦国与诸侯争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的边境；",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首发语词，表示将要议论或发表看法，无实义",
               "type": "虚词"
             },
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
+              "meaning": "战国七雄之一，都城在咸阳，此处指秦国",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓短语‘秦与诸侯争天下’之间，取消其独立性，使其成为‘所…者’结构的主语部分",
               "type": "虚词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "表处所",
-              "type": "虚词"
-            },
-            {
-              "word": "与",
-              "pinyin": "yǔ",
-              "meaning": "和",
-              "type": "虚词"
-            },
-            {
-              "word": "诸侯",
-              "pinyin": "zhū hóu",
-              "meaning": "诸侯国",
-              "type": "实词"
-            },
-            {
-              "word": "争",
-              "pinyin": "zhēng",
-              "meaning": "争夺",
-              "type": "实词"
-            },
-            {
-              "word": "天下",
-              "pinyin": "tiān xià",
-              "meaning": "全国",
-              "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的地方",
+              "word": "所与诸侯争天下者",
+              "pinyin": "suǒ yǔ zhū hóu zhēng tiān xià zhě",
+              "meaning": "固定结构‘所…者’，‘所’字短语与‘者’结合，指代‘与诸侯争夺天下的地方’",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "动词，存在于、在于",
               "type": "实词"
             },
             {
               "word": "齐",
               "pinyin": "qí",
-              "meaning": "齐国",
+              "meaning": "战国七雄之一，地处东方，都城在临淄",
               "type": "地名"
             },
             {
               "word": "楚",
               "pinyin": "chǔ",
-              "meaning": "楚国",
+              "meaning": "战国七雄之一，地处南方，都城在郢",
               "type": "地名"
             },
             {
               "word": "燕",
               "pinyin": "yān",
-              "meaning": "燕国",
+              "meaning": "战国七雄之一，地处北方，都城在蓟",
               "type": "地名"
             },
             {
               "word": "赵",
               "pinyin": "zhào",
-              "meaning": "赵国",
+              "meaning": "战国七雄之一，地处北方，与燕相邻，都城在邯郸",
               "type": "地名"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表停顿和肯定，用于引出下文的转折",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表转折，相当于‘却’、‘而是’",
               "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "动词，存在于、在于",
               "type": "实词"
             },
             {
               "word": "韩",
               "pinyin": "hán",
-              "meaning": "韩国",
+              "meaning": "战国七雄之一，地处中原腹地，被秦、魏等国包围，都城在新郑",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "wèi",
-              "meaning": "魏国",
+              "meaning": "战国七雄之一，地处中原，与韩相邻，都城在大梁",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "郊",
               "pinyin": "jiāo",
-              "meaning": "郊外",
+              "meaning": "名词，邑外为郊，泛指城邑之外的地区，此处与‘野’同义，指国土、疆域",
               "type": "实词"
             }
           ]
         },
         {
           "original": "诸侯之所与秦争天下者，不在齐、楚、燕、赵也，而在韩、魏之野。",
-          "translation": "诸侯与秦国争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的田野。",
+          "translation": "诸侯与秦国争夺天下的关键，不在于齐、楚、燕、赵，而在于韩、魏的原野。",
           "words": [
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯国",
-              "type": "实词"
+              "meaning": "古代中央政权所分封的各国国君的统称，此处指崤山以东的齐、楚、燕、赵等国",
+              "type": "官职"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓短语‘诸侯与秦争天下’之间，取消其独立性，使其成为‘所…者’结构的主语部分",
               "type": "虚词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "表处所",
-              "type": "虚词"
-            },
-            {
-              "word": "与",
-              "pinyin": "yǔ",
-              "meaning": "和",
-              "type": "虚词"
-            },
-            {
-              "word": "秦",
-              "pinyin": "qín",
-              "meaning": "秦国",
-              "type": "地名"
-            },
-            {
-              "word": "争",
-              "pinyin": "zhēng",
-              "meaning": "争夺",
-              "type": "实词"
-            },
-            {
-              "word": "天下",
-              "pinyin": "tiān xià",
-              "meaning": "全国",
-              "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的地方",
+              "word": "所与秦争天下者",
+              "pinyin": "suǒ yǔ qín zhēng tiān xià zhě",
+              "meaning": "固定结构‘所…者’，‘所’字短语与‘者’结合，指代‘与秦国争夺天下的地方’",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "动词，存在于、在于",
               "type": "实词"
             },
             {
               "word": "齐",
               "pinyin": "qí",
-              "meaning": "齐国",
+              "meaning": "战国七雄之一，地处东方，都城在临淄",
               "type": "地名"
             },
             {
               "word": "楚",
               "pinyin": "chǔ",
-              "meaning": "楚国",
+              "meaning": "战国七雄之一，地处南方，都城在郢",
               "type": "地名"
             },
             {
               "word": "燕",
               "pinyin": "yān",
-              "meaning": "燕国",
+              "meaning": "战国七雄之一，地处北方，都城在蓟",
               "type": "地名"
             },
             {
               "word": "赵",
               "pinyin": "zhào",
-              "meaning": "赵国",
+              "meaning": "战国七雄之一，地处北方，与燕相邻，都城在邯郸",
               "type": "地名"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表停顿和肯定，用于引出下文的转折",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表转折，相当于‘却’、‘而是’",
               "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "动词，存在于、在于",
               "type": "实词"
             },
             {
               "word": "韩",
               "pinyin": "hán",
-              "meaning": "韩国",
+              "meaning": "战国七雄之一，地处中原腹地，被秦、魏等国包围，都城在新郑",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "wèi",
-              "meaning": "魏国",
+              "meaning": "战国七雄之一，地处中原，与韩相邻，都城在大梁",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "野",
               "pinyin": "yě",
-              "meaning": "野外",
+              "meaning": "名词，郊外、野外，此处与‘郊’同义，指国土、疆域",
               "type": "实词"
             }
           ]
@@ -655,451 +637,475 @@
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
+              "meaning": "战国七雄之一，都城在咸阳（今陕西咸阳东北），本文中为与诸侯争天下之强国。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构“秦有韩魏”之间，取消其独立性，使该结构作全句主语。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，拥有、据有。",
               "type": "实词"
             },
             {
               "word": "韩",
               "pinyin": "hán",
-              "meaning": "韩国",
+              "meaning": "战国七雄之一，地处中原，与秦国相邻，本文中为秦国东进之要冲。",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "wèi",
-              "meaning": "魏国",
+              "meaning": "战国七雄之一，地处中原，与韩国相邻，本文中为秦国东进之要冲。",
               "type": "地名"
             },
             {
               "word": "譬如",
               "pinyin": "pì rú",
-              "meaning": "比如",
+              "meaning": "动词，好比、就像。",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，指一般人。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，患有、生有。",
               "type": "实词"
             },
             {
               "word": "腹心",
               "pinyin": "fù xīn",
-              "meaning": "要害",
+              "meaning": "名词，腹部和心脏，比喻要害或致命之处。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "疾",
               "pinyin": "jí",
-              "meaning": "疾病",
+              "meaning": "名词，疾病。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "韩、魏塞秦之冲而蔽山东之诸侯，故夫天下之所重者，莫如韩、魏也。",
-          "translation": "韩、魏堵塞了秦国的要冲，掩护了山东的诸侯，所以天下最重要的，莫过于韩、魏。",
+          "translation": "韩、魏阻塞了秦国的要冲，并且掩护了崤山以东的诸侯，所以天下最重要的地方，没有比得上韩、魏的了。",
           "words": [
             {
-              "word": "韩、魏",
-              "pinyin": "Hán Wèi",
-              "meaning": "韩国和魏国",
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，地处中原，与秦国相邻，本文中为秦国东进之要冲。",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，地处中原，与韩国相邻，本文中为秦国东进之要冲。",
               "type": "地名"
             },
             {
               "word": "塞",
               "pinyin": "sè",
-              "meaning": "阻塞",
+              "meaning": "动词，阻塞、阻挡。",
               "type": "实词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，都城在咸阳（今陕西咸阳东北），本文中为与诸侯争天下之强国。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "冲",
               "pinyin": "chōng",
-              "meaning": "要冲",
+              "meaning": "此处读 chōng，义为交通要道、军事要冲。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表并列关系，连接“塞秦之冲”和“蔽山东之诸侯”两个动作。",
               "type": "虚词"
             },
             {
               "word": "蔽",
               "pinyin": "bì",
-              "meaning": "遮蔽",
+              "meaning": "动词，遮蔽、屏蔽、掩护。",
               "type": "实词"
             },
             {
               "word": "山东",
-              "pinyin": "Shāndōng",
-              "meaning": "崤山以东",
+              "pinyin": "shān dōng",
+              "meaning": "古义：指崤山（在今河南洛宁西北）以东地区，泛指韩、魏、赵、齐、楚、燕六国（非今义‘山东省’）。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "诸侯",
-              "pinyin": "zhūhóu",
-              "meaning": "诸侯国",
+              "pinyin": "zhū hóu",
+              "meaning": "名词，古代帝王统辖下的列国君主的统称，此处指崤山以东的齐、楚、燕、赵等国。",
               "type": "实词"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示因果关系，所以、因此。",
               "type": "虚词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "句首助词",
+              "meaning": "句首发语词，表示将发议论，无实义。",
               "type": "虚词"
             },
             {
               "word": "天下",
-              "pinyin": "tiānxià",
-              "meaning": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "名词，指全国或全天下的诸侯。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "所重者",
               "pinyin": "suǒ zhòng zhě",
-              "meaning": "所重视的",
-              "type": "实词"
+              "meaning": "固定结构“所…者”，“所”字与动词“重”结合，构成名词性结构，指重视的东西（地方）。",
+              "type": "虚词"
             },
             {
               "word": "莫如",
               "pinyin": "mò rú",
-              "meaning": "不如",
-              "type": "实词"
+              "meaning": "固定结构，表示比较后没有能比得上的，莫过于。",
+              "type": "虚词"
             },
             {
-              "word": "韩、魏",
-              "pinyin": "Hán Wèi",
-              "meaning": "韩国和魏国",
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，地处中原，与秦国相邻，本文中为秦国东进之要冲。",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，地处中原，与韩国相邻，本文中为秦国东进之要冲。",
               "type": "地名"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "昔者范睢用于秦而收韩，商鞅用于秦而收魏。",
-          "translation": "从前范睢被秦国任用而收服韩国，商鞅被秦国任用而收服魏国。",
+          "translation": "从前范睢被秦国任用就收服了韩国，商鞅被秦国任用就收服了魏国。",
           "words": [
             {
               "word": "昔者",
               "pinyin": "xī zhě",
-              "meaning": "从前",
+              "meaning": "时间名词，从前，指战国时期。",
               "type": "实词"
             },
             {
               "word": "范睢",
-              "pinyin": "Fàn Suī",
-              "meaning": "范睢",
+              "pinyin": "fàn suī",
+              "meaning": "战国时魏国人，后为秦昭王相，提出‘远交近攻’策略，本文中其策略为‘收韩’。",
               "type": "人名"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "任用",
+              "meaning": "动词，被任用。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进行为的主动者，相当于‘被’。",
               "type": "虚词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，都城在咸阳（今陕西咸阳东北）。",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表顺承，连接‘被秦国任用’和‘收取韩国’两个动作。",
               "type": "虚词"
             },
             {
               "word": "收",
               "pinyin": "shōu",
-              "meaning": "收服",
+              "meaning": "动词，收取，此处指用外交手段笼络、控制。",
               "type": "实词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，在今河南中部，地处秦、魏、楚之间，为兵家必争之地。",
               "type": "地名"
             },
             {
               "word": "商鞅",
-              "pinyin": "Shāng Yāng",
-              "meaning": "商鞅",
+              "pinyin": "shāng yāng",
+              "meaning": "战国时卫国人，公孙氏，名鞅，后在秦国主持变法，本文中其策略为‘收魏’。",
               "type": "人名"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "任用",
+              "meaning": "动词，被任用。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进行为的主动者，相当于‘被’。",
               "type": "虚词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，都城在咸阳（今陕西咸阳东北）。",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表顺承，连接‘被秦国任用’和‘收取魏国’两个动作。",
               "type": "虚词"
             },
             {
               "word": "收",
               "pinyin": "shōu",
-              "meaning": "收服",
+              "meaning": "动词，收取，此处指用外交手段笼络、控制。",
               "type": "实词"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，在今山西南部、河南北部，与秦接壤，为秦东进之屏障。",
               "type": "地名"
             }
           ]
         },
         {
           "original": "昭王未得韩、魏之心而出兵以攻齐之刚、寿，而范睢以为忧，然则秦之所忌者可以见矣。",
-          "translation": "秦昭王没有得到韩、魏的真心归附就出兵攻打齐国的刚、寿，范睢为此担忧，那么秦国所忌惮的就可以看出来了。",
+          "translation": "秦昭王没有得到韩、魏的归心就出兵攻打齐国的刚、寿，范睢因此担忧，那么秦国所忌惮的事情就可以看出来了。",
           "words": [
             {
               "word": "昭王",
-              "pinyin": "Zhāo Wáng",
-              "meaning": "秦昭王",
+              "pinyin": "zhāo wáng",
+              "meaning": "战国时秦国国君（前306-前251在位），名则，一名稷，在位期间秦国扩张迅速。",
               "type": "人名"
             },
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
+              "meaning": "否定副词，没有。",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "动词，得到，此处指获得真心归附。",
               "type": "实词"
             },
             {
-              "word": "韩、魏",
-              "pinyin": "Hán Wèi",
-              "meaning": "韩国和魏国",
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，在今河南中部，地处秦、魏、楚之间，为兵家必争之地。",
+              "type": "地名"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，在今山西南部、河南北部，与秦接壤，为秦东进之屏障。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于‘的’，连接‘韩、魏’和‘心’。",
               "type": "虚词"
             },
             {
               "word": "心",
               "pinyin": "xīn",
-              "meaning": "心意",
+              "meaning": "名词，心意，真心归附。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，相当于‘却’。",
               "type": "虚词"
             },
             {
-              "word": "出兵",
-              "pinyin": "chū bīng",
-              "meaning": "出动军队",
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "动词，出动。",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "名词，军队。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，相当于‘来’。",
               "type": "虚词"
             },
             {
               "word": "攻",
               "pinyin": "gōng",
-              "meaning": "攻打",
+              "meaning": "动词，进攻。",
               "type": "实词"
             },
             {
               "word": "齐",
-              "pinyin": "Qí",
-              "meaning": "齐国",
+              "pinyin": "qí",
+              "meaning": "战国七雄之一，在今山东北部，都城临淄。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于‘的’，连接‘齐’和‘刚、寿’。",
               "type": "虚词"
             },
             {
-              "word": "刚、寿",
-              "pinyin": "Gāng Shòu",
-              "meaning": "刚和寿",
+              "word": "刚",
+              "pinyin": "gāng",
+              "meaning": "齐国地名，在今山东宁阳。",
+              "type": "地名"
+            },
+            {
+              "word": "寿",
+              "pinyin": "shòu",
+              "meaning": "齐国地名，在今山东东平。",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表顺承，连接‘出兵攻齐’和‘范睢以为忧’两件事。",
               "type": "虚词"
             },
             {
               "word": "范睢",
-              "pinyin": "Fàn Suī",
-              "meaning": "范睢",
+              "pinyin": "fàn suī",
+              "meaning": "战国时魏国人，后为秦昭王相，提出‘远交近攻’策略，本文中其策略为‘收韩’。",
               "type": "人名"
             },
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "把",
-              "type": "虚词"
-            },
-            {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "作为",
+              "word": "以为",
+              "pinyin": "yǐ wéi",
+              "meaning": "动词，认为。",
               "type": "实词"
             },
             {
               "word": "忧",
               "pinyin": "yōu",
-              "meaning": "忧虑",
+              "meaning": "名词，忧虑，担忧之事。",
               "type": "实词"
             },
             {
               "word": "然则",
               "pinyin": "rán zé",
-              "meaning": "那么",
+              "meaning": "固定结构，‘既然这样，那么’，用于承接上文引出结论。",
               "type": "虚词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，都城在咸阳（今陕西咸阳东北）。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓之间，取消‘秦忌’的独立性，使其作‘见’的主语。",
               "type": "虚词"
             },
             {
               "word": "所忌者",
               "pinyin": "suǒ jì zhě",
-              "meaning": "所忌惮的",
-              "type": "实词"
+              "meaning": "‘所’字结构，‘所’与动词‘忌’结合，名词化，表示‘忌讳的事情’。",
+              "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
-              "type": "虚词"
+              "meaning": "能愿动词，可以。",
+              "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，后省略宾语‘之’，‘以之’即‘据此’。",
               "type": "虚词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "此处读 jiàn，义为显现，看出。",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表肯定和已然，相当于‘了’。",
               "type": "虚词"
             }
           ]
@@ -1108,478 +1114,484 @@
     },
     {
       "original": "秦之用兵于燕、赵，秦之危事也。越韩过魏而攻人之国都，燕、赵拒之于前，而韩、魏乘之于后，此危道也。而秦之攻燕、赵，未尝有韩、魏之忧，则韩、魏之附秦故也。夫韩、魏诸侯之障，而使秦人得出入于其间，此岂知天下之势耶？",
-      "translation": "秦国对燕国和赵国发动战争，这对秦国来说是危险的事情。越过韩国和魏国去攻打他国的都城，燕国和赵国在前面抵抗，而韩国和魏国在后面乘虚而入，这是一条危险的道路。但是秦国攻打燕国和赵国时，却没有担心韩国和魏国的威胁，这是因为韩国和魏国已经依附了秦国。韩国和魏国本是诸侯国的屏障，却让秦国人能够在它们之间自由出入，这怎么能说是了解天下的形势呢？",
+      "translation": "秦国对燕、赵两国用兵，是危险之举。越过韩国、魏国去攻打他国都城，燕、赵在前抵抗，韩、魏在后袭击，这是一条危险的道路。然而秦攻燕、赵时，却不担忧韩、魏，这是因为韩、魏依附秦国。韩、魏本是诸侯的屏障，却让秦人能在其间自由出入，这难道是懂得天下大势吗？",
       "sentences": [
         {
           "original": "秦之用兵于燕、赵，秦之危事也。",
-          "translation": "秦国对燕国和赵国发动战争，这对秦国来说是危险的事情。",
+          "translation": "秦国对燕国、赵国用兵，是秦国的危险之举。",
           "words": [
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，都城在咸阳（今陕西咸阳东北），本文所述战争的发起方。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构“秦用兵”之间，取消其作为独立句子的资格，使其成为句子的主语部分。",
               "type": "虚词"
             },
             {
               "word": "用兵",
               "pinyin": "yòng bīng",
-              "meaning": "用兵打仗",
+              "meaning": "使用军队，发动战争。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进动作“用兵”的对象，相当于“对”。",
               "type": "虚词"
             },
             {
               "word": "燕",
-              "pinyin": "Yān",
-              "meaning": "燕国",
+              "pinyin": "yān",
+              "meaning": "战国七雄之一，都城在蓟（今北京西南），地处北方。",
               "type": "地名"
             },
             {
               "word": "赵",
-              "pinyin": "Zhào",
-              "meaning": "赵国",
+              "pinyin": "zhào",
+              "meaning": "战国七雄之一，都城在邯郸（今河北邯郸），地处北方，与燕相邻。",
               "type": "地名"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "此处复指前文“秦之用兵”中的秦国，强调其行为。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "危事",
               "pinyin": "wēi shì",
-              "meaning": "危险的事",
+              "meaning": "危险的事情。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断与肯定，与前面的“秦之危事”构成判断句。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "越韩过魏而攻人之国都，燕、赵拒之于前，而韩、魏乘之于后，此危道也。",
-          "translation": "秦国越过韩国和魏国去攻打他国的都城，燕国和赵国在前面抵抗，而韩国和魏国在后面乘虚而入，这是一条危险的道路。",
+          "translation": "越过韩国、魏国去攻打别人的国都，燕国、赵国在前面抵抗，而韩国、魏国在后面袭击，这是危险的道路。",
           "words": [
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越过",
+              "meaning": "跨越，越过。",
               "type": "实词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，都城在新郑（今河南新郑），地处中原，为秦东出必经之路。",
               "type": "地名"
             },
             {
               "word": "过",
               "pinyin": "guò",
-              "meaning": "经过",
+              "meaning": "经过。",
               "type": "实词"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，都城在大梁（今河南开封），地处中原，与韩相邻，亦为秦东出必经之路。",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，连接“越韩过魏”与“攻人之国都”两个动作，表承接关系。",
               "type": "虚词"
             },
             {
               "word": "攻",
               "pinyin": "gōng",
-              "meaning": "攻打",
+              "meaning": "进攻，攻打。",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "别人",
+              "meaning": "他人，别人。此处指燕、赵。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "国都",
               "pinyin": "guó dū",
-              "meaning": "首都",
+              "meaning": "一个国家的都城，首都。",
               "type": "实词"
             },
             {
               "word": "燕",
-              "pinyin": "Yān",
-              "meaning": "燕国",
+              "pinyin": "yān",
+              "meaning": "同前文，指燕国。",
               "type": "地名"
             },
             {
               "word": "赵",
-              "pinyin": "Zhào",
-              "meaning": "赵国",
+              "pinyin": "zhào",
+              "meaning": "同前文，指赵国。",
               "type": "地名"
             },
             {
               "word": "拒",
               "pinyin": "jù",
-              "meaning": "抵抗",
+              "meaning": "抵抗，抵御。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他们",
+              "meaning": "代词，指代秦军。",
               "type": "虚词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进动作“拒”的地点，相当于“在”。",
               "type": "虚词"
             },
             {
               "word": "前",
               "pinyin": "qián",
-              "meaning": "前面",
+              "meaning": "前方，正面。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然而",
+              "meaning": "连词，连接“燕、赵拒之于前”与“韩、魏乘之于后”两个分句，表并列关系。",
               "type": "虚词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "同前文，指韩国。",
               "type": "地名"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "同前文，指魏国。",
               "type": "地名"
             },
             {
               "word": "乘",
               "pinyin": "chéng",
-              "meaning": "趁机",
+              "meaning": "趁，凭借。此处指趁机攻击。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他们",
+              "meaning": "代词，指代秦军。",
               "type": "虚词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进动作“乘”的地点，相当于“在”。",
               "type": "虚词"
             },
             {
               "word": "后",
               "pinyin": "hòu",
-              "meaning": "后面",
+              "meaning": "后方，背面。",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "指示代词，指代前面“越韩过魏而攻人之国都”这种军事策略。",
               "type": "虚词"
             },
             {
               "word": "危道",
               "pinyin": "wēi dào",
-              "meaning": "危险的道路",
+              "meaning": "危险的道路或方法。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断与肯定，与“此”构成判断句。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "而秦之攻燕、赵，未尝有韩、魏之忧，则韩、魏之附秦故也。",
-          "translation": "但是秦国攻打燕国和赵国时，却没有担心韩国和魏国的威胁，这是因为韩国和魏国已经依附了秦国。",
+          "translation": "然而秦国攻打燕国、赵国时，不曾有韩国、魏国的忧虑，这是因为韩国、魏国依附秦国的缘故。",
           "words": [
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然而",
+              "meaning": "连词，表转折，相当于'然而'或'但是'，连接上下文表示轻微转折",
               "type": "虚词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国时期诸侯国，位于西方，本文中为进攻燕赵的强国",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间，取消句子独立性，使'秦攻燕赵'成为主语短语",
               "type": "虚词"
             },
             {
               "word": "攻",
               "pinyin": "gōng",
-              "meaning": "攻打",
+              "meaning": "动词，进攻、攻打",
               "type": "实词"
             },
             {
               "word": "燕",
-              "pinyin": "Yān",
-              "meaning": "燕国",
+              "pinyin": "yān",
+              "meaning": "战国时期诸侯国，位于北方，本文中为被秦进攻的国家",
               "type": "地名"
             },
             {
               "word": "赵",
-              "pinyin": "Zhào",
-              "meaning": "赵国",
+              "pinyin": "zhào",
+              "meaning": "战国时期诸侯国，位于北方，与燕相邻，本文中为被秦进攻的国家",
               "type": "地名"
             },
             {
               "word": "未尝",
               "pinyin": "wèi cháng",
-              "meaning": "不曾",
-              "type": "实词"
+              "meaning": "副词，表示从来没有、未曾，强调秦攻燕赵时没有来自韩魏的担忧",
+              "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，具有、存在",
               "type": "实词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "战国时期诸侯国，位于中原，本文中为可能构成威胁的国家",
               "type": "地名"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "战国时期诸侯国，位于中原，本文中为可能构成威胁的国家",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于'的'，连接'韩魏'与'忧'",
               "type": "虚词"
             },
             {
               "word": "忧",
               "pinyin": "yōu",
-              "meaning": "忧虑",
+              "meaning": "名词，忧虑、担忧",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，表因果，相当于'那么'或'就'，引出结果",
               "type": "虚词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "同上，指韩国",
               "type": "地名"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "同上，指魏国",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间，取消句子独立性，使'韩魏附秦'成为主语短语",
               "type": "虚词"
             },
             {
               "word": "附",
               "pinyin": "fù",
-              "meaning": "依附",
+              "meaning": "动词，依附、归附",
               "type": "实词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "同上，指秦国，为被依附方",
               "type": "地名"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "缘故",
+              "meaning": "名词，原因、缘故",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断与肯定，用于句末确认原因",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "夫韩、魏诸侯之障，而使秦人得出入于其间，此岂知天下之势耶？",
-          "translation": "韩国和魏国本是诸侯国的屏障，却让秦国人能够在它们之间自由出入，这怎么能说是了解天下的形势呢？",
+          "translation": "韩国、魏国是诸侯的屏障，却让秦国人能够在它们之间进出，这难道是了解天下的形势吗？",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "此处读 fú，义为句首语气词，发语词，引出议论",
               "type": "虚词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "战国时期诸侯国，位于中原，本文中为屏障的一部分",
               "type": "地名"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "战国时期诸侯国，位于中原，本文中为屏障的一部分",
               "type": "地名"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯国",
-              "type": "实词"
+              "meaning": "古代分封的各国君主，这里指诸侯国，作为屏障的对象",
+              "type": "官职"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于'的'，连接'诸侯'与'障'",
               "type": "虚词"
             },
             {
               "word": "障",
               "pinyin": "zhàng",
-              "meaning": "屏障",
+              "meaning": "名词，屏障、障碍物",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表顺承，连接前后两个分句，表示结果",
               "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "使得",
+              "meaning": "动词，让、致使",
               "type": "实词"
             },
             {
-              "word": "秦人",
-              "pinyin": "Qín rén",
-              "meaning": "秦国人",
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "指秦国，本文中为得利方",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，人民、军队，这里指秦国人或秦军",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "能够",
+              "meaning": "动词，能够、得以",
               "type": "实词"
             },
             {
               "word": "出入",
               "pinyin": "chū rù",
-              "meaning": "进出",
+              "meaning": "动词，进出、来往",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，相当于'在'，引出地点",
               "type": "虚词"
             },
             {
               "word": "其间",
               "pinyin": "qí jiān",
-              "meaning": "其中",
-              "type": "实词"
+              "meaning": "代词，指韩、魏两国之间",
+              "type": "虚词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "代词，指代上述韩魏为障使秦出入的情况",
+              "type": "虚词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表示反问，难道",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "全国",
+              "meaning": "名词，指全国或整个天下的局势",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于'的'，连接'天下'与'势'",
               "type": "虚词"
             },
             {
               "word": "势",
               "pinyin": "shì",
-              "meaning": "形势",
+              "meaning": "名词，形势、趋势",
               "type": "实词"
             },
             {
               "word": "耶",
               "pinyin": "yé",
-              "meaning": "吗",
+              "meaning": "句末语气词，表反问或疑问，相当于'吗'",
               "type": "虚词"
             }
           ]
@@ -1588,250 +1600,292 @@
     },
     {
       "original": "委区区之韩、魏，以当强虎狼之秦，彼安得不折而入于秦哉？韩、魏折而入于秦，然后秦人得通其兵于东诸侯，而使天下遍受其祸。",
-      "translation": "依靠弱小的韩国和魏国，来抵挡强大的秦国，他们怎能不屈服而投入秦国呢？韩国和魏国屈服并投入秦国，然后秦国能够将军队通行到东方的诸侯国，从而使得天下普遍遭受秦国的祸害。",
+      "translation": "让弱小的韩、魏去抵挡如虎狼般强大的秦国，他们怎能不屈服而归附秦国呢？韩、魏一旦屈服归附秦国，秦国便能畅通无阻地出兵攻打东方的诸侯国，从而使天下普遍蒙受灾祸。",
       "sentences": [
         {
           "original": "委区区之韩、魏，以当强虎狼之秦，彼安得不折而入于秦哉？",
-          "translation": "依靠弱小的韩国和魏国，来抵挡强大的秦国，他们怎能不屈服而投入秦国呢？",
+          "translation": "让弱小的韩、魏去抵挡如虎狼般强大的秦国，他们怎能不屈服而归附秦国呢？",
           "words": [
             {
               "word": "委",
               "pinyin": "wěi",
-              "meaning": "抛弃",
+              "meaning": "动词，放弃、委托，指将韩、魏置于前线",
               "type": "实词"
             },
             {
               "word": "区区",
               "pinyin": "qū qū",
-              "meaning": "小小的",
+              "meaning": "形容词，小、微不足道，形容韩、魏国力弱小",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接修饰语'区区'和中心语'韩、魏'",
               "type": "虚词"
             },
             {
               "word": "韩",
               "pinyin": "hán",
-              "meaning": "韩国",
+              "meaning": "战国七雄之一，位于今河南中部，国力较弱",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "wèi",
-              "meaning": "魏国",
+              "meaning": "战国七雄之一，位于今河南北部、山西南部，与韩相邻",
               "type": "地名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，用来、以便，表目的，引出后续动作",
               "type": "虚词"
             },
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "抵挡",
+              "meaning": "此处读 dāng，义为抵挡、对抗，指韩、魏面对秦国",
               "type": "实词"
             },
             {
               "word": "强",
               "pinyin": "qiáng",
-              "meaning": "强大的",
+              "meaning": "形容词，强大的，修饰秦国",
               "type": "实词"
             },
             {
-              "word": "虎狼",
-              "pinyin": "hǔ láng",
-              "meaning": "像虎狼一样",
+              "word": "虎",
+              "pinyin": "hǔ",
+              "meaning": "名词，老虎，比喻秦国的凶暴",
+              "type": "实词"
+            },
+            {
+              "word": "狼",
+              "pinyin": "láng",
+              "meaning": "名词，狼，比喻秦国的贪婪",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接'虎狼'和'秦'",
               "type": "虚词"
             },
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
+              "meaning": "战国七雄之一，位于今陕西，以军事扩张著称",
               "type": "地名"
             },
             {
               "word": "彼",
               "pinyin": "bǐ",
-              "meaning": "他们",
-              "type": "实词"
+              "meaning": "代词，他们，指韩、魏两国",
+              "type": "虚词"
             },
             {
-              "word": "安得",
-              "pinyin": "ān dé",
-              "meaning": "怎能",
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "疑问代词，怎么，表反问语气",
+              "type": "虚词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能愿动词，能够，表示动作的可能性",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，不，表示否定",
               "type": "虚词"
             },
             {
               "word": "折",
               "pinyin": "zhé",
-              "meaning": "屈服",
+              "meaning": "动词，屈服、折服，指韩、魏被迫屈服",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承，连接'折'和'入'两个动作",
               "type": "虚词"
             },
             {
-              "word": "入于",
-              "pinyin": "rù yú",
-              "meaning": "进入于",
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "动词，进入、归附，指韩、魏投靠秦国",
               "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，到，引进处所'秦'",
+              "type": "虚词"
             },
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
+              "meaning": "地名，同前，指秦国",
               "type": "地名"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "吗",
+              "meaning": "句末语气词，呢，表反问，加强语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "韩、魏折而入于秦，然后秦人得通其兵于东诸侯，而使天下遍受其祸。",
-          "translation": "韩国和魏国屈服并投入秦国，然后秦国能够将军队通行到东方的诸侯国，从而使得天下普遍遭受秦国的祸害。",
+          "translation": "韩、魏一旦屈服归附秦国，秦国便能畅通无阻地出兵攻打东方的诸侯国，从而使天下普遍蒙受灾祸。",
           "words": [
             {
               "word": "韩",
               "pinyin": "hán",
-              "meaning": "韩国",
+              "meaning": "地名，同前，指韩国",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "wèi",
-              "meaning": "魏国",
+              "meaning": "地名，同前，指魏国",
               "type": "地名"
             },
             {
               "word": "折",
               "pinyin": "zhé",
-              "meaning": "屈服",
+              "meaning": "动词，屈服，指韩、魏屈服于秦",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承，连接'折'和'入'",
               "type": "虚词"
             },
             {
-              "word": "入于",
-              "pinyin": "rù yú",
-              "meaning": "进入于",
-              "type": "实词"
-            },
-            {
-              "word": "秦",
-              "pinyin": "qín",
-              "meaning": "秦国",
-              "type": "地名"
-            },
-            {
-              "word": "然后",
-              "pinyin": "rán hòu",
-              "meaning": "然后",
-              "type": "虚词"
-            },
-            {
-              "word": "秦人",
-              "pinyin": "qín rén",
-              "meaning": "秦国人",
-              "type": "实词"
-            },
-            {
-              "word": "得",
-              "pinyin": "dé",
-              "meaning": "能够",
-              "type": "实词"
-            },
-            {
-              "word": "通",
-              "pinyin": "tōng",
-              "meaning": "通行",
-              "type": "实词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "他们的",
-              "type": "实词"
-            },
-            {
-              "word": "兵",
-              "pinyin": "bīng",
-              "meaning": "军队",
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "动词，进入、归附，指韩、魏成为秦国附庸",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，到，引进对象'秦'",
               "type": "虚词"
             },
             {
-              "word": "东诸侯",
-              "pinyin": "dōng zhū hóu",
-              "meaning": "东方诸侯",
-              "type": "实词"
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "地名，同前，指秦国",
+              "type": "地名"
             },
             {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "并且",
+              "word": "然后",
+              "pinyin": "rán hòu",
+              "meaning": "连词，这样以后，表顺承，指前述情况之后",
               "type": "虚词"
             },
             {
-              "word": "使",
-              "pinyin": "shǐ",
-              "meaning": "让",
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "地名，秦国",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，人、人民，这里指秦国军队或统治者",
               "type": "实词"
             },
             {
-              "word": "天下",
-              "pinyin": "tiān xià",
-              "meaning": "天下",
-              "type": "实词"
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能愿动词，能够，表示条件允许",
+              "type": "虚词"
             },
             {
-              "word": "遍受",
-              "pinyin": "biàn shòu",
-              "meaning": "普遍遭受",
+              "word": "通",
+              "pinyin": "tōng",
+              "meaning": "动词，通过、打通，指秦军得以通行",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，他们的，指秦国的",
+              "type": "虚词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "名词，军队，指秦国的军事力量",
               "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，到，引进方向'东诸侯'",
+              "type": "虚词"
+            },
+            {
+              "word": "东",
+              "pinyin": "dōng",
+              "meaning": "方位名词，东方，指崤山以东地区",
+              "type": "实词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "古代分封各国的君主，这里指东方的齐、楚等诸侯国",
+              "type": "官职"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表顺承，连接前后分句",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "动词，让、致使，表示导致某种结果",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "名词，全国或全天下的国家，泛指各诸侯国",
+              "type": "实词"
+            },
+            {
+              "word": "遍",
+              "pinyin": "biàn",
+              "meaning": "副词，普遍地，修饰'受'",
+              "type": "实词"
+            },
+            {
+              "word": "受",
+              "pinyin": "shòu",
+              "meaning": "动词，遭受，指承受祸害",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，它的，指秦国的",
+              "type": "虚词"
             },
             {
               "word": "祸",
               "pinyin": "huò",
-              "meaning": "祸害",
+              "meaning": "名词，祸害、灾难，指秦国的侵略",
               "type": "实词"
             }
           ]
@@ -1840,131 +1894,173 @@
     },
     {
       "original": "夫韩、魏不能独当秦，而天下之诸侯藉之以蔽其西，故莫如厚韩亲魏以摈秦。",
-      "translation": "韩国和魏国不能单独抵挡秦国，而天下的诸侯依靠它们来遮蔽自己的西面，所以不如厚待韩国、亲近魏国来排斥秦国。",
+      "translation": "韩国和魏国无法独自抵抗秦国，而其他诸侯国需要依靠它们来屏障西方，因此不如厚待韩国、亲近魏国，以共同抵御秦国。",
       "sentences": [
         {
-          "original": "夫韩、魏不能独当秦，",
-          "translation": "韩国和魏国不能单独抵挡秦国，",
+          "original": "夫韩、魏不能独当秦，而天下之诸侯藉之以蔽其西，故莫如厚韩亲魏以摈秦。",
+          "translation": "韩国和魏国不能单独抵挡秦国，而天下的诸侯国要凭借它们来遮蔽自己的西面，所以不如厚待韩国、亲近魏国来抵御秦国。",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "此处读 fú，义为句首发语词，表示议论开始（区别于 fū 之'丈夫'义）",
               "type": "虚词"
             },
             {
               "word": "韩",
-              "pinyin": "Hán",
-              "meaning": "韩国",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，在今河南中部",
               "type": "地名"
             },
             {
               "word": "魏",
-              "pinyin": "Wèi",
-              "meaning": "魏国",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，在今山西南部、河南北部",
               "type": "地名"
             },
             {
-              "word": "不能",
-              "pinyin": "bù néng",
-              "meaning": "不能够",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能够，有能力",
               "type": "实词"
             },
             {
-              "word": "独当",
-              "pinyin": "dú dāng",
-              "meaning": "单独抵挡",
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "独自，单独",
+              "type": "实词"
+            },
+            {
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "此处读 dāng，义为抵挡、抵抗（区别于 dàng 之'恰当'义）",
               "type": "实词"
             },
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，在今陕西一带，最强大",
               "type": "地名"
-            }
-          ]
-        },
-        {
-          "original": "而天下之诸侯藉之以蔽其西，",
-          "translation": "而天下的诸侯依靠它们来遮蔽自己的西面，",
-          "words": [
+            },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表示转折，相当于'但是'",
               "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下各国",
+              "meaning": "指全国或诸侯各国",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示所属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯国",
+              "meaning": "古代分封的各国君主，如公、侯、伯等",
+              "type": "官职"
+            },
+            {
+              "word": "藉",
+              "pinyin": "jiè",
+              "meaning": "凭借，依靠",
               "type": "实词"
             },
             {
-              "word": "藉之",
-              "pinyin": "jiè zhī",
-              "meaning": "凭借他们",
-              "type": "实词"
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代韩、魏两国",
+              "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，相当于'用来'",
               "type": "虚词"
             },
             {
-              "word": "蔽其西",
-              "pinyin": "bì qí xī",
-              "meaning": "遮蔽西面",
+              "word": "蔽",
+              "pinyin": "bì",
+              "meaning": "遮蔽，掩护",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "故莫如厚韩亲魏以摈秦。",
-          "translation": "所以不如厚待韩国、亲近魏国来排斥秦国。",
-          "words": [
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，指代天下之诸侯",
+              "type": "虚词"
+            },
+            {
+              "word": "西",
+              "pinyin": "xī",
+              "meaning": "西边，西部边境",
+              "type": "实词"
+            },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示结果，所以",
               "type": "虚词"
             },
             {
               "word": "莫如",
               "pinyin": "mò rú",
-              "meaning": "不如",
+              "meaning": "固定结构，表示建议，相当于'不如'",
+              "type": "虚词"
+            },
+            {
+              "word": "厚",
+              "pinyin": "hòu",
+              "meaning": "厚待，优待",
               "type": "实词"
             },
             {
-              "word": "厚韩亲魏",
-              "pinyin": "hòu Hán qīn Wèi",
-              "meaning": "厚待韩亲近魏",
+              "word": "韩",
+              "pinyin": "hán",
+              "meaning": "战国七雄之一，在今河南中部",
+              "type": "地名"
+            },
+            {
+              "word": "亲",
+              "pinyin": "qīn",
+              "meaning": "亲近，联合",
               "type": "实词"
+            },
+            {
+              "word": "魏",
+              "pinyin": "wèi",
+              "meaning": "战国七雄之一，在今山西南部、河南北部",
+              "type": "地名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，相当于'来'",
               "type": "虚词"
             },
             {
-              "word": "摈秦",
-              "pinyin": "bìn Qín",
-              "meaning": "排斥秦国",
+              "word": "摈",
+              "pinyin": "bìn",
+              "meaning": "排斥，抵制",
               "type": "实词"
+            },
+            {
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，在今陕西一带，最强大",
+              "type": "地名"
             }
           ]
         }
@@ -1972,430 +2068,502 @@
     },
     {
       "original": "秦人不敢逾韩、魏以窥齐、楚、燕、赵之国，而齐、楚、燕、赵之国，因得以自完于其间矣。以四无事之国，佐当寇之韩、魏，使韩、魏无东顾之忧，而为天下出身以当秦兵。以二国委秦，而四国休息于内，以阴助其急，若此可以应夫无穷。",
-      "translation": "秦国不敢越过韩国和魏国来窥视齐、楚、燕、赵等国，而齐、楚、燕、赵等国因此能够在其中保全自己。用四个没有战事的国家，来辅助面对敌寇的韩国和魏国，使韩国和魏国没有东顾之忧，并为天下挺身而出抵挡秦军。让韩国和魏国去对付秦国，而四个国家在内部休养生息，暗中援助他们的紧急情况，像这样就可以应对无穷的变化。",
+      "translation": "秦国人不敢越过韩国和魏国来图谋齐、楚、燕、赵四国，而齐、楚、燕、赵四国因此能够在它们之间自我保全。用四个没有战事的国家，辅助面对敌寇的韩国和魏国，使韩国和魏国没有东顾的忧虑，从而为天下挺身而出抵挡秦军。让韩、魏两国对付秦国，而四国在国内休养生息，暗中援助他们的紧急情况，像这样就可以应对无穷的祸患。",
       "sentences": [
         {
           "original": "秦人不敢逾韩、魏以窥齐、楚、燕、赵之国，而齐、楚、燕、赵之国，因得以自完于其间矣。",
-          "translation": "秦国不敢越过韩国和魏国来窥视齐、楚、燕、赵等国，而齐、楚、燕、赵等国因此能够在其中保全自己。",
+          "translation": "秦国人不敢越过韩国和魏国来图谋齐国、楚国、燕国和赵国，而齐、楚、燕、赵四国因此能够在它们之间自我保全。",
           "words": [
             {
-              "word": "秦人",
-              "pinyin": "Qín rén",
-              "meaning": "秦国人",
+              "word": "秦",
+              "pinyin": "Qín",
+              "meaning": "战国七雄之一，位于西方，都城咸阳，后统一六国。",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "这里指秦国之人，即秦国人。",
               "type": "实词"
             },
             {
-              "word": "不敢",
-              "pinyin": "bù gǎn",
-              "meaning": "不敢",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示对'敢逾'这一动作的否定。",
+              "type": "虚词"
+            },
+            {
+              "word": "敢",
+              "pinyin": "gǎn",
+              "meaning": "动词，敢于、有胆量。",
               "type": "实词"
             },
             {
               "word": "逾",
               "pinyin": "yú",
-              "meaning": "越过",
+              "meaning": "动词，越过、穿越。",
               "type": "实词"
             },
             {
               "word": "韩",
               "pinyin": "Hán",
-              "meaning": "韩国",
+              "meaning": "战国七雄之一，位于中原，今河南中部，与魏国相邻。",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "Wèi",
-              "meaning": "魏国",
+              "meaning": "战国七雄之一，位于中原，今河南北部、山西南部，与韩国相邻。",
               "type": "地名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，连接'逾韩、魏'和'窥齐、楚、燕、赵之国'，相当于'来'。",
               "type": "虚词"
             },
             {
               "word": "窥",
               "pinyin": "kuī",
-              "meaning": "窥视",
+              "meaning": "动词，窥视、觊觎，暗中观察以图谋。",
               "type": "实词"
             },
             {
               "word": "齐",
               "pinyin": "Qí",
-              "meaning": "齐国",
+              "meaning": "战国七雄之一，位于东方，今山东北部，都城临淄。",
               "type": "地名"
             },
             {
               "word": "楚",
               "pinyin": "Chǔ",
-              "meaning": "楚国",
+              "meaning": "战国七雄之一，位于南方，今湖北、湖南一带，都城郢。",
               "type": "地名"
             },
             {
               "word": "燕",
               "pinyin": "Yān",
-              "meaning": "燕国",
+              "meaning": "战国七雄之一，位于北方，今河北北部，都城蓟。",
               "type": "地名"
             },
             {
               "word": "赵",
               "pinyin": "Zhào",
-              "meaning": "赵国",
+              "meaning": "战国七雄之一，位于北方，今河北南部、山西北部，都城邯郸。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'齐、楚、燕、赵'和中心词'国'。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "名词，国家。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表示顺承关系，连接前后两个分句。",
               "type": "虚词"
             },
             {
               "word": "齐",
               "pinyin": "Qí",
-              "meaning": "齐国",
+              "meaning": "同上，指齐国。",
               "type": "地名"
             },
             {
               "word": "楚",
               "pinyin": "Chǔ",
-              "meaning": "楚国",
+              "meaning": "同上，指楚国。",
               "type": "地名"
             },
             {
               "word": "燕",
               "pinyin": "Yān",
-              "meaning": "燕国",
+              "meaning": "同上，指燕国。",
               "type": "地名"
             },
             {
               "word": "赵",
               "pinyin": "Zhào",
-              "meaning": "赵国",
+              "meaning": "同上，指赵国。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'齐、楚、燕、赵'和中心词'国'。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "名词，国家。",
               "type": "实词"
             },
             {
               "word": "因",
               "pinyin": "yīn",
-              "meaning": "因此",
+              "meaning": "介词，表示凭借、依靠，后接'得以自完'。",
               "type": "虚词"
             },
             {
-              "word": "得以",
-              "pinyin": "dé yǐ",
-              "meaning": "能够",
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "动词，能够。",
               "type": "实词"
             },
             {
-              "word": "自完",
-              "pinyin": "zì wán",
-              "meaning": "自我保全",
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "连词，表示结果，连接'因得'和'自完'，相当于'而'。",
+              "type": "虚词"
+            },
+            {
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "人称代词，指代自己，这里指齐、楚、燕、赵四国自身。",
+              "type": "虚词"
+            },
+            {
+              "word": "完",
+              "pinyin": "wán",
+              "meaning": "动词，保全、使完整。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，相当于'在'。",
               "type": "虚词"
             },
             {
-              "word": "其间",
-              "pinyin": "qí jiān",
-              "meaning": "其中",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "指示代词，指代韩、魏两国之间。",
+              "type": "虚词"
+            },
+            {
+              "word": "间",
+              "pinyin": "jiān",
+              "meaning": "此处读jiān，义为名词，中间、期间。",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表示肯定和完成，相当于'了'。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "以四无事之国，佐当寇之韩、魏，使韩、魏无东顾之忧，而为天下出身以当秦兵。",
-          "translation": "用四个没有战事的国家，来辅助面对敌寇的韩国和魏国，使韩国和魏国没有东顾之忧，并为天下挺身而出抵挡秦军。",
+          "translation": "用四个没有战事的国家，来辅助面对敌寇的韩国和魏国，使韩国和魏国没有东顾的忧虑，从而为天下挺身而出抵挡秦军。",
           "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借、用，后接'四无事之国'。",
               "type": "虚词"
             },
             {
               "word": "四",
               "pinyin": "sì",
-              "meaning": "四个",
+              "meaning": "数词，四个。",
               "type": "实词"
             },
             {
-              "word": "无事",
-              "pinyin": "wú shì",
-              "meaning": "没有战事",
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，没有。",
+              "type": "实词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "名词，战事、事务。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'四无事'和中心词'国'。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "名词，国家。",
               "type": "实词"
             },
             {
               "word": "佐",
               "pinyin": "zuǒ",
-              "meaning": "辅助",
+              "meaning": "动词，辅助、支援。",
               "type": "实词"
             },
             {
-              "word": "当寇",
-              "pinyin": "dāng kòu",
-              "meaning": "面对敌人",
+              "word": "当",
+              "pinyin": "dāng",
+              "meaning": "此处读dāng，义为动词，面对、抵挡。",
+              "type": "实词"
+            },
+            {
+              "word": "寇",
+              "pinyin": "kòu",
+              "meaning": "名词，敌人、入侵者，这里指秦国。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'当寇'和中心词'韩、魏'。",
               "type": "虚词"
             },
             {
               "word": "韩",
               "pinyin": "Hán",
-              "meaning": "韩国",
+              "meaning": "战国七雄之一，位于中原，今河南中部。",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "Wèi",
-              "meaning": "魏国",
+              "meaning": "战国七雄之一，位于中原，今河南北部、山西南部。",
               "type": "地名"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让、使得。",
               "type": "实词"
             },
             {
               "word": "韩",
               "pinyin": "Hán",
-              "meaning": "韩国",
+              "meaning": "同上，指韩国。",
               "type": "地名"
             },
             {
               "word": "魏",
               "pinyin": "Wèi",
-              "meaning": "魏国",
+              "meaning": "同上，指魏国。",
               "type": "地名"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有。",
               "type": "实词"
             },
             {
-              "word": "东顾",
-              "pinyin": "dōng gù",
-              "meaning": "向东看顾",
+              "word": "东",
+              "pinyin": "dōng",
+              "meaning": "方位名词，向东。",
+              "type": "实词"
+            },
+            {
+              "word": "顾",
+              "pinyin": "gù",
+              "meaning": "动词，回头看、顾及。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'东顾'和中心词'忧'。",
               "type": "虚词"
             },
             {
               "word": "忧",
               "pinyin": "yōu",
-              "meaning": "忧虑",
+              "meaning": "名词，忧虑、担忧。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表示顺承关系，连接前后两个分句。",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "为了",
+              "meaning": "此处读wèi，义为介词，表示目的，相当于'为了'。",
               "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "名词，指天下的人或整个国家。",
               "type": "实词"
             },
             {
-              "word": "出身",
-              "pinyin": "chū shēn",
-              "meaning": "挺身而出",
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "动词，挺身、出面。",
+              "type": "实词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "名词，身体、自身。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，连接'出身'和'当秦兵'，相当于'来'。",
               "type": "虚词"
             },
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "抵挡",
+              "meaning": "此处读dāng，义为动词，抵挡、对抗。",
               "type": "实词"
             },
             {
-              "word": "秦兵",
-              "pinyin": "Qín bīng",
-              "meaning": "秦军",
+              "word": "秦",
+              "pinyin": "Qín",
+              "meaning": "战国七雄之一，位于西方，都城咸阳。",
+              "type": "地名"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "名词，军队。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "以二国委秦，而四国休息于内，以阴助其急，若此可以应夫无穷。",
-          "translation": "让韩国和魏国去对付秦国，而四个国家在内部休养生息，暗中援助他们的紧急情况，像这样就可以应对无穷的变化。",
+          "translation": "让韩、魏两国对付秦国，而四国在国内休养生息，暗中援助他们的紧急情况，像这样就可以应对无穷的祸患。",
           "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，引出动作行为所凭借的对象，相当于“用”、“凭借”",
               "type": "虚词"
             },
             {
               "word": "二国",
               "pinyin": "èr guó",
-              "meaning": "两个国家",
+              "meaning": "指上文所说的韩、魏两国",
               "type": "实词"
             },
             {
               "word": "委",
               "pinyin": "wěi",
-              "meaning": "委托",
+              "meaning": "托付，委任，此处指让韩魏两国承担抵挡秦国的重任",
               "type": "实词"
             },
             {
               "word": "秦",
               "pinyin": "Qín",
-              "meaning": "秦国",
+              "meaning": "战国七雄之一，都城在咸阳，本文中为被抵御的强国",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折关系，然而，但是",
               "type": "虚词"
             },
             {
               "word": "四国",
               "pinyin": "sì guó",
-              "meaning": "四个国家",
+              "meaning": "指上文所说的齐、楚、燕、赵四国",
               "type": "实词"
             },
             {
               "word": "休息",
-              "pinyin": "xiū xī",
-              "meaning": "休息",
+              "pinyin": "xiū xi",
+              "meaning": "休整，休养",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表处所，在",
               "type": "虚词"
             },
             {
               "word": "内",
               "pinyin": "nèi",
-              "meaning": "内部",
+              "meaning": "内部，国内",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
-              "word": "阴助",
-              "pinyin": "yīn zhù",
-              "meaning": "暗中帮助",
+              "word": "阴",
+              "pinyin": "yīn",
+              "meaning": "暗中，秘密地",
+              "type": "实词"
+            },
+            {
+              "word": "助",
+              "pinyin": "zhù",
+              "meaning": "帮助，支援",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "代词，指代韩、魏二国",
               "type": "虚词"
             },
             {
               "word": "急",
               "pinyin": "jí",
-              "meaning": "急难",
+              "meaning": "形容词用作名词，危急的情况",
               "type": "实词"
             },
             {
               "word": "若此",
               "pinyin": "ruò cǐ",
-              "meaning": "像这样",
+              "meaning": "固定结构，像这样",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "助动词，可以",
               "type": "实词"
             },
             {
-              "word": "可以",
-              "pinyin": "kě yǐ",
-              "meaning": "可以",
-              "type": "实词"
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，用来",
+              "type": "虚词"
             },
             {
               "word": "应",
               "pinyin": "yìng",
-              "meaning": "应对",
+              "meaning": "此处读 yìng，义为应对，应付",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "那",
+              "meaning": "句中语气助词，无实义",
               "type": "虚词"
             },
             {
               "word": "无穷",
               "pinyin": "wú qióng",
-              "meaning": "无穷尽",
+              "meaning": "没有穷尽，持久不断",
               "type": "实词"
             }
           ]
@@ -2404,328 +2572,322 @@
     },
     {
       "original": "彼秦者将何为哉？不知出此，而乃贪疆场尺寸之利，背盟败约，以自相屠灭，秦兵未出，而天下诸侯已自困矣。至于秦人得伺其隙以取其国，可不悲哉！",
-      "translation": "秦国又能有什么作为呢？（诸侯们）不知道这样做，却贪图边境上微小的利益，背弃盟约，自相残杀，秦军尚未出动，天下诸侯已经自己困顿不堪了。以至于秦国人得以趁机攻取他们的国家，这难道不悲哀吗？",
+      "translation": "那个秦国还能做什么呢？六国不知道采用这个策略，却贪图边界上微小的利益，背弃盟约，自相残杀，秦国的军队还没有出动，天下的诸侯已经自己陷入困境了。以至于秦国人能够窥伺他们的空隙来夺取他们的国家，这难道不悲哀吗？",
       "sentences": [
         {
           "original": "彼秦者将何为哉？",
-          "translation": "秦国又能有什么作为呢？",
+          "translation": "那个秦国还能做什么呢？",
           "words": [
             {
               "word": "彼",
               "pinyin": "bǐ",
-              "meaning": "那个",
-              "type": "实词"
+              "meaning": "指示代词，那、那个，在句中指代秦国",
+              "type": "虚词"
             },
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
-              "type": "实词"
+              "meaning": "国名，战国七雄之一，都城在咸阳",
+              "type": "地名"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "助词，表停顿",
+              "meaning": "助词，用在主语“彼秦”后，表示停顿并引出谓语",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "副词，将要、打算",
               "type": "虚词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "什么",
-              "type": "实词"
+              "meaning": "疑问代词，什么，作动词“为”的宾语",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "做",
+              "meaning": "动词，做、干",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "语气词，吗",
+              "meaning": "句末语气词，与疑问代词“何”配合，表示反问语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "不知出此，而乃贪疆场尺寸之利，背盟败约，以自相屠灭，",
-          "translation": "（诸侯们）不知道这样做，却贪图边境上微小的利益，背弃盟约，自相残杀，",
+          "translation": "不知道采用这种策略，却贪图边界上微小的利益，背弃盟约，自相残杀，",
           "words": [
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "提出",
+              "meaning": "动词，提出、施行",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这个",
-              "type": "实词"
+              "meaning": "指示代词，这、这个，指代上文“赂秦”或“团结抗秦”的策略",
+              "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表示转折关系，却、反而",
               "type": "虚词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "却",
+              "meaning": "副词，表示出乎意料，竟然、却",
               "type": "虚词"
             },
             {
               "word": "贪",
               "pinyin": "tān",
-              "meaning": "贪图",
+              "meaning": "动词，贪图、贪求",
               "type": "实词"
             },
             {
               "word": "疆场",
-              "pinyin": "jiāng chǎng",
-              "meaning": "边界",
+              "pinyin": "jiāng yì",
+              "meaning": "名词，国界、边境。此处“场”读 yì，指边界（区别于 chǎng 之‘场所’义）",
               "type": "实词"
             },
             {
               "word": "尺寸",
               "pinyin": "chǐ cùn",
-              "meaning": "微小",
+              "meaning": "形容词，形容极其微小、一点点",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”，连接定语“尺寸”和中心语“利”",
               "type": "虚词"
             },
             {
               "word": "利",
               "pinyin": "lì",
-              "meaning": "利益",
+              "meaning": "名词，利益、好处",
               "type": "实词"
             },
             {
               "word": "背",
               "pinyin": "bèi",
-              "meaning": "违背",
+              "meaning": "动词，违背、背叛",
               "type": "实词"
             },
             {
               "word": "盟",
               "pinyin": "méng",
-              "meaning": "盟约",
+              "meaning": "名词，盟约、誓约",
               "type": "实词"
             },
             {
               "word": "败",
               "pinyin": "bài",
-              "meaning": "破坏",
+              "meaning": "动词，毁坏、破坏",
               "type": "实词"
             },
             {
               "word": "约",
               "pinyin": "yuē",
-              "meaning": "条约",
+              "meaning": "名词，约定、契约",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "以致",
+              "meaning": "连词，表示目的，以便、用来",
               "type": "虚词"
             },
             {
-              "word": "自相",
-              "pinyin": "zì xiāng",
-              "meaning": "互相",
-              "type": "实词"
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "代词，自己，指代六国诸侯彼此之间",
+              "type": "虚词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiāng",
+              "meaning": "副词，表示动作交互，互相",
+              "type": "虚词"
             },
             {
               "word": "屠灭",
               "pinyin": "tú miè",
-              "meaning": "屠杀消灭",
+              "meaning": "动词，屠杀消灭",
               "type": "实词"
             }
           ]
         },
         {
           "original": "秦兵未出，而天下诸侯已自困矣。",
-          "translation": "秦军尚未出动，天下诸侯已经自己困顿不堪了。",
+          "translation": "秦国的军队还没有出动，天下的诸侯已经自己陷入困境了。",
           "words": [
             {
-              "word": "秦",
-              "pinyin": "qín",
-              "meaning": "秦国",
-              "type": "实词"
-            },
-            {
-              "word": "兵",
-              "pinyin": "bīng",
-              "meaning": "军队",
+              "word": "秦兵",
+              "pinyin": "qín bīng",
+              "meaning": "秦国的军队，指战国时期秦国的军事力量。",
               "type": "实词"
             },
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
+              "meaning": "副词，表示否定，相当于'没有'，修饰'出'表示秦兵未曾出动。",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出动",
+              "meaning": "动词，出动、出兵，指秦兵没有对外发动进攻。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表示转折，然而、但是，连接前后两个分句，强调秦兵未出但诸侯已困的对比。",
               "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "指战国时期的各诸侯国，整个中原地区。",
               "type": "实词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代分封的各国君主，在本文中指除秦外的六国等诸侯国君。",
+              "type": "官职"
             },
             {
               "word": "已",
               "pinyin": "yǐ",
-              "meaning": "已经",
+              "meaning": "副词，已经，表示动作完成，天下诸侯已经陷入困顿状态。",
               "type": "虚词"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "自己",
-              "type": "实词"
+              "meaning": "代词，自己，指天下诸侯自身。",
+              "type": "虚词"
             },
             {
               "word": "困",
               "pinyin": "kùn",
-              "meaning": "困顿",
+              "meaning": "动词，困顿、疲惫，指天下诸侯因内耗而衰弱。",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表示已然状态，肯定天下诸侯已经自困的事实。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "至于秦人得伺其隙以取其国，可不悲哉！",
-          "translation": "以至于秦国人得以趁机攻取他们的国家，这难道不悲哀吗？",
+          "translation": "以至于秦国人能够窥伺他们的空隙来夺取他们的国家，这难道不悲哀吗？",
           "words": [
             {
               "word": "至于",
               "pinyin": "zhì yú",
-              "meaning": "表示转折",
+              "meaning": "固定结构，表示'到……地步'，在本句中引出秦人伺机取国的结果。",
               "type": "虚词"
             },
             {
               "word": "秦人",
-              "pinyin": "Qín rén",
-              "meaning": "秦国人",
+              "pinyin": "qín rén",
+              "meaning": "指秦国人，在本文中特指秦国军队或统治者。",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "能够",
+              "meaning": "动词，能够、得以，表示秦人有机会或条件行动。",
               "type": "实词"
             },
             {
               "word": "伺",
               "pinyin": "sì",
-              "meaning": "窥伺",
+              "meaning": "动词，窥伺、等待机会，指秦人观察诸侯的弱点。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "代词，他们的，指天下诸侯的，作定语修饰'隙'。",
               "type": "虚词"
             },
             {
               "word": "隙",
               "pinyin": "xì",
-              "meaning": "间隙",
+              "meaning": "名词，间隙、可乘之机，指诸侯的弱点或内部矛盾。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，来、用来，连接'伺其隙'和'取其国'。",
               "type": "虚词"
             },
             {
               "word": "取",
               "pinyin": "qǔ",
-              "meaning": "夺取",
+              "meaning": "动词，夺取、攻取，指秦人占领诸侯的国家。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "代词，他们的，指天下诸侯的，作定语修饰'国'。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "名词，国家，指诸侯的领土和政权。",
               "type": "实词"
             },
             {
-              "word": "可",
-              "pinyin": "kě",
-              "meaning": "难道",
-              "type": "虚词"
-            },
-            {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
+              "word": "可不",
+              "pinyin": "kě bù",
+              "meaning": "固定结构，表示反问，'难道不'，与'哉'呼应构成反问句。",
               "type": "虚词"
             },
             {
               "word": "悲",
               "pinyin": "bēi",
-              "meaning": "悲哀",
+              "meaning": "形容词，悲哀、可悲，指诸侯自取灭亡的结局令人痛心。",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示感叹或反问，在本句中加强反问语气，意为'吗'。",
               "type": "虚词"
             }
           ]

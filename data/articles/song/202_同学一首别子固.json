@@ -1,215 +1,241 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "202_同学一首别子固",
   "title": "同学一首别子固",
   "author": {
     "id": "song_王安石",
     "name": "王安石",
     "dynasty": "song",
-    "bio": "王安石（1021年－1086年），字介甫，号半山，北宋临川（今江西抚州）人。著名政治家、文学家、思想家，唐宋八大家之一。他主持熙宁变法，试图改革积弊，文学上主张文道合一，文章简洁峻切，逻辑严密。代表作有《泊船瓜洲》《游褒禅山记》等，对后世影响深远。"
+    "bio": "王安石（1021-1086），字介甫，号半山，抚州临川人。北宋政治家、文学家。历任扬州签判、知常州等职，官至宰相，主持熙宁变法。文学上为唐宋八大家之一，散文主张实用，风格雄健简练，代表作有《临川集》、《答司马谏议书》等；诗歌清新刚健，如《泊船瓜洲》。"
   },
   "source": "",
   "dynasty": "song",
   "volume": 11,
-  "background": "本文是北宋文学家王安石写给好友曾巩（字子固）的告别之作。王安石与曾巩及另一位贤人孙侔（字正之）志同道合，均推崇儒家圣人之道，追求中庸境界。文章写于王安石因公务和私事缠身，与友人难以常聚之际，通过对比两位贤人的言行相似性，表达对学术友谊的珍视和相互勉励之情。背景反映了宋代士人以文会友、以道相交的风气，以及王安石在政治生涯中对道德学问的执着追求。",
-  "appreciation": "《同学一首别子固》以简洁古朴的笔法，展现了王安石对贤人友谊和儒家理想的深刻思考。文章开篇以“江之南”与“淮之南”对仗引出子固与正之两位贤人，通过“非今所谓贤人者”的重复强调，突出他们超越流俗的品质。核心部分论证两人“未尝相过”却言行相似，归因于“学圣人而已矣”，体现了儒家道统的普遍性。王安石自述参与其中，以“辅而进之”表达谦逊与共进之志，结尾点明“官有守，私有系”的现实无奈，使告别之情真挚动人。全文结构严谨，议论与抒情交融，语言简练而意蕴深远，反映了宋代古文注重理趣、崇尚简淡的风格，同时彰显了王安石作为政治家和文学家的双重气质。",
+  "background": "北宋仁宗庆历年间，政治上积贫积弱现象初显，文化上儒学复兴与古文运动兴起。王安石时年约三十岁，在地方任职如扬州签判，与曾巩（字子固）等友人交游密切，共同倡导古文。本文写于一次与曾巩分别后，王安石感于曾巩与友人孙正之虽未直接交往，却因共同学圣人而志趣相投，故作此文以赠别，表达对友情的珍视，并阐述共同追求中庸之道的志向。",
+  "appreciation": "本文为赠序体散文，融合叙事、议论与抒情。结构上，开篇并提江南子固与淮之南正之两位贤人，通过对比其言行相似性，引出“学圣人”的核心观点；中间以自身经历佐证二贤的相信不疑；结尾抒发离别之情，并表达共同追求中庸的志向。艺术特色上，语言简洁明快，多用排比句式，如“足未尝相过也，口未尝相语也，辞币未尝相接也”，增强节奏感；逻辑严密，从具体事例上升到哲理讨论。思想内涵强调道德修养与友情基础，主张以圣人为师，追求中庸境界，反映了宋代士大夫以道自任的精神。此文体现了王安石散文的峻洁风格，在宋代赠序文中具有代表性。",
   "tags": [
-    "宋代古文",
-    "友谊与学术",
-    "儒家思想"
+    "议论",
+    "抒情",
+    "友情",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "江之南有贤人焉，字子固，非今所谓贤人者，予慕而友之。淮之南有贤人焉，字正之，非今所谓贤人者，予慕而友之。",
-      "translation": "长江的南边有一位贤人，字子固，不是当今所说的那种贤人，我仰慕他并和他交朋友。淮河的南边有一位贤人，字正之，不是当今所说的那种贤人，我仰慕他并和他交朋友。",
+      "translation": "在长江以南，有一位贤人，字子固，他并非当今世俗所称的那种贤人，我仰慕他并与他结交。在淮河以南，也有一位贤人，字正之，同样不是当今所谓的贤人，我仰慕他并与他为友。",
       "sentences": [
         {
           "original": "江之南有贤人焉，字子固，非今所谓贤人者，予慕而友之。",
-          "translation": "长江的南边有一位贤人，字子固，不是当今所说的那种贤人，我仰慕他并和他交朋友。",
+          "translation": "长江以南有一位贤人，字子固，并非当今所谓的贤人，我仰慕他并和他交友。",
           "words": [
             {
               "word": "江之南",
               "pinyin": "jiāng zhī nán",
-              "meaning": "长江以南",
+              "meaning": "长江以南的地区，文中指贤人所在地理位置",
               "type": "地名"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，表示存在",
               "type": "实词"
             },
             {
               "word": "贤人",
               "pinyin": "xián rén",
-              "meaning": "贤能的人",
+              "meaning": "有德行和才能的人",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示陈述语气，相当于'了'或不译",
               "type": "虚词"
             },
             {
               "word": "字",
               "pinyin": "zì",
-              "meaning": "表字",
+              "meaning": "动词，取字，古代男子成人后另取的别名",
               "type": "实词"
             },
             {
               "word": "子固",
               "pinyin": "zǐ gù",
-              "meaning": "人名，曾巩",
+              "meaning": "曾巩的字，曾巩是北宋文学家，唐宋八大家之一，文中贤人",
               "type": "人名"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
-              "type": "虚词"
+              "meaning": "动词，不是",
+              "type": "实词"
             },
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "名词，现在，当今",
               "type": "实词"
             },
             {
-              "word": "所谓",
-              "pinyin": "suǒ wèi",
-              "meaning": "所说的",
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与动词'谓'结合构成所字结构，表示'所说的'",
               "type": "虚词"
             },
             {
-              "word": "贤人者",
-              "pinyin": "xián rén zhě",
-              "meaning": "贤人",
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "动词，说、称为",
               "type": "实词"
+            },
+            {
+              "word": "贤人",
+              "pinyin": "xián rén",
+              "meaning": "有德行和才能的人",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，与'贤人'结合表示'...的人'，构成名词性短语",
+              "type": "虚词"
             },
             {
               "word": "予",
               "pinyin": "yú",
-              "meaning": "我",
+              "meaning": "代词，我，文中作者王安石自称",
               "type": "虚词"
             },
             {
               "word": "慕",
               "pinyin": "mù",
-              "meaning": "仰慕",
+              "meaning": "动词，仰慕、敬仰",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示承接关系，连接'慕'和'友'两个动作",
               "type": "虚词"
             },
             {
               "word": "友",
               "pinyin": "yǒu",
-              "meaning": "交友",
+              "meaning": "动词，与...交友、结交为友",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代贤人子固",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "淮之南有贤人焉，字正之，非今所谓贤人者，予慕而友之。",
-          "translation": "淮河的南边有一位贤人，字正之，不是当今所说的那种贤人，我仰慕他并和他交朋友。",
+          "translation": "淮河以南有一位贤人，字正之，并非当今所谓的贤人，我仰慕他并和他交友。",
           "words": [
             {
               "word": "淮之南",
               "pinyin": "huái zhī nán",
-              "meaning": "淮河以南",
+              "meaning": "淮河以南的地区，文中指另一位贤人所在地理位置",
               "type": "地名"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，表示存在",
               "type": "实词"
             },
             {
               "word": "贤人",
               "pinyin": "xián rén",
-              "meaning": "贤能的人",
+              "meaning": "有德行和才能的人",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示陈述语气",
               "type": "虚词"
             },
             {
               "word": "字",
               "pinyin": "zì",
-              "meaning": "表字",
+              "meaning": "动词，取字",
               "type": "实词"
             },
             {
               "word": "正之",
               "pinyin": "zhèng zhī",
-              "meaning": "人名，孙侔",
+              "meaning": "王回的字，王回是北宋学者，文中贤人",
               "type": "人名"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
-              "type": "虚词"
+              "meaning": "动词，不是",
+              "type": "实词"
             },
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "名词，现在",
               "type": "实词"
             },
             {
-              "word": "所谓",
-              "pinyin": "suǒ wèi",
-              "meaning": "所说的",
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'谓'结合构成所字结构",
               "type": "虚词"
             },
             {
-              "word": "贤人者",
-              "pinyin": "xián rén zhě",
-              "meaning": "贤人",
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "动词，说、称为",
               "type": "实词"
+            },
+            {
+              "word": "贤人",
+              "pinyin": "xián rén",
+              "meaning": "有德行和才能的人",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，表示'...的人'",
+              "type": "虚词"
             },
             {
               "word": "予",
               "pinyin": "yú",
-              "meaning": "我",
+              "meaning": "代词，我",
               "type": "虚词"
             },
             {
               "word": "慕",
               "pinyin": "mù",
-              "meaning": "仰慕",
+              "meaning": "动词，仰慕",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示承接关系",
               "type": "虚词"
             },
             {
               "word": "友",
               "pinyin": "yǒu",
-              "meaning": "交友",
+              "meaning": "动词，与...交友",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代贤人正之",
               "type": "虚词"
             }
           ]
@@ -218,154 +244,142 @@
     },
     {
       "original": "二贤人者，足未尝相过也，口未尝相语也，辞币未尝相接也。其师若友，岂尽同哉？予考其言行，其不相似者何其少也！曰：学圣人而已矣。学圣人，则其师若友，必学圣人者。圣人之言行，岂有二哉？其相似也适然。",
-      "translation": "两位贤人，足迹未曾互相拜访，口舌未曾互相交谈，书信礼物也未曾互相接触。他们的老师和朋友，难道全都相同吗？我考察他们的言行，不相似的地方多么少啊！说：只是学习圣人罢了。学习圣人，那么他们的老师和朋友，必定也是学习圣人的人。圣人的言行，难道会有两种吗？他们的相似是当然的。",
+      "translation": "这两位贤人，从未互相拜访过，从未互相交谈过，也从未通过书信礼物互相联系过。他们的老师和朋友难道都相同吗？我考察他们的言行，不相似的地方多么少啊！说：只是学习圣人罢了。学习圣人，那么他们的老师和朋友必定也是学习圣人的人。圣人的言行难道有两样吗？他们的相似是当然的。",
       "sentences": [
         {
           "original": "二贤人者，足未尝相过也，口未尝相语也，辞币未尝相接也。",
-          "translation": "两位贤人，足迹未曾互相拜访，口舌未曾互相交谈，书信礼物也未曾互相接触。",
+          "translation": "这两位贤人，脚不曾互相拜访过，口不曾互相交谈过，书信礼物也不曾互相接过。",
           "words": [
             {
-              "word": "二",
-              "pinyin": "èr",
-              "meaning": "数字二",
-              "type": "实词"
-            },
-            {
-              "word": "贤人",
-              "pinyin": "xián rén",
-              "meaning": "贤能的人",
-              "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "表停顿",
+              "word": "二贤人者",
+              "pinyin": "èr xián rén zhě",
+              "meaning": "两位贤人。‘者’为助词，用在名词性成分‘二贤人’后，表提顿并引出下文。",
               "type": "虚词"
             },
             {
               "word": "足",
               "pinyin": "zú",
-              "meaning": "脚",
+              "meaning": "本义为脚，此处引申指足迹、行踪。",
               "type": "实词"
             },
             {
               "word": "未尝",
               "pinyin": "wèi cháng",
-              "meaning": "未曾",
+              "meaning": "固定结构，副词性短语，表示‘从来没有’、‘不曾’。",
               "type": "虚词"
             },
             {
               "word": "相过",
               "pinyin": "xiāng guò",
-              "meaning": "互相经过",
+              "meaning": "互相拜访、交往。‘相’此处读xiāng，义为互相；‘过’指过访。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气",
+              "meaning": "句末语气词，表陈述与肯定。",
               "type": "虚词"
             },
             {
               "word": "口",
               "pinyin": "kǒu",
-              "meaning": "嘴",
+              "meaning": "本义为嘴，此处引申指言语、言辞。",
               "type": "实词"
             },
             {
               "word": "未尝",
               "pinyin": "wèi cháng",
-              "meaning": "未曾",
+              "meaning": "固定结构，副词性短语，表示‘从来没有’、‘不曾’。",
               "type": "虚词"
             },
             {
               "word": "相语",
               "pinyin": "xiāng yǔ",
-              "meaning": "互相交谈",
+              "meaning": "互相交谈。‘相’此处读xiāng，义为互相；‘语’指交谈。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气",
+              "meaning": "句末语气词，表陈述与肯定。",
               "type": "虚词"
             },
             {
               "word": "辞币",
               "pinyin": "cí bì",
-              "meaning": "言辞礼物",
+              "meaning": "书信和礼物。‘币’古义：用作礼物的丝织品，泛指礼物（非今义‘货币’）。",
               "type": "实词"
             },
             {
               "word": "未尝",
               "pinyin": "wèi cháng",
-              "meaning": "未曾",
+              "meaning": "固定结构，副词性短语，表示‘从来没有’、‘不曾’。",
               "type": "虚词"
             },
             {
               "word": "相接",
               "pinyin": "xiāng jiē",
-              "meaning": "互相交接",
+              "meaning": "互相接触、交接，此处指互相馈赠往来。‘相’此处读xiāng，义为互相。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气",
+              "meaning": "句末语气词，表陈述与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "其师若友，岂尽同哉？",
-          "translation": "他们的老师和朋友，难道全都相同吗？",
+          "translation": "他们的老师和朋友，难道都相同吗？",
           "words": [
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
-              "type": "实词"
+              "meaning": "代词，指代上文提到的‘二贤人’，他们的。",
+              "type": "虚词"
             },
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "老师",
+              "meaning": "老师。",
               "type": "实词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "或",
+              "meaning": "连词，表并列，和、以及。",
               "type": "虚词"
             },
             {
               "word": "友",
               "pinyin": "yǒu",
-              "meaning": "朋友",
+              "meaning": "朋友。",
               "type": "实词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表反诘语气，难道。",
               "type": "虚词"
             },
             {
               "word": "尽",
               "pinyin": "jìn",
-              "meaning": "全",
-              "type": "虚词"
+              "meaning": "副词，全、都。",
+              "type": "实词"
             },
             {
               "word": "同",
               "pinyin": "tóng",
-              "meaning": "相同",
+              "meaning": "动词，相同、一样。",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "吗",
+              "meaning": "句末语气词，与‘岂’呼应，表反问语气。",
               "type": "虚词"
             }
           ]
@@ -376,62 +390,62 @@
           "words": [
             {
               "word": "予",
-              "pinyin": "yú",
-              "meaning": "我",
-              "type": "实词"
+              "pinyin": "yǔ",
+              "meaning": "人称代词，我（指作者王安石自己）",
+              "type": "虚词"
             },
             {
               "word": "考",
               "pinyin": "kǎo",
-              "meaning": "考察",
+              "meaning": "动词，考察、审察",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
-              "type": "实词"
+              "meaning": "代词，指代前文“二贤人者”（曾巩和孙侔）的",
+              "type": "虚词"
             },
             {
               "word": "言行",
               "pinyin": "yán xíng",
-              "meaning": "言语行为",
+              "meaning": "名词，言论和行为",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那",
-              "type": "实词"
+              "meaning": "代词，那些（指代前文“言行”）",
+              "type": "虚词"
             },
             {
               "word": "不相似",
               "pinyin": "bù xiāng sì",
-              "meaning": "不相似",
+              "meaning": "动词短语，不相同；此处“相”读xiāng，义为互相",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的",
+              "meaning": "助词，与动词性短语“不相似”结合，构成名词性结构，表示“...的方面”",
               "type": "虚词"
             },
             {
               "word": "何其",
               "pinyin": "hé qí",
-              "meaning": "多么",
+              "meaning": "固定结构，表示程度深，相当于“多么”",
               "type": "虚词"
             },
             {
               "word": "少",
               "pinyin": "shǎo",
-              "meaning": "少",
+              "meaning": "形容词，少、不多",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气",
+              "meaning": "句末语气词，表感叹或肯定",
               "type": "虚词"
             }
           ]
@@ -443,25 +457,25 @@
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学习",
+              "meaning": "动词，学习",
               "type": "实词"
             },
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "名词，指道德智慧极高的人，儒家理想人格",
               "type": "实词"
             },
             {
               "word": "而已矣",
               "pinyin": "ér yǐ yǐ",
-              "meaning": "罢了",
+              "meaning": "固定结构，相当于“罢了”，表示限止语气",
               "type": "虚词"
             }
           ]
@@ -473,115 +487,115 @@
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学习",
+              "meaning": "动词，学习、效法",
               "type": "实词"
             },
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "指品德智慧极高的人，儒家理想人格典范",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，表示承接关系，引出结果或结论，相当于'那么'",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代前文所述学习圣人的人的",
               "type": "虚词"
             },
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "老师",
+              "meaning": "名词，老师、导师",
               "type": "实词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "和",
+              "meaning": "连词，连接并列成分，相当于'和'",
               "type": "虚词"
             },
             {
               "word": "友",
               "pinyin": "yǒu",
-              "meaning": "朋友",
+              "meaning": "名词，朋友、同道",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
+              "meaning": "副词，表示必然性，一定、必定",
               "type": "虚词"
             },
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学习",
+              "meaning": "动词，学习、效法",
               "type": "实词"
             },
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "同前，指品德智慧极高的人",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，附着在动词性词组后，构成名词性结构，表示'...的人'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "圣人之言行，岂有二哉？",
-          "translation": "圣人的言行，难道会有两种吗？",
+          "translation": "圣人的言行，难道有两样吗？",
           "words": [
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "指品德智慧极高的人，儒家理想人格典范",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，连接定语和中心语，表示领属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "言行",
               "pinyin": "yán xíng",
-              "meaning": "言行",
+              "meaning": "名词，言论和行为",
               "type": "实词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，用于反问句，加强反问语气，难道",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在、具有",
               "type": "实词"
             },
             {
               "word": "二",
               "pinyin": "èr",
-              "meaning": "两种",
+              "meaning": "数词，两种、不同",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "吗",
+              "meaning": "语气词，常与'岂'呼应，表示反问语气",
               "type": "虚词"
             }
           ]
@@ -593,25 +607,25 @@
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
-              "type": "实词"
+              "meaning": "代词，指代前文所述二贤人的言行相似性",
+              "type": "虚词"
             },
             {
               "word": "相似",
               "pinyin": "xiāng sì",
-              "meaning": "相像",
+              "meaning": "此处'相'读xiāng，义为互相；'相似'指彼此相像，在句中形容二贤人言行的一致",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表停顿",
+              "meaning": "句中语气词，用于主谓之间，表示停顿并引出下文",
               "type": "虚词"
             },
             {
               "word": "适然",
               "pinyin": "shì rán",
-              "meaning": "恰好如此",
+              "meaning": "恰好如此，当然；在句中指言行相似是自然的结果",
               "type": "实词"
             }
           ]
@@ -620,365 +634,377 @@
     },
     {
       "original": "予在淮南，为正之道子固，正之不予疑也。还江南，为子固道正之，子固亦以为然。予又知所谓贤人者，既相似又相信不疑也。子固作《怀友》一首遗余，其大略欲相扳，以至乎中庸而后已。正之盖亦尝云尔。",
-      "translation": "我在淮南时，向正之介绍子固，正之没有怀疑我；回到江南后，向子固介绍正之，子固也认为是这样。我又知道所谓的贤人，既相似又相互信任不疑。子固写了一首《怀友》赠给我，大意是想要相互扶持，直到达到中庸的境界才停止。正之大概也曾这样说过。",
+      "translation": "我在淮南时，向正之谈起子固，正之毫不怀疑我的话。回到江南后，向子固谈起正之，子固也深以为然。我由此又知道，所谓的贤人，既志趣相投又互相信任不疑。子固写了一篇《怀友》赠给我，大意是希望互相勉励，以达到中庸的境界才罢休。正之大概也曾经这样说过。",
       "sentences": [
         {
           "original": "予在淮南，为正之道子固，正之不予疑也。",
-          "translation": "我在淮南时，向正之介绍子固，正之没有怀疑我。",
+          "translation": "我在淮南时，向正之谈起子固，正之毫不怀疑我的话。",
           "words": [
             {
               "word": "予",
               "pinyin": "yǔ",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，在本句中指作者王安石自己",
+              "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在",
-              "type": "虚词"
+              "meaning": "动词，表示所处位置或状态",
+              "type": "实词"
             },
             {
               "word": "淮南",
               "pinyin": "huái nán",
-              "meaning": "淮南地区",
+              "meaning": "地名，指淮河以南地区，北宋时为淮南东路，治所在扬州",
               "type": "地名"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "对、向",
+              "meaning": "此处读 wèi，义为介词，替、给，引出动作对象",
               "type": "虚词"
             },
             {
               "word": "正之",
               "pinyin": "zhèng zhī",
-              "meaning": "曾正之",
+              "meaning": "人名，王安石友人，字正之，北宋文人，与曾巩齐名",
               "type": "人名"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "说",
+              "meaning": "动词，说、谈论，指向他人介绍或提及",
               "type": "实词"
             },
             {
               "word": "子固",
               "pinyin": "zǐ gù",
-              "meaning": "曾子固",
+              "meaning": "人名，曾巩的字，北宋文学家，唐宋八大家之一",
               "type": "人名"
             },
             {
               "word": "正之",
               "pinyin": "zhèng zhī",
-              "meaning": "曾正之",
+              "meaning": "人名，同前指王正之",
               "type": "人名"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰动词'疑'",
               "type": "虚词"
             },
             {
               "word": "予",
               "pinyin": "yǔ",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "人称代词，指作者自己，作'疑'的宾语",
+              "type": "虚词"
             },
             {
               "word": "疑",
               "pinyin": "yí",
-              "meaning": "怀疑",
+              "meaning": "动词，怀疑、猜疑",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表肯定或判断，加强陈述语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "还江南，为子固道正之，子固亦以为然。",
-          "translation": "回到江南后，向子固介绍正之，子固也认为是这样。",
+          "translation": "回到江南后，向子固谈起正之，子固也深以为然。",
           "words": [
             {
               "word": "还",
               "pinyin": "huán",
-              "meaning": "返回",
+              "meaning": "动词，返回、回到",
               "type": "实词"
             },
             {
               "word": "江南",
               "pinyin": "jiāng nán",
-              "meaning": "江南地区",
+              "meaning": "地名，指长江以南地区，北宋时为江南东路，包括今江苏南部等地",
               "type": "地名"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "对",
+              "meaning": "此处读 wèi，义为介词，替、给，引出动作对象",
               "type": "虚词"
             },
             {
               "word": "子固",
               "pinyin": "zǐ gù",
-              "meaning": "曾子固",
+              "meaning": "人名，曾巩的字，北宋文学家",
               "type": "人名"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "说",
+              "meaning": "动词，说、谈论，指向他人介绍或提及",
               "type": "实词"
             },
             {
               "word": "正之",
               "pinyin": "zhèng zhī",
-              "meaning": "曾正之",
+              "meaning": "人名，王安石友人王正之",
               "type": "人名"
             },
             {
               "word": "子固",
               "pinyin": "zǐ gù",
-              "meaning": "曾子固",
+              "meaning": "人名，同前指曾巩",
               "type": "人名"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也、同样，表示类同",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "认为",
-              "type": "实词"
+              "meaning": "介词，与'为'连用构成'以为'，表示'认为'",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为动词，认为、当作",
               "type": "实词"
             },
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "这样",
-              "type": "实词"
+              "meaning": "指示代词，这样、如此，指代前文所述内容",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "予又知所谓贤人者，既相似又相信不疑也。",
-          "translation": "我又知道所谓的贤人，既相似又相互信任不疑。",
+          "translation": "我由此又知道，所谓的贤人，既志趣相投又互相信任不疑。",
           "words": [
             {
               "word": "予",
-              "pinyin": "yǔ",
-              "meaning": "我",
-              "type": "实词"
+              "pinyin": "yú",
+              "meaning": "第一人称代词，我，指作者王安石自己",
+              "type": "虚词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示动作的重复或继续，此处可译为“再次”、“进一步”",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、明白",
               "type": "实词"
             },
             {
               "word": "所谓",
               "pinyin": "suǒ wèi",
-              "meaning": "所说的",
+              "meaning": "固定结构，所说的",
               "type": "虚词"
             },
             {
               "word": "贤人",
               "pinyin": "xián rén",
-              "meaning": "贤人",
+              "meaning": "德行高尚、才能出众的人",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，用于主语“贤人”后，表示停顿，并引出下文的判断或说明",
               "type": "虚词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "既",
+              "meaning": "连词，与下文“又”呼应，构成“既…又…”结构，表示两种情况同时存在",
               "type": "虚词"
             },
             {
               "word": "相似",
               "pinyin": "xiāng sì",
-              "meaning": "相似",
+              "meaning": "动词，彼此相像、类似",
               "type": "实词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "连词，表示并列关系，与“既”呼应",
               "type": "虚词"
             },
             {
               "word": "相信",
               "pinyin": "xiāng xìn",
-              "meaning": "信任",
+              "meaning": "动词，互相信任",
               "type": "实词"
             },
             {
               "word": "不疑",
               "pinyin": "bù yí",
-              "meaning": "不怀疑",
+              "meaning": "动词短语，没有怀疑",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "子固作《怀友》一首遗余，其大略欲相扳，以至乎中庸而后已。",
-          "translation": "子固写了一首《怀友》赠给我，大意是想要相互扶持，直到达到中庸的境界才停止。",
+          "translation": "子固写了一篇《怀友》赠给我，大意是希望互相勉励，以达到中庸的境界才罢休。",
           "words": [
             {
               "word": "子固",
-              "pinyin": "Zǐ gù",
-              "meaning": "曾巩的字",
+              "pinyin": "zǐ gù",
+              "meaning": "北宋文学家曾巩的字，与王安石为挚友，同为“唐宋八大家”",
               "type": "人名"
             },
             {
               "word": "作",
               "pinyin": "zuò",
-              "meaning": "创作",
+              "meaning": "动词，写作、创作",
               "type": "实词"
             },
             {
               "word": "《怀友》",
-              "pinyin": "Huái Yǒu",
-              "meaning": "作品名",
-              "type": "典故"
+              "pinyin": "huái yǒu",
+              "meaning": "文章篇名，意为“怀念朋友”",
+              "type": "实词"
             },
             {
               "word": "一首",
               "pinyin": "yī shǒu",
-              "meaning": "一篇",
+              "meaning": "数量词，一篇（用于诗文）",
               "type": "实词"
             },
             {
               "word": "遗",
               "pinyin": "wèi",
-              "meaning": "赠送",
+              "meaning": "此处读 wèi，义为赠送",
               "type": "实词"
             },
             {
               "word": "余",
               "pinyin": "yú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，我，指作者王安石自己",
+              "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代《怀友》这篇文章",
               "type": "虚词"
             },
             {
               "word": "大略",
               "pinyin": "dà lüè",
-              "meaning": "大意",
+              "meaning": "名词，主要的意旨、大要",
               "type": "实词"
             },
             {
               "word": "欲",
               "pinyin": "yù",
-              "meaning": "想要",
+              "meaning": "动词，想要、希望",
               "type": "实词"
             },
             {
-              "word": "相扳",
-              "pinyin": "xiāng pān",
-              "meaning": "互相援引",
+              "word": "相",
+              "pinyin": "xiāng",
+              "meaning": "副词，表示动作偏指一方（此处偏指“我”）",
+              "type": "虚词"
+            },
+            {
+              "word": "扳",
+              "pinyin": "pān",
+              "meaning": "通'攀'，义为攀引、牵拉，此处引申为提携、帮助",
               "type": "实词"
             },
             {
               "word": "以至",
               "pinyin": "yǐ zhì",
-              "meaning": "以至于",
+              "meaning": "连词，表示在时间、数量、程度、范围上的延伸，相当于“一直到”",
               "type": "虚词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "于",
+              "meaning": "介词，相当于“于”，引出动作“至”的对象",
               "type": "虚词"
             },
             {
               "word": "中庸",
-              "pinyin": "Zhōng Yōng",
-              "meaning": "儒家道德标准",
-              "type": "典故"
+              "pinyin": "zhōng yōng",
+              "meaning": "儒家最高道德准则，主张不偏不倚、无过无不及",
+              "type": "实词"
             },
             {
               "word": "而后",
               "pinyin": "ér hòu",
-              "meaning": "然后",
+              "meaning": "连词，表示接着某种动作或情况以后，然后",
               "type": "虚词"
             },
             {
               "word": "已",
               "pinyin": "yǐ",
-              "meaning": "停止",
+              "meaning": "动词，停止",
               "type": "实词"
             }
           ]
         },
         {
           "original": "正之盖亦尝云尔。",
-          "translation": "正之大概也曾这样说过。",
+          "translation": "正之大概也曾经这样说过。",
           "words": [
             {
               "word": "正之",
-              "pinyin": "Zhèng zhī",
-              "meaning": "王正之",
+              "pinyin": "zhèng zhī",
+              "meaning": "字正之，北宋文人，与曾巩（子固）齐名，王安石友人",
               "type": "人名"
             },
             {
               "word": "盖",
               "pinyin": "gài",
-              "meaning": "大概",
+              "meaning": "句首语气词，表示推测或引出议论",
               "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，表示同样，相当于'也'",
               "type": "虚词"
             },
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "曾经",
-              "type": "虚词"
+              "meaning": "动词，曾经",
+              "type": "实词"
             },
             {
-              "word": "云尔",
-              "pinyin": "yún ěr",
-              "meaning": "如此说",
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "动词，说",
               "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "代词，这样，指代前述内容（即子固所言）",
+              "type": "虚词"
             }
           ]
         }
@@ -986,394 +1012,262 @@
     },
     {
       "original": "夫安驱徐行，轥中庸之庭而造于其室，舍二贤人者而谁哉？予昔非敢自必其有至也，亦愿从事于左右焉尔，辅而进之其可也。",
-      "translation": "安稳地驱车缓慢前行，进入中庸的庭院并到达它的内室，除了这两位贤人还有谁能做到呢？我过去不敢肯定自己能达到中庸，也愿意在他们身边学习罢了，辅助他们进步或许可以。唉！官职有职责，私事有牵绊，相聚不能经常。写了一首《同学》诗与子固告别，用来互相警戒，并且互相安慰。",
+      "translation": "那么，除了这两位贤人，还有谁能安稳驾车、缓慢行进，经过中庸的庭院而到达其内室呢？我过去不敢肯定自己能够到达，也只愿在他们身边追随罢了，辅助他们而使自己进步，或许是可以的。",
       "sentences": [
         {
           "original": "夫安驱徐行，轥中庸之庭而造于其室，舍二贤人者而谁哉？",
-          "translation": "安稳地驱车缓慢前行，进入中庸的庭院并到达它的内室，除了这两位贤人还有谁能做到呢？",
+          "translation": "那么，除了这两位贤人，还有谁能安稳驾车、缓慢行进，经过中庸的庭院而到达其内室呢？",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首语气词，表示发表议论，可不译",
               "type": "虚词"
             },
             {
-              "word": "安驱",
-              "pinyin": "ān qū",
-              "meaning": "安稳驱驰",
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "形容词，安稳地，从容地",
               "type": "实词"
             },
             {
-              "word": "徐行",
-              "pinyin": "xú xíng",
-              "meaning": "缓慢行走",
+              "word": "驱",
+              "pinyin": "qū",
+              "meaning": "动词，策马前进",
+              "type": "实词"
+            },
+            {
+              "word": "徐",
+              "pinyin": "xú",
+              "meaning": "形容词，缓慢地",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "动词，行走",
               "type": "实词"
             },
             {
               "word": "轥",
               "pinyin": "lìn",
-              "meaning": "进入",
+              "meaning": "动词，本指车轮碾过，此处比喻进入、达到",
               "type": "实词"
             },
             {
               "word": "中庸",
               "pinyin": "zhōng yōng",
-              "meaning": "《中庸》之道",
-              "type": "典故"
+              "meaning": "儒家核心思想，指不偏不倚、无过无及的处世之道",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "庭",
               "pinyin": "tíng",
-              "meaning": "庭院",
+              "meaning": "名词，庭院，比喻学问的门径",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词",
+              "meaning": "连词，表承接，可译为“进而”",
               "type": "虚词"
             },
             {
               "word": "造",
               "pinyin": "zào",
-              "meaning": "到达",
+              "meaning": "动词，到达",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "表示方向",
+              "meaning": "介词，引出动作“造”的处所，到",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那个",
+              "meaning": "代词，指代“中庸”",
               "type": "虚词"
             },
             {
               "word": "室",
               "pinyin": "shì",
-              "meaning": "房间",
+              "meaning": "名词，内室，比喻学问的精微深奥之处",
               "type": "实词"
             },
             {
               "word": "舍",
               "pinyin": "shě",
-              "meaning": "除了",
+              "meaning": "此处读 shě，义为舍弃、离开",
               "type": "实词"
             },
             {
               "word": "二贤人",
               "pinyin": "èr xián rén",
-              "meaning": "两位贤人",
-              "type": "实词"
+              "meaning": "指文中提到的曾巩（子固）与孙侔（正之）两位贤德之人",
+              "type": "人名"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "表示人",
+              "meaning": "助词，与“二贤人”构成“者”字结构，指“……的人”",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词",
+              "meaning": "连词，表转折，却",
               "type": "虚词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁",
-              "type": "实词"
+              "meaning": "疑问代词，谁",
+              "type": "虚词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "语气词",
+              "meaning": "句末语气词，与疑问代词“谁”配合表反问，呢",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "予昔非敢自必其有至也，亦愿从事于左右焉尔，辅而进之其可也。",
-          "translation": "我过去不敢肯定自己能达到中庸，也愿意在他们身边学习罢了，辅助他们进步或许可以。",
+          "translation": "我过去不敢肯定自己能够到达，也只愿在他们身边追随罢了，辅助他们而使自己进步，或许是可以的。",
           "words": [
             {
               "word": "予",
-              "pinyin": "yǔ",
-              "meaning": "我",
-              "type": "实词"
+              "pinyin": "yú",
+              "meaning": "人称代词，我",
+              "type": "虚词"
             },
             {
               "word": "昔",
               "pinyin": "xī",
-              "meaning": "从前",
+              "meaning": "时间名词，从前，过去",
               "type": "实词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不",
+              "meaning": "否定副词，不，不是",
               "type": "虚词"
             },
             {
               "word": "敢",
               "pinyin": "gǎn",
-              "meaning": "敢",
-              "type": "实词"
+              "meaning": "助动词，表示谦敬，敢于",
+              "type": "虚词"
             },
             {
               "word": "自必",
               "pinyin": "zì bì",
-              "meaning": "自己肯定",
+              "meaning": "动词短语，自己肯定、自己确信",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "代词，指代达到“中庸之室”这种境界",
               "type": "虚词"
             },
             {
               "word": "有至",
               "pinyin": "yǒu zhì",
-              "meaning": "有达到",
+              "meaning": "动词短语，有所到达，指达到那种境界",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表陈述语气，可不译",
               "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也",
               "type": "虚词"
             },
             {
               "word": "愿",
               "pinyin": "yuàn",
-              "meaning": "愿意",
+              "meaning": "动词，愿意，希望",
               "type": "实词"
             },
             {
               "word": "从事",
               "pinyin": "cóng shì",
-              "meaning": "从事",
+              "meaning": "古义：追随、侍奉，指追随学习（非今义“做某项工作”）",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "于",
+              "meaning": "介词，引出动作“从事”的对象，在",
               "type": "虚词"
             },
             {
               "word": "左右",
               "pinyin": "zuǒ yòu",
-              "meaning": "旁边",
+              "meaning": "古义：身边（非今义“方位词，左和右”）",
               "type": "实词"
             },
             {
               "word": "焉尔",
               "pinyin": "yān ěr",
-              "meaning": "语气词",
+              "meaning": "语气词连用，表限制语气，罢了",
               "type": "虚词"
             },
             {
               "word": "辅",
               "pinyin": "fǔ",
-              "meaning": "辅助",
+              "meaning": "动词，辅助，帮助",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词",
+              "meaning": "连词，表承接，然后",
               "type": "虚词"
             },
             {
               "word": "进",
               "pinyin": "jìn",
-              "meaning": "推进",
+              "meaning": "动词的使动用法，使……进步",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代“予”（我）",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那",
+              "meaning": "语气副词，表祈使、期望语气，还是",
               "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
+              "meaning": "动词，可以，行",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "噫！官有守，私有系，会合不可以常也。",
-          "translation": "唉！官职有职责，私事有牵绊，相聚不能经常。",
-          "words": [
-            {
-              "word": "噫",
-              "pinyin": "yī",
-              "meaning": "叹词",
-              "type": "虚词"
-            },
-            {
-              "word": "官",
-              "pinyin": "guān",
-              "meaning": "官职",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "守",
-              "pinyin": "shǒu",
-              "meaning": "职守",
-              "type": "实词"
-            },
-            {
-              "word": "私",
-              "pinyin": "sī",
-              "meaning": "私事",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "系",
-              "pinyin": "xì",
-              "meaning": "牵系",
-              "type": "实词"
-            },
-            {
-              "word": "会合",
-              "pinyin": "huì hé",
-              "meaning": "聚会",
-              "type": "实词"
-            },
-            {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "可以",
-              "pinyin": "kě yǐ",
-              "meaning": "可以",
-              "type": "虚词"
-            },
-            {
-              "word": "常",
-              "pinyin": "cháng",
-              "meaning": "经常",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "作《同学》一首别子固，以相警，且相慰云。",
-          "translation": "写了一首《同学》诗与子固告别，用来互相警戒，并且互相安慰。",
-          "words": [
-            {
-              "word": "作",
-              "pinyin": "zuò",
-              "meaning": "创作",
-              "type": "实词"
-            },
-            {
-              "word": "《同学》",
-              "pinyin": "tóng xué",
-              "meaning": "文章标题",
-              "type": "典故"
-            },
-            {
-              "word": "一首",
-              "pinyin": "yī shǒu",
-              "meaning": "一篇",
-              "type": "实词"
-            },
-            {
-              "word": "别",
-              "pinyin": "bié",
-              "meaning": "告别",
-              "type": "实词"
-            },
-            {
-              "word": "子固",
-              "pinyin": "zǐ gù",
-              "meaning": "曾巩的字",
-              "type": "人名"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
-            },
-            {
-              "word": "相警",
-              "pinyin": "xiāng jǐng",
-              "meaning": "互相警戒",
-              "type": "实词"
-            },
-            {
-              "word": "且",
-              "pinyin": "qiě",
-              "meaning": "而且",
-              "type": "虚词"
-            },
-            {
-              "word": "相慰",
-              "pinyin": "xiāng wèi",
-              "meaning": "互相安慰",
-              "type": "实词"
-            },
-            {
-              "word": "云",
-              "pinyin": "yún",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表肯定语气",
               "type": "虚词"
             }
           ]
@@ -1382,98 +1276,172 @@
     },
     {
       "original": "噫！官有守，私有系，会合不可以常也。作《同学》一首别子固，以相警，且相慰云。",
-      "translation": "唉！官职有职责，私事有牵绊，聚会不能经常。创作《同学》一首来告别子固，用来互相警戒，并且互相安慰。",
+      "translation": "唉！官员有职守，私事有牵绊，相见不能成为常态。因此写作《同学》一篇告别子固，用来互相警戒，并且互相安慰。",
       "sentences": [
         {
-          "original": "噫！",
-          "translation": "唉！",
-          "words": []
-        },
-        {
-          "original": "官有守，私有系，会合不可以常也。",
-          "translation": "官职有职责，私事有牵绊，聚会不能经常。",
-          "words": []
+          "original": "噫！官有守，私有系，会合不可以常也。",
+          "translation": "唉！官员有职守，私事有牵绊，相见不能经常。",
+          "words": [
+            {
+              "word": "噫",
+              "pinyin": "yī",
+              "meaning": "叹词，表示感叹、慨叹",
+              "type": "虚词"
+            },
+            {
+              "word": "官",
+              "pinyin": "guān",
+              "meaning": "名词，官职、公务",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，有",
+              "type": "实词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "名词，职守、职责",
+              "type": "实词"
+            },
+            {
+              "word": "私",
+              "pinyin": "sī",
+              "meaning": "名词，私事、个人事务",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，有",
+              "type": "实词"
+            },
+            {
+              "word": "系",
+              "pinyin": "xì",
+              "meaning": "名词，牵绊、牵挂",
+              "type": "实词"
+            },
+            {
+              "word": "会合",
+              "pinyin": "huì hé",
+              "meaning": "动词，聚会、会面",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "动词，可以、能够",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，表示凭借或条件，此处与‘可’连用，表示‘能够’",
+              "type": "虚词"
+            },
+            {
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "形容词，经常、长久",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定",
+              "type": "虚词"
+            }
+          ]
         },
         {
           "original": "作《同学》一首别子固，以相警，且相慰云。",
-          "translation": "创作《同学》一首来告别子固，用来互相警戒，并且互相安慰。",
+          "translation": "写作《同学》一篇告别子固，用来互相警戒，并且互相安慰。",
           "words": [
             {
               "word": "作",
               "pinyin": "zuò",
-              "meaning": "写作",
+              "meaning": "动词，创作、写作",
               "type": "实词"
             },
             {
               "word": "《同学》",
               "pinyin": "tóng xué",
-              "meaning": "文章名",
-              "type": "典故"
+              "meaning": "指王安石所作的诗篇《同学》",
+              "type": "实词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一",
+              "meaning": "数词，一",
               "type": "实词"
             },
             {
               "word": "首",
               "pinyin": "shǒu",
-              "meaning": "首",
+              "meaning": "量词，用于诗、词、文等",
               "type": "实词"
             },
             {
               "word": "别",
               "pinyin": "bié",
-              "meaning": "告别",
+              "meaning": "动词，告别、送别",
               "type": "实词"
             },
             {
               "word": "子固",
               "pinyin": "zǐ gù",
-              "meaning": "曾巩",
+              "meaning": "曾巩（1019-1083），字子固，北宋文学家，唐宋八大家之一，王安石好友",
               "type": "人名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "相",
               "pinyin": "xiāng",
-              "meaning": "互相",
+              "meaning": "副词，表示动作交互，互相",
               "type": "虚词"
             },
             {
               "word": "警",
               "pinyin": "jǐng",
-              "meaning": "警戒",
+              "meaning": "动词，警戒、告诫",
               "type": "实词"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "并且",
+              "meaning": "连词，表示并列关系，并且",
               "type": "虚词"
             },
             {
               "word": "相",
               "pinyin": "xiāng",
-              "meaning": "互相",
+              "meaning": "副词，表示动作交互，互相",
               "type": "虚词"
             },
             {
               "word": "慰",
               "pinyin": "wèi",
-              "meaning": "安慰",
+              "meaning": "动词，安慰、慰藉",
               "type": "实词"
             },
             {
               "word": "云",
               "pinyin": "yún",
-              "meaning": "说",
+              "meaning": "句末语气词，表示‘如此’、‘这样’，有收束全句之意",
               "type": "虚词"
             }
           ]

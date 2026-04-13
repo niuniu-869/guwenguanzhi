@@ -1,22 +1,49 @@
 """
 LLM API 调用客户端
+- 凭证从 .env / 环境变量读取（禁止硬编码）
 - 支持速率限制 (RPM)
 - 自动重试 (JSON 解析失败时)
 - 结构化 JSON 输出
 """
 
 import json
-import time
+import os
 import re
-import requests
+import time
+from pathlib import Path
 from typing import Any
 
-import os
+import requests
 
-API_URL = "https://api.xiaomimimo.com/v1/chat/completions"
-API_KEY = "sk-c4906zis2rmob8pz4jwz0osfzwjofibknn88teohttcckvzm"
-MODEL = "mimo-v2-pro"
-RPM = int(os.environ.get("MIMO_RPM", "90"))  # 可通过 MIMO_RPM 调优；mimo 官方 100，冒险可上 150-200
+
+def _load_dotenv() -> None:
+    """轻量 .env 加载器（无 python-dotenv 依赖）。仓库根目录的 .env 生效。"""
+    env_file = Path(__file__).resolve().parent.parent / ".env"
+    if not env_file.exists():
+        return
+    for line in env_file.read_text("utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        # 环境变量优先级高于 .env
+        os.environ.setdefault(key, value)
+
+
+_load_dotenv()
+
+API_URL = os.environ.get("MIMO_API_URL", "https://api.xiaomimimo.com/v1/chat/completions")
+API_KEY = os.environ.get("MIMO_API_KEY", "")
+MODEL = os.environ.get("MIMO_MODEL", "mimo-v2-pro")
+RPM = int(os.environ.get("MIMO_RPM", "90"))  # mimo 官方 100，冒险可上 150-200
+
+if not API_KEY:
+    raise RuntimeError(
+        "MIMO_API_KEY 未设置。请复制 .env.example 为 .env 并填入真实 key，"
+        "或导出环境变量 MIMO_API_KEY=..."
+    )
 
 _last_call_times: list[float] = []
 

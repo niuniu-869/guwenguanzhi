@@ -1,0 +1,1633 @@
+[
+  {
+    "case": "郑伯克段于鄢",
+    "focus": "通假字(弟/悌)、多音字(亟/大叔)、虚词语境化(之)",
+    "elapsed": 40.02919602394104,
+    "sentences": [
+      {
+        "original": "初，郑武公娶于申，曰武姜，生庄公及共叔段。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 11,
+          "errors": 0,
+          "warns": 2,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 11,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "娶": {
+              "v1": {
+                "word": "娶",
+                "pinyin": "qǔ",
+                "meaning": "娶妻",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "娶",
+                "pinyin": "qǔ",
+                "meaning": "迎娶（女子），特指男子结婚",
+                "type": "实词"
+              }
+            },
+            "于": {
+              "v1": {
+                "word": "于",
+                "pinyin": "yú",
+                "meaning": "从",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "于",
+                "pinyin": "yú",
+                "meaning": "介词，表示动作的对象，相当于“从”",
+                "type": "虚词"
+              }
+            },
+            "及": {
+              "v1": {
+                "word": "及",
+                "pinyin": "jí",
+                "meaning": "和",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "及",
+                "pinyin": "jí",
+                "meaning": "连词，和、与",
+                "type": "虚词"
+              }
+            },
+            "郑武公": {
+              "v1": {
+                "word": "郑武公",
+                "pinyin": "Zhèng Wǔ Gōng",
+                "meaning": "郑国武公",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "郑武公",
+                "pinyin": "zhèng wǔ gōng",
+                "meaning": "春秋初期郑国国君（前770-前744在位），庄公与共叔段之父",
+                "type": "人名"
+              }
+            },
+            "共叔段": {
+              "v1": {
+                "word": "共叔段",
+                "pinyin": "Gòng Shū Duàn",
+                "meaning": "共叔段",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "共叔段",
+                "pinyin": "gòng shū duàn",
+                "meaning": "庄公之弟，名段，因封于共（今河南辉县），故称共叔段",
+                "type": "人名"
+              }
+            },
+            "庄公": {
+              "v1": {
+                "word": "庄公",
+                "pinyin": "Zhuāng Gōng",
+                "meaning": "庄公",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "庄公",
+                "pinyin": "zhuāng gōng",
+                "meaning": "郑国第三代国君，名寤生，武公之子",
+                "type": "人名"
+              }
+            },
+            "生": {
+              "v1": {
+                "word": "生",
+                "pinyin": "shēng",
+                "meaning": "生下",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "生",
+                "pinyin": "shēng",
+                "meaning": "生育",
+                "type": "实词"
+              }
+            },
+            "申": {
+              "v1": {
+                "word": "申",
+                "pinyin": "Shēn",
+                "meaning": "申国",
+                "type": "地名"
+              },
+              "v2": {
+                "word": "申",
+                "pinyin": "shēn",
+                "meaning": "周代诸侯国，姜姓，在今河南南阳",
+                "type": "地名"
+              }
+            },
+            "初": {
+              "v1": {
+                "word": "初",
+                "pinyin": "chū",
+                "meaning": "起初",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "初",
+                "pinyin": "chū",
+                "meaning": "时间副词，当初、起初，用于追述往事",
+                "type": "虚词"
+              }
+            },
+            "武姜": {
+              "v1": {
+                "word": "武姜",
+                "pinyin": "Wǔ Jiāng",
+                "meaning": "武公妻姜氏",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "武姜",
+                "pinyin": "wǔ jiāng",
+                "meaning": "郑武公之妻，庄公与共叔段之母，‘武’为丈夫谥号，‘姜’为其母家姓",
+                "type": "人名"
+              }
+            },
+            "曰": {
+              "v1": {
+                "word": "曰",
+                "pinyin": "yuē",
+                "meaning": "称为",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "曰",
+                "pinyin": "yuē",
+                "meaning": "叫做，称为",
+                "type": "实词"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "遂恶之。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 3,
+          "errors": 0,
+          "warns": 2,
+          "vague_xuci": 1,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 3,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "恶": {
+              "v1": {
+                "word": "恶",
+                "pinyin": "wù",
+                "meaning": "厌恶",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "恶",
+                "pinyin": "wù",
+                "meaning": "厌恶，讨厌",
+                "type": "实词"
+              }
+            },
+            "之": {
+              "v1": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "他",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "代词，指代庄公",
+                "type": "虚词"
+              }
+            },
+            "遂": {
+              "v1": {
+                "word": "遂",
+                "pinyin": "suì",
+                "meaning": "于是",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "遂",
+                "pinyin": "suì",
+                "meaning": "副词，表示承接，于是、就",
+                "type": "虚词"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "亟请于武公，公弗许。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 7,
+          "errors": 0,
+          "warns": 4,
+          "vague_xuci": 1,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 7,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "亟": {
+              "v1": {
+                "word": "亟",
+                "pinyin": "qì",
+                "meaning": "屡次",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "亟",
+                "pinyin": "jí",
+                "meaning": "此处读 jí，义为屡次、多次（区别于 qì 之‘急切’义）",
+                "type": "虚词"
+              }
+            },
+            "于": {
+              "v1": {
+                "word": "于",
+                "pinyin": "yú",
+                "meaning": "向",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "于",
+                "pinyin": "yú",
+                "meaning": "介词，引出动作对象，向",
+                "type": "虚词"
+              }
+            },
+            "弗": {
+              "v1": {
+                "word": "弗",
+                "pinyin": "fú",
+                "meaning": "不",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "弗",
+                "pinyin": "fú",
+                "meaning": "否定副词，不",
+                "type": "虚词"
+              }
+            },
+            "武公": {
+              "v1": {
+                "word": "武公",
+                "pinyin": "wǔ gōng",
+                "meaning": "郑武公",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "武公",
+                "pinyin": "wǔ gōng",
+                "meaning": "即郑武公",
+                "type": "人名"
+              }
+            },
+            "公": {
+              "v1": {
+                "word": "公",
+                "pinyin": "gōng",
+                "meaning": "他",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "公",
+                "pinyin": "gōng",
+                "meaning": "代词，指代郑武公",
+                "type": "虚词"
+              }
+            },
+            "许": {
+              "v1": {
+                "word": "许",
+                "pinyin": "xǔ",
+                "meaning": "答应",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "许",
+                "pinyin": "xǔ",
+                "meaning": "答应，允许",
+                "type": "实词"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "case": "曹刿论战",
+    "focus": "古今异义(加=虚报)、专名(牺牲)",
+    "elapsed": 96.90271830558777,
+    "sentences": [
+      {
+        "original": "问：“何以战？”",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 3,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [
+            "何",
+            "以"
+          ],
+          "v2_only_words": [
+            "何以"
+          ],
+          "changed": {
+            "战": {
+              "v1": {
+                "word": "战",
+                "pinyin": "zhàn",
+                "meaning": "作战",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "战",
+                "pinyin": "zhàn",
+                "meaning": "动词，作战、打仗（指与齐国进行战争）",
+                "type": "实词"
+              }
+            },
+            "问": {
+              "v1": {
+                "word": "问",
+                "pinyin": "wèn",
+                "meaning": "询问",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "问",
+                "pinyin": "wèn",
+                "meaning": "动词，询问（曹刿向鲁庄公发问作战条件）",
+                "type": "实词"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "公曰：“衣食所安，弗敢专也，必以分人。”",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 14,
+          "errors": 0,
+          "warns": 3,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 13,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [
+            "食",
+            "衣"
+          ],
+          "v2_only_words": [
+            "衣食"
+          ],
+          "changed": {
+            "所": {
+              "v1": {
+                "word": "所",
+                "pinyin": "suǒ",
+                "meaning": "所...的东西",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "所",
+                "pinyin": "suǒ",
+                "meaning": "助词，与动词'安'构成'所'字结构，名词化，表示'安身的东西'",
+                "type": "虚词"
+              }
+            },
+            "弗": {
+              "v1": {
+                "word": "弗",
+                "pinyin": "fú",
+                "meaning": "不",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "弗",
+                "pinyin": "fú",
+                "meaning": "副词，否定副词，表示'不'，用于否定动词'敢专'",
+                "type": "虚词"
+              }
+            },
+            "敢": {
+              "v1": {
+                "word": "敢",
+                "pinyin": "gǎn",
+                "meaning": "敢于",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "敢",
+                "pinyin": "gǎn",
+                "meaning": "动词，敢于（与'专'连用表示敢于独占）",
+                "type": "实词"
+              }
+            },
+            "分": {
+              "v1": {
+                "word": "分",
+                "pinyin": "fēn",
+                "meaning": "分给",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "分",
+                "pinyin": "fēn",
+                "meaning": "此处读 fēn，义为分给、分配（分发衣食给他人）",
+                "type": "实词"
+              }
+            },
+            "专": {
+              "v1": {
+                "word": "专",
+                "pinyin": "zhuān",
+                "meaning": "独占",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "专",
+                "pinyin": "zhuān",
+                "meaning": "动词，独占、专有（指独占衣食资源）",
+                "type": "实词"
+              }
+            },
+            "人": {
+              "v1": {
+                "word": "人",
+                "pinyin": "rén",
+                "meaning": "别人",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "人",
+                "pinyin": "rén",
+                "meaning": "名词，别人、他人（指臣下或百姓）",
+                "type": "实词"
+              }
+            },
+            "必": {
+              "v1": {
+                "word": "必",
+                "pinyin": "bì",
+                "meaning": "一定",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "必",
+                "pinyin": "bì",
+                "meaning": "副词，一定、必须（修饰'以分人'）",
+                "type": "虚词"
+              }
+            },
+            "安": {
+              "v1": {
+                "word": "安",
+                "pinyin": "ān",
+                "meaning": "安身",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "安",
+                "pinyin": "ān",
+                "meaning": "动词，安身、养生（在'所安'中表示安身养命的物资）",
+                "type": "实词"
+              }
+            },
+            "公": {
+              "v1": {
+                "word": "公",
+                "pinyin": "gōng",
+                "meaning": "鲁庄公",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "公",
+                "pinyin": "gōng",
+                "meaning": "指鲁庄公，春秋时期鲁国国君（前693-前662在位），曹刿对话的对象",
+                "type": "人名"
+              }
+            },
+            "曰": {
+              "v1": {
+                "word": "曰",
+                "pinyin": "yuē",
+                "meaning": "说",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "曰",
+                "pinyin": "yuē",
+                "meaning": "动词，说（鲁庄公发言）",
+                "type": "实词"
+              }
+            },
+            "以": {
+              "v1": {
+                "word": "以",
+                "pinyin": "yǐ",
+                "meaning": "用来",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "以",
+                "pinyin": "yǐ",
+                "meaning": "介词，相当于'把'，后省略宾语'之'（指衣食），表示处置",
+                "type": "虚词"
+              }
+            },
+            "也": {
+              "v1": {
+                "word": "也",
+                "pinyin": "yě",
+                "meaning": "啊",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "也",
+                "pinyin": "yě",
+                "meaning": "句中语气词，表停顿，引出下文",
+                "type": "虚词"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "对曰：“小惠未遍，民弗从也。”",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 10,
+          "errors": 0,
+          "warns": 3,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 9,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [
+            "小",
+            "惠"
+          ],
+          "v2_only_words": [
+            "小惠"
+          ],
+          "changed": {
+            "弗": {
+              "v1": {
+                "word": "弗",
+                "pinyin": "fú",
+                "meaning": "不",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "弗",
+                "pinyin": "fú",
+                "meaning": "副词，不（否定副词，修饰'从'）",
+                "type": "虚词"
+              }
+            },
+            "从": {
+              "v1": {
+                "word": "从",
+                "pinyin": "cóng",
+                "meaning": "跟随",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "从",
+                "pinyin": "cóng",
+                "meaning": "此处读 cóng，义为听从、服从（百姓不听从君主）",
+                "type": "实词"
+              }
+            },
+            "对": {
+              "v1": {
+                "word": "对",
+                "pinyin": "duì",
+                "meaning": "回答",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "对",
+                "pinyin": "duì",
+                "meaning": "动词，回答（曹刿回应鲁庄公）",
+                "type": "实词"
+              }
+            },
+            "遍": {
+              "v1": {
+                "word": "遍",
+                "pinyin": "biàn",
+                "meaning": "普遍",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "遍",
+                "pinyin": "biàn",
+                "meaning": "动词，遍及、普遍（指恩惠没有遍及百姓）",
+                "type": "实词"
+              }
+            },
+            "未": {
+              "v1": {
+                "word": "未",
+                "pinyin": "wèi",
+                "meaning": "没有",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "未",
+                "pinyin": "wèi",
+                "meaning": "副词，没有（表示否定，修饰'遍'）",
+                "type": "虚词"
+              }
+            },
+            "民": {
+              "v1": {
+                "word": "民",
+                "pinyin": "mín",
+                "meaning": "百姓",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "民",
+                "pinyin": "mín",
+                "meaning": "名词，百姓、民众",
+                "type": "实词"
+              }
+            },
+            "曰": {
+              "v1": {
+                "word": "曰",
+                "pinyin": "yuē",
+                "meaning": "说",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "曰",
+                "pinyin": "yuē",
+                "meaning": "动词，说",
+                "type": "实词"
+              }
+            },
+            "也": {
+              "v1": {
+                "word": "也",
+                "pinyin": "yě",
+                "meaning": "啊",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "也",
+                "pinyin": "yě",
+                "meaning": "句末语气词，表陈述或肯定",
+                "type": "虚词"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "case": "阿房宫赋",
+    "focus": "赋体专名密度、古今异义(走)",
+    "elapsed": 20.824984788894653,
+    "sentences": [
+      {
+        "original": "六王毕，四海一。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "四海": {
+              "v1": {
+                "word": "四海",
+                "pinyin": "sì hǎi",
+                "meaning": "天下",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "四海",
+                "pinyin": "sì hǎi",
+                "meaning": "古代认为中国四周被海包围，故以“四海”代指天下、全国。",
+                "type": "实词"
+              }
+            },
+            "一": {
+              "v1": {
+                "word": "一",
+                "pinyin": "yī",
+                "meaning": "统一",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "一",
+                "pinyin": "yī",
+                "meaning": "数词用作动词，统一。",
+                "type": "实词"
+              }
+            },
+            "六王": {
+              "v1": {
+                "word": "六王",
+                "pinyin": "liù wáng",
+                "meaning": "六国君王",
+                "type": "典故"
+              },
+              "v2": {
+                "word": "六王",
+                "pinyin": "liù wáng",
+                "meaning": "指战国时期齐、楚、燕、韩、赵、魏六国的君王。",
+                "type": "实词"
+              }
+            },
+            "毕": {
+              "v1": {
+                "word": "毕",
+                "pinyin": "bì",
+                "meaning": "结束",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "毕",
+                "pinyin": "bì",
+                "meaning": "完结，灭亡。",
+                "type": "实词"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "蜀山兀，阿房出。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "兀": {
+              "v1": {
+                "word": "兀",
+                "pinyin": "wù",
+                "meaning": "光秃",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "兀",
+                "pinyin": "wù",
+                "meaning": "山高而上平，这里形容山林被砍伐殆尽而光秃秃的样子。",
+                "type": "实词"
+              }
+            },
+            "阿房": {
+              "v1": {
+                "word": "阿房",
+                "pinyin": "ē páng",
+                "meaning": "阿房宫",
+                "type": "地名"
+              },
+              "v2": {
+                "word": "阿房",
+                "pinyin": "ē páng",
+                "meaning": "秦代宫名，故址在今陕西西安西郊。",
+                "type": "地名"
+              }
+            },
+            "出": {
+              "v1": {
+                "word": "出",
+                "pinyin": "chū",
+                "meaning": "出现",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "出",
+                "pinyin": "chū",
+                "meaning": "出现，建成。",
+                "type": "实词"
+              }
+            },
+            "蜀山": {
+              "v1": {
+                "word": "蜀山",
+                "pinyin": "shǔ shān",
+                "meaning": "蜀地的山",
+                "type": "地名"
+              },
+              "v2": {
+                "word": "蜀山",
+                "pinyin": "shǔ shān",
+                "meaning": "泛指蜀地（今四川一带）的山林。",
+                "type": "地名"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "覆压三百馀里，隔离天日。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 4,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "覆压": {
+              "v1": {
+                "word": "覆压",
+                "pinyin": "fù yā",
+                "meaning": "覆盖压住",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "覆压",
+                "pinyin": "fù yā",
+                "meaning": "覆盖，占据。",
+                "type": "实词"
+              }
+            },
+            "天日": {
+              "v1": {
+                "word": "天日",
+                "pinyin": "tiān rì",
+                "meaning": "天空太阳",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "天日",
+                "pinyin": "tiān rì",
+                "meaning": "天空和太阳。",
+                "type": "实词"
+              }
+            },
+            "三百馀里": {
+              "v1": {
+                "word": "三百馀里",
+                "pinyin": "sān bǎi yú lǐ",
+                "meaning": "三百多里",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "三百馀里",
+                "pinyin": "sān bǎi yú lǐ",
+                "meaning": "三百多里，极言阿房宫占地之广。",
+                "type": "实词"
+              }
+            },
+            "隔离": {
+              "v1": {
+                "word": "隔离",
+                "pinyin": "gé lí",
+                "meaning": "隔开",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "隔离",
+                "pinyin": "gé lí",
+                "meaning": "遮蔽，隔开。",
+                "type": "实词"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "case": "卖柑者言",
+    "focus": "通假字(授=受)",
+    "elapsed": 52.91007947921753,
+    "sentences": [
+      {
+        "original": "今子是之不察，而以察吾柑。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 11,
+          "errors": 0,
+          "warns": 2,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 11,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "今": {
+              "v1": {
+                "word": "今",
+                "pinyin": "jīn",
+                "meaning": "现在",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "今",
+                "pinyin": "jīn",
+                "meaning": "时间名词，现在、当前",
+                "type": "实词"
+              }
+            },
+            "察": {
+              "v1": {
+                "word": "察",
+                "pinyin": "chá",
+                "meaning": "察看",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "察",
+                "pinyin": "chá",
+                "meaning": "动词，考察、审视",
+                "type": "实词"
+              }
+            },
+            "是": {
+              "v1": {
+                "word": "是",
+                "pinyin": "shì",
+                "meaning": "这个",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "是",
+                "pinyin": "shì",
+                "meaning": "指示代词，指代前文所述的内在品质（如'金玉其外，败絮其中'），这些",
+                "type": "虚词"
+              }
+            },
+            "不": {
+              "v1": {
+                "word": "不",
+                "pinyin": "bù",
+                "meaning": "不",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "不",
+                "pinyin": "bù",
+                "meaning": "副词，表示否定，不",
+                "type": "实词"
+              }
+            },
+            "而": {
+              "v1": {
+                "word": "而",
+                "pinyin": "ér",
+                "meaning": "但是",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "而",
+                "pinyin": "ér",
+                "meaning": "连词，表示转折，却",
+                "type": "虚词"
+              }
+            },
+            "子": {
+              "v1": {
+                "word": "子",
+                "pinyin": "zǐ",
+                "meaning": "你",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "子",
+                "pinyin": "zǐ",
+                "meaning": "代词，指对方（买柑者），您",
+                "type": "虚词"
+              }
+            },
+            "柑": {
+              "v1": {
+                "word": "柑",
+                "pinyin": "gān",
+                "meaning": "柑橘",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "柑",
+                "pinyin": "gān",
+                "meaning": "名词，柑橘",
+                "type": "实词"
+              }
+            },
+            "之": {
+              "v1": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "宾语前置助词",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "助词，宾语前置标志，用于'是之不察'中，将宾语'是'提前，强调宾语",
+                "type": "虚词"
+              }
+            },
+            "吾": {
+              "v1": {
+                "word": "吾",
+                "pinyin": "wú",
+                "meaning": "我的",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "吾",
+                "pinyin": "wú",
+                "meaning": "代词，指卖柑者自己，我的",
+                "type": "虚词"
+              }
+            },
+            "以": {
+              "v1": {
+                "word": "以",
+                "pinyin": "yǐ",
+                "meaning": "用来",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "以",
+                "pinyin": "yǐ",
+                "meaning": "介词，表示目的，用来",
+                "type": "虚词"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "case": "项羽本纪",
+    "focus": "多音字(骑)、词组合并异常",
+    "elapsed": 47.76645565032959,
+    "sentences": [
+      {
+        "original": "是时，赤泉侯为骑将，追项王，",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 6,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 6,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [],
+          "v2_only_words": [],
+          "changed": {
+            "是时": {
+              "v1": {
+                "word": "是时",
+                "pinyin": "shì shí",
+                "meaning": "这时",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "是时",
+                "pinyin": "shì shí",
+                "meaning": "古义：此时，这个时候（'是'为指示代词'这'，非今义判断动词）",
+                "type": "实词"
+              }
+            },
+            "骑将": {
+              "v1": {
+                "word": "骑将",
+                "pinyin": "qí jiàng",
+                "meaning": "骑兵将领",
+                "type": "官职"
+              },
+              "v2": {
+                "word": "骑将",
+                "pinyin": "jì jiàng",
+                "meaning": "此处'骑'读jì，义为骑兵；骑将即统率骑兵的将领",
+                "type": "官职"
+              }
+            },
+            "赤泉侯": {
+              "v1": {
+                "word": "赤泉侯",
+                "pinyin": "chì quán hóu",
+                "meaning": "侯爵名",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "赤泉侯",
+                "pinyin": "chì quán hóu",
+                "meaning": "即杨喜，因功封赤泉侯，此时为汉军骑将",
+                "type": "人名"
+              }
+            },
+            "追": {
+              "v1": {
+                "word": "追",
+                "pinyin": "zhuī",
+                "meaning": "追赶",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "追",
+                "pinyin": "zhuī",
+                "meaning": "动词，追赶",
+                "type": "实词"
+              }
+            },
+            "为": {
+              "v1": {
+                "word": "为",
+                "pinyin": "wéi",
+                "meaning": "作为",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "为",
+                "pinyin": "wéi",
+                "meaning": "动词，担任",
+                "type": "实词"
+              }
+            },
+            "项王": {
+              "v1": {
+                "word": "项王",
+                "pinyin": "xiàng wáng",
+                "meaning": "项羽",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "项王",
+                "pinyin": "xiàng wáng",
+                "meaning": "即项羽，秦末起义军领袖，自封西楚霸王",
+                "type": "人名"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "项王瞋目而叱之，赤泉侯人马俱惊，辟易数里与其骑会为三处。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 13,
+          "errors": 0,
+          "warns": 4,
+          "vague_xuci": 2,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 19,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [
+            "其骑",
+            "会为三处",
+            "数里",
+            "俱惊"
+          ],
+          "v2_only_words": [
+            "会",
+            "里",
+            "数",
+            "处",
+            "骑",
+            "三",
+            "其",
+            "俱",
+            "惊",
+            "为"
+          ],
+          "changed": {
+            "与": {
+              "v1": {
+                "word": "与",
+                "pinyin": "yǔ",
+                "meaning": "和",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "与",
+                "pinyin": "yǔ",
+                "meaning": "介词，和",
+                "type": "虚词"
+              }
+            },
+            "叱": {
+              "v1": {
+                "word": "叱",
+                "pinyin": "chì",
+                "meaning": "呵斥",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "叱",
+                "pinyin": "chì",
+                "meaning": "动词，大声呵斥",
+                "type": "实词"
+              }
+            },
+            "而": {
+              "v1": {
+                "word": "而",
+                "pinyin": "ér",
+                "meaning": "连词",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "而",
+                "pinyin": "ér",
+                "meaning": "连词，连接状语'瞋目'和谓语'叱之'，表修饰",
+                "type": "虚词"
+              }
+            },
+            "瞋目": {
+              "v1": {
+                "word": "瞋目",
+                "pinyin": "chēn mù",
+                "meaning": "瞪大眼睛",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "瞋目",
+                "pinyin": "chēn mù",
+                "meaning": "动词，瞪大眼睛",
+                "type": "实词"
+              }
+            },
+            "辟易": {
+              "v1": {
+                "word": "辟易",
+                "pinyin": "pì yì",
+                "meaning": "退避",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "辟易",
+                "pinyin": "bì yì",
+                "meaning": "动词，惊退",
+                "type": "实词"
+              }
+            },
+            "赤泉侯": {
+              "v1": {
+                "word": "赤泉侯",
+                "pinyin": "chì quán hóu",
+                "meaning": "侯爵名",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "赤泉侯",
+                "pinyin": "chì quán hóu",
+                "meaning": "即杨喜，因功封赤泉侯，此时为汉军骑将",
+                "type": "人名"
+              }
+            },
+            "之": {
+              "v1": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "他",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "代词，指代赤泉侯",
+                "type": "虚词"
+              }
+            },
+            "人马": {
+              "v1": {
+                "word": "人马",
+                "pinyin": "rén mǎ",
+                "meaning": "人和马",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "人马",
+                "pinyin": "rén mǎ",
+                "meaning": "名词，人员和马匹",
+                "type": "实词"
+              }
+            },
+            "项王": {
+              "v1": {
+                "word": "项王",
+                "pinyin": "xiàng wáng",
+                "meaning": "项羽",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "项王",
+                "pinyin": "xiàng wáng",
+                "meaning": "即项羽，秦末起义军领袖，自封西楚霸王",
+                "type": "人名"
+              }
+            }
+          }
+        }
+      },
+      {
+        "original": "汉军不知项王所在，乃分军为三，复围之。",
+        "v1_score": {
+          "version": "v1",
+          "word_count": 9,
+          "errors": 0,
+          "warns": 2,
+          "vague_xuci": 1,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "v2_score": {
+          "version": "v2",
+          "word_count": 13,
+          "errors": 0,
+          "warns": 0,
+          "vague_xuci": 0,
+          "invalid_type": 0,
+          "error_codes": []
+        },
+        "diff": {
+          "v1_only_words": [
+            "分军为三",
+            "不知"
+          ],
+          "v2_only_words": [
+            "不",
+            "分",
+            "军",
+            "三",
+            "知",
+            "为"
+          ],
+          "changed": {
+            "围": {
+              "v1": {
+                "word": "围",
+                "pinyin": "wéi",
+                "meaning": "包围",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "围",
+                "pinyin": "wéi",
+                "meaning": "动词，包围",
+                "type": "实词"
+              }
+            },
+            "复": {
+              "v1": {
+                "word": "复",
+                "pinyin": "fù",
+                "meaning": "又",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "复",
+                "pinyin": "fù",
+                "meaning": "副词，又、再次",
+                "type": "虚词"
+              }
+            },
+            "汉军": {
+              "v1": {
+                "word": "汉军",
+                "pinyin": "hàn jūn",
+                "meaning": "汉朝军队",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "汉军",
+                "pinyin": "hàn jūn",
+                "meaning": "名词，指刘邦的军队",
+                "type": "实词"
+              }
+            },
+            "乃": {
+              "v1": {
+                "word": "乃",
+                "pinyin": "nǎi",
+                "meaning": "于是",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "乃",
+                "pinyin": "nǎi",
+                "meaning": "副词，于是、就",
+                "type": "虚词"
+              }
+            },
+            "之": {
+              "v1": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "他们",
+                "type": "虚词"
+              },
+              "v2": {
+                "word": "之",
+                "pinyin": "zhī",
+                "meaning": "代词，指代项王",
+                "type": "虚词"
+              }
+            },
+            "所在": {
+              "v1": {
+                "word": "所在",
+                "pinyin": "suǒ zài",
+                "meaning": "所在的地方",
+                "type": "实词"
+              },
+              "v2": {
+                "word": "所在",
+                "pinyin": "suǒ zài",
+                "meaning": "名词，所在的地方",
+                "type": "实词"
+              }
+            },
+            "项王": {
+              "v1": {
+                "word": "项王",
+                "pinyin": "xiàng wáng",
+                "meaning": "项羽",
+                "type": "人名"
+              },
+              "v2": {
+                "word": "项王",
+                "pinyin": "xiàng wáng",
+                "meaning": "即项羽，秦末起义军领袖，自封西楚霸王",
+                "type": "人名"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+]

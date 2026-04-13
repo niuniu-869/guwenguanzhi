@@ -1,227 +1,259 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "123_杂说四",
   "title": "杂说四",
   "author": {
     "id": "tang_韩愈",
     "name": "韩愈",
     "dynasty": "tang",
-    "bio": "韩愈（768年－824年），字退之，号昌黎，世称韩昌黎。唐代杰出文学家、思想家、哲学家，古文运动的倡导者，被尊为“唐宋八大家”之首。他倡导文以载道，反对骈文，提倡散文，对后世文学影响深远。代表作有《师说》、《马说》（即《杂说四》）等。韩愈一生仕途起伏，曾任监察御史、刑部侍郎等职，因谏迎佛骨被贬潮州，后官至吏部侍郎。他的散文气势雄健，说理透彻，被誉为“文起八代之衰”。"
+    "bio": "韩愈，字退之，世称韩昌黎，生于768年，卒于824年，河南河阳（今河南孟州）人。唐代文学家、思想家。官至吏部侍郎，曾任监察御史、刑部侍郎等职。代表作有《师说》《进学解》《杂说》等。他是唐代古文运动的倡导者，主张文以载道，反对骈俪文风，被后世尊为唐宋八大家之首。"
   },
   "source": "",
   "dynasty": "tang",
   "volume": 7,
-  "background": "唐朝中期，安史之乱后社会动荡，科举制度虽为选拔人才的主要途径，但常受权贵操控，导致许多有才之士被埋没。韩愈作为古文运动的领袖，倡导文以载道，强调文章应反映社会现实。他自身经历多次贬谪，对人才遭压抑有切肤之痛。《杂说四》正是在这种背景下写成，通过千里马与伯乐的寓言，尖锐批评了当时官僚体系的无能与短视，表达了对公正人才选拔机制的渴望。文章短小精悍，寓意深远，成为千古名篇。",
-  "appreciation": "韩愈的《杂说四》是一篇经典的议论文，以寓言形式探讨人才问题。文章开篇即提出核心论点：“世有伯乐，然后有千里马”，强调识才者的重要性。接着，通过“千里马常有，而伯乐不常有”的对比，揭示人才被埋没的普遍现象。文中对千里马“食不饱，力不足，才美不外见”的描写，生动比喻了人才因缺乏条件而无法发挥潜力。韩愈运用排比句式，如“策之不以其道，食之不能尽其材，鸣之而不能通其意”，层层递进，批判了当权者的无知与专横。结尾的反问“其真无马邪？其真不知马也！”犀利点明主题，讽刺那些空叹“天下无马”却不识人才的人。文章语言精炼，逻辑严密，比喻贴切，体现了韩愈散文“文以载道”的特点，对后世文学影响深远。",
+  "background": "韩愈生活于中唐时期，安史之乱后唐朝中央集权削弱，藩镇割据，宦官专权，社会矛盾加剧。科举制度虽为选拔人才的主要途径，但荐举和门第因素仍影响人才任用。韩愈本人仕途坎坷，因直言进谏多次遭贬，如贞元末年任监察御史时因上书论天旱人饥被贬阳山。写作此文时，他可能正处怀才不遇的境遇，针对当时官僚体系中忽视人才、埋没贤能的现象，以千里马与伯乐为喻，提出批评。",
+  "appreciation": "本文为议论性寓言，结构紧凑，先以“世有伯乐，然后有千里马”立论，继而通过千里马被埋没的层层分析，驳斥“天下无马”的谬说，结尾以反问强化论点。艺术上运用比喻象征，千里马喻人才，伯乐喻识才者，语言简洁有力，多用排比（如“策之不以其道，食之不能尽其材，鸣之而不能通其意”）和反问，增强节奏与说服力。思想内涵聚焦人才与识才的关系，批判统治者不能知人善任，体现儒家入世关怀。作为古文运动的实践，该文以短小篇幅承载深刻议论，对后世散文的寓言化议论有示范作用。",
   "tags": [
-    "人才埋没",
-    "比喻手法",
-    "韩愈散文"
+    "议论",
+    "寓言",
+    "政治",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "世有伯乐，然后有千里马。千里马常有，而伯乐不常有。故虽有名马，只辱于奴隶人之手，骈死于槽枥之间，不以千里称也。",
-      "translation": "世界上有了伯乐，然后才有千里马。千里马经常有，但伯乐不常有。所以即使有好马，也只能在奴仆手中受辱，和普通马一起死在马槽之间，不以千里马著称。",
+      "translation": "世上有了伯乐，然后才会有千里马。千里马经常有，但伯乐不经常有。所以即使有好马，也只能在仆役手中受辱，和普通马一起死在马厩里，不以千里马著称。",
       "sentences": [
         {
           "original": "世有伯乐，然后有千里马。",
-          "translation": "世界上有了伯乐，然后才有千里马。",
+          "translation": "世上有了伯乐，然后才会有千里马。",
           "words": [
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世间",
+              "meaning": "名词，世间、世上",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "伯乐",
-              "pinyin": "Bólè",
-              "meaning": "善相马者",
+              "pinyin": "bó lè",
+              "meaning": "春秋中期秦国人，本名孙阳，以善于相马著称，本文中作为能识别人才的智者象征",
               "type": "人名"
             },
             {
-              "word": "然后",
-              "pinyin": "ránhòu",
-              "meaning": "这样以后",
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "指示代词，这样（指代‘世有伯乐’这一前提）",
               "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "时间副词，之后、以后",
+              "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，出现、产生",
               "type": "实词"
             },
             {
               "word": "千里马",
-              "pinyin": "qiānlǐmǎ",
-              "meaning": "日行千里马",
-              "type": "典故"
+              "pinyin": "qiān lǐ mǎ",
+              "meaning": "能日行千里的骏马，文中比喻有才能的人",
+              "type": "实词"
             }
           ]
         },
         {
           "original": "千里马常有，而伯乐不常有。",
-          "translation": "千里马经常有，但伯乐不常有。",
+          "translation": "千里马经常有，但伯乐不经常有。",
           "words": [
             {
               "word": "千里马",
-              "pinyin": "qiānlǐmǎ",
-              "meaning": "日行千里马",
-              "type": "典故"
+              "pinyin": "qiān lǐ mǎ",
+              "meaning": "能日行千里的骏马，文中比喻有才能的人",
+              "type": "实词"
             },
             {
-              "word": "常有",
-              "pinyin": "chángyǒu",
-              "meaning": "经常有",
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "副词，经常、长久",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，但是、可是",
               "type": "虚词"
             },
             {
               "word": "伯乐",
-              "pinyin": "Bólè",
-              "meaning": "善相马者",
+              "pinyin": "bó lè",
+              "meaning": "春秋中期秦国人，本名孙阳，以善于相马著称，本文中作为能识别人才的智者象征",
               "type": "人名"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
-              "type": "虚词"
+              "meaning": "否定副词，表示否定",
+              "type": "实词"
             },
             {
-              "word": "常有",
-              "pinyin": "chángyǒu",
-              "meaning": "经常有",
+              "word": "常",
+              "pinyin": "cháng",
+              "meaning": "副词，经常、长久",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，存在",
               "type": "实词"
             }
           ]
         },
         {
           "original": "故虽有名马，只辱于奴隶人之手，骈死于槽枥之间，不以千里称也。",
-          "translation": "所以即使有好马，也只能在奴仆手中受辱，和普通马一起死在马槽之间，不以千里马著称。",
+          "translation": "所以即使有好马，也只能在仆役手中受辱，和普通马一起死在马厩里，不以千里马著称。",
           "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示因果关系，相当于'所以'",
               "type": "虚词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步，相当于'即使'",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，表示存在、拥有",
               "type": "实词"
             },
             {
               "word": "名马",
-              "pinyin": "míngmǎ",
-              "meaning": "好马",
+              "pinyin": "míng mǎ",
+              "meaning": "名词，指有名的马、良马",
               "type": "实词"
             },
             {
               "word": "只",
               "pinyin": "zhǐ",
-              "meaning": "仅仅",
+              "meaning": "副词，表示限止，相当于'仅仅'、'只是'",
               "type": "虚词"
             },
             {
               "word": "辱",
               "pinyin": "rǔ",
-              "meaning": "受辱",
+              "meaning": "动词，受屈辱、被埋没",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的处所或对象，相当于'在'、'从'",
               "type": "虚词"
             },
             {
               "word": "奴隶人",
-              "pinyin": "núlìrén",
-              "meaning": "仆役",
+              "pinyin": "nú lì rén",
+              "meaning": "名词，指奴隶般的人，喻指平庸无能的人",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于'的'，表示领属关系",
               "type": "虚词"
             },
             {
               "word": "手",
               "pinyin": "shǒu",
-              "meaning": "手",
+              "meaning": "名词，指手中、掌控之下",
               "type": "实词"
             },
             {
-              "word": "骈死",
-              "pinyin": "piánsǐ",
-              "meaning": "一起死",
+              "word": "骈",
+              "pinyin": "pián",
+              "meaning": "动词，并列、一同",
+              "type": "实词"
+            },
+            {
+              "word": "死",
+              "pinyin": "sǐ",
+              "meaning": "动词，死亡",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "槽枥",
-              "pinyin": "cáolì",
-              "meaning": "马槽",
+              "pinyin": "cáo lì",
+              "meaning": "名词，指马槽，代指马厩",
               "type": "实词"
             },
             {
-              "word": "之间",
-              "pinyin": "zhījiān",
-              "meaning": "中间",
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，相当于'的'",
               "type": "虚词"
+            },
+            {
+              "word": "间",
+              "pinyin": "jiān",
+              "meaning": "名词，指中间、之间",
+              "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "副词，表示否定，相当于'不'",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借或原因，相当于'用'、'因为'",
               "type": "虚词"
             },
             {
               "word": "千里",
-              "pinyin": "qiānlǐ",
-              "meaning": "千里马",
-              "type": "典故"
+              "pinyin": "qiān lǐ",
+              "meaning": "数量词，指千里马，喻指才能出众的人",
+              "type": "实词"
             },
             {
               "word": "称",
               "pinyin": "chēng",
-              "meaning": "称道",
+              "meaning": "此处读 chēng，义为著称、被称为",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示判断与肯定",
               "type": "虚词"
             }
           ]
@@ -230,334 +262,352 @@
     },
     {
       "original": "马之千里者，一食或尽粟一石。食马者，不知其能千里而食也。是马也，虽有千里之能，食不饱，力不足，才美不外见。且欲与常马等不可得，安求其能千里也？",
-      "translation": "能日行千里的马，一顿有时能吃完一石粟米。喂马的人，不知道它能日行千里而喂养它。这样的马，虽然有日行千里的才能，但吃不饱，力气不足，才能和优点不能显现出来。况且想要和普通的马一样都做不到，怎么能要求它日行千里呢？",
+      "translation": "千里马，一顿有时能吃尽一石粟米。喂养马的人，不知道它能日行千里而（按千里马的标准）喂养。这样的马，虽然有日行千里的才能，但吃不饱，力气不足，才能和优点不能从外部显现。况且想要和普通马一样尚且不可能，怎么能要求它日行千里呢？",
       "sentences": [
         {
           "original": "马之千里者，一食或尽粟一石。",
-          "translation": "能日行千里的马，一顿有时能吃完一石粟米。",
+          "translation": "千里马，一顿有时能吃尽一石粟米。",
           "words": [
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语后置的标志，用于中心词“马”和后置定语“千里”之间",
               "type": "虚词"
             },
             {
               "word": "千里",
               "pinyin": "qiān lǐ",
-              "meaning": "千里",
+              "meaning": "数量词，指日行千里（的路程或能力）",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的",
+              "meaning": "助词，与前面的“之”呼应，构成“之…者”结构，作为定语后置的标志，相当于“马中能跑千里的（马）”",
               "type": "虚词"
             },
             {
-              "word": "一食",
-              "pinyin": "yī shí",
-              "meaning": "吃一次",
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "数词，一次",
+              "type": "实词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "此处读 shí，动词，吃（一顿饭）",
               "type": "实词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有时",
+              "meaning": "虚词，副词，表示不肯定，有时、或许",
               "type": "虚词"
             },
             {
               "word": "尽",
               "pinyin": "jìn",
-              "meaning": "吃完",
+              "meaning": "动词，吃尽、吃完",
               "type": "实词"
             },
             {
               "word": "粟",
               "pinyin": "sù",
-              "meaning": "粟米",
+              "meaning": "名词，小米，古代主要粮食作物之一",
               "type": "实词"
             },
             {
-              "word": "一石",
-              "pinyin": "yī dàn",
-              "meaning": "一石",
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "数词，一",
+              "type": "实词"
+            },
+            {
+              "word": "石",
+              "pinyin": "dàn",
+              "meaning": "量词，容量单位，十斗为一石",
               "type": "实词"
             }
           ]
         },
         {
           "original": "食马者，不知其能千里而食也。",
-          "translation": "喂马的人，不知道它能日行千里而喂养它。",
+          "translation": "喂养马的人，不知道它能日行千里而（按千里马的标准）喂养。",
           "words": [
             {
               "word": "食",
-              "pinyin": "shì",
-              "meaning": "喂养",
+              "pinyin": "sì",
+              "meaning": "此处读 sì，通“饲”，动词，喂养",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，与动词性短语“食马”结合，构成名词性短语，表示“喂养马的人”",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代前文提到的千里马",
+              "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能",
+              "meaning": "能愿动词，能够",
               "type": "实词"
             },
             {
               "word": "千里",
               "pinyin": "qiān lǐ",
-              "meaning": "千里",
+              "meaning": "数量词，指日行千里",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而",
+              "meaning": "连词，连接状语“能千里”和动词“食”，表示顺承关系",
               "type": "虚词"
             },
             {
               "word": "食",
-              "pinyin": "shí",
-              "meaning": "吃",
+              "pinyin": "sì",
+              "meaning": "此处读 sì，通“饲”，动词，喂养",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表陈述和肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "是马也，虽有千里之能，食不饱，力不足，才美不外见。",
-          "translation": "这样的马，虽然有日行千里的才能，但吃不饱，力气不足，才能和优点不能显现出来。",
+          "translation": "这样的马，虽然有日行千里的才能，但吃不饱，力气不足，才能和优点不能从外部显现。",
           "words": [
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，这、这个。在句中作主语，指代前文的千里马。",
+              "type": "虚词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句中语气词，表停顿，舒缓语气，引出下文。",
               "type": "虚词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，即使。表让步，承认“有千里之能”的事实。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，具有、拥有。",
               "type": "实词"
             },
             {
               "word": "千里",
               "pinyin": "qiān lǐ",
-              "meaning": "千里",
+              "meaning": "数量词组，指日行千里的能力。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”，连接定语“千里”和中心语“能”。",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能力",
+              "meaning": "名词，能力、才能。",
               "type": "实词"
             },
             {
               "word": "食",
               "pinyin": "shí",
-              "meaning": "吃",
+              "meaning": "动词，吃。此处读 shí，义为进食（区别于 sì 之“喂养”义）。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表否定。",
               "type": "虚词"
             },
             {
               "word": "饱",
               "pinyin": "bǎo",
-              "meaning": "饱",
+              "meaning": "形容词，吃饱、满足。",
               "type": "实词"
             },
             {
               "word": "力",
               "pinyin": "lì",
-              "meaning": "力量",
+              "meaning": "名词，力气、体力。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表否定。",
               "type": "虚词"
             },
             {
               "word": "足",
               "pinyin": "zú",
-              "meaning": "足够",
+              "meaning": "形容词，足够、充足。",
               "type": "实词"
             },
             {
-              "word": "才",
-              "pinyin": "cái",
-              "meaning": "才能",
-              "type": "实词"
-            },
-            {
-              "word": "美",
-              "pinyin": "měi",
-              "meaning": "美好",
+              "word": "才美",
+              "pinyin": "cái měi",
+              "meaning": "复合名词，才能和优点。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表否定。",
               "type": "虚词"
             },
             {
               "word": "外",
               "pinyin": "wài",
-              "meaning": "向外",
-              "type": "虚词"
+              "meaning": "方位名词作状语，向外。",
+              "type": "实词"
             },
             {
               "word": "见",
               "pinyin": "xiàn",
-              "meaning": "显现",
+              "meaning": "动词，显现、显露。此处读 xiàn，义为表现出来（区别于 jiàn 之“看见”义）。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "且欲与常马等不可得，安求其能千里也？",
-          "translation": "况且想要和普通的马一样都做不到，怎么能要求它日行千里呢？",
+          "translation": "况且想要和普通马一样尚且不可能，怎么能要求它日行千里呢？",
           "words": [
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "况且",
+              "meaning": "连词，况且、而且。表递进关系，进一步论述。",
               "type": "虚词"
             },
             {
               "word": "欲",
               "pinyin": "yù",
-              "meaning": "想要",
+              "meaning": "动词，想要、期望。",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和、跟",
+              "meaning": "介词，跟、和。引出比较对象“常马”。",
               "type": "虚词"
             },
             {
               "word": "常马",
               "pinyin": "cháng mǎ",
-              "meaning": "普通的马",
+              "meaning": "名词短语，普通的马。",
               "type": "实词"
             },
             {
               "word": "等",
               "pinyin": "děng",
-              "meaning": "等同",
+              "meaning": "动词，等同、一样。",
               "type": "实词"
             },
             {
-              "word": "不可得",
-              "pinyin": "bù kě dé",
-              "meaning": "不能得到",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表否定。",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "动词，可以、能够。",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "动词，实现、办到。",
               "type": "实词"
             },
             {
               "word": "安",
               "pinyin": "ān",
-              "meaning": "怎么",
-              "type": "实词"
+              "meaning": "疑问代词，怎么、哪里。表反问语气。",
+              "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "要求",
+              "meaning": "动词，要求、追求。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，它，指代千里马。",
+              "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "动词，能够。",
               "type": "实词"
             },
             {
               "word": "千里",
               "pinyin": "qiān lǐ",
-              "meaning": "千里马",
+              "meaning": "数量词组，日行千里。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊、呢",
+              "meaning": "句末语气词，与疑问代词“安”配合，表反问语气。",
               "type": "虚词"
             }
           ]
@@ -566,256 +616,286 @@
     },
     {
       "original": "策之不以其道，食之不能尽其材，鸣之而不能通其意，执策而临之曰：“天下无马！”呜呼！其真无马邪？其真不知马也！",
-      "translation": "鞭策马不按照正确的方法，喂养马不能让它充分发挥才能，马鸣叫时却不能理解它的意思，拿着鞭子面对马说：‘天下没有马！’唉！是真的没有马吗？是真的不认识马啊！",
+      "translation": "驱使它不按照正确的方法，喂养它不能使它的才能完全发挥，它嘶鸣却不能理解它的心意，却拿着马鞭面对着马说：“天下没有千里马！”唉！难道真的没有千里马吗？其实是真的不了解马啊！",
       "sentences": [
         {
-          "original": "策之不以其道",
-          "translation": "鞭策马不按照正确的方法",
+          "original": "策之不以其道，食之不能尽其材，鸣之而不能通其意，",
+          "translation": "驱使它不按照正确的方法，喂养它不能使它的才能完全发挥，它嘶鸣却不能理解它的心意，",
           "words": [
             {
               "word": "策",
               "pinyin": "cè",
-              "meaning": "鞭策",
+              "meaning": "动词，鞭策，驱使马匹",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代马",
+              "meaning": "代词，指代前文提到的千里马",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "否定副词，修饰动词，表示否定",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借、使用某种方法",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指千里马的才能或特征",
               "type": "虚词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "方法",
+              "meaning": "名词，正确的方法或途径",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "食之不能尽其材",
-          "translation": "喂养马不能让它充分发挥才能",
-          "words": [
+            },
             {
               "word": "食",
               "pinyin": "sì",
-              "meaning": "喂养",
+              "meaning": "通'饲'，义为喂养千里马",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代马",
+              "meaning": "代词，指代被喂养的千里马",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "否定副词，修饰能愿动词，表示否定",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能愿动词，表示有能力做某事",
+              "type": "实词"
             },
             {
               "word": "尽",
               "pinyin": "jìn",
-              "meaning": "竭尽",
+              "meaning": "动词，竭尽，充分发挥才能",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指千里马的潜在才能",
               "type": "虚词"
             },
             {
               "word": "材",
               "pinyin": "cái",
-              "meaning": "才能",
+              "meaning": "通'才'，指千里马的才能",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "鸣之而不能通其意",
-          "translation": "马鸣叫时却不能理解它的意思",
-          "words": [
+            },
             {
               "word": "鸣",
               "pinyin": "míng",
-              "meaning": "嘶鸣",
+              "meaning": "动词，指马嘶鸣，表达需求",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代马",
+              "meaning": "代词，指代嘶鸣的千里马",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，连接两个动作，表示转折",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "否定副词，修饰动词，表示否定",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能愿动词，表示有能力做某事",
+              "type": "实词"
             },
             {
               "word": "通",
               "pinyin": "tōng",
-              "meaning": "通晓",
+              "meaning": "动词，通晓，理解马的意图",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指千里马所表达的意思",
               "type": "虚词"
             },
             {
               "word": "意",
               "pinyin": "yì",
-              "meaning": "意思",
+              "meaning": "名词，指千里马想要表达的意思",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "执策而临之曰：‘天下无马！’",
-          "translation": "拿着鞭子面对马说：‘天下没有马！’",
+          "original": "执策而临之曰：“天下无马！”",
+          "translation": "拿着马鞭面对着马说：“天下没有千里马！”",
           "words": [
             {
-              "word": "执策",
-              "pinyin": "zhí cè",
-              "meaning": "拿着马鞭",
+              "word": "执",
+              "pinyin": "zhí",
+              "meaning": "动词，握着，手持马鞭",
+              "type": "实词"
+            },
+            {
+              "word": "策",
+              "pinyin": "cè",
+              "meaning": "名词，马鞭，驱马的工具",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，承接",
+              "meaning": "连词，连接状语'执策'和动词'临'，表示方式",
               "type": "虚词"
             },
             {
-              "word": "临之",
-              "pinyin": "lín zhī",
-              "meaning": "面对它",
+              "word": "临",
+              "pinyin": "lín",
+              "meaning": "动词，面对，对着千里马",
               "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代所面对的千里马",
+              "type": "虚词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说，开始讲话",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "名词，天下，指世间或全国",
               "type": "实词"
             },
             {
-              "word": "无马",
-              "pinyin": "wú mǎ",
-              "meaning": "没有马",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "呜呼！其真无马邪？其真不知马也！",
-          "translation": "唉！是真的没有马吗？是真的不认识马啊！",
-          "words": [
-            {
-              "word": "呜呼",
-              "pinyin": "wū hū",
-              "meaning": "唉",
-              "type": "虚词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "难道",
-              "type": "虚词"
-            },
-            {
-              "word": "真",
-              "pinyin": "zhēn",
-              "meaning": "真正",
-              "type": "实词"
-            },
-            {
-              "word": "无马",
-              "pinyin": "wú mǎ",
-              "meaning": "没有马",
-              "type": "实词"
-            },
-            {
-              "word": "邪",
-              "pinyin": "yé",
-              "meaning": "吗",
-              "type": "虚词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "难道",
-              "type": "虚词"
-            },
-            {
-              "word": "真",
-              "pinyin": "zhēn",
-              "meaning": "真正",
-              "type": "实词"
-            },
-            {
-              "word": "不知",
-              "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，表示没有某种事物",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马，特指千里马",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "呜呼！",
+          "translation": "唉！",
+          "words": [
+            {
+              "word": "呜呼",
+              "pinyin": "wū hū",
+              "meaning": "语气词，独立使用，表示强烈的叹息或感慨，此处针对'天下无马'的感叹。",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其真无马邪？",
+          "translation": "难道真的没有千里马吗？",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "语气副词，表示反问，此处加强疑问语气，意为'难道'。",
+              "type": "虚词"
+            },
+            {
+              "word": "真",
+              "pinyin": "zhēn",
+              "meaning": "副词，真正、确实，强调'无马'的真实性。",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，没有，表示不存在。",
+              "type": "实词"
+            },
+            {
+              "word": "马",
+              "pinyin": "mǎ",
+              "meaning": "名词，千里马，比喻有才能的人。",
+              "type": "实词"
+            },
+            {
+              "word": "邪",
+              "pinyin": "yé",
+              "meaning": "此处读 yé，义为句末疑问语气词，表示反问或疑问，相当于'吗'。",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "其真不知马也！",
+          "translation": "其实是真的不了解马啊！",
+          "words": [
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "语气副词，表反问，指代前文'天下无马'之说，相当于'难道'",
+              "type": "虚词"
+            },
+            {
+              "word": "真",
+              "pinyin": "zhēn",
+              "meaning": "副词，确实、真正，强调'不知'的程度",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定，修饰'知'",
+              "type": "实词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，知道、识别，指识别千里马的能力",
+              "type": "实词"
+            },
+            {
+              "word": "马",
+              "pinyin": "mǎ",
+              "meaning": "名词，指千里马，本文喻指人才",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断与肯定，加强'不知马'的断定语气",
               "type": "虚词"
             }
           ]

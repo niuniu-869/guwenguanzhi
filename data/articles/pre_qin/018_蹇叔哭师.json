@@ -1,173 +1,181 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "018_蹇叔哭师",
   "title": "蹇叔哭师",
   "author": {
     "id": "pre_qin_左丘明",
     "name": "左丘明",
     "dynasty": "pre_qin",
-    "bio": "左丘明，生卒年不详，约生活在春秋末期，鲁国史官。相传为《左传》的作者，该书是中国古代第一部编年体史书，详细记载了春秋时期的历史，兼具历史与文学价值。左丘明被后世尊为‘文宗史祖’，字丘明（一说无字号），孔子曾称赞其为‘君子’。他的作品以叙事简洁、人物生动著称，对后世史学和文学产生了深远影响，是先秦时期重要的思想家和文学家。"
+    "bio": "左丘明，春秋末期鲁国人，生卒年不详，约与孔子同时或稍后。相传姓左，名丘明，曾任鲁国太史，负责记录历史。代表作《左传》（又称《春秋左氏传》）和《国语》。《左传》是中国古代第一部叙事详细的编年体史书，记载春秋时期历史，兼具史学与文学价值，对后世散文和史学编纂有深远影响。"
   },
   "source": "左传",
   "dynasty": "pre_qin",
   "volume": 1,
-  "background": "《蹇叔哭师》出自《左传》，记载了春秋时期秦国的一段历史事件。当时，秦国在秦穆公的领导下，国力渐强，意图向东扩张，参与中原争霸。公元前627年，秦国大夫杞子驻守郑国，掌管北门钥匙，他密告秦穆公，若秦军偷偷来袭，可一举占领郑国。秦穆公咨询老臣蹇叔，蹇叔以‘劳师以袭远’为由反对，认为军队疲劳、远方有备，必遭失败。但秦穆公刚愎自用，不听劝告，派孟明等将领出兵。蹇叔哭送军队，预言秦军将在殽山被晋军伏击。这篇文章通过历史事件，展现了春秋时期的诸侯争霸、战略失误和忠臣的远见，具有深刻的警示意义，反映了《左传》以史为鉴的编纂目的。",
-  "appreciation": "《蹇叔哭师》是《左传》中的名篇，文学价值极高。文章以精炼的语言叙述事件，通过对话推动情节，生动刻画人物形象。蹇叔的远见卓识与悲情哭诉，秦穆公的傲慢固执，形成鲜明对比，增强了戏剧张力。语言简洁有力，如‘劳师以袭远，非所闻也’一针见血，体现了先秦散文的含蓄与深刻。预言元素‘晋人御师必于殽’增强悲剧色彩，预示秦军的失败，使叙事充满悬念和宿命感。结构上，从告密到出征，再到蹇叔的哭送，结局隐含，留给读者深思，展现了《左传》叙事的艺术性。此外，细节描写如‘蹇叔哭之’、‘哭而送之’，情感真挚，刻画了父爱的悲凉与忠臣的无奈。秦穆公的回应‘尔何知！中寿，尔墓之木拱矣！’生动表现其不耐与轻蔑，人物心理跃然纸上。全文节奏紧凑，以史为鉴，寓理于事，是中国古代散文的典范，对后世史传文学影响深远。",
+  "background": "《蹇叔哭师》出自《左传》，记载春秋时期秦穆公三十三年（公元前627年）的事件。当时周王室衰微，诸侯争霸，秦国在秦穆公治理下国力增强，意图向东扩张。秦将杞子驻守郑国，掌管北门钥匙，建议偷袭郑国。秦穆公咨询老臣蹇叔，蹇叔反对劳师远袭，认为军队疲惫、郑国必知，且长途行军易暴露。穆公不听，执意出兵。作者左丘明作为鲁国史官，编纂《左传》时记录此事，旨在通过历史事件呈现春秋时期的政治军事决策过程，警示后人战略失误的后果。",
+  "appreciation": "本文是《左传》中叙事散文的典型篇章，结构紧凑，以事件发展为线索：先交代背景，再通过蹇叔与秦穆公的对话展开冲突，最后以蹇叔哭送预言结局。文体以叙事为主，穿插议论和抒情，如蹇叔的哭谏兼具情感与理性分析。艺术特色上，语言简洁生动，对话富有戏剧性；运用对比手法，突出蹇叔的远见与秦穆公的固执；节奏紧张，通过预言（如“晋人御师必于殽”）增强悬念。思想内涵强调军事战略中“知己知彼”和纳谏的重要性，反映先秦时期对智慧与谦逊的推崇。文学史地位上，此文体现《左传》的叙事技巧，对后世史传文学有示范作用。",
   "tags": [
-    "历史叙事",
-    "人物对话",
-    "预言悲剧"
+    "叙事",
+    "军事",
+    "政治",
+    "人物"
   ],
   "paragraphs": [
     {
       "original": "杞子自郑使告于秦曰：“郑人使我掌其北门之管，若潜师以来，国可得也。”",
-      "translation": "杞子从郑国派人告诉秦国说：“郑国人让我掌管他们北门的钥匙，如果秘密派军队前来，就可以得到郑国。”",
+      "translation": "杞子从郑国派人向秦国报告说：“郑国人让我掌管他们北门的钥匙，如果秘密出兵前来，就可以夺取郑国。”",
       "sentences": [
         {
-          "original": "杞子自郑使告于秦曰",
-          "translation": "杞子从郑国派人告诉秦国说",
+          "original": "杞子自郑使告于秦曰：“郑人使我掌其北门之管，若潜师以来，国可得也。”",
+          "translation": "杞子从郑国派人向秦国报告说：“郑国人让我掌管他们北门的钥匙，如果秘密出兵前来，就可以夺取郑国。”",
           "words": [
             {
               "word": "杞子",
               "pinyin": "qǐ zǐ",
-              "meaning": "秦国大夫",
+              "meaning": "春秋时期秦国大夫，被派驻郑国，此处为内应",
               "type": "人名"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "从",
+              "meaning": "介词，表示动作的起点，相当于'从'",
               "type": "虚词"
             },
             {
               "word": "郑",
               "pinyin": "zhèng",
-              "meaning": "郑国",
+              "meaning": "春秋时期诸侯国，在今河南新郑一带",
               "type": "地名"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "派遣",
+              "meaning": "此处读 shǐ，义为派遣",
               "type": "实词"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告知",
+              "meaning": "动词，报告、告知",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "向",
+              "meaning": "介词，引出动作的对象，相当于'向'",
               "type": "虚词"
             },
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
+              "meaning": "春秋时期诸侯国，在今陕西一带",
               "type": "地名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "郑人使我掌其北门之管，若潜师以来，国可得也。",
-          "translation": "郑国人让我掌管他们北门的钥匙，如果秘密派军队前来，就可以得到郑国。",
-          "words": [
+            },
             {
-              "word": "郑人",
-              "pinyin": "zhèng rén",
-              "meaning": "郑国人",
+              "word": "郑",
+              "pinyin": "zhèng",
+              "meaning": "春秋时期诸侯国，在今河南新郑一带",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，指郑国之人",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "此处读 shǐ，义为让、命令",
               "type": "实词"
             },
             {
               "word": "我",
               "pinyin": "wǒ",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "人称代词，指杞子自己",
+              "type": "虚词"
             },
             {
               "word": "掌",
               "pinyin": "zhǎng",
-              "meaning": "掌管",
+              "meaning": "动词，掌管、控制",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指郑国的",
               "type": "虚词"
             },
             {
               "word": "北门",
               "pinyin": "běi mén",
-              "meaning": "北城门",
+              "meaning": "名词，北边的城门",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示领属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "管",
               "pinyin": "guǎn",
-              "meaning": "钥匙",
+              "meaning": "名词，钥匙",
               "type": "实词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表示假设，相当于'如果'",
               "type": "虚词"
             },
             {
               "word": "潜师",
               "pinyin": "qián shī",
-              "meaning": "秘密军队",
+              "meaning": "名词，秘密行军的军队",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，连接'潜师'和'来'，表示方式",
               "type": "虚词"
             },
             {
               "word": "来",
               "pinyin": "lái",
-              "meaning": "到来",
+              "meaning": "动词，前来",
               "type": "实词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "名词，指郑国",
               "type": "实词"
             },
             {
-              "word": "可得",
-              "pinyin": "kě dé",
-              "meaning": "可以得到",
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "能愿动词，可以",
+              "type": "实词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "动词，得到",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "了",
+              "meaning": "句末语气词，表示肯定或判断",
               "type": "虚词"
             }
           ]
@@ -176,46 +184,46 @@
     },
     {
       "original": "穆公访诸蹇叔，蹇叔曰：“劳师以袭远，非所闻也。师劳力竭，远主备之，无乃不可乎？师之所为，郑必知之。勤而无所，必有悖心。且行千里，其谁不知？”",
-      "translation": "秦穆公向蹇叔咨询这件事。蹇叔说：“让军队疲劳去袭击远方，我没有听说过这样的事。军队疲劳力量耗尽，远方的君主有所防备，恐怕不行吧？军队的行动，郑国一定会知道。劳苦而无所得，士兵必然会有叛逆之心。而且行军千里，谁会不知道呢？”",
+      "translation": "穆公向蹇叔咨询这件事，蹇叔说：“使军队疲劳去袭击远方，我没有听说过这样的事。军队疲劳力量耗尽，远方的主人防备它，恐怕不行吧？军队的行动，郑国一定会知道。劳苦而没有所得，一定会产生叛逆之心。而且行军千里，谁会不知道呢？”",
       "sentences": [
         {
-          "original": "穆公访诸蹇叔，",
-          "translation": "秦穆公向蹇叔咨询这件事。",
+          "original": "穆公访诸蹇叔",
+          "translation": "穆公向蹇叔咨询这件事。",
           "words": [
             {
               "word": "穆公",
-              "pinyin": "Mù Gōng",
-              "meaning": "秦穆公",
+              "pinyin": "mù gōng",
+              "meaning": "即秦穆公，春秋时期秦国国君，春秋五霸之一",
               "type": "人名"
             },
             {
               "word": "访",
               "pinyin": "fǎng",
-              "meaning": "询问",
+              "meaning": "咨询，征求意见",
               "type": "实词"
             },
             {
               "word": "诸",
               "pinyin": "zhū",
-              "meaning": "之于",
+              "meaning": "合音字，相当于“之于”（“之”指代袭郑这件事，“于”表对象）",
               "type": "虚词"
             },
             {
               "word": "蹇叔",
-              "pinyin": "Jiǎn Shū",
-              "meaning": "蹇叔",
+              "pinyin": "jiǎn shū",
+              "meaning": "秦国老臣，有贤名，此处为穆公咨询的对象",
               "type": "人名"
             }
           ]
         },
         {
           "original": "蹇叔曰：“劳师以袭远，非所闻也。”",
-          "translation": "蹇叔说：“让军队疲劳去袭击远方，我没有听说过这样的事。”",
+          "translation": "蹇叔说：“使军队疲劳去袭击远方，我没有听说过这样的事。”",
           "words": [
             {
               "word": "蹇叔",
-              "pinyin": "Jiǎn Shū",
-              "meaning": "蹇叔",
+              "pinyin": "jiǎn shū",
+              "meaning": "秦国老臣，有贤名，此处为穆公咨询的对象",
               "type": "人名"
             },
             {
@@ -225,47 +233,11 @@
               "type": "实词"
             },
             {
-              "word": "劳师",
-              "pinyin": "láo shī",
-              "meaning": "使军队疲劳",
+              "word": "劳",
+              "pinyin": "láo",
+              "meaning": "使……疲劳",
               "type": "实词"
             },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
-            },
-            {
-              "word": "袭远",
-              "pinyin": "xí yuǎn",
-              "meaning": "袭击远方",
-              "type": "实词"
-            },
-            {
-              "word": "非",
-              "pinyin": "fēi",
-              "meaning": "不是",
-              "type": "虚词"
-            },
-            {
-              "word": "所闻",
-              "pinyin": "suǒ wén",
-              "meaning": "听说过的事",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "师劳力竭，远主备之，无乃不可乎？",
-          "translation": "军队疲劳力量耗尽，远方的君主有所防备，恐怕不行吧？",
-          "words": [
             {
               "word": "师",
               "pinyin": "shī",
@@ -273,51 +245,105 @@
               "type": "实词"
             },
             {
-              "word": "劳",
-              "pinyin": "láo",
-              "meaning": "疲劳",
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "连词，表目的，可译为“来”、“用来”",
+              "type": "虚词"
+            },
+            {
+              "word": "袭",
+              "pinyin": "xí",
+              "meaning": "偷袭",
               "type": "实词"
             },
             {
-              "word": "力竭",
-              "pinyin": "lì jié",
-              "meaning": "力量耗尽",
+              "word": "远",
+              "pinyin": "yuǎn",
+              "meaning": "远方的国家（指郑国）",
+              "type": "实词"
+            },
+            {
+              "word": "非",
+              "pinyin": "fēi",
+              "meaning": "不是",
+              "type": "实词"
+            },
+            {
+              "word": "所闻",
+              "pinyin": "suǒ wén",
+              "meaning": "“所”字结构，指听到过的（道理、事例）",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "师劳力竭，远主备之，无乃不可乎？",
+          "translation": "军队疲劳力量耗尽，远方的主人防备它，恐怕不行吧？",
+          "words": [
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "军队，指秦国准备偷袭郑国的部队",
+              "type": "实词"
+            },
+            {
+              "word": "劳",
+              "pinyin": "láo",
+              "meaning": "疲劳、劳累，形容军队长途行军的状态",
+              "type": "实词"
+            },
+            {
+              "word": "力",
+              "pinyin": "lì",
+              "meaning": "力量、精力，指军队的战斗力",
+              "type": "实词"
+            },
+            {
+              "word": "竭",
+              "pinyin": "jié",
+              "meaning": "用尽、枯竭，与“力”连用表示力量耗尽",
               "type": "实词"
             },
             {
               "word": "远主",
               "pinyin": "yuǎn zhǔ",
-              "meaning": "远方君主",
+              "meaning": "远方的君主，特指郑国国君，因郑国距秦国较远",
               "type": "实词"
             },
             {
               "word": "备",
               "pinyin": "bèi",
-              "meaning": "防备",
+              "meaning": "防备、戒备，指郑国对秦军的警觉",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代军队",
+              "meaning": "代词，指代前文秦国军队的行动",
               "type": "虚词"
             },
             {
               "word": "无乃",
               "pinyin": "wú nǎi",
-              "meaning": "恐怕",
+              "meaning": "固定结构“无乃…乎”的组成部分，表示推测或反问语气，相当于“恐怕”",
               "type": "虚词"
             },
             {
               "word": "不可",
               "pinyin": "bù kě",
-              "meaning": "不可以",
+              "meaning": "不可以、不行，表示对行动的否定",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，与“无乃”呼应，构成反问句，表示推测或反问",
               "type": "虚词"
             }
           ]
@@ -329,103 +355,103 @@
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "军队",
+              "meaning": "军队，指秦国军队",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于定语和中心语之间，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "助词",
+              "meaning": "助词，与动词“为”构成“所”字结构，表示“…的事情”",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "做",
+              "meaning": "此处读 wéi，义为做、施行，指军队的行动",
               "type": "实词"
             },
             {
               "word": "郑",
               "pinyin": "zhèng",
-              "meaning": "郑国",
+              "meaning": "春秋时期姬姓诸侯国，都城在今河南新郑，本文中为秦国袭击目标",
               "type": "地名"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
+              "meaning": "一定、必然，表示肯定的推测",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "知晓、了解，指郑国察觉秦军动向",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代“师之所为”，即军队的所作所为",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "勤而无所，必有悖心。",
-          "translation": "劳苦而无所得，士兵必然会有叛逆之心。",
+          "translation": "劳苦而没有所得，一定会产生叛逆之心。",
           "words": [
             {
               "word": "勤",
               "pinyin": "qín",
-              "meaning": "劳苦",
+              "meaning": "动词，劳苦、辛苦，指军队疲劳。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，连接'勤'和'无所'，相当于'却'、'但是'。",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有，表示缺乏。",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "助词",
+              "meaning": "助词，与动词'无'组成'所'字结构，'无所'指没有所得或没有目的。",
               "type": "虚词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
-              "type": "实词"
+              "meaning": "副词，一定、必然，修饰'有'表示肯定。",
+              "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，具有、产生，在句中指产生悖逆之心。",
               "type": "实词"
             },
             {
               "word": "悖",
               "pinyin": "bèi",
-              "meaning": "悖逆",
+              "meaning": "形容词，悖逆、违背，修饰'心'。",
               "type": "实词"
             },
             {
               "word": "心",
               "pinyin": "xīn",
-              "meaning": "心思",
+              "meaning": "名词，心思、心理，指悖逆的心理状态。",
               "type": "实词"
             }
           ]
@@ -437,43 +463,49 @@
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "而且",
+              "meaning": "连词，而且、况且，表示递进关系。",
               "type": "虚词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行走",
+              "meaning": "此处读 xíng，义为行走、行军，指军队行进。",
               "type": "实词"
             },
             {
-              "word": "千里",
-              "pinyin": "qiān lǐ",
-              "meaning": "千里远",
+              "word": "千",
+              "pinyin": "qiān",
+              "meaning": "数词，一千，表示距离。",
+              "type": "实词"
+            },
+            {
+              "word": "里",
+              "pinyin": "lǐ",
+              "meaning": "量词，长度单位，古代一里约半公里。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "语气词",
+              "meaning": "语气词，加强反问语气，相当于'难道'，用于'其谁不知'中。",
               "type": "虚词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁",
-              "type": "实词"
+              "meaning": "疑问代词，谁、哪个人，在句中作主语。",
+              "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
-              "type": "实词"
+              "meaning": "否定副词，表示否定，修饰'知'。",
+              "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解，指知晓军队行动。",
               "type": "实词"
             }
           ]
@@ -482,88 +514,94 @@
     },
     {
       "original": "公辞焉。召孟明、西乞、白乙，使出师于东门之外。蹇叔哭之，曰：“孟子，吾见师之出而不见其入也。”公使谓之曰：“尔何知！中寿，尔墓之木拱矣！”",
-      "translation": "秦穆公拒绝了蹇叔的建议。他召见孟明、西乞、白乙，派他们从东门出兵。蹇叔哭着说：“孟子啊，我看到军队出去，但看不到他们回来了。”秦穆公派人对他说：“你知道什么！如果你只活到中寿，你墓上的树都已经合抱了！”",
+      "translation": "秦穆公拒绝了蹇叔的劝告。他召见孟明、西乞、白乙，派他们从东门外出兵。蹇叔为他们哭泣，说：“孟子啊，我看到军队出去，但看不到他们回来了。”秦穆公派人对他说：“你知道什么！如果你只活到中寿，你坟墓上的树木已经合抱粗了！”",
       "sentences": [
         {
           "original": "公辞焉。",
-          "translation": "秦穆公拒绝了他的建议。",
+          "translation": "秦穆公拒绝了蹇叔的劝告。",
           "words": [
             {
               "word": "公",
               "pinyin": "gōng",
-              "meaning": "秦穆公",
-              "type": "人名"
+              "meaning": "秦国国君秦穆公",
+              "type": "实词"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "拒绝",
+              "meaning": "推辞、拒绝",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "代词，指建议",
+              "meaning": "代词，指代蹇叔的劝谏",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "召孟明、西乞、白乙，使出师于东门之外。",
-          "translation": "召见孟明、西乞、白乙，派他们从东门出兵。",
+          "translation": "召见孟明、西乞、白乙，派他们从东门外出兵。",
           "words": [
             {
               "word": "召",
               "pinyin": "zhào",
-              "meaning": "召唤",
+              "meaning": "召唤、召见",
               "type": "实词"
             },
             {
               "word": "孟明",
-              "pinyin": "Mèng Míng",
-              "meaning": "秦国将领",
+              "pinyin": "mèng míng",
+              "meaning": "秦国将领，此次率师出征的主帅",
               "type": "人名"
             },
             {
               "word": "西乞",
-              "pinyin": "Xī Qǐ",
-              "meaning": "秦国将领",
+              "pinyin": "xī qǐ",
+              "meaning": "秦国将领，此次出征的副将",
               "type": "人名"
             },
             {
               "word": "白乙",
-              "pinyin": "Bái Yǐ",
-              "meaning": "秦国将领",
+              "pinyin": "bái yǐ",
+              "meaning": "秦国将领，此次出征的副将",
               "type": "人名"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "命令",
+              "meaning": "命令、让",
               "type": "实词"
             },
             {
-              "word": "出师",
-              "pinyin": "chū shī",
-              "meaning": "出兵",
+              "word": "出",
+              "pinyin": "chū",
+              "meaning": "出动",
+              "type": "实词"
+            },
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "军队",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示动作的处所，相当于'从'",
               "type": "虚词"
             },
             {
               "word": "东门",
               "pinyin": "dōng mén",
-              "meaning": "东门",
-              "type": "地名"
+              "meaning": "东边的城门，指秦国的东门",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词，的",
+              "meaning": "助词，用在定语后，表示领属或修饰关系",
               "type": "虚词"
             },
             {
@@ -576,24 +614,24 @@
         },
         {
           "original": "蹇叔哭之，曰：“孟子，吾见师之出而不见其入也。”",
-          "translation": "蹇叔哭着说：“孟子啊，我看到军队出去，但看不到他们回来了。”",
+          "translation": "蹇叔为他们哭泣，说：“孟子啊，我看到军队出去，但看不到他们回来了。”",
           "words": [
             {
               "word": "蹇叔",
-              "pinyin": "Jiǎn Shū",
-              "meaning": "秦国老臣",
+              "pinyin": "jiǎn shū",
+              "meaning": "春秋时期秦国老臣，此次谏阻秦穆公袭郑的主要人物",
               "type": "人名"
             },
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣",
+              "meaning": "哭泣，此处指因悲痛而哭",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指军队",
+              "meaning": "代词，指代即将出征的秦国军队",
               "type": "虚词"
             },
             {
@@ -604,14 +642,14 @@
             },
             {
               "word": "孟子",
-              "pinyin": "Mèng Zǐ",
-              "meaning": "指孟明",
+              "pinyin": "mèng zǐ",
+              "meaning": "即百里孟明，秦国主帅，此次出征主将之一",
               "type": "人名"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
+              "meaning": "第一人称代词，我",
               "type": "虚词"
             },
             {
@@ -629,25 +667,25 @@
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词",
+              "meaning": "助词，用于主谓结构“师出”之间，取消其独立性，使其成为“见”的宾语",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出发",
+              "meaning": "出征，出发",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表转折，却",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
@@ -659,90 +697,49 @@
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们",
+              "meaning": "代词，指代军队",
               "type": "虚词"
             },
             {
               "word": "入",
               "pinyin": "rù",
-              "meaning": "进入",
+              "meaning": "进入，指军队返回、回国",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表肯定与感叹",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "公使谓之曰：“尔何知！中寿，尔墓之木拱矣！”",
-          "translation": "秦穆公派人对他说：“你知道什么！如果你只活到中寿，你墓上的树都已经合抱了！”",
-          "words": []
-        }
-      ]
-    },
-    {
-      "original": "蹇叔之子与师，哭而送之，曰：“晋人御师必于殽。殽有二陵焉：其南陵，夏后皋之墓也；其北陵，文王之所辟风雨也。必死是间，余收尔骨焉。”秦师遂东。",
-      "translation": "蹇叔的儿子随军出征，蹇叔哭着送他，说：“晋国人一定会在殽山抵抗我军。殽山有两座山陵：南陵是夏后皋的墓地，北陵是周文王曾经躲避风雨的地方。你们一定会死在这两座山陵之间，我将在那里收拾你的尸骨。”秦军于是向东进发。",
-      "sentences": [
-        {
-          "original": "蹇叔之子与师，哭而送之，曰：",
-          "translation": "蹇叔的儿子随军出征，蹇叔哭着送他，说：",
+          "translation": "秦穆公派人对他说：“你知道什么！如果你只活到中寿，你坟墓上的树木已经合抱粗了！”",
           "words": [
             {
-              "word": "蹇叔",
-              "pinyin": "Jiǎn Shū",
-              "meaning": "人名，蹇叔",
+              "word": "公",
+              "pinyin": "gōng",
+              "meaning": "指秦穆公，春秋五霸之一，秦国国君",
               "type": "人名"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "子",
-              "pinyin": "zǐ",
-              "meaning": "儿子",
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "派遣",
               "type": "实词"
             },
             {
-              "word": "与",
-              "pinyin": "yǔ",
-              "meaning": "参与",
-              "type": "实词"
-            },
-            {
-              "word": "师",
-              "pinyin": "shī",
-              "meaning": "军队",
-              "type": "实词"
-            },
-            {
-              "word": "哭",
-              "pinyin": "kū",
-              "meaning": "哭泣",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "并且",
-              "type": "虚词"
-            },
-            {
-              "word": "送",
-              "pinyin": "sòng",
-              "meaning": "送行",
+              "word": "谓",
+              "pinyin": "wèi",
+              "meaning": "对…说",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指蹇叔",
               "type": "虚词"
             },
             {
@@ -750,107 +747,245 @@
               "pinyin": "yuē",
               "meaning": "说",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "晋人御师必于殽。",
-          "translation": "晋国人一定会在殽山抵抗我军。",
-          "words": [
-            {
-              "word": "晋",
-              "pinyin": "Jìn",
-              "meaning": "晋国",
-              "type": "地名"
             },
             {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "第二人称代词，你",
+              "type": "虚词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "疑问代词，什么",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhì",
+              "meaning": "通'智'，智慧、见识",
               "type": "实词"
             },
             {
-              "word": "御",
-              "pinyin": "yù",
-              "meaning": "抵御",
+              "word": "中寿",
+              "pinyin": "zhōng shòu",
+              "meaning": "中等寿命，古人有上寿、中寿、下寿之分，具体年岁说法不一，此处泛指一般老年人的寿命",
+              "type": "实词"
+            },
+            {
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "第二人称代词，你的",
+              "type": "虚词"
+            },
+            {
+              "word": "墓",
+              "pinyin": "mù",
+              "meaning": "坟墓",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，的",
+              "type": "虚词"
+            },
+            {
+              "word": "木",
+              "pinyin": "mù",
+              "meaning": "树木",
+              "type": "实词"
+            },
+            {
+              "word": "拱",
+              "pinyin": "gǒng",
+              "meaning": "古义：两手合围（形容树木粗大）。非今义'拱手'",
+              "type": "实词"
+            },
+            {
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "句末语气词，表已然或肯定",
+              "type": "虚词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "蹇叔之子与师，哭而送之，曰：“晋人御师必于殽。殽有二陵焉：其南陵，夏后皋之墓也；其北陵，文王之所辟风雨也。必死是间，余收尔骨焉。”秦师遂东。",
+      "translation": "蹇叔的儿子参加了军队，蹇叔哭着送他，说：“晋国人必定在殽山抵御我军。殽山有两座山陵：那南陵，是夏后皋的墓地；那北陵，是周文王曾经躲避风雨的地方。你一定会死在这两座山陵之间，我将在那里收你的尸骨。”秦军于是向东进发。",
+      "sentences": [
+        {
+          "original": "蹇叔之子与师，哭而送之，曰：“晋人御师必于殽。",
+          "translation": "蹇叔的儿子参加了军队，蹇叔哭着送他，说：“晋国人必定在殽山抵御我军。",
+          "words": [
+            {
+              "word": "蹇叔",
+              "pinyin": "jiǎn shū",
+              "meaning": "春秋时期秦国老臣，曾谏阻秦穆公袭郑，此处为哭师者",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，表示领属关系，相当于'的'，连接'蹇叔'与'子'",
+              "type": "虚词"
+            },
+            {
+              "word": "子",
+              "pinyin": "zǐ",
+              "meaning": "儿子，指蹇叔的儿子",
+              "type": "实词"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "动词，参加、参与（军队）",
               "type": "实词"
             },
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "军队",
+              "meaning": "军队，指出征的秦军",
+              "type": "实词"
+            },
+            {
+              "word": "哭",
+              "pinyin": "kū",
+              "meaning": "哭泣，表示悲伤",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接状语'哭'和中心词'送'，表示方式或顺承",
+              "type": "虚词"
+            },
+            {
+              "word": "送",
+              "pinyin": "sòng",
+              "meaning": "送行，为儿子送行",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代蹇叔的儿子",
+              "type": "虚词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说，表示说话",
+              "type": "实词"
+            },
+            {
+              "word": "晋",
+              "pinyin": "jìn",
+              "meaning": "春秋时期诸侯国名，在今山西一带",
+              "type": "地名"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "这里指晋国军队或晋国人",
+              "type": "实词"
+            },
+            {
+              "word": "御",
+              "pinyin": "yù",
+              "meaning": "抵御、抵抗",
+              "type": "实词"
+            },
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "军队，指秦军",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
+              "meaning": "一定，表示肯定",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示地点，在",
               "type": "虚词"
             },
             {
               "word": "殽",
-              "pinyin": "Xiáo",
-              "meaning": "殽山",
+              "pinyin": "xiáo",
+              "meaning": "山名，在今河南洛宁西北，地势险要",
               "type": "地名"
             }
           ]
         },
         {
           "original": "殽有二陵焉：其南陵，夏后皋之墓也；其北陵，文王之所辟风雨也。",
-          "translation": "殽山有两座山陵：南陵是夏后皋的墓地，北陵是周文王曾经躲避风雨的地方。",
+          "translation": "殽山有两座山陵：那南陵，是夏后皋的墓地；那北陵，是周文王曾经躲避风雨的地方。",
           "words": [
             {
               "word": "殽",
-              "pinyin": "Xiáo",
-              "meaning": "殽山",
+              "pinyin": "xiáo",
+              "meaning": "山名，在今河南洛宁西北，地势险要",
               "type": "地名"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "有，表示存在",
               "type": "实词"
             },
             {
-              "word": "二陵",
-              "pinyin": "èr líng",
-              "meaning": "两座山陵",
+              "word": "二",
+              "pinyin": "èr",
+              "meaning": "数词，二",
+              "type": "实词"
+            },
+            {
+              "word": "陵",
+              "pinyin": "líng",
+              "meaning": "山陵、山头",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "在那里",
+              "meaning": "句末语气词，表示陈述语气",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代殽山",
               "type": "虚词"
             },
             {
-              "word": "南陵",
-              "pinyin": "nán líng",
-              "meaning": "南边的山陵",
+              "word": "南",
+              "pinyin": "nán",
+              "meaning": "方位词，南边",
+              "type": "实词"
+            },
+            {
+              "word": "陵",
+              "pinyin": "líng",
+              "meaning": "山陵，指南边的山陵",
               "type": "实词"
             },
             {
               "word": "夏后皋",
-              "pinyin": "Xià Hòu Gāo",
-              "meaning": "夏朝君主皋",
+              "pinyin": "xià hòu gāo",
+              "meaning": "夏朝君主，名皋，夏桀的祖父",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，表示领属关系，相当于'的'",
               "type": "虚词"
             },
             {
@@ -862,118 +997,69 @@
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "是",
+              "meaning": "句末语气词，表示判断与肯定",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代殽山",
               "type": "虚词"
             },
             {
-              "word": "北陵",
-              "pinyin": "běi líng",
-              "meaning": "北边的山陵",
+              "word": "北",
+              "pinyin": "běi",
+              "meaning": "方位词，北边",
+              "type": "实词"
+            },
+            {
+              "word": "陵",
+              "pinyin": "líng",
+              "meaning": "山陵，指北边的山陵",
               "type": "实词"
             },
             {
               "word": "文王",
-              "pinyin": "Wén Wáng",
-              "meaning": "周文王",
+              "pinyin": "wén wáng",
+              "meaning": "周文王，姬姓，名昌，周朝奠基者",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，表示领属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "地方",
+              "meaning": "结构助词，与'辟'结合构成'所辟'，表示躲避风雨的地方",
               "type": "虚词"
             },
             {
               "word": "辟",
               "pinyin": "bì",
-              "meaning": "躲避",
+              "meaning": "通'避'，读bì，义为躲避",
               "type": "实词"
             },
             {
               "word": "风雨",
               "pinyin": "fēng yǔ",
-              "meaning": "风雨",
+              "meaning": "风雨，指自然风雨",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "是",
+              "meaning": "句末语气词，表示判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "必死是间，余收尔骨焉。",
-          "translation": "你们一定会死在这两座山陵之间，我将在那里收拾你的尸骨。",
-          "words": [
-            {
-              "word": "必",
-              "pinyin": "bì",
-              "meaning": "必定",
-              "type": "虚词"
-            },
-            {
-              "word": "死",
-              "pinyin": "sǐ",
-              "meaning": "死亡",
-              "type": "实词"
-            },
-            {
-              "word": "是",
-              "pinyin": "shì",
-              "meaning": "这",
-              "type": "虚词"
-            },
-            {
-              "word": "间",
-              "pinyin": "jiān",
-              "meaning": "之间",
-              "type": "实词"
-            },
-            {
-              "word": "余",
-              "pinyin": "yú",
-              "meaning": "我",
-              "type": "虚词"
-            },
-            {
-              "word": "收",
-              "pinyin": "shōu",
-              "meaning": "收殓",
-              "type": "实词"
-            },
-            {
-              "word": "尔",
-              "pinyin": "ěr",
-              "meaning": "你的",
-              "type": "虚词"
-            },
-            {
-              "word": "骨",
-              "pinyin": "gǔ",
-              "meaning": "尸骨",
-              "type": "实词"
-            },
-            {
-              "word": "焉",
-              "pinyin": "yān",
-              "meaning": "于此",
-              "type": "虚词"
-            }
-          ]
+          "original": "必死是间，余收尔骨焉。”",
+          "translation": "你一定会死在这两座山陵之间，我将在那里收你的尸骨。”",
+          "words": []
         },
         {
           "original": "秦师遂东。",
@@ -982,25 +1068,25 @@
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "秦国",
+              "meaning": "春秋时期的诸侯国，在今陕西一带。",
               "type": "地名"
             },
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "军队",
+              "meaning": "名词，军队。",
               "type": "实词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "副词，于是、就，表示承接前文。",
               "type": "虚词"
             },
             {
               "word": "东",
               "pinyin": "dōng",
-              "meaning": "向东进发",
+              "meaning": "动词，向东进军。",
               "type": "实词"
             }
           ]

@@ -1,269 +1,288 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "108_桃花源记",
   "title": "桃花源记",
   "author": {
     "id": "wei_jin_陶渊明",
     "name": "陶渊明",
     "dynasty": "wei_jin",
-    "bio": "陶渊明（约365年—427年），字元亮，号五柳先生，谥号靖节先生，东晋末期南朝宋初期诗人、文学家。他出生于浔阳柴桑（今江西九江），曾任江州祭酒、镇军参军等职，后因不满官场而辞官归隐，躬耕田园。陶渊明是中国田园诗的开创者，作品多描写农村自然景色和隐逸生活，表达对官场的厌恶和对自由生活的追求。代表作有《归去来兮辞》《饮酒诗》等，其文风质朴自然，对后世文学影响深远。"
+    "bio": "陶渊明，字元亮，又名潜，私谥“靖节”，世称靖节先生。生于东晋哀帝兴宁三年（约365年），卒于南朝宋文帝元嘉四年（427年）。籍贯浔阳柴桑（今江西九江）。曾任江州祭酒、镇军参军、彭泽县令等职，因不满官场腐败，于405年辞官归隐，终身不仕。他是中国第一位田园诗人，被誉为“隐逸诗人之宗”。代表作有《归去来兮辞》、《桃花源记》、《饮酒》、《归园田居》等。其诗文风格平淡自然，对后世文学影响深远，开创了田园诗派。"
   },
   "source": "",
   "dynasty": "wei_jin",
   "volume": 7,
-  "background": "《桃花源记》创作于东晋末年，作者陶渊明生活在社会动荡、战乱频仍的时代。他早年曾任江州祭酒、镇军参军等小官，但因不满官场腐败和政治黑暗，最终选择辞官归隐，躬耕田园。这篇文章写于他归隐之后，通过虚构一个与世隔绝的桃花源，表达了对现实社会的批判和对和平、宁静生活的向往。魏晋时期，文人多避世隐居，追求精神自由，陶渊明借此文寄托了理想，反映了当时知识分子对乱世的不满和对乌托邦的憧憬。",
-  "appreciation": "《桃花源记》是陶渊明的代表作之一，以叙事散文的形式展现了一个理想化的社会图景。文章结构精巧，从渔人偶然发现桃花源，到进入其中体验和谐生活，再到离开后迷失路径，层层递进，营造出神秘而引人入胜的意境。主题上，桃花源象征着乌托邦，那里土地平旷、人民怡然自乐，与外界战乱形成鲜明对比，体现了作者对平等、自足社会的向往。艺术手法上，陶渊明运用白描语言，质朴自然，如“芳草鲜美，落英缤纷”等句，生动描绘了田园风光，增强了文章的感染力。同时，文章蕴含道家思想，强调自然与和谐，结尾以刘子骥未果之行，增添了虚幻色彩，引发读者对现实与理想的反思。整体上，这篇散文不仅文学价值高，还深刻影响了后世对理想社会的构想。",
+  "background": "东晋太元年间（376-396年），政治腐败，门阀专权，社会动荡，战乱频繁。陶渊明（约365-427年）出身于没落仕宦家庭，曾多次出仕，但深感官场黑暗，于义熙元年（405年）辞去彭泽令，归隐田园，躬耕自资。写作《桃花源记》的具体时间不详，一般认为是他晚年作品。当时，他目睹现实混乱，心怀对理想世界的憧憬，文章虚构与世隔绝的桃花源，可能受秦末避乱传说启发，旨在表达对现实政治的不满和对平等、自足社会的向往。",
+  "appreciation": "《桃花源记》是一篇叙事散文，以武陵渔人的行踪为线索，结构严谨。文章从渔人偶遇桃花林写起，逐步引入桃花源，描述其中景象，最后以渔人离开后寻而不得作结，并附以刘子骥的故事，增强真实感与余韵。艺术特色上，语言简洁明快，多用白描，如“土地平旷，屋舍俨然”，节奏舒缓，营造出神秘而宁静的氛围；修辞上通过对比桃花源内外世界，突出理想与现实的反差。思想内涵深刻，核心是批判现实社会的战乱与剥削，寄托对和平、平等、自足社会的向往，体现了道家“小国寡民”的理想和隐逸思想。在文学史上，此文开创了“桃花源”意象，成为后世文人表达乌托邦理想的重要范本，对田园文学和寓言文学有深远影响。",
   "tags": [
-    "田园理想",
-    "乌托邦叙事",
-    "古典散文"
+    "叙事",
+    "哲理",
+    "政治"
   ],
   "paragraphs": [
     {
       "original": "晋太元中，武陵人捕鱼为业。缘溪行，忘路之远近。忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷。渔人甚异之，复前行，欲穷其林。",
-      "translation": "晋朝太元年间，有个武陵人以捕鱼为职业。他沿着溪流行走，忘记了路程的远近。忽然遇到一片桃花林，夹着溪岸数百步，中间没有别的树，芬芳的青草鲜嫩美丽，落花繁多纷乱。渔人对此感到非常惊奇，又向前走，想要走到林子的尽头。",
+      "translation": "晋朝太元年间，武陵郡有个人以捕鱼为职业。他沿着溪水前行，忘记了路程的远近。忽然遇到一片桃花林，溪水两岸几百步内，中间没有别的树，花草鲜嫩美丽，落花繁多纷飞。渔人对此感到非常惊奇，又继续往前走，想要走到那片林子的尽头。",
       "sentences": [
         {
           "original": "晋太元中，武陵人捕鱼为业。",
-          "translation": "晋朝太元年间，有个武陵人以捕鱼为职业。",
+          "translation": "晋朝太元年间，武陵郡有个人以捕鱼为职业。",
           "words": [
             {
               "word": "晋",
-              "pinyin": "Jìn",
-              "meaning": "晋朝",
+              "pinyin": "jìn",
+              "meaning": "朝代名，指东晋（317-420年），西晋灭亡后司马氏在江南建立的政权",
               "type": "地名"
             },
             {
               "word": "太元",
-              "pinyin": "Tàiyuán",
-              "meaning": "年号",
-              "type": "典故"
+              "pinyin": "tài yuán",
+              "meaning": "东晋孝武帝的年号，公元376年至396年",
+              "type": "实词"
             },
             {
               "word": "中",
               "pinyin": "zhōng",
-              "meaning": "期间",
-              "type": "虚词"
+              "meaning": "期间、时候，这里指太元年间",
+              "type": "实词"
             },
             {
               "word": "武陵",
-              "pinyin": "Wǔlíng",
-              "meaning": "武陵郡",
+              "pinyin": "wǔ líng",
+              "meaning": "晋代郡名，在今湖南常德一带，渔人所居之地",
               "type": "地名"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "泛指一个人，这里指武陵郡的某个人",
               "type": "实词"
             },
             {
-              "word": "捕鱼",
-              "pinyin": "bǔ yú",
-              "meaning": "捕鱼",
+              "word": "捕",
+              "pinyin": "bǔ",
+              "meaning": "捕捉、打捞",
+              "type": "实词"
+            },
+            {
+              "word": "鱼",
+              "pinyin": "yú",
+              "meaning": "水生脊椎动物，这里指捕鱼的对象",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "虚词"
+              "meaning": "此处读 wéi，义为作为、当作",
+              "type": "实词"
             },
             {
               "word": "业",
               "pinyin": "yè",
-              "meaning": "职业",
+              "meaning": "职业、生计",
               "type": "实词"
             }
           ]
         },
         {
           "original": "缘溪行，忘路之远近。",
-          "translation": "他沿着溪流行走，忘记了路程的远近。",
+          "translation": "他沿着溪水前行，忘记了路程的远近。",
           "words": [
             {
               "word": "缘",
               "pinyin": "yuán",
-              "meaning": "沿着",
+              "meaning": "介词，表示沿着、顺着溪流的方向",
               "type": "虚词"
             },
             {
               "word": "溪",
               "pinyin": "xī",
-              "meaning": "溪流",
+              "meaning": "山间的小河沟",
               "type": "实词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行走",
+              "meaning": "行走、前行",
               "type": "实词"
             },
             {
               "word": "忘",
               "pinyin": "wàng",
-              "meaning": "忘记",
+              "meaning": "忘记、不记得",
               "type": "实词"
             },
             {
               "word": "路",
               "pinyin": "lù",
-              "meaning": "路",
+              "meaning": "道路、路径",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'路'和中心词'远近'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "远近",
-              "pinyin": "yuǎnjìn",
-              "meaning": "距离",
+              "pinyin": "yuǎn jìn",
+              "meaning": "指距离的长短或远近程度",
               "type": "实词"
             }
           ]
         },
         {
           "original": "忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷。",
-          "translation": "忽然遇到一片桃花林，夹着溪岸数百步，中间没有别的树，芬芳的青草鲜嫩美丽，落花繁多纷乱。",
+          "translation": "忽然遇到一片桃花林，溪水两岸几百步内，中间没有别的树，花草鲜嫩美丽，落花繁多纷飞。",
           "words": [
             {
               "word": "忽",
               "pinyin": "hū",
-              "meaning": "忽然",
+              "meaning": "副词，表示出乎意料，突然、忽然",
               "type": "虚词"
             },
             {
               "word": "逢",
               "pinyin": "féng",
-              "meaning": "遇到",
+              "meaning": "动词，遇到、遇见",
               "type": "实词"
             },
             {
               "word": "桃花林",
-              "pinyin": "táohuā lín",
-              "meaning": "桃花树林",
+              "pinyin": "táo huā lín",
+              "meaning": "名词，生长着桃树的林子",
               "type": "实词"
             },
             {
-              "word": "夹岸",
-              "pinyin": "jiā àn",
-              "meaning": "两岸",
+              "word": "夹",
+              "pinyin": "jiā",
+              "meaning": "动词，从两旁钳住，此处指（桃花林）分布在溪流两岸",
+              "type": "实词"
+            },
+            {
+              "word": "岸",
+              "pinyin": "àn",
+              "meaning": "名词，水边的陆地，此处指溪流的两岸",
               "type": "实词"
             },
             {
               "word": "数百步",
               "pinyin": "shù bǎi bù",
-              "meaning": "几百步",
+              "meaning": "数量词组，几百步（古代长度单位）",
               "type": "实词"
             },
             {
               "word": "中",
               "pinyin": "zhōng",
-              "meaning": "中间",
-              "type": "虚词"
+              "meaning": "方位名词，里面、其中，指桃花林的内部",
+              "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "杂树",
               "pinyin": "zá shù",
-              "meaning": "杂别的树",
+              "meaning": "名词，其他的、不纯的树木",
               "type": "实词"
             },
             {
               "word": "芳草",
               "pinyin": "fāng cǎo",
-              "meaning": "芳香的草",
+              "meaning": "名词，散发香气的草",
               "type": "实词"
             },
             {
               "word": "鲜美",
               "pinyin": "xiān měi",
-              "meaning": "鲜艳美丽",
+              "meaning": "古义：鲜艳美丽（非今义‘味道好’）",
               "type": "实词"
             },
             {
               "word": "落英",
               "pinyin": "luò yīng",
-              "meaning": "落花",
+              "meaning": "名词，落花",
               "type": "实词"
             },
             {
               "word": "缤纷",
               "pinyin": "bīn fēn",
-              "meaning": "繁多杂乱",
+              "meaning": "形容词，繁多而错杂的样子",
               "type": "实词"
             }
           ]
         },
         {
           "original": "渔人甚异之，复前行，欲穷其林。",
-          "translation": "渔人对此感到非常惊奇，又向前走，想要走到林子的尽头。",
+          "translation": "渔人对此感到非常惊奇，又继续往前走，想要走到那片林子的尽头。",
           "words": [
             {
               "word": "渔人",
               "pinyin": "yú rén",
-              "meaning": "捕鱼的人",
+              "meaning": "名词，捕鱼的人",
               "type": "实词"
             },
             {
               "word": "甚",
               "pinyin": "shèn",
-              "meaning": "很，非常",
+              "meaning": "副词，很、非常",
               "type": "虚词"
             },
             {
               "word": "异",
               "pinyin": "yì",
-              "meaning": "感到惊奇",
+              "meaning": "动词的意动用法，以……为异，对……感到惊奇",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代情况",
+              "meaning": "代词，指代上文所见桃花林奇异美丽的景象",
               "type": "虚词"
             },
             {
               "word": "复",
               "pinyin": "fù",
-              "meaning": "又，再",
+              "meaning": "副词，又、再",
               "type": "虚词"
             },
             {
-              "word": "前行",
-              "pinyin": "qián xíng",
-              "meaning": "向前走",
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "方位名词作状语，向前",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "动词，行走",
               "type": "实词"
             },
             {
               "word": "欲",
               "pinyin": "yù",
-              "meaning": "想要",
+              "meaning": "助动词，想要",
               "type": "虚词"
             },
             {
               "word": "穷",
               "pinyin": "qióng",
-              "meaning": "穷尽，走到尽头",
+              "meaning": "古义：走到尽头、穷尽（非今义‘贫穷’）",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那，那个",
+              "meaning": "指示代词，那、那个",
               "type": "虚词"
             },
             {
               "word": "林",
               "pinyin": "lín",
-              "meaning": "树林",
+              "meaning": "名词，树林",
               "type": "实词"
             }
           ]
@@ -272,149 +291,155 @@
     },
     {
       "original": "林尽水源，便得一山。山有小口，彷佛若有光，便舍船从口入。初极狭，才通人。复行数十步，豁然开朗。土地平旷，屋舍俨然，有良田、美池、桑竹之属。",
-      "translation": "桃花林的尽头是水源，便看到一座山。山有一个小洞口，仿佛有光，渔人就舍弃船从洞口进入。起初非常狭窄，只能容一人通过。又走了几十步，突然变得开阔明亮。土地平坦广阔，房屋整齐，有肥沃的田地、美丽的池塘和桑树竹子之类。",
+      "translation": "桃花林在溪水发源的地方到了尽头，便看见一座山。山上有个小洞口，里面仿佛透着光亮，渔人于是舍弃船只，从洞口进入。起初洞口极为狭窄，仅能容一人通过。又向前走了几十步，眼前突然开阔明亮起来。那里土地平坦宽广，房屋排列整齐，还有肥沃的田地、美丽的池塘以及桑树、竹子之类。",
       "sentences": [
         {
           "original": "林尽水源，便得一山。",
-          "translation": "桃花林的尽头是水源，便看到一座山。",
+          "translation": "桃花林在溪水发源的地方到了尽头，便看见一座山。",
           "words": [
             {
               "word": "林",
               "pinyin": "lín",
-              "meaning": "树林",
+              "meaning": "名词，树林",
               "type": "实词"
             },
             {
               "word": "尽",
               "pinyin": "jìn",
-              "meaning": "结束",
+              "meaning": "此处读 jìn，义为尽头、结束（指树林在水源处终止）",
               "type": "实词"
             },
             {
               "word": "水源",
-              "pinyin": "shuǐyuán",
-              "meaning": "水源",
+              "pinyin": "shuǐ yuán",
+              "meaning": "名词，水流的源头",
               "type": "实词"
             },
             {
               "word": "便",
               "pinyin": "biàn",
-              "meaning": "就",
+              "meaning": "副词，就、于是，表示前后动作的顺承关系",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "动词，发现、看到",
               "type": "实词"
             },
             {
-              "word": "一山",
-              "pinyin": "yī shān",
-              "meaning": "一座山",
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "数词，一个",
+              "type": "实词"
+            },
+            {
+              "word": "山",
+              "pinyin": "shān",
+              "meaning": "名词，山",
               "type": "实词"
             }
           ]
         },
         {
           "original": "山有小口，彷佛若有光，便舍船从口入。",
-          "translation": "山有一个小洞口，仿佛有光，渔人就舍弃船从洞口进入。",
+          "translation": "山上有个小洞口，里面仿佛透着光亮，渔人于是舍弃船只，从洞口进入。",
           "words": [
             {
               "word": "山",
               "pinyin": "shān",
-              "meaning": "山",
+              "meaning": "名词，山",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，有",
               "type": "实词"
             },
             {
               "word": "小口",
               "pinyin": "xiǎo kǒu",
-              "meaning": "小洞口",
+              "meaning": "名词，小的洞口",
               "type": "实词"
             },
             {
               "word": "彷佛",
-              "pinyin": "fǎngfú",
-              "meaning": "仿佛",
+              "pinyin": "fǎng fú",
+              "meaning": "副词，好像、仿佛，表示不确定的视觉印象",
               "type": "虚词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "好像",
-              "type": "虚词"
+              "meaning": "动词，像",
+              "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，有",
               "type": "实词"
             },
             {
               "word": "光",
               "pinyin": "guāng",
-              "meaning": "光",
+              "meaning": "名词，光线",
               "type": "实词"
             },
             {
               "word": "便",
               "pinyin": "biàn",
-              "meaning": "就",
+              "meaning": "副词，就、于是，表示顺承关系",
               "type": "虚词"
             },
             {
               "word": "舍",
               "pinyin": "shě",
-              "meaning": "舍弃",
+              "meaning": "此处读 shě，义为舍弃、放下（指离开船）",
               "type": "实词"
             },
             {
               "word": "船",
               "pinyin": "chuán",
-              "meaning": "船",
+              "meaning": "名词，船",
               "type": "实词"
             },
             {
               "word": "从",
               "pinyin": "cóng",
-              "meaning": "从",
+              "meaning": "介词，从、由，表示动作的起点（从洞口进入）",
               "type": "虚词"
             },
             {
               "word": "口",
               "pinyin": "kǒu",
-              "meaning": "洞口",
+              "meaning": "名词，洞口",
               "type": "实词"
             },
             {
               "word": "入",
               "pinyin": "rù",
-              "meaning": "进入",
+              "meaning": "动词，进入",
               "type": "实词"
             }
           ]
         },
         {
           "original": "初极狭，才通人。",
-          "translation": "起初非常狭窄，只能容一人通过。",
+          "translation": "起初洞口极为狭窄，仅能容一人通过。",
           "words": [
             {
               "word": "初",
               "pinyin": "chū",
-              "meaning": "起初",
-              "type": "虚词"
+              "meaning": "起初，开始的时候",
+              "type": "实词"
             },
             {
               "word": "极",
               "pinyin": "jí",
-              "meaning": "非常",
-              "type": "虚词"
+              "meaning": "非常，极其",
+              "type": "实词"
             },
             {
               "word": "狭",
@@ -425,127 +450,127 @@
             {
               "word": "才",
               "pinyin": "cái",
-              "meaning": "仅仅",
-              "type": "虚词"
+              "meaning": "仅仅，刚好",
+              "type": "实词"
             },
             {
               "word": "通",
               "pinyin": "tōng",
-              "meaning": "通过",
+              "meaning": "通过，通行",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "人，这里指一个人",
               "type": "实词"
             }
           ]
         },
         {
           "original": "复行数十步，豁然开朗。",
-          "translation": "又走了几十步，突然变得开阔明亮。",
+          "translation": "又向前走了几十步，眼前突然开阔明亮起来。",
           "words": [
             {
               "word": "复",
               "pinyin": "fù",
-              "meaning": "又、再",
-              "type": "虚词"
+              "meaning": "又，再",
+              "type": "实词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行走",
+              "meaning": "此处读 xíng，义为行走",
               "type": "实词"
             },
             {
-              "word": "数十",
-              "pinyin": "shù shí",
-              "meaning": "几十",
+              "word": "数",
+              "pinyin": "shù",
+              "meaning": "此处读 shù，义为几、若干",
+              "type": "实词"
+            },
+            {
+              "word": "十",
+              "pinyin": "shí",
+              "meaning": "十，数词",
               "type": "实词"
             },
             {
               "word": "步",
               "pinyin": "bù",
-              "meaning": "脚步",
+              "meaning": "步，脚步，量词",
               "type": "实词"
             },
             {
-              "word": "豁然",
-              "pinyin": "huò rán",
-              "meaning": "开阔的样子",
-              "type": "实词"
-            },
-            {
-              "word": "开朗",
-              "pinyin": "kāi lǎng",
-              "meaning": "明亮开阔",
-              "type": "实词"
+              "word": "豁然开朗",
+              "pinyin": "huò rán kāi lǎng",
+              "meaning": "成语，形容由狭窄幽暗突然变得宽阔明亮",
+              "type": "典故"
             }
           ]
         },
         {
           "original": "土地平旷，屋舍俨然，有良田、美池、桑竹之属。",
-          "translation": "土地平坦广阔，房屋整齐，有肥沃的田地、美丽的池塘和桑树竹子之类。",
+          "translation": "那里土地平坦宽广，房屋排列整齐，还有肥沃的田地、美丽的池塘以及桑树、竹子之类。",
           "words": [
             {
               "word": "土地",
               "pinyin": "tǔ dì",
-              "meaning": "田地",
+              "meaning": "田地，指可供耕种的平坦土地",
               "type": "实词"
             },
             {
               "word": "平旷",
               "pinyin": "píng kuàng",
-              "meaning": "平坦宽阔",
+              "meaning": "平坦开阔，形容土地广阔平坦",
               "type": "实词"
             },
             {
               "word": "屋舍",
               "pinyin": "wū shè",
-              "meaning": "房屋",
+              "meaning": "房屋，房舍",
               "type": "实词"
             },
             {
               "word": "俨然",
               "pinyin": "yǎn rán",
-              "meaning": "整齐的样子",
+              "meaning": "整齐的样子，形容屋舍排列有序",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，表示存在或拥有",
               "type": "实词"
             },
             {
               "word": "良田",
               "pinyin": "liáng tián",
-              "meaning": "肥沃田地",
+              "meaning": "肥沃的田地",
               "type": "实词"
             },
             {
               "word": "美池",
               "pinyin": "měi chí",
-              "meaning": "美丽池塘",
+              "meaning": "美丽的池塘",
               "type": "实词"
             },
             {
               "word": "桑竹",
               "pinyin": "sāng zhú",
-              "meaning": "桑树竹子",
+              "meaning": "桑树和竹子，泛指农作物或植物",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于定语和中心语之间，表示修饰或所属关系，此处连接'桑竹'和'属'，表示'桑竹这类东西'",
               "type": "虚词"
             },
             {
               "word": "属",
               "pinyin": "shǔ",
-              "meaning": "类",
+              "meaning": "此处读shǔ，义为类、类别。古义：类、类别（非今义'归属'或'属于'）",
               "type": "实词"
             }
           ]
@@ -554,7 +579,7 @@
     },
     {
       "original": "阡陌交通，鸡犬相闻。其中往来种作，男女衣著，悉如外人。黄发垂髫，并怡然自乐。见渔人，乃大惊，问所从来，具答之。便要还家，设酒杀鸡作食。村中闻有此人，咸来问讯。自云先世避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。问今是何世，乃不知有汉，无论魏、晋。此人一一为具言所闻，皆叹惋。馀人各复延至其家，皆出酒食。停数日，辞去。此中人语云：“不足为外人道。”",
-      "translation": "田间小路交错相通，鸡鸣狗吠的声音可以互相听到。人们来来往往耕种劳作，男女的穿着，都像外面的人一样。老人和小孩，都安适愉快，自得其乐。他们看到渔人，于是非常惊讶，问他是从哪里来的，渔人详细地回答了他们。于是邀请渔人回家，摆酒、杀鸡、做饭款待他。村里听说有渔人，都来打听消息。他们自己说，祖先为了躲避秦朝时的战乱，带领妻子、儿女和同乡人来到这个与世隔绝的地方，不再出去，于是和外面的人隔绝。他们问现在是什么朝代，竟然不知道有汉朝，更不用说魏朝和晋朝了。渔人一件一件地详细告诉他们所听到的事情，他们都感叹惋惜。其余的人各自又邀请渔人到他们家，都拿出酒食款待。渔人停留了几天，告辞离开。这里的人告诉他说：“不值得对外面的人说。”",
+      "translation": "田间小路交错相通，鸡鸣狗吠之声可以互相听到。人们来来往往耕种劳作，男女的穿着，都像外面的人一样。老人和小孩，都安适愉快，自得其乐。他们看见渔人，就非常惊讶，问他是从哪里来的，渔人详细地回答了他们。他们就邀请渔人回家，摆酒杀鸡做饭款待他。村里听说有这个人，都来打听消息。他们自己说祖先为了躲避秦朝时的战乱，带领妻子儿女和同乡人来到这个与世隔绝的地方，不再出去，于是和外面的人隔绝。渔人问现在是什么朝代，他们竟然不知道有汉朝，更不用说魏朝和晋朝了。渔人一件件地详细讲述他所知道的事情，他们都感叹惋惜。其余的人各自又邀请渔人到他们家，都拿出酒食款待他。渔人停留了几天，告辞离开。这里的人告诉他说：“这里的情况不值得对外面的人说。”",
       "sentences": [
         {
           "original": "阡陌交通，鸡犬相闻。",
@@ -563,25 +588,25 @@
             {
               "word": "阡陌",
               "pinyin": "qiān mò",
-              "meaning": "田间小路",
+              "meaning": "田间小路，南北为阡，东西为陌，泛指田间道路",
               "type": "实词"
             },
             {
               "word": "交通",
               "pinyin": "jiāo tōng",
-              "meaning": "交错相通",
+              "meaning": "古义：交错相通（非今义'运输事业'）",
               "type": "实词"
             },
             {
               "word": "鸡犬",
               "pinyin": "jī quǎn",
-              "meaning": "鸡和狗",
+              "meaning": "鸡和狗，泛指禽畜",
               "type": "实词"
             },
             {
               "word": "相",
               "pinyin": "xiāng",
-              "meaning": "互相",
+              "meaning": "副词，表示动作交互，此处指鸡犬的叫声能互相听到",
               "type": "虚词"
             },
             {
@@ -599,13 +624,13 @@
             {
               "word": "其中",
               "pinyin": "qí zhōng",
-              "meaning": "那里面",
-              "type": "实词"
+              "meaning": "代词性结构，指代桃花源里面",
+              "type": "虚词"
             },
             {
               "word": "往来",
               "pinyin": "wǎng lái",
-              "meaning": "来往",
+              "meaning": "来来往往",
               "type": "实词"
             },
             {
@@ -617,19 +642,19 @@
             {
               "word": "男女",
               "pinyin": "nán nǚ",
-              "meaning": "男人女人",
+              "meaning": "男子和女子",
               "type": "实词"
             },
             {
               "word": "衣著",
               "pinyin": "yī zhuó",
-              "meaning": "衣着",
+              "meaning": "穿戴的衣帽服饰",
               "type": "实词"
             },
             {
               "word": "悉",
               "pinyin": "xī",
-              "meaning": "都",
+              "meaning": "副词，表示范围，相当于'都'、'全部'",
               "type": "虚词"
             },
             {
@@ -641,7 +666,7 @@
             {
               "word": "外人",
               "pinyin": "wài rén",
-              "meaning": "外面的人",
+              "meaning": "古义：桃花源以外的人（非今义'局外人'或'陌生人'）",
               "type": "实词"
             }
           ]
@@ -653,523 +678,523 @@
             {
               "word": "黄发",
               "pinyin": "huáng fà",
-              "meaning": "老人",
+              "meaning": "借指老人。古人认为老人头发由白转黄是长寿的象征。",
               "type": "实词"
             },
             {
               "word": "垂髫",
               "pinyin": "chuí tiáo",
-              "meaning": "儿童",
+              "meaning": "借指儿童。古时儿童不束发，头发下垂。",
               "type": "实词"
             },
             {
               "word": "并",
               "pinyin": "bìng",
-              "meaning": "都",
+              "meaning": "副词，表示范围，指老人和儿童都。",
               "type": "虚词"
             },
             {
               "word": "怡然",
               "pinyin": "yí rán",
-              "meaning": "愉快的样子",
+              "meaning": "形容愉快、安适的样子。",
               "type": "实词"
             },
             {
               "word": "自乐",
               "pinyin": "zì lè",
-              "meaning": "自得其乐",
+              "meaning": "自得其乐。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "见渔人，乃大惊，问所从来，具答之。",
-          "translation": "他们看到渔人，于是非常惊讶，问他是从哪里来的，渔人详细地回答了他们。",
+          "translation": "他们看见渔人，就非常惊讶，问他是从哪里来的，渔人详细地回答了他们。",
           "words": [
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "动词，看见。",
               "type": "实词"
             },
             {
               "word": "渔人",
               "pinyin": "yú rén",
-              "meaning": "捕鱼的人",
+              "meaning": "捕鱼的人。",
               "type": "实词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示承接，可译为'于是'、'就'。",
               "type": "虚词"
             },
             {
-              "word": "大",
-              "pinyin": "dà",
-              "meaning": "非常",
-              "type": "虚词"
-            },
-            {
-              "word": "惊",
-              "pinyin": "jīng",
-              "meaning": "惊讶",
+              "word": "大惊",
+              "pinyin": "dà jīng",
+              "meaning": "非常惊讶。",
               "type": "实词"
             },
             {
               "word": "问",
               "pinyin": "wèn",
-              "meaning": "询问",
+              "meaning": "动词，询问。",
               "type": "实词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词",
+              "word": "所从来",
+              "pinyin": "suǒ cóng lái",
+              "meaning": "固定结构，询问处所，'从哪里来'。",
               "type": "虚词"
-            },
-            {
-              "word": "从来",
-              "pinyin": "cóng lái",
-              "meaning": "来源",
-              "type": "实词"
             },
             {
               "word": "具",
               "pinyin": "jù",
-              "meaning": "详细地",
+              "meaning": "通'俱'，详细地。",
               "type": "虚词"
             },
             {
               "word": "答",
               "pinyin": "dá",
-              "meaning": "回答",
+              "meaning": "动词，回答。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代问题",
+              "meaning": "代词，指代桃花源中人的问题。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "便要还家，设酒杀鸡作食。",
-          "translation": "于是邀请渔人回家，摆酒、杀鸡、做饭款待他。",
+          "translation": "他们就邀请渔人回家，摆酒杀鸡做饭款待他。",
           "words": [
             {
               "word": "便",
               "pinyin": "biàn",
-              "meaning": "就",
+              "meaning": "副词，表示动作紧接着发生，相当于‘就’、‘于是’。",
               "type": "虚词"
             },
             {
               "word": "要",
               "pinyin": "yāo",
-              "meaning": "邀请",
+              "meaning": "此处读 yāo，义为邀请（区别于 yào 之‘需要’义）。",
               "type": "实词"
             },
             {
-              "word": "还",
-              "pinyin": "huán",
-              "meaning": "返回",
+              "word": "还家",
+              "pinyin": "huán jiā",
+              "meaning": "返回家中。‘还’为动词，返回；‘家’为名词，家宅。",
               "type": "实词"
             },
             {
-              "word": "家",
-              "pinyin": "jiā",
-              "meaning": "家",
+              "word": "设酒",
+              "pinyin": "shè jiǔ",
+              "meaning": "摆设酒宴。‘设’为动词，安排、置办；‘酒’为名词，酒食。",
               "type": "实词"
             },
             {
-              "word": "设",
-              "pinyin": "shè",
-              "meaning": "摆设",
+              "word": "杀鸡",
+              "pinyin": "shā jī",
+              "meaning": "宰杀鸡。‘杀’为动词，宰杀；‘鸡’为名词，家禽。",
               "type": "实词"
             },
             {
-              "word": "酒",
-              "pinyin": "jiǔ",
-              "meaning": "酒",
-              "type": "实词"
-            },
-            {
-              "word": "杀",
-              "pinyin": "shā",
-              "meaning": "宰杀",
-              "type": "实词"
-            },
-            {
-              "word": "鸡",
-              "pinyin": "jī",
-              "meaning": "鸡",
-              "type": "实词"
-            },
-            {
-              "word": "作",
-              "pinyin": "zuò",
-              "meaning": "制作",
-              "type": "实词"
-            },
-            {
-              "word": "食",
-              "pinyin": "shí",
-              "meaning": "食物",
+              "word": "作食",
+              "pinyin": "zuò shí",
+              "meaning": "准备饭食。‘作’为动词，制作；‘食’为名词，食物。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "村中闻有此人，咸来问讯。",
-          "translation": "村里听说有渔人，都来打听消息。",
+          "translation": "村里听说有这个人，都来打听消息。",
           "words": [
             {
-              "word": "村",
-              "pinyin": "cūn",
-              "meaning": "村子",
-              "type": "实词"
-            },
-            {
-              "word": "中",
-              "pinyin": "zhōng",
-              "meaning": "里",
+              "word": "村中",
+              "pinyin": "cūn zhōng",
+              "meaning": "村子里面。‘村’为名词，村落；‘中’为方位名词，里面。",
               "type": "实词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听说",
+              "meaning": "动词，听说、听到。",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在、出现。",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "指示代词，这、这个。",
               "type": "虚词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，指渔人。",
               "type": "实词"
             },
             {
               "word": "咸",
               "pinyin": "xián",
-              "meaning": "都",
+              "meaning": "副词，表示范围，相当于‘都’、‘全’。",
               "type": "虚词"
             },
             {
               "word": "来",
               "pinyin": "lái",
-              "meaning": "来",
+              "meaning": "动词，前来、过来。",
               "type": "实词"
             },
             {
-              "word": "问",
-              "pinyin": "wèn",
-              "meaning": "询问",
-              "type": "实词"
-            },
-            {
-              "word": "讯",
-              "pinyin": "xùn",
-              "meaning": "消息",
+              "word": "问讯",
+              "pinyin": "wèn xùn",
+              "meaning": "复合动词，打听消息、询问情况。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "自云先世避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。",
-          "translation": "他们自己说，祖先为了躲避秦朝时的战乱，带领妻子、儿女和同乡人来到这个与世隔绝的地方，不再出去，于是和外面的人隔绝。",
+          "translation": "他们自己说祖先为了躲避秦朝时的战乱，带领妻子儿女和同乡人来到这个与世隔绝的地方，不再出去，于是和外面的人隔绝。",
           "words": [
             {
-              "word": "自云",
-              "pinyin": "zì yún",
-              "meaning": "自己说",
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "代词，指代桃花源中说话的人自己",
+              "type": "虚词"
+            },
+            {
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "动词，说、讲述",
               "type": "实词"
             },
             {
               "word": "先世",
               "pinyin": "xiān shì",
-              "meaning": "祖先",
+              "meaning": "名词，祖先、先辈",
               "type": "实词"
             },
             {
               "word": "避",
               "pinyin": "bì",
-              "meaning": "躲避",
+              "meaning": "动词，躲避、逃避",
               "type": "实词"
             },
             {
-              "word": "秦时乱",
-              "pinyin": "qín shí luàn",
-              "meaning": "秦朝战乱",
+              "word": "秦",
+              "pinyin": "qín",
+              "meaning": "地名，朝代名，指秦朝（前221-前207年）",
+              "type": "地名"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "名词，时期、时代",
+              "type": "实词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "名词，动乱、战乱",
               "type": "实词"
             },
             {
               "word": "率",
               "pinyin": "shuài",
-              "meaning": "带领",
+              "meaning": "动词，带领、率领",
               "type": "实词"
             },
             {
               "word": "妻子",
               "pinyin": "qī zǐ",
-              "meaning": "妻子儿女",
+              "meaning": "古义：妻子和子女（非今义'男子的配偶'）",
               "type": "实词"
             },
             {
               "word": "邑人",
               "pinyin": "yì rén",
-              "meaning": "同乡人",
+              "meaning": "名词，同乡、乡邻",
               "type": "实词"
             },
             {
               "word": "来",
               "pinyin": "lái",
-              "meaning": "来到",
+              "meaning": "动词，来到、到达",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这个",
+              "meaning": "代词，指代桃花源这个地方",
               "type": "虚词"
             },
             {
               "word": "绝境",
               "pinyin": "jué jìng",
-              "meaning": "隔绝之地",
+              "meaning": "古义：与世隔绝的地方（非今义'没有出路的境地'）",
               "type": "实词"
             },
             {
-              "word": "不复",
-              "pinyin": "bù fù",
-              "meaning": "不再",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "副词，再、又",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出去",
+              "meaning": "动词，出去、离开",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "从这里",
+              "meaning": "兼词，相当于'于此'，指从这个地方",
               "type": "虚词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "连词，表示顺承，于是、就",
               "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "介词，引进对象，和、跟",
               "type": "虚词"
             },
             {
               "word": "外人",
               "pinyin": "wài rén",
-              "meaning": "外面的人",
+              "meaning": "名词，指桃花源以外的人",
               "type": "实词"
             },
             {
               "word": "间隔",
               "pinyin": "jiàn gé",
-              "meaning": "隔绝",
+              "meaning": "动词，隔绝、断绝往来",
               "type": "实词"
             }
           ]
         },
         {
           "original": "问今是何世，乃不知有汉，无论魏、晋。",
-          "translation": "他们问现在是什么朝代，竟然不知道有汉朝，更不用说魏朝和晋朝了。",
+          "translation": "渔人问现在是什么朝代，他们竟然不知道有汉朝，更不用说魏朝和晋朝了。",
           "words": [
             {
               "word": "问",
               "pinyin": "wèn",
-              "meaning": "询问",
+              "meaning": "动词，询问、打听",
               "type": "实词"
             },
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "名词，现在、当今",
               "type": "实词"
             },
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "是",
+              "meaning": "动词，是、为",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "疑问代词，什么",
               "type": "虚词"
             },
             {
-              "word": "何世",
-              "pinyin": "hé shì",
-              "meaning": "什么时代",
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "名词，时代、朝代",
               "type": "实词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "竟然",
+              "meaning": "副词，表示出乎意料，竟然",
               "type": "虚词"
             },
             {
-              "word": "不知",
-              "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
-              "word": "有汉",
-              "pinyin": "yǒu hàn",
-              "meaning": "有汉朝",
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，有、存在",
               "type": "实词"
+            },
+            {
+              "word": "汉",
+              "pinyin": "hàn",
+              "meaning": "地名，朝代名，指汉朝（前202-220年）",
+              "type": "地名"
             },
             {
               "word": "无论",
               "pinyin": "wú lùn",
-              "meaning": "更不用说",
-              "type": "虚词"
+              "meaning": "古义：更不用说（非今义'连词，表示条件关系'）",
+              "type": "实词"
             },
             {
               "word": "魏",
               "pinyin": "wèi",
-              "meaning": "魏朝",
+              "meaning": "地名，朝代名，指三国时期的魏国（220-265年）",
               "type": "地名"
             },
             {
               "word": "晋",
               "pinyin": "jìn",
-              "meaning": "晋朝",
+              "meaning": "地名，朝代名，指晋朝（265-420年）",
               "type": "地名"
             }
           ]
         },
         {
           "original": "此人一一为具言所闻，皆叹惋。",
-          "translation": "渔人一件一件地详细告诉他们所听到的事情，他们都感叹惋惜。",
+          "translation": "渔人一件件地详细讲述他所知道的事情，他们都感叹惋惜。",
           "words": [
             {
               "word": "此人",
               "pinyin": "cǐ rén",
-              "meaning": "这个人",
+              "meaning": "指代上文出现的渔人。",
               "type": "实词"
             },
             {
               "word": "一一",
               "pinyin": "yī yī",
-              "meaning": "一一",
-              "type": "实词"
+              "meaning": "副词，逐一、一个一个地。",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "给",
+              "meaning": "介词，表示动作对象，相当于‘给’、‘向’（桃花源中人）。",
               "type": "虚词"
             },
             {
-              "word": "具言",
-              "pinyin": "jù yán",
-              "meaning": "详细地说",
+              "word": "具",
+              "pinyin": "jù",
+              "meaning": "通‘俱’，副词，表示范围，详尽地、全部地。",
+              "type": "虚词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "动词，讲述、述说。",
               "type": "实词"
             },
             {
               "word": "所闻",
               "pinyin": "suǒ wén",
-              "meaning": "所听说的",
+              "meaning": "‘所’字结构，‘闻’是动词，‘所闻’即‘听到的事情’，指渔人所知道的世间变迁。",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，表示范围，指所有（桃花源中人）都。",
               "type": "虚词"
             },
             {
               "word": "叹惋",
               "pinyin": "tàn wǎn",
-              "meaning": "感叹惋惜",
+              "meaning": "动词，感叹惋惜（为外界朝代更迭、战乱不息而感慨）。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "馀人各复延至其家，皆出酒食。",
-          "translation": "其余的人各自又邀请渔人到他们家，都拿出酒食款待。",
+          "translation": "其余的人各自又邀请渔人到他们家，都拿出酒食款待他。",
           "words": [
             {
               "word": "馀人",
               "pinyin": "yú rén",
-              "meaning": "其他人",
+              "meaning": "名词，指其他（桃花源中的）人。",
               "type": "实词"
             },
             {
               "word": "各",
               "pinyin": "gè",
-              "meaning": "各自",
+              "meaning": "副词，表示分指，各自。",
               "type": "虚词"
             },
             {
               "word": "复",
               "pinyin": "fù",
-              "meaning": "又",
+              "meaning": "副词，表示重复或继续，又、再。",
               "type": "虚词"
             },
             {
               "word": "延",
               "pinyin": "yán",
-              "meaning": "邀请",
+              "meaning": "古义：邀请（非今义‘延长’）。",
               "type": "实词"
             },
             {
               "word": "至",
               "pinyin": "zhì",
-              "meaning": "到",
+              "meaning": "动词，到、到达。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "代词，指代‘馀人’（其他村民）各自的。",
               "type": "虚词"
             },
             {
               "word": "家",
               "pinyin": "jiā",
-              "meaning": "家",
+              "meaning": "名词，家、家庭。",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，表示范围，（每一家）都。",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "拿出",
+              "meaning": "动词，拿出、摆出。",
               "type": "实词"
             },
             {
               "word": "酒食",
               "pinyin": "jiǔ shí",
-              "meaning": "酒食",
+              "meaning": "名词，酒和食物。",
               "type": "实词"
             }
           ]
@@ -1187,7 +1212,7 @@
             {
               "word": "数日",
               "pinyin": "shù rì",
-              "meaning": "几天",
+              "meaning": "此处'数'读shù，义为几；'数日'即几天",
               "type": "实词"
             },
             {
@@ -1199,49 +1224,67 @@
             {
               "word": "去",
               "pinyin": "qù",
-              "meaning": "离开",
+              "meaning": "古义：离开（非今义'前往'）",
               "type": "实词"
             }
           ]
         },
         {
           "original": "此中人语云：“不足为外人道。”",
-          "translation": "这里的人告诉他说：“不值得对外面的人说。”",
+          "translation": "这里的人告诉他说：“这里的情况不值得对外面的人说。”",
           "words": [
             {
-              "word": "此中人",
-              "pinyin": "cǐ zhōng rén",
-              "meaning": "这里的人",
-              "type": "实词"
-            },
-            {
-              "word": "语云",
-              "pinyin": "yǔ yún",
-              "meaning": "说道",
-              "type": "实词"
-            },
-            {
-              "word": "不足",
-              "pinyin": "bù zú",
-              "meaning": "不值得",
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "指示代词，这，指代前文提到的桃花源",
               "type": "虚词"
+            },
+            {
+              "word": "中人",
+              "pinyin": "zhōng rén",
+              "meaning": "里面的人，指桃花源中的居民",
+              "type": "实词"
+            },
+            {
+              "word": "语",
+              "pinyin": "yǔ",
+              "meaning": "此处读yǔ，义为告诉（区别于yù之'话语'义）",
+              "type": "实词"
+            },
+            {
+              "word": "云",
+              "pinyin": "yún",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "足",
+              "pinyin": "zú",
+              "meaning": "值得",
+              "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "对",
+              "meaning": "介词，对、向，引出对象'外人'",
               "type": "虚词"
             },
             {
               "word": "外人",
               "pinyin": "wài rén",
-              "meaning": "外面的人",
+              "meaning": "外面的人，指桃花源外的人",
               "type": "实词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "说",
+              "meaning": "说、讲",
               "type": "实词"
             }
           ]
@@ -1250,166 +1293,172 @@
     },
     {
       "original": "既出，得其船，便扶向路，处处志之。及郡下，诣太守，说如此。太守即遣人随其往，寻向所志，遂迷，不复得路。",
-      "translation": "渔人出来后，找到了他的船，就沿着来时的路返回，处处做了标记。到了郡城，他去拜见太守，报告了这些情况。太守立即派人跟随他前往，寻找之前做的标记，结果迷路了，再也找不到那条路。",
+      "translation": "渔人出来后，找到了他的船，就沿着来时的路回去，处处做了标记。到了郡城，他拜访太守，报告了这些情况。太守立即派人跟随他前往，寻找先前所做的标记，结果迷路了，再也找不到那条路。",
       "sentences": [
         {
           "original": "既出，得其船，便扶向路，处处志之。",
-          "translation": "渔人出来后，找到了他的船，就沿着来时的路返回，处处做了标记。",
+          "translation": "渔人出来后，找到了他的船，就沿着来时的路回去，处处做了标记。",
           "words": [
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经，表示动作完成",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出去",
+              "meaning": "动词，从桃花源出来",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "动词，找到",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代前文渔人的船",
               "type": "虚词"
             },
             {
               "word": "船",
               "pinyin": "chuán",
-              "meaning": "船",
+              "meaning": "名词，船",
               "type": "实词"
             },
             {
               "word": "便",
               "pinyin": "biàn",
-              "meaning": "就",
+              "meaning": "副词，就，表示前后动作紧接",
               "type": "虚词"
             },
             {
               "word": "扶",
               "pinyin": "fú",
-              "meaning": "沿着",
+              "meaning": "动词，沿着",
               "type": "实词"
             },
             {
-              "word": "向路",
-              "pinyin": "xiàng lù",
-              "meaning": "旧路",
+              "word": "向",
+              "pinyin": "xiàng",
+              "meaning": "形容词，从前的",
+              "type": "实词"
+            },
+            {
+              "word": "路",
+              "pinyin": "lù",
+              "meaning": "名词，路",
               "type": "实词"
             },
             {
               "word": "处处",
               "pinyin": "chù chù",
-              "meaning": "处处",
-              "type": "虚词"
+              "meaning": "副词，处处，到处",
+              "type": "实词"
             },
             {
               "word": "志",
               "pinyin": "zhì",
-              "meaning": "标记",
+              "meaning": "动词，做标记",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代所经过的路",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "及郡下，诣太守，说如此。",
-          "translation": "到了郡城，他去拜见太守，报告了这些情况。",
+          "translation": "到了郡城，他拜访太守，报告了这些情况。",
           "words": [
             {
               "word": "及",
               "pinyin": "jí",
-              "meaning": "到",
+              "meaning": "动词，到",
               "type": "实词"
             },
             {
               "word": "郡下",
               "pinyin": "jùn xià",
-              "meaning": "郡城",
+              "meaning": "名词，郡城，指武陵郡治所",
               "type": "实词"
             },
             {
               "word": "诣",
               "pinyin": "yì",
-              "meaning": "拜访",
+              "meaning": "动词，拜访，前往",
               "type": "实词"
             },
             {
               "word": "太守",
               "pinyin": "tài shǒu",
-              "meaning": "太守",
+              "meaning": "官职名，一郡最高行政长官，负责郡内政务",
               "type": "官职"
             },
             {
               "word": "说",
               "pinyin": "shuō",
-              "meaning": "说",
+              "meaning": "此处读shuō，动词，报告",
               "type": "实词"
             },
             {
               "word": "如此",
               "pinyin": "rú cǐ",
-              "meaning": "这样",
-              "type": "虚词"
+              "meaning": "代词，像这样，指代渔人在桃花源的见闻",
+              "type": "实词"
             }
           ]
         },
         {
           "original": "太守即遣人随其往，寻向所志，遂迷，不复得路。",
-          "translation": "太守立即派人跟随他前往，寻找之前做的标记，结果迷路了，再也找不到那条路。",
+          "translation": "太守立即派人跟随他前往，寻找先前所做的标记，结果迷路了，再也找不到那条路。",
           "words": [
             {
               "word": "太守",
               "pinyin": "tài shǒu",
-              "meaning": "太守",
+              "meaning": "地方行政长官，掌管一郡事务",
               "type": "官职"
             },
             {
               "word": "即",
               "pinyin": "jí",
-              "meaning": "立即",
+              "meaning": "副词，表示动作紧接着发生，立即、马上",
               "type": "虚词"
             },
             {
               "word": "遣",
               "pinyin": "qiǎn",
-              "meaning": "派遣",
+              "meaning": "派遣，差遣",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "人员，手下",
               "type": "实词"
             },
             {
               "word": "随",
               "pinyin": "suí",
-              "meaning": "跟随",
+              "meaning": "跟随，随同",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
+              "meaning": "代词，指代渔人（即前文发现桃花源的人）",
               "type": "虚词"
             },
             {
               "word": "往",
               "pinyin": "wǎng",
-              "meaning": "去",
+              "meaning": "去，前往",
               "type": "实词"
             },
             {
@@ -1419,39 +1468,57 @@
               "type": "实词"
             },
             {
-              "word": "向所志",
-              "pinyin": "xiàng suǒ zhì",
-              "meaning": "之前标记的地方",
+              "word": "向",
+              "pinyin": "xiàng",
+              "meaning": "副词，表示时间上的先前，先前、以前",
+              "type": "虚词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与动词'志'结合构成名词性结构，表示'…的标记'",
+              "type": "虚词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "做标记，标记",
               "type": "实词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "副词，表示顺承关系，于是、就",
               "type": "虚词"
             },
             {
               "word": "迷",
               "pinyin": "mí",
-              "meaning": "迷路",
+              "meaning": "迷路，迷失方向",
               "type": "实词"
             },
             {
-              "word": "不复",
-              "pinyin": "bù fù",
-              "meaning": "不再",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定，相当于'没有'或'不'",
+              "type": "虚词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "副词，表示重复或继续，再、又",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "得到，找到",
               "type": "实词"
             },
             {
               "word": "路",
               "pinyin": "lù",
-              "meaning": "路",
+              "meaning": "道路，路径",
               "type": "实词"
             }
           ]
@@ -1460,148 +1527,148 @@
     },
     {
       "original": "南阳刘子骥，高尚士也。闻之，欣然规往。未果，寻病终。后遂无问津者。",
-      "translation": "南阳的刘子骥，是一位高尚的士人。他听说了这件事，欣然计划前往。但未能实现，不久后病逝。从此以后，就再也没有探访桃花源的人了。",
+      "translation": "南阳人刘子骥，是一位高尚的读书人。听说了这件事，便高兴地计划前往。但没有实现，不久就病逝了。后来就再也没有寻访的人了。",
       "sentences": [
         {
           "original": "南阳刘子骥，高尚士也。",
-          "translation": "南阳的刘子骥，是一位高尚的士人。",
+          "translation": "南阳人刘子骥，是一位高尚的读书人。",
           "words": [
             {
               "word": "南阳",
               "pinyin": "nán yáng",
-              "meaning": "南阳郡",
+              "meaning": "东晋郡名，治所在宛县（今河南南阳），刘子骥的籍贯。",
               "type": "地名"
             },
             {
               "word": "刘子骥",
               "pinyin": "liú zǐ jì",
-              "meaning": "人名",
+              "meaning": "东晋隐士，名驎之，字子骥。本文中是听说桃花源并计划前往的人。",
               "type": "人名"
             },
             {
               "word": "高尚",
               "pinyin": "gāo shàng",
-              "meaning": "品德崇高",
+              "meaning": "品德崇高，不慕荣利。",
               "type": "实词"
             },
             {
               "word": "士",
               "pinyin": "shì",
-              "meaning": "士人",
+              "meaning": "指有才德的读书人。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表示判断",
+              "meaning": "句末语气词，表判断与肯定，相当于‘是……的人’。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "闻之，欣然规往。",
-          "translation": "他听说了这件事，欣然计划前往。",
+          "translation": "他听说了这件事，便高兴地计划前往。",
           "words": [
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听到",
+              "meaning": "听说。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "指代此事",
+              "meaning": "代词，指代发现桃花源这件事。",
               "type": "虚词"
             },
             {
               "word": "欣然",
               "pinyin": "xīn rán",
-              "meaning": "高兴地",
-              "type": "虚词"
+              "meaning": "高兴的样子。",
+              "type": "实词"
             },
             {
               "word": "规",
               "pinyin": "guī",
-              "meaning": "计划",
+              "meaning": "计划、打算。",
               "type": "实词"
             },
             {
               "word": "往",
               "pinyin": "wǎng",
-              "meaning": "前往",
+              "meaning": "去、前往。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "未果，寻病终。",
-          "translation": "但未能实现，不久后病逝。",
+          "translation": "但没有实现，不久就病逝了。",
           "words": [
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
+              "meaning": "副词，表示否定，相当于'没有'，在本句中修饰'果'，表示计划没有实现",
               "type": "虚词"
             },
             {
               "word": "果",
               "pinyin": "guǒ",
-              "meaning": "实现",
+              "meaning": "动词，实现、成功，指刘子骥前往桃花源的计划没有实现",
               "type": "实词"
             },
             {
               "word": "寻",
               "pinyin": "xún",
-              "meaning": "不久",
+              "meaning": "副词，表示时间短暂，义为不久、随即，在本句中连接'病终'，表示不久后生病去世",
               "type": "虚词"
             },
             {
               "word": "病",
               "pinyin": "bìng",
-              "meaning": "生病",
+              "meaning": "动词，生病，在本句中指刘子骥生病",
               "type": "实词"
             },
             {
               "word": "终",
               "pinyin": "zhōng",
-              "meaning": "去世",
+              "meaning": "动词，死亡、去世，在本句中指刘子骥病逝",
               "type": "实词"
             }
           ]
         },
         {
           "original": "后遂无问津者。",
-          "translation": "从此以后，就再也没有探访桃花源的人了。",
+          "translation": "后来就再也没有寻访的人了。",
           "words": [
             {
               "word": "后",
               "pinyin": "hòu",
-              "meaning": "后来",
+              "meaning": "时间副词，表示时间顺序，义为后来、之后",
               "type": "虚词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "副词，表示承接，义为于是、就",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，表示不存在，义为没有",
               "type": "实词"
             },
             {
               "word": "问津",
               "pinyin": "wèn jīn",
-              "meaning": "探访",
-              "type": "实词"
+              "meaning": "典故，出自《论语·微子》，原指询问渡口，引申为寻访、探求，在本句中指探访桃花源",
+              "type": "典故"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "代词，用于动词短语后，构成名词性结构，表示...的人",
               "type": "虚词"
             }
           ]

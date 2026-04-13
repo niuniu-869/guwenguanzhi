@@ -1,95 +1,109 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "110_北山移文",
   "title": "北山移文",
   "author": {
     "id": "wei_jin_孔稚珪",
     "name": "孔稚珪",
     "dynasty": "wei_jin",
-    "bio": "孔稚珪（447年－501年），字德璋，会稽山阴（今浙江绍兴）人。南朝齐文学家，历任太子詹事、散骑常侍等职。他博学多才，擅长骈文，以《北山移文》闻名，该文讽刺假隐士，文笔犀利。孔稚珪出身士族，好文学，作品多反映社会现实，生平见于《南齐书》等史籍。"
+    "bio": "孔稚珪，字德璋，会稽山阴（今浙江绍兴）人，生于447年，卒于501年，南朝齐文学家。官至太子詹事，性爱山水，不乐世务。代表作《北山移文》。其文以骈俪华丽著称，在文学史上以讽刺骈文见长，对南朝文学发展有贡献。"
   },
   "source": "",
   "dynasty": "wei_jin",
   "volume": 7,
-  "background": "《北山移文》是南朝齐文学家孔稚珪创作的一篇骈文，写作背景源于当时社会隐逸文化的盛行与虚伪现象。魏晋南北朝时期，政局动荡，士人常以隐居标榜清高，但许多人借此沽名钓誉，实则追求仕途。孔稚珪此文针对名士周颙（字彦伦），周颙曾隐居钟山草堂，后应诏出仕海盐令，途经钟山时，孔稚珪假托山神之意，写下移文以讽刺其虚伪。文章反映了作者对真隐逸精神的推崇和对假隐士的批判，针砭时弊，弘扬高洁人格，体现了当时士人在出世与入世之间的矛盾心态。",
-  "appreciation": "《北山移文》是骈文的典范之作，以其精妙的语言、严谨的结构和深刻的讽刺著称。文章结构层次分明：开篇描绘钟山之英灵，树立真隐士的高洁形象；中间详细叙述周子从隐居到出仕的转变，对比鲜明；结尾以自然景物的愤怒和山神的驱逐令收束，气势磅礴。语言上，骈俪工整，对仗精巧，如“亭亭物表，皎皎霞外”等句，音韵铿锵，富有节奏感。用典丰富，引用巢父、许由、务光等历史人物，增强深度和讽刺效果。修辞手法多样，拟人化突出，赋予山川草木情感，如“蕙帐空兮夜鹤怨，山人去兮晓猿惊”，生动形象。主题思想鲜明，不仅讽刺周颙的虚伪，更批判社会中借隐居求名的风气，倡导高洁自守的隐逸精神。文学史上，此文影响深远，成为讽刺文学的典范，融合文学性与思想性，是古代散文中的瑰宝。",
+  "background": "《北山移文》创作于南朝齐时期，魏晋南北朝时代政治分裂，社会动荡，士族门阀制度盛行，玄学清谈与隐逸风气浓厚，但其中不乏以隐居博取名声的假隐士。作者孔稚珪出身士族，时任官职，性好山水，对官场虚伪有所观察。写作动机针对周颙（周子）等假隐士，周颙曾隐居钟山，后应诏出仕，孔稚珪借此文讽刺其先隐后仕、虚伪做作的行为，表达对真诚隐逸的推崇。",
+  "appreciation": "《北山移文》是一篇骈文体赋，结构上先描绘真隐士的高洁，再以周子为例，通过其始至时的傲慢与应诏后的变节形成鲜明对比，最后以山灵的愤怒收尾，层层递进，逻辑严密。艺术特色上，运用拟人手法，赋予山林草木情感，如“蕙帐空兮夜鹤怨”；语言骈俪对仗，节奏铿锵，修辞丰富，包括夸张、对比等，增强讽刺效果。思想内涵核心是批判假隐士的虚伪，强调隐逸应出于真诚，而非功利，反映士人在名利与高洁之间的矛盾。文学史上，此文是南朝骈文的代表作，对后世讽刺文学如唐代小品文有影响。",
   "tags": [
     "骈文",
-    "讽刺文学",
-    "隐逸文化"
+    "赋",
+    "人物",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "锺山之英，草堂之灵，驰烟驿路，勒移山庭。",
-      "translation": "锺山的英灵和草堂的神灵，在驿路上如烟般驰骋，将移文刻在山庭上。",
+      "translation": "钟山的神灵，草堂的精灵，在驿道上奔驰如烟，在山庭前刻写移文。",
       "sentences": [
         {
           "original": "锺山之英，草堂之灵",
-          "translation": "锺山的英灵，草堂的神灵",
+          "translation": "钟山的神灵，草堂的精灵",
           "words": [
             {
               "word": "锺山",
               "pinyin": "zhōng shān",
-              "meaning": "山名",
+              "meaning": "山名，即紫金山，在今江苏南京，文中代指北山",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示领属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "英",
               "pinyin": "yīng",
-              "meaning": "神灵",
+              "meaning": "英灵、精华，指山中的神灵",
               "type": "实词"
             },
             {
               "word": "草堂",
               "pinyin": "cǎo táng",
-              "meaning": "隐士居所",
-              "type": "典故"
+              "meaning": "隐士的草庐，文中指周颙在锺山隐居时的居所",
+              "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示领属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "灵",
               "pinyin": "líng",
-              "meaning": "神灵",
+              "meaning": "神灵、灵异，指草堂的神灵",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "驰烟驿路，勒移山庭",
-          "translation": "在驿路上如烟般驰骋，将移文刻在山庭上",
+          "original": "驰烟驿路，勒移山庭。",
+          "translation": "在驿道上奔驰如烟，在山庭前刻写移文。",
           "words": [
             {
-              "word": "驰烟",
-              "pinyin": "chí yān",
-              "meaning": "烟雾奔驰",
+              "word": "驰",
+              "pinyin": "chí",
+              "meaning": "奔驰、疾驰",
+              "type": "实词"
+            },
+            {
+              "word": "烟",
+              "pinyin": "yān",
+              "meaning": "烟尘、烟雾，形容快速移动的尘土",
               "type": "实词"
             },
             {
               "word": "驿路",
               "pinyin": "yì lù",
-              "meaning": "驿道",
+              "meaning": "驿道、官道",
               "type": "实词"
             },
             {
-              "word": "勒移",
-              "pinyin": "lè yí",
-              "meaning": "刻写移文",
+              "word": "勒",
+              "pinyin": "lè",
+              "meaning": "刻、雕刻",
+              "type": "实词"
+            },
+            {
+              "word": "移",
+              "pinyin": "yí",
+              "meaning": "移文，一种用于谴责或声讨的文体",
               "type": "实词"
             },
             {
               "word": "山庭",
               "pinyin": "shān tíng",
-              "meaning": "山庭",
+              "meaning": "山前的庭院，指山门前",
               "type": "实词"
             }
           ]
@@ -98,76 +112,76 @@
     },
     {
       "original": "夫以耿介拔俗之标，潇洒出尘之想，度白雪以方洁，干青云而直上，吾方知之矣。若其亭亭物表，皎皎霞外，芥千金而不盼，屣万乘其如脱。闻凤吹于洛浦，值薪歌于延濑，固亦有焉。岂期终始参差，苍黄反复，泪翟子之悲，恸朱公之哭。",
-      "translation": "以正直超凡的品格，潇洒脱俗的志向，比拟白雪的纯洁，直冲青云之上，我方才知道这样的人。至于他高耸于万物之上，皎洁于云霞之外，视千金如草芥而不顾，弃万乘之尊如脱鞋。在洛浦听到凤吹，在延濑遇到薪歌，这样的人本来也是有的。岂料始终不一，变化无常，像翟子那样悲伤流泪，像朱公那样痛哭。",
+      "translation": "那些凭借正直超脱世俗的风度、洒脱超脱尘世情怀的人，用白雪比拟其洁净，冲上青云而直上云霄，我才知道这种人啊。至于他耸立于世俗之外，洁白于云霞之外，视千金如草芥而不屑一顾，视帝位如敝履而轻易抛弃。在洛水边听到仙乐，在长河岸边遇到砍柴人的歌，本来也有这种情况。哪里想到他会始终不一，变化无常，像墨子见素丝而悲伤流泪，像杨朱见歧路而痛哭。",
       "sentences": [
         {
           "original": "夫以耿介拔俗之标，潇洒出尘之想，度白雪以方洁，干青云而直上，吾方知之矣。",
-          "translation": "以正直超凡的品格，潇洒脱俗的志向，比拟白雪的纯洁，直冲青云之上，我方才知道这样的人。",
+          "translation": "凭借正直超脱世俗的风度，洒脱超脱尘世的情怀，用白雪来比拟其洁净，冲上青云而直上云霄，我才知道这种人啊。",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首发语词，表示将要议论或发表看法，无实义",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "凭借",
+              "meaning": "介词，表示凭借、依据，相当于“凭着”",
               "type": "虚词"
             },
             {
               "word": "耿介",
               "pinyin": "gěng jiè",
-              "meaning": "正直不阿",
+              "meaning": "正直不阿，形容品格刚直",
               "type": "实词"
             },
             {
               "word": "拔俗",
               "pinyin": "bá sú",
-              "meaning": "超脱世俗",
+              "meaning": "超脱世俗，超越凡俗",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，定语的标志，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "标",
               "pinyin": "biāo",
-              "meaning": "风度",
+              "meaning": "风度，格调，此处指外在的仪表气度",
               "type": "实词"
             },
             {
               "word": "潇洒",
               "pinyin": "xiāo sǎ",
-              "meaning": "洒脱不拘",
+              "meaning": "洒脱不羁，超逸绝俗",
               "type": "实词"
             },
             {
               "word": "出尘",
               "pinyin": "chū chén",
-              "meaning": "超脱尘世",
+              "meaning": "超脱尘世，超出世俗",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，定语的标志，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "想",
               "pinyin": "xiǎng",
-              "meaning": "情怀",
+              "meaning": "情怀，志向",
               "type": "实词"
             },
             {
               "word": "度",
-              "pinyin": "dù",
-              "meaning": "衡量",
+              "pinyin": "duó",
+              "meaning": "此处读 duó，义为度量、比度",
               "type": "实词"
             },
             {
@@ -179,31 +193,37 @@
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，可译为“来”",
               "type": "虚词"
             },
             {
-              "word": "方洁",
-              "pinyin": "fāng jié",
-              "meaning": "比拟洁白",
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "古义：比拟、比方（非今义‘方向’或‘方形’）",
+              "type": "实词"
+            },
+            {
+              "word": "洁",
+              "pinyin": "jié",
+              "meaning": "洁白，纯洁",
               "type": "实词"
             },
             {
               "word": "干",
               "pinyin": "gān",
-              "meaning": "触及",
+              "meaning": "此处读 gān，义为触及、冲上",
               "type": "实词"
             },
             {
               "word": "青云",
               "pinyin": "qīng yún",
-              "meaning": "高空",
+              "meaning": "青天，高空",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表示承接关系",
               "type": "虚词"
             },
             {
@@ -215,289 +235,265 @@
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "人称代词，我",
+              "type": "虚词"
             },
             {
               "word": "方",
               "pinyin": "fāng",
-              "meaning": "才",
+              "meaning": "副词，才",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "知道，了解",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "这个",
+              "meaning": "代词，指代前文所描述的“耿介拔俗之标”等品质",
               "type": "虚词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表肯定和已然的语气，相当于“了”",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若其亭亭物表，皎皎霞外，芥千金而不盼，屣万乘其如脱。",
-          "translation": "至于他高耸于万物之上，皎洁于云霞之外，视千金如草芥而不顾，弃万乘之尊如脱鞋。",
+          "translation": "至于他耸立于世俗之外，洁白于云霞之外，视千金如草芥而不屑一顾，视帝位如敝履而轻易抛弃。",
           "words": [
             {
-              "word": "若",
-              "pinyin": "ruò",
-              "meaning": "如果",
-              "type": "虚词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "他",
+              "word": "若其",
+              "pinyin": "ruò qí",
+              "meaning": "连词，表示另提一事，相当于“至于”",
               "type": "虚词"
             },
             {
               "word": "亭亭",
               "pinyin": "tíng tíng",
-              "meaning": "耸立的样子",
+              "meaning": "耸立的样子，形容高洁挺拔",
               "type": "实词"
             },
             {
               "word": "物表",
               "pinyin": "wù biǎo",
-              "meaning": "物外",
+              "meaning": "世俗之外，万物之上",
               "type": "实词"
             },
             {
               "word": "皎皎",
               "pinyin": "jiǎo jiǎo",
-              "meaning": "洁白明亮",
+              "meaning": "洁白明亮的样子",
               "type": "实词"
             },
             {
               "word": "霞外",
               "pinyin": "xiá wài",
-              "meaning": "云霞之外",
+              "meaning": "云霞之外，指超脱尘世的仙境",
               "type": "实词"
             },
             {
               "word": "芥",
               "pinyin": "jiè",
-              "meaning": "视如草芥",
+              "meaning": "名词意动用法，以之为芥，视如草芥",
               "type": "实词"
             },
             {
               "word": "千金",
               "pinyin": "qiān jīn",
-              "meaning": "千金",
+              "meaning": "千斤金，泛指巨额财富",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表示转折关系，却",
               "type": "虚词"
             },
             {
               "word": "不盼",
               "pinyin": "bù pàn",
-              "meaning": "不看一眼",
+              "meaning": "不看一眼，形容毫不在意",
               "type": "实词"
             },
             {
               "word": "屣",
               "pinyin": "xǐ",
-              "meaning": "视如敝屣",
+              "meaning": "名词作状语，像扔掉鞋子一样（轻视）",
               "type": "实词"
             },
             {
               "word": "万乘",
               "pinyin": "wàn shèng",
-              "meaning": "万乘之尊",
+              "meaning": "万辆兵车，代指天子之位或帝位",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "语气副词，表强调或推测语气",
               "type": "虚词"
             },
             {
               "word": "如脱",
               "pinyin": "rú tuō",
-              "meaning": "如同脱掉",
+              "meaning": "如同脱掉（鞋子），形容轻易舍弃",
               "type": "实词"
             }
           ]
         },
         {
           "original": "闻凤吹于洛浦，值薪歌于延濑，固亦有焉。",
-          "translation": "在洛浦听到凤吹，在延濑遇到薪歌，这样的人本来也是有的。",
+          "translation": "在洛水边听到仙乐，在长河岸边遇到砍柴人的歌，本来也有这种情况。",
           "words": [
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听到",
+              "meaning": "动词，听到",
               "type": "实词"
             },
             {
               "word": "凤吹",
               "pinyin": "fèng chuī",
-              "meaning": "凤凰鸣声",
+              "meaning": "典故，指仙乐，出自《列仙传》王子乔吹笙作凤鸣的故事，象征超尘脱俗",
               "type": "典故"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示动作'闻'的处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "洛浦",
               "pinyin": "luò pǔ",
-              "meaning": "洛水之滨",
+              "meaning": "地名，洛水之滨，传说中神仙出没之地，与'凤吹'相应",
               "type": "地名"
             },
             {
               "word": "值",
               "pinyin": "zhí",
-              "meaning": "遇到",
+              "meaning": "动词，遇到、碰上",
               "type": "实词"
             },
             {
               "word": "薪歌",
               "pinyin": "xīn gē",
-              "meaning": "采薪之歌",
+              "meaning": "典故，指隐士之歌，出自《庄子·天道》中樵夫歌颂尧舜的典故，象征高洁隐逸",
               "type": "典故"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "在",
-              "type": "虚词"
             },
             {
               "word": "延濑",
               "pinyin": "yán lài",
-              "meaning": "长濑",
+              "meaning": "地名，长河之滨，泛指隐士所居水边，与'薪歌'相应",
               "type": "地名"
             },
             {
               "word": "固",
               "pinyin": "gù",
-              "meaning": "本来",
+              "meaning": "副词，确实、本来，表示肯定语气",
               "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，兼有指代作用，指代上述'闻凤吹'、'值薪歌'这类超凡之事",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "岂期终始参差，苍黄反复，泪翟子之悲，恸朱公之哭。",
-          "translation": "岂料始终不一，变化无常，像翟子那样悲伤流泪，像朱公那样痛哭。",
+          "translation": "哪里想到他会始终不一，变化无常，像墨子见素丝而悲伤流泪，像杨朱见歧路而痛哭。",
           "words": [
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表示反问，难道、哪里",
               "type": "虚词"
             },
             {
               "word": "期",
               "pinyin": "qī",
-              "meaning": "期望",
+              "meaning": "动词，料想、预期",
               "type": "实词"
             },
             {
-              "word": "终始",
-              "pinyin": "zhōng shǐ",
-              "meaning": "始终",
-              "type": "实词"
+              "word": "终始参差",
+              "pinyin": "zhōng shǐ cēn cī",
+              "meaning": "典故，固定结构，指前后不一致，反复无常",
+              "type": "典故"
             },
             {
-              "word": "参差",
-              "pinyin": "cēn cī",
-              "meaning": "不齐",
-              "type": "实词"
-            },
-            {
-              "word": "苍黄",
-              "pinyin": "cāng huáng",
-              "meaning": "变化无常",
-              "type": "实词"
-            },
-            {
-              "word": "反复",
-              "pinyin": "fǎn fù",
-              "meaning": "反复",
-              "type": "实词"
+              "word": "苍黄反复",
+              "pinyin": "cāng huáng fǎn fù",
+              "meaning": "典故，固定结构，指变化无常，青黄之间反复变化，语出《墨子·所染》",
+              "type": "典故"
             },
             {
               "word": "泪",
               "pinyin": "lèi",
-              "meaning": "流泪",
+              "meaning": "动词，为……流泪",
               "type": "实词"
             },
             {
               "word": "翟子",
               "pinyin": "dí zǐ",
-              "meaning": "墨子",
-              "type": "典故"
+              "meaning": "人名，指墨翟，墨家创始人，以'兼爱'、'非攻'著称，其学说易引发悲悯之情",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "悲",
               "pinyin": "bēi",
-              "meaning": "悲伤",
+              "meaning": "名词，悲伤之事",
               "type": "实词"
             },
             {
               "word": "恸",
               "pinyin": "tòng",
-              "meaning": "痛哭",
+              "meaning": "动词，极度悲痛，为……痛哭",
               "type": "实词"
             },
             {
               "word": "朱公",
               "pinyin": "zhū gōng",
-              "meaning": "杨朱",
-              "type": "典故"
+              "meaning": "人名，指杨朱，道家人物，主张'贵己'、'重生'，其学说易引发哀伤之叹",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语的标志，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣",
+              "meaning": "名词，哭泣之事",
               "type": "实词"
             }
           ]
@@ -506,160 +502,196 @@
     },
     {
       "original": "乍回迹以心染。或先贞而后黩，何其谬哉。呜呼！尚生不存，仲氏既往，山阿寂寥，千载谁赏？",
-      "translation": "暂时隐退行迹，但内心却被世俗污染。有的人起初贞洁，后来却变得污浊，多么荒谬啊。唉！尚生已经不在，仲氏也已逝去，山阿寂寞冷清，千年以来谁来欣赏？",
+      "translation": "突然隐退行迹却内心被世俗所染。有人起初贞洁而后污浊，多么荒谬啊！唉！尚子平已不在，仲长统已逝去，山角落寂静空旷，千年之间谁来欣赏？",
       "sentences": [
         {
           "original": "乍回迹以心染。",
-          "translation": "暂时隐退行迹，但内心却被世俗污染。",
+          "translation": "突然隐退行迹却内心被世俗所染。",
           "words": [
             {
               "word": "乍",
               "pinyin": "zhà",
-              "meaning": "突然",
+              "meaning": "副词，表示时间，起初、突然",
               "type": "虚词"
             },
             {
-              "word": "回迹",
-              "pinyin": "huí jì",
-              "meaning": "隐退行迹",
+              "word": "回",
+              "pinyin": "huí",
+              "meaning": "动词，回转、改变，在句中指隐退行迹",
+              "type": "实词"
+            },
+            {
+              "word": "迹",
+              "pinyin": "jì",
+              "meaning": "名词，行迹、踪迹，指隐居的踪迹",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示方式，连接'回迹'和'心染'，相当于'而'",
               "type": "虚词"
             },
             {
-              "word": "心染",
-              "pinyin": "xīn rǎn",
-              "meaning": "内心污染",
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "名词，内心",
+              "type": "实词"
+            },
+            {
+              "word": "染",
+              "pinyin": "rǎn",
+              "meaning": "动词，沾染、污染，在句中指内心被尘世沾染",
               "type": "实词"
             }
           ]
         },
         {
           "original": "或先贞而后黩，何其谬哉。",
-          "translation": "有的人起初贞洁，后来却变得污浊，多么荒谬啊。",
+          "translation": "有人起初贞洁而后污浊，多么荒谬啊。",
           "words": [
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有人",
+              "meaning": "代词，有人、有些人",
               "type": "虚词"
             },
             {
-              "word": "先贞",
-              "pinyin": "xiān zhēn",
-              "meaning": "起初贞洁",
+              "word": "先",
+              "pinyin": "xiān",
+              "meaning": "副词，先前、之前",
+              "type": "虚词"
+            },
+            {
+              "word": "贞",
+              "pinyin": "zhēn",
+              "meaning": "形容词，贞洁、正直",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表示转折，却",
               "type": "虚词"
             },
             {
-              "word": "后黩",
-              "pinyin": "hòu dú",
-              "meaning": "后来污浊",
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "副词，后来",
+              "type": "虚词"
+            },
+            {
+              "word": "黩",
+              "pinyin": "dú",
+              "meaning": "动词，玷污、滥用",
               "type": "实词"
             },
             {
-              "word": "何其",
-              "pinyin": "hé qí",
-              "meaning": "多么",
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "疑问代词，在句中与'其'连用，表示感叹程度，多么",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "语气词，与'何'配合，加强感叹语气",
               "type": "虚词"
             },
             {
               "word": "谬",
               "pinyin": "miù",
-              "meaning": "错误",
+              "meaning": "形容词，荒谬、错误",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "啊",
+              "meaning": "语气词，表示感叹，啊",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "呜呼！尚生不存，仲氏既往，山阿寂寥，千载谁赏？",
-          "translation": "唉！尚生已经不在，仲氏也已逝去，山阿寂寞冷清，千年以来谁来欣赏？",
+          "original": "呜呼！",
+          "translation": "唉！",
           "words": [
             {
               "word": "呜呼",
               "pinyin": "wū hū",
-              "meaning": "唉",
+              "meaning": "感叹词，表示悲伤叹息，在文中表达对隐士逝去的感慨。",
               "type": "虚词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "尚生不存，仲氏既往，山阿寂寥，千载谁赏？",
+          "translation": "尚子平已不在，仲长统已逝去，山角落寂静空旷，千年之间谁来欣赏？",
+          "words": [
             {
               "word": "尚生",
-              "pinyin": "Shàng shēng",
-              "meaning": "尚子平",
+              "pinyin": "shàng shēng",
+              "meaning": "指尚子平，西汉末隐士，王莽时不应征召，文中代指高洁隐士。",
               "type": "人名"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，在句中否定动词'存'，表示不存在。",
               "type": "虚词"
             },
             {
               "word": "存",
               "pinyin": "cún",
-              "meaning": "存在",
+              "meaning": "动词，存在、在世，指尚生已不在人世。",
               "type": "实词"
             },
             {
               "word": "仲氏",
-              "pinyin": "Zhòng shì",
-              "meaning": "仲长统",
+              "pinyin": "zhòng shì",
+              "meaning": "指仲长统，东汉末隐士，著有《昌言》，文中代指高洁隐士。",
               "type": "人名"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经，修饰动词'往'，表示已经逝去。",
               "type": "虚词"
             },
             {
               "word": "往",
               "pinyin": "wǎng",
-              "meaning": "过去",
+              "meaning": "动词，去、逝去，指仲氏已经去世。",
               "type": "实词"
             },
             {
               "word": "山阿",
               "pinyin": "shān ē",
-              "meaning": "山角落",
+              "meaning": "名词，山陵、山曲，指山中隐居之处。",
               "type": "实词"
             },
             {
               "word": "寂寥",
               "pinyin": "jì liáo",
-              "meaning": "寂静空旷",
+              "meaning": "形容词，寂静空旷，形容山阿因无人而冷清。",
               "type": "实词"
             },
             {
               "word": "千载",
               "pinyin": "qiān zǎi",
-              "meaning": "千年",
+              "meaning": "数量词，千年，强调时间漫长。",
               "type": "实词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁",
+              "meaning": "疑问代词，指代人，在句中作主语，询问'赏'的施事者。",
               "type": "虚词"
             },
             {
               "word": "赏",
               "pinyin": "shǎng",
-              "meaning": "欣赏",
+              "meaning": "动词，欣赏、赏识，指对山景的游览品鉴。",
               "type": "实词"
             }
           ]
@@ -668,275 +700,281 @@
     },
     {
       "original": "世有周子，俊俗之士；既文既博，亦玄亦史。然而学，遁东鲁，习隐南郭；窃吹草堂，滥巾北岳。诱我松桂，欺我云壑。虽假容于江皋，乃缨请于好爵。",
-      "translation": "世上有个周子，是位才智超群之士；文采斐然，学识渊博，既通玄学，又精史籍。然而他学习时，模仿东鲁的遁世者，效仿南郭的隐士；在草堂窃取隐居之名，在北岳滥竽充数地戴隐士头巾。诱惑我的松树桂树，欺骗我的云雾山谷。虽然在江边假装隐居之态，却实际上是在追求高官厚禄。",
+      "translation": "世上有个周子，是才智超群的人；他既有文采又博学，既通玄学又懂史学。然而他的学习，却像是逃避东鲁的学风，模仿南郭的隐居；偷偷吹嘘在草堂，滥竽充数地戴着隐士头巾在北岳。他引诱我的松树和桂树，欺骗我的云雾山谷。虽然假装在江边隐居，却系着帽带追求高官厚禄。",
       "sentences": [
         {
           "original": "世有周子，俊俗之士；既文既博，亦玄亦史。",
-          "translation": "世上有个周子，是位才智超群之士；文采斐然，学识渊博，既通玄学，又精史籍。",
+          "translation": "世上有个周子，是才智超群的人；他既有文采又博学，既通玄学又懂史学。",
           "words": [
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世间",
+              "meaning": "名词，世间、社会",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "周子",
-              "pinyin": "Zhōu zǐ",
-              "meaning": "周先生",
+              "pinyin": "zhōu zǐ",
+              "meaning": "指南朝齐的周颙，曾隐居钟山，后应诏出任海盐县令，是本文讽刺的对象",
               "type": "人名"
             },
             {
               "word": "俊俗",
               "pinyin": "jùn sú",
-              "meaning": "超群脱俗",
+              "meaning": "才智超群，超越世俗",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语标志，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "士",
               "pinyin": "shì",
-              "meaning": "士人",
+              "meaning": "名词，士人、读书人",
               "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "连词，与下文“既”连用，表示两种情况并存",
               "type": "虚词"
             },
             {
               "word": "文",
               "pinyin": "wén",
-              "meaning": "文采",
+              "meaning": "动词，有文采、善为文",
               "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "连词，与上文“既”连用，表示并列",
               "type": "虚词"
             },
             {
               "word": "博",
               "pinyin": "bó",
-              "meaning": "博学",
+              "meaning": "形容词，学识渊博",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "连词，与下文“亦”连用，表示两种情况兼有",
               "type": "虚词"
             },
             {
               "word": "玄",
               "pinyin": "xuán",
-              "meaning": "玄学",
+              "meaning": "名词，指玄学，魏晋时期以《老子》、《庄子》、《周易》为“三玄”",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "连词，与上文“亦”连用，表示并列",
               "type": "虚词"
             },
             {
               "word": "史",
               "pinyin": "shǐ",
-              "meaning": "史学",
+              "meaning": "名词，指史学、史籍",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "然而学，遁东鲁，习隐南郭；窃吹草堂，滥巾北岳。",
-          "translation": "然而他学习时，模仿东鲁的遁世者，效仿南郭的隐士；在草堂窃取隐居之名，在北岳滥竽充数地戴隐士头巾。",
+          "original": "然而学，遁东鲁，习隐南郭；",
+          "translation": "然而他的学习，却像是逃避东鲁的学风，模仿南郭的隐居；",
           "words": [
             {
               "word": "然而",
               "pinyin": "rán ér",
-              "meaning": "然而",
+              "meaning": "连词，表示转折，相当于“但是”",
               "type": "虚词"
             },
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学习",
+              "meaning": "动词，学习、效仿",
               "type": "实词"
             },
             {
               "word": "遁",
               "pinyin": "dùn",
-              "meaning": "隐遁",
+              "meaning": "动词，逃避、隐遁",
               "type": "实词"
             },
             {
               "word": "东鲁",
-              "pinyin": "Dōng Lǔ",
-              "meaning": "东鲁",
+              "pinyin": "dōng lǔ",
+              "meaning": "指鲁国（在今山东），因在东方故称东鲁，孔子故乡，代指有高洁隐士传统之地",
               "type": "地名"
             },
             {
               "word": "习",
               "pinyin": "xí",
-              "meaning": "习得",
+              "meaning": "动词，学习、练习",
               "type": "实词"
             },
             {
               "word": "隐",
               "pinyin": "yǐn",
-              "meaning": "隐居",
+              "meaning": "动词，隐居",
               "type": "实词"
             },
             {
               "word": "南郭",
-              "pinyin": "Nán Guō",
-              "meaning": "南郭",
+              "pinyin": "nán guō",
+              "meaning": "南边的城郭，典出《庄子·齐物论》中“南郭子綦”，代指超然物外的隐士",
               "type": "地名"
-            },
+            }
+          ]
+        },
+        {
+          "original": "窃吹草堂，滥巾北岳。",
+          "translation": "偷偷吹嘘在草堂，滥竽充数地戴着隐士头巾在北岳。",
+          "words": [
             {
-              "word": "窃",
-              "pinyin": "qiè",
-              "meaning": "窃取",
-              "type": "实词"
-            },
-            {
-              "word": "吹",
-              "pinyin": "chuī",
-              "meaning": "吹嘘",
-              "type": "实词"
+              "word": "窃吹",
+              "pinyin": "qiè chuī",
+              "meaning": "典故，化用《韩非子·内储说上》‘南郭处士吹竽’事，指无才而占据其位，此处讽刺假隐士冒充隐居。",
+              "type": "典故"
             },
             {
               "word": "草堂",
               "pinyin": "cǎo táng",
-              "meaning": "草堂",
+              "meaning": "隐士所居的简陋茅屋。此处指隐士的居所。",
               "type": "实词"
             },
             {
-              "word": "滥",
-              "pinyin": "làn",
-              "meaning": "滥用",
-              "type": "实词"
-            },
-            {
-              "word": "巾",
-              "pinyin": "jīn",
-              "meaning": "头巾",
-              "type": "实词"
+              "word": "滥巾",
+              "pinyin": "làn jīn",
+              "meaning": "典故，‘滥’指过度、虚假；‘巾’指隐士所戴的头巾。合指假充隐士。",
+              "type": "典故"
             },
             {
               "word": "北岳",
-              "pinyin": "Běi Yuè",
-              "meaning": "北岳",
+              "pinyin": "běi yuè",
+              "meaning": "地名，泛指北方的山岳，与上文‘草堂’相对，此处象征隐士所居之地。",
               "type": "地名"
             }
           ]
         },
         {
           "original": "诱我松桂，欺我云壑。",
-          "translation": "诱惑我的松树桂树，欺骗我的云雾山谷。",
+          "translation": "他引诱我的松树和桂树，欺骗我的云雾山谷。",
           "words": [
             {
               "word": "诱",
               "pinyin": "yòu",
-              "meaning": "诱惑",
+              "meaning": "引诱，欺骗。",
               "type": "实词"
             },
             {
               "word": "我",
               "pinyin": "wǒ",
-              "meaning": "我",
+              "meaning": "第一人称代词，此处指代山神或隐士群体（即作者口吻）。",
               "type": "虚词"
             },
             {
               "word": "松桂",
               "pinyin": "sōng guì",
-              "meaning": "松桂",
+              "meaning": "松树与桂树，象征隐士高洁坚贞的品格。",
               "type": "实词"
             },
             {
               "word": "欺",
               "pinyin": "qī",
-              "meaning": "欺骗",
+              "meaning": "欺骗，蒙蔽。",
               "type": "实词"
             },
             {
               "word": "我",
               "pinyin": "wǒ",
-              "meaning": "我",
+              "meaning": "第一人称代词，此处指代山神或隐士群体（即作者口吻）。",
               "type": "虚词"
             },
             {
               "word": "云壑",
               "pinyin": "yún hè",
-              "meaning": "云壑",
+              "meaning": "云雾缭绕的山谷，象征隐逸幽静的环境。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "虽假容于江皋，乃缨请于好爵。",
-          "translation": "虽然在江边假装隐居之态，却实际上是在追求高官厚禄。",
+          "translation": "虽然假装在江边隐居，却系着帽带追求高官厚禄。",
           "words": [
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表让步，相当于“虽然”。此处连接前后两个分句，承认其假装隐居的行为。",
               "type": "虚词"
             },
             {
-              "word": "假容",
-              "pinyin": "jiǎ róng",
-              "meaning": "假装容颜",
+              "word": "假",
+              "pinyin": "jiǎ",
+              "meaning": "动词，假借、借助。此处指借助（隐逸的）外表。",
+              "type": "实词"
+            },
+            {
+              "word": "容",
+              "pinyin": "róng",
+              "meaning": "名词，容貌、容饰。此处指隐逸之士的外表、姿态。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表处所，相当于“在”。此处引出行为“假容”发生的地点。",
               "type": "虚词"
             },
             {
               "word": "江皋",
               "pinyin": "jiāng gāo",
-              "meaning": "江边高地",
+              "meaning": "地名，江边高地。常指隐士所居的幽僻之地，此处泛指隐居之所。",
               "type": "地名"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "却",
+              "meaning": "副词，表转折，却、竟然。与前文“虽”呼应，揭示其假装隐居与实际求官的矛盾。",
               "type": "虚词"
             },
             {
-              "word": "缨请",
-              "pinyin": "yīng qǐng",
-              "meaning": "谋求官职",
+              "word": "缨",
+              "pinyin": "yīng",
+              "meaning": "动词，缠绕、系结。此处“缨请”为动宾结构，“缨”活用为动词，指心为爵禄所缠绕，即热衷于追求。",
+              "type": "实词"
+            },
+            {
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "动词，求取、干求。此处指谋求官职爵位。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，表对象，相当于“向”或“对于”。此处引出“请”（求取）的对象。",
               "type": "虚词"
             },
             {
               "word": "好爵",
               "pinyin": "hǎo jué",
-              "meaning": "好的官职",
-              "type": "官职"
+              "meaning": "实词，指高官厚禄。“好”为美好、显要；“爵”为爵位、官职。",
+              "type": "实词"
             }
           ]
         }
@@ -944,112 +982,136 @@
     },
     {
       "original": "其始至也，将欲排巢父，拉许由，傲百氏，蔑王侯。风情张日，霜气横秋。",
-      "translation": "当他刚到的时候，想要排斥巢父，拉倒许由，傲视诸子百家，蔑视王侯贵族。风度情怀张扬如日，气概凛冽如秋霜横空。",
+      "translation": "他刚到的时候，想要排斥巢父，压倒许由，傲视诸子百家，蔑视王侯，风度张扬如烈日，气质凛冽如秋霜。",
       "sentences": [
         {
           "original": "其始至也，将欲排巢父，拉许由，傲百氏，蔑王侯。",
-          "translation": "当他刚到的时候，想要排斥巢父，拉倒许由，傲视诸子百家，蔑视王侯贵族。",
+          "translation": "他刚到的时候，想要排斥巢父，压倒许由，傲视诸子百家，蔑视王侯。",
           "words": [
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他，它",
+              "meaning": "指示代词，指代假意隐居的周颙，这里译为“他”",
               "type": "虚词"
             },
             {
-              "word": "始至",
-              "pinyin": "shǐ zhì",
-              "meaning": "开始到来",
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "开始",
+              "type": "实词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到来",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句中语气词，表停顿，以引出下文",
               "type": "虚词"
             },
             {
-              "word": "将欲",
-              "pinyin": "jiāng yù",
-              "meaning": "将要想要",
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "此处读 jiāng，义为将要、想要",
+              "type": "虚词"
+            },
+            {
+              "word": "欲",
+              "pinyin": "yù",
+              "meaning": "想要",
               "type": "实词"
             },
             {
               "word": "排",
               "pinyin": "pái",
-              "meaning": "排斥",
+              "meaning": "排摈，排斥",
               "type": "实词"
             },
             {
               "word": "巢父",
               "pinyin": "cháo fù",
-              "meaning": "古代隐士",
+              "meaning": "传说中尧时的隐士，在树上筑巢而居，以清高闻名",
               "type": "人名"
             },
             {
               "word": "拉",
               "pinyin": "lā",
-              "meaning": "拉扯，超越",
+              "meaning": "折辱",
               "type": "实词"
             },
             {
               "word": "许由",
               "pinyin": "xǔ yóu",
-              "meaning": "古代隐士",
+              "meaning": "传说中尧时的高士，尧让天下而不受，以清高闻名",
               "type": "人名"
             },
             {
               "word": "傲",
               "pinyin": "ào",
-              "meaning": "傲视",
+              "meaning": "傲视，轻视",
               "type": "实词"
             },
             {
               "word": "百氏",
               "pinyin": "bǎi shì",
-              "meaning": "诸子百家",
-              "type": "实词"
+              "meaning": "此处用典，指诸子百家学说及其代表人物",
+              "type": "典故"
             },
             {
               "word": "蔑",
               "pinyin": "miè",
-              "meaning": "蔑视",
+              "meaning": "蔑视，轻慢",
               "type": "实词"
             },
             {
               "word": "王侯",
               "pinyin": "wáng hóu",
-              "meaning": "王侯将相",
+              "meaning": "天子与诸侯，泛指显贵的爵位",
               "type": "实词"
             }
           ]
         },
         {
           "original": "风情张日，霜气横秋。",
-          "translation": "风度情怀张扬如日，气概凛冽如秋霜横空。",
+          "translation": "风度张扬如烈日，气质凛冽如秋霜。",
           "words": [
             {
               "word": "风情",
               "pinyin": "fēng qíng",
-              "meaning": "风度情怀",
+              "meaning": "古义：风采气概（非今义“男女爱慕之情”）",
               "type": "实词"
             },
             {
-              "word": "张日",
-              "pinyin": "zhāng rì",
-              "meaning": "遮天蔽日",
+              "word": "张",
+              "pinyin": "zhāng",
+              "meaning": "遮蔽，这里形容气势盛大可遮天蔽日",
+              "type": "实词"
+            },
+            {
+              "word": "日",
+              "pinyin": "rì",
+              "meaning": "太阳",
               "type": "实词"
             },
             {
               "word": "霜气",
               "pinyin": "shuāng qì",
-              "meaning": "秋霜之气",
+              "meaning": "凛然如秋霜的气概",
               "type": "实词"
             },
             {
-              "word": "横秋",
-              "pinyin": "héng qiū",
-              "meaning": "横贯秋天",
+              "word": "横",
+              "pinyin": "héng",
+              "meaning": "此处读 héng，义为横贯、充塞",
+              "type": "实词"
+            },
+            {
+              "word": "秋",
+              "pinyin": "qiū",
+              "meaning": "秋天",
               "type": "实词"
             }
           ]
@@ -1058,118 +1120,118 @@
     },
     {
       "original": "或叹幽人长往，或怨王孙不游。谈空空于释部，核玄玄于道流。务光何足比，涓子不能俦。",
-      "translation": "有时叹息隐士长去不归，有时抱怨王孙不来游赏。谈论佛经中的空空之理，核查道家玄之又玄的学说。务光哪里足以相比，涓子不能与之匹敌。",
+      "translation": "有人叹息隐士长久离去，有人抱怨贵族子弟不来游赏。他们在佛经中谈论空空之理，在道流中考核玄玄之义。务光哪里足以相比，涓子不能与之匹敌。",
       "sentences": [
         {
           "original": "或叹幽人长往，或怨王孙不游。",
-          "translation": "有时叹息隐士长去不归，有时抱怨王孙不来游赏。",
+          "translation": "有人叹息隐士长久离去，有人抱怨贵族子弟不来游赏。",
           "words": [
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有的",
+              "meaning": "古义：有人（非今义'或者'），此处作代词，指代某些人",
               "type": "虚词"
             },
             {
               "word": "叹",
               "pinyin": "tàn",
-              "meaning": "叹息",
+              "meaning": "叹息，感叹",
               "type": "实词"
             },
             {
               "word": "幽人",
               "pinyin": "yōu rén",
-              "meaning": "隐士",
+              "meaning": "隐居之士，隐士",
               "type": "实词"
             },
             {
               "word": "长往",
               "pinyin": "cháng wǎng",
-              "meaning": "长久离去",
+              "meaning": "此处'长'读 cháng，义为长久；'往'义为离去；整体指长久隐居或逝去",
               "type": "实词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有的",
+              "meaning": "古义：有人（非今义'或者'），此处作代词，指代另一些人",
               "type": "虚词"
             },
             {
               "word": "怨",
               "pinyin": "yuàn",
-              "meaning": "抱怨",
+              "meaning": "抱怨，埋怨",
               "type": "实词"
             },
             {
               "word": "王孙",
               "pinyin": "wáng sūn",
-              "meaning": "贵族子弟",
+              "meaning": "此处'王'读 wáng，义为君王；'孙'义为子孙；整体指贵族子弟",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
-              "type": "虚词"
+              "meaning": "否定副词，表示否定",
+              "type": "实词"
             },
             {
               "word": "游",
               "pinyin": "yóu",
-              "meaning": "游历",
+              "meaning": "游历，交游，此处指出来隐居或活动",
               "type": "实词"
             }
           ]
         },
         {
           "original": "谈空空于释部，核玄玄于道流。",
-          "translation": "谈论佛经中的空空之理，核查道家玄之又玄的学说。",
+          "translation": "在佛经中谈论空空之理，在道流中考核玄玄之义。",
           "words": [
             {
               "word": "谈",
               "pinyin": "tán",
-              "meaning": "谈论",
+              "meaning": "谈论，讨论",
               "type": "实词"
             },
             {
               "word": "空空",
               "pinyin": "kōng kōng",
-              "meaning": "空性",
+              "meaning": "佛教术语，指空之空，即万法皆空的深奥义理",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示动作的处所，相当于现代汉语的'在'",
               "type": "虚词"
             },
             {
               "word": "释部",
               "pinyin": "shì bù",
-              "meaning": "佛教典籍",
+              "meaning": "佛教典籍的统称，'释'指佛教",
               "type": "实词"
             },
             {
               "word": "核",
               "pinyin": "hé",
-              "meaning": "考察",
+              "meaning": "此处读 hé，义为考核、探讨",
               "type": "实词"
             },
             {
               "word": "玄玄",
               "pinyin": "xuán xuán",
-              "meaning": "玄妙",
+              "meaning": "道家术语，指玄之又玄，深奥的道家哲理",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示动作的处所，相当于现代汉语的'在'",
               "type": "虚词"
             },
             {
               "word": "道流",
               "pinyin": "dào liú",
-              "meaning": "道家流派",
+              "meaning": "道家流派或典籍，'道'指道家",
               "type": "实词"
             }
           ]
@@ -1181,49 +1243,49 @@
             {
               "word": "务光",
               "pinyin": "wù guāng",
-              "meaning": "古代隐士",
+              "meaning": "夏末商初隐士，传说商汤让位不受，投水自尽",
               "type": "人名"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "怎么",
+              "meaning": "疑问代词，用于反问，表示'怎么'",
               "type": "虚词"
             },
             {
               "word": "足",
               "pinyin": "zú",
-              "meaning": "足够",
+              "meaning": "动词，表示值得、足够",
               "type": "实词"
             },
             {
               "word": "比",
               "pinyin": "bǐ",
-              "meaning": "比较",
+              "meaning": "动词，表示比较、匹敌",
               "type": "实词"
             },
             {
               "word": "涓子",
               "pinyin": "juān zǐ",
-              "meaning": "古代仙人",
+              "meaning": "古代仙人，好道术，隐居不仕",
               "type": "人名"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "否定副词，用于否定动词，表示不能",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "能愿动词，表示能够、可以",
               "type": "实词"
             },
             {
               "word": "俦",
               "pinyin": "chóu",
-              "meaning": "匹敌",
+              "meaning": "动词，表示匹敌、相比",
               "type": "实词"
             }
           ]
@@ -1232,274 +1294,298 @@
     },
     {
       "original": "及其鸣驺入谷，鹤书赴陇。形驰魄散，志变神动。尔乃眉轩席次，袂耸筵上，焚芰制而裂荷衣，抗尘容而走俗状。风云凄其带愤，石泉咽而下怆。望林峦而有失，顾草木而如丧。",
-      "translation": "当他的车马进入山谷，诏书到达山岭时，他形体奔驰魂魄消散，志向改变精神动摇。于是他在席位上扬眉，在筵席上举袖，焚烧芰荷制成的衣服，撕裂荷叶衣，显露出尘世的容颜和俗态。风云凄凉带着愤怒，石泉呜咽而下悲伤。望着山林峦峰若有所失，回头看草木如同丧亲。",
+      "translation": "等到征召的车马进入山谷，诏书送达山野，他顿时形体奔忙，魂魄消散，志向改变，心神动摇。于是在宴席上眉飞色舞，挥动衣袖，焚烧并撕裂隐士的服装，显露出尘俗的面容，奔走于世俗的形态。风云凄凉，仿佛带着愤慨；石泉呜咽，流露出悲伤。他望着山林若有所失，看着草木如同丧亲。",
       "sentences": [
         {
           "original": "及其鸣驺入谷，鹤书赴陇。",
-          "translation": "当他的车马进入山谷，诏书到达山岭。",
+          "translation": "等到征召的车马进入山谷，诏书送达山野。",
           "words": [
             {
-              "word": "及其",
-              "pinyin": "jí qí",
-              "meaning": "等到",
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "连词，等到、到了",
+              "type": "虚词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，指代前文提到的隐士（周颙）",
               "type": "虚词"
             },
             {
               "word": "鸣驺",
               "pinyin": "míng zōu",
-              "meaning": "官员仪仗",
+              "meaning": "典故，指代朝廷征召使者车骑。鸣，指车铃或喝道声；驺，骑马的侍从",
+              "type": "典故"
+            },
+            {
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "动词，进入",
               "type": "实词"
             },
             {
-              "word": "入谷",
-              "pinyin": "rù gǔ",
-              "meaning": "进入山谷",
+              "word": "谷",
+              "pinyin": "gǔ",
+              "meaning": "山谷，指隐士所居之处",
               "type": "实词"
             },
             {
               "word": "鹤书",
               "pinyin": "hè shū",
-              "meaning": "诏书",
+              "meaning": "典故，诏书，因诏板书体得名，此指征召文书",
               "type": "典故"
             },
             {
-              "word": "赴陇",
-              "pinyin": "fù lǒng",
-              "meaning": "奔赴陇地",
+              "word": "赴",
+              "pinyin": "fù",
+              "meaning": "动词，奔赴、送达",
+              "type": "实词"
+            },
+            {
+              "word": "陇",
+              "pinyin": "lǒng",
+              "meaning": "山陇，泛指山野，与“谷”互文，指隐士居所",
               "type": "实词"
             }
           ]
         },
         {
           "original": "形驰魄散，志变神动。",
-          "translation": "形体奔驰魂魄消散，志向改变精神动摇。",
+          "translation": "他形体奔忙，魂魄消散，志向改变，心神动摇。",
           "words": [
             {
-              "word": "形驰",
-              "pinyin": "xíng chí",
-              "meaning": "形体奔驰",
+              "word": "形",
+              "pinyin": "xíng",
+              "meaning": "形体，身体",
               "type": "实词"
             },
             {
-              "word": "魄散",
-              "pinyin": "pò sàn",
-              "meaning": "魂魄消散",
+              "word": "驰",
+              "pinyin": "chí",
+              "meaning": "古义：奔驰、失控（非今义'传播'），形容听到诏命后坐立不安的样子",
               "type": "实词"
             },
             {
-              "word": "志变",
-              "pinyin": "zhì biàn",
-              "meaning": "志向改变",
+              "word": "魄",
+              "pinyin": "pò",
+              "meaning": "魂魄，精神",
               "type": "实词"
             },
             {
-              "word": "神动",
-              "pinyin": "shén dòng",
-              "meaning": "神思动摇",
+              "word": "散",
+              "pinyin": "sàn",
+              "meaning": "古义：涣散、离散（非今义'分开'），形容心神不宁",
+              "type": "实词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "心志，志向",
+              "type": "实词"
+            },
+            {
+              "word": "变",
+              "pinyin": "biàn",
+              "meaning": "动词，改变",
+              "type": "实词"
+            },
+            {
+              "word": "神",
+              "pinyin": "shén",
+              "meaning": "精神",
+              "type": "实词"
+            },
+            {
+              "word": "动",
+              "pinyin": "dòng",
+              "meaning": "动摇，不坚定",
               "type": "实词"
             }
           ]
         },
         {
           "original": "尔乃眉轩席次，袂耸筵上，焚芰制而裂荷衣，抗尘容而走俗状。",
-          "translation": "于是他在席位上扬眉，在筵席上举袖，焚烧芰荷制成的衣服，撕裂荷叶衣，显露出尘世的容颜和俗态。",
+          "translation": "于是在宴席上眉飞色舞，挥动衣袖，焚烧并撕裂隐士的服装，显露出尘俗的面容，奔走于世俗的形态。",
           "words": [
             {
               "word": "尔乃",
               "pinyin": "ěr nǎi",
-              "meaning": "于是",
+              "meaning": "虚词，表示承接，相当于“于是就”，引出假隐士面对征召时的具体行为。",
               "type": "虚词"
             },
             {
               "word": "眉轩",
               "pinyin": "méi xuān",
-              "meaning": "眉毛扬起",
+              "meaning": "实词，眉毛扬起，形容得意、兴奋的神态。",
               "type": "实词"
             },
             {
               "word": "席次",
               "pinyin": "xí cì",
-              "meaning": "席间",
+              "meaning": "实词，坐席之上。",
               "type": "实词"
             },
             {
               "word": "袂耸",
               "pinyin": "mèi sǒng",
-              "meaning": "衣袖高举",
+              "meaning": "实词，衣袖高举，形容激动、忘形的姿态。",
               "type": "实词"
             },
             {
               "word": "筵上",
               "pinyin": "yán shàng",
-              "meaning": "筵席上",
+              "meaning": "实词，筵席之上。",
               "type": "实词"
             },
             {
               "word": "焚芰制",
               "pinyin": "fén jì zhì",
-              "meaning": "焚烧芰叶衣",
+              "meaning": "实词，焚烧用菱叶裁制的衣服（象征隐逸）。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "虚词，连词，表并列，连接“焚芰制”与“裂荷衣”两个动作。",
               "type": "虚词"
             },
             {
               "word": "裂荷衣",
               "pinyin": "liè hé yī",
-              "meaning": "撕裂荷叶衣",
+              "meaning": "实词，撕裂用荷叶制成的衣服（象征隐逸）。",
               "type": "实词"
             },
             {
               "word": "抗尘容",
               "pinyin": "kàng chén róng",
-              "meaning": "显露尘世面容",
+              "meaning": "实词，显露出尘世的面容。此处“抗”为古义：显露、呈现（非今义‘抵抗’）。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "虚词，连词，表并列，连接“抗尘容”与“走俗状”两个动作。",
               "type": "虚词"
             },
             {
               "word": "走俗状",
               "pinyin": "zǒu sú zhuàng",
-              "meaning": "奔走世俗状貌",
+              "meaning": "实词，呈现出庸俗的姿态。此处“走”为古义：趋向、呈现（非今义‘行走’）。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "风云凄其带愤，石泉咽而下怆。",
-          "translation": "风云凄凉带着愤怒，石泉呜咽而下悲伤。",
+          "translation": "风云凄凉，仿佛带着愤慨；石泉呜咽，流露出悲伤。",
           "words": [
             {
               "word": "风云",
               "pinyin": "fēng yún",
-              "meaning": "风和云",
+              "meaning": "实词，风和云。",
               "type": "实词"
             },
             {
-              "word": "凄",
-              "pinyin": "qī",
-              "meaning": "凄凉",
+              "word": "凄其",
+              "pinyin": "qī qí",
+              "meaning": "实词，凄凉的样子。其，形容词词尾，相当于“然”。",
               "type": "实词"
             },
             {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "词尾助词",
-              "type": "虚词"
-            },
-            {
-              "word": "带",
-              "pinyin": "dài",
-              "meaning": "带着",
-              "type": "实词"
-            },
-            {
-              "word": "愤",
-              "pinyin": "fèn",
-              "meaning": "愤怒",
+              "word": "带愤",
+              "pinyin": "dài fèn",
+              "meaning": "实词，带着愤慨。",
               "type": "实词"
             },
             {
               "word": "石泉",
               "pinyin": "shí quán",
-              "meaning": "石间泉水",
+              "meaning": "实词，岩石间的泉水。",
               "type": "实词"
             },
             {
               "word": "咽",
               "pinyin": "yè",
-              "meaning": "呜咽",
+              "meaning": "实词，呜咽，形容水流声如人悲泣。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "虚词，连词，表并列，连接“咽”与“下怆”两个动作。",
               "type": "虚词"
             },
             {
-              "word": "下",
-              "pinyin": "xià",
-              "meaning": "流下",
-              "type": "实词"
-            },
-            {
-              "word": "怆",
-              "pinyin": "chuàng",
-              "meaning": "悲伤",
+              "word": "下怆",
+              "pinyin": "xià chuàng",
+              "meaning": "实词，流下悲伤（的泪水，以拟人手法形容泉水）。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "望林峦而有失，顾草木而如丧。",
-          "translation": "望着山林峦峰若有所失，回头看草木如同丧亲。",
+          "translation": "他望着山林若有所失，看着草木如同丧亲。",
           "words": [
             {
               "word": "望",
               "pinyin": "wàng",
-              "meaning": "眺望",
+              "meaning": "动词，远望、眺望",
               "type": "实词"
             },
             {
               "word": "林峦",
               "pinyin": "lín luán",
-              "meaning": "树林山峦",
+              "meaning": "林木和山峦，泛指山林景色",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表示承接关系，连接'望林峦'和'有失'",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，表示存在或发生，在'有失'中意为有所失",
               "type": "实词"
             },
             {
               "word": "失",
               "pinyin": "shī",
-              "meaning": "损失",
+              "meaning": "名词，损失、过失",
               "type": "实词"
             },
             {
               "word": "顾",
               "pinyin": "gù",
-              "meaning": "回顾",
+              "meaning": "动词，回头看、顾视",
               "type": "实词"
             },
             {
               "word": "草木",
               "pinyin": "cǎo mù",
-              "meaning": "草木",
+              "meaning": "草和树木，泛指植物",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表示承接关系，连接'顾草木'和'如丧'",
               "type": "虚词"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "如同",
+              "meaning": "动词，像、如同",
               "type": "实词"
             },
             {
               "word": "丧",
               "pinyin": "sàng",
-              "meaning": "丧亡",
+              "meaning": "此处读 sàng，义为丧亡、丧失，在'如丧'中意为像丧亡一样悲伤",
               "type": "实词"
             }
           ]
@@ -1508,682 +1594,712 @@
     },
     {
       "original": "至其纽金章，绾墨绶，跨属城之雄，冠百里之首，张英风于海甸，驰妙誉于浙右。道帙长摈，法筵久埋。敲扑喧嚣犯其虑，牒诉倥偬装其怀。琴歌既断，酒赋无续。常绸缪于结课，每纷纶于折狱。笼张赵于往图，架卓鲁于前录。希踪三辅豪，驰声九州牧。使其高霞孤映，明月独举，青松落荫，白云谁侣。涧户摧绝无与归，石径荒凉徒延伫。至于还飚入幕，写雾出楹，蕙帐空兮夜鹤怨，山人去兮晓猿惊。昔闻投簪逸海岸，今见解兰缚尘缨。",
-      "translation": "等到他系着金印，挂着墨绶，跨越所属城池的雄伟，位居百里之首，在海边地区宣扬英名，在浙右传播美誉。道家的书籍长久抛弃，讲法的席位长久埋没。鞭打喧嚣干扰他的思虑，文书诉讼充斥他的胸怀。琴歌已经断绝，酒赋没有继续。常常忙于考核政绩，每每纷乱于判决案件。笼盖张、赵于过去的图谋，超越卓、鲁于前代的记录。希望追踪三辅豪杰，传播声名于九州牧守。使得高霞孤独映照，明月独自升起，青松落下荫蔽，白云谁来作伴。山涧门户摧毁断绝无人归来，石径荒凉徒然延颈伫立。至于回风吹入帷幕，雾气飘出楹柱，蕙帐空了啊夜鹤哀怨，山人离去啊晓猿惊惧。从前听说投簪隐逸海岸，现在看见解兰束缚尘缨。",
+      "translation": "至于他佩戴铜印，系着墨绶，跨越郡城的雄壮，位居县令之首，在海滨宣扬英名，在浙右传播美誉。道家的书籍长久抛弃，讲法的席座久已埋没。鞭打喧嚣扰乱他的思虑，公文诉讼繁忙装满他的胸怀。琴歌已经断绝，酒赋不再继续。常常纠缠于考核事务，每每忙乱于判决案件。在以往的图籍中笼盖张敞、赵广汉，在前代的记录中超越卓茂、鲁恭。追慕三辅豪杰的踪迹，声名远播于九州长官。使得高处的霞光孤独映照，明月独自升起，青松落下荫凉，白云有谁为伴。山涧的屋舍毁坏无人归去，石径荒凉徒然长久站立。至于回风吹入帷幕，雾气飘出柱间，蕙草帐空啊夜间鹤怨，山人离去啊清晨猿惊。从前听说投簪隐逸于海岸，如今却见解下兰草束缚尘世冠缨。",
       "sentences": [
         {
           "original": "至其纽金章，绾墨绶，跨属城之雄，冠百里之首，张英风于海甸，驰妙誉于浙右。",
-          "translation": "等到他系着金印，挂着墨绶，跨越所属城池的雄伟，位居百里之首，在海边地区宣扬英名，在浙右传播美誉。",
+          "translation": "至于他佩戴铜印，系着墨绶，跨越郡城的雄壮，位居县令之首，在海滨宣扬英名，在浙右传播美誉。",
           "words": [
             {
               "word": "至",
               "pinyin": "zhì",
-              "meaning": "至于",
-              "type": "虚词"
+              "meaning": "动词，到（了）",
+              "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，指代前文所述出仕的隐士（周颙）",
+              "type": "虚词"
             },
             {
               "word": "纽",
               "pinyin": "niǔ",
-              "meaning": "佩戴",
+              "meaning": "动词，系挂、佩带",
               "type": "实词"
             },
             {
               "word": "金章",
               "pinyin": "jīn zhāng",
-              "meaning": "官印",
+              "meaning": "铜制官印",
               "type": "实词"
             },
             {
               "word": "绾",
               "pinyin": "wǎn",
-              "meaning": "系结",
+              "meaning": "动词，系结、佩戴",
               "type": "实词"
             },
             {
               "word": "墨绶",
               "pinyin": "mò shòu",
-              "meaning": "黑色绶带",
+              "meaning": "黑色绶带，县令一级官员所佩",
               "type": "实词"
             },
             {
               "word": "跨",
               "pinyin": "kuà",
-              "meaning": "跨越",
+              "meaning": "动词，占据、雄踞",
               "type": "实词"
             },
             {
               "word": "属城",
               "pinyin": "shǔ chéng",
-              "meaning": "所属城邑",
+              "meaning": "所属的各县",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "雄",
               "pinyin": "xióng",
-              "meaning": "雄壮",
+              "meaning": "形容词用作名词，指最雄伟、最重要的（城）",
               "type": "实词"
             },
             {
               "word": "冠",
               "pinyin": "guàn",
-              "meaning": "位居第一",
+              "meaning": "此处读 guàn，动词，位居第一、超出众人",
               "type": "实词"
             },
             {
               "word": "百里",
               "pinyin": "bǎi lǐ",
-              "meaning": "县境",
+              "meaning": "古义：代指一县之地（古时一县辖地约百里，非今义'一百里'）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "首",
               "pinyin": "shǒu",
-              "meaning": "首位",
+              "meaning": "名词，首位、第一",
               "type": "实词"
             },
             {
               "word": "张",
               "pinyin": "zhāng",
-              "meaning": "张扬",
+              "meaning": "动词，张扬、显扬",
               "type": "实词"
             },
             {
               "word": "英风",
               "pinyin": "yīng fēng",
-              "meaning": "英名",
+              "meaning": "美好的声望、杰出的风采",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "海甸",
               "pinyin": "hǎi diàn",
-              "meaning": "海边地区",
+              "meaning": "地名，海边地区",
               "type": "地名"
             },
             {
               "word": "驰",
               "pinyin": "chí",
-              "meaning": "传播",
+              "meaning": "动词，传扬",
               "type": "实词"
             },
             {
               "word": "妙誉",
               "pinyin": "miào yù",
-              "meaning": "美誉",
+              "meaning": "美好的声誉",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "浙右",
               "pinyin": "zhè yòu",
-              "meaning": "浙东",
+              "meaning": "地名，浙江（古水名）之西（古以西为右）",
               "type": "地名"
             }
           ]
         },
         {
           "original": "道帙长摈，法筵久埋。",
-          "translation": "道家的书籍长久抛弃，讲法的席位长久埋没。",
+          "translation": "道家的书籍长久抛弃，讲法的席座久已埋没。",
           "words": [
             {
               "word": "道帙",
               "pinyin": "dào zhì",
-              "meaning": "道家书籍",
+              "meaning": "道家的书卷",
               "type": "实词"
             },
             {
               "word": "长",
               "pinyin": "cháng",
-              "meaning": "长久",
-              "type": "虚词"
+              "meaning": "副词，长久地",
+              "type": "实词"
             },
             {
               "word": "摈",
               "pinyin": "bìn",
-              "meaning": "抛弃",
+              "meaning": "动词，弃置、抛弃",
               "type": "实词"
             },
             {
               "word": "法筵",
               "pinyin": "fǎ yán",
-              "meaning": "法席",
+              "meaning": "讲说佛法的坐席",
               "type": "实词"
             },
             {
               "word": "久",
               "pinyin": "jiǔ",
-              "meaning": "长久",
-              "type": "虚词"
+              "meaning": "副词，长久地",
+              "type": "实词"
             },
             {
               "word": "埋",
               "pinyin": "mái",
-              "meaning": "埋没",
+              "meaning": "动词，埋没、废弃",
               "type": "实词"
             }
           ]
         },
         {
           "original": "敲扑喧嚣犯其虑，牒诉倥偬装其怀。",
-          "translation": "鞭打喧嚣干扰他的思虑，文书诉讼充斥他的胸怀。",
+          "translation": "鞭打喧嚣扰乱他的思虑，公文诉讼繁忙装满他的胸怀。",
           "words": [
             {
               "word": "敲扑",
-              "pinyin": "qiāo pū",
-              "meaning": "刑具",
+              "pinyin": "qiāo pǔ",
+              "meaning": "敲指敲打，扑指鞭打，合指刑罚之事。",
               "type": "实词"
             },
             {
               "word": "喧嚣",
               "pinyin": "xuān xiāo",
-              "meaning": "喧闹",
+              "meaning": "喧闹嘈杂的声音。",
               "type": "实词"
             },
             {
               "word": "犯",
               "pinyin": "fàn",
-              "meaning": "侵扰",
+              "meaning": "侵犯，干扰。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，指代前文出仕的隐士。",
+              "type": "虚词"
             },
             {
               "word": "虑",
               "pinyin": "lǜ",
-              "meaning": "思虑",
+              "meaning": "思虑，心思。",
               "type": "实词"
             },
             {
               "word": "牒诉",
               "pinyin": "dié sù",
-              "meaning": "文书诉讼",
+              "meaning": "公文和诉讼事务。",
               "type": "实词"
             },
             {
               "word": "倥偬",
               "pinyin": "kǒng zǒng",
-              "meaning": "繁忙",
+              "meaning": "繁忙紧迫的样子。",
               "type": "实词"
             },
             {
               "word": "装",
               "pinyin": "zhuāng",
-              "meaning": "充斥",
+              "meaning": "装满，充斥。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，指代前文出仕的隐士。",
+              "type": "虚词"
             },
             {
               "word": "怀",
               "pinyin": "huái",
-              "meaning": "胸怀",
+              "meaning": "胸怀，内心。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "琴歌既断，酒赋无续。",
-          "translation": "琴歌已经断绝，酒赋没有继续。",
+          "translation": "琴歌已经断绝，酒赋不再继续。",
           "words": [
             {
               "word": "琴歌",
               "pinyin": "qín gē",
-              "meaning": "琴和歌声",
+              "meaning": "弹琴和歌唱，指文雅的娱乐活动。",
               "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，表示已经，修饰'断'指琴歌已经断绝。",
               "type": "虚词"
             },
             {
               "word": "断",
               "pinyin": "duàn",
-              "meaning": "断绝",
+              "meaning": "断绝，停止。",
               "type": "实词"
             },
             {
               "word": "酒赋",
               "pinyin": "jiǔ fù",
-              "meaning": "酒和赋诗",
+              "meaning": "饮酒和赋诗，指文雅的娱乐活动。",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
-              "type": "虚词"
+              "meaning": "动词，没有。",
+              "type": "实词"
             },
             {
               "word": "续",
               "pinyin": "xù",
-              "meaning": "继续",
+              "meaning": "继续，接续。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "常绸缪于结课，每纷纶于折狱。",
-          "translation": "常常忙于考核政绩，每每纷乱于判决案件。",
+          "translation": "常常纠缠于考核事务，每每忙乱于判决案件。",
           "words": [
             {
               "word": "常",
               "pinyin": "cháng",
-              "meaning": "常常",
+              "meaning": "副词，表示动作的频率高，意为经常、常常，在句中修饰动词'绸缪'。",
               "type": "虚词"
             },
             {
               "word": "绸缪",
               "pinyin": "chóu móu",
-              "meaning": "缠绕忙碌",
+              "meaning": "动词，原指缠绵，此处引申为忙于、纠缠于事务，指官吏忙于考核等事。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，用于引出动作的对象或范围，表示在...方面，此处连接'绸缪'与'结课'。",
               "type": "虚词"
             },
             {
               "word": "结课",
               "pinyin": "jié kè",
-              "meaning": "考核官吏",
+              "meaning": "名词，指官吏的政绩考核或评定，是古代官吏管理的重要环节。",
               "type": "实词"
             },
             {
               "word": "每",
               "pinyin": "měi",
-              "meaning": "每每",
+              "meaning": "副词，表示重复或每次，意为常常、每每，在句中修饰'纷纶'。",
               "type": "虚词"
             },
             {
               "word": "纷纶",
               "pinyin": "fēn lún",
-              "meaning": "繁乱",
+              "meaning": "形容词，纷乱、繁忙，形容事务繁杂，指官吏忙于各种公务。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的对象，表示在...方面，此处连接'纷纶'与'折狱'。",
               "type": "虚词"
             },
             {
               "word": "折狱",
               "pinyin": "zhé yù",
-              "meaning": "断案",
+              "meaning": "动词，判决案件、审理诉讼，指官吏处理司法事务。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "笼张赵于往图，架卓鲁于前录。",
-          "translation": "笼盖张、赵于过去的图谋，超越卓、鲁于前代的记录。",
+          "translation": "在以往的图籍中笼盖张敞、赵广汉，在前代的记录中超越卓茂、鲁恭。",
           "words": [
             {
               "word": "笼",
               "pinyin": "lǒng",
-              "meaning": "笼络",
+              "meaning": "动词，笼盖、超越，此处指在记录或功绩上胜过前人。",
               "type": "实词"
             },
             {
               "word": "张赵",
-              "pinyin": "Zhāng Zhào",
-              "meaning": "张敞赵广汉",
-              "type": "典故"
+              "pinyin": "zhāng zhào",
+              "meaning": "人名，指汉代著名能吏张敞和赵广汉，以治理有方著称，在文中作为被超越的对象。",
+              "type": "人名"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的对象，表示在...方面，此处连接'笼'与'往图'。",
               "type": "虚词"
             },
             {
               "word": "往图",
               "pinyin": "wǎng tú",
-              "meaning": "过去的图录",
+              "meaning": "名词，过去的图籍或记录，指前人的政绩记载或历史文献。",
               "type": "实词"
             },
             {
               "word": "架",
               "pinyin": "jià",
-              "meaning": "超越",
+              "meaning": "动词，架越、超越，此处指在记录或功绩上胜过前人。",
               "type": "实词"
             },
             {
               "word": "卓鲁",
-              "pinyin": "Zhuó Lǔ",
-              "meaning": "卓茂鲁恭",
-              "type": "典故"
+              "pinyin": "zhuó lǔ",
+              "meaning": "人名，指汉代良吏卓茂和鲁恭，以德政闻名，在文中作为被超越的对象。",
+              "type": "人名"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的对象，表示在...方面，此处连接'架'与'前录'。",
               "type": "虚词"
             },
             {
               "word": "前录",
               "pinyin": "qián lù",
-              "meaning": "前人的记录",
+              "meaning": "名词，前代的记录，指历史记载或前人的政绩文献。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "希踪三辅豪，驰声九州牧。",
-          "translation": "希望追踪三辅豪杰，传播声名于九州牧守。",
+          "translation": "追慕三辅豪杰的踪迹，声名远播于九州长官。",
           "words": [
             {
-              "word": "希踪",
-              "pinyin": "xī zōng",
-              "meaning": "希望追随踪迹",
+              "word": "希",
+              "pinyin": "xī",
+              "meaning": "动词，希望、仰慕。语境中表示追慕前贤。",
+              "type": "实词"
+            },
+            {
+              "word": "踪",
+              "pinyin": "zōng",
+              "meaning": "名词，踪迹、事迹。指前人的足迹。",
               "type": "实词"
             },
             {
               "word": "三辅",
               "pinyin": "sān fǔ",
-              "meaning": "汉代京城附近地区",
+              "meaning": "地名，汉代指京畿地区，包括京兆尹、左冯翊、右扶风，代指京城附近。",
               "type": "地名"
             },
             {
               "word": "豪",
               "pinyin": "háo",
-              "meaning": "豪杰",
+              "meaning": "名词，豪杰、英雄。指才能出众的人。",
               "type": "实词"
             },
             {
-              "word": "驰声",
-              "pinyin": "chí shēng",
-              "meaning": "传播名声",
+              "word": "驰",
+              "pinyin": "chí",
+              "meaning": "动词，传播、传扬。与'声'搭配，表示名声远播。",
+              "type": "实词"
+            },
+            {
+              "word": "声",
+              "pinyin": "shēng",
+              "meaning": "名词，名声、声誉。指好的评价。",
               "type": "实词"
             },
             {
               "word": "九州",
               "pinyin": "jiǔ zhōu",
-              "meaning": "古代中国",
+              "meaning": "地名，古代中国划分的九个区域，代指天下、全国。",
               "type": "地名"
             },
             {
               "word": "牧",
               "pinyin": "mù",
-              "meaning": "州牧官职",
+              "meaning": "古义：州牧，地方长官（非今义'放牧'）。汉代官职，掌管一州军政大权。",
               "type": "官职"
             }
           ]
         },
         {
           "original": "使其高霞孤映，明月独举，青松落荫，白云谁侣。",
-          "translation": "使得高霞孤独映照，明月独自升起，青松落下荫蔽，白云谁来作伴。",
+          "translation": "使得高处的霞光孤独映照，明月独自升起，青松落下荫凉，白云有谁为伴。",
           "words": [
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让，使",
+              "meaning": "动词，致使、让。表示导致某种结果。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "代词，指代前文所述的人或事物，这里指代山林或隐士。",
               "type": "虚词"
             },
             {
               "word": "高霞",
               "pinyin": "gāo xiá",
-              "meaning": "高高的霞光",
+              "meaning": "名词，高处的霞光。形容山中景色。",
               "type": "实词"
             },
             {
-              "word": "孤映",
-              "pinyin": "gū yìng",
-              "meaning": "孤独映照",
+              "word": "孤",
+              "pinyin": "gū",
+              "meaning": "形容词，孤独、单独。修饰'映'，表示独自映照。",
+              "type": "实词"
+            },
+            {
+              "word": "映",
+              "pinyin": "yìng",
+              "meaning": "动词，映照、照射。指光线照射。",
               "type": "实词"
             },
             {
               "word": "明月",
               "pinyin": "míng yuè",
-              "meaning": "明亮的月亮",
+              "meaning": "名词，明亮的月亮。指月光。",
               "type": "实词"
             },
             {
-              "word": "独举",
-              "pinyin": "dú jǔ",
-              "meaning": "独自升起",
+              "word": "独",
+              "pinyin": "dú",
+              "meaning": "形容词，独自、单独。修饰'举'，表示独自升起。",
+              "type": "实词"
+            },
+            {
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "动词，升起、出现。指月亮升起。",
               "type": "实词"
             },
             {
               "word": "青松",
               "pinyin": "qīng sōng",
-              "meaning": "青翠的松树",
+              "meaning": "名词，青色的松树。象征坚贞。",
               "type": "实词"
             },
             {
-              "word": "落荫",
-              "pinyin": "luò yīn",
-              "meaning": "落下荫凉",
+              "word": "落",
+              "pinyin": "luò",
+              "meaning": "此处读 luò，义为落下、垂下。多音字，此处取落下义。",
+              "type": "实词"
+            },
+            {
+              "word": "荫",
+              "pinyin": "yīn",
+              "meaning": "名词，荫凉、树荫。指松树遮蔽形成的阴凉处。",
               "type": "实词"
             },
             {
               "word": "白云",
               "pinyin": "bái yún",
-              "meaning": "白色的云",
+              "meaning": "名词，白色的云。指云彩。",
               "type": "实词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁",
+              "meaning": "疑问代词，何人、什么人。表示疑问。",
               "type": "虚词"
             },
             {
               "word": "侣",
               "pinyin": "lǚ",
-              "meaning": "为伴",
+              "meaning": "动词，为伴侣、结伴。这里指白云以谁为伴侣。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "涧户摧绝无与归，石径荒凉徒延伫。",
-          "translation": "山涧门户摧毁断绝无人归来，石径荒凉徒然延颈伫立。",
+          "translation": "山涧的屋舍毁坏无人归去，石径荒凉徒然长久站立。",
           "words": [
             {
               "word": "涧户",
               "pinyin": "jiàn hù",
-              "meaning": "山涧的门户",
+              "meaning": "山涧的门户，指隐居处所的入口",
               "type": "实词"
             },
             {
               "word": "摧绝",
               "pinyin": "cuī jué",
-              "meaning": "摧毁断绝",
+              "meaning": "摧毁断绝，形容荒废景象",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
-              "type": "实词"
+              "meaning": "否定副词，表示没有，在句中指没有人与之同归",
+              "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和，与",
+              "meaning": "介词，表示伴随，相当于'和'、'跟'，连接'无'与'归'",
               "type": "虚词"
             },
             {
               "word": "归",
               "pinyin": "guī",
-              "meaning": "归来",
+              "meaning": "动词，返回、归来",
               "type": "实词"
             },
             {
               "word": "石径",
               "pinyin": "shí jìng",
-              "meaning": "石头小路",
+              "meaning": "石头铺成的小路",
               "type": "实词"
             },
             {
               "word": "荒凉",
               "pinyin": "huāng liáng",
-              "meaning": "荒芜凄凉",
+              "meaning": "荒芜凄凉，无人居住",
               "type": "实词"
             },
             {
               "word": "徒",
               "pinyin": "tú",
-              "meaning": "白白地",
+              "meaning": "副词，徒然、白白地，修饰'延伫'",
               "type": "虚词"
             },
             {
               "word": "延伫",
               "pinyin": "yán zhù",
-              "meaning": "长久站立",
+              "meaning": "动词，长久站立等待",
               "type": "实词"
             }
           ]
         },
         {
           "original": "至于还飚入幕，写雾出楹，蕙帐空兮夜鹤怨，山人去兮晓猿惊。",
-          "translation": "至于回风吹入帷幕，雾气飘出楹柱，蕙帐空了啊夜鹤哀怨，山人离去啊晓猿惊惧。",
+          "translation": "至于回风吹入帷幕，雾气飘出柱间，蕙草帐空啊夜间鹤怨，山人离去啊清晨猿惊。",
           "words": [
             {
               "word": "至于",
               "pinyin": "zhì yú",
-              "meaning": "表示至于",
+              "meaning": "固定结构，表示另提一事，相当于现代汉语的'至于'",
               "type": "虚词"
             },
             {
               "word": "还飚",
-              "pinyin": "huán biāo",
-              "meaning": "回旋的风",
+              "pinyin": "xuán biāo",
+              "meaning": "回旋的暴风，'还'通'旋'，回旋；'飚'同'飙'，暴风",
               "type": "实词"
             },
             {
               "word": "入幕",
               "pinyin": "rù mù",
-              "meaning": "进入帷幕",
+              "meaning": "动词，吹入帐幕",
               "type": "实词"
             },
             {
               "word": "写雾",
-              "pinyin": "xiě wù",
-              "meaning": "流动的雾",
+              "pinyin": "xiè wù",
+              "meaning": "倾泻的雾气，'写'通'泻'，倾泻",
               "type": "实词"
             },
             {
               "word": "出楹",
               "pinyin": "chū yíng",
-              "meaning": "出楹柱间",
+              "meaning": "动词，从楹柱间飘出",
               "type": "实词"
             },
             {
               "word": "蕙帐",
               "pinyin": "huì zhàng",
-              "meaning": "蕙草帐子",
+              "meaning": "名词，用蕙草编织的帐子，指隐士的居所",
               "type": "实词"
             },
             {
               "word": "空",
               "pinyin": "kōng",
-              "meaning": "空虚",
+              "meaning": "形容词，空荡荡的，无人居住",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气词",
+              "meaning": "语气词，表示停顿或感叹，增强抒情语气",
               "type": "虚词"
             },
             {
               "word": "夜鹤",
               "pinyin": "yè hè",
-              "meaning": "夜间的鹤",
+              "meaning": "名词，夜晚的鹤",
               "type": "实词"
             },
             {
               "word": "怨",
               "pinyin": "yuàn",
-              "meaning": "哀怨",
+              "meaning": "动词，发出哀怨声",
               "type": "实词"
             },
             {
               "word": "山人",
               "pinyin": "shān rén",
-              "meaning": "隐士",
+              "meaning": "名词，山中隐士，指隐居者",
               "type": "实词"
             },
             {
               "word": "去",
               "pinyin": "qù",
-              "meaning": "离去",
+              "meaning": "古义：离开（非今义'前往'）",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气词",
+              "meaning": "语气词，表示停顿或感叹，增强抒情语气",
               "type": "虚词"
             },
             {
               "word": "晓猿",
               "pinyin": "xiǎo yuán",
-              "meaning": "清晨的猿",
+              "meaning": "名词，清晨的猿猴",
               "type": "实词"
             },
             {
               "word": "惊",
               "pinyin": "jīng",
-              "meaning": "惊动",
+              "meaning": "动词，惊叫、惊恐",
               "type": "实词"
             }
           ]
         },
         {
           "original": "昔闻投簪逸海岸，今见解兰缚尘缨。",
-          "translation": "从前听说投簪隐逸海岸，现在看见解兰束缚尘缨。",
+          "translation": "从前听说投簪隐逸于海岸，如今却见解下兰草束缚尘世冠缨。",
           "words": [
             {
               "word": "昔",
               "pinyin": "xī",
-              "meaning": "从前",
+              "meaning": "从前、过去",
               "type": "实词"
             },
             {
@@ -2193,51 +2309,69 @@
               "type": "实词"
             },
             {
-              "word": "投簪",
-              "pinyin": "tóu zān",
-              "meaning": "辞官归隐",
-              "type": "典故"
+              "word": "投",
+              "pinyin": "tóu",
+              "meaning": "丢弃、扔掉",
+              "type": "实词"
+            },
+            {
+              "word": "簪",
+              "pinyin": "zān",
+              "meaning": "固定发冠的簪子，代指官服",
+              "type": "实词"
             },
             {
               "word": "逸",
               "pinyin": "yì",
-              "meaning": "隐逸",
+              "meaning": "隐逸、遁世",
               "type": "实词"
             },
             {
               "word": "海岸",
               "pinyin": "hǎi àn",
-              "meaning": "海边",
-              "type": "地名"
+              "meaning": "海边，指隐居之地",
+              "type": "实词"
             },
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "如今、现在",
               "type": "实词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "此处读 jiàn，义为看见",
               "type": "实词"
             },
             {
-              "word": "解兰",
-              "pinyin": "jiě lán",
-              "meaning": "放弃隐居",
-              "type": "典故"
+              "word": "解",
+              "pinyin": "jiě",
+              "meaning": "解下、除去",
+              "type": "实词"
+            },
+            {
+              "word": "兰",
+              "pinyin": "lán",
+              "meaning": "兰草，隐士佩饰",
+              "type": "实词"
             },
             {
               "word": "缚",
               "pinyin": "fù",
-              "meaning": "束缚",
+              "meaning": "捆绑、束缚",
               "type": "实词"
             },
             {
-              "word": "尘缨",
-              "pinyin": "chén yīng",
-              "meaning": "尘世冠缨",
+              "word": "尘",
+              "pinyin": "chén",
+              "meaning": "尘世、世俗",
+              "type": "实词"
+            },
+            {
+              "word": "缨",
+              "pinyin": "yīng",
+              "meaning": "冠带、帽带",
               "type": "实词"
             }
           ]
@@ -2246,154 +2380,220 @@
     },
     {
       "original": "于是，南岳献嘲，北陇腾笑，列壑争讥，攒峰竦诮。慨游子之我欺，悲无人以赴吊。故其林惭无尽，涧愧不歇，秋桂遣风，春萝罢月，骋西山之逸议，驰东皋之素谒。",
-      "translation": "于是，南岳献上嘲讽，北陇发出笑声，众壑争相讥讽，群峰高耸讥诮。慨叹游子欺骗了我，悲伤没有人前来慰问。所以山林惭愧不止，溪涧羞愧不息，秋桂让风离去，春萝停止月光，驰骋西山的隐逸议论，奔走东皋的朴素谒见。",
+      "translation": "于是，南岳献上嘲讽，北陇腾起笑声，众壑争相讥讽，群峰耸立嗤笑。感慨游子欺骗了我，悲伤没有人前来慰问。因此，树林无尽地惭愧，山涧不息地羞愧，秋桂遣散了风，春萝停止了月，西山的隐逸之议四处传扬，东皋的素朴之谒广为流布。",
       "sentences": [
         {
           "original": "于是，南岳献嘲，北陇腾笑，列壑争讥，攒峰竦诮。",
-          "translation": "于是，南岳献上嘲讽，北陇发出笑声，众壑争相讥讽，群峰高耸讥诮。",
+          "translation": "于是，南岳献上嘲讽，北陇腾起笑声，众壑争相讥讽，群峰耸立嗤笑。",
           "words": [
             {
               "word": "于是",
               "pinyin": "yú shì",
-              "meaning": "因此",
+              "meaning": "连词，表示'在这时'，承接上文引出下文情景",
               "type": "虚词"
             },
             {
               "word": "南岳",
               "pinyin": "nán yuè",
-              "meaning": "南岳衡山",
+              "meaning": "地名，指南岳衡山，在本文中泛指南边的山岳，拟人化献嘲",
               "type": "地名"
             },
             {
-              "word": "献嘲",
-              "pinyin": "xiàn cháo",
-              "meaning": "献上嘲笑",
+              "word": "献",
+              "pinyin": "xiàn",
+              "meaning": "动词，表现出、献上",
+              "type": "实词"
+            },
+            {
+              "word": "嘲",
+              "pinyin": "cháo",
+              "meaning": "名词，嘲笑、讥讽",
               "type": "实词"
             },
             {
               "word": "北陇",
               "pinyin": "běi lǒng",
-              "meaning": "北边山陇",
+              "meaning": "地名，指北边的山陇，拟人化腾笑",
               "type": "地名"
             },
             {
-              "word": "腾笑",
-              "pinyin": "téng xiào",
-              "meaning": "发出笑声",
+              "word": "腾",
+              "pinyin": "téng",
+              "meaning": "动词，腾起、发出",
               "type": "实词"
             },
             {
-              "word": "列壑",
-              "pinyin": "liè hè",
-              "meaning": "排列的山谷",
+              "word": "笑",
+              "pinyin": "xiào",
+              "meaning": "名词，笑声、嘲笑",
               "type": "实词"
             },
             {
-              "word": "争讥",
-              "pinyin": "zhēng jī",
-              "meaning": "争相讥讽",
+              "word": "列",
+              "pinyin": "liè",
+              "meaning": "形容词，排列的、众多的",
               "type": "实词"
             },
             {
-              "word": "攒峰",
-              "pinyin": "cuán fēng",
-              "meaning": "聚集的山峰",
+              "word": "壑",
+              "pinyin": "hè",
+              "meaning": "名词，山谷",
               "type": "实词"
             },
             {
-              "word": "竦诮",
-              "pinyin": "sǒng qiào",
-              "meaning": "高耸讥诮",
+              "word": "争",
+              "pinyin": "zhēng",
+              "meaning": "动词，争着、竞相",
+              "type": "实词"
+            },
+            {
+              "word": "讥",
+              "pinyin": "jī",
+              "meaning": "名词，讥讽、指责",
+              "type": "实词"
+            },
+            {
+              "word": "攒",
+              "pinyin": "cuán",
+              "meaning": "动词，聚集、簇拥",
+              "type": "实词"
+            },
+            {
+              "word": "峰",
+              "pinyin": "fēng",
+              "meaning": "名词，山峰",
+              "type": "实词"
+            },
+            {
+              "word": "竦",
+              "pinyin": "sǒng",
+              "meaning": "动词，耸立、表现出",
+              "type": "实词"
+            },
+            {
+              "word": "诮",
+              "pinyin": "qiào",
+              "meaning": "名词，责备、讥讽",
               "type": "实词"
             }
           ]
         },
         {
           "original": "慨游子之我欺，悲无人以赴吊。",
-          "translation": "慨叹游子欺骗了我，悲伤没有人前来慰问。",
+          "translation": "感慨游子欺骗了我，悲伤没有人前来慰问。",
           "words": [
             {
               "word": "慨",
               "pinyin": "kǎi",
-              "meaning": "感慨",
+              "meaning": "动词，感慨、叹息",
               "type": "实词"
             },
             {
               "word": "游子",
               "pinyin": "yóu zǐ",
-              "meaning": "游历之人",
+              "meaning": "名词，指离家远游的人，本文中特指假隐士周颙",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词",
+              "meaning": "助词，用于主谓之间取消句子独立性，使'游子我欺'成为主谓短语",
               "type": "虚词"
             },
             {
-              "word": "我欺",
-              "pinyin": "wǒ qī",
-              "meaning": "欺骗我",
+              "word": "我",
+              "pinyin": "wǒ",
+              "meaning": "代词，宾语前置，指作者或泛指的人，这里是'欺'的对象",
+              "type": "虚词"
+            },
+            {
+              "word": "欺",
+              "pinyin": "qī",
+              "meaning": "动词，欺骗、蒙骗",
               "type": "实词"
             },
             {
               "word": "悲",
               "pinyin": "bēi",
-              "meaning": "悲伤",
+              "meaning": "动词，悲伤、悲叹",
               "type": "实词"
             },
             {
-              "word": "无人",
-              "pinyin": "wú rén",
-              "meaning": "没有人",
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，没有",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，人、他人",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，相当于'来'，连接'无人'和'赴吊'",
               "type": "虚词"
             },
             {
-              "word": "赴吊",
-              "pinyin": "fù diào",
-              "meaning": "前来慰问",
+              "word": "赴",
+              "pinyin": "fù",
+              "meaning": "动词，前往、奔赴",
+              "type": "实词"
+            },
+            {
+              "word": "吊",
+              "pinyin": "diào",
+              "meaning": "动词，慰问、吊唁",
               "type": "实词"
             }
           ]
         },
         {
           "original": "故其林惭无尽，涧愧不歇，秋桂遣风，春萝罢月，骋西山之逸议，驰东皋之素谒。",
-          "translation": "所以山林惭愧不止，溪涧羞愧不息，秋桂让风离去，春萝停止月光，驰骋西山的隐逸议论，奔走东皋的朴素谒见。",
+          "translation": "因此，树林无尽地惭愧，山涧不息地羞愧，秋桂遣散了风，春萝停止了月，西山的隐逸之议四处传扬，东皋的素朴之谒广为流布。",
           "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表因果，因此、所以",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代前文因被欺而遭嘲笑的“游子”（即假隐士周颙）",
               "type": "虚词"
             },
             {
-              "word": "林惭",
-              "pinyin": "lín cán",
-              "meaning": "树林惭愧",
+              "word": "林",
+              "pinyin": "lín",
+              "meaning": "山林",
+              "type": "实词"
+            },
+            {
+              "word": "惭",
+              "pinyin": "cán",
+              "meaning": "感到羞愧",
               "type": "实词"
             },
             {
               "word": "无尽",
               "pinyin": "wú jìn",
-              "meaning": "没有尽头",
+              "meaning": "没有穷尽",
               "type": "实词"
             },
             {
-              "word": "涧愧",
-              "pinyin": "jiàn kuì",
-              "meaning": "山涧惭愧",
+              "word": "涧",
+              "pinyin": "jiàn",
+              "meaning": "山间的水沟",
+              "type": "实词"
+            },
+            {
+              "word": "愧",
+              "pinyin": "kuì",
+              "meaning": "感到羞愧",
               "type": "实词"
             },
             {
@@ -2409,69 +2609,75 @@
               "type": "实词"
             },
             {
-              "word": "遣风",
-              "pinyin": "qiǎn fēng",
-              "meaning": "遣散风",
+              "word": "遣",
+              "pinyin": "qiǎn",
+              "meaning": "遣散，驱走",
+              "type": "实词"
+            },
+            {
+              "word": "风",
+              "pinyin": "fēng",
+              "meaning": "清风",
               "type": "实词"
             },
             {
               "word": "春萝",
               "pinyin": "chūn luó",
-              "meaning": "春天的藤萝",
+              "meaning": "春天的女萝（一种蔓生植物）",
               "type": "实词"
             },
             {
-              "word": "罢月",
-              "pinyin": "bà yuè",
-              "meaning": "停止月光",
+              "word": "罢",
+              "pinyin": "bà",
+              "meaning": "停止，罢却",
+              "type": "实词"
+            },
+            {
+              "word": "月",
+              "pinyin": "yuè",
+              "meaning": "月色",
               "type": "实词"
             },
             {
               "word": "骋",
               "pinyin": "chěng",
-              "meaning": "奔驰",
+              "meaning": "传扬，传播",
               "type": "实词"
             },
             {
               "word": "西山",
               "pinyin": "xī shān",
-              "meaning": "西边的山",
+              "meaning": "西边的山，泛指隐士所居之地",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”，连接定语“西山”和中心语“逸议”",
               "type": "虚词"
             },
             {
               "word": "逸议",
               "pinyin": "yì yì",
-              "meaning": "隐逸的议论",
+              "meaning": "隐逸者的清议",
               "type": "实词"
             },
             {
               "word": "驰",
               "pinyin": "chí",
-              "meaning": "奔驰",
+              "meaning": "传扬，传播",
               "type": "实词"
             },
             {
               "word": "东皋",
               "pinyin": "dōng gāo",
-              "meaning": "东边的高地",
+              "meaning": "东边的水田高地，泛指田野或隐居之地",
               "type": "地名"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
             },
             {
               "word": "素谒",
               "pinyin": "sù yè",
-              "meaning": "朴素的谒见",
+              "meaning": "贫素之士的谒见、陈述",
               "type": "实词"
             }
           ]
@@ -2480,46 +2686,58 @@
     },
     {
       "original": "今又促装下邑，浪枻上京。虽情投于魏阙，或假步于山扃。岂可使芳杜厚颜，薜荔蒙耻，碧岭再辱，丹崖重滓，尘游躅于蕙路，污渌池以洗耳。宜扃岫幌，掩云关，敛轻雾，藏鸣湍，截来辕于谷口，杜妄辔于郊端。于是丛条瞋胆，叠颖怒魄。或飞柯以折轮，乍低枝而扫迹。请回俗士驾，为君谢逋客。",
-      "translation": "现在他又匆忙整理行装离开下邑，划船前往京城。虽然心向朝廷，或许只是借道经过山门。岂能让芳杜厚颜，薜荔蒙羞，碧绿的山岭再次受辱，红色的山崖再添污垢，让游踪玷污香草路，用污水池来洗耳。应该关上山窗，掩闭云关，收敛轻雾，隐藏鸣湍，在谷口截停车辆，在郊端杜绝妄辔。于是丛生的树枝发怒，叠起的草尖生气。有的飞动树枝折断车轮，忽然低垂枝条扫除痕迹。请回俗士的车驾，为您谢绝逃客。",
+      "translation": "现在又在县城匆忙整装，划船前往京城。虽然心向朝廷，或许只是借道经过山门。但怎能让杜若厚颜、薜荔蒙羞，碧岭再受辱、丹崖重污，让尘土玷污香草路，用洗耳污染清池？应该关上山窗，掩闭云关，收敛轻雾，隐藏鸣涧，在谷口截停车驾，在郊端杜绝妄骑。于是丛枝怒胆，叠草愤魄，或是飞枝折轮，或是低枝扫迹。请回俗士之驾，为您谢绝逃客。",
       "sentences": [
         {
           "original": "今又促装下邑，浪枻上京。",
-          "translation": "现在他又匆忙整理行装离开下邑，划船前往京城。",
+          "translation": "现在又在县城匆忙整装，划船前往京城。",
           "words": [
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "时间副词，表示现在、当前时候。",
               "type": "实词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示动作的重复或再次发生。",
               "type": "虚词"
             },
             {
-              "word": "促装",
-              "pinyin": "cù zhuāng",
-              "meaning": "整理行装",
+              "word": "促",
+              "pinyin": "cù",
+              "meaning": "动词，催促、急忙准备。",
+              "type": "实词"
+            },
+            {
+              "word": "装",
+              "pinyin": "zhuāng",
+              "meaning": "名词，指行装、行李物品。",
               "type": "实词"
             },
             {
               "word": "下邑",
               "pinyin": "xià yì",
-              "meaning": "下邑",
+              "meaning": "地名，指地方县治，相对于京城而言的小地方。",
               "type": "地名"
             },
             {
-              "word": "浪枻",
-              "pinyin": "làng yì",
-              "meaning": "划船",
+              "word": "浪",
+              "pinyin": "làng",
+              "meaning": "动词，划动、摇动船桨。",
+              "type": "实词"
+            },
+            {
+              "word": "枻",
+              "pinyin": "yì",
+              "meaning": "名词，船桨，划船的工具。",
               "type": "实词"
             },
             {
               "word": "上京",
               "pinyin": "shàng jīng",
-              "meaning": "上京",
+              "meaning": "地名，指京城、首都，相对于下邑的大城市。",
               "type": "地名"
             }
           ]
@@ -2531,427 +2749,457 @@
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步关系，相当于虽然、尽管。",
               "type": "虚词"
             },
             {
-              "word": "情投",
-              "pinyin": "qíng tóu",
-              "meaning": "情感投向",
+              "word": "情",
+              "pinyin": "qíng",
+              "meaning": "名词，心意、情感或意愿。",
+              "type": "实词"
+            },
+            {
+              "word": "投",
+              "pinyin": "tóu",
+              "meaning": "动词，投向、向往或倾向。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "于",
+              "meaning": "介词，表示动作的方向，义为向、到。",
               "type": "虚词"
             },
             {
               "word": "魏阙",
               "pinyin": "wèi què",
-              "meaning": "朝廷典故",
+              "meaning": "典故，指朝廷，古代宫门外的建筑，象征君主或官场。",
               "type": "典故"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "或者",
+              "meaning": "副词，表示推测或不确定，古义为或许、也许（非今义'或者'）。",
               "type": "虚词"
             },
             {
-              "word": "假步",
-              "pinyin": "jiǎ bù",
-              "meaning": "借步",
+              "word": "假",
+              "pinyin": "jiǎ",
+              "meaning": "动词，借、借用或暂时使用。",
+              "type": "实词"
+            },
+            {
+              "word": "步",
+              "pinyin": "bù",
+              "meaning": "名词，脚步、步伐或行走。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "于",
+              "meaning": "介词，表示处所或位置，义为在、到。",
               "type": "虚词"
             },
             {
               "word": "山扃",
               "pinyin": "shān jiōng",
-              "meaning": "山门",
-              "type": "地名"
+              "meaning": "名词，山门，指山居或隐居处的门户。",
+              "type": "实词"
             }
           ]
         },
         {
           "original": "岂可使芳杜厚颜，薜荔蒙耻，碧岭再辱，丹崖重滓，尘游躅于蕙路，污渌池以洗耳。",
-          "translation": "岂能让芳杜厚颜，薜荔蒙羞，碧绿的山岭再次受辱，红色的山崖再添污垢，让游踪玷污香草路，用污水池来洗耳。",
+          "translation": "但怎能让杜若厚颜、薜荔蒙羞，碧岭再受辱、丹崖重污，让尘土玷污香草路，用洗耳污染清池？",
           "words": [
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "岂",
+              "meaning": "副词，表反问语气，难道、怎么",
               "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
+              "meaning": "能愿动词，可以、能够",
               "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "使",
+              "meaning": "动词，让、致使",
               "type": "实词"
             },
             {
               "word": "芳杜",
               "pinyin": "fāng dù",
-              "meaning": "香草名",
+              "meaning": "香草杜若，常喻品德高洁之士",
               "type": "实词"
             },
             {
-              "word": "厚颜",
-              "pinyin": "hòu yán",
-              "meaning": "厚颜",
+              "word": "厚",
+              "pinyin": "hòu",
+              "meaning": "形容词，厚、重，此处活用为使动，使……厚颜",
+              "type": "实词"
+            },
+            {
+              "word": "颜",
+              "pinyin": "yán",
+              "meaning": "名词，脸面、颜面",
               "type": "实词"
             },
             {
               "word": "薜荔",
               "pinyin": "bì lì",
-              "meaning": "植物名",
+              "meaning": "香草名，常喻隐士或高洁之物",
               "type": "实词"
             },
             {
-              "word": "蒙耻",
-              "pinyin": "méng chǐ",
-              "meaning": "蒙耻",
+              "word": "蒙",
+              "pinyin": "méng",
+              "meaning": "动词，蒙受、遭受",
+              "type": "实词"
+            },
+            {
+              "word": "耻",
+              "pinyin": "chǐ",
+              "meaning": "名词，耻辱",
               "type": "实词"
             },
             {
               "word": "碧岭",
               "pinyin": "bì lǐng",
-              "meaning": "碧绿山岭",
+              "meaning": "青绿色的山岭",
               "type": "实词"
             },
             {
-              "word": "再辱",
-              "pinyin": "zài rǔ",
-              "meaning": "再辱",
+              "word": "再",
+              "pinyin": "zài",
+              "meaning": "古义：两次（非今义‘又一次’）。此处指第二次受辱",
+              "type": "实词"
+            },
+            {
+              "word": "辱",
+              "pinyin": "rǔ",
+              "meaning": "动词，玷污、侮辱",
               "type": "实词"
             },
             {
               "word": "丹崖",
               "pinyin": "dān yá",
-              "meaning": "红色山崖",
+              "meaning": "红色的山崖",
               "type": "实词"
             },
             {
-              "word": "重滓",
-              "pinyin": "chóng zǐ",
-              "meaning": "重新玷污",
+              "word": "重",
+              "pinyin": "chóng",
+              "meaning": "此处读 chóng，义为再次、又一次",
               "type": "实词"
             },
             {
-              "word": "尘游躅",
-              "pinyin": "chén yóu zhú",
-              "meaning": "尘世足迹",
+              "word": "滓",
+              "pinyin": "zǐ",
+              "meaning": "名词，污垢、渣滓",
+              "type": "实词"
+            },
+            {
+              "word": "尘",
+              "pinyin": "chén",
+              "meaning": "通‘陈’，义为陈列、布满",
+              "type": "实词"
+            },
+            {
+              "word": "游躅",
+              "pinyin": "yóu zhú",
+              "meaning": "游人的足迹",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "于",
+              "meaning": "介词，引出动作‘尘’（陈列）的处所，在",
               "type": "虚词"
             },
             {
               "word": "蕙路",
               "pinyin": "huì lù",
-              "meaning": "蕙路",
-              "type": "地名"
+              "meaning": "长满蕙草的道路，喻高洁之境",
+              "type": "实词"
             },
             {
-              "word": "污渌池",
-              "pinyin": "wū lù chí",
-              "meaning": "污染清池",
+              "word": "污",
+              "pinyin": "wū",
+              "meaning": "动词，弄脏、污染",
+              "type": "实词"
+            },
+            {
+              "word": "渌池",
+              "pinyin": "lù chí",
+              "meaning": "清澈的池水",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "以",
+              "meaning": "连词，表目的关系，用来",
               "type": "虚词"
             },
             {
               "word": "洗耳",
               "pinyin": "xǐ ěr",
-              "meaning": "隐居典故",
+              "meaning": "典故，典出许由巢父故事，许由厌闻尧让天下之言，临河洗耳，喻隐居清高，不慕荣利",
               "type": "典故"
             }
           ]
         },
         {
           "original": "宜扃岫幌，掩云关，敛轻雾，藏鸣湍，截来辕于谷口，杜妄辔于郊端。",
-          "translation": "应该关上山窗，掩闭云关，收敛轻雾，隐藏鸣湍，在谷口截停车辆，在郊端杜绝妄辔。",
+          "translation": "应该关上山窗，掩闭云关，收敛轻雾，隐藏鸣涧，在谷口截停车驾，在郊端杜绝妄骑。",
           "words": [
             {
               "word": "宜",
               "pinyin": "yí",
-              "meaning": "应该",
+              "meaning": "副词，应该、应当",
               "type": "虚词"
             },
             {
               "word": "扃",
               "pinyin": "jiōng",
-              "meaning": "关闭",
+              "meaning": "动词，关闭",
               "type": "实词"
             },
             {
               "word": "岫幌",
               "pinyin": "xiù huǎng",
-              "meaning": "山穴帷幕",
+              "meaning": "山穴的帷幔，指山中居所的门窗",
               "type": "实词"
             },
             {
               "word": "掩",
               "pinyin": "yǎn",
-              "meaning": "掩蔽",
+              "meaning": "动词，掩上、关闭",
               "type": "实词"
             },
             {
               "word": "云关",
               "pinyin": "yún guān",
-              "meaning": "云中关隘",
+              "meaning": "云雾缭绕的关隘，指山间通道",
               "type": "实词"
             },
             {
               "word": "敛",
               "pinyin": "liǎn",
-              "meaning": "收敛",
+              "meaning": "动词，收起、收敛",
               "type": "实词"
             },
             {
               "word": "轻雾",
               "pinyin": "qīng wù",
-              "meaning": "轻雾",
+              "meaning": "薄雾",
               "type": "实词"
             },
             {
               "word": "藏",
               "pinyin": "cáng",
-              "meaning": "隐藏",
+              "meaning": "动词，隐藏、收藏",
               "type": "实词"
             },
             {
               "word": "鸣湍",
               "pinyin": "míng tuān",
-              "meaning": "鸣响急流",
+              "meaning": "鸣响的急流",
               "type": "实词"
             },
             {
               "word": "截",
               "pinyin": "jié",
-              "meaning": "拦截",
+              "meaning": "动词，阻拦、截住",
               "type": "实词"
             },
             {
               "word": "来辕",
               "pinyin": "lái yuán",
-              "meaning": "来的车辕",
+              "meaning": "来的车驾，指来访的俗士车马",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作‘截’的处所，在",
               "type": "虚词"
             },
             {
               "word": "谷口",
               "pinyin": "gǔ kǒu",
-              "meaning": "山谷口",
+              "meaning": "山谷的入口",
               "type": "实词"
             },
             {
               "word": "杜",
               "pinyin": "dù",
-              "meaning": "杜绝",
+              "meaning": "动词，杜绝、堵塞",
               "type": "实词"
             },
             {
               "word": "妄辔",
               "pinyin": "wàng pèi",
-              "meaning": "妄动马缰",
+              "meaning": "狂乱的马缰，指俗士狂乱的车马",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作‘杜’的处所，在",
               "type": "虚词"
             },
             {
               "word": "郊端",
               "pinyin": "jiāo duān",
-              "meaning": "郊外端",
+              "meaning": "郊野的边缘",
               "type": "实词"
             }
           ]
         },
         {
           "original": "于是丛条瞋胆，叠颖怒魄。",
-          "translation": "于是丛生的树枝发怒，叠起的草尖生气。",
+          "translation": "于是丛枝怒胆，叠草愤魄。",
           "words": [
             {
               "word": "于是",
               "pinyin": "yú shì",
-              "meaning": "于是",
+              "meaning": "固定结构，承接连词，表示前后两事紧密相连，可译为“在这种情况下”或“于是”。",
               "type": "虚词"
             },
             {
               "word": "丛条",
               "pinyin": "cóng tiáo",
-              "meaning": "丛生枝条",
+              "meaning": "密集丛生的树枝。",
               "type": "实词"
             },
             {
-              "word": "瞋",
-              "pinyin": "chēn",
-              "meaning": "瞪眼",
+              "word": "瞋胆",
+              "pinyin": "chēn dǎn",
+              "meaning": "使胆量发怒。瞋，发怒、使发怒；胆，胆量。此处为拟人手法，形容树木极度愤怒。",
               "type": "实词"
             },
             {
-              "word": "胆",
-              "pinyin": "dǎn",
-              "meaning": "胆",
+              "word": "叠颖",
+              "pinyin": "dié yǐng",
+              "meaning": "层层叠叠的草穗。颖，本指禾穗的尖端，此处泛指草木的尖梢。",
               "type": "实词"
             },
             {
-              "word": "叠",
-              "pinyin": "dié",
-              "meaning": "重叠",
-              "type": "实词"
-            },
-            {
-              "word": "颖",
-              "pinyin": "yǐng",
-              "meaning": "草尖",
-              "type": "实词"
-            },
-            {
-              "word": "怒",
-              "pinyin": "nù",
-              "meaning": "发怒",
-              "type": "实词"
-            },
-            {
-              "word": "魄",
-              "pinyin": "pò",
-              "meaning": "魂魄",
+              "word": "怒魄",
+              "pinyin": "nù pò",
+              "meaning": "使魂魄发怒。魄，魂魄。此处亦为拟人，与“瞋胆”并列，形容草木的愤怒之态。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "或飞柯以折轮，乍低枝而扫迹。",
-          "translation": "有的飞动树枝折断车轮，忽然低垂枝条扫除痕迹。",
+          "translation": "或是飞枝折轮，或是低枝扫迹。",
           "words": [
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有时",
+              "meaning": "虚词，此处为副词，表示动作行为的交替发生或不十分确定，可译为“有时”、“时而”。",
               "type": "虚词"
             },
             {
               "word": "飞柯",
               "pinyin": "fēi kē",
-              "meaning": "飞动树枝",
+              "meaning": "飞动的树枝。柯，树枝。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "虚词，连词，连接状语“飞柯”和谓语“折轮”，表示目的或结果，可译为“来”或“从而”。",
               "type": "虚词"
             },
             {
               "word": "折轮",
               "pinyin": "zhé lún",
-              "meaning": "折断车轮",
+              "meaning": "折断车轮。",
               "type": "实词"
             },
             {
               "word": "乍",
               "pinyin": "zhà",
-              "meaning": "忽然",
+              "meaning": "虚词，副词，表示动作行为的发生急促、出乎意料，可译为“突然”、“忽然”。",
               "type": "虚词"
             },
             {
               "word": "低枝",
               "pinyin": "dī zhī",
-              "meaning": "低垂树枝",
+              "meaning": "压低树枝。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "虚词，连词，连接“低枝”和“扫迹”两个动作，表示承接关系。",
               "type": "虚词"
             },
             {
               "word": "扫迹",
               "pinyin": "sǎo jì",
-              "meaning": "扫除痕迹",
+              "meaning": "扫除（车马的）痕迹。迹，足迹、车迹。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "请回俗士驾，为君谢逋客。",
-          "translation": "请回俗士的车驾，为您谢绝逃客。",
+          "translation": "请回俗士之驾，为您谢绝逃客。",
           "words": [
             {
               "word": "请",
               "pinyin": "qǐng",
-              "meaning": "请求",
+              "meaning": "动词，请求、恳请（山神回绝俗士）",
               "type": "实词"
             },
             {
               "word": "回",
               "pinyin": "huí",
-              "meaning": "返回",
+              "meaning": "动词，使返回、回绝（俗士的车驾）",
               "type": "实词"
             },
             {
               "word": "俗士",
               "pinyin": "sú shì",
-              "meaning": "庸俗之士",
+              "meaning": "世俗的读书人，文中讽刺假隐士或追求功名之人",
               "type": "实词"
             },
             {
               "word": "驾",
               "pinyin": "jià",
-              "meaning": "车驾",
+              "meaning": "名词，车驾，代指俗士的来访",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "为了",
+              "meaning": "此处读 wèi，义为介词，表示目的，为了（君谢绝逋客）",
               "type": "虚词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "您",
+              "meaning": "名词，对山神的尊称，指北山山神",
               "type": "实词"
             },
             {
               "word": "谢",
               "pinyin": "xiè",
-              "meaning": "谢绝",
+              "meaning": "古义：辞谢、拒绝（非今义'感谢'），文中指谢绝逋客",
               "type": "实词"
             },
             {
               "word": "逋客",
               "pinyin": "bū kè",
-              "meaning": "逃客",
+              "meaning": "逃客，指逃离世俗的隐士，文中讽刺假隐士",
               "type": "实词"
             }
           ]

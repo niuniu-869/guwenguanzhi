@@ -1,365 +1,343 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "206_阅江楼记",
   "title": "阅江楼记",
   "author": {
     "id": "ming_宋濂",
     "name": "宋濂",
     "dynasty": "ming",
-    "bio": "宋濂（1310—1381），字景濂，号潜溪，明朝初期著名文学家、史学家。他官至翰林学士知制诰，被誉为“开国文臣之首”，参与编修《元史》，文风典雅醇正，对明代文学影响深远。"
+    "bio": "宋濂（1310-1381），字景濂，号潜溪，浙江金华人。明初著名文学家，官至翰林学士知制诰，被誉为“开国文臣之首”。代表作有《送东阳马生序》《阅江楼记》等，散文风格典雅醇正，对明代文学有重要影响。"
   },
   "source": "",
   "dynasty": "ming",
   "volume": 12,
-  "background": "明朝建立初期，太祖朱元璋定都南京后，为彰显大一统功绩和天命所归，在南京狮子山巅建造阅江楼。宋濂作为开国文臣，奉旨撰写此文，旨在通过楼阁记文的形式，颂扬皇帝结束六朝偏据、实现四海归一的伟业。文章写作于明初政治巩固、文化推崇文以载道的背景下，反映了统治者利用文学宣扬正统、教化臣民的意图。宋濂借登楼遐思，表达治国安民的理念，同时隐含对君主的劝谏，体现了明初文人为政权服务的文学传统。",
-  "appreciation": "《阅江楼记》是一篇文学价值较高的古文，结构严谨，层次分明。文章开篇点明金陵王气，引出明朝正统；继而描述阅江楼的地理雄胜和建造缘由；核心部分通过皇帝登楼时的三层遐思——对江山社稷的守护、对四方来朝的欣慰、对民生疾苦的关怀，运用排比句式如“见...必曰...”，层层递进，气势恢宏。语言典雅，对仗工整，如“长江如虹贯，蟠绕其下”，生动描绘景象。主题上，表面歌颂皇帝功德，实则寄托儒家仁政理想，强调君主应忧国忧民、励精图治。结尾对比历史楼阁的荒淫，升华思想深度，突出阅江楼的正当用途。全文将写景、叙事、议论融为一体，展现了宋濂作为一代文宗的卓越才华和明代宫廷文学的典范风格。",
+  "background": "本文写于明朝洪武年间，明太祖朱元璋定都南京后，国家统一，社会趋于稳定。作者宋濂时任翰林学士，奉皇帝诏命撰写此文。写作动机是为南京狮子山新建的阅江楼作记，以颂扬朱元璋的治国功绩，并借楼景阐发君主应忧民保疆、德化天下的理念。文中提及皇帝诏建楼与民同乐，宋濂作为文臣，通过此文表达对明初政治秩序的认同。",
+  "appreciation": "《阅江楼记》是一篇议论性记文，结构上先叙楼之地理与建造缘起，再以登楼所见展开三层排比议论，由江景联想到诸侯述职、外邦朝贡、农耕劳作，最后对比六朝旧事，升华主题。艺术特色上，语言庄重典雅，多用排比句式增强节奏，如“见江汉之朝宗...见波涛之浩荡...见两岸之间...”，通过古今对比突出明朝一统的盛世。思想内涵核心是儒家仁政观，强调君主应以民为本、德威并施，将山水之乐转化为治国之思。此文是明初应制文的典型，体现了宋濂散文醇正典雅的风格，在文学史上展示了明初文风与政治话语的结合。",
   "tags": [
-    "古文",
-    "明朝散文",
-    "颂扬文"
+    "议论",
+    "山水",
+    "政治",
+    "碑铭"
   ],
   "paragraphs": [
     {
       "original": "金陵为帝王之州。自六朝迄于南唐，类皆偏据一方，无以应山川之王气。逮我皇帝，定鼎于兹，始足以当之。由是声教所暨，罔间朔南，存神穆清，与天同体，虽一豫一游，亦可为天下后世法。",
-      "translation": "金陵是适合帝王建都的地方。从六朝直到南唐，这些朝代大都偏安一方，无法匹配山川所蕴藏的帝王之气。等到我朝皇帝，在此地定都，才足以担当这王气。因此，声威教化所到达的地方，不分北方和南方，皇帝保持精神清穆，与天同体，即使是一次游乐，也可以作为天下后世的楷模。",
+      "translation": "金陵是帝王建都的地方。从六朝到南唐，这些朝代大都偏安一方，无法与山川的王气相匹配。等到我朝皇帝定都于此，才足以担当这王气。从此声威教化所及，不分南北，皇帝保持精神穆然清静，与天合为一体，即使是一次游乐，也可以作为天下后世的典范。",
       "sentences": [
         {
           "original": "金陵为帝王之州。",
-          "translation": "金陵是适合帝王建都的地方。",
+          "translation": "金陵是帝王建都的地方。",
           "words": [
             {
               "word": "金陵",
               "pinyin": "jīn líng",
-              "meaning": "南京",
+              "meaning": "地名，今江苏南京，六朝古都，长江下游重镇",
               "type": "地名"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
-              "type": "实词"
+              "meaning": "此处读 wéi，动词，表判断，相当于‘是’",
+              "type": "虚词"
             },
             {
               "word": "帝王",
               "pinyin": "dì wáng",
-              "meaning": "帝王",
+              "meaning": "指称帝称王、统治天下的君主",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，表领属关系，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "州",
               "pinyin": "zhōu",
-              "meaning": "州郡",
+              "meaning": "州郡，此指适宜建都的形胜之地",
               "type": "实词"
             }
           ]
         },
         {
           "original": "自六朝迄于南唐，类皆偏据一方，无以应山川之王气。",
-          "translation": "从六朝直到南唐，这些朝代大都偏安一方，无法匹配山川所蕴藏的帝王之气。",
+          "translation": "从六朝到南唐，大都偏安一方，无法与山川的王气相匹配。",
           "words": [
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "从",
+              "meaning": "介词，引出时间起点，相当于‘从’",
               "type": "虚词"
             },
             {
               "word": "六朝",
               "pinyin": "liù cháo",
-              "meaning": "六个朝代",
-              "type": "典故"
+              "meaning": "朝代合称，指三国吴、东晋、宋、齐、梁、陈，均建都于金陵",
+              "type": "地名"
             },
             {
               "word": "迄",
               "pinyin": "qì",
-              "meaning": "到",
+              "meaning": "动词，到、至",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，引出动作‘迄’的对象，相当于‘到’",
               "type": "虚词"
             },
             {
               "word": "南唐",
               "pinyin": "nán táng",
-              "meaning": "朝代名",
+              "meaning": "五代十国时期政权，建都金陵（今南京），为六朝后定都于此的政权",
               "type": "地名"
             },
             {
               "word": "类",
               "pinyin": "lèi",
-              "meaning": "大都",
-              "type": "虚词"
+              "meaning": "副词，大抵、大都",
+              "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，表示总括，都",
               "type": "虚词"
             },
             {
               "word": "偏据",
               "pinyin": "piān jù",
-              "meaning": "偏安占据",
+              "meaning": "偏安占据（一方），未能统一天下",
               "type": "实词"
             },
             {
               "word": "一方",
               "pinyin": "yī fāng",
-              "meaning": "一个地方",
+              "meaning": "一个区域，指局部地区",
               "type": "实词"
             },
             {
               "word": "无以",
               "pinyin": "wú yǐ",
-              "meaning": "无法",
+              "meaning": "固定结构，‘无所以’的省略，没办法、无法",
               "type": "虚词"
             },
             {
               "word": "应",
               "pinyin": "yìng",
-              "meaning": "应验",
+              "meaning": "此处读 yìng，动词，应和、配得上",
               "type": "实词"
             },
             {
               "word": "山川",
               "pinyin": "shān chuān",
-              "meaning": "山河",
+              "meaning": "山岳与河流，此指金陵的地理形势",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，表领属关系，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "王气",
               "pinyin": "wáng qì",
-              "meaning": "帝王之气",
+              "meaning": "旧指象征帝王运数的祥瑞之气",
               "type": "实词"
             }
           ]
         },
         {
           "original": "逮我皇帝，定鼎于兹，始足以当之。",
-          "translation": "等到我朝皇帝，在此地定都，才足以担当这王气。",
+          "translation": "等到我朝皇帝，定都在这里，才足以担当这王气。",
           "words": [
             {
               "word": "逮",
               "pinyin": "dài",
-              "meaning": "等到",
+              "meaning": "此处读 dài，义为及、等到（区别于 dǎi 之‘捉拿’义）",
               "type": "实词"
             },
             {
-              "word": "我",
-              "pinyin": "wǒ",
-              "meaning": "我",
-              "type": "实词"
-            },
-            {
-              "word": "皇帝",
-              "pinyin": "huáng dì",
-              "meaning": "皇帝",
+              "word": "我皇帝",
+              "pinyin": "wǒ huáng dì",
+              "meaning": "指明朝开国皇帝朱元璋（明太祖）",
               "type": "人名"
             },
             {
               "word": "定鼎",
               "pinyin": "dìng dǐng",
-              "meaning": "建立都城",
-              "type": "实词"
+              "meaning": "典出《左传·宣公三年》，禹铸九鼎象征国家政权，后指建立王朝或定都",
+              "type": "典故"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作‘定鼎’的地点",
               "type": "虚词"
             },
             {
               "word": "兹",
               "pinyin": "zī",
-              "meaning": "这里",
-              "type": "实词"
+              "meaning": "指示代词，这里，指金陵",
+              "type": "虚词"
             },
             {
               "word": "始",
               "pinyin": "shǐ",
-              "meaning": "才",
-              "type": "虚词"
+              "meaning": "副词，才",
+              "type": "实词"
             },
             {
               "word": "足以",
               "pinyin": "zú yǐ",
-              "meaning": "足够用来",
+              "meaning": "固定结构，足够用来、完全可以",
               "type": "虚词"
             },
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "担当",
+              "meaning": "此处读 dāng，义为承当、配得上",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代上文的‘山川之王气’",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "由是声教所暨，罔间朔南，存神穆清，与天同体，虽一豫一游，亦可为天下后世法。",
-          "translation": "因此，声威教化所到达的地方，不分北方和南方，皇帝保持精神清穆，与天同体，即使是一次游乐，也可以作为天下后世的楷模。",
+          "translation": "从此声威教化所及，不分北方南方，保持精神穆然清静，与天合为一体，即使一次娱乐一次巡游，也可以作为天下后世的典范。",
           "words": [
             {
-              "word": "由",
-              "pinyin": "yóu",
-              "meaning": "从，由于",
-              "type": "虚词"
-            },
-            {
-              "word": "是",
-              "pinyin": "shì",
-              "meaning": "此，这",
+              "word": "由是",
+              "pinyin": "yóu shì",
+              "meaning": "固定结构，因此、由此",
               "type": "虚词"
             },
             {
               "word": "声教",
               "pinyin": "shēng jiào",
-              "meaning": "声威教化",
+              "meaning": "声威与教化",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "助词",
+              "meaning": "助词，与动词‘暨’构成名词性结构，‘所暨’即‘所达到的地方’",
               "type": "虚词"
             },
             {
               "word": "暨",
               "pinyin": "jì",
-              "meaning": "及，到",
+              "meaning": "动词，及、到达",
               "type": "实词"
             },
             {
               "word": "罔",
               "pinyin": "wǎng",
-              "meaning": "无，没有",
+              "meaning": "否定副词，无、没有",
               "type": "虚词"
             },
             {
               "word": "间",
               "pinyin": "jiàn",
-              "meaning": "间隔",
+              "meaning": "此处读 jiàn，义为间隔、区分",
               "type": "实词"
             },
             {
               "word": "朔南",
               "pinyin": "shuò nán",
-              "meaning": "北方南方",
+              "meaning": "北方和南方",
               "type": "实词"
             },
             {
               "word": "存神",
               "pinyin": "cún shén",
-              "meaning": "保持精神",
+              "meaning": "存养精神",
               "type": "实词"
             },
             {
               "word": "穆清",
               "pinyin": "mù qīng",
-              "meaning": "清穆和谐",
+              "meaning": "指天子清和之德，或指太平祥和",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和，同",
+              "meaning": "介词，和、跟",
               "type": "虚词"
             },
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "天，天空",
+              "meaning": "上天、自然",
               "type": "实词"
             },
             {
               "word": "同体",
               "pinyin": "tóng tǐ",
-              "meaning": "同为一体",
+              "meaning": "合为一体",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，即使",
               "type": "虚词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一次",
+              "meaning": "数词，一次",
               "type": "实词"
             },
             {
               "word": "豫",
               "pinyin": "yù",
-              "meaning": "娱乐",
+              "meaning": "动词，游乐、巡游",
               "type": "实词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一次",
+              "meaning": "数词，一次",
               "type": "实词"
             },
             {
               "word": "游",
               "pinyin": "yóu",
-              "meaning": "游玩",
+              "meaning": "动词，游览",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
-              "type": "虚词"
-            },
-            {
-              "word": "可",
-              "pinyin": "kě",
-              "meaning": "可以",
+              "meaning": "副词，也",
               "type": "实词"
             },
             {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "虚词"
-            },
-            {
-              "word": "天下",
-              "pinyin": "tiān xià",
-              "meaning": "世界",
+              "word": "可为",
+              "pinyin": "kě wéi",
+              "meaning": "可以成为",
               "type": "实词"
             },
             {
-              "word": "后世",
-              "pinyin": "hòu shì",
-              "meaning": "后代",
+              "word": "天下后世",
+              "pinyin": "tiān xià hòu shì",
+              "meaning": "普天之下及后世子孙",
               "type": "实词"
             },
             {
               "word": "法",
               "pinyin": "fǎ",
-              "meaning": "法则",
+              "meaning": "名词，法则、楷模",
               "type": "实词"
             }
           ]
@@ -368,454 +346,454 @@
     },
     {
       "original": "京城之西北有狮子山，自卢龙蜿蜒而来。长江如虹贯，蟠绕其下。上以其地雄胜，诏建楼于巅，与民同游观之乐。遂锡嘉名为“阅江”云。登览之顷，万象森列，千载之秘，一旦轩露。岂非天造地设，以俟大一统之君，而开千万世之伟观者欤？当风日清美，法驾幸临，升其崇椒，凭阑遥瞩，必悠然而动遐思。见江汉之朝宗，诸侯之述职，城池之高深。关阨之严固，必曰：“此朕栉风沐雨，战胜攻取之所致也。中夏之广，益思有以保之。”见波涛之浩荡，风帆之上下，番舶接迹而来庭，蛮琛联肩而入贡，必曰：“此朕德绥威服，覃及内外之所及也。",
-      "translation": "京城的西北有狮子山，从卢龙蜿蜒而来。长江像彩虹一样贯穿，蟠绕在它的下面。皇上因为这个地方雄伟胜景，下诏在山顶建楼，与百姓同享游览观赏的乐趣。于是赐予美好的名字叫“阅江”。登楼游览的时候，万象森然罗列，千年的秘密，一旦显露。难道不是天造地设，来等待大一统的君主，而开辟千万世的壮观景象吗？当风和日丽的时候，皇帝驾临，登上山顶，凭栏远眺，必定悠然而生遐想。看到江汉的朝宗，诸侯的述职，城池的高深。关隘的险要坚固，必定说：“这是我栉风沐雨，战胜攻取所得到的。中原的广阔，更加思考如何保卫它。”看到波涛的浩荡，风帆的上下，外国船只接连而来朝见，蛮夷珍宝联肩而入贡，必定说：“这是我以德安抚、以威制服，遍及内外所达到的。”",
+      "translation": "京城的西北有座狮子山，从卢龙山蜿蜒延伸而来。长江像彩虹一样贯穿，盘绕在它的下面。皇上因为此地雄伟壮丽，下诏在山顶建楼，与百姓一同享受游览观赏的乐趣。于是赐予美名为“阅江”。登临游览的时候，万千景象森然罗列，千年的秘密，一旦显露出来。这难道不是天造地设，用来等待统一天下的君主，而开创千秋万代的宏伟景观吗？当风光美好的时候，皇帝亲临，登上山顶，靠着栏杆远望，必定悠然地产生深远的思绪。看到长江汉水像朝宗一样，诸侯来述职，城墙高深，关隘险固，必定说：“这是我辛苦劳作、战胜攻取所取得的。中国的广阔，更加思考如何保卫它。”看到波涛浩荡，风帆起伏，外国船只接连不断地来到朝廷，蛮地的珍宝联肩入贡，必定说：“这是我用德安抚、用威制服，延伸到内外所达到的。”",
       "sentences": [
         {
           "original": "京城之西北有狮子山，自卢龙蜿蜒而来。",
-          "translation": "京城的西北有狮子山，从卢龙蜿蜒而来。",
+          "translation": "京城的西北有座狮子山，从卢龙山蜿蜒延伸而来。",
           "words": [
             {
               "word": "京城",
               "pinyin": "jīng chéng",
-              "meaning": "首都",
+              "meaning": "明朝京城南京，位于狮子山东南，作为文章背景的都城",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接'京城'和'西北'，表示所属关系",
               "type": "虚词"
             },
             {
               "word": "西北",
               "pinyin": "xī běi",
-              "meaning": "西北方",
+              "meaning": "方位名词，指西方和北方之间的方向，此处指京城的西北部",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，表示存在",
               "type": "实词"
             },
             {
               "word": "狮子山",
               "pinyin": "shī zi shān",
-              "meaning": "山名",
+              "meaning": "山名，位于京城西北，因形似狮子得名，是建阅江楼之地",
               "type": "地名"
             },
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "从",
+              "meaning": "介词，表示起点，相当于'从'，引出山脉来源",
               "type": "虚词"
             },
             {
               "word": "卢龙",
               "pinyin": "lú lóng",
-              "meaning": "地名",
+              "meaning": "山脉名，指卢龙山脉，蜿蜒延伸至狮子山",
               "type": "地名"
             },
             {
               "word": "蜿蜒",
               "pinyin": "wān yán",
-              "meaning": "曲折延伸",
+              "meaning": "动词，形容山脉曲折延伸的样子",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，表承接",
+              "meaning": "连词，连接'蜿蜒'和'来'，表示顺承关系",
               "type": "虚词"
             },
             {
               "word": "来",
               "pinyin": "lái",
-              "meaning": "到来",
+              "meaning": "动词，表示趋向，此处指山脉延伸而来",
               "type": "实词"
             }
           ]
         },
         {
           "original": "长江如虹贯，蟠绕其下。",
-          "translation": "长江像彩虹一样贯穿，蟠绕在它的下面。",
+          "translation": "长江像彩虹一样贯穿，盘绕在它的下面。",
           "words": [
             {
               "word": "长江",
               "pinyin": "cháng jiāng",
-              "meaning": "河流名",
+              "meaning": "中国第一大河，文中形容其如彩虹般贯穿",
               "type": "地名"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "像",
+              "meaning": "动词，好像、如同，表示比喻",
               "type": "实词"
             },
             {
               "word": "虹",
               "pinyin": "hóng",
-              "meaning": "彩虹",
+              "meaning": "名词，彩虹，此处比喻长江的形态",
               "type": "实词"
             },
             {
               "word": "贯",
               "pinyin": "guàn",
-              "meaning": "贯穿",
+              "meaning": "动词，贯穿、穿过，形容长江如虹般横贯",
               "type": "实词"
             },
             {
               "word": "蟠绕",
               "pinyin": "pán rào",
-              "meaning": "盘旋环绕",
+              "meaning": "动词，盘曲环绕，形容长江在狮子山下蜿蜒",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代狮子山，意为它的下面",
               "type": "虚词"
             },
             {
               "word": "下",
               "pinyin": "xià",
-              "meaning": "下方",
+              "meaning": "方位名词，下面、底部，指狮子山的下方",
               "type": "实词"
             }
           ]
         },
         {
           "original": "上以其地雄胜，诏建楼于巅，与民同游观之乐。",
-          "translation": "皇上因为这个地方雄伟胜景，下诏在山顶建楼，与百姓同享游览观赏的乐趣。",
+          "translation": "皇上因为此地雄伟壮丽，下诏在山顶建楼，与百姓一同享受游览观赏的乐趣。",
           "words": [
             {
               "word": "上",
               "pinyin": "shàng",
-              "meaning": "皇上",
+              "meaning": "名词，指皇上（明太祖朱元璋）",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因为",
+              "meaning": "介词，表示原因，相当于“因为”",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那里",
+              "meaning": "指示代词，指代前文的狮子山",
               "type": "虚词"
             },
             {
               "word": "地",
               "pinyin": "dì",
-              "meaning": "地方",
+              "meaning": "名词，地方、地势",
               "type": "实词"
             },
             {
               "word": "雄胜",
               "pinyin": "xióng shèng",
-              "meaning": "雄伟壮观",
+              "meaning": "形容词，雄伟壮观、景色佳丽",
               "type": "实词"
             },
             {
               "word": "诏",
               "pinyin": "zhào",
-              "meaning": "下令",
+              "meaning": "动词，皇帝颁发命令",
               "type": "实词"
             },
             {
               "word": "建",
               "pinyin": "jiàn",
-              "meaning": "建造",
+              "meaning": "动词，建造",
               "type": "实词"
             },
             {
               "word": "楼",
               "pinyin": "lóu",
-              "meaning": "楼阁",
+              "meaning": "名词，指阅江楼",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，相当于“在”",
               "type": "虚词"
             },
             {
               "word": "巅",
               "pinyin": "diān",
-              "meaning": "山顶",
+              "meaning": "名词，山顶",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "介词，表示对象，相当于“和”",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "百姓",
+              "meaning": "名词，百姓",
               "type": "实词"
             },
             {
               "word": "同",
               "pinyin": "tóng",
-              "meaning": "共同",
+              "meaning": "动词，共同享有",
               "type": "实词"
             },
             {
               "word": "游观",
               "pinyin": "yóu guān",
-              "meaning": "游览观赏",
+              "meaning": "动词，游览观赏",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，定语标志，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "乐",
               "pinyin": "lè",
-              "meaning": "乐趣",
+              "meaning": "名词，乐趣",
               "type": "实词"
             }
           ]
         },
         {
           "original": "遂锡嘉名为“阅江”云。",
-          "translation": "于是赐予美好的名字叫“阅江”。",
+          "translation": "于是赐予美名为“阅江”。",
           "words": [
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "连词，表示承接，相当于“于是”、“就”",
               "type": "虚词"
             },
             {
               "word": "锡",
               "pinyin": "cì",
-              "meaning": "赐予",
+              "meaning": "通“赐”，赐予",
               "type": "实词"
             },
             {
               "word": "嘉名",
               "pinyin": "jiā míng",
-              "meaning": "美好的名字",
+              "meaning": "名词，美好的名称",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，称作、叫做",
               "type": "虚词"
             },
             {
               "word": "阅江",
               "pinyin": "yuè jiāng",
-              "meaning": "楼名",
+              "meaning": "楼名，位于南京狮子山巅，明太祖诏建，取“阅江”之名",
               "type": "地名"
             },
             {
               "word": "云",
               "pinyin": "yún",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表示引述或不完全确定的语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "登览之顷，万象森列，千载之秘，一旦轩露。",
-          "translation": "登楼游览的时候，万象森然罗列，千年的秘密，一旦显露。",
+          "translation": "登临游览的时候，万千景象森然罗列，千年的秘密，一旦显露出来。",
           "words": [
             {
               "word": "登览",
               "pinyin": "dēng lǎn",
-              "meaning": "登高游览",
+              "meaning": "动词，登高览胜，指登山临水游览景物",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'登览'与中心语'顷'，表示领属或修饰关系",
               "type": "虚词"
             },
             {
               "word": "顷",
               "pinyin": "qǐng",
-              "meaning": "时刻",
+              "meaning": "名词，片刻，一会儿，指登览的那个时刻",
               "type": "实词"
             },
             {
               "word": "万象",
               "pinyin": "wàn xiàng",
-              "meaning": "万物景象",
+              "meaning": "名词，宇宙间的一切景象或事物",
               "type": "实词"
             },
             {
               "word": "森列",
               "pinyin": "sēn liè",
-              "meaning": "森然罗列",
+              "meaning": "动词，森严地罗列，形容众多事物整齐密集地呈现",
               "type": "实词"
             },
             {
               "word": "千载",
               "pinyin": "qiān zǎi",
-              "meaning": "千年",
+              "meaning": "数量词，千年，形容时间极其久远",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'千载'与中心语'秘'，表示所属关系",
               "type": "虚词"
             },
             {
               "word": "秘",
               "pinyin": "mì",
-              "meaning": "秘密",
+              "meaning": "名词，隐秘、奥秘，指不为人知的事物或景象",
               "type": "实词"
             },
             {
               "word": "一旦",
               "pinyin": "yī dàn",
-              "meaning": "一时",
+              "meaning": "副词，一日之间，忽然，表示时间极短且出乎意料",
               "type": "实词"
             },
             {
               "word": "轩露",
               "pinyin": "xuān lù",
-              "meaning": "显露",
+              "meaning": "动词，高高地显露、展现，'轩'有高扬、飞扬之意",
               "type": "实词"
             }
           ]
         },
         {
           "original": "岂非天造地设，以俟大一统之君，而开千万世之伟观者欤？",
-          "translation": "难道不是天造地设，来等待大一统的君主，而开辟千万世的壮观景象吗？",
+          "translation": "这难道不是天造地设，用来等待统一天下的君主，而开创千秋万代的宏伟景观吗？",
           "words": [
             {
               "word": "岂非",
               "pinyin": "qǐ fēi",
-              "meaning": "难道不是",
+              "meaning": "副词性结构，难道不是，用于反问，加强肯定语气",
               "type": "虚词"
             },
             {
               "word": "天造地设",
               "pinyin": "tiān zào dì shè",
-              "meaning": "自然形成",
+              "meaning": "成语，天然形成，非人力所为，形容事物自然形成而合乎理想",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
               "word": "俟",
               "pinyin": "sì",
-              "meaning": "等待",
+              "meaning": "动词，等待",
               "type": "实词"
             },
             {
               "word": "大一统",
               "pinyin": "dà yī tǒng",
-              "meaning": "统一天下",
+              "meaning": "动词，统一全国，使天下归一",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'大一统'与中心语'君'，表示修饰关系",
               "type": "虚词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "君主",
+              "meaning": "名词，君主，帝王",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表承接，可不译",
               "type": "虚词"
             },
             {
               "word": "开",
               "pinyin": "kāi",
-              "meaning": "开创",
+              "meaning": "动词，开辟、开创",
               "type": "实词"
             },
             {
               "word": "千万世",
               "pinyin": "qiān wàn shì",
-              "meaning": "千秋万代",
+              "meaning": "数量词，千秋万代，形容时间极其久远",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'千万世'与中心语'伟观'，表示所属关系",
               "type": "虚词"
             },
             {
               "word": "伟观",
               "pinyin": "wěi guān",
-              "meaning": "宏伟景象",
+              "meaning": "名词，宏伟的景象",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，用于主语后，表提顿，引出下文的判断或说明",
               "type": "虚词"
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "句末语气词，表反问或感叹，相当于'吗'、'呢'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "当风日清美，法驾幸临，升其崇椒，凭阑遥瞩，必悠然而动遐思。",
-          "translation": "当风和日丽的时候，皇帝驾临，登上山顶，凭栏远眺，必定悠然而生遐想。",
+          "translation": "当风光美好的时候，皇帝亲临，登上山顶，靠着栏杆远望，必定悠然地产生深远的思绪。",
           "words": [
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "当...时候",
+              "meaning": "介词，在……时候",
               "type": "虚词"
             },
             {
               "word": "风日",
               "pinyin": "fēng rì",
-              "meaning": "风和日",
+              "meaning": "风光，阳光",
               "type": "实词"
             },
             {
               "word": "清美",
               "pinyin": "qīng měi",
-              "meaning": "清新美丽",
+              "meaning": "清爽美好",
               "type": "实词"
             },
             {
               "word": "法驾",
               "pinyin": "fǎ jià",
-              "meaning": "皇帝车驾",
+              "meaning": "天子的车驾，代指天子",
               "type": "实词"
             },
             {
               "word": "幸临",
               "pinyin": "xìng lín",
-              "meaning": "皇帝驾临",
+              "meaning": "皇帝到来",
               "type": "实词"
             },
             {
@@ -827,13 +805,13 @@
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指狮子山",
               "type": "虚词"
             },
             {
               "word": "崇椒",
               "pinyin": "chóng jiāo",
-              "meaning": "高山顶",
+              "meaning": "山顶",
               "type": "实词"
             },
             {
@@ -845,44 +823,44 @@
             {
               "word": "遥瞩",
               "pinyin": "yáo zhǔ",
-              "meaning": "远望",
+              "meaning": "向远处看",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
+              "meaning": "副词，一定",
               "type": "虚词"
             },
             {
               "word": "悠然",
               "pinyin": "yōu rán",
-              "meaning": "悠闲地",
+              "meaning": "悠闲的样子",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，连接状语‘悠然’与中心词‘动’",
               "type": "虚词"
             },
             {
               "word": "动",
               "pinyin": "dòng",
-              "meaning": "引发",
+              "meaning": "产生，引发",
               "type": "实词"
             },
             {
               "word": "遐思",
               "pinyin": "xiá sī",
-              "meaning": "深远思考",
+              "meaning": "深远的思考",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "见江汉之朝宗，诸侯之述职，城池之高深。",
-          "translation": "看到江汉的朝宗，诸侯的述职，城池的高深。",
+          "original": "见江汉之朝宗，诸侯之述职，城池之高深。关阨之严固，必曰：“此朕栉风沐雨，战胜攻取之所致也。中夏之广，益思有以保之。”",
+          "translation": "看到长江汉水像朝宗一样，诸侯来述职，城墙高深，关隘险固，必定说：“这是我辛苦劳作、战胜攻取所取得的。中国的广阔，更加思考如何保卫它。”",
           "words": [
             {
               "word": "见",
@@ -893,49 +871,49 @@
             {
               "word": "江汉",
               "pinyin": "jiāng hàn",
-              "meaning": "长江汉水",
+              "meaning": "长江和汉水",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构‘江汉朝宗’之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "朝宗",
               "pinyin": "cháo zōng",
-              "meaning": "朝见天子",
+              "meaning": "此处‘朝’读cháo，义为朝见。古代诸侯朝见天子，比喻江河归向大海",
               "type": "实词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代分封的各国国君，此处指各地官员",
+              "type": "官职"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构‘诸侯述职’之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "述职",
               "pinyin": "shù zhí",
-              "meaning": "汇报职责",
+              "meaning": "诸侯向天子汇报治理情况",
               "type": "实词"
             },
             {
               "word": "城池",
               "pinyin": "chéng chí",
-              "meaning": "城墙护城河",
+              "meaning": "城墙和护城河",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构‘城池高深’之间，取消句子独立性",
               "type": "虚词"
             },
             {
@@ -943,23 +921,17 @@
               "pinyin": "gāo shēn",
               "meaning": "高大深邃",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "关阨之严固，必曰：“此朕栉风沐雨，战胜攻取之所致也。中夏之广，益思有以保之。”",
-          "translation": "关隘的险要坚固，必定说：“这是我栉风沐雨，战胜攻取所得到的。中原的广阔，更加思考如何保卫它。”",
-          "words": [
+            },
             {
               "word": "关阨",
               "pinyin": "guān è",
-              "meaning": "关隘",
+              "meaning": "关隘险要之地",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构‘关阨严固’之间，取消句子独立性",
               "type": "虚词"
             },
             {
@@ -971,7 +943,7 @@
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
+              "meaning": "副词，一定",
               "type": "虚词"
             },
             {
@@ -983,55 +955,55 @@
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "代词，这",
               "type": "虚词"
             },
             {
               "word": "朕",
               "pinyin": "zhèn",
-              "meaning": "皇帝自称",
-              "type": "实词"
+              "meaning": "第一人称代词，我，秦始皇以后专用为皇帝自称",
+              "type": "虚词"
             },
             {
               "word": "栉风沐雨",
               "pinyin": "zhì fēng mù yǔ",
-              "meaning": "辛苦劳作",
+              "meaning": "典故，以风梳头，以雨洗头，形容奔波劳苦，不避风雨。语出《庄子·天下》",
               "type": "典故"
             },
             {
               "word": "战胜攻取",
               "pinyin": "zhàn shèng gōng qǔ",
-              "meaning": "战争取胜",
+              "meaning": "作战获胜，攻占城池",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
               "word": "所致",
               "pinyin": "suǒ zhì",
-              "meaning": "所导致",
+              "meaning": "得到的结果",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             },
             {
               "word": "中夏",
               "pinyin": "zhōng xià",
-              "meaning": "中国",
+              "meaning": "古义：中原地区（非今义‘中国’）",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
@@ -1043,7 +1015,7 @@
             {
               "word": "益",
               "pinyin": "yì",
-              "meaning": "更加",
+              "meaning": "副词，更加",
               "type": "虚词"
             },
             {
@@ -1055,432 +1027,685 @@
             {
               "word": "有以",
               "pinyin": "yǒu yǐ",
-              "meaning": "有办法",
+              "meaning": "固定结构，通‘有所以’，义为有办法、有用来…的办法",
               "type": "虚词"
             },
             {
               "word": "保",
               "pinyin": "bǎo",
-              "meaning": "保护",
+              "meaning": "保卫，守护",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代‘中夏’（中原地区）",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "见波涛之浩荡，风帆之上下，番舶接迹而来庭，蛮琛联肩而入贡，必曰：“此朕德绥威服，覃及内外之所及也。",
-          "translation": "看到波涛的浩荡，风帆的上下，外国船只接连而来朝见，蛮夷珍宝联肩而入贡，必定说：“这是我以德安抚、以威制服，遍及内外所达到的。”",
-          "words": []
+          "translation": "看到波涛浩荡，风帆起伏，外国船只接连不断地来到朝廷，蛮地的珍宝联肩入贡，必定说：“这是我用德安抚、用威制服，延伸到内外所达到的。”",
+          "words": [
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "动词，看见",
+              "type": "实词"
+            },
+            {
+              "word": "波涛",
+              "pinyin": "bō tāo",
+              "meaning": "名词，大的波浪",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，用于主谓之间，取消“波涛浩荡”这个主谓结构的独立性，使其成为“见”的宾语",
+              "type": "虚词"
+            },
+            {
+              "word": "浩荡",
+              "pinyin": "hào dàng",
+              "meaning": "形容词，水势广阔壮大的样子",
+              "type": "实词"
+            },
+            {
+              "word": "风帆",
+              "pinyin": "fēng fān",
+              "meaning": "名词，船帆，借指船只",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，用于主谓之间，取消“风帆上下”这个主谓结构的独立性，使其成为“见”的宾语",
+              "type": "虚词"
+            },
+            {
+              "word": "上下",
+              "pinyin": "shàng xià",
+              "meaning": "动词，指船只随波起伏航行",
+              "type": "实词"
+            },
+            {
+              "word": "番舶",
+              "pinyin": "fān bó",
+              "meaning": "名词，外国来的船只",
+              "type": "实词"
+            },
+            {
+              "word": "接迹",
+              "pinyin": "jiē jì",
+              "meaning": "动词，足迹相接，形容接连不断",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接状语“接迹”和动词“来”，表修饰关系",
+              "type": "虚词"
+            },
+            {
+              "word": "来庭",
+              "pinyin": "lái tíng",
+              "meaning": "动词，前来朝见天子",
+              "type": "实词"
+            },
+            {
+              "word": "蛮琛",
+              "pinyin": "mán chēn",
+              "meaning": "名词，蛮地的珍宝，指外国贡品",
+              "type": "实词"
+            },
+            {
+              "word": "联肩",
+              "pinyin": "lián jiān",
+              "meaning": "动词，肩膀挨着肩膀，形容络绎不绝",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接状语“联肩”和动词“入”，表修饰关系",
+              "type": "虚词"
+            },
+            {
+              "word": "入贡",
+              "pinyin": "rù gòng",
+              "meaning": "动词，进献贡品",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "副词，一定",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
+              "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "指示代词，这些（景象）",
+              "type": "虚词"
+            },
+            {
+              "word": "朕",
+              "pinyin": "zhèn",
+              "meaning": "人称代词，皇帝自称",
+              "type": "虚词"
+            },
+            {
+              "word": "德绥",
+              "pinyin": "dé suí",
+              "meaning": "动词，用德行安抚",
+              "type": "实词"
+            },
+            {
+              "word": "威服",
+              "pinyin": "wēi fú",
+              "meaning": "动词，用威势使臣服",
+              "type": "实词"
+            },
+            {
+              "word": "覃及",
+              "pinyin": "tán jí",
+              "meaning": "动词，延及，遍及",
+              "type": "实词"
+            },
+            {
+              "word": "内外",
+              "pinyin": "nèi wài",
+              "meaning": "名词，指朝廷内外，或泛指天下",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，用于定语“覃及内外”和中心语“所及”之间，表示领属关系，相当于“的”",
+              "type": "虚词"
+            },
+            {
+              "word": "所及",
+              "pinyin": "suǒ jí",
+              "meaning": "所字结构，“所”+动词“及”，指达到的范围",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定",
+              "type": "虚词"
+            }
+          ]
         }
       ]
     },
     {
       "original": "四陲之远，益思有以柔之。”见两岸之间、四郊之上，耕人有炙肤皲足之烦，农女有捋桑行馌之勤，必曰：“此朕拔诸水火，而登于衽席者也。万方之民，益思有以安之。”触类而思，不一而足。臣知斯楼之建，皇上所以发舒精神，因物兴感，无不寓其致治之思，奚止阅夫长江而已哉！",
-      "translation": "对于四方的边远地区，更加思考如何安抚它们。看到长江两岸之间、四郊之上，耕作的农人有皮肤晒伤、脚皲裂的辛苦，农家妇女有采摘桑叶、送饭到田间的勤劳，皇帝一定会说：“这是我把他们从水深火热中拯救出来，让他们安居乐业。对于四方的百姓，更加思考如何安抚他们。”触类旁通地思考，这样的事情不止一件。我知道这座楼的建造，皇上用来舒展精神，借物抒情，无不寄托他治理国家的思考，哪里只是观赏长江而已呢！",
+      "translation": "对于遥远的四方边疆，更加思考如何安抚它们。看到长江两岸之间、四郊之上，农夫有皮肤被晒伤、脚跟冻裂的劳苦，农妇有采桑、送饭的辛勤，必定会说：“这是我将他们从水火中拯救出来，安置在床席上的啊。对于天下的百姓，更加思考如何安定他们。”类似这样的思考，不止一个，还有很多。臣知道这座楼的建造，是皇上用来舒展精神、借外物引发感慨的，无不寄托着他达到治理的思考，何止是观赏长江而已呢！",
       "sentences": [
         {
-          "original": "四陲之远，益思有以柔之。",
-          "translation": "对于四方的边远地区，更加思考如何安抚它们。",
+          "original": "四陲之远，益思有以柔之。”",
+          "translation": "对于遥远的四方边疆，更加思考如何安抚它们。",
           "words": [
             {
               "word": "四陲",
               "pinyin": "sì chuí",
-              "meaning": "四方边远",
+              "meaning": "四方边疆",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，连接定语'四陲'和中心词'远'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "远",
               "pinyin": "yuǎn",
-              "meaning": "遥远",
+              "meaning": "形容词作名词，指遥远的地方",
               "type": "实词"
             },
             {
               "word": "益",
               "pinyin": "yì",
-              "meaning": "更加",
-              "type": "虚词"
+              "meaning": "副词，更加",
+              "type": "实词"
             },
             {
               "word": "思",
               "pinyin": "sī",
-              "meaning": "思考",
+              "meaning": "动词，思考、考虑",
               "type": "实词"
             },
             {
               "word": "有以",
               "pinyin": "yǒu yǐ",
-              "meaning": "有办法",
+              "meaning": "固定结构，有办法、用来",
               "type": "虚词"
             },
             {
               "word": "柔",
               "pinyin": "róu",
-              "meaning": "安抚",
+              "meaning": "动词，安抚、怀柔",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代'四陲之远'的边疆地区",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "见两岸之间、四郊之上，耕人有炙肤皲足之烦，农女有捋桑行馌之勤，必曰：“此朕拔诸水火，而登于衽席者也。万方之民，益思有以安之。”",
-          "translation": "看到长江两岸之间、四郊之上，耕作的农人有皮肤晒伤、脚皲裂的辛苦，农家妇女有采摘桑叶、送饭到田间的勤劳，皇帝一定会说：“这是我把他们从水深火热中拯救出来，让他们安居乐业。对于四方的百姓，更加思考如何安抚他们。”",
+          "translation": "看到长江两岸之间、四郊之上，农夫有皮肤被晒伤、脚跟冻裂的劳苦，农妇有采桑、送饭的辛勤，必定会说：“这是我将他们从水火中拯救出来，安置在床席上的啊。对于天下的百姓，更加思考如何安定他们。”",
           "words": [
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "动词，看见",
               "type": "实词"
             },
             {
               "word": "两岸",
               "pinyin": "liǎng àn",
-              "meaning": "两岸",
-              "type": "实词"
-            },
-            {
-              "word": "之间",
-              "pinyin": "zhī jiān",
-              "meaning": "中间",
-              "type": "虚词"
-            },
-            {
-              "word": "四郊",
-              "pinyin": "sì jiāo",
-              "meaning": "四郊",
-              "type": "实词"
-            },
-            {
-              "word": "之上",
-              "pinyin": "zhī shàng",
-              "meaning": "上面",
-              "type": "虚词"
-            },
-            {
-              "word": "耕人",
-              "pinyin": "gēng rén",
-              "meaning": "耕者",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "炙肤皲足",
-              "pinyin": "zhì fū jūn zú",
-              "meaning": "肤裂足伤",
+              "meaning": "河流的两边",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，连接'两岸'和'间'，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "间",
+              "pinyin": "jiān",
+              "meaning": "名词，中间、之间",
+              "type": "实词"
+            },
+            {
+              "word": "四郊",
+              "pinyin": "sì jiāo",
+              "meaning": "都城四周的地区",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，连接'四郊'和'上'，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "名词，上面、之上",
+              "type": "实词"
+            },
+            {
+              "word": "耕人",
+              "pinyin": "gēng rén",
+              "meaning": "耕作的人，农民",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，有、存在",
+              "type": "实词"
+            },
+            {
+              "word": "炙肤",
+              "pinyin": "zhì fū",
+              "meaning": "皮肤被烈日晒伤",
+              "type": "实词"
+            },
+            {
+              "word": "皲足",
+              "pinyin": "jūn zú",
+              "meaning": "脚部皮肤冻裂或磨损",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，连接'炙肤皲足'和'烦'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "烦",
               "pinyin": "fán",
-              "meaning": "烦恼",
+              "meaning": "名词，烦劳、辛苦",
               "type": "实词"
             },
             {
               "word": "农女",
               "pinyin": "nóng nǚ",
-              "meaning": "农妇",
+              "meaning": "农家妇女",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，有、存在",
               "type": "实词"
             },
             {
-              "word": "捋桑行馌",
-              "pinyin": "luō sāng xíng yè",
-              "meaning": "采桑送饭",
+              "word": "捋桑",
+              "pinyin": "luō sāng",
+              "meaning": "采摘桑叶",
+              "type": "实词"
+            },
+            {
+              "word": "行馌",
+              "pinyin": "xíng yè",
+              "meaning": "送饭到田间",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，连接'捋桑行馌'和'勤'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "勤",
               "pinyin": "qín",
-              "meaning": "勤劳",
+              "meaning": "名词，辛勤、劳苦",
               "type": "实词"
             },
             {
-              "word": "必曰",
-              "pinyin": "bì yuē",
-              "meaning": "必说",
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "副词，一定、必然",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "代词，这、这些",
+              "type": "虚词"
             },
             {
               "word": "朕",
               "pinyin": "zhèn",
-              "meaning": "我（皇帝）",
+              "meaning": "代词，皇帝自称",
+              "type": "虚词"
+            },
+            {
+              "word": "拔",
+              "pinyin": "bá",
+              "meaning": "动词，拯救、提拔",
               "type": "实词"
             },
             {
-              "word": "拔诸水火",
-              "pinyin": "bá zhū shuǐ huǒ",
-              "meaning": "救出水火",
+              "word": "诸",
+              "pinyin": "zhū",
+              "meaning": "合音字，相当于'之于'",
+              "type": "虚词"
+            },
+            {
+              "word": "水火",
+              "pinyin": "shuǐ huǒ",
+              "meaning": "比喻深重的苦难",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，表顺承，然后",
               "type": "虚词"
             },
             {
-              "word": "登于衽席",
-              "pinyin": "dēng yú rèn xí",
-              "meaning": "安居乐业",
+              "word": "登",
+              "pinyin": "dēng",
+              "meaning": "动词，登上、升到",
               "type": "实词"
             },
             {
-              "word": "者也",
-              "pinyin": "zhě yě",
-              "meaning": "语气词",
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，到、在",
+              "type": "虚词"
+            },
+            {
+              "word": "衽席",
+              "pinyin": "rèn xí",
+              "meaning": "床席，比喻安逸的居处",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，与'也'连用表判断，……的人",
+              "type": "虚词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             },
             {
               "word": "万方",
               "pinyin": "wàn fāng",
-              "meaning": "四方",
+              "meaning": "天下各地",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，连接'万方'和'民'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "百姓",
+              "meaning": "名词，百姓",
               "type": "实词"
             },
             {
-              "word": "益思",
-              "pinyin": "yì sī",
-              "meaning": "更思考",
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "副词，更加",
               "type": "实词"
             },
             {
-              "word": "有以安之",
-              "pinyin": "yǒu yǐ ān zhī",
-              "meaning": "有法安抚",
+              "word": "思",
+              "pinyin": "sī",
+              "meaning": "动词，思考、考虑",
               "type": "实词"
+            },
+            {
+              "word": "有以",
+              "pinyin": "yǒu yǐ",
+              "meaning": "固定结构，有办法、用来",
+              "type": "虚词"
+            },
+            {
+              "word": "安",
+              "pinyin": "ān",
+              "meaning": "动词，安抚、使安定",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代'万方之民'",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "触类而思，不一而足。",
-          "translation": "触类旁通地思考，这样的事情不止一件。",
+          "translation": "类似这样的思考，不止一个，还有很多。",
           "words": [
             {
               "word": "触类",
               "pinyin": "chù lèi",
-              "meaning": "接触同类",
-              "type": "实词"
+              "meaning": "接触到同类事物。成语‘触类旁通’之省，表示由此及彼的思考。",
+              "type": "典故"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，连接状语‘触类’和动词‘思’，表示承接关系。",
               "type": "虚词"
             },
             {
               "word": "思",
               "pinyin": "sī",
-              "meaning": "思考",
+              "meaning": "动词，思考。",
               "type": "实词"
             },
             {
               "word": "不一而足",
               "pinyin": "bù yī ér zú",
-              "meaning": "不止一个",
-              "type": "实词"
+              "meaning": "成语，原指不是一事一物可以满足，后形容同类事物很多，不止一次或一个。",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，用于主谓短语‘不一而足’之间，取消其独立性，使其作‘思’的宾语。",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "臣知斯楼之建，皇上所以发舒精神，因物兴感，无不寓其致治之思，奚止阅夫长江而已哉！",
-          "translation": "我知道这座楼的建造，皇上用来舒展精神，借物抒情，无不寄托他治理国家的思考，哪里只是观赏长江而已呢！",
+          "translation": "臣知道这座楼的建造，是皇上用来舒展精神、借外物引发感慨的，无不寄托着他达到治理的思考，何止是观赏长江而已呢！",
           "words": [
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
+              "meaning": "名词，臣子，作者宋濂自称。",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道，明白。",
               "type": "实词"
             },
             {
-              "word": "斯楼",
-              "pinyin": "sī lóu",
-              "meaning": "这座楼",
+              "word": "斯",
+              "pinyin": "sī",
+              "meaning": "指示代词，此，这。",
+              "type": "虚词"
+            },
+            {
+              "word": "楼",
+              "pinyin": "lóu",
+              "meaning": "名词，指阅江楼。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主语‘斯楼’和谓语‘建’之间，取消句子独立性，使‘斯楼之建’成为全句宾语的一部分。",
               "type": "虚词"
             },
             {
               "word": "建",
               "pinyin": "jiàn",
-              "meaning": "建造",
+              "meaning": "动词，建造。",
               "type": "实词"
             },
             {
               "word": "皇上",
               "pinyin": "huáng shàng",
-              "meaning": "皇帝",
+              "meaning": "名词，指明太祖朱元璋。",
               "type": "实词"
             },
             {
               "word": "所以",
               "pinyin": "suǒ yǐ",
-              "meaning": "用来",
+              "meaning": "固定结构，与‘发舒精神’连用，表示‘用来……的方式/凭借’。",
               "type": "虚词"
             },
             {
               "word": "发舒",
               "pinyin": "fā shū",
-              "meaning": "舒展",
+              "meaning": "动词，抒发，舒展。",
               "type": "实词"
             },
             {
               "word": "精神",
               "pinyin": "jīng shén",
-              "meaning": "精神",
+              "meaning": "名词，心神，情绪。",
               "type": "实词"
             },
             {
               "word": "因",
               "pinyin": "yīn",
-              "meaning": "借",
+              "meaning": "介词，凭借，通过。",
               "type": "虚词"
             },
             {
               "word": "物",
               "pinyin": "wù",
-              "meaning": "事物",
+              "meaning": "名词，外物，景物。",
               "type": "实词"
             },
             {
-              "word": "兴感",
-              "pinyin": "xīng gǎn",
-              "meaning": "兴起感慨",
+              "word": "兴",
+              "pinyin": "xīng",
+              "meaning": "动词，兴起，产生。",
+              "type": "实词"
+            },
+            {
+              "word": "感",
+              "pinyin": "gǎn",
+              "meaning": "名词，感触，感想。",
               "type": "实词"
             },
             {
               "word": "无不",
               "pinyin": "wú bù",
-              "meaning": "没有不",
+              "meaning": "副词，没有不，表示毫无例外。",
               "type": "虚词"
             },
             {
               "word": "寓",
               "pinyin": "yù",
-              "meaning": "寄托",
+              "meaning": "动词，寄托，蕴含。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，指代皇上。",
+              "type": "虚词"
             },
             {
               "word": "致治",
               "pinyin": "zhì zhì",
-              "meaning": "治理国家",
+              "meaning": "动词短语，达到太平盛世。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于‘的’。",
               "type": "虚词"
             },
             {
               "word": "思",
               "pinyin": "sī",
-              "meaning": "思想",
+              "meaning": "名词，思虑，谋划。",
               "type": "实词"
             },
             {
               "word": "奚止",
               "pinyin": "xī zhǐ",
-              "meaning": "何止",
+              "meaning": "疑问代词，何止，哪里只是。",
               "type": "虚词"
             },
             {
               "word": "阅",
               "pinyin": "yuè",
-              "meaning": "观看",
+              "meaning": "动词，观赏，阅览。",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "无实义",
+              "meaning": "语气助词，用于句中，舒缓语气，无实义。",
               "type": "虚词"
             },
             {
               "word": "长江",
               "pinyin": "cháng jiāng",
-              "meaning": "长江",
-              "type": "地名"
+              "meaning": "专有名词，中国第一大河。",
+              "type": "实词"
             },
             {
               "word": "而已",
               "pinyin": "ér yǐ",
-              "meaning": "罢了",
+              "meaning": "固定结构，语气词连用，表示限止，相当于‘罢了’。",
               "type": "虚词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "啊",
+              "meaning": "句末语气词，与‘奚止’呼应，表反问语气。",
               "type": "虚词"
             }
           ]
@@ -1489,856 +1714,886 @@
     },
     {
       "original": "彼临春、结绮，非不华矣；齐云、落星，非不高矣。不过乐管弦之淫响，藏燕、赵之艳姬，一旋踵间而感慨系之，臣不知其为何说也。虽然，长江发源岷山，委蛇七千馀里而入海，白涌碧翻。六朝之时，往往倚之为天堑。今则南北一家，视为安流，无所事乎战争矣。然则果谁之力欤？逢掖之士，有登斯楼而阅斯江者，当思圣德如天，荡荡难名，与神禹疏凿之功同一罔极。忠君报上之心，其有不油然而兴耶？臣不敏，奉旨撰记。欲上推宵旰图治之功者，勒诸贞珉。他若留连光景之辞，皆略而不陈，惧亵也。",
-      "translation": "那些临春阁、结绮阁，不是不华丽；齐云楼、落星楼，不是不高耸。只不过沉迷于管弦的淫靡之声，藏匿燕赵的艳丽姬妾，一转眼间就感慨系之，我不知道该怎么说。虽然如此，长江发源于岷山，蜿蜒七千多里而入海，白浪涌动，碧波翻滚。六朝时期，常常依靠它作为天堑。如今南北统一为一家，视作平静的河流，不再用于战争了。那么究竟是谁的力量呢？儒生之中，有登上这座楼而观赏这条江的人，应当想到皇帝的恩德如天，广大无边难以形容，与神禹疏导开凿的功绩一样无穷无尽。忠君报效君主的心，难道不会油然而生吗？臣不才，奉旨撰写这篇记。想要推究皇上日夜操劳、励精图治的功绩，刻在石碑上。其他如流连风景的言辞，都省略而不陈述，害怕亵渎。",
+      "translation": "那临春楼、结绮楼，并非不华丽；齐云楼、落星楼，并非不高峻。只不过它们沉溺于管弦的淫靡之音，藏匿燕赵之地的艳丽女子，转瞬间便引人感慨，我不知该如何评说。尽管如此，长江发源于岷山，蜿蜒七千多里而注入大海，白浪碧波翻滚。六朝时期，常常依赖它作为天堑。如今则南北统一，视它为平静的河流，不再需要用于战争了。那么这究竟是谁的力量呢？儒生士人，有登上此楼观赏此江的，应当想到皇帝的恩德如天般广大，浩荡难以形容，与大禹疏导开凿的功绩同样无穷无尽。忠君报效之心，怎能不油然而生呢？臣不聪慧，奉旨撰写这篇记文。想要颂扬皇帝宵衣旰食、励精图治的功绩，将其刻在石碑上。至于其他流连风景的言辞，都省略而不陈述，唯恐亵渎了圣意。",
       "sentences": [
         {
           "original": "彼临春、结绮，非不华矣；齐云、落星，非不高矣。",
-          "translation": "那些临春阁、结绮阁，不是不华丽；齐云楼、落星楼，不是不高耸。",
+          "translation": "那临春楼、结绮楼，并非不华丽；齐云楼、落星楼，并非不高峻。",
           "words": [
             {
               "word": "彼",
               "pinyin": "bǐ",
-              "meaning": "那",
+              "meaning": "指示代词，指代前文提到的临春、结绮等楼阁",
               "type": "虚词"
             },
             {
               "word": "临春",
               "pinyin": "lín chūn",
-              "meaning": "楼阁名",
-              "type": "典故"
+              "meaning": "南朝陈后主所建楼阁名，以华丽著称",
+              "type": "地名"
             },
             {
               "word": "结绮",
               "pinyin": "jié qǐ",
-              "meaning": "楼阁名",
-              "type": "典故"
+              "meaning": "南朝陈后主所建楼阁名，与临春阁齐名",
+              "type": "地名"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "副词，表示否定判断",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "华",
               "pinyin": "huá",
-              "meaning": "华丽",
+              "meaning": "形容词，华丽、华美",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表肯定或感叹",
               "type": "虚词"
             },
             {
               "word": "齐云",
               "pinyin": "qí yún",
-              "meaning": "楼阁名",
-              "type": "典故"
+              "meaning": "唐代所建楼阁名，以高峻著称",
+              "type": "地名"
             },
             {
               "word": "落星",
               "pinyin": "luò xīng",
-              "meaning": "楼阁名",
-              "type": "典故"
-            },
-            {
-              "word": "非",
-              "pinyin": "fēi",
-              "meaning": "不是",
-              "type": "虚词"
-            },
-            {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
+              "meaning": "三国时吴国所建楼阁名，以高峻著称",
+              "type": "地名"
             },
             {
               "word": "高",
               "pinyin": "gāo",
-              "meaning": "高耸",
+              "meaning": "形容词，高大、高耸",
               "type": "实词"
-            },
-            {
-              "word": "矣",
-              "pinyin": "yǐ",
-              "meaning": "了",
-              "type": "虚词"
             }
           ]
         },
         {
           "original": "不过乐管弦之淫响，藏燕、赵之艳姬，一旋踵间而感慨系之，臣不知其为何说也。",
-          "translation": "只不过沉迷于管弦的淫靡之声，藏匿燕赵的艳丽姬妾，一转眼间就感慨系之，我不知道该怎么说。",
+          "translation": "只不过它们沉溺于管弦的淫靡之音，藏匿燕赵之地的艳丽女子，转瞬间便引人感慨，我不知该如何评说。",
           "words": [
             {
               "word": "不过",
               "pinyin": "bù guò",
-              "meaning": "只是",
-              "type": "虚词"
+              "meaning": "古义：只是、仅仅（非今义转折连词）",
+              "type": "实词"
             },
             {
               "word": "乐",
               "pinyin": "lè",
-              "meaning": "喜好",
+              "meaning": "此处读 lè，义为喜好、喜爱",
               "type": "实词"
             },
             {
               "word": "管弦",
               "pinyin": "guǎn xián",
-              "meaning": "音乐",
+              "meaning": "指管乐器和弦乐器，代指音乐",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表修饰关系，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "淫响",
               "pinyin": "yín xiǎng",
-              "meaning": "淫靡之声",
+              "meaning": "淫靡的音乐",
               "type": "实词"
             },
             {
               "word": "藏",
               "pinyin": "cáng",
-              "meaning": "藏匿",
+              "meaning": "动词，收藏、蓄养",
               "type": "实词"
             },
             {
               "word": "燕",
               "pinyin": "yān",
-              "meaning": "燕国",
+              "meaning": "战国时燕国，今河北北部，代指美女产地",
               "type": "地名"
             },
             {
               "word": "赵",
               "pinyin": "zhào",
-              "meaning": "赵国",
+              "meaning": "战国时赵国，今河北南部，代指美女产地",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表修饰关系，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "艳姬",
               "pinyin": "yàn jī",
-              "meaning": "美女",
+              "meaning": "美丽的女子",
               "type": "实词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一",
+              "meaning": "数词，一次",
               "type": "实词"
             },
             {
               "word": "旋踵",
               "pinyin": "xuán zhǒng",
-              "meaning": "转脚跟",
+              "meaning": "转动脚跟，比喻时间极短",
               "type": "实词"
             },
             {
               "word": "间",
               "pinyin": "jiān",
-              "meaning": "之间",
+              "meaning": "名词，期间",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而",
+              "meaning": "连词，表承接关系",
               "type": "虚词"
             },
             {
               "word": "感慨",
               "pinyin": "gǎn kǎi",
-              "meaning": "感叹",
+              "meaning": "名词，感慨的情绪",
               "type": "实词"
             },
             {
-              "word": "系之",
-              "pinyin": "xì zhī",
-              "meaning": "系于它",
+              "word": "系",
+              "pinyin": "xì",
+              "meaning": "动词，连接、随之而来",
               "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代前文所述情况",
+              "type": "虚词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我，作者宋濂自称",
+              "type": "虚词"
             },
             {
-              "word": "不知",
-              "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，知道",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "代词，它，指代这种情况",
               "type": "虚词"
             },
             {
-              "word": "为何说",
-              "pinyin": "wèi hé shuō",
-              "meaning": "为什么说",
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "动词，是",
+              "type": "实词"
+            },
+            {
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "疑问代词，什么",
+              "type": "虚词"
+            },
+            {
+              "word": "说",
+              "pinyin": "shuō",
+              "meaning": "名词，说法、解释",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "呢",
+              "meaning": "句末语气词，表疑问或肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "虽然，长江发源岷山，委蛇七千馀里而入海，白涌碧翻。",
-          "translation": "虽然如此，长江发源于岷山，蜿蜒七千多里而入海，白浪涌动，碧波翻滚。",
+          "translation": "尽管如此，长江发源于岷山，蜿蜒七千多里而注入大海，白浪碧波翻滚。",
           "words": [
             {
               "word": "虽然",
               "pinyin": "suī rán",
-              "meaning": "虽然如此",
+              "meaning": "固定结构，古义：即使这样（非今义转折连词'虽然'）",
               "type": "虚词"
             },
             {
               "word": "长江",
               "pinyin": "cháng jiāng",
-              "meaning": "长江",
-              "type": "实词"
+              "meaning": "中国第一大河，本文所述阅江楼所临之江",
+              "type": "地名"
             },
             {
               "word": "发源",
               "pinyin": "fā yuán",
-              "meaning": "发源于",
+              "meaning": "（河流）开始流出，起源",
               "type": "实词"
             },
             {
               "word": "岷山",
               "pinyin": "mín shān",
-              "meaning": "岷山",
+              "meaning": "山名，在今四川省北部，古人认为是长江发源地",
               "type": "地名"
             },
             {
               "word": "委蛇",
               "pinyin": "wēi yí",
-              "meaning": "蜿蜒",
+              "meaning": "连绵词，同'逶迤'，形容道路、河流等弯弯曲曲、延续不绝的样子",
               "type": "实词"
             },
             {
-              "word": "七千馀里",
-              "pinyin": "qī qiān yú lǐ",
-              "meaning": "七千多里",
+              "word": "七千",
+              "pinyin": "qī qiān",
+              "meaning": "数词，七千",
+              "type": "实词"
+            },
+            {
+              "word": "馀",
+              "pinyin": "yú",
+              "meaning": "通'余'，表示整数后不定的零数",
+              "type": "实词"
+            },
+            {
+              "word": "里",
+              "pinyin": "lǐ",
+              "meaning": "量词，长度单位",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，表示承接关系，连接'委蛇七千馀里'与'入海'",
               "type": "虚词"
             },
             {
-              "word": "入海",
-              "pinyin": "rù hǎi",
-              "meaning": "流入海",
+              "word": "入",
+              "pinyin": "rù",
+              "meaning": "动词，流入，注入",
               "type": "实词"
             },
             {
-              "word": "白涌碧翻",
-              "pinyin": "bái yǒng bì fān",
-              "meaning": "白浪碧波翻滚",
+              "word": "海",
+              "pinyin": "hǎi",
+              "meaning": "名词，大海",
+              "type": "实词"
+            },
+            {
+              "word": "白",
+              "pinyin": "bái",
+              "meaning": "形容词，形容浪花的颜色",
+              "type": "实词"
+            },
+            {
+              "word": "涌",
+              "pinyin": "yǒng",
+              "meaning": "动词，水向上冒",
+              "type": "实词"
+            },
+            {
+              "word": "碧",
+              "pinyin": "bì",
+              "meaning": "形容词，青绿色，形容江水的颜色",
+              "type": "实词"
+            },
+            {
+              "word": "翻",
+              "pinyin": "fān",
+              "meaning": "动词，翻滚，形容波涛汹涌",
               "type": "实词"
             }
           ]
         },
         {
           "original": "六朝之时，往往倚之为天堑。",
-          "translation": "六朝时期，常常依靠它作为天堑。",
+          "translation": "六朝时期，常常依赖它作为天堑。",
           "words": [
             {
               "word": "六朝",
               "pinyin": "liù cháo",
-              "meaning": "六个朝代",
+              "meaning": "朝代合称，指三国吴、东晋、南朝宋、齐、梁、陈，均建都于建康（今南京）",
               "type": "典故"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "时",
               "pinyin": "shí",
-              "meaning": "时候",
+              "meaning": "名词，时期，时代",
               "type": "实词"
             },
             {
               "word": "往往",
               "pinyin": "wǎng wǎng",
-              "meaning": "常常",
-              "type": "虚词"
+              "meaning": "副词，常常，每每",
+              "type": "实词"
             },
             {
               "word": "倚",
               "pinyin": "yǐ",
-              "meaning": "依靠",
+              "meaning": "动词，依靠，凭借",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代上文所述的长江",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，作为，当作",
               "type": "实词"
             },
             {
               "word": "天堑",
               "pinyin": "tiān qiàn",
-              "meaning": "天然壕沟",
+              "meaning": "天然形成的隔断交通的大沟，多指长江，形容其险要，不易逾越",
               "type": "实词"
             }
           ]
         },
         {
           "original": "今则南北一家，视为安流，无所事乎战争矣。",
-          "translation": "如今南北统一为一家，视作平静的河流，不再用于战争了。",
+          "translation": "如今则南北统一，视它为平静的河流，不再需要用于战争了。",
           "words": [
             {
-              "word": "今",
-              "pinyin": "jīn",
-              "meaning": "现在",
-              "type": "实词"
-            },
-            {
-              "word": "则",
-              "pinyin": "zé",
-              "meaning": "那么",
+              "word": "今则",
+              "pinyin": "jīn zé",
+              "meaning": "时间副词与连词连用，表示与上文所述历史情况对比，引出当今状况，可译为‘如今却’。",
               "type": "虚词"
             },
             {
               "word": "南北",
               "pinyin": "nán běi",
-              "meaning": "南方北方",
+              "meaning": "方位名词，指长江南北的地域，泛指全国。",
               "type": "实词"
             },
             {
               "word": "一家",
               "pinyin": "yī jiā",
-              "meaning": "一个整体",
+              "meaning": "数词与名词组合，意为一个整体，指国家统一。",
               "type": "实词"
             },
             {
-              "word": "视为",
-              "pinyin": "shì wéi",
-              "meaning": "看作",
+              "word": "视",
+              "pinyin": "shì",
+              "meaning": "动词，看待、对待。",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "动词，作为、当作。",
               "type": "实词"
             },
             {
               "word": "安流",
               "pinyin": "ān liú",
-              "meaning": "平静河流",
+              "meaning": "偏正短语，平静的河流，比喻太平无事的水道。",
               "type": "实词"
             },
             {
               "word": "无所",
               "pinyin": "wú suǒ",
-              "meaning": "没有",
+              "meaning": "固定结构，‘无’与‘所’字短语结合，表示‘没有……的（地方、事情、原因等）’。",
               "type": "虚词"
             },
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "从事",
+              "meaning": "动词，从事、做。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "于",
+              "meaning": "介词，用法同‘于’，引出动作‘事’的对象。",
               "type": "虚词"
             },
             {
               "word": "战争",
               "pinyin": "zhàn zhēng",
-              "meaning": "战争",
+              "meaning": "名词，武装斗争。",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表肯定和已然的语气，可译为‘了’。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "然则果谁之力欤？",
-          "translation": "那么究竟是谁的力量呢？",
+          "translation": "那么这究竟是谁的力量呢？",
           "words": [
             {
               "word": "然则",
               "pinyin": "rán zé",
-              "meaning": "那么",
+              "meaning": "连词，承接上文，表示‘既然如此，那么……’。",
               "type": "虚词"
             },
             {
               "word": "果",
               "pinyin": "guǒ",
-              "meaning": "究竟",
-              "type": "虚词"
+              "meaning": "副词，究竟、到底。",
+              "type": "实词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁",
-              "type": "实词"
+              "meaning": "疑问代词，什么人。",
+              "type": "虚词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于‘的’。",
               "type": "虚词"
             },
             {
               "word": "力",
               "pinyin": "lì",
-              "meaning": "力量",
+              "meaning": "名词，力量、功劳。",
               "type": "实词"
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，表推测或反问，可译为‘呢’。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "逢掖之士，有登斯楼而阅斯江者，当思圣德如天，荡荡难名，与神禹疏凿之功同一罔极。",
-          "translation": "儒生之中，有登上这座楼而观赏这条江的人，应当想到皇帝的恩德如天，广大无边难以形容，与神禹疏导开凿的功绩一样无穷无尽。",
+          "translation": "儒生士人，有登上此楼观赏此江的，应当想到皇帝的恩德如天般广大，浩荡难以形容，与大禹疏导开凿的功绩同样无穷无尽。",
           "words": [
             {
-              "word": "逢掖",
-              "pinyin": "féng yè",
-              "meaning": "儒生",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "士",
-              "pinyin": "shì",
-              "meaning": "士人",
-              "type": "实词"
+              "word": "逢掖之士",
+              "pinyin": "féng yè zhī shì",
+              "meaning": "典故，语出《礼记·儒行》，逢掖指儒者宽大的衣袖，代指儒生、读书人",
+              "type": "典故"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "登",
               "pinyin": "dēng",
-              "meaning": "登",
+              "meaning": "动词，攀登、登上",
               "type": "实词"
             },
             {
               "word": "斯",
               "pinyin": "sī",
-              "meaning": "这",
+              "meaning": "指示代词，此、这个",
               "type": "虚词"
             },
             {
               "word": "楼",
               "pinyin": "lóu",
-              "meaning": "楼",
+              "meaning": "名词，指阅江楼",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接‘登斯楼’与‘阅斯江’两个动作，表承接关系",
               "type": "虚词"
             },
             {
               "word": "阅",
               "pinyin": "yuè",
-              "meaning": "阅",
+              "meaning": "动词，观看、阅览",
               "type": "实词"
             },
             {
               "word": "斯",
               "pinyin": "sī",
-              "meaning": "这",
+              "meaning": "指示代词，此、这条",
               "type": "虚词"
             },
             {
               "word": "江",
               "pinyin": "jiāng",
-              "meaning": "江",
+              "meaning": "名词，指长江",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，与动词性短语‘有登斯楼而阅斯江’构成‘者’字结构，指代‘……的人’",
               "type": "虚词"
             },
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "应当",
+              "meaning": "副词，应当、应该",
               "type": "实词"
             },
             {
               "word": "思",
               "pinyin": "sī",
-              "meaning": "思考",
+              "meaning": "动词，思考、想到",
               "type": "实词"
             },
             {
               "word": "圣德",
               "pinyin": "shèng dé",
-              "meaning": "圣上德行",
+              "meaning": "名词，圣明的恩德，指皇帝的恩德",
               "type": "实词"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "如",
+              "meaning": "动词，如同、好像",
               "type": "实词"
             },
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "天",
+              "meaning": "名词，天空，比喻广大无边",
               "type": "实词"
             },
             {
               "word": "荡荡",
               "pinyin": "dàng dàng",
-              "meaning": "广阔",
+              "meaning": "形容词，广大无边的样子",
               "type": "实词"
             },
             {
               "word": "难",
               "pinyin": "nán",
-              "meaning": "难以",
+              "meaning": "形容词，难以、不容易",
               "type": "实词"
             },
             {
               "word": "名",
               "pinyin": "míng",
-              "meaning": "形容",
+              "meaning": "动词，形容、称说",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "介词，和、跟",
               "type": "虚词"
             },
             {
               "word": "神禹",
               "pinyin": "shén yǔ",
-              "meaning": "大禹",
-              "type": "典故"
+              "meaning": "人名，即大禹，夏朝建立者，传说中的治水英雄",
+              "type": "人名"
             },
             {
               "word": "疏凿",
               "pinyin": "shū záo",
-              "meaning": "疏凿",
+              "meaning": "动词，疏通开凿（河道）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "功",
               "pinyin": "gōng",
-              "meaning": "功绩",
+              "meaning": "名词，功业、功绩",
               "type": "实词"
             },
             {
               "word": "同一",
               "pinyin": "tóng yī",
-              "meaning": "一样",
+              "meaning": "动词，同样、等同",
               "type": "实词"
             },
             {
               "word": "罔极",
               "pinyin": "wǎng jí",
-              "meaning": "无穷",
+              "meaning": "形容词，无穷尽、无边际",
               "type": "实词"
             }
           ]
         },
         {
           "original": "忠君报上之心，其有不油然而兴耶？",
-          "translation": "忠君报效君主的心，难道不会油然而生吗？",
+          "translation": "忠君报效之心，怎能不油然而生呢？",
           "words": [
             {
-              "word": "忠君",
-              "pinyin": "zhōng jūn",
-              "meaning": "忠于君主",
-              "type": "实词"
-            },
-            {
-              "word": "报上",
-              "pinyin": "bào shàng",
-              "meaning": "报答上级",
-              "type": "实词"
+              "word": "忠君报上",
+              "pinyin": "zhōng jūn bào shàng",
+              "meaning": "典故，指忠于君主、报效上级，是儒家倡导的伦理准则",
+              "type": "典故"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，定语标志，相当于‘的’",
               "type": "虚词"
             },
             {
               "word": "心",
               "pinyin": "xīn",
-              "meaning": "心",
+              "meaning": "名词，心意、思想",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "难道",
+              "meaning": "语气词，表反问语气，难道",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "油然",
-              "pinyin": "yóu rán",
-              "meaning": "自然",
+              "meaning": "副词，表示否定",
               "type": "实词"
             },
             {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
-              "type": "虚词"
-            },
-            {
-              "word": "兴",
-              "pinyin": "xīng",
-              "meaning": "兴起",
-              "type": "实词"
+              "word": "油然而兴",
+              "pinyin": "yóu rán ér xīng",
+              "meaning": "典故，形容思想感情自然而然地产生。‘油然’，自然而然的样子；‘兴’，此处读 xīng，义为兴起、产生",
+              "type": "典故"
             },
             {
               "word": "耶",
               "pinyin": "yé",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问或反问，相当于‘吗’、‘呢’",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "臣不敏，奉旨撰记。",
-          "translation": "臣不才，奉旨撰写这篇记。",
+          "translation": "臣不聪慧，奉旨撰写这篇记文。",
           "words": [
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "臣子",
+              "meaning": "名词，古代官员对君主的自称，此处为作者宋濂自指",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "敏",
               "pinyin": "mǐn",
-              "meaning": "聪敏",
+              "meaning": "形容词，聪慧、才思敏捷",
               "type": "实词"
             },
             {
-              "word": "奉旨",
-              "pinyin": "fèng zhǐ",
-              "meaning": "奉旨",
+              "word": "奉",
+              "pinyin": "fèng",
+              "meaning": "动词，恭敬地接受",
               "type": "实词"
             },
             {
-              "word": "撰记",
-              "pinyin": "zhuàn jì",
-              "meaning": "撰写记文",
+              "word": "旨",
+              "pinyin": "zhǐ",
+              "meaning": "名词，特指皇帝的命令或旨意",
+              "type": "实词"
+            },
+            {
+              "word": "撰",
+              "pinyin": "zhuàn",
+              "meaning": "动词，写作、著述",
+              "type": "实词"
+            },
+            {
+              "word": "记",
+              "pinyin": "jì",
+              "meaning": "名词，一种记叙事物的文体，此处指《阅江楼记》这篇文章",
               "type": "实词"
             }
           ]
         },
         {
           "original": "欲上推宵旰图治之功者，勒诸贞珉。",
-          "translation": "想要推究皇上日夜操劳、励精图治的功绩，刻在石碑上。",
+          "translation": "想要颂扬皇帝宵衣旰食、励精图治的功绩，将其刻在石碑上。",
           "words": [
             {
               "word": "欲",
               "pinyin": "yù",
-              "meaning": "想要",
+              "meaning": "动词，想要、打算",
               "type": "实词"
             },
             {
-              "word": "上推",
-              "pinyin": "shàng tuī",
-              "meaning": "向上推究",
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "方位名词作状语，向上，指对皇帝（的功绩进行推究）",
               "type": "实词"
             },
             {
-              "word": "宵旰图治",
-              "pinyin": "xiāo gàn tú zhì",
-              "meaning": "勤于政务",
+              "word": "推",
+              "pinyin": "tuī",
+              "meaning": "动词，推究、颂扬",
+              "type": "实词"
+            },
+            {
+              "word": "宵旰",
+              "pinyin": "xiāo gàn",
+              "meaning": "典故，固定短语，'宵衣旰食'的省称，形容帝王勤于政事",
               "type": "典故"
+            },
+            {
+              "word": "图治",
+              "pinyin": "tú zhì",
+              "meaning": "动词短语，谋求治理好国家",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接修饰语'宵旰图治'与中心语'功'",
               "type": "虚词"
             },
             {
               "word": "功",
               "pinyin": "gōng",
-              "meaning": "功绩",
+              "meaning": "名词，功绩、功业",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，用于动词短语'欲上推宵旰图治之功'后，构成名词性结构，指代'...的事情'",
               "type": "虚词"
             },
             {
               "word": "勒",
               "pinyin": "lè",
-              "meaning": "刻",
+              "meaning": "动词，刻",
               "type": "实词"
             },
             {
               "word": "诸",
               "pinyin": "zhū",
-              "meaning": "之于",
+              "meaning": "兼词，相当于'之于'（'之'指代功绩，'于'引出处所）",
               "type": "虚词"
             },
             {
               "word": "贞珉",
               "pinyin": "zhēn mín",
-              "meaning": "碑石",
+              "meaning": "名词，石碑的美称，'贞'指坚石，'珉'似玉的美石",
               "type": "实词"
             }
           ]
         },
         {
           "original": "他若留连光景之辞，皆略而不陈，惧亵也。",
-          "translation": "其他如流连风景的言辞，都省略而不陈述，害怕亵渎。",
+          "translation": "至于其他流连风景的言辞，都省略而不陈述，唯恐亵渎了圣意。",
           "words": [
             {
               "word": "他若",
               "pinyin": "tā ruò",
-              "meaning": "至于其他",
+              "meaning": "指示代词与动词组合，表示‘其他像……’，用于引出与前述内容（指圣德神功）不同的、次要的一类事物。",
               "type": "虚词"
             },
             {
               "word": "留连光景",
               "pinyin": "liú lián guāng jǐng",
-              "meaning": "留恋景色",
-              "type": "典故"
+              "meaning": "动宾短语，指留恋、沉醉于风光景物。",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语‘留连光景’与中心语‘辞’，相当于‘的’。",
               "type": "虚词"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "言辞",
+              "meaning": "名词，指文辞、言辞。",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "范围副词，表示总括，意为‘都’、‘全部’。",
               "type": "虚词"
             },
             {
-              "word": "略",
-              "pinyin": "lüè",
-              "meaning": "省略",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
+              "word": "略而",
+              "pinyin": "lüè ér",
+              "meaning": "动词与连词组合，‘略’指省略、简略，‘而’表承接，合起来表示‘省略而’。",
               "type": "虚词"
             },
             {
               "word": "不陈",
               "pinyin": "bù chén",
-              "meaning": "不陈述",
+              "meaning": "副词与动词组合，‘不’表否定，‘陈’指陈述、铺陈，合起来意为‘不陈述’。",
               "type": "实词"
             },
             {
               "word": "惧",
               "pinyin": "jù",
-              "meaning": "害怕",
+              "meaning": "动词，表示担心、害怕。",
               "type": "实词"
             },
             {
               "word": "亵",
               "pinyin": "xiè",
-              "meaning": "亵渎",
+              "meaning": "形容词，指轻慢、不庄重。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，用于判断句末，表肯定与确认语气。",
               "type": "虚词"
             }
           ]

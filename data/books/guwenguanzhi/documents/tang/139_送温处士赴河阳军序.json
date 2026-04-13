@@ -1,191 +1,193 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "139_送温处士赴河阳军序",
   "title": "送温处士赴河阳军序",
   "author": {
     "id": "tang_韩愈",
     "name": "韩愈",
     "dynasty": "tang",
-    "bio": "韩愈（768年－824年），字退之，河南河阳人，世称韩昌黎。唐代文学家、思想家，古文运动的倡导者，唐宋八大家之首。官至吏部侍郎。提倡‘文以载道’，反对骈文，其散文气势雄健，对后世影响深远。代表作有《师说》《马说》等。"
+    "bio": "韩愈（768-824），字退之，河南河阳人，世称韩昌黎。唐代文学家、思想家。官至吏部侍郎，曾任监察御史、国子博士等职。因谏迎佛骨被贬潮州刺史。倡导古文运动，反对骈俪文风，为唐宋八大家之首。代表作有《师说》、《进学解》、《祭十二郎文》等，对后世散文影响深远。"
   },
   "source": "",
   "dynasty": "tang",
   "volume": 8,
-  "background": "《送温处士赴河阳军序》写于唐宪宗元和年间，韩愈在东都洛阳任职期间。当时，河阳军节度使乌重胤（文中称乌公）镇守河阳，积极选拔人才。温处士和石生是东都的隐士，相继被乌公征召入幕。韩愈时任河南县令，与二人交好。文章背景涉及唐代藩镇制度下，节度使自行辟署僚属的现象，以及韩愈对人才外流的复杂情感。他既为人才得遇明主而喜，又为东都士人减少、个人失去良友而忧。此文反映了中唐时期人才选拔的社会现实和韩愈的个人境遇。",
-  "appreciation": "本文以伯乐相马的典故开篇，生动引出人才选拔主题。运用类比手法，将东都比作冀北，乌公比作伯乐，贴切自然。结构上，先设问解疑，再叙述事件，最后议论抒情，层次分明。语言简洁明快，体现了韩愈古文‘文以载道’的特点。主题深刻，既歌颂识才用才的明主，又表达个人对友人离去的惆怅。文中‘伯乐一过冀北之野，而马群遂空’成为名句，流传后世。全文情感真挚，逻辑严密，展现了韩愈散文雄健明快、情理交融的风格，是唐代赠序文的佳作。",
+  "background": "本文作于唐宪宗元和年间（约806-820年），时藩镇割据，河阳军节度使乌重胤（乌公）镇守河阳，积极招募人才。韩愈时任河南令或东都附近官职，身处洛阳。温处士（温生）与石处士（石生）为东都隐居才士，被乌公以礼征召入幕。韩愈写此序送别温生，动机在于祝贺人才得用，同时抒发因友人被征召而产生的个人感慨，反映中唐人才流动与地方军政关系。",
+  "appreciation": "本文为赠序文体，以议论为主干，结构严谨。开篇借伯乐相马典故比喻人才选拔，引出东都如“冀北”人才被取；中间叙事乌公征召温生、石生之事，并铺陈人才流失对东都的影响；结尾转向抒情，表达对天下得人的祝贺与个人失伴的私怨，形成公私对照。艺术上，善用比喻与排比，如“朝取一人焉，拔其尤；暮取一人焉，拔其尤”，语言简练雄健，节奏明快，体现韩愈散文的议论锋芒。思想内涵聚焦人才政治价值，强调“相与将”为国托重，同时流露士大夫的私人情感，展现公义与私情的张力。作为古文运动实践，此文以散代骈，逻辑清晰，是唐代赠序文的典型。",
   "tags": [
-    "人才选拔",
-    "古文运动",
-    "送别序"
+    "序跋",
+    "议论",
+    "政治",
+    "人物"
   ],
   "paragraphs": [
     {
       "original": "伯乐一过冀北之野，而马群遂空。夫冀北马多天下，伯乐虽善知马，安能空其群邪？解之者曰：吾所谓空，非无马也，无良马也。伯乐知马，遇其良，辄取之，群无留良焉。苟无良，虽谓无马，不为虚语矣。",
-      "translation": "伯乐一经过冀北的原野，马群就空了。冀北的马是天下最多的，伯乐虽然善于识马，怎么能使马群空呢？解释的人说：我所说的空，不是没有马，而是没有良马。伯乐识马，遇到良马就取走，马群中就没有留下良马了。如果没有良马，即使说没有马，也不算是假话。",
+      "translation": "伯乐一经过冀北的原野，马群就空虚了。冀北的马比天下任何地方都多，伯乐虽然善于识马，怎么能使马群空虚呢？解释的人说：我所说的空，不是没有马，而是没有良马。伯乐识马，遇到良马就取走它，马群中就没有留下良马了。如果没有良马，即使说没有马，也不算虚假的话。",
       "sentences": [
         {
           "original": "伯乐一过冀北之野，而马群遂空。",
-          "translation": "伯乐一经过冀北的原野，马群就空了。",
+          "translation": "伯乐一经过冀北的原野，马群就空虚了。",
           "words": [
             {
               "word": "伯乐",
               "pinyin": "bó lè",
-              "meaning": "古代善相马者",
+              "meaning": "春秋时期善于相马的人，姓孙名阳。本文中作为识才者的象征。",
               "type": "人名"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一次",
+              "meaning": "数词，一次。",
               "type": "实词"
             },
             {
               "word": "过",
               "pinyin": "guò",
-              "meaning": "经过",
+              "meaning": "动词，经过。",
               "type": "实词"
             },
             {
               "word": "冀北",
               "pinyin": "jì běi",
-              "meaning": "冀州北部",
+              "meaning": "地名，冀州北部，古代著名产马之地。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，定语标志，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "野",
               "pinyin": "yě",
-              "meaning": "原野",
+              "meaning": "名词，原野。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "于是",
+              "meaning": "连词，表示承接关系，可不译。",
               "type": "虚词"
             },
             {
               "word": "马群",
               "pinyin": "mǎ qún",
-              "meaning": "马群",
+              "meaning": "名词，马匹群体。",
               "type": "实词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "就",
+              "meaning": "副词，表示动作行为的结果，于是、就。",
               "type": "虚词"
             },
             {
               "word": "空",
               "pinyin": "kōng",
-              "meaning": "空虚",
+              "meaning": "此处读 kōng，义为（马群）变得空虚。结合下文，特指没有良马。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "夫冀北马多天下，伯乐虽善知马，安能空其群邪？",
-          "translation": "冀北的马是天下最多的，伯乐虽然善于识马，怎么能使马群空呢？",
+          "translation": "冀北的马比天下任何地方都多，伯乐虽然善于识马，怎么能使马群空虚呢？",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首语气词，表示将发议论，可不译。",
               "type": "虚词"
             },
             {
               "word": "冀北",
               "pinyin": "jì běi",
-              "meaning": "冀州北部",
+              "meaning": "地名，冀州北部，古代著名产马之地。",
               "type": "地名"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹。",
               "type": "实词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多于",
+              "meaning": "形容词活用为动词，比……多。“多天下”即“多于天下”，比天下（其他地方）多。",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "名词，指天下各地。",
               "type": "实词"
             },
             {
               "word": "伯乐",
               "pinyin": "bó lè",
-              "meaning": "古代善相马者",
+              "meaning": "春秋时期善于相马的人，姓孙名阳。本文中作为识才者的象征。",
               "type": "人名"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步，虽然。",
               "type": "虚词"
             },
             {
               "word": "善",
               "pinyin": "shàn",
-              "meaning": "善于",
+              "meaning": "动词，擅长、善于。",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "识别",
+              "meaning": "动词，识别、了解。",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹。",
               "type": "实词"
             },
             {
               "word": "安",
               "pinyin": "ān",
-              "meaning": "怎么",
+              "meaning": "疑问代词，表示反问，怎么、哪里。",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能愿动词，能够。",
+              "type": "实词"
             },
             {
               "word": "空",
               "pinyin": "kōng",
-              "meaning": "使空虚",
+              "meaning": "此处读 kōng，使动用法，使……空虚。此处指将良马全部取走，使马群中没有良马。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代冀北的。",
               "type": "虚词"
             },
             {
               "word": "群",
               "pinyin": "qún",
-              "meaning": "群体",
+              "meaning": "名词，马群。",
               "type": "实词"
             },
             {
               "word": "邪",
               "pinyin": "yé",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示反问，相当于“呢”、“吗”。",
               "type": "虚词"
             }
           ]
@@ -195,267 +197,237 @@
           "translation": "解释的人说：我所说的空，不是没有马，而是没有良马。",
           "words": [
             {
-              "word": "解",
-              "pinyin": "jiě",
-              "meaning": "解释",
+              "word": "解之者",
+              "pinyin": "jiě zhī zhě",
+              "meaning": "者字结构，指下文为‘伯乐一过冀北之野，而马群遂空’这一说法进行解释的人",
               "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "它",
-              "type": "虚词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "的人",
-              "type": "虚词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
+              "meaning": "人称代词，我（指代‘解之者’）",
               "type": "虚词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "所",
+              "word": "所谓",
+              "pinyin": "suǒ wèi",
+              "meaning": "古义：所说的（非今义‘认为’）。固定结构，‘所’+动词‘谓’，指称下文内容",
               "type": "虚词"
-            },
-            {
-              "word": "谓",
-              "pinyin": "wèi",
-              "meaning": "说",
-              "type": "实词"
             },
             {
               "word": "空",
               "pinyin": "kōng",
-              "meaning": "空虚",
+              "meaning": "形容词，空虚，指没有良马",
               "type": "实词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "副词，用于否定判断，不是",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，与‘非’构成‘非…也’否定判断句式，表肯定语气",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
-              "word": "良",
-              "pinyin": "liáng",
-              "meaning": "好的",
-              "type": "实词"
-            },
-            {
-              "word": "马",
-              "pinyin": "mǎ",
-              "meaning": "马",
+              "word": "良马",
+              "pinyin": "liáng mǎ",
+              "meaning": "偏正结构，优良的马匹",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "伯乐知马，遇其良，辄取之，群无留良焉。",
-          "translation": "伯乐识马，遇到良马就取走，马群中就没有留下良马了。",
+          "translation": "伯乐识马，遇到良马就取走它，马群中就没有留下良马了。",
           "words": [
             {
               "word": "伯乐",
-              "pinyin": "Bó Lè",
-              "meaning": "善相马者",
+              "pinyin": "bó lè",
+              "meaning": "春秋时期以善于相马闻名的人物，本文中作为识才者的象征",
               "type": "人名"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "识别",
+              "meaning": "此处读 zhī，义为识别、了解（区别于‘智慧’之‘智’）",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马匹",
+              "meaning": "名词，马匹",
               "type": "实词"
             },
             {
               "word": "遇",
               "pinyin": "yù",
-              "meaning": "遇到",
+              "meaning": "动词，遇到、碰到",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "指示代词，其中的（指代马群中的）",
               "type": "虚词"
             },
             {
               "word": "良",
               "pinyin": "liáng",
-              "meaning": "良马",
+              "meaning": "形容词用作名词，指良马",
               "type": "实词"
             },
             {
               "word": "辄",
               "pinyin": "zhé",
-              "meaning": "就",
+              "meaning": "副词，就、总是",
               "type": "虚词"
             },
             {
               "word": "取",
               "pinyin": "qǔ",
-              "meaning": "选取",
+              "meaning": "动词，选取、拿走",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代上文遇到的‘良马’",
               "type": "虚词"
             },
             {
               "word": "群",
               "pinyin": "qún",
-              "meaning": "马群",
+              "meaning": "名词，指马群",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
-              "word": "留",
-              "pinyin": "liú",
-              "meaning": "留下",
-              "type": "实词"
-            },
-            {
-              "word": "良",
-              "pinyin": "liáng",
-              "meaning": "良马",
+              "word": "留良",
+              "pinyin": "liú liáng",
+              "meaning": "动宾结构，留下良马",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "了",
+              "meaning": "兼词，相当于‘于此’（指代马群中）",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "苟无良，虽谓无马，不为虚语矣。",
-          "translation": "如果没有良马，即使说没有马，也不算是假话。",
+          "translation": "如果没有良马，即使说没有马，也不算虚假的话。",
           "words": [
             {
               "word": "苟",
               "pinyin": "gǒu",
-              "meaning": "如果",
+              "meaning": "连词，表示假设，连接条件分句“无良”，相当于“如果”",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "良",
               "pinyin": "liáng",
-              "meaning": "良马",
+              "meaning": "形容词，好的，这里特指良马",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，表示让步，连接“谓无马”，相当于“即使”",
               "type": "虚词"
             },
             {
               "word": "谓",
               "pinyin": "wèi",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马匹",
+              "meaning": "名词，马匹",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰动词“为”",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为是、算是",
               "type": "实词"
             },
             {
               "word": "虚",
               "pinyin": "xū",
-              "meaning": "虚假",
+              "meaning": "形容词，虚假的",
               "type": "实词"
             },
             {
               "word": "语",
               "pinyin": "yǔ",
-              "meaning": "话语",
+              "meaning": "名词，话语",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表肯定或已然，加强判断语气",
               "type": "虚词"
             }
           ]
@@ -464,688 +436,682 @@
     },
     {
       "original": "东都，固士大夫之冀北也。恃才能深藏而不市者，洛之北涯曰石生，其南涯曰温生。大夫乌公，以𫓧钺镇河阳之三月，以石生为才，以礼为罗，罗而致之幕下。未数月也，以温生为才，于是以石生为媒，以礼为罗，又罗而致之幕下。东都虽信多才士，朝取一人焉，拔其尤；暮取一人焉，拔其尤。自居守河南尹，以及百司之执事，与吾辈二县之大夫，政有所不通，事有所可疑，奚所谘而处焉？",
-      "translation": "东都洛阳，确实是士大夫们的冀北之地。那些凭借才能深藏不露、不愿出仕的人，洛水的北岸叫做石生，南岸叫做温生。大夫乌公，凭借𫓧钺镇守河阳三个月，认为石生有才能，用礼仪作为招揽的手段，将他招揽到幕府中。没过几个月，又认为温生有才能，于是以石生为媒介，用礼仪作为招揽的方式，再次将他招揽到幕府中。东都虽然确实人才众多，但早晨选取一个人，选拔其中最杰出的；傍晚选取一个人，选拔其中最杰出的。从留守河南尹，到各个部门的官员，以及我们这些两个县的大夫，政事有不通顺的地方，事情有可疑之处，到哪里去咨询并处理呢？",
+      "translation": "东都洛阳，确实是士大夫们的冀北之地。那些凭借才能却深藏不露的人，洛水北岸有位石生，南岸有位温生。大夫乌公凭借军权镇守河阳三个月后，认为石生有才，用礼仪作为招聘之礼，将他罗致到幕府中。没过几个月，又认为温生有才，于是通过石生作媒，同样用礼仪招聘，又将他罗致到幕府中。东都虽然确实人才众多，但早上选取一人，选拔最优秀的；傍晚选取一人，也选拔最优秀的。从留守河南尹，到各部门的官员，以及我们这些两个县的大夫，政事有不通达、事情有可疑时，去哪里咨询处理呢？",
       "sentences": [
         {
           "original": "东都，固士大夫之冀北也。",
-          "translation": "东都，确实是士大夫们的冀北之地。",
+          "translation": "东都洛阳，确实是士大夫们的冀北之地。",
           "words": [
             {
               "word": "东都",
               "pinyin": "dōng dū",
-              "meaning": "东都洛阳",
+              "meaning": "指洛阳，唐代以长安为京师，洛阳为东都，是陪都，士人聚集之地。",
               "type": "地名"
             },
             {
               "word": "固",
               "pinyin": "gù",
-              "meaning": "确实",
+              "meaning": "副词，确实、实在，表强调语气。",
               "type": "虚词"
             },
             {
               "word": "士大夫",
               "pinyin": "shì dà fū",
-              "meaning": "官员学者",
+              "meaning": "古代官僚阶层与文人的统称。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'士大夫'与中心语'冀北'。",
               "type": "虚词"
             },
             {
               "word": "冀北",
               "pinyin": "jì běi",
-              "meaning": "人才聚集地",
-              "type": "典故"
+              "meaning": "冀州北部，古代以产良马著称，此处比喻人才聚集之地。",
+              "type": "地名"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "恃才能深藏而不市者，洛之北涯曰石生，其南涯曰温生。",
-          "translation": "那些凭借才能深藏不露、不愿出仕的人，洛水的北岸叫做石生，南岸叫做温生。",
+          "translation": "那些凭借才能却深藏不露的人，洛水北岸有位石生，南岸有位温生。",
           "words": [
             {
               "word": "恃",
               "pinyin": "shì",
-              "meaning": "依靠",
+              "meaning": "动词，依仗、凭借。",
               "type": "实词"
             },
             {
               "word": "才能",
               "pinyin": "cái néng",
-              "meaning": "才能",
+              "meaning": "名词，才智与能力。",
               "type": "实词"
             },
             {
               "word": "深藏",
               "pinyin": "shēn cáng",
-              "meaning": "深藏",
+              "meaning": "动词，深深隐藏，指隐居不仕。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表转折，却。",
               "type": "虚词"
             },
             {
               "word": "不市",
               "pinyin": "bù shì",
-              "meaning": "不显露",
+              "meaning": "市，古义：出售、求官（非今义'市场'）。不市，指不把自己的才能卖与官府，即不求官出仕。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，与前面的动词性短语'恃才能深藏而不市'构成名词性结构，指代'……的人'。",
               "type": "虚词"
             },
             {
               "word": "洛",
               "pinyin": "luò",
-              "meaning": "洛水",
+              "meaning": "水名，洛水，流经洛阳。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'。",
               "type": "虚词"
             },
             {
               "word": "北涯",
               "pinyin": "běi yá",
-              "meaning": "北岸",
+              "meaning": "北岸。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "叫作",
+              "meaning": "动词，叫做、名叫。",
               "type": "实词"
             },
             {
               "word": "石生",
               "pinyin": "shí shēng",
-              "meaning": "石生",
+              "meaning": "即石洪，唐代河阳（今河南孟县）人，隐居不仕，后被河阳节度使乌重胤征召。生，对读书人的尊称。",
               "type": "人名"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代洛水。",
               "type": "虚词"
             },
             {
               "word": "南涯",
               "pinyin": "nán yá",
-              "meaning": "南岸",
+              "meaning": "南岸。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "叫作",
+              "meaning": "动词，叫做、名叫。",
               "type": "实词"
             },
             {
               "word": "温生",
               "pinyin": "wēn shēng",
-              "meaning": "温生",
+              "meaning": "即温造，唐代并州（今山西太原）人，隐居洛阳，后被乌重胤征召。生，对读书人的尊称。",
               "type": "人名"
             }
           ]
         },
         {
           "original": "大夫乌公，以𫓧钺镇河阳之三月，以石生为才，以礼为罗，罗而致之幕下。",
-          "translation": "大夫乌公，凭借𫓧钺镇守河阳三个月，认为石生有才能，用礼仪作为招揽的手段，将他招揽到幕府中。",
+          "translation": "大夫乌公凭借军权镇守河阳三个月后，认为石生有才，用礼仪作为招聘之礼，将他罗致到幕府中。",
           "words": [
             {
               "word": "大夫",
               "pinyin": "dà fū",
-              "meaning": "大夫",
+              "meaning": "官职名，唐代节度使多加御史大夫衔，此为对节度使乌公的尊称。",
               "type": "官职"
             },
             {
               "word": "乌公",
               "pinyin": "wū gōng",
-              "meaning": "乌公",
+              "meaning": "人名，指乌重胤，唐代将领，时任河阳节度使，本文中是征召石生、温生的主帅。",
               "type": "人名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借或工具，此处义为“用”。",
               "type": "虚词"
             },
             {
               "word": "𫓧钺",
               "pinyin": "fū yuè",
-              "meaning": "斧钺军权",
+              "meaning": "古代军中执法用的刑具，借指节度使的军事指挥权与生杀大权。",
               "type": "实词"
             },
             {
               "word": "镇",
               "pinyin": "zhèn",
-              "meaning": "镇守",
+              "meaning": "动词，镇守、统辖。",
               "type": "实词"
             },
             {
               "word": "河阳",
               "pinyin": "hé yáng",
-              "meaning": "河阳",
+              "meaning": "地名，指河阳三城（今河南孟县一带），唐代军事重镇，为河阳军治所。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，连接定语“镇河阳”与中心语“三月”，表示修饰关系，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "三月",
               "pinyin": "sān yuè",
-              "meaning": "三个月",
+              "meaning": "数词+量词，指乌公到任河阳的第三个月。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，引出动作的对象，此处义为“把”。",
               "type": "虚词"
             },
             {
               "word": "石生",
               "pinyin": "shí shēng",
-              "meaning": "石生",
+              "meaning": "人名，指石洪，洛阳才士，本文中先于温生被乌公征召。",
               "type": "人名"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "此处读 wéi，动词，当作、作为。",
               "type": "实词"
             },
             {
               "word": "才",
               "pinyin": "cái",
-              "meaning": "人才",
+              "meaning": "名词，才能、人才。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借，此处义为“用”。",
               "type": "虚词"
             },
             {
               "word": "礼",
               "pinyin": "lǐ",
-              "meaning": "礼仪",
+              "meaning": "名词，指礼节、礼仪。",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "此处读 wéi，动词，当作、作为。",
               "type": "实词"
             },
             {
               "word": "罗",
               "pinyin": "luó",
-              "meaning": "网罗",
+              "meaning": "名词，本指捕鸟的网，此处比喻招纳、延揽人才的手段或方式。",
+              "type": "实词"
+            },
+            {
+              "word": "罗",
+              "pinyin": "luó",
+              "meaning": "动词，用罗网捕取，引申为招致、延请。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，连接“罗”与“致”两个动作，表示承接关系。",
               "type": "虚词"
             },
             {
               "word": "致",
               "pinyin": "zhì",
-              "meaning": "招致",
+              "meaning": "动词，招引、使……到来。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代前文被招致的对象“石生”。",
               "type": "虚词"
             },
             {
               "word": "幕下",
               "pinyin": "mù xià",
-              "meaning": "幕府",
+              "meaning": "名词，指将帅的营帐、幕府，即军政机构。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "未数月也，以温生为才，于是以石生为媒，以礼为罗，又罗而致之幕下。",
-          "translation": "没过几个月，又认为温生有才能，于是以石生为媒介，用礼仪作为招揽的方式，再次将他招揽到幕府中。",
+          "translation": "没过几个月，又认为温生有才，于是通过石生作媒，同样用礼仪招聘，又将他罗致到幕府中。",
           "words": [
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
+              "meaning": "副词，表示否定，没有。",
               "type": "虚词"
             },
             {
               "word": "数月",
               "pinyin": "shù yuè",
-              "meaning": "几个月",
+              "meaning": "数词+量词，几个月。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句中语气词，表示停顿，以舒缓语气。",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，引出动作的对象，此处义为“把”。",
               "type": "虚词"
             },
             {
               "word": "温生",
-              "pinyin": "Wēn shēng",
-              "meaning": "温处士",
+              "pinyin": "wēn shēng",
+              "meaning": "人名，指温造，洛阳才士，本文中继石生之后被乌公征召。",
               "type": "人名"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，当作、作为。",
+              "type": "实词"
             },
             {
               "word": "才",
               "pinyin": "cái",
-              "meaning": "才能",
+              "meaning": "名词，才能、人才。",
               "type": "实词"
             },
             {
-              "word": "于是",
-              "pinyin": "yú shì",
-              "meaning": "于是",
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，引出动作的条件或依据，可译为“在”。",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "代词，指代上文“以温生为才”这种情况。",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借，此处义为“用”。",
               "type": "虚词"
             },
             {
               "word": "石生",
-              "pinyin": "Shí shēng",
-              "meaning": "石处士",
+              "pinyin": "shí shēng",
+              "meaning": "人名，指石洪，此时已被征召，故被用作引荐温生的媒介。",
               "type": "人名"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，当作、作为。",
+              "type": "实词"
             },
             {
               "word": "媒",
               "pinyin": "méi",
-              "meaning": "媒介",
+              "meaning": "名词，媒介、中介，指引荐人。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借，此处义为“用”。",
               "type": "虚词"
             },
             {
               "word": "礼",
               "pinyin": "lǐ",
-              "meaning": "礼仪",
+              "meaning": "名词，指礼节、礼仪。",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，当作、作为。",
+              "type": "实词"
             },
             {
               "word": "罗",
               "pinyin": "luó",
-              "meaning": "网罗",
+              "meaning": "名词，本指捕鸟的网，此处比喻招纳、延揽人才的手段或方式。",
               "type": "实词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示重复或继续，再次。",
               "type": "虚词"
             },
             {
               "word": "罗",
               "pinyin": "luó",
-              "meaning": "网罗",
+              "meaning": "动词，用罗网捕取，引申为招致、延请。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接“罗”与“致”两个动作，表示承接关系。",
               "type": "虚词"
             },
             {
               "word": "致",
               "pinyin": "zhì",
-              "meaning": "招致",
+              "meaning": "动词，招引、使……到来。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代前文被招致的对象“温生”。",
               "type": "虚词"
             },
             {
               "word": "幕下",
               "pinyin": "mù xià",
-              "meaning": "幕府之下",
+              "meaning": "名词，指将帅的营帐、幕府，即军政机构。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "东都虽信多才士，朝取一人焉，拔其尤；暮取一人焉，拔其尤。",
-          "translation": "东都虽然确实人才众多，但早晨选取一个人，选拔其中最杰出的；傍晚选取一个人，选拔其中最杰出的。",
+          "translation": "东都虽然确实人才众多，但早上选取一人，选拔最优秀的；傍晚选取一人，也选拔最优秀的。",
           "words": [
             {
               "word": "东都",
-              "pinyin": "Dōng dū",
-              "meaning": "东都洛阳",
+              "pinyin": "dōng dū",
+              "meaning": "指洛阳。唐以长安为京师，洛阳为东都，是文人荟萃之地。",
               "type": "地名"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表让步，相当于'虽然'。",
               "type": "虚词"
             },
             {
               "word": "信",
               "pinyin": "xìn",
-              "meaning": "确实",
+              "meaning": "副词，确实、的确。此处非'书信'义。",
               "type": "实词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多",
+              "meaning": "动词，有很多。",
               "type": "实词"
             },
             {
               "word": "才士",
               "pinyin": "cái shì",
-              "meaning": "有才之士",
+              "meaning": "有才能的士人。",
               "type": "实词"
             },
             {
               "word": "朝",
               "pinyin": "zhāo",
-              "meaning": "早晨",
+              "meaning": "此处读 zhāo，义为早晨（区别于 cháo 之'朝见'义）。",
               "type": "实词"
             },
             {
               "word": "取",
               "pinyin": "qǔ",
-              "meaning": "选取",
+              "meaning": "动词，选取、选拔。",
               "type": "实词"
             },
             {
               "word": "一人",
               "pinyin": "yī rén",
-              "meaning": "一个人",
+              "meaning": "数量词，一个人。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表陈述语气，兼有指代作用，可不译。",
               "type": "虚词"
             },
             {
               "word": "拔",
               "pinyin": "bá",
-              "meaning": "选拔",
+              "meaning": "动词，选拔、提拔。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "其中的",
+              "meaning": "代词，指代被选拔的'一人'。",
               "type": "虚词"
             },
             {
               "word": "尤",
               "pinyin": "yóu",
-              "meaning": "优秀的",
+              "meaning": "形容词用作名词，指最优秀、最突出的人。",
               "type": "实词"
             },
             {
               "word": "暮",
               "pinyin": "mù",
-              "meaning": "傍晚",
+              "meaning": "名词，傍晚。",
               "type": "实词"
             },
             {
               "word": "取",
               "pinyin": "qǔ",
-              "meaning": "选取",
+              "meaning": "动词，选取、选拔。",
               "type": "实词"
             },
             {
               "word": "一人",
               "pinyin": "yī rén",
-              "meaning": "一个人",
+              "meaning": "数量词，一个人。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表陈述语气，兼有指代作用，可不译。",
               "type": "虚词"
             },
             {
               "word": "拔",
               "pinyin": "bá",
-              "meaning": "选拔",
+              "meaning": "动词，选拔、提拔。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "其中的",
+              "meaning": "代词，指代被选拔的'一人'。",
               "type": "虚词"
             },
             {
               "word": "尤",
               "pinyin": "yóu",
-              "meaning": "优秀的",
+              "meaning": "形容词用作名词，指最优秀、最突出的人。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "自居守河南尹，以及百司之执事，与吾辈二县之大夫，政有所不通，事有所可疑，奚所谘而处焉？",
-          "translation": "从留守河南尹，到各个部门的官员，以及我们这些两个县的大夫，政事有不通顺的地方，事情有可疑之处，到哪里去咨询并处理呢？",
+          "translation": "从留守河南尹，到各部门的官员，以及我们这些两个县的大夫，政事有不通达、事情有可疑时，去哪里咨询处理呢？",
           "words": [
             {
               "word": "自",
               "pinyin": "zì",
-              "meaning": "从",
+              "meaning": "介词，从、由。表示范围的起点。",
               "type": "虚词"
             },
             {
               "word": "居守",
               "pinyin": "jū shǒu",
-              "meaning": "留守",
-              "type": "实词"
+              "meaning": "官职名。指东都留守，皇帝出巡时，留守京城或陪都的重臣，负责政务。",
+              "type": "官职"
             },
             {
               "word": "河南尹",
-              "pinyin": "Hé nán yǐn",
-              "meaning": "河南尹官职",
+              "pinyin": "hé nán yǐn",
+              "meaning": "官职名。东都洛阳所在河南府的行政长官。",
               "type": "官职"
             },
             {
               "word": "以及",
               "pinyin": "yǐ jí",
-              "meaning": "以及",
+              "meaning": "连词，连接并列的词或短语，相当于'和'、'与'。",
               "type": "虚词"
             },
             {
               "word": "百司",
               "pinyin": "bǎi sī",
-              "meaning": "百官",
+              "meaning": "名词，指朝廷各官署、各部门。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'。",
               "type": "虚词"
             },
             {
               "word": "执事",
               "pinyin": "zhí shì",
-              "meaning": "官员",
+              "meaning": "名词，各部门的官员、办事人员。",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "连词，和。",
               "type": "虚词"
             },
             {
               "word": "吾辈",
               "pinyin": "wú bèi",
-              "meaning": "我们",
-              "type": "实词"
+              "meaning": "代词，我们这些人。",
+              "type": "虚词"
             },
             {
               "word": "二县",
               "pinyin": "èr xiàn",
-              "meaning": "两个县",
-              "type": "实词"
+              "meaning": "指东都洛阳城内的河南、洛阳二县。",
+              "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'。",
               "type": "虚词"
             },
             {
               "word": "大夫",
               "pinyin": "dà fū",
-              "meaning": "官员",
-              "type": "实词"
+              "meaning": "官职名。此处指县令，韩愈时任河南县令。",
+              "type": "官职"
             },
             {
               "word": "政",
               "pinyin": "zhèng",
-              "meaning": "政事",
+              "meaning": "名词，政事、政务。",
               "type": "实词"
             },
             {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "所",
+              "word": "有所",
+              "pinyin": "yǒu suǒ",
+              "meaning": "固定结构，'有…的地方'或'有…的事情'。'所'与动词结合，构成名词性结构。",
               "type": "虚词"
             },
             {
               "word": "不通",
               "pinyin": "bù tōng",
-              "meaning": "不通达",
+              "meaning": "动词，不通达、行不通。",
               "type": "实词"
             },
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "事情",
+              "meaning": "名词，事情、事务。",
               "type": "实词"
             },
             {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "所",
+              "word": "有所",
+              "pinyin": "yǒu suǒ",
+              "meaning": "固定结构，'有…的地方'或'有…的事情'。'所'与动词结合，构成名词性结构。",
               "type": "虚词"
             },
             {
               "word": "可疑",
               "pinyin": "kě yí",
-              "meaning": "可疑",
+              "meaning": "动词，值得怀疑、有疑问。",
               "type": "实词"
             },
             {
               "word": "奚",
               "pinyin": "xī",
-              "meaning": "何",
+              "meaning": "疑问代词，哪里、什么。此处作状语，表处所。",
               "type": "虚词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "所",
-              "type": "虚词"
-            },
-            {
-              "word": "谘",
-              "pinyin": "zī",
-              "meaning": "咨询",
+              "word": "所谘",
+              "pinyin": "suǒ zī",
+              "meaning": "所字结构，'所咨询的地方'。谘，同'咨'，咨询。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表顺承，可译为'来'。",
               "type": "虚词"
             },
             {
               "word": "处",
               "pinyin": "chǔ",
-              "meaning": "处理",
+              "meaning": "此处读 chǔ，义为处理、处置（区别于 chù 之'处所'义）。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "疑问语气词，相当于'呢'。",
               "type": "虚词"
             }
           ]
@@ -1154,118 +1120,130 @@
     },
     {
       "original": "士大夫之去位而巷处者，谁与嬉游？小子后生，于何考德而问业焉？缙绅之东西行过是都者，无所礼于其庐。若是而称曰：大夫乌公，一镇河阳，而东都处士之庐无人焉，岂不可也？",
-      "translation": "那些离职而闲居乡里的士大夫，和谁一起交游呢？年轻后辈，到哪里去请教德行和学业呢？过往东都的官员们，也无法到他们的住所去拜访。像这样，说大夫乌公一镇守河阳，东都处士的住所就无人了，难道不是可以的吗？",
+      "translation": "那些辞官而居住在里巷的士大夫，和谁一起游乐呢？年轻人在哪里考察德行和请教学业呢？东西往来经过这座都城的官员们，没有地方可以到他们的住所去行礼拜访。如果这样说：大夫乌公一镇守河阳，而东都处士的住所就无人了，难道不可以吗？",
       "sentences": [
         {
           "original": "士大夫之去位而巷处者，谁与嬉游？",
-          "translation": "那些离开官位而居住在街巷的士大夫，和谁一起游乐交往呢？",
+          "translation": "那些辞官而居住在里巷的士大夫，和谁一起游乐呢？",
           "words": [
             {
               "word": "士大夫",
               "pinyin": "shì dà fū",
-              "meaning": "官员士人阶层",
+              "meaning": "古代官僚阶层，指有官职或功名的人",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，结构助词",
+              "meaning": "助词，用于主语‘士大夫’和谓语部分‘去位而巷处’之间，取消句子独立性，使该结构成为‘者’的定语",
               "type": "虚词"
             },
             {
-              "word": "去位",
-              "pinyin": "qù wèi",
-              "meaning": "离开职位",
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "古义：离开（非今义‘前往’）。此处指离职、离开官位",
+              "type": "实词"
+            },
+            {
+              "word": "位",
+              "pinyin": "wèi",
+              "meaning": "官位，职位",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且，连词",
+              "meaning": "连词，表并列，连接‘去位’和‘巷处’两种状态",
               "type": "虚词"
             },
             {
               "word": "巷处",
               "pinyin": "xiàng chǔ",
-              "meaning": "在巷中居住",
+              "meaning": "居住在里巷之中，指辞官后在民间居住",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，与前面的‘去位而巷处’构成名词性短语，指代‘离职而闲居的人’",
               "type": "虚词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁，疑问代词",
-              "type": "实词"
+              "meaning": "疑问代词，作介词‘与’的宾语，指代‘什么人’",
+              "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和，介词",
+              "meaning": "介词，引进动作的偕同对象，相当于‘跟’、‘和’",
               "type": "虚词"
             },
             {
               "word": "嬉游",
               "pinyin": "xī yóu",
-              "meaning": "游玩嬉戏",
+              "meaning": "游乐，交往游玩",
               "type": "实词"
             }
           ]
         },
         {
           "original": "小子后生，于何考德而问业焉？",
-          "translation": "年轻人后辈，到哪里去考察德行和请教学业呢？",
+          "translation": "年轻人在哪里考察德行和请教学业呢？",
           "words": [
             {
-              "word": "小子",
-              "pinyin": "xiǎo zǐ",
-              "meaning": "年轻人",
-              "type": "实词"
-            },
-            {
-              "word": "后生",
-              "pinyin": "hòu shēng",
-              "meaning": "年轻人",
+              "word": "小子后生",
+              "pinyin": "xiǎo zǐ hòu shēng",
+              "meaning": "指年轻人，后辈学子",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在，介词",
+              "meaning": "介词，表处所，相当于‘在’、‘到’",
               "type": "虚词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "哪里，疑问代词",
+              "meaning": "疑问代词，作介词‘于’的宾语，指代‘什么地方’",
+              "type": "虚词"
+            },
+            {
+              "word": "考",
+              "pinyin": "kǎo",
+              "meaning": "考察，考核",
               "type": "实词"
             },
             {
-              "word": "考德",
-              "pinyin": "kǎo dé",
-              "meaning": "考察德行",
+              "word": "德",
+              "pinyin": "dé",
+              "meaning": "品德，德行",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且，连词",
+              "meaning": "连词，表顺承，连接‘考德’和‘问业’两个动作",
               "type": "虚词"
             },
             {
-              "word": "问业",
-              "pinyin": "wèn yè",
-              "meaning": "询问学业",
+              "word": "问",
+              "pinyin": "wèn",
+              "meaning": "询问，请教",
+              "type": "实词"
+            },
+            {
+              "word": "业",
+              "pinyin": "yè",
+              "meaning": "学业，业务",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词，呢",
+              "meaning": "句末语气词，兼有指代作用，相当于‘于此’（在这里），指代因处士离去而无人可请教的状况",
               "type": "虚词"
             }
           ]
@@ -1277,139 +1255,217 @@
             {
               "word": "缙绅",
               "pinyin": "jìn shēn",
-              "meaning": "官员",
+              "meaning": "指士大夫或官员阶层",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，结构助词",
+              "meaning": "结构助词，用于定语'缙绅'和中心语'东西行过是都者'之间，相当于'的'",
               "type": "虚词"
             },
             {
-              "word": "东西行",
-              "pinyin": "dōng xī xíng",
-              "meaning": "向东或向西行走",
+              "word": "东西",
+              "pinyin": "dōng xī",
+              "meaning": "方位名词，指东方和西方，泛指各处",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "此处读 xíng，义为行走、旅行",
               "type": "实词"
             },
             {
               "word": "过",
               "pinyin": "guò",
-              "meaning": "经过",
+              "meaning": "经过、路过",
               "type": "实词"
             },
             {
-              "word": "是都",
-              "pinyin": "shì dū",
-              "meaning": "这个城市",
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "指示代词，这、这个，指代东都",
+              "type": "虚词"
+            },
+            {
+              "word": "都",
+              "pinyin": "dū",
+              "meaning": "此处读 dū，义为都城，指东都洛阳",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，与'东西行过是都'结合，构成名词性短语，表示'...的人'",
               "type": "虚词"
             },
             {
-              "word": "无所",
-              "pinyin": "wú suǒ",
-              "meaning": "没有地方",
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，没有",
               "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与动词'礼'结合，构成名词性短语'所礼'，表示'行礼的对象'",
+              "type": "虚词"
             },
             {
               "word": "礼",
               "pinyin": "lǐ",
-              "meaning": "行礼",
+              "meaning": "动词，行礼、致敬",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在，介词",
+              "meaning": "介词，引出地点'其庐'，表示'在'",
               "type": "虚词"
             },
             {
-              "word": "其庐",
-              "pinyin": "qí lú",
-              "meaning": "他的住所",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，指代前文提到的处士，他的",
+              "type": "虚词"
+            },
+            {
+              "word": "庐",
+              "pinyin": "lú",
+              "meaning": "名词，简陋的房屋，指处士的住所",
               "type": "实词"
             }
           ]
         },
         {
           "original": "若是而称曰：大夫乌公，一镇河阳，而东都处士之庐无人焉，岂不可也？",
-          "translation": "像这样而说道：大夫乌公，一旦镇守河阳，而东都处士的住所就无人了，难道不可以吗？",
+          "translation": "如果这样说：大夫乌公一镇守河阳，而东都处士的住所就无人了，难道不可以吗？",
           "words": [
             {
-              "word": "若是",
-              "pinyin": "ruò shì",
-              "meaning": "如果这样",
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "连词，表示假设，相当于'如果'",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "指示代词，这样，指代前文所述情况",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接'若是'和'称曰'，表示顺承",
               "type": "虚词"
             },
             {
-              "word": "称曰",
-              "pinyin": "chēng yuē",
-              "meaning": "说道",
+              "word": "称",
+              "pinyin": "chēng",
+              "meaning": "此处读 chēng，义为说、声称",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "大夫乌公",
               "pinyin": "dà fū wū gōng",
-              "meaning": "乌公",
+              "meaning": "唐代将领乌重胤，时任河阳节度使，本文中镇守河阳",
               "type": "人名"
             },
             {
-              "word": "一镇河阳",
-              "pinyin": "yī zhèn hé yáng",
-              "meaning": "镇守河阳",
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "数词，这里表示一旦、一经",
               "type": "实词"
+            },
+            {
+              "word": "镇",
+              "pinyin": "zhèn",
+              "meaning": "动词，镇守、镇抚",
+              "type": "实词"
+            },
+            {
+              "word": "河阳",
+              "pinyin": "hé yáng",
+              "meaning": "唐代军镇名，河阳军治所，在今河南孟州",
+              "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接前后分句，表示结果",
               "type": "虚词"
             },
             {
-              "word": "东都处士之庐",
-              "pinyin": "dōng dū chǔ shì zhī lú",
-              "meaning": "东都处士的房屋",
+              "word": "东都",
+              "pinyin": "dōng dū",
+              "meaning": "唐代东都洛阳，在今河南洛阳",
+              "type": "地名"
+            },
+            {
+              "word": "处士",
+              "pinyin": "chǔ shì",
+              "meaning": "有才德而隐居不仕的士人",
               "type": "实词"
             },
             {
-              "word": "无人",
-              "pinyin": "wú rén",
-              "meaning": "没有人",
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，连接定语'东都处士'和中心语'庐'",
+              "type": "虚词"
+            },
+            {
+              "word": "庐",
+              "pinyin": "lú",
+              "meaning": "名词，简陋的住所",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，没有",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，人",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示肯定或强调",
               "type": "虚词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表示反问，相当于'难道'",
               "type": "虚词"
             },
             {
-              "word": "不可",
-              "pinyin": "bù kě",
-              "meaning": "不可以",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，否定词",
+              "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "动词，可以、合适",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断或肯定",
               "type": "虚词"
             }
           ]
@@ -1418,226 +1474,316 @@
     },
     {
       "original": "夫南面而听天下，其所托重而恃力者，惟相与将耳。相为天子得人于朝廷，将为天子得文武士于幕下，求内外无治，不可得也。愈縻于兹，不能自引去，资二生以待老。今皆为有力者夺之，其何能无介然于怀邪？生既至，拜公于军门，其为吾以前所称，为天下贺；以后所称，为吾致私怨于尽取也。留守相公，首为四韵诗歌其事，愈因推其意而序之。",
-      "translation": "君主面南而坐治理天下，他所倚重和依靠力量的，只有宰相和将领罢了。宰相为天子在朝廷招揽人才，将领为天子在幕府招揽文武之士，这样想要内外治理不好，是不可能的。我韩愈被束缚在这里，不能自行离开，依靠这两位生员来度过晚年。现在都被有权力的人夺走了，怎么能不耿耿于怀呢？温生已经到了，在军门拜见乌公，请他为我前面所说的，为天下祝贺；为后面所说的，替我表达私怨，因为人才被尽取。留守相公首先写了四韵诗来歌颂这件事，我韩愈因此推演他的意思而作序。",
+      "translation": "君主坐北朝南治理天下，他所倚重和依靠力量的，只有宰相和将领罢了。宰相为天子在朝廷选拔人才，将领为天子在幕府中选拔文武之士，这样还要求内外治理不好，是不可能的。我被束缚在这里，不能自己离开，依靠两位先生来度过晚年。现在都被有权力的人夺走了，怎么能不耿耿于怀呢？温生已经到了，在军门拜见乌公，请他代我，用前面所说的话，为天下祝贺；用后面所说的话，替我表达对人才被全部取走的私怨。留守相公首先写了四韵诗来歌颂这件事，我因此推究他的意思而写了这篇序。",
       "sentences": [
         {
           "original": "夫南面而听天下，其所托重而恃力者，惟相与将耳。",
-          "translation": "君主面南而坐治理天下，他所倚重和依靠力量的，只有宰相和将领罢了。",
+          "translation": "君主坐北朝南治理天下，他所倚重和依靠力量的，只有宰相和将领罢了。",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "句首发语词",
+              "meaning": "句首发语词，表示要发表议论，无实义",
               "type": "虚词"
             },
             {
               "word": "南面",
               "pinyin": "nán miàn",
-              "meaning": "面向南，君主统治",
+              "meaning": "古代以面向南为尊位，君王坐北朝南听政，此指君王治理天下",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接状语'南面'和动词'听'，表承接",
               "type": "虚词"
             },
             {
-              "word": "听天下",
-              "pinyin": "tīng tiān xià",
-              "meaning": "治理天下",
+              "word": "听",
+              "pinyin": "tīng",
+              "meaning": "治理、处理（政务）",
+              "type": "实词"
+            },
+            {
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "指国家政事",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "代词",
+              "meaning": "代词，指代上文'南面而听天下'的君王",
               "type": "虚词"
             },
             {
-              "word": "所托重而恃力者",
-              "pinyin": "suǒ tuō zhòng ér shì lì zhě",
-              "meaning": "所依靠倚重的人",
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "特殊指示代词，与'托重'构成名词性结构，指代'托付重任的人'",
+              "type": "虚词"
+            },
+            {
+              "word": "托重",
+              "pinyin": "tuō zhòng",
+              "meaning": "托付重任",
               "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接并列成分'托重'与'恃力'，表并列",
+              "type": "虚词"
+            },
+            {
+              "word": "恃力",
+              "pinyin": "shì lì",
+              "meaning": "依靠（其）能力",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，与'所托重而恃力'构成'者'字结构，指代'……的人'",
+              "type": "虚词"
             },
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "只有",
+              "meaning": "副词，表限定，相当于'只有'",
               "type": "虚词"
             },
             {
-              "word": "相与将",
-              "pinyin": "xiàng yǔ jiàng",
-              "meaning": "宰相和将领",
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "官职，辅佐君王的最高行政长官，百官之长",
+              "type": "官职"
+            },
+            {
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "连词，和",
+              "type": "虚词"
+            },
+            {
+              "word": "将",
+              "pinyin": "jiàng",
+              "meaning": "官职，统领军队的最高军事长官",
               "type": "官职"
             },
             {
               "word": "耳",
               "pinyin": "ěr",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表肯定，相当于'罢了'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "相为天子得人于朝廷，将为天子得文武士于幕下，求内外无治，不可得也。",
-          "translation": "宰相为天子在朝廷招揽人才，将领为天子在幕府招揽文武之士，这样想要内外治理不好，是不可能的。",
+          "translation": "宰相为天子在朝廷选拔人才，将领为天子在幕府中选拔文武之士，这样还要求内外治理不好，是不可能的。",
           "words": [
             {
               "word": "相",
               "pinyin": "xiàng",
-              "meaning": "宰相",
+              "meaning": "官职，宰相",
               "type": "官职"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "介词，为了",
+              "meaning": "介词，表目的，为了、替",
               "type": "虚词"
             },
             {
               "word": "天子",
               "pinyin": "tiān zǐ",
-              "meaning": "皇帝",
+              "meaning": "古代对君王的尊称",
               "type": "实词"
             },
             {
-              "word": "得人",
-              "pinyin": "dé rén",
-              "meaning": "得到人才",
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "招揽、得到",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "人才",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "介词，在",
+              "meaning": "介词，表处所，在",
               "type": "虚词"
             },
             {
               "word": "朝廷",
               "pinyin": "cháo tíng",
-              "meaning": "朝廷",
+              "meaning": "君王接受朝见、处理政务的地方，此指中央政府",
               "type": "实词"
             },
             {
               "word": "将",
               "pinyin": "jiàng",
-              "meaning": "将领",
+              "meaning": "官职，将帅",
               "type": "官职"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "介词，为了",
+              "meaning": "介词，表目的，为了、替",
               "type": "虚词"
             },
             {
               "word": "天子",
               "pinyin": "tiān zǐ",
-              "meaning": "皇帝",
+              "meaning": "古代对君王的尊称",
               "type": "实词"
             },
             {
-              "word": "得文武士",
-              "pinyin": "dé wén wǔ shì",
-              "meaning": "得到文武之士",
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "招揽、得到",
+              "type": "实词"
+            },
+            {
+              "word": "文武士",
+              "pinyin": "wén wǔ shì",
+              "meaning": "文官和武将",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "介词，在",
+              "meaning": "介词，表处所，在",
               "type": "虚词"
             },
             {
               "word": "幕下",
               "pinyin": "mù xià",
-              "meaning": "幕府中",
+              "meaning": "将帅的营幕之下，即军府",
               "type": "实词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "追求",
+              "meaning": "要求、想要",
               "type": "实词"
             },
             {
               "word": "内外",
               "pinyin": "nèi wài",
-              "meaning": "内部和外部",
+              "meaning": "指朝廷内部和地方",
               "type": "实词"
             },
             {
               "word": "无治",
               "pinyin": "wú zhì",
-              "meaning": "没有治理好",
+              "meaning": "不太平、混乱",
               "type": "实词"
             },
             {
-              "word": "不可得",
-              "pinyin": "bù kě dé",
-              "meaning": "不可能",
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "副词，不能",
+              "type": "虚词"
+            },
+            {
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "实现、办到",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "愈縻于兹，不能自引去，资二生以待老。",
-          "translation": "我韩愈被束缚在这里，不能自行离开，依靠这两位生员来度过晚年。",
+          "translation": "我被束缚在这里，不能自己离开，依靠两位先生来度过晚年。",
           "words": [
             {
               "word": "愈",
               "pinyin": "yù",
-              "meaning": "韩愈",
+              "meaning": "唐代文学家，本文作者，自称",
               "type": "人名"
             },
             {
-              "word": "縻于兹",
-              "pinyin": "mí yú zī",
-              "meaning": "束缚在这里",
+              "word": "縻",
+              "pinyin": "mí",
+              "meaning": "束缚，羁留，指被职务牵绊",
               "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，引进动作行为的处所，相当于'在'",
+              "type": "虚词"
+            },
+            {
+              "word": "兹",
+              "pinyin": "zī",
+              "meaning": "代词，指代作者任职之地（河阳）",
+              "type": "虚词"
             },
             {
               "word": "不能",
               "pinyin": "bù néng",
-              "meaning": "不能够",
+              "meaning": "无法，不能够",
               "type": "实词"
             },
             {
-              "word": "自引去",
-              "pinyin": "zì yǐn qù",
-              "meaning": "自己离开",
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "代词，指自己，此处指作者自身",
+              "type": "虚词"
+            },
+            {
+              "word": "引",
+              "pinyin": "yǐn",
+              "meaning": "抽身，退身",
+              "type": "实词"
+            },
+            {
+              "word": "去",
+              "pinyin": "qù",
+              "meaning": "古义：离开（非今义'前往'）",
               "type": "实词"
             },
             {
               "word": "资",
               "pinyin": "zī",
-              "meaning": "依靠",
+              "meaning": "依靠，凭借",
               "type": "实词"
             },
             {
               "word": "二生",
               "pinyin": "èr shēng",
-              "meaning": "两位先生",
-              "type": "实词"
+              "meaning": "指温处士（温造）和石处士（石洪），韩愈友人",
+              "type": "人名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "连词，来",
+              "meaning": "连词，表示目的，相当于'来'",
               "type": "虚词"
             },
             {
-              "word": "待老",
-              "pinyin": "dài lǎo",
-              "meaning": "等待老去",
+              "word": "待",
+              "pinyin": "dài",
+              "meaning": "等待",
+              "type": "实词"
+            },
+            {
+              "word": "老",
+              "pinyin": "lǎo",
+              "meaning": "老年",
               "type": "实词"
             }
           ]
@@ -1649,319 +1795,367 @@
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "现在，如今",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，表示范围，相当于'都'",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "被",
+              "meaning": "介词，表示被动，相当于'被'",
               "type": "虚词"
             },
             {
               "word": "有力者",
               "pinyin": "yǒu lì zhě",
-              "meaning": "有能力的人",
+              "meaning": "有权力的人，指当权者",
               "type": "实词"
             },
             {
               "word": "夺",
               "pinyin": "duó",
-              "meaning": "夺取",
+              "meaning": "强取，夺取",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他们",
+              "meaning": "代词，指代温、石二生",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "难道",
+              "meaning": "语气词，表示反问语气",
               "type": "虚词"
             },
             {
-              "word": "何",
-              "pinyin": "hé",
-              "meaning": "怎么",
+              "word": "何能",
+              "pinyin": "hé néng",
+              "meaning": "固定结构，表示反问，相当于'怎么能'",
               "type": "虚词"
-            },
-            {
-              "word": "能",
-              "pinyin": "néng",
-              "meaning": "能够",
-              "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "没有，不产生",
               "type": "实词"
             },
             {
               "word": "介然",
               "pinyin": "jiè rán",
-              "meaning": "介意",
+              "meaning": "耿耿于怀，有所芥蒂的样子",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进动作行为的处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "怀",
               "pinyin": "huái",
-              "meaning": "心中",
+              "meaning": "心中，胸怀",
               "type": "实词"
             },
             {
               "word": "邪",
               "pinyin": "yé",
-              "meaning": "呢",
+              "meaning": "句末语气词，表示反问，相当于'呢'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "生既至，拜公于军门，其为吾以前所称，为天下贺；以后所称，为吾致私怨于尽取也。",
-          "translation": "温生已经到了，在军门拜见乌公，请他为我前面所说的，为天下祝贺；为后面所说的，替我表达私怨，因为人才被尽取。",
+          "translation": "温生已经到了，在军门拜见乌公，请他代我，用前面所说的话，为天下祝贺；用后面所说的话，替我表达对人才被全部取走的私怨。",
           "words": [
             {
               "word": "生",
               "pinyin": "shēng",
-              "meaning": "温处士",
-              "type": "人名"
+              "meaning": "对士人的尊称，此处指温处士，韩愈送别的对象",
+              "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "虚词，副词，表示动作已经完成，义为'已经'",
               "type": "虚词"
             },
             {
               "word": "至",
               "pinyin": "zhì",
-              "meaning": "到达",
+              "meaning": "动词，到达，指温处士抵达河阳军",
               "type": "实词"
             },
             {
               "word": "拜",
               "pinyin": "bài",
-              "meaning": "拜见",
+              "meaning": "动词，拜见、拜访，指谒见将领",
               "type": "实词"
             },
             {
               "word": "公",
               "pinyin": "gōng",
-              "meaning": "统帅",
-              "type": "官职"
+              "meaning": "名词，对尊长的敬称，此处指河阳军的将领",
+              "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "虚词，介词，引进地点，义为'在'",
               "type": "虚词"
             },
             {
               "word": "军门",
               "pinyin": "jūn mén",
-              "meaning": "军营门",
+              "meaning": "名词，军营的门，指将领的幕府或衙署",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
+              "meaning": "虚词，代词，指代温处士，作主语",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "替",
+              "meaning": "虚词，介词，此处读wèi，义为替、给，引进受益对象",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
+              "meaning": "虚词，代词，第一人称，指韩愈自己",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "虚词，介词，义为用、凭借，引进凭借内容",
+              "type": "虚词"
+            },
+            {
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "名词，时间名词，指之前的时候，与'后'相对",
               "type": "实词"
             },
             {
-              "word": "以前",
-              "pinyin": "yǐ qián",
-              "meaning": "先前",
-              "type": "实词"
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "虚词，助词，与动词'称'构成所字结构，指所称赞的内容",
+              "type": "虚词"
             },
             {
-              "word": "所称",
-              "pinyin": "suǒ chēng",
-              "meaning": "所称赞的",
+              "word": "称",
+              "pinyin": "chēng",
+              "meaning": "动词，称赞、称道，指赞扬温处士的才能",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "为了",
+              "meaning": "虚词，介词，此处读wèi，义为替、给，引进受益对象",
               "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下人",
+              "meaning": "名词，指天下人或全国，此处指天下人",
               "type": "实词"
             },
             {
               "word": "贺",
               "pinyin": "hè",
-              "meaning": "祝贺",
+              "meaning": "动词，祝贺、庆贺，指为天下人祝贺",
               "type": "实词"
             },
             {
-              "word": "以后",
-              "pinyin": "yǐ hòu",
-              "meaning": "后来",
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "虚词，介词，义为用、凭借，引进凭借内容",
+              "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "名词，时间名词，指之后的时候，与'前'相对",
               "type": "实词"
             },
             {
-              "word": "所称",
-              "pinyin": "suǒ chēng",
-              "meaning": "所称赞的",
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "虚词，助词，与动词'称'构成所字结构，指所称赞的内容",
+              "type": "虚词"
+            },
+            {
+              "word": "称",
+              "pinyin": "chēng",
+              "meaning": "动词，称赞、称道，指赞扬温处士的才能",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "替",
+              "meaning": "虚词，介词，此处读wèi，义为替、给，引进受益对象",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "虚词，代词，第一人称，指韩愈自己",
+              "type": "虚词"
             },
             {
               "word": "致",
               "pinyin": "zhì",
-              "meaning": "表达",
+              "meaning": "动词，传达、表达，指表达私人的怨恨",
               "type": "实词"
             },
             {
               "word": "私怨",
               "pinyin": "sī yuàn",
-              "meaning": "私怨",
+              "meaning": "名词，私人的怨恨或不满，韩愈对人才被取走的抱怨",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "虚词，介词，引进对象，义为'对于'",
               "type": "虚词"
             },
             {
-              "word": "尽取",
-              "pinyin": "jìn qǔ",
-              "meaning": "全部取走",
+              "word": "尽",
+              "pinyin": "jìn",
+              "meaning": "虚词，副词，义为全部、都，修饰动词'取'",
+              "type": "虚词"
+            },
+            {
+              "word": "取",
+              "pinyin": "qǔ",
+              "meaning": "动词，取走、选拔，指人才被全部选拔走",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "了",
+              "meaning": "虚词，句末语气词，表肯定或陈述，加强语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "留守相公，首为四韵诗歌其事，愈因推其意而序之。",
-          "translation": "留守相公首先写了四韵诗来歌颂这件事，我韩愈因此推演他的意思而作序。",
+          "translation": "留守相公首先写了四韵诗来歌颂这件事，我因此推究他的意思而写了这篇序。",
           "words": [
             {
-              "word": "留守相公",
-              "pinyin": "liú shǒu xiàng gōng",
-              "meaning": "留守相公",
+              "word": "留守",
+              "pinyin": "liú shǒu",
+              "meaning": "官职名，指在京城或陪都留守的官员，负责留守事务",
               "type": "官职"
+            },
+            {
+              "word": "相公",
+              "pinyin": "xiàng gōng",
+              "meaning": "名词，对宰相或高级官员的尊称，此处指留守官员",
+              "type": "实词"
             },
             {
               "word": "首",
               "pinyin": "shǒu",
-              "meaning": "首先",
-              "type": "虚词"
+              "meaning": "副词，首先、最先，表示时间顺序",
+              "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "写",
+              "meaning": "动词，此处读wéi，义为做、创作，指创作诗歌",
               "type": "实词"
             },
             {
-              "word": "四韵诗",
-              "pinyin": "sì yùn shī",
-              "meaning": "四韵诗",
+              "word": "四韵",
+              "pinyin": "sì yùn",
+              "meaning": "名词，指四韵的诗，古诗以韵为单位计算长度",
+              "type": "实词"
+            },
+            {
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "名词，诗歌，一种文学体裁",
               "type": "实词"
             },
             {
               "word": "歌",
               "pinyin": "gē",
-              "meaning": "歌颂",
+              "meaning": "动词，歌咏、记述，指用诗歌记述事件",
               "type": "实词"
             },
             {
-              "word": "其事",
-              "pinyin": "qí shì",
-              "meaning": "这件事",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "虚词，代词，指代温处士赴河阳军这件事",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "名词，事情，指送温处士赴河阳军的事件",
               "type": "实词"
             },
             {
               "word": "愈",
               "pinyin": "yù",
-              "meaning": "韩愈",
+              "meaning": "人名，韩愈，唐代文学家，本文作者",
               "type": "人名"
             },
             {
               "word": "因",
               "pinyin": "yīn",
-              "meaning": "于是",
+              "meaning": "虚词，连词，表示承接，义为于是、就",
               "type": "虚词"
             },
             {
               "word": "推",
               "pinyin": "tuī",
-              "meaning": "推究",
+              "meaning": "动词，推究、阐述，指阐发诗歌的意旨",
               "type": "实词"
             },
             {
-              "word": "其意",
-              "pinyin": "qí yì",
-              "meaning": "他的意思",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "虚词，代词，指代留守相公，作定语",
+              "type": "虚词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "名词，意思、意图，指诗歌的意旨或情感",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "虚词，连词，表承接，连接前后两个动作",
               "type": "虚词"
             },
             {
               "word": "序",
               "pinyin": "xù",
-              "meaning": "作序",
+              "meaning": "动词，作序、写序言，指为诗歌写序",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "虚词，代词，指代留守相公的诗歌或这件事",
               "type": "虚词"
             }
           ]

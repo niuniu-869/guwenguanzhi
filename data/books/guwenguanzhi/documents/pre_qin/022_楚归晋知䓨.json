@@ -1,34 +1,36 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "022_楚归晋知䓨",
   "title": "楚归晋知䓨",
   "author": {
     "id": "pre_qin_左丘明",
     "name": "左丘明",
     "dynasty": "pre_qin",
-    "bio": "左丘明，春秋时期鲁国史官，相传为《左传》的作者。其字号不详，一说姓左，名丘明；或字丘明。生卒年不确切，约活动于公元前5世纪左右。左丘明在历史上以编纂《左传》闻名，该书是解释《春秋》的重要史书，记载了春秋时期的历史事件和人物言行，文笔生动，对后世史学和文学有深远贡献。孔子曾提及左丘明，称其为君子，但具体生平事迹较少记载，主要成就在于传承和发扬了春秋时期的史学传统。"
+    "bio": "左丘明，春秋末期鲁国史官，生卒年不详，约活动于公元前5世纪。相传姓左丘，名明，或姓左，名丘明。曾任鲁国太史，负责记录历史。代表作《左传》，为编年体史书，记载春秋时期史事，与《公羊传》《谷梁传》合称“春秋三传”。文学史地位显著，其叙事生动、语言简练，对先秦历史散文发展有重要影响，被后世尊为史学与文学经典。"
   },
   "source": "左传",
   "dynasty": "pre_qin",
   "volume": 2,
-  "background": "本文出自《左传》，记载了春秋时期晋楚两国之间的一次外交事件。背景是晋楚争霸，两国在邲之战后关系紧张。晋国为了换回被楚国俘虏的将领知 Câm（荀首之子），主动归还楚国公子谷臣和连尹襄老的尸体。荀首当时在晋军中担任要职，辅佐中军，因此楚国同意交换。这一事件反映了春秋时期诸侯国之间的战争与外交策略，以及个人在国家利益下的抉择。文章通过楚王与知 Câm 的对话，展现了当时的政治智慧和礼仪规范，是《左传》中记录历史与人物言行的典型篇章。",
-  "appreciation": "本文以简洁生动的对话形式，刻画了知 Câm 这一忠诚而智慧的将领形象。文学赏析可从多个角度展开：首先，语言艺术上，文章采用精炼的文言文，对话逻辑严密，如知 Câm 回答楚王时，既不怨恨也不感恩，强调国家利益高于个人恩怨，体现了春秋时期的外交辞令之美。其次，人物塑造上，通过楚王的追问和知 Câm 的从容应对，展现了知 Câm 的忠诚、责任感和外交技巧，他以“无怨无德”回应，突显了君子风范。主题思想上，文章探讨了个人与国家、恩怨与责任的关系，知 Câm 表示即使回国后被处死或履职，都将恪守臣礼，这反映了春秋时期的伦理观念。此外，叙事结构紧凑，从交换背景到对话高潮，再到楚王的感叹，层层递进，增强了文章的戏剧性和教育意义。整体上，这篇文章是《左传》中融合历史记载与文学表达的典范，对后世散文和外交文书有深远影响。",
+  "background": "《楚归晋知䓨》出自《左传》，记载春秋中期晋楚两国交换俘虏的事件。时代背景为公元前六世纪，晋楚争霸激烈，邲之战后双方寻求缓和。晋国以楚公子谷臣和连尹襄老之尸换回被俘的知䓨，反映诸侯国间外交与军事交织的局势。作者左丘明为春秋末期鲁国史官，基于史料记录此事，旨在客观呈现历史过程与人物言行，动机在于保存史实并展示春秋时期的礼义外交。",
+  "appreciation": "本文为叙事文体，出自史书《左传》，以对话形式展开，结构紧凑。开篇简述事件背景，随后通过楚王与知䓨的问答推进，层次分明：从询问怨德到讨论报答，最后以知䓨的忠臣之言收尾，体现篇章布局的逻辑性。艺术特色上，语言简洁精炼，对话富有节奏感，如知䓨回答中使用反问和排比（如“死且不朽”重复），增强表现力，展现人物性格。思想内涵聚焦忠义与礼义，知䓨强调不怨不德、以臣礼报国，反映春秋时期士人的职责观念和道德立场。文学史地位上，此文是《左传》叙事艺术的典型范例，通过具体事件刻画人物，对后世历史散文有示范作用。",
   "tags": [
-    "春秋外交",
-    "左传文学",
-    "人物对话"
+    "叙事",
+    "政治",
+    "人物",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "晋人归楚公子谷臣与连尹襄老之尸于楚，以求知䓨，于是，荀首佐中军矣，故楚人许之。",
-      "translation": "晋国人把楚国的公子谷臣和连尹襄老的尸体归还给楚国，以此要求交换知䓨。在这个时候，荀首已经辅佐中军了，所以楚国人答应了。",
+      "translation": "晋国人把楚国的公子谷臣和连尹襄老的尸体归还给楚国，以求换回知䓨。在这个时候，荀首已经辅佐中军了，所以楚国人答应了。",
       "sentences": [
         {
-          "original": "晋人归楚公子谷臣与连尹襄老之尸于楚，以求知䓨",
-          "translation": "晋国人归还楚国的公子谷臣和连尹襄老的尸体给楚国，用来交换知䓨。",
+          "original": "晋人归楚公子谷臣与连尹襄老之尸于楚",
+          "translation": "晋国人把楚国的公子谷臣和连尹襄老的尸体归还给楚国。",
           "words": [
             {
               "word": "晋人",
-              "pinyin": "Jìn rén",
+              "pinyin": "jìn rén",
               "meaning": "晋国人",
               "type": "实词"
             },
@@ -40,26 +42,32 @@
             },
             {
               "word": "楚公子谷臣",
-              "pinyin": "Chǔ gōng zǐ Gǔ chén",
-              "meaning": "楚国公子谷臣",
+              "pinyin": "chǔ gōng zǐ gǔ chén",
+              "meaning": "楚庄王之子，在晋楚邲之战中被晋国俘虏",
               "type": "人名"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "连词，和",
               "type": "虚词"
             },
             {
-              "word": "连尹襄老",
-              "pinyin": "Lián yǐn Xiāng lǎo",
-              "meaning": "连尹襄老",
+              "word": "连尹",
+              "pinyin": "lián yǐn",
+              "meaning": "楚国官职，军事长官",
+              "type": "官职"
+            },
+            {
+              "word": "襄老",
+              "pinyin": "xiāng lǎo",
+              "meaning": "楚国连尹，在邲之战中被晋国射杀",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示领属关系，相当于“的”",
               "type": "虚词"
             },
             {
@@ -71,91 +79,109 @@
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，表示动作的归趋，到",
               "type": "虚词"
             },
             {
               "word": "楚",
-              "pinyin": "Chǔ",
-              "meaning": "楚国",
+              "pinyin": "chǔ",
+              "meaning": "国名，楚国",
               "type": "地名"
-            },
+            }
+          ]
+        },
+        {
+          "original": "以求知䓨",
+          "translation": "以求换回知䓨。",
+          "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "求得",
+              "meaning": "求取，交换",
               "type": "实词"
             },
             {
               "word": "知䓨",
-              "pinyin": "Zhī yīng",
-              "meaning": "知䓨",
+              "pinyin": "zhī yīng",
+              "meaning": "晋国大夫荀首之子，在邲之战中被楚国俘虏",
               "type": "人名"
             }
           ]
         },
         {
-          "original": "于是，荀首佐中军矣，故楚人许之。",
-          "translation": "在这个时候，荀首已经辅佐中军了，所以楚国人答应了。",
+          "original": "于是，荀首佐中军矣",
+          "translation": "在这个时候，荀首已经辅佐中军了。",
           "words": [
             {
-              "word": "于是",
-              "pinyin": "yú shì",
-              "meaning": "于是",
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，在（此语境下表时间，非表地点）",
+              "type": "虚词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "代词，指代前文所述晋国归还楚国公子及襄老之尸以求交换知罃的时机",
               "type": "虚词"
             },
             {
               "word": "荀首",
-              "pinyin": "Xún Shǒu",
-              "meaning": "荀首",
+              "pinyin": "xún shǒu",
+              "meaning": "春秋时晋国大夫，荀林父之子，食邑于知，故又称知首，知罃之父，本文中为晋军副帅（佐中军）",
               "type": "人名"
             },
             {
               "word": "佐",
               "pinyin": "zuǒ",
-              "meaning": "辅佐",
+              "meaning": "辅佐，担任副职",
               "type": "实词"
             },
             {
               "word": "中军",
               "pinyin": "zhōng jūn",
-              "meaning": "中军",
-              "type": "官职"
+              "meaning": "春秋时大国军队分上、中、下（或左、中、右）三军，中军为主力，主将所在，此处指中军副帅之职",
+              "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表情况已经如此，相当于“了”",
               "type": "虚词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "故楚人许之",
+          "translation": "所以楚国人答应了。",
+          "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示因果关系，因此、所以",
               "type": "虚词"
             },
             {
               "word": "楚人",
-              "pinyin": "Chǔ rén",
-              "meaning": "楚国人",
+              "pinyin": "chǔ rén",
+              "meaning": "楚国人，此处指楚国方面（决策者）",
               "type": "实词"
             },
             {
               "word": "许",
               "pinyin": "xǔ",
-              "meaning": "答应",
+              "meaning": "答应，同意",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代晋国以归还楚公子及襄老之尸来交换知罃的要求",
               "type": "虚词"
             }
           ]
@@ -164,208 +190,226 @@
     },
     {
       "original": "王送知䓨，曰：“子其怨我乎？”对曰：“二国治戎，臣不才，不胜其任，以为俘馘。执事不以衅鼓，使归即戮，君之惠也。臣实不才，又谁敢怨？”王曰：“然则德我乎？”对曰：“二国图其社稷，而求纾其民。各惩其忿，以相宥也。",
-      "translation": "楚王送别知䓨，说：“你怨恨我吗？”知䓨回答说：“两国交战，我没有才能，不能胜任职务，成为了俘虏。您不杀我用血涂鼓，让我回去接受刑戮，这是您的恩惠。我实在没有才能，又敢怨恨谁呢？”楚王说：“那么你感激我吗？”知䓨回答说：“两国为自己的国家谋划，以求缓解百姓的痛苦。各自克制愤怒，互相宽恕。”",
+      "translation": "楚王送别知䓨，说：“您大概怨恨我吧？”知䓨回答说：“两国交战，我没有才能，不能胜任自己的职务，因此成为俘虏。您的臣子没有用我的血来涂鼓，让我回去接受杀戮，这是您的恩惠。我实在没有才能，又敢怨恨谁呢？”楚王说：“既然这样，那么您感激我吗？”知䓨回答说：“两国都为自己的国家谋划，而寻求缓解百姓的困苦。各自克制自己的愤怒，以互相宽恕。”",
       "sentences": [
         {
           "original": "王送知䓨，曰：“子其怨我乎？”",
-          "translation": "楚王送别知䓨，说：“你怨恨我吗？”",
+          "translation": "楚王送别知䓨，说：“您大概怨恨我吧？”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "楚王",
+              "meaning": "春秋时期楚国国君，在本文中送别晋国俘虏知䓨",
               "type": "人名"
             },
             {
               "word": "送",
               "pinyin": "sòng",
-              "meaning": "送行",
+              "meaning": "送行、送别",
               "type": "实词"
             },
             {
               "word": "知䓨",
               "pinyin": "zhī yīng",
-              "meaning": "晋将",
+              "meaning": "春秋时期晋国大夫，在本文中为楚国俘虏",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说、说道",
               "type": "实词"
             },
             {
               "word": "子",
               "pinyin": "zǐ",
-              "meaning": "您",
-              "type": "实词"
+              "meaning": "人称代词，指对方（知䓨），相当于“您”",
+              "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "语气词",
+              "meaning": "语气词，表推测或反问，此处可译为“难道”或“大概”",
               "type": "虚词"
             },
             {
               "word": "怨",
               "pinyin": "yuàn",
-              "meaning": "怨恨",
+              "meaning": "怨恨、仇恨",
               "type": "实词"
             },
             {
               "word": "我",
               "pinyin": "wǒ",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，指楚王自己",
+              "type": "虚词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问，相当于“吗”",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "对曰：“二国治戎，臣不才，不胜其任，以为俘馘。执事不以衅鼓，使归即戮，君之惠也。臣实不才，又谁敢怨？”",
-          "translation": "知䓨回答说：“两国交战，我没有才能，不能胜任职务，成为了俘虏。您不杀我用血涂鼓，让我回去接受刑戮，这是您的恩惠。我实在没有才能，又敢怨恨谁呢？”",
+          "translation": "知䓨回答说：“两国交战，我没有才能，不能胜任自己的职务，因此成为俘虏。您的臣子没有用我的血来涂鼓，让我回去接受杀戮，这是您的恩惠。我实在没有才能，又敢怨恨谁呢？”",
           "words": [
             {
               "word": "对",
               "pinyin": "duì",
-              "meaning": "回答",
+              "meaning": "回答、回应",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说、说道",
               "type": "实词"
             },
             {
               "word": "二国",
               "pinyin": "èr guó",
-              "meaning": "两个国家",
+              "meaning": "指晋国和楚国",
               "type": "实词"
             },
             {
-              "word": "治戎",
-              "pinyin": "zhì róng",
-              "meaning": "治军",
+              "word": "治",
+              "pinyin": "zhì",
+              "meaning": "整治、治理",
+              "type": "实词"
+            },
+            {
+              "word": "戎",
+              "pinyin": "róng",
+              "meaning": "军事、战争",
               "type": "实词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，知䓨自称，相当于“我”",
+              "type": "虚词"
             },
             {
               "word": "不才",
               "pinyin": "bù cái",
-              "meaning": "没有才能",
+              "meaning": "没有才能，不贤",
               "type": "实词"
             },
             {
               "word": "不胜",
               "pinyin": "bù shèng",
-              "meaning": "不能承受",
+              "meaning": "不能承受、不能胜任",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "指示代词，指代“其任”中的“任”，那个",
               "type": "虚词"
             },
             {
               "word": "任",
               "pinyin": "rèn",
-              "meaning": "职责",
+              "meaning": "职责、任务",
               "type": "实词"
             },
             {
               "word": "以为",
               "pinyin": "yǐ wéi",
-              "meaning": "作为",
+              "meaning": "以（之）为，即“成为”或“作为”",
               "type": "实词"
             },
             {
               "word": "俘馘",
               "pinyin": "fú guó",
-              "meaning": "俘虏",
+              "meaning": "俘，俘虏；馘，战时割取的敌人左耳。合指俘虏或战利品，此处指俘虏",
               "type": "实词"
             },
             {
               "word": "执事",
               "pinyin": "zhí shì",
-              "meaning": "官员",
+              "meaning": "原指办事官员，此处尊称楚王，相当于“您”",
               "type": "实词"
             },
             {
-              "word": "不以",
-              "pinyin": "bù yǐ",
-              "meaning": "不用",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，不",
+              "type": "虚词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，表示工具，用",
               "type": "虚词"
             },
             {
               "word": "衅鼓",
               "pinyin": "xìn gǔ",
-              "meaning": "血祭鼓",
-              "type": "实词"
+              "meaning": "古代祭祀仪式，杀牲以血涂鼓，此处指不杀知䓨而用其血衅鼓",
+              "type": "典故"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "让、致使",
               "type": "实词"
             },
             {
               "word": "归",
               "pinyin": "guī",
-              "meaning": "回去",
+              "meaning": "返回、回去",
               "type": "实词"
             },
             {
-              "word": "即戮",
-              "pinyin": "jí lù",
-              "meaning": "就刑",
+              "word": "即",
+              "pinyin": "jí",
+              "meaning": "就、接受（刑戮）",
+              "type": "实词"
+            },
+            {
+              "word": "戮",
+              "pinyin": "lù",
+              "meaning": "杀戮、刑戮",
               "type": "实词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "君王",
+              "meaning": "君王，指楚王",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "惠",
               "pinyin": "huì",
-              "meaning": "恩惠",
+              "meaning": "恩惠、恩德",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断或肯定",
               "type": "虚词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，知䓨自称",
+              "type": "虚词"
             },
             {
               "word": "实",
               "pinyin": "shí",
-              "meaning": "实在",
+              "meaning": "副词，确实、实在",
               "type": "虚词"
             },
             {
@@ -377,19 +421,19 @@
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示重复或继续",
               "type": "虚词"
             },
             {
               "word": "谁",
-              "pinyin": "shéi",
-              "meaning": "谁",
-              "type": "实词"
+              "pinyin": "shuí",
+              "meaning": "疑问代词，指人",
+              "type": "虚词"
             },
             {
               "word": "敢",
               "pinyin": "gǎn",
-              "meaning": "敢",
+              "meaning": "敢于、有胆量",
               "type": "实词"
             },
             {
@@ -402,156 +446,168 @@
         },
         {
           "original": "王曰：“然则德我乎？”",
-          "translation": "楚王说：“那么你感激我吗？”",
+          "translation": "楚王说：“既然这样，那么您感激我吗？”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "楚王",
-              "type": "人名"
+              "meaning": "名词，指楚共王，楚国国君",
+              "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "然则",
               "pinyin": "rán zé",
-              "meaning": "那么",
+              "meaning": "固定结构，表示承接上文，‘既然如此，那么’",
               "type": "虚词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "感激",
+              "meaning": "名词活用为动词，感激恩德",
               "type": "实词"
             },
             {
               "word": "我",
               "pinyin": "wǒ",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "人称代词，作宾语，指楚王自己",
+              "type": "虚词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，表询问",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "对曰：“二国图其社稷，而求纾其民。各惩其忿，以相宥也。”",
-          "translation": "知䓨回答说：“两国为自己的国家谋划，以求缓解百姓的痛苦。各自克制愤怒，互相宽恕。”",
+          "translation": "知䓨回答说：“两国都为自己的国家谋划，而寻求缓解百姓的困苦。各自克制自己的愤怒，以互相宽恕。”",
           "words": [
             {
-              "word": "对曰",
-              "pinyin": "duì yuē",
-              "meaning": "回答说",
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "动词，回答",
               "type": "实词"
             },
             {
-              "word": "二国",
-              "pinyin": "èr guó",
-              "meaning": "两个国家",
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
+              "type": "实词"
+            },
+            {
+              "word": "二",
+              "pinyin": "èr",
+              "meaning": "数词，两个",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "名词，国家",
               "type": "实词"
             },
             {
               "word": "图",
               "pinyin": "tú",
-              "meaning": "图谋",
+              "meaning": "动词，谋划、考虑",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "指示代词，指代‘二国’，他们的",
               "type": "虚词"
             },
             {
               "word": "社稷",
               "pinyin": "shè jì",
-              "meaning": "国家",
+              "meaning": "名词，土神和谷神，代指国家政权",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表承接关系",
               "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "寻求",
+              "meaning": "动词，寻求",
               "type": "实词"
             },
             {
               "word": "纾",
               "pinyin": "shū",
-              "meaning": "缓解",
+              "meaning": "动词，缓解、解除",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "指示代词，指代‘二国’，他们的",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "名词，百姓",
               "type": "实词"
             },
             {
               "word": "各",
               "pinyin": "gè",
-              "meaning": "各自",
+              "meaning": "副词，各自",
               "type": "虚词"
             },
             {
               "word": "惩",
               "pinyin": "chéng",
-              "meaning": "惩戒",
+              "meaning": "动词，克制、惩戒（其忿）",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "指示代词，指代‘二国’，他们的",
               "type": "虚词"
             },
             {
               "word": "忿",
               "pinyin": "fèn",
-              "meaning": "愤怒",
+              "meaning": "名词，怨恨、愤怒",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "以便",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
               "word": "相",
               "pinyin": "xiāng",
-              "meaning": "互相",
+              "meaning": "副词，互相",
               "type": "虚词"
             },
             {
               "word": "宥",
               "pinyin": "yòu",
-              "meaning": "宽恕",
+              "meaning": "动词，宽恕、原谅",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表示肯定",
+              "meaning": "句末语气词，表陈述与肯定",
               "type": "虚词"
             }
           ]
@@ -560,124 +616,118 @@
     },
     {
       "original": "两释累囚，以成其好。二国有好，臣不与及，其谁敢德？”王曰：“子归，何以报我？”对曰：“臣不任受怨，君亦不任受德，无怨无德，不知所报。”王曰：“虽然，必告不谷。”对曰：“以君之灵，累臣得归骨于晋，寡君之以为戮，死且不朽。若从君惠而免之，以赐君之外臣首，首其请于寡君，而以戮于宗，亦死且不朽。若不获命，而使嗣宗职，次及于事，而帅偏师以修封疆，虽遇执事，其弗敢违。其竭力致死，无有二心，以尽臣礼，所以报也。”王曰：“晋未可与争。”",
-      "translation": "双方释放被拘禁的囚犯，以成就两国的友好关系。两国友好，我并未参与其中，又怎么敢感激谁呢？”楚王说：“你回去后，用什么来报答我？”知䓨回答说：“我既不该承受怨恨，您也不该承受感激，没有怨恨也没有恩德，不知道要报答什么。”楚王说：“即使这样，你一定要告诉我。”知䓨回答说：“托您的福，我这个被囚禁的臣子能够回到晋国，如果我的国君把我处死，我将死而不朽。如果承蒙您的恩惠，国君免我一死，把我赐给您的外臣荀首，荀首会向我国君请求，在宗族内处死我，我也死而不朽。如果得不到允许，让我继承宗族职位，按次序担任官职，率领部分军队治理边疆，即使遇到您，我也不敢回避。我会竭尽全力，毫无二心，以尽臣子的礼节，这就是我报答您的方式。”楚王说：“晋国是不能与之相争的。”",
+      "translation": "双方释放被捆绑的囚犯，以成全两国的友好。两国有了友好关系，我没有参与其中，又敢感激谁呢？”楚王说：“你回去后，用什么来报答我？”知 Câm 回答说：“我不该承受怨恨，您也不该承受感激，没有怨恨也没有恩德，不知道要报答什么。”楚王说：“即使这样，也一定要告诉我。”知 Câm 回答说：“凭借您的威灵，我这个被囚禁的臣子能够回到晋国，如果我的国君把我杀死，我死也将不朽。如果托您的福而赦免我，把我赐给您的外臣荀首，荀首将向我的国君请求，在宗庙里杀死我，我也死且不朽。如果得不到命令，而让我继承宗族的职位，按次序担任官职，率领偏师来治理边疆，即使遇到您，我也不敢回避。我将竭尽全力直到战死，没有二心，以尽到臣子的礼节，这就是我用来报答您的方式。”楚王说：“晋国不可与之争斗。”",
       "sentences": [
         {
           "original": "两释累囚，以成其好。",
-          "translation": "双方释放被拘禁的囚犯，以成就两国的友好关系。",
+          "translation": "双方释放被捆绑的囚犯，以成全两国的友好。",
           "words": [
             {
               "word": "两",
               "pinyin": "liǎng",
-              "meaning": "两个",
+              "meaning": "数词，双方，指晋、楚两国",
               "type": "实词"
             },
             {
               "word": "释",
               "pinyin": "shì",
-              "meaning": "释放",
+              "meaning": "动词，释放",
               "type": "实词"
             },
             {
               "word": "累囚",
               "pinyin": "léi qiú",
-              "meaning": "囚犯",
+              "meaning": "名词，被捆绑的俘虏。‘累’义为捆绑、拘系",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来、以便",
               "type": "虚词"
             },
             {
               "word": "成",
               "pinyin": "chéng",
-              "meaning": "成就",
+              "meaning": "动词，成就、实现",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它们的",
+              "meaning": "代词，指代两国之间的",
               "type": "虚词"
             },
             {
               "word": "好",
               "pinyin": "hǎo",
-              "meaning": "友好关系",
+              "meaning": "名词，友好关系、和好",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "二国有好，臣不与及，其谁敢德？",
-          "translation": "两国友好，我并未参与其中，又怎么敢感激谁呢？",
+          "original": "二国有好，臣不与及，其谁敢德？”",
+          "translation": "两国有了友好关系，我没有参与其中，又敢感激谁呢？”",
           "words": [
             {
-              "word": "二",
-              "pinyin": "èr",
-              "meaning": "两个",
-              "type": "实词"
-            },
-            {
-              "word": "国",
-              "pinyin": "guó",
-              "meaning": "国家",
+              "word": "二国",
+              "pinyin": "èr guó",
+              "meaning": "名词，指晋、楚两国",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在、建立",
               "type": "实词"
             },
             {
               "word": "好",
               "pinyin": "hǎo",
-              "meaning": "友好关系",
+              "meaning": "名词，友好关系、盟约",
               "type": "实词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "臣子",
+              "meaning": "名词，知䓨自称，我",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表否定，没有",
               "type": "虚词"
             },
             {
               "word": "与及",
-              "pinyin": "yǔ jí",
-              "meaning": "参与",
+              "pinyin": "yù jí",
+              "meaning": "动词，参与和涉及。‘与’义为参与，‘及’义为牵连、涉及",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "难道",
+              "meaning": "语气词，加强反问语气，难道",
               "type": "虚词"
             },
             {
               "word": "谁",
-              "pinyin": "shéi",
-              "meaning": "谁",
+              "pinyin": "shuí",
+              "meaning": "疑问代词，哪一个人",
               "type": "虚词"
             },
             {
               "word": "敢",
               "pinyin": "gǎn",
-              "meaning": "敢",
+              "meaning": "动词，敢于、能",
               "type": "实词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "感恩",
+              "meaning": "动词，感恩、感激",
               "type": "实词"
             }
           ]
@@ -689,667 +739,667 @@
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "楚王",
+              "meaning": "春秋时期楚国国君楚共王，在本文中与晋国知䓨对话",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "子",
               "pinyin": "zǐ",
-              "meaning": "您",
+              "meaning": "代词，您，尊称对方，指知䓨",
               "type": "虚词"
             },
             {
               "word": "归",
               "pinyin": "guī",
-              "meaning": "回去",
+              "meaning": "动词，回去，返回晋国",
               "type": "实词"
             },
             {
               "word": "何以",
               "pinyin": "hé yǐ",
-              "meaning": "用什么",
+              "meaning": "固定结构，相当于“怎么”或“用什么”，表示询问方式",
               "type": "虚词"
             },
             {
               "word": "报",
               "pinyin": "bào",
-              "meaning": "报答",
+              "meaning": "动词，报答",
               "type": "实词"
             },
             {
               "word": "我",
               "pinyin": "wǒ",
-              "meaning": "我",
+              "meaning": "代词，第一人称，楚王指自己",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "对曰：“臣不任受怨，君亦不任受德，无怨无德，不知所报。”",
-          "translation": "知䓨回答说：“我既不该承受怨恨，您也不该承受感激，没有怨恨也没有恩德，不知道要报答什么。”",
+          "translation": "知 Câm 回答说：“我不该承受怨恨，您也不该承受感激，没有怨恨也没有恩德，不知道要报答什么。”",
           "words": [
             {
-              "word": "对曰",
-              "pinyin": "duì yuē",
-              "meaning": "回答说",
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "动词，回答",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，谦称，知䓨自称",
+              "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "任",
               "pinyin": "rèn",
-              "meaning": "承受",
+              "meaning": "动词，承担",
               "type": "实词"
             },
             {
               "word": "受",
               "pinyin": "shòu",
-              "meaning": "接受",
+              "meaning": "动词，接受",
               "type": "实词"
             },
             {
               "word": "怨",
               "pinyin": "yuàn",
-              "meaning": "怨恨",
+              "meaning": "名词，怨恨",
               "type": "实词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "您",
-              "type": "实词"
+              "meaning": "代词，尊称对方，指楚王",
+              "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，否定",
               "type": "虚词"
             },
             {
               "word": "任",
               "pinyin": "rèn",
-              "meaning": "承受",
+              "meaning": "动词，承担",
               "type": "实词"
             },
             {
               "word": "受",
               "pinyin": "shòu",
-              "meaning": "接受",
+              "meaning": "动词，接受",
               "type": "实词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "恩德",
+              "meaning": "名词，恩德",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "怨",
               "pinyin": "yuàn",
-              "meaning": "怨恨",
+              "meaning": "名词，怨恨",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有",
               "type": "实词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "恩德",
+              "meaning": "名词，恩德",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，否定",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "所",
+              "meaning": "助词，与动词结合构成名词性结构，指代报答的对象",
               "type": "虚词"
             },
             {
               "word": "报",
               "pinyin": "bào",
-              "meaning": "报答",
+              "meaning": "动词，报答",
               "type": "实词"
             }
           ]
         },
         {
           "original": "王曰：“虽然，必告不谷。”",
-          "translation": "楚王说：“即使这样，你一定要告诉我。”",
+          "translation": "楚王说：“即使这样，也一定要告诉我。”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
-              "type": "实词"
+              "meaning": "指楚共王，楚国君主（前590-前560在位），本文中与晋国俘虏知 Câm 对话。",
+              "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
-              "word": "虽",
-              "pinyin": "suī",
-              "meaning": "虽然",
+              "word": "虽然",
+              "pinyin": "suī rán",
+              "meaning": "古义：即使这样（非今义表转折的连词）。‘虽’是即使，‘然’是这样，指代前文知 Câm 所说‘无怨无德，不知所报’的情况。",
               "type": "虚词"
-            },
-            {
-              "word": "然",
-              "pinyin": "rán",
-              "meaning": "这样",
-              "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
-              "type": "虚词"
+              "meaning": "一定，必须。",
+              "type": "实词"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告诉",
+              "meaning": "告诉。",
               "type": "实词"
             },
             {
               "word": "不谷",
               "pinyin": "bù gǔ",
-              "meaning": "君王自称",
-              "type": "典故"
+              "meaning": "古代君主自称的谦词，意为‘不善之人’。",
+              "type": "实词"
             }
           ]
         },
         {
-          "original": "对曰：“以君之灵，累臣得归骨于晋，寡君之以为戮，死且不朽。”",
-          "translation": "知䓨回答说：“托您的福，我这个被囚禁的臣子能够回到晋国，如果我的国君把我处死，我将死而不朽。”",
+          "original": "对曰：“以君之灵，累臣得归骨于晋，寡君之以为戮，死且不朽。若从君惠而免之，以赐君之外臣首，首其请于寡君，而以戮于宗，亦死且不朽。若不获命，而使嗣宗职，次及于事，而帅偏师以修封疆，虽遇执事，其弗敢违。其竭力致死，无有二心，以尽臣礼，所以报也。”",
+          "translation": "知 Câm 回答说：“凭借您的威灵，我这个被囚禁的臣子能够回到晋国，如果我的国君把我杀死，我死也将不朽。如果托您的福而赦免我，把我赐给您的外臣荀首，荀首将向我的国君请求，在宗庙里杀死我，我也死且不朽。如果得不到命令，而让我继承宗族的职位，按次序担任官职，率领偏师来治理边疆，即使遇到您，我也不敢回避。我将竭尽全力直到战死，没有二心，以尽到臣子的礼节，这就是我用来报答您的方式。”",
           "words": [
             {
-              "word": "对曰",
-              "pinyin": "duì yuē",
-              "meaning": "回答说",
+              "word": "对",
+              "pinyin": "duì",
+              "meaning": "回答。",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "凭借",
+              "meaning": "介词，凭借、依靠。",
               "type": "虚词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "您",
-              "type": "实词"
+              "meaning": "指楚共王。",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的。",
               "type": "虚词"
             },
             {
               "word": "灵",
               "pinyin": "líng",
-              "meaning": "威灵",
+              "meaning": "威灵，福佑。",
               "type": "实词"
             },
             {
               "word": "累臣",
               "pinyin": "léi chén",
-              "meaning": "被囚之臣",
+              "meaning": "被拘禁的臣子。知 Câm 对自己的谦称。‘累’指拘系、囚禁。",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能够。",
+              "type": "实词"
             },
             {
               "word": "归骨",
               "pinyin": "guī gǔ",
-              "meaning": "归葬骸骨",
+              "meaning": "委婉语，指活着回到故国。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，到。",
               "type": "虚词"
             },
             {
               "word": "晋",
               "pinyin": "jìn",
-              "meaning": "晋国",
+              "meaning": "春秋诸侯国名，知 Câm 的祖国。",
               "type": "地名"
             },
             {
               "word": "寡君",
               "pinyin": "guǎ jūn",
-              "meaning": "我的君主",
+              "meaning": "对别国谦称自己的国君，此处指晋景公。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "取独",
+              "meaning": "助词，用于主谓结构‘寡君以为戮’之间，取消其独立性，使之成为‘死且不朽’的条件分句。",
               "type": "虚词"
             },
             {
-              "word": "以为",
-              "pinyin": "yǐ wéi",
-              "meaning": "把...作为",
-              "type": "虚词"
-            },
-            {
-              "word": "戮",
-              "pinyin": "lù",
-              "meaning": "杀",
-              "type": "实词"
-            },
-            {
-              "word": "死",
-              "pinyin": "sǐ",
-              "meaning": "死",
+              "word": "以为戮",
+              "pinyin": "yǐ wéi lù",
+              "meaning": "把他（我）杀掉。‘以’后省略宾语‘之’（指代知 Câm）。",
               "type": "实词"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "将",
+              "meaning": "连词，尚且。",
               "type": "虚词"
             },
             {
               "word": "不朽",
               "pinyin": "bù xiǔ",
-              "meaning": "不朽",
+              "meaning": "不腐朽，指身死而精神、名声永存。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "若从君惠而免之，以赐君之外臣首，首其请于寡君，而以戮于宗，亦死且不朽。",
-          "translation": "如果承蒙您的恩惠，国君免我一死，把我赐给您的外臣荀首，荀首会向我国君请求，在宗族内处死我，我也死而不朽。",
-          "words": [
+            },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，如果。",
               "type": "虚词"
             },
             {
               "word": "从",
               "pinyin": "cóng",
-              "meaning": "由于",
+              "meaning": "介词，相当于‘由’、‘由于’。",
               "type": "虚词"
             },
             {
               "word": "君惠",
               "pinyin": "jūn huì",
-              "meaning": "您的恩惠",
+              "meaning": "您的恩惠。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承。",
               "type": "虚词"
             },
             {
               "word": "免之",
               "pinyin": "miǎn zhī",
-              "meaning": "免我一死",
+              "meaning": "赦免我。‘之’，代词，指代知 Câm 自己。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "把",
+              "meaning": "介词，把。",
               "type": "虚词"
             },
             {
               "word": "赐",
               "pinyin": "cì",
-              "meaning": "赐给",
+              "meaning": "赏赐，交给。",
               "type": "实词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "您",
-              "type": "实词"
+              "meaning": "指楚共王。",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的。",
               "type": "虚词"
             },
             {
               "word": "外臣",
               "pinyin": "wài chén",
-              "meaning": "外臣",
-              "type": "官职"
+              "meaning": "古代诸侯国的士大夫对别国君主的自称。",
+              "type": "实词"
             },
             {
               "word": "首",
-              "pinyin": "Shǒu",
-              "meaning": "荀首",
+              "pinyin": "shǒu",
+              "meaning": "指荀首，知 Câm 的父亲，时任晋国中军佐。",
               "type": "人名"
             },
             {
               "word": "首",
-              "pinyin": "Shǒu",
-              "meaning": "荀首",
+              "pinyin": "shǒu",
+              "meaning": "指荀首。",
               "type": "人名"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "如果",
+              "meaning": "语气词，表示推测、委婉语气，相当于‘大概’、‘或许’。",
               "type": "虚词"
             },
             {
               "word": "请",
               "pinyin": "qǐng",
-              "meaning": "请求",
+              "meaning": "请求。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "向",
+              "meaning": "介词，向。",
               "type": "虚词"
             },
             {
               "word": "寡君",
               "pinyin": "guǎ jūn",
-              "meaning": "我的国君",
+              "meaning": "指晋景公。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承。",
               "type": "虚词"
             },
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
-            },
-            {
-              "word": "戮",
-              "pinyin": "lù",
-              "meaning": "杀戮",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "在",
-              "type": "虚词"
-            },
-            {
-              "word": "宗",
-              "pinyin": "zōng",
-              "meaning": "宗庙",
+              "word": "以戮于宗",
+              "pinyin": "yǐ lù yú zōng",
+              "meaning": "在宗族内执行死刑。‘以’后省略宾语‘之’（指代知 Câm）。",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "也。",
               "type": "虚词"
             },
             {
-              "word": "死且不朽",
-              "pinyin": "sǐ qiě bù xiǔ",
-              "meaning": "死而不朽",
+              "word": "且",
+              "pinyin": "qiě",
+              "meaning": "连词，尚且。",
+              "type": "虚词"
+            },
+            {
+              "word": "不朽",
+              "pinyin": "bù xiǔ",
+              "meaning": "不腐朽，指身死而精神、名声永存。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "若不获命，而使嗣宗职，次及于事，而帅偏师以修封疆，虽遇执事，其弗敢违。",
-          "translation": "如果得不到允许，让我继承宗族职位，按次序担任官职，率领部分军队治理边疆，即使遇到您，我也不敢回避。",
-          "words": [
+            },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，如果。",
               "type": "虚词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "获命",
-              "pinyin": "huò mìng",
-              "meaning": "获得命令",
+              "word": "不获命",
+              "pinyin": "bù huò mìng",
+              "meaning": "得不到（晋君的）命令（赦免）。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承。",
               "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "让（我）。",
               "type": "实词"
             },
             {
-              "word": "嗣宗职",
-              "pinyin": "sì zōng zhí",
-              "meaning": "继承宗职",
+              "word": "嗣",
+              "pinyin": "sì",
+              "meaning": "继承。",
+              "type": "实词"
+            },
+            {
+              "word": "宗职",
+              "pinyin": "zōng zhí",
+              "meaning": "宗族世袭的官职。",
               "type": "实词"
             },
             {
               "word": "次",
               "pinyin": "cì",
-              "meaning": "按次序",
+              "meaning": "按次序。",
               "type": "实词"
             },
             {
-              "word": "及于事",
-              "pinyin": "jí yú shì",
-              "meaning": "参与政事",
+              "word": "及",
+              "pinyin": "jí",
+              "meaning": "轮到。",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，引出对象。",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "指军事、政事。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承。",
               "type": "虚词"
             },
             {
-              "word": "帅偏师",
-              "pinyin": "shuài piān shī",
-              "meaning": "率领偏师",
+              "word": "帅",
+              "pinyin": "shuài",
+              "meaning": "率领。",
+              "type": "实词"
+            },
+            {
+              "word": "偏师",
+              "pinyin": "piān shī",
+              "meaning": "主力之外的侧翼部队。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，来。",
               "type": "虚词"
             },
             {
-              "word": "修封疆",
-              "pinyin": "xiū fēng jiāng",
-              "meaning": "治理边疆",
+              "word": "修",
+              "pinyin": "xiū",
+              "meaning": "治理，整顿。",
+              "type": "实词"
+            },
+            {
+              "word": "封疆",
+              "pinyin": "fēng jiāng",
+              "meaning": "疆界，边疆。",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，即使。",
               "type": "虚词"
             },
             {
-              "word": "遇执事",
-              "pinyin": "yù zhí shì",
-              "meaning": "遇到执事",
+              "word": "遇",
+              "pinyin": "yù",
+              "meaning": "遭遇，遇到。",
+              "type": "实词"
+            },
+            {
+              "word": "执事",
+              "pinyin": "zhí shì",
+              "meaning": "本指侍从左右供使令的人，此处委婉指代楚王及其军队。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "将",
+              "meaning": "语气词，表示委婉语气。",
               "type": "虚词"
             },
             {
               "word": "弗敢违",
               "pinyin": "fú gǎn wéi",
-              "meaning": "不敢回避",
+              "meaning": "不敢回避（战斗）。‘弗’，不。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "其竭力致死，无有二心，以尽臣礼，所以报也。",
-          "translation": "我会竭尽全力，毫无二心，以尽臣子的礼节，这就是我报答您的方式。",
-          "words": [
+            },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "将",
+              "meaning": "语气词，表示强调或期望。",
               "type": "虚词"
             },
             {
               "word": "竭力致死",
               "pinyin": "jié lì zhì sǐ",
-              "meaning": "竭力效死",
+              "meaning": "竭尽全力，效死命。",
               "type": "实词"
             },
             {
               "word": "无有二心",
               "pinyin": "wú yǒu èr xīn",
-              "meaning": "没有二心",
+              "meaning": "没有别的念头，指忠诚不贰。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，来。",
               "type": "虚词"
             },
             {
-              "word": "尽臣礼",
-              "pinyin": "jìn chén lǐ",
-              "meaning": "尽臣礼",
+              "word": "尽",
+              "pinyin": "jìn",
+              "meaning": "竭尽，履行。",
+              "type": "实词"
+            },
+            {
+              "word": "臣礼",
+              "pinyin": "chén lǐ",
+              "meaning": "臣子的礼节、本分。",
               "type": "实词"
             },
             {
               "word": "所以",
               "pinyin": "suǒ yǐ",
-              "meaning": "用来",
+              "meaning": "固定结构，用来…的方式。",
               "type": "虚词"
             },
             {
               "word": "报",
               "pinyin": "bào",
-              "meaning": "报答",
+              "meaning": "报答。",
               "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "啊",
-              "type": "虚词"
             }
           ]
         },
         {
           "original": "王曰：“晋未可与争。”",
-          "translation": "楚王说：“晋国是不能与之相争的。”",
+          "translation": "楚王说：“晋国不可与之争斗。”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
+              "meaning": "春秋时期楚国国君楚共王，本文中与晋知 Câm 对话的楚王",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说、说道",
               "type": "实词"
             },
             {
               "word": "晋",
-              "pinyin": "Jìn",
-              "meaning": "晋国",
+              "pinyin": "jìn",
+              "meaning": "春秋时期诸侯国，在今山西一带，与楚争霸",
               "type": "地名"
             },
             {
-              "word": "未可",
-              "pinyin": "wèi kě",
-              "meaning": "不可以",
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "否定副词，表示动作未发生或否定可能性",
               "type": "虚词"
+            },
+            {
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "能愿动词，表示可以、能够",
+              "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "此处读 yǔ，义为介词，引出对象，相当于'和'",
               "type": "虚词"
             },
             {
               "word": "争",
               "pinyin": "zhēng",
-              "meaning": "争斗",
+              "meaning": "动词，争斗、竞争",
               "type": "实词"
             }
           ]
@@ -1358,52 +1408,52 @@
     },
     {
       "original": "重为之礼而归之。",
-      "translation": "楚王隆重地为他举行礼仪，然后送他回去。",
+      "translation": "楚王于是隆重地为他举行送别礼仪，送他返回晋国。",
       "sentences": [
         {
           "original": "重为之礼而归之。",
-          "translation": "楚王隆重地为他举行礼仪，然后送他回去。",
+          "translation": "楚王隆重地为他举行礼仪，然后送他回国。",
           "words": [
             {
               "word": "重",
               "pinyin": "zhòng",
-              "meaning": "隆重地",
-              "type": "虚词"
+              "meaning": "此处读 zhòng，义为隆重地、厚待地（修饰'为'，表示礼仪的规格高）",
+              "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "举行",
+              "meaning": "此处读 wéi，义为举行、施行（指为知䓨举办送别礼仪）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代晋国大夫知䓨（本文中被楚国释放的人物）",
               "type": "虚词"
             },
             {
               "word": "礼",
               "pinyin": "lǐ",
-              "meaning": "礼仪",
+              "meaning": "名词，礼仪、礼节（特指楚国为知䓨举行的送别仪式）",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示承接关系，连接'为之礼'和'归之'两个先后动作",
               "type": "虚词"
             },
             {
               "word": "归",
               "pinyin": "guī",
-              "meaning": "送回",
+              "meaning": "动词，使...返回、送回（指释放知䓨并让他回晋国）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代知䓨（与前一个'之'相同，作'归'的宾语）",
               "type": "虚词"
             }
           ]

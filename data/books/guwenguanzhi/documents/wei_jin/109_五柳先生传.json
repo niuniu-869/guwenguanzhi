@@ -1,227 +1,229 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "109_五柳先生传",
   "title": "五柳先生传",
   "author": {
     "id": "wei_jin_陶渊明",
     "name": "陶渊明",
     "dynasty": "wei_jin",
-    "bio": "陶渊明（约365年—427年），字元亮，号五柳先生，私谥“靖节”，东晋末至南朝宋初期诗人、辞赋家。生于浔阳柴桑（今江西九江），曾任江州祭酒、彭泽县令等职，后因不满官场黑暗，辞官归隐田园。他长于诗文辞赋，作品多描绘自然风光和田园生活，风格平淡自然，语言简练，被誉为“古今隐逸诗人之宗”。代表作有《归去来兮辞》《桃花源记》《饮酒》等，对后世文学影响深远。"
+    "bio": "陶渊明，字元亮，又名潜，私谥“靖节”，世称靖节先生。生于约365年，卒于427年，籍贯浔阳柴桑（今江西九江）。曾任江州祭酒、建威参军、彭泽县令等职，后辞官归隐。代表作有《归去来兮辞》、《桃花源记》、《饮酒》诗等。他是田园诗派的开创者，被誉为“隐逸诗人之宗”，作品平淡自然，对后世文学影响深远。"
   },
   "source": "",
   "dynasty": "wei_jin",
   "volume": 7,
-  "background": "陶渊明（约365-427年）生活在东晋末年至南朝宋初，社会动荡，政治腐败，士人阶层普遍追求个性解放和隐逸生活。他出身于没落官宦家庭，曾几次出仕，但因不满官场黑暗，最终于公元405年辞去彭泽县令，归隐田园。《五柳先生传》写于他归隐后，可能是晚年自况之作。当时，魏晋玄学盛行，强调自然无为，陶渊明深受老庄思想影响，向往简朴自由的生活。这篇文章通过虚构的五柳先生形象，表达他对名利的淡泊和对精神自足的追求，反映了时代背景下士人寻求心灵安顿的普遍心态。文章也体现了陶渊明与同时代文人如慧远等的交往，以及他对理想人格的探索。",
-  "appreciation": "《五柳先生传》是陶渊明的一篇自传体散文，以简洁明快的语言塑造了一个超然物外的隐士形象。文章采用史传体结构，先叙述后赞曰，增强了真实感和庄重感。主题上，核心是“闲静少言，不慕荣利”，通过读书、饮酒、著文等生活细节，展现五柳先生安贫乐道、忘怀得失的精神境界。艺术手法上，运用白描，如“环堵萧然，不蔽风日”生动描绘贫困，却以“晏如也”突出内心的平和与自足。用典自然，如引用黔娄的话“不戚戚于贫贱，不汲汲于富贵”，深化了淡泊名利的主题。语言风格平淡质朴，多用短句，节奏明快，富有韵律感，体现了陶渊明“质而实绮，癯而实腴”的文学特色。结尾以“无怀氏之民欤？葛天氏之民欤！”的设问，表达对上古淳朴社会的向往，增强了文章的哲学深度。整体上，文章融合了魏晋玄学追求精神自由的思想，通过对比世俗与隐逸，突出了作者的人格理想，成为隐逸文学的典范之作。",
+  "background": "东晋末年，政治腐败，门阀制度森严，社会动荡，玄学清谈之风盛行，文人多追求隐逸生活。陶渊明（约365-427年）出身于没落官宦家庭，曾任江州祭酒、彭泽县令等职，因不满官场黑暗，于公元405年辞官归隐，躬耕自资，生活贫困但精神自足。写作《五柳先生传》时，他已隐居多年，通过虚构的“五柳先生”形象自况，表达对世俗名利的淡泊和对田园生活的满足，动机在于自我抒怀并宣扬隐逸思想。",
+  "appreciation": "《五柳先生传》是一篇自传体散文，采用史传格式，结构上先以第三人称叙述五柳先生的生平特点，后以“赞曰”引出议论，形成序述与评论结合的篇章布局。艺术特色上，语言简洁朴素，多用短句和排比，如“闲静少言，不慕荣利。好读书，不求甚解”，节奏明快，生动刻画人物；修辞上通过对比（如“环堵萧然”与“晏如也”）突出安贫乐道的精神。思想内涵上，核心是安贫乐道、淡泊名利，强调内在精神追求高于物质享受，体现道家自然无为的价值立场。文学史地位上，这篇文章开创了自传体散文的先河，对后世隐逸文学如王维、孟浩然等有影响，成为表达个人志趣的经典之作。",
   "tags": [
-    "隐逸文学",
-    "自传体散文",
-    "魏晋风度"
+    "叙事",
+    "抒情",
+    "哲理",
+    "人物"
   ],
   "paragraphs": [
     {
       "original": "先生不知何许人也，亦不详其姓字。宅边有五柳树，因以为号焉。闲静少言，不慕荣利。好读书，不求甚解。每有会意，便欣然忘食。性嗜酒，家贫，不能常得。亲旧知其如此，或置酒而招之。造饮辄尽，期在必醉，既醉而退，曾不吝情去留。环堵萧然，不蔽风日。短褐穿结，箪瓢屡空，晏如也。尝著文章自娱，颇示己志。忘怀得失，以此自终。",
-      "translation": "先生不知道是哪里人，也不清楚他的姓名和字。住宅旁边有五棵柳树，因此就以“五柳”作为他的号。他闲静少言，不羡慕荣华富贵。喜欢读书，但不追求过度的解释。每当有心得体会，就高兴得忘了吃饭。天性嗜好喝酒，但家境贫穷，不能经常得到。亲戚朋友知道他这样，有时就准备酒邀请他。他去喝酒就喝个尽兴，期望一定要喝醉，喝醉后就离开，从不吝惜去留。家里四壁空空，不能遮挡风雨和阳光。粗布短衣破烂打结，饭篮和水瓢常常空着，但他安然自若。曾经写文章自娱自乐，很能表达自己的志向。忘记得失，就这样度过自己的一生。",
+      "translation": "先生不知道是什么地方人，也不清楚他的姓名和表字。住宅旁边有五棵柳树，因此就以“五柳”为号。他安闲沉静，很少说话，不羡慕荣华利禄。喜欢读书，但不追求深入理解；每当有心得体会，就高兴得忘了吃饭。天性嗜好喝酒，但家境贫穷，不能经常得到。亲戚朋友知道他这种情况，有时准备了酒邀请他去喝。他去喝酒就喝个尽兴，期望一定要喝醉，喝醉后就离开，从不介意去留。四壁空空，遮不住风雨和阳光；粗布短衣破烂打结，饮食器具经常空乏，但他安然自若。曾经写文章自娱自乐，稍微表达自己的志趣。忘记得失，就这样度过自己的一生。",
       "sentences": [
         {
           "original": "先生不知何许人也，亦不详其姓字。",
-          "translation": "先生不知道是哪里人，也不清楚他的姓名和字。",
+          "translation": "先生不知道是什么地方人，也不清楚他的姓名和表字。",
           "words": [
             {
               "word": "先生",
               "pinyin": "xiān shēng",
-              "meaning": "先生",
+              "meaning": "对男子的尊称，此处指传主五柳先生",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "何许",
               "pinyin": "hé xǔ",
-              "meaning": "何处",
-              "type": "实词"
+              "meaning": "疑问代词，询问处所或性质，此处指籍贯或出身",
+              "type": "虚词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人物",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表停顿和判断",
               "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，表示同样，相当于'也'",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "详",
               "pinyin": "xiáng",
-              "meaning": "清楚",
+              "meaning": "动词，详细知道、清楚",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的，指代先生",
               "type": "虚词"
             },
             {
               "word": "姓字",
               "pinyin": "xìng zì",
-              "meaning": "姓名",
+              "meaning": "名词，姓氏和名字",
               "type": "实词"
             }
           ]
         },
         {
           "original": "宅边有五柳树，因以为号焉。",
-          "translation": "住宅旁边有五棵柳树，因此就以“五柳”作为他的号。",
+          "translation": "住宅旁边有五棵柳树，因此就用“五柳”作为别号。",
           "words": [
             {
               "word": "宅边",
               "pinyin": "zhái biān",
-              "meaning": "住宅旁",
+              "meaning": "名词短语，住宅旁边",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "五柳树",
               "pinyin": "wǔ liǔ shù",
-              "meaning": "五棵柳树",
+              "meaning": "名词短语，五棵柳树",
               "type": "实词"
             },
             {
               "word": "因",
               "pinyin": "yīn",
-              "meaning": "于是",
+              "meaning": "连词，表示承接，于是、因此",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示凭借，把、用，此处'以'后省略宾语'之'（指五柳树）",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "虚词"
+              "meaning": "动词，作为",
+              "type": "实词"
             },
             {
               "word": "号",
               "pinyin": "hào",
-              "meaning": "称号",
+              "meaning": "名词，别号、称号",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表陈述语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "闲静少言，不慕荣利。",
-          "translation": "他闲静少言，不羡慕荣华富贵。",
+          "translation": "他安闲沉静，很少说话，不羡慕荣华利禄。",
           "words": [
             {
               "word": "闲静",
               "pinyin": "xián jìng",
-              "meaning": "闲适安静",
+              "meaning": "形容先生性格闲适安静",
               "type": "实词"
             },
             {
               "word": "少言",
               "pinyin": "shǎo yán",
-              "meaning": "少说话",
+              "meaning": "形容先生寡言少语",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰'慕'，意为不羡慕",
               "type": "虚词"
             },
             {
               "word": "慕",
               "pinyin": "mù",
-              "meaning": "羡慕",
+              "meaning": "动词，追求、羡慕",
               "type": "实词"
             },
             {
               "word": "荣利",
               "pinyin": "róng lì",
-              "meaning": "名利",
+              "meaning": "名词，荣华富贵和功名利禄",
               "type": "实词"
             }
           ]
         },
         {
           "original": "好读书，不求甚解。",
-          "translation": "喜欢读书，但不追求过度的解释。",
+          "translation": "喜欢读书，但不追求深入理解。",
           "words": [
             {
               "word": "好",
               "pinyin": "hào",
-              "meaning": "喜欢",
+              "meaning": "此处读 hào，义为喜欢、爱好",
               "type": "实词"
             },
             {
               "word": "读书",
               "pinyin": "dú shū",
-              "meaning": "阅读书籍",
+              "meaning": "动词短语，阅读书籍",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰'求'，意为不追求",
               "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "追求",
+              "meaning": "动词，追求、寻求",
               "type": "实词"
             },
             {
               "word": "甚",
               "pinyin": "shèn",
-              "meaning": "很",
+              "meaning": "副词，表示程度深，修饰'解'，意为深入地",
               "type": "虚词"
             },
             {
               "word": "解",
               "pinyin": "jiě",
-              "meaning": "理解",
+              "meaning": "动词，理解、领会",
               "type": "实词"
             }
           ]
@@ -233,43 +235,43 @@
             {
               "word": "每",
               "pinyin": "měi",
-              "meaning": "每当",
+              "meaning": "副词，每当、每次",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，产生、出现",
               "type": "实词"
             },
             {
               "word": "会意",
               "pinyin": "huì yì",
-              "meaning": "领会意义",
+              "meaning": "指对书中意旨、精神的独到领会与理解",
               "type": "实词"
             },
             {
               "word": "便",
               "pinyin": "biàn",
-              "meaning": "就",
+              "meaning": "副词，就、于是",
               "type": "虚词"
             },
             {
               "word": "欣然",
               "pinyin": "xīn rán",
-              "meaning": "高兴地",
-              "type": "虚词"
+              "meaning": "高兴、喜悦的样子",
+              "type": "实词"
             },
             {
               "word": "忘",
               "pinyin": "wàng",
-              "meaning": "忘记",
+              "meaning": "动词，忘记",
               "type": "实词"
             },
             {
               "word": "食",
               "pinyin": "shí",
-              "meaning": "吃饭",
+              "meaning": "名词，吃饭、饮食",
               "type": "实词"
             }
           ]
@@ -281,331 +283,367 @@
             {
               "word": "性",
               "pinyin": "xìng",
-              "meaning": "天性",
+              "meaning": "名词，天性、本性",
               "type": "实词"
             },
             {
-              "word": "嗜酒",
-              "pinyin": "shì jiǔ",
-              "meaning": "爱好喝酒",
+              "word": "嗜",
+              "pinyin": "shì",
+              "meaning": "动词，特别爱好",
+              "type": "实词"
+            },
+            {
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "名词，酒浆",
               "type": "实词"
             },
             {
               "word": "家",
               "pinyin": "jiā",
-              "meaning": "家庭",
+              "meaning": "名词，家庭、家境",
               "type": "实词"
             },
             {
               "word": "贫",
               "pinyin": "pín",
-              "meaning": "贫穷",
+              "meaning": "形容词，贫穷、贫困",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "实词"
+              "meaning": "能愿动词，能够、可以",
+              "type": "虚词"
             },
             {
               "word": "常",
               "pinyin": "cháng",
-              "meaning": "经常",
+              "meaning": "副词，经常、常常",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "此处读dé，义为得到、获得",
               "type": "实词"
             }
           ]
         },
         {
           "original": "亲旧知其如此，或置酒而招之。",
-          "translation": "亲戚朋友知道他这样，有时就准备酒邀请他。",
+          "translation": "亲戚朋友知道他这种情况，有时准备了酒邀请他去喝。",
           "words": [
             {
               "word": "亲旧",
               "pinyin": "qīn jiù",
-              "meaning": "亲戚朋友",
+              "meaning": "亲戚故旧，指亲友。",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "知道，了解。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，指代五柳先生。",
+              "type": "虚词"
             },
             {
               "word": "如此",
               "pinyin": "rú cǐ",
-              "meaning": "这样",
-              "type": "实词"
+              "meaning": "固定结构，像这样（指上文“性嗜酒，家贫不能常得”的情况）。",
+              "type": "虚词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有时",
+              "meaning": "无定代词，有的（人），有时。",
               "type": "虚词"
             },
             {
-              "word": "置酒",
-              "pinyin": "zhì jiǔ",
-              "meaning": "摆酒",
+              "word": "置",
+              "pinyin": "zhì",
+              "meaning": "置办，备办。",
+              "type": "实词"
+            },
+            {
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "酒。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "表承接",
+              "meaning": "连词，表承接，可不译。",
               "type": "虚词"
             },
             {
               "word": "招",
               "pinyin": "zhāo",
-              "meaning": "邀请",
+              "meaning": "邀请。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，指代五柳先生。",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "造饮辄尽，期在必醉，既醉而退，曾不吝情去留。",
-          "translation": "他去喝酒就喝个尽兴，期望一定要喝醉，喝醉后就离开，从不吝惜去留。",
+          "translation": "他去喝酒就喝个尽兴，期望一定要喝醉，喝醉后就离开，从不介意去留。",
           "words": [
             {
-              "word": "造饮",
-              "pinyin": "zào yǐn",
-              "meaning": "去喝酒",
+              "word": "造",
+              "pinyin": "zào",
+              "meaning": "到，去（指去亲友家）。",
+              "type": "实词"
+            },
+            {
+              "word": "饮",
+              "pinyin": "yǐn",
+              "meaning": "饮酒。",
               "type": "实词"
             },
             {
               "word": "辄",
               "pinyin": "zhé",
-              "meaning": "就",
+              "meaning": "副词，总是，就。",
               "type": "虚词"
             },
             {
               "word": "尽",
               "pinyin": "jìn",
-              "meaning": "喝完",
+              "meaning": "喝完，喝尽。",
               "type": "实词"
             },
             {
               "word": "期",
               "pinyin": "qī",
-              "meaning": "期望",
+              "meaning": "期望，希望。",
               "type": "实词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "在于，目的是。",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
-              "type": "虚词"
+              "meaning": "一定，必须。",
+              "type": "实词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "醉",
+              "meaning": "喝醉。",
               "type": "实词"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经。",
               "type": "虚词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "醉",
+              "meaning": "喝醉。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "表承接",
+              "meaning": "连词，表承接，然后。",
               "type": "虚词"
             },
             {
               "word": "退",
               "pinyin": "tuì",
-              "meaning": "离开",
+              "meaning": "离开，告退。",
               "type": "实词"
             },
             {
               "word": "曾",
               "pinyin": "céng",
-              "meaning": "从来",
+              "meaning": "副词，用在否定词前，加强否定语气，竟然。",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词。",
               "type": "虚词"
             },
             {
-              "word": "吝情",
-              "pinyin": "lìn qíng",
-              "meaning": "舍不得",
+              "word": "吝",
+              "pinyin": "lìn",
+              "meaning": "吝惜，舍不得。",
+              "type": "实词"
+            },
+            {
+              "word": "情",
+              "pinyin": "qíng",
+              "meaning": "感情，这里指牵扯感情、在意。",
               "type": "实词"
             },
             {
               "word": "去留",
               "pinyin": "qù liú",
-              "meaning": "离开或留下",
+              "meaning": "古义：离开和留下（非今义‘去和留’）。指去留的态度，即在意离开还是留下。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "环堵萧然，不蔽风日。",
-          "translation": "家里四壁空空，不能遮挡风雨和阳光。",
+          "translation": "四壁空空，遮不住风雨和阳光。",
           "words": [
             {
               "word": "环堵",
               "pinyin": "huán dǔ",
-              "meaning": "四壁",
+              "meaning": "四面墙壁，形容居室简陋狭窄",
               "type": "实词"
             },
             {
               "word": "萧然",
               "pinyin": "xiāo rán",
-              "meaning": "空寂",
+              "meaning": "空寂、冷清的样子，形容家徒四壁",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定，修饰动词'蔽'",
               "type": "虚词"
             },
             {
               "word": "蔽",
               "pinyin": "bì",
-              "meaning": "遮蔽",
+              "meaning": "遮蔽、遮挡",
               "type": "实词"
             },
             {
               "word": "风日",
               "pinyin": "fēng rì",
-              "meaning": "风和日光",
+              "meaning": "风和阳光，指自然气候",
               "type": "实词"
             }
           ]
         },
         {
           "original": "短褐穿结，箪瓢屡空，晏如也。",
-          "translation": "粗布短衣破烂打结，饭篮和水瓢常常空着，但他安然自若。",
+          "translation": "粗布短衣破烂打结，饮食器具经常空乏，但他安然自若。",
           "words": [
             {
               "word": "短褐",
               "pinyin": "duǎn hè",
-              "meaning": "粗布短衣",
+              "meaning": "粗布短衣，古代贫贱者所穿",
               "type": "实词"
             },
             {
               "word": "穿结",
               "pinyin": "chuān jié",
-              "meaning": "破烂打结",
+              "meaning": "穿孔和打结，形容衣服破烂不堪",
               "type": "实词"
             },
             {
               "word": "箪瓢",
               "pinyin": "dān piáo",
-              "meaning": "饮食器具",
+              "meaning": "箪是盛饭竹器，瓢是舀水器具，代指简朴饮食",
               "type": "实词"
             },
             {
               "word": "屡空",
-              "pinyin": "lǚ kōng",
-              "meaning": "常常空乏",
+              "pinyin": "lǚ kòng",
+              "meaning": "此处'空'读 kòng，义为空乏、缺乏；屡空即经常空乏，食物短缺",
               "type": "实词"
             },
             {
               "word": "晏如",
               "pinyin": "yàn rú",
-              "meaning": "安然自若",
+              "meaning": "安然自若、平静的样子",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定，强调状态",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "尝著文章自娱，颇示己志。",
-          "translation": "曾经写文章自娱自乐，很能表达自己的志向。",
+          "translation": "曾经写文章自娱自乐，稍微表达自己的志趣。",
           "words": [
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "曾经",
+              "meaning": "副词，曾经，表示动作行为发生在过去",
               "type": "虚词"
             },
             {
               "word": "著",
               "pinyin": "zhù",
-              "meaning": "写作",
+              "meaning": "动词，撰写、写作",
               "type": "实词"
             },
             {
               "word": "文章",
               "pinyin": "wén zhāng",
-              "meaning": "文章",
+              "meaning": "名词，指诗文作品",
               "type": "实词"
             },
             {
-              "word": "自娱",
-              "pinyin": "zì yú",
-              "meaning": "自我娱乐",
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "代词，自己，指五柳先生本人",
+              "type": "虚词"
+            },
+            {
+              "word": "娱",
+              "pinyin": "yú",
+              "meaning": "动词，娱乐、使快乐",
               "type": "实词"
             },
             {
               "word": "颇",
               "pinyin": "pō",
-              "meaning": "稍微",
+              "meaning": "副词，很、甚，表示程度较高",
               "type": "虚词"
             },
             {
               "word": "示",
               "pinyin": "shì",
-              "meaning": "表达",
+              "meaning": "动词，表达、显示",
               "type": "实词"
             },
             {
-              "word": "己志",
-              "pinyin": "jǐ zhì",
-              "meaning": "自己的志向",
+              "word": "己",
+              "pinyin": "jǐ",
+              "meaning": "代词，自己的",
+              "type": "虚词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "名词，志趣、志向",
               "type": "实词"
             }
           ]
@@ -617,31 +655,37 @@
             {
               "word": "忘怀",
               "pinyin": "wàng huái",
-              "meaning": "忘记",
+              "meaning": "动词，忘却、不放在心上",
               "type": "实词"
             },
             {
               "word": "得失",
               "pinyin": "dé shī",
-              "meaning": "得失",
+              "meaning": "名词，得到和失去，这里泛指世间的利害得失",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，凭借、用，与“此”组成介宾结构，表示依据",
               "type": "虚词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "代词，指代前文“忘怀得失”的这种态度或生活方式",
               "type": "虚词"
             },
             {
-              "word": "自终",
-              "pinyin": "zì zhōng",
-              "meaning": "自己终老",
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "代词，自己，指五柳先生本人",
+              "type": "虚词"
+            },
+            {
+              "word": "终",
+              "pinyin": "zhōng",
+              "meaning": "动词，终老、度过一生",
               "type": "实词"
             }
           ]
@@ -650,94 +694,88 @@
     },
     {
       "original": "赞曰：黔娄有言：“不戚戚于贫贱，不汲汲于富贵。”其言兹若人之俦乎？",
-      "translation": "赞语说：黔娄曾经说过：“不为贫贱而忧愁，不为富贵而奔忙。”这话大概说的就是五柳先生这类人吧？",
+      "translation": "评论说：黔娄曾说过：“不为贫贱而忧愁，也不急于追求富贵。”这话大概说的就是五柳先生这类人吧？",
       "sentences": [
         {
-          "original": "赞曰：",
-          "translation": "赞语说：",
+          "original": "赞曰：黔娄有言：“不戚戚于贫贱，不汲汲于富贵。”",
+          "translation": "评论说：黔娄曾说过：“不为贫贱而忧愁，也不急于追求富贵。”",
           "words": [
             {
               "word": "赞",
               "pinyin": "zàn",
-              "meaning": "评论",
+              "meaning": "动词，赞美、称赞，此处指作者对五柳先生的评论。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说、说道，引出评论内容。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "黔娄有言：“不戚戚于贫贱，不汲汲于富贵。”",
-          "translation": "黔娄曾经说过：“不为贫贱而忧愁，不为富贵而奔忙。”",
-          "words": [
+            },
             {
               "word": "黔娄",
-              "pinyin": "Qián Lóu",
-              "meaning": "人名",
+              "pinyin": "qián lóu",
+              "meaning": "战国时期齐国隐士，以清高守贫闻名，此处引用其言论以类比五柳先生。",
               "type": "人名"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，拥有、说过，表示存在言论。",
               "type": "实词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "话",
+              "meaning": "名词，指所说的话，即黔娄的言论。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰'戚戚'和'汲汲'。",
               "type": "虚词"
             },
             {
               "word": "戚戚",
               "pinyin": "qī qī",
-              "meaning": "忧愁的样子",
+              "meaning": "形容词，忧惧、忧虑的样子，在句中表示不为贫贱而忧愁。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，引出对象'贫贱'，表示对待的对象。",
               "type": "虚词"
             },
             {
               "word": "贫贱",
               "pinyin": "pín jiàn",
-              "meaning": "贫穷卑贱",
+              "meaning": "名词，指贫穷而地位低下的状态，与'富贵'相对。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰'汲汲'。",
               "type": "虚词"
             },
             {
               "word": "汲汲",
               "pinyin": "jí jí",
-              "meaning": "急切追求的样子",
+              "meaning": "形容词，心情急切、追求不已的样子，在句中表示不热衷于追求富贵。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，引出对象'富贵'，表示对待的对象。",
               "type": "虚词"
             },
             {
               "word": "富贵",
               "pinyin": "fù guì",
-              "meaning": "富裕尊贵",
+              "meaning": "名词，指财富多、地位高的状态，与'贫贱'相对。",
               "type": "实词"
             }
           ]
@@ -749,49 +787,49 @@
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代前文黔娄的言论，相当于'他的'。",
               "type": "虚词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "话",
+              "meaning": "名词，言论、话，指黔娄所说的内容。",
               "type": "实词"
             },
             {
               "word": "兹",
               "pinyin": "zī",
-              "meaning": "这",
+              "meaning": "指示代词，此、这，指代像五柳先生这样的人。",
               "type": "虚词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "像",
+              "meaning": "动词，像、如同，表示相似性。",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人，此处指五柳先生一类的人。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，表示领属关系，相当于'的'，连接'若人'和'俦'。",
               "type": "虚词"
             },
             {
               "word": "俦",
               "pinyin": "chóu",
-              "meaning": "同类",
+              "meaning": "名词，类、辈，指同类的人。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示疑问或推测，相当于'吧'或'吗'。",
               "type": "虚词"
             }
           ]
@@ -800,100 +838,94 @@
     },
     {
       "original": "衔觞赋诗，以乐其志，无怀氏之民欤？葛天氏之民欤！",
-      "translation": "他一边饮酒一边作诗，以此使自己的志趣得到快乐。他是无怀氏的百姓吗？还是葛天氏的百姓呢？",
+      "translation": "他一边饮酒一边作诗，以此来使自己的志趣得到快乐，这大概是无怀氏时代的百姓吧？或者是葛天氏时代的百姓吧！",
       "sentences": [
         {
           "original": "衔觞赋诗，以乐其志",
-          "translation": "一边饮酒一边作诗，以此使自己的志趣得到快乐。",
+          "translation": "他衔杯饮酒，赋诗言志，以此使自己的心志得到快乐。",
           "words": [
             {
-              "word": "衔觞",
-              "pinyin": "xián shāng",
-              "meaning": "衔着酒杯",
-              "type": "实词"
-            },
-            {
-              "word": "赋诗",
-              "pinyin": "fù shī",
-              "meaning": "作诗",
-              "type": "实词"
+              "word": "衔觞赋诗",
+              "pinyin": "xián shāng fù shī",
+              "meaning": "典故性短语，指饮酒作诗。'衔觞'指口衔酒杯，代指饮酒；'赋诗'指创作诗歌。",
+              "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，可译为'来'、'用来'。",
               "type": "虚词"
             },
             {
               "word": "乐",
               "pinyin": "lè",
-              "meaning": "使快乐",
+              "meaning": "此处读 lè，动词的使动用法，使……快乐。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，指代五柳先生自己。",
+              "type": "虚词"
             },
             {
               "word": "志",
               "pinyin": "zhì",
-              "meaning": "志向",
+              "meaning": "名词，心意、志趣。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "无怀氏之民欤？葛天氏之民欤！",
-          "translation": "他是无怀氏的百姓吗？还是葛天氏的百姓呢？",
+          "translation": "这莫非是无怀氏的百姓？抑或是葛天氏的百姓吧！",
           "words": [
             {
               "word": "无怀氏",
               "pinyin": "wú huái shì",
-              "meaning": "上古氏族",
-              "type": "典故"
+              "meaning": "传说中的上古帝王，其治理天下无为而治，人民安乐。此处借指上古淳朴之世。",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'。",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "百姓",
+              "meaning": "名词，百姓。",
               "type": "实词"
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问兼感叹，可译为'呢'、'吧'。",
               "type": "虚词"
             },
             {
               "word": "葛天氏",
               "pinyin": "gé tiān shì",
-              "meaning": "上古氏族",
-              "type": "典故"
+              "meaning": "传说中的上古帝王，其治世不言而信，不化而行。此处借指上古淳朴之世。",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'。",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "百姓",
+              "meaning": "名词，百姓。",
               "type": "实词"
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问兼感叹，可译为'呢'、'吧'。与前句构成选择疑问，加强赞叹语气。",
               "type": "虚词"
             }
           ]

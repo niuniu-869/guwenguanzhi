@@ -1,26 +1,28 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "121_获麟解",
   "title": "获麟解",
   "author": {
     "id": "tang_韩愈",
     "name": "韩愈",
     "dynasty": "tang",
-    "bio": "韩愈，字退之，河南河阳人，祖籍昌黎，世称韩昌黎。生于公元768年，卒于公元824年。唐代杰出的文学家、思想家、哲学家，古文运动的倡导者，被后人尊为“唐宋八大家”之首。他倡导散文反对骈文，强调文以载道，作品气势雄健，说理透彻，对后世文学影响深远。"
+    "bio": "韩愈，字退之，河南河阳（今河南孟州）人，生于768年，卒于824年。唐代文学家、思想家，唐宋八大家之首。曾任监察御史、刑部侍郎、国子祭酒等职。代表作有《师说》《进学解》《祭十二郎文》等。他倡导古文运动，反对骈文，主张文以载道，对中唐至后世散文发展影响深远。"
   },
   "source": "",
   "dynasty": "tang",
   "volume": 7,
-  "background": "韩愈的《获麟解》创作于唐代中期，具体时间不详，但大致在他仕途起伏期间。韩愈生活在安史之乱后，唐朝社会动荡，中央集权削弱，藩镇割据，他作为儒家思想的拥护者，致力于复兴儒学和古文运动，以文章干预社会。麒麟在古代被视为祥瑞之兽，象征圣人在位、天下太平。韩愈借此文隐喻人才识别问题：在乱世中，贤才如同麒麟，形状独特不易被识别，甚至被误认为不祥。文章可能反映了韩愈对当时政治腐败、人才埋没的感慨，以及对圣君出现的期盼，体现了他以文载道、经世致用的理念。写作背景与韩愈的个人经历相关，他曾因谏迎佛骨被贬，对人才不被赏识有深刻体会，借此文表达对德行和圣治的追求。",
-  "appreciation": "《获麟解》是一篇精炼的议论文，展现了韩愈散文的雄辩风格和深刻思想。文章结构严谨，开篇引用《诗经》和《春秋》，确立麒麟的祥瑞地位，增强论证权威性。接着通过对比马、牛等常见动物，突出麒麟形状的独特性，引出“不可知则谓之不祥”的论点，逻辑层层递进。语言简洁有力，使用反问和转折，如“惟麟也，不可知”，强化了思辨色彩。主题上，借物喻人，以麒麟比喻贤才，强调识别人才应以德行而非外貌，反映了儒家重德轻形的思想。最后点明“麟之所以为麟者，以德不以形”，升华主题，呼吁圣人出现以识别真才，体现了韩愈对理想政治的向往。全文寓意深远，既有文学美感，又具哲学深度，是唐代古文的典范之作。",
+  "background": "《获麟解》创作于唐代中期，约在贞元至元和年间。当时社会经历安史之乱后逐渐恢复，但藩镇割据、宦官专权等问题持续，儒家思想面临佛道挑战，韩愈倡导古文运动以复兴儒学。作者韩愈仕途起伏，曾任监察御史、国子博士等职，写作此文时可能处于官场调迁或反思阶段，针对传统祥瑞观念中麒麟的象征意义提出新解，旨在阐述圣人在位与祥瑞的关系，隐含对时政的关切。",
+  "appreciation": "本文为议论体，结构严谨：首段引经据典确立麒麟为灵物，次段转折指出其形不可知而易被误为不祥，末段以圣人知麟和德不以形作结，层层递进。艺术特色上，语言简练，运用对比（如马牛犬豕与麟的类比）和排比（如“不畜于家，不恒有于天下”）增强逻辑性，节奏明快。思想内涵核心是强调麒麟的祥瑞性取决于圣人的存在，主张以德而非形评判事物，体现儒家重德轻形的价值立场。作为古文运动代表作，它展示了韩愈文以载道的主张，对后世议论文的简洁风格有示范作用。",
   "tags": [
-    "唐代散文",
-    "寓言",
-    "人才论"
+    "议论",
+    "哲理",
+    "政治",
+    "寓言"
   ],
   "paragraphs": [
     {
       "original": "麟之为灵，昭昭也。咏于《诗》，书于《春秋》，杂出于传记、百家之书。",
-      "translation": "麟作为一种灵兽，是显而易见的。它在《诗经》中被歌咏，在《春秋》中被记载，还杂见于各种传记和诸子百家的书籍中。",
+      "translation": "麟作为一种灵兽，其灵性是显而易见的。它在《诗经》中被歌颂，在《春秋》中被记载，并散见于各种传记和诸子百家的书籍中。",
       "sentences": [
         {
           "original": "麟之为灵，昭昭也。",
@@ -29,115 +31,115 @@
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟，神兽",
+              "meaning": "麒麟，古代传说中的灵兽",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为动词，是、作为",
               "type": "实词"
             },
             {
               "word": "灵",
               "pinyin": "líng",
-              "meaning": "灵异",
+              "meaning": "灵兽，神奇之物",
               "type": "实词"
             },
             {
               "word": "昭昭",
               "pinyin": "zhāo zhāo",
-              "meaning": "明显",
+              "meaning": "明显、显著的样子",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "咏于《诗》，书于《春秋》，杂出于传记、百家之书。",
-          "translation": "在《诗经》中被歌咏，在《春秋》中被记载，杂见于传记和诸子百家的书籍中。",
+          "translation": "在《诗经》中被歌颂，在《春秋》中被记载，还零星出现在各种传记和诸子百家的书中。",
           "words": [
             {
               "word": "咏",
               "pinyin": "yǒng",
-              "meaning": "歌咏",
+              "meaning": "歌咏、吟诵",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表被动，相当于'被'",
               "type": "虚词"
             },
             {
               "word": "《诗》",
               "pinyin": "shī",
-              "meaning": "《诗经》",
-              "type": "典故"
+              "meaning": "指《诗经》，中国最早的诗歌总集，儒家经典",
+              "type": "实词"
             },
             {
               "word": "书",
               "pinyin": "shū",
-              "meaning": "记载",
+              "meaning": "记载、书写",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "《春秋》",
               "pinyin": "chūn qiū",
-              "meaning": "《春秋》",
-              "type": "典故"
+              "meaning": "指《春秋》，鲁国编年史，儒家经典之一",
+              "type": "实词"
             },
             {
               "word": "杂出",
               "pinyin": "zá chū",
-              "meaning": "杂乱出现",
+              "meaning": "杂乱地出现、散见",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表处所，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "传记",
               "pinyin": "zhuàn jì",
-              "meaning": "传记",
+              "meaning": "传记类著作，记载人物事迹的书籍",
               "type": "实词"
             },
             {
               "word": "百家",
               "pinyin": "bǎi jiā",
-              "meaning": "诸子百家",
+              "meaning": "指诸子百家，春秋战国时期的各种学派",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表领属，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "书",
               "pinyin": "shū",
-              "meaning": "书籍",
+              "meaning": "书籍、著作",
               "type": "实词"
             }
           ]
@@ -146,64 +148,64 @@
     },
     {
       "original": "虽妇人小子，皆知其为祥也。",
-      "translation": "即使是妇女和小孩，都知道麟是吉祥的。",
+      "translation": "即便是妇女和孩童，也都明白麒麟是祥瑞的象征。",
       "sentences": [
         {
           "original": "虽妇人小子，皆知其为祥也。",
-          "translation": "即使是妇女和小孩，都知道麟是吉祥的。",
+          "translation": "即使是妇女和小孩，也都知道它是祥瑞。",
           "words": [
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，表示让步关系，相当于‘即使’",
               "type": "虚词"
             },
             {
               "word": "妇人",
               "pinyin": "fù rén",
-              "meaning": "已婚女子",
+              "meaning": "古义：成年女性（非今义有时含轻视的‘妻子’义）",
               "type": "实词"
             },
             {
               "word": "小子",
               "pinyin": "xiǎo zǐ",
-              "meaning": "年轻人或小孩",
+              "meaning": "古义：小孩子、儿童（非今义有时含轻视的‘小子’义）",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，表示总括，相当于‘都’",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它，指麒麟",
-              "type": "实词"
+              "meaning": "代词，指代上文提到的麒麟，相当于‘它’",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "动词，表示判断，相当于‘是’",
               "type": "实词"
             },
             {
               "word": "祥",
               "pinyin": "xiáng",
-              "meaning": "吉祥",
+              "meaning": "名词，祥瑞、吉祥的征兆",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表示肯定语气",
+              "meaning": "句末语气词，表示判断和肯定语气",
               "type": "虚词"
             }
           ]
@@ -212,466 +214,460 @@
     },
     {
       "original": "然麟之为物，不畜于家，不恒有于天下。其为形也不类，非若马、牛、犬、豕、豺、狼、麋、鹿然。然则虽有麟，不可知其为麟也。角者，吾知其为牛；鬛者，吾知其为马；犬、豕、豺、狠、麋、鹿，吾知其为犬、豕、豺、狼、麋、鹿。",
-      "translation": "然而麒麟作为一种生物，不被家养，不常在世间出现。它的形态独特，不像马、牛、狗、猪、豺、狼、麋、鹿那样。因此，即使有麒麟，也无法认出它是麒麟。有角的动物，我知道是牛；有鬃毛的动物，我知道是马；狗、猪、豺、狼、麋、鹿，我能认出它们是狗、猪、豺、狼、麋、鹿。",
+      "translation": "然而麒麟作为一种生物，不被家庭饲养，不经常在天下出现。它的外形不类似其他动物，不像马、牛、狗、猪、豺、狼、麋、鹿那样。既然这样，那么即使有麒麟，也不可能知道它是麒麟。有角的，我知道它是牛；有鬃毛的，我知道它是马；狗、猪、豺、狼、麋、鹿，我知道它们是狗、猪、豺、狼、麋、鹿。",
       "sentences": [
         {
           "original": "然麟之为物，不畜于家，不恒有于天下。",
-          "translation": "然而麒麟作为一种生物，不被家养，不常在世间出现。",
+          "translation": "然而麒麟作为一种生物，不被家庭饲养，不经常在天下出现。",
           "words": [
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "但是",
+              "meaning": "连词，表转折，然而",
               "type": "虚词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "传说中的仁兽名，即麒麟",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构‘麟为物’之间，取消其独立性，使该结构作全句主语",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，作为",
               "type": "实词"
             },
             {
               "word": "物",
               "pinyin": "wù",
-              "meaning": "事物",
+              "meaning": "名词，事物、物种",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "畜",
               "pinyin": "xù",
-              "meaning": "畜养",
+              "meaning": "动词，畜养、饲养",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表处所，相当于‘在’",
               "type": "虚词"
             },
             {
               "word": "家",
               "pinyin": "jiā",
-              "meaning": "家庭",
+              "meaning": "名词，家庭",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "恒",
               "pinyin": "héng",
-              "meaning": "经常",
+              "meaning": "副词，经常、长久",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表范围，相当于‘在…中’",
               "type": "虚词"
             },
             {
               "word": "天下",
-              "pinyin": "tiānxià",
-              "meaning": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "名词，世间、社会",
               "type": "实词"
             }
           ]
         },
         {
           "original": "其为形也不类，非若马、牛、犬、豕、豺、狼、麋、鹿然。",
-          "translation": "它的形态独特，不像马、牛、狗、猪、豺、狼、麋、鹿那样。",
+          "translation": "它的外形不类似，不像马、牛、狗、猪、豺、狼、麋、鹿那样。",
           "words": [
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "代词，指代麟",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，具有",
               "type": "实词"
             },
             {
               "word": "形",
               "pinyin": "xíng",
-              "meaning": "形状",
+              "meaning": "名词，外形",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "也",
+              "meaning": "句中语气词，表停顿",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "类",
               "pinyin": "lèi",
-              "meaning": "类似",
+              "meaning": "动词，类似、相似",
               "type": "实词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "否定副词，不",
               "type": "虚词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "像",
-              "type": "虚词"
+              "meaning": "动词，像",
+              "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马匹",
               "type": "实词"
             },
             {
               "word": "牛",
               "pinyin": "niú",
-              "meaning": "牛",
+              "meaning": "名词，牛",
               "type": "实词"
             },
             {
               "word": "犬",
               "pinyin": "quǎn",
-              "meaning": "狗",
+              "meaning": "名词，狗",
               "type": "实词"
             },
             {
               "word": "豕",
               "pinyin": "shǐ",
-              "meaning": "猪",
+              "meaning": "名词，猪",
               "type": "实词"
             },
             {
               "word": "豺",
               "pinyin": "chái",
-              "meaning": "豺",
+              "meaning": "名词，豺狼",
               "type": "实词"
             },
             {
               "word": "狼",
               "pinyin": "láng",
-              "meaning": "狼",
+              "meaning": "名词，狼",
               "type": "实词"
             },
             {
               "word": "麋",
               "pinyin": "mí",
-              "meaning": "麋鹿",
+              "meaning": "名词，麋鹿",
               "type": "实词"
             },
             {
               "word": "鹿",
               "pinyin": "lù",
-              "meaning": "鹿",
+              "meaning": "名词，鹿",
               "type": "实词"
             },
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "的样子",
+              "meaning": "词尾，用在形容词或副词后，表示‘…的样子’，此处与‘非若’呼应，表比较",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "然则虽有麟，不可知其为麟也。",
-          "translation": "因此，即使有麒麟，也无法认出它是麒麟。",
+          "translation": "既然这样，那么即使有麒麟，也不可能知道它是麒麟。",
           "words": [
             {
               "word": "然则",
-              "pinyin": "ránzé",
-              "meaning": "那么",
+              "pinyin": "rán zé",
+              "meaning": "古义：既然这样，那么（非今义'然而'），固定结构，用于承接前文推论。",
               "type": "虚词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步，相当于'即使'。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，表示存在。",
               "type": "实词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "名词，指麒麟，古代传说中的瑞兽。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
-              "type": "虚词"
+              "meaning": "助动词，表示可能、能够。",
+              "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、识别。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "代词，指代前文'麟'，作动词'知'的宾语。",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为是、作为（区别于 wèi 之'为了'义）。",
               "type": "实词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "名词，指麒麟，古代传说中的瑞兽。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "也",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "角者，吾知其为牛；鬛者，吾知其为马；",
-          "translation": "有角的动物，我知道是牛；有鬃毛的动物，我知道是马；",
+          "original": "角者，吾知其为牛；鬛者，吾知其为马；犬、豕、豺、狠、麋、鹿，吾知其为犬、豕、豺、狼、麋、鹿。",
+          "translation": "有角的，我知道它是牛；有鬃毛的，我知道它是马；狗、猪、豺、狼、麋、鹿，我知道它们是狗、猪、豺、狼、麋、鹿。",
           "words": [
             {
               "word": "角",
               "pinyin": "jiǎo",
-              "meaning": "角",
+              "meaning": "名词，动物的角。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的东西",
+              "meaning": "助词，用于名词后，表示'...的东西'或停顿。",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我。",
+              "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、识别。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代'角者'，作动词'知'的宾语。",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为是、作为（区别于 wèi 之'为了'义）。",
               "type": "实词"
             },
             {
               "word": "牛",
               "pinyin": "niú",
-              "meaning": "牛",
+              "meaning": "名词，牛这种动物。",
               "type": "实词"
             },
             {
               "word": "鬛",
               "pinyin": "liè",
-              "meaning": "马鬃",
+              "meaning": "名词，同'鬣'，指马颈上的长毛，这里代指马。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的东西",
+              "meaning": "助词，用于名词后，表示'...的东西'或停顿。",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我。",
+              "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、识别。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代'鬛者'，作动词'知'的宾语。",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为是、作为（区别于 wèi 之'为了'义）。",
               "type": "实词"
             },
             {
               "word": "马",
               "pinyin": "mǎ",
-              "meaning": "马",
+              "meaning": "名词，马这种动物。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "犬、豕、豺、狠、麋、鹿，吾知其为犬、豕、豺、狼、麋、鹿。",
-          "translation": "狗、猪、豺、狼、麋、鹿，我能认出它们是狗、猪、豺、狼、麋、鹿。",
-          "words": [
+            },
             {
               "word": "犬",
               "pinyin": "quǎn",
-              "meaning": "狗",
+              "meaning": "名词，狗。",
               "type": "实词"
             },
             {
               "word": "豕",
               "pinyin": "shǐ",
-              "meaning": "猪",
+              "meaning": "名词，猪。",
               "type": "实词"
             },
             {
               "word": "豺",
               "pinyin": "chái",
-              "meaning": "豺",
+              "meaning": "名词，豺狼，一种猛兽。",
               "type": "实词"
             },
             {
               "word": "狠",
               "pinyin": "hěn",
-              "meaning": "狼",
+              "meaning": "名词，应为'狼'，一种猛兽，这里可能为传抄之误。",
               "type": "实词"
             },
             {
               "word": "麋",
               "pinyin": "mí",
-              "meaning": "麋鹿",
+              "meaning": "名词，麋鹿。",
               "type": "实词"
             },
             {
               "word": "鹿",
               "pinyin": "lù",
-              "meaning": "鹿",
+              "meaning": "名词，鹿。",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我。",
+              "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、识别。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代前文动物列表，作动词'知'的宾语。",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，义为是、作为（区别于 wèi 之'为了'义）。",
               "type": "实词"
             },
             {
               "word": "犬",
               "pinyin": "quǎn",
-              "meaning": "狗",
+              "meaning": "名词，狗。",
               "type": "实词"
             },
             {
               "word": "豕",
               "pinyin": "shǐ",
-              "meaning": "猪",
+              "meaning": "名词，猪。",
               "type": "实词"
             },
             {
               "word": "豺",
               "pinyin": "chái",
-              "meaning": "豺",
+              "meaning": "名词，豺狼，一种猛兽。",
               "type": "实词"
             },
             {
               "word": "狼",
               "pinyin": "láng",
-              "meaning": "狼",
+              "meaning": "名词，狼，一种猛兽。",
               "type": "实词"
             },
             {
               "word": "麋",
               "pinyin": "mí",
-              "meaning": "麋鹿",
+              "meaning": "名词，麋鹿。",
               "type": "实词"
             },
             {
               "word": "鹿",
               "pinyin": "lù",
-              "meaning": "鹿",
+              "meaning": "名词，鹿。",
               "type": "实词"
             }
           ]
@@ -680,112 +676,100 @@
     },
     {
       "original": "惟麟也，不可知。不可知，则其谓之不祥也亦宜。",
-      "translation": "只有麒麟，是不可知晓的。既然不可知晓，那么称它为不祥之物也是合适的。",
+      "translation": "只有麟，不能被识别。既然不能被识别，那么称它为不祥之物也是合适的。",
       "sentences": [
         {
           "original": "惟麟也，不可知。",
-          "translation": "只有麒麟，是不可知晓的。",
+          "translation": "只有麟，不能被识别。",
           "words": [
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "只有",
+              "meaning": "句首语气词，用于引出话题，强调‘麟’这个对象",
               "type": "虚词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
-              "type": "典故"
+              "meaning": "麒麟，传说中的瑞兽，象征祥瑞",
+              "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气停顿",
+              "meaning": "句中语气词，表示停顿，以舒缓语气并强调主语‘麟’",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "可知",
               "pinyin": "kě zhī",
-              "meaning": "可以知道",
+              "meaning": "可以知道、能够了解",
               "type": "实词"
             }
           ]
         },
         {
           "original": "不可知，则其谓之不祥也亦宜。",
-          "translation": "既然不可知晓，那么称它为不祥之物也是合适的。",
+          "translation": "既然不能被识别，那么称它为不祥之物也是合适的。",
           "words": [
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "否定",
-              "type": "虚词"
-            },
-            {
-              "word": "可知",
-              "pinyin": "kě zhī",
-              "meaning": "可以知道",
+              "word": "不可知",
+              "pinyin": "bù kě zhī",
+              "meaning": "承上文，指麒麟无法被了解、认识",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，表示顺承关系，相当于‘那么’、‘就’",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
+              "meaning": "代词，指代人们、大家，泛指一般人",
               "type": "虚词"
             },
             {
               "word": "谓",
               "pinyin": "wèi",
-              "meaning": "称",
+              "meaning": "动词，说，称作",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词它",
+              "meaning": "代词，指代麟",
               "type": "虚词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "否定",
-              "type": "虚词"
-            },
-            {
-              "word": "祥",
-              "pinyin": "xiáng",
-              "meaning": "吉利",
+              "word": "不祥",
+              "pinyin": "bù xiáng",
+              "meaning": "不吉祥",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句中语气词，表示停顿，与‘谓之不祥’构成主谓短语",
               "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也",
               "type": "虚词"
             },
             {
               "word": "宜",
               "pinyin": "yí",
-              "meaning": "应该",
+              "meaning": "形容词，适宜、合理",
               "type": "实词"
             }
           ]
@@ -794,184 +778,178 @@
     },
     {
       "original": "虽然，麟之出，必有圣人在乎位，麟为圣人出也。圣人者，必知麟，麟之果不为不祥也。",
-      "translation": "尽管如此，麟的出现，一定是因为有圣人在位，麟是为圣人而出现的。圣人，一定了解麟，麟确实不是不祥之物。",
+      "translation": "虽然如此，麟的出现，必定是因为有圣人在位，麟是为圣人而出现的。圣人必定认识麟，所以麟确实不是不祥之物。",
       "sentences": [
         {
           "original": "虽然，麟之出，必有圣人在乎位，麟为圣人出也。",
-          "translation": "尽管如此，麟的出现，一定是因为有圣人在位，麟是为圣人而出现的。",
+          "translation": "虽然如此，麟的出现，一定是因为有圣人在位，麟是为圣人而出现的。",
           "words": [
             {
-              "word": "虽",
-              "pinyin": "suī",
-              "meaning": "虽然",
-              "type": "虚词"
-            },
-            {
-              "word": "然",
-              "pinyin": "rán",
-              "meaning": "这样",
+              "word": "虽然",
+              "pinyin": "suī rán",
+              "meaning": "古今异义。古义：虽然这样（'虽'即虽然，'然'即这样）。非今义转折连词。",
               "type": "虚词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "古代传说中的仁兽，象征祥瑞，其出现被视为圣王在位的吉兆。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词",
+              "meaning": "助词，用于主语'麟'和谓语'出'之间，取消句子独立性，使'麟出'成为主谓短语。",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出现",
+              "meaning": "动词，出现。",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
-              "type": "虚词"
+              "meaning": "副词，一定。",
+              "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，存在。",
               "type": "实词"
             },
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "指品德智慧极高、能应天受命的君主，文中特指麟所感应的明君。",
               "type": "实词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在",
+              "meaning": "动词，处于。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "于",
+              "meaning": "介词，相当于'于'，引出动作'在'的处所'位'。",
               "type": "虚词"
             },
             {
               "word": "位",
               "pinyin": "wèi",
-              "meaning": "位置",
+              "meaning": "名词，指君主之位、帝位。",
               "type": "实词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "古代传说中的仁兽，象征祥瑞，其出现被视为圣王在位的吉兆。",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wèi",
-              "meaning": "为",
+              "meaning": "此处读 wèi，介词，表示目的或受益对象，相当于'为了'。",
               "type": "虚词"
             },
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "指品德智慧极高、能应天受命的君主，文中特指麟所感应的明君。",
               "type": "实词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出现",
+              "meaning": "动词，出现。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表判断",
+              "meaning": "句末语气词，表判断与肯定，与前面的'者'（虽未出现但隐含）呼应，构成判断句式。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "圣人者，必知麟，麟之果不为不祥也。",
-          "translation": "圣人，一定了解麟，麟确实不是不祥之物。",
+          "translation": "圣人必定认识麟，麟确实不是不祥之物。",
           "words": [
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "指品德智慧极高、能应天受命的君主，文中特指麟所感应的明君。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，用在主语'圣人'后，表示提顿，有引出下文判断或解释的语气。",
               "type": "虚词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
-              "type": "虚词"
+              "meaning": "副词，一定。",
+              "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，了解、认识。",
               "type": "实词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "古代传说中的仁兽，象征祥瑞，其出现被视为圣王在位的吉兆。",
               "type": "实词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "古代传说中的仁兽，象征祥瑞，其出现被视为圣王在位的吉兆。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词",
+              "meaning": "助词，用于主语'麟'和谓语'果不为不祥'之间，取消句子独立性，使'麟果不为不祥'成为主谓短语作宾语。",
               "type": "虚词"
             },
             {
               "word": "果",
               "pinyin": "guǒ",
-              "meaning": "果然",
-              "type": "虚词"
+              "meaning": "副词，最终、果然。",
+              "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
+              "meaning": "副词，表示否定。",
+              "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，是。",
+              "type": "实词"
             },
             {
               "word": "不祥",
               "pinyin": "bù xiáng",
-              "meaning": "不吉祥",
+              "meaning": "不吉利。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表判断",
+              "meaning": "句末语气词，表判断与肯定，确认'麟不为不祥'这一结论。",
               "type": "虚词"
             }
           ]
@@ -980,178 +958,166 @@
     },
     {
       "original": "又曰：麟之所以为麟者，以德不以形。若麟之出，不待圣人，则谓之不祥也亦宜。",
-      "translation": "又说：麒麟之所以成为麒麟，是基于它的德行而非外形。如果麒麟的出现不等待圣人（在位），那么称它为不祥也是合适的。",
+      "translation": "又说，麒麟之所以成为麒麟，在于它的德行而不在于它的外形。如果麒麟的出现不等待圣人（在位），那么称它为不祥之物也是合适的。",
       "sentences": [
         {
           "original": "又曰：麟之所以为麟者，以德不以形。",
-          "translation": "又说：麒麟之所以成为麒麟，是因为它的德行而不是因为它的外形。",
+          "translation": "又说，麒麟之所以成为麒麟，在于它的德行而不在于它的外形。",
           "words": [
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "再次",
+              "meaning": "副词，表示动作或情况的重复或继续，此处指前文已有一种说法，此处引出另一种说法",
               "type": "虚词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "名词，麒麟，古代传说中的仁兽，象征祥瑞",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "所以",
-              "pinyin": "suǒ yǐ",
-              "meaning": "原因",
+              "word": "之所以",
+              "pinyin": "zhī suǒ yǐ",
+              "meaning": "固定结构，与后文'者'配合，表示'…的原因'或'…的依据'",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "动词，成为，作为",
               "type": "实词"
             },
             {
-              "word": "麟",
-              "pinyin": "lín",
-              "meaning": "麒麟",
-              "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的",
+              "word": "麟者",
+              "pinyin": "lín zhě",
+              "meaning": "此处'者'为助词，用于主语'麟之所以为麟'后表停顿，并引出后面的判断",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "凭借",
+              "meaning": "介词，表示凭借的依据，相当于'根据'、'凭借'",
               "type": "虚词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "德行",
+              "meaning": "名词，德行，品德。此处指麒麟所象征的仁德",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "凭借",
+              "meaning": "介词，与前一个'以'对举，表示凭借的依据",
               "type": "虚词"
             },
             {
               "word": "形",
               "pinyin": "xíng",
-              "meaning": "外形",
+              "meaning": "名词，外形，形体",
               "type": "实词"
             }
           ]
         },
         {
           "original": "若麟之出，不待圣人，则谓之不祥也亦宜。",
-          "translation": "如果麒麟的出现，不等待圣人（在位），那么称它为不祥也是合适的。",
+          "translation": "如果麒麟的出现不等待圣人（在位），那么称它为不祥之物也是合适的。",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表示假设，如果",
               "type": "虚词"
             },
             {
               "word": "麟",
               "pinyin": "lín",
-              "meaning": "麒麟",
+              "meaning": "名词，麒麟",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词",
+              "meaning": "助词，用于主谓之间，取消'麟出'这个主谓结构的独立性，使其成为'若'的宾语",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出现",
+              "meaning": "动词，出现",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "待",
               "pinyin": "dài",
-              "meaning": "等待",
+              "meaning": "动词，等待，等候",
               "type": "实词"
             },
             {
               "word": "圣人",
               "pinyin": "shèng rén",
-              "meaning": "圣人",
+              "meaning": "名词，指品德智慧极高、能识麟、致麟的有德之君",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，表示顺承关系，那么，就",
               "type": "虚词"
             },
             {
               "word": "谓",
               "pinyin": "wèi",
-              "meaning": "称",
+              "meaning": "动词，说，称",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代'麟之出，不待圣人'这件事",
               "type": "虚词"
             },
             {
               "word": "不祥",
               "pinyin": "bù xiáng",
-              "meaning": "不吉祥",
+              "meaning": "形容词，不吉祥",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "语气词，用于句中表停顿",
               "type": "虚词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也",
               "type": "虚词"
             },
             {
               "word": "宜",
               "pinyin": "yí",
-              "meaning": "适宜",
+              "meaning": "形容词，适宜，应该",
               "type": "实词"
             }
           ]

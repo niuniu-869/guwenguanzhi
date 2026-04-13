@@ -1,311 +1,319 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "085_滑稽列传",
   "title": "滑稽列传",
   "author": {
     "id": "han_司马迁",
     "name": "司马迁",
     "dynasty": "han",
-    "bio": "司马迁，字子长，西汉夏阳（今陕西韩城）人，生于约公元前145年，卒于约公元前86年。他是中国伟大的史学家和文学家，继承父业任太史令，后因替李陵辩护而遭受宫刑，发愤著书，完成《史记》。《史记》是中国第一部纪传体通史，记载了从黄帝到汉武帝的历史，被誉为'史家之绝唱，无韵之离骚'。司马迁以其严谨的史学态度和卓越的文学才华，对后世史学和文学产生了深远影响。"
+    "bio": "司马迁，字子长，约公元前145年—约公元前86年，夏阳（今陕西韩城）人。西汉史学家、文学家。曾任太史令，因李陵之祸受宫刑，后任中书令。发愤著书，完成《史记》，为中国第一部纪传体通史，记载从黄帝到汉武帝的历史。其文学史地位卓越，被誉为‘史家之绝唱，无韵之离骚’，对后世史学与文学影响深远。"
   },
   "source": "史记",
   "dynasty": "han",
   "volume": 5,
-  "background": "司马迁在西汉武帝时期撰写《史记》，旨在'究天人之际，通古今之变，成一家之言'。《滑稽列传》出自《史记》，记载了战国时期齐国淳于髡等滑稽人物的事迹。当时，诸侯争霸，齐国在齐威王统治下一度内忧外患，淳于髡以幽默隐语劝谏君王，使国家振兴。司马迁通过这些故事，反映古代政治智慧，强调'谈言微中，亦可以解纷'的哲理。文章写作背景涉及战国政治环境及司马迁借古讽今的意图，展现了历史人物的生动形象和劝谏艺术，同时也体现了司马迁对历史记录的独特视角。",
-  "appreciation": "《滑稽列传》在文学上具有独特价值，以幽默笔触展现严肃主题。文章通过生动的对话和叙事，塑造了淳于髡滑稽多辩的形象，如'国中有大鸟'的隐喻，巧妙表达劝谏之意，避免了直接冒犯。语言风格轻松诙谐，却蕴含深刻哲理，如'酒极则乱，乐极则悲'的警示，揭示了事物发展的辩证关系。结构严谨，先引孔子和太史公的评论，奠定主题基调，再通过具体事例层层递进，最后点明讽谏目的。这种以小见大、寓庄于谐的手法，体现了司马迁高超的文学造诣。文章不仅娱乐性强，更具教育意义，展示了古代劝谏艺术的精髓，对后世文学影响深远，开创了幽默叙事与政治讽喻相结合的先河。",
+  "background": "《滑稽列传》出自司马迁《史记》，记载战国时期齐国淳于髡等人的事迹。时代背景为战国中期，诸侯争霸，政治动荡。齐威王即位初期，沉湎酒色，委政卿大夫，导致百官荒乱，诸侯侵扰，国势危殆。作者司马迁在汉武帝时因李陵之祸受宫刑，身心受创，后担任中书令，忍辱负重，发愤完成《史记》。写作动机在于通过记录淳于髡以隐语讽谏、助齐威王振作的故事，阐述‘谈言微中，亦可以解纷’的道理，表彰那些以诙谐方式匡正君过的历史人物，反映司马迁对智慧进谏的推崇和对历史多元视角的包容。",
+  "appreciation": "《滑稽列传》以叙事文体为主，结构上先总论后分述。开篇引用孔子论六艺与太史公评语，点明主旨；随后聚焦淳于髡，通过三则轶事——隐语谏齐威王、讽谏赍金请救兵、论饮酒之道——展现其滑稽多辩的形象，篇章布局紧凑，首尾呼应。艺术特色上，语言诙谐生动，善用隐语和比喻，如以‘大鸟’喻齐威王蛰伏后奋起，以‘穰田者’讽所求奢而所予薄，增强叙事趣味；对话精炼，节奏明快，刻画人物栩栩如生。思想内涵深刻，核心观点是‘谈言微中’的进谏智慧，强调委婉表达在政治中的作用，反对极端，主张‘酒极则乱，乐极则悲’的中庸哲理；价值立场体现司马迁对历史人物的多元评价，不以地位论英雄，重视边缘人物的贡献。在文学史上，此篇拓展了史书题材，以滑稽人物入史，对后世讽刺文学和传记文学如《世说新语》等有启发。",
   "tags": [
-    "滑稽多辩",
-    "劝谏艺术",
-    "史记文学"
+    "叙事",
+    "政治",
+    "人物",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "孔子曰：“六艺于治一也。《礼》以节人，《乐》以发和，《书》以道事，《诗》以达意，《易》以神化，《春秋》以道义。”太史公曰：天道恢恢，岂不大哉！谈言微中，亦可以解纷。",
-      "translation": "孔子说：“六艺对于治理国家来说是一样的。《礼》用来规范人的行为，《乐》用来促进和谐，《书》用来记述事务，《诗》用来表达心意，《易》用来通达神明变化，《春秋》用来阐述道义。”太史公说：天道广阔无边，难道不伟大吗！言谈中稍微切中事理，也可以解决纷争。",
+      "translation": "孔子说：'六艺对于治理国家来说都是一样的。《礼》用来节制人的行为，《乐》用来发扬和谐，《书》用来记述事务，《诗》用来表达心意，《易》用来体现神妙变化，《春秋》用来阐述义理。'太史公说：天道广阔，难道不伟大吗！言谈略微切中事理，也可以解除纷争。",
       "sentences": [
         {
-          "original": "孔子曰：“六艺于治一也。”",
-          "translation": "孔子说：“六艺对于治理国家来说是一样的。”",
+          "original": "孔子曰：“六艺于治一也。《礼》以节人，《乐》以发和，《书》以道事，《诗》以达意，《易》以神化，《春秋》以道义。”",
+          "translation": "孔子说：'六艺对于治理国家来说都是一样的。《礼》用来节制人的行为，《乐》用来发扬和谐，《书》用来记述事务，《诗》用来表达心意，《易》用来体现神妙变化，《春秋》用来阐述义理。'",
           "words": [
             {
               "word": "孔子",
-              "pinyin": "Kǒngzǐ",
-              "meaning": "儒家创始人",
+              "pinyin": "kǒng zǐ",
+              "meaning": "春秋末期思想家、教育家，儒家学派创始人，此处引用其言论",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说，用于直接引出话语",
               "type": "实词"
             },
             {
               "word": "六艺",
               "pinyin": "liù yì",
-              "meaning": "六种技艺",
+              "meaning": "典故，指儒家六部经典：《礼》《乐》《书》《诗》《易》《春秋》",
               "type": "典故"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，表示对象，相当于“对于”",
               "type": "虚词"
             },
             {
               "word": "治",
               "pinyin": "zhì",
-              "meaning": "治理",
+              "meaning": "名词，治理、政治",
               "type": "实词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一样",
+              "meaning": "数词，一样、一致",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "“《礼》以节人，《乐》以发和，《书》以道事，《诗》以达意，《易》以神化，《春秋》以道义。”",
-          "translation": "“《礼》用来规范人的行为，《乐》用来促进和谐，《书》用来记述事务，《诗》用来表达心意，《易》用来通达神明变化，《春秋》用来阐述道义。”",
-          "words": [
+            },
             {
-              "word": "礼",
+              "word": "《礼》",
               "pinyin": "lǐ",
-              "meaning": "《礼》经",
+              "meaning": "典故，指《仪礼》《周礼》《礼记》等礼经，核心为礼仪制度",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
               "type": "虚词"
             },
             {
               "word": "节",
               "pinyin": "jié",
-              "meaning": "节制",
+              "meaning": "动词，节制、规范",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人的行为、举止",
               "type": "实词"
             },
             {
-              "word": "乐",
+              "word": "《乐》",
               "pinyin": "yuè",
-              "meaning": "《乐》经",
+              "meaning": "此处读yuè，典故，指《乐经》，核心为调和情感",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
               "type": "虚词"
             },
             {
               "word": "发",
               "pinyin": "fā",
-              "meaning": "发扬",
+              "meaning": "动词，抒发、引发",
               "type": "实词"
             },
             {
               "word": "和",
               "pinyin": "hé",
-              "meaning": "和谐",
+              "meaning": "名词，和谐、和睦",
               "type": "实词"
             },
             {
-              "word": "书",
+              "word": "《书》",
               "pinyin": "shū",
-              "meaning": "《书》经",
+              "meaning": "典故，指《尚书》，核心为记载上古政事",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
               "type": "虚词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "叙述",
+              "meaning": "动词，记述、阐述",
               "type": "实词"
             },
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "事情",
+              "meaning": "名词，政事、史事",
               "type": "实词"
             },
             {
-              "word": "诗",
+              "word": "《诗》",
               "pinyin": "shī",
-              "meaning": "《诗》经",
+              "meaning": "典故，指《诗经》，核心为表达情志",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
               "type": "虚词"
             },
             {
               "word": "达",
               "pinyin": "dá",
-              "meaning": "表达",
+              "meaning": "动词，表达、通达",
               "type": "实词"
             },
             {
               "word": "意",
               "pinyin": "yì",
-              "meaning": "意意",
+              "meaning": "名词，心意、情意",
               "type": "实词"
             },
             {
-              "word": "易",
+              "word": "《易》",
               "pinyin": "yì",
-              "meaning": "《易》经",
+              "meaning": "典故，指《周易》，核心为阐述阴阳变化之理",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
               "type": "虚词"
             },
             {
               "word": "神",
               "pinyin": "shén",
-              "meaning": "神妙",
+              "meaning": "动词，使…神妙、阐明玄妙",
               "type": "实词"
             },
             {
               "word": "化",
               "pinyin": "huà",
-              "meaning": "变化",
+              "meaning": "名词，变化、教化",
               "type": "实词"
             },
             {
-              "word": "春秋",
+              "word": "《春秋》",
               "pinyin": "chūn qiū",
-              "meaning": "《春秋》经",
+              "meaning": "典故，指鲁国编年史，经孔子修订，核心为微言大义，褒贬是非",
               "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
               "type": "虚词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "阐述",
+              "meaning": "动词，阐述、申明",
               "type": "实词"
             },
             {
               "word": "义",
               "pinyin": "yì",
-              "meaning": "道义",
+              "meaning": "名词，道义、义理",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "太史公曰：天道恢恢，岂不大哉！",
-          "translation": "太史公说：天道广阔无边，难道不伟大吗！",
+          "original": "太史公曰：天道恢恢，岂不大哉！谈言微中，亦可以解纷。",
+          "translation": "太史公说：天道广阔，难道不伟大吗！言谈略微切中事理，也可以解除纷争。",
           "words": [
             {
               "word": "太史公",
               "pinyin": "tài shǐ gōng",
-              "meaning": "司马迁官职",
+              "meaning": "官职，汉代对太史令的尊称，此处特指《史记》作者司马迁",
               "type": "官职"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说，用于直接引出话语",
               "type": "实词"
             },
             {
               "word": "天道",
               "pinyin": "tiān dào",
-              "meaning": "自然规律",
+              "meaning": "名词，天的规律、自然法则",
               "type": "实词"
             },
             {
               "word": "恢恢",
               "pinyin": "huī huī",
-              "meaning": "广大",
+              "meaning": "形容词，形容广阔无垠、宽大的样子",
               "type": "实词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表示反问语气，难道",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "大",
               "pinyin": "dà",
-              "meaning": "大",
+              "meaning": "形容词，宏大、伟大",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "语气词",
+              "meaning": "句末语气词，与“岂”呼应，表感叹与反问",
               "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "谈言微中，亦可以解纷。",
-          "translation": "言谈中稍微切中事理，也可以解决纷争。",
-          "words": [
+            },
             {
               "word": "谈言",
               "pinyin": "tán yán",
-              "meaning": "言谈",
+              "meaning": "名词，言谈、说话",
               "type": "实词"
             },
             {
-              "word": "微中",
-              "pinyin": "wēi zhòng",
-              "meaning": "微妙切中",
+              "word": "微",
+              "pinyin": "wēi",
+              "meaning": "形容词，微妙、含蓄",
+              "type": "实词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhòng",
+              "meaning": "此处读zhòng，动词，切中、符合",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，表示类同，也",
               "type": "虚词"
             },
             {
-              "word": "可以",
-              "pinyin": "kě yǐ",
-              "meaning": "能够",
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "助动词，表示可能或允许，可以",
               "type": "虚词"
             },
             {
-              "word": "解纷",
-              "pinyin": "jiě fēn",
-              "meaning": "解决纷争",
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，表示凭借，相当于“用、凭借”",
+              "type": "虚词"
+            },
+            {
+              "word": "解",
+              "pinyin": "jiě",
+              "meaning": "动词，排解、解决",
+              "type": "实词"
+            },
+            {
+              "word": "纷",
+              "pinyin": "fēn",
+              "meaning": "名词，纠纷、纷争",
               "type": "实词"
             }
           ]
@@ -314,7 +322,7 @@
     },
     {
       "original": "淳于髡者，齐之赘婿也。长不满七尺，滑稽多辩，数使诸侯，未尝屈辱。齐威王之时，喜隐，好为淫乐长夜之饮，沉湎不治，委政卿大夫。百官荒乱，诸侯并侵，国且危亡，在于旦暮。左右莫敢谏。淳于髡说之以隐曰：“国中有大鸟，止王之庭，三年不蜚又不鸣，王知此鸟何也？”王曰：“此鸟不蜚则已，一蜚冲天；不鸣则已，一鸣惊人。”于是乃朝诸县令长七十二人，赏一人，诛一人，奋兵而出。诸侯振惊，皆还齐侵地。威行三十六年。语在《田完世家》中。",
-      "translation": "淳于髡是齐国的入赘女婿，身高不足七尺，能言善辩，多次出使诸侯国，从未受过屈辱。齐威王在位时，喜欢隐语，爱好无节制的享乐和长夜饮酒，沉溺不理朝政，把政务委托给卿大夫。百官荒废混乱，诸侯国都来侵犯，国家濒临危亡，就在旦夕之间。身边的人没有谁敢进谏。淳于髡用隐语劝说道：“国中有一只大鸟，栖息在大王的宫廷，三年不飞也不叫，大王知道这只鸟是怎么回事吗？”大王说：“这只鸟不飞则罢，一飞就冲天；不叫则罢，一叫就惊人。”于是就召见各县长官七十二人，奖赏一人，诛杀一人，振奋军队出征。诸侯国震惊，都归还了侵占齐国的土地。威势持续了三十六年。事迹记载在《田完世家》中。",
+      "translation": "淳于髡是齐国的入赘女婿。身高不足七尺，滑稽多辩，多次出使诸侯，从未受辱。齐威王时期，喜欢隐语，爱好过度享乐和长夜饮酒，沉溺不理朝政，把政事委托给卿大夫。百官荒乱，诸侯一起入侵，国家危在旦夕。左右无人敢劝谏。淳于髡用隐语劝说道：‘国中有一只大鸟，停在大王的庭院，三年不飞也不叫，大王知道这鸟是怎么回事吗？’齐威王说：‘这鸟不飞则已，一飞冲天；不鸣则已，一鸣惊人。’于是就召见各县的长官七十二人，赏了一人，杀了一人，振奋军队出击。诸侯震惊，都归还了侵占的齐国土地。威势持续了三十六年。事迹记载在《田完世家》中。",
       "sentences": [
         {
           "original": "淳于髡者，齐之赘婿也。",
@@ -322,158 +330,170 @@
           "words": [
             {
               "word": "淳于髡",
-              "pinyin": "Chúnyú Kūn",
-              "meaning": "齐国辩士",
+              "pinyin": "chún yú kūn",
+              "meaning": "战国时齐国人，赘婿出身，以滑稽善辩著称，此处为传主",
               "type": "人名"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "表示停顿",
+              "meaning": "语气助词，用于主语'淳于髡'后表示提顿，引出谓语",
               "type": "虚词"
             },
             {
               "word": "齐",
-              "pinyin": "Qí",
-              "meaning": "齐国",
+              "pinyin": "qí",
+              "meaning": "周代诸侯国，都临淄，战国七雄之一",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'齐'与中心语'赘婿'",
               "type": "虚词"
             },
             {
               "word": "赘婿",
               "pinyin": "zhuì xù",
-              "meaning": "入赘女婿",
+              "meaning": "古时指就婚于女家的男子，地位较低",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表示判断",
+              "meaning": "句末语气词，与'者'呼应，构成判断句式'…者…也'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "长不满七尺，滑稽多辩，数使诸侯，未尝屈辱。",
-          "translation": "身高不足七尺，能言善辩，多次出使诸侯国，从未受过屈辱。",
+          "translation": "身高不足七尺，滑稽多辩，多次出使诸侯，从未受辱。",
           "words": [
             {
               "word": "长",
               "pinyin": "cháng",
-              "meaning": "身高",
+              "meaning": "名词，身高",
               "type": "实词"
             },
             {
               "word": "不满",
               "pinyin": "bù mǎn",
-              "meaning": "不足",
+              "meaning": "动词，不足、不到",
               "type": "实词"
             },
             {
               "word": "七尺",
               "pinyin": "qī chǐ",
-              "meaning": "七尺高",
+              "meaning": "数量词，古代一尺约合今23厘米，七尺约161厘米，形容身材不高",
               "type": "实词"
             },
             {
               "word": "滑稽",
-              "pinyin": "huá jī",
-              "meaning": "诙谐善辩",
+              "pinyin": "gǔ jī",
+              "meaning": "能言善辩，言辞流走无滞",
               "type": "实词"
             },
             {
               "word": "多辩",
               "pinyin": "duō biàn",
-              "meaning": "善于辩论",
+              "meaning": "富有辩才，善于论辩",
               "type": "实词"
             },
             {
               "word": "数",
               "pinyin": "shuò",
-              "meaning": "多次",
-              "type": "实词"
+              "meaning": "此处读shuò，义为多次、屡次",
+              "type": "虚词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "出使",
+              "meaning": "动词，出使",
               "type": "实词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯国",
+              "meaning": "古代中央政权所分封的各国国君的统称",
               "type": "实词"
             },
             {
               "word": "未尝",
-              "pinyin": "wèi chéng",
-              "meaning": "从来没有",
-              "type": "实词"
+              "pinyin": "wèi cháng",
+              "meaning": "副词，从来没有、未曾",
+              "type": "虚词"
             },
             {
               "word": "屈辱",
               "pinyin": "qū rǔ",
-              "meaning": "受屈辱",
+              "meaning": "动词，受委屈被侮辱",
               "type": "实词"
             }
           ]
         },
         {
           "original": "齐威王之时，喜隐，好为淫乐长夜之饮，沉湎不治，委政卿大夫。",
-          "translation": "齐威王在位时，喜欢隐语，爱好无节制的享乐和长夜饮酒，沉溺不理朝政，把政务委托给卿大夫。",
+          "translation": "齐威王时期，喜欢隐语，爱好过度享乐和长夜饮酒，沉溺不理朝政，把政事委托给卿大夫。",
           "words": [
             {
               "word": "齐威王",
-              "pinyin": "Qí Wēi Wáng",
-              "meaning": "齐国君主",
+              "pinyin": "qí wēi wáng",
+              "meaning": "战国时期齐国国君（前356-前320在位），以善于纳谏、改革图强著称",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'齐威王'与中心语'时'",
               "type": "虚词"
             },
             {
               "word": "时",
               "pinyin": "shí",
-              "meaning": "时候",
+              "meaning": "时期，时候",
               "type": "实词"
             },
             {
-              "word": "喜隐",
-              "pinyin": "xǐ yǐn",
-              "meaning": "喜欢隐语",
+              "word": "喜",
+              "pinyin": "xǐ",
+              "meaning": "喜爱，爱好",
               "type": "实词"
             },
             {
-              "word": "好为",
-              "pinyin": "hào wéi",
-              "meaning": "喜好做",
+              "word": "隐",
+              "pinyin": "yǐn",
+              "meaning": "隐语，谜语",
               "type": "实词"
+            },
+            {
+              "word": "好",
+              "pinyin": "hào",
+              "meaning": "此处读 hào，义为喜好、喜爱",
+              "type": "实词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "动词，做，从事",
+              "type": "虚词"
             },
             {
               "word": "淫乐",
               "pinyin": "yín lè",
-              "meaning": "过度享乐",
+              "meaning": "过度的、没有节制的享乐",
               "type": "实词"
             },
             {
               "word": "长夜",
               "pinyin": "cháng yè",
-              "meaning": "整夜",
+              "meaning": "整夜，通宵",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'淫乐长夜'与中心语'饮'",
               "type": "虚词"
             },
             {
@@ -485,61 +505,61 @@
             {
               "word": "沉湎",
               "pinyin": "chén miǎn",
-              "meaning": "沉溺",
+              "meaning": "沉溺，迷恋（多指酒色）",
               "type": "实词"
             },
             {
               "word": "不治",
               "pinyin": "bù zhì",
-              "meaning": "不理朝政",
+              "meaning": "不治理朝政",
               "type": "实词"
             },
             {
               "word": "委政",
               "pinyin": "wěi zhèng",
-              "meaning": "委托政事",
+              "meaning": "把政事委托给（他人）",
               "type": "实词"
             },
             {
               "word": "卿大夫",
               "pinyin": "qīng dà fū",
-              "meaning": "官员",
+              "meaning": "高级官员，卿与大夫的合称，辅佐国君处理政务",
               "type": "官职"
             }
           ]
         },
         {
           "original": "百官荒乱，诸侯并侵，国且危亡，在于旦暮。",
-          "translation": "百官荒废混乱，诸侯国都来侵犯，国家濒临危亡，就在旦夕之间。",
+          "translation": "百官荒乱，诸侯一起入侵，国家危在旦夕。",
           "words": [
             {
               "word": "百官",
               "pinyin": "bǎi guān",
-              "meaning": "众官",
+              "meaning": "众官员，各级官吏",
               "type": "实词"
             },
             {
               "word": "荒乱",
               "pinyin": "huāng luàn",
-              "meaning": "荒废混乱",
+              "meaning": "荒废混乱，指政务废弛",
               "type": "实词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯国君",
-              "type": "实词"
+              "meaning": "古代帝王统辖下的列国君主的统称",
+              "type": "官职"
             },
             {
               "word": "并",
               "pinyin": "bìng",
-              "meaning": "一起",
+              "meaning": "副词，一起，一齐",
               "type": "虚词"
             },
             {
               "word": "侵",
               "pinyin": "qīn",
-              "meaning": "侵略",
+              "meaning": "侵犯，侵略",
               "type": "实词"
             },
             {
@@ -551,7 +571,7 @@
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "将要",
+              "meaning": "副词，将要，将近",
               "type": "虚词"
             },
             {
@@ -563,205 +583,199 @@
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "存在",
+              "meaning": "动词，处于（某种状态）",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作'在'的处所或时间",
               "type": "虚词"
             },
             {
               "word": "旦暮",
               "pinyin": "dàn mù",
-              "meaning": "早晚",
+              "meaning": "早晨和晚上，比喻很短的时间",
               "type": "实词"
             }
           ]
         },
         {
           "original": "左右莫敢谏。",
-          "translation": "身边的人没有谁敢进谏。",
+          "translation": "左右无人敢劝谏。",
           "words": [
             {
               "word": "左右",
               "pinyin": "zuǒ yòu",
-              "meaning": "身边侍从",
+              "meaning": "古义：身边的侍从、近臣（非今义'左和右'或'大约'）",
               "type": "实词"
             },
             {
               "word": "莫",
               "pinyin": "mò",
-              "meaning": "没有谁",
+              "meaning": "否定性无定代词，指人时意为“没有谁”",
               "type": "虚词"
             },
             {
               "word": "敢",
               "pinyin": "gǎn",
-              "meaning": "敢于",
+              "meaning": "助动词，有胆量、敢于",
               "type": "实词"
             },
             {
               "word": "谏",
               "pinyin": "jiàn",
-              "meaning": "劝谏",
+              "meaning": "动词，规劝君主或尊长",
               "type": "实词"
             }
           ]
         },
         {
           "original": "淳于髡说之以隐曰：“国中有大鸟，止王之庭，三年不蜚又不鸣，王知此鸟何也？”",
-          "translation": "淳于髡用隐语劝说道：“国中有一只大鸟，栖息在大王的宫廷，三年不飞也不叫，大王知道这只鸟是怎么回事吗？”",
+          "translation": "淳于髡用隐语劝说道：“国中有一只大鸟，停在大王的庭院，三年不飞也不叫，大王知道这鸟是怎么回事吗？”",
           "words": [
             {
               "word": "淳于髡",
-              "pinyin": "chún yú kūn",
-              "meaning": "齐国大夫",
+              "pinyin": "chún于 kūn",
+              "meaning": "战国时齐国人，赘婿出身，以滑稽善辩著称，此处用隐语谏齐威王",
               "type": "人名"
             },
             {
               "word": "说",
               "pinyin": "shuì",
-              "meaning": "劝说",
+              "meaning": "此处读shuì，义为劝说、游说",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代齐威王",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，表示方式，相当于“用”、“拿”",
               "type": "虚词"
             },
             {
               "word": "隐",
               "pinyin": "yǐn",
-              "meaning": "隐语",
+              "meaning": "隐语，谜语",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "国中",
               "pinyin": "guó zhōng",
-              "meaning": "国都中",
+              "meaning": "都城之内",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "大鸟",
               "pinyin": "dà niǎo",
-              "meaning": "大鸟",
+              "meaning": "比喻隐居的贤士",
               "type": "实词"
             },
             {
               "word": "止",
               "pinyin": "zhǐ",
-              "meaning": "栖息",
+              "meaning": "动词，栖息、停留",
               "type": "实词"
             },
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
+              "meaning": "君王，指齐威王",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示修饰关系，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "庭",
               "pinyin": "tíng",
-              "meaning": "庭院",
+              "meaning": "名词，庭院、宫廷",
               "type": "实词"
             },
             {
               "word": "三年",
               "pinyin": "sān nián",
-              "meaning": "三年",
+              "meaning": "虚指，表示时间很长",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "蜚",
               "pinyin": "fēi",
-              "meaning": "飞",
+              "meaning": "通'飞'，飞翔",
               "type": "实词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "连词，表示并列或递进",
               "type": "虚词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "鸣",
-              "pinyin": "míng",
-              "meaning": "鸣叫",
+              "word": "不鸣",
+              "pinyin": "bù míng",
+              "meaning": "不叫",
               "type": "实词"
             },
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
+              "meaning": "君王，指齐威王",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、明白",
               "type": "实词"
             },
             {
               "word": "此鸟",
               "pinyin": "cǐ niǎo",
-              "meaning": "这只鸟",
+              "meaning": "这只鸟，指上文的大鸟",
               "type": "实词"
             },
             {
               "word": "何也",
               "pinyin": "hé yě",
-              "meaning": "为什么",
+              "meaning": "固定结构，表疑问，相当于“是什么原因呢”、“为什么呢”",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "王曰：“此鸟不蜚则已，一蜚冲天；不鸣则已，一鸣惊人。”",
-          "translation": "大王说：“这只鸟不飞则罢，一飞就冲天；不叫则罢，一叫就惊人。”",
+          "translation": "齐威王说：“这鸟不飞则已，一飞冲天；不鸣则已，一鸣惊人。”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
+              "meaning": "指齐威王，战国时期齐国国君（前356-前320在位），以善于纳谏、改革图强著称",
               "type": "人名"
             },
             {
@@ -773,55 +787,49 @@
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，指代前文提到的'大鸟'",
+              "type": "虚词"
             },
             {
               "word": "鸟",
               "pinyin": "niǎo",
-              "meaning": "鸟",
+              "meaning": "飞禽，此处比喻隐居的贤才",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "蜚",
               "pinyin": "fēi",
-              "meaning": "飞",
+              "meaning": "通'飞'，义为鸟振翅飞翔",
               "type": "实词"
             },
             {
-              "word": "则",
-              "pinyin": "zé",
-              "meaning": "就",
-              "type": "虚词"
-            },
-            {
-              "word": "已",
-              "pinyin": "yǐ",
-              "meaning": "罢了",
+              "word": "则已",
+              "pinyin": "zé yǐ",
+              "meaning": "固定结构，表示'罢了'，限止语气",
               "type": "虚词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一旦",
-              "type": "虚词"
+              "meaning": "数词，一次",
+              "type": "实词"
             },
             {
               "word": "蜚",
               "pinyin": "fēi",
-              "meaning": "飞",
+              "meaning": "通'飞'，义为鸟振翅飞翔",
               "type": "实词"
             },
             {
               "word": "冲",
               "pinyin": "chōng",
-              "meaning": "冲向",
+              "meaning": "向上升",
               "type": "实词"
             },
             {
@@ -833,223 +841,187 @@
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "鸣",
               "pinyin": "míng",
-              "meaning": "鸣叫",
+              "meaning": "鸟叫",
               "type": "实词"
             },
             {
-              "word": "则",
-              "pinyin": "zé",
-              "meaning": "就",
-              "type": "虚词"
-            },
-            {
-              "word": "已",
-              "pinyin": "yǐ",
-              "meaning": "罢了",
+              "word": "则已",
+              "pinyin": "zé yǐ",
+              "meaning": "固定结构，表示'罢了'，限止语气",
               "type": "虚词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一旦",
-              "type": "虚词"
+              "meaning": "数词，一次",
+              "type": "实词"
             },
             {
               "word": "鸣",
               "pinyin": "míng",
-              "meaning": "鸣叫",
+              "meaning": "鸟叫",
               "type": "实词"
             },
             {
               "word": "惊",
               "pinyin": "jīng",
-              "meaning": "惊动",
+              "meaning": "使…震惊",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "众人，天下人",
               "type": "实词"
             }
           ]
         },
         {
           "original": "于是乃朝诸县令长七十二人，赏一人，诛一人，奋兵而出。",
-          "translation": "于是就召见各县长官七十二人，奖赏一人，诛杀一人，振奋军队出征。",
+          "translation": "于是就召见各县的长官七十二人，赏了一人，杀了一人，振奋军队出击。",
           "words": [
             {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "在",
+              "word": "于是",
+              "pinyin": "yú shì",
+              "meaning": "古义：在此时，在这种情况下（非今义'因此'）",
               "type": "虚词"
-            },
-            {
-              "word": "是",
-              "pinyin": "shì",
-              "meaning": "这",
-              "type": "实词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "就",
+              "meaning": "副词，表示动作行为在具备条件后出现，相当于'于是就'",
               "type": "虚词"
             },
             {
               "word": "朝",
               "pinyin": "cháo",
-              "meaning": "朝见",
+              "meaning": "此处读cháo，义为使…朝见",
               "type": "实词"
             },
             {
               "word": "诸",
               "pinyin": "zhū",
-              "meaning": "各",
+              "meaning": "形容词，众、各",
               "type": "实词"
             },
             {
-              "word": "县令",
-              "pinyin": "xiàn lìng",
-              "meaning": "县令",
+              "word": "县令长",
+              "pinyin": "xiàn lìng zhǎng",
+              "meaning": "县一级的行政长官，'令'为长官，'长'为次官",
               "type": "官职"
             },
             {
-              "word": "长",
-              "pinyin": "zhǎng",
-              "meaning": "县长",
-              "type": "官职"
-            },
-            {
-              "word": "七十二",
-              "pinyin": "qī shí èr",
-              "meaning": "七十二",
-              "type": "实词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
+              "word": "七十二人",
+              "pinyin": "qī shí èr rén",
+              "meaning": "数量短语，七十二位",
               "type": "实词"
             },
             {
               "word": "赏",
               "pinyin": "shǎng",
-              "meaning": "赏赐",
+              "meaning": "奖赏",
               "type": "实词"
             },
             {
-              "word": "一",
-              "pinyin": "yī",
-              "meaning": "一",
-              "type": "实词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
+              "word": "一人",
+              "pinyin": "yī rén",
+              "meaning": "数量短语，一位（指即墨大夫）",
               "type": "实词"
             },
             {
               "word": "诛",
               "pinyin": "zhū",
-              "meaning": "诛杀",
+              "meaning": "惩罚，诛杀",
               "type": "实词"
             },
             {
-              "word": "一",
-              "pinyin": "yī",
-              "meaning": "一",
-              "type": "实词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
+              "word": "一人",
+              "pinyin": "yī rén",
+              "meaning": "数量短语，一位（指阿大夫）",
               "type": "实词"
             },
             {
               "word": "奋",
               "pinyin": "fèn",
-              "meaning": "举",
+              "meaning": "振作，发动",
               "type": "实词"
             },
             {
               "word": "兵",
               "pinyin": "bīng",
-              "meaning": "兵队",
+              "meaning": "军队",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，连接状语'奋兵'与动词'出'，表承接",
               "type": "虚词"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出动",
+              "meaning": "出兵",
               "type": "实词"
             }
           ]
         },
         {
           "original": "诸侯振惊，皆还齐侵地。",
-          "translation": "诸侯国震惊，都归还了侵占齐国的土地。",
+          "translation": "诸侯震惊，都归还了侵占的齐国土地。",
           "words": [
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代分封的各国国君的统称，本文中指因齐威王振作而震惊的各诸侯国君",
+              "type": "官职"
             },
             {
               "word": "振",
               "pinyin": "zhèn",
-              "meaning": "震动",
+              "meaning": "通'震'，义为震惊，指诸侯因齐威王的行动而震动",
               "type": "实词"
             },
             {
               "word": "惊",
               "pinyin": "jīng",
-              "meaning": "震惊",
+              "meaning": "震惊、吃惊，与'振'同义，形容诸侯的心理状态",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，表示范围，义为都、全部，指所有诸侯国君都采取了行动",
               "type": "虚词"
             },
             {
               "word": "还",
               "pinyin": "huán",
-              "meaning": "归还",
+              "meaning": "归还，指诸侯把之前侵占的齐国土地归还",
               "type": "实词"
             },
             {
               "word": "齐",
               "pinyin": "qí",
-              "meaning": "齐国",
+              "meaning": "战国时期齐国，都城临淄，在今山东地区，本文中为被侵占土地的国家",
               "type": "地名"
             },
             {
               "word": "侵",
               "pinyin": "qīn",
-              "meaning": "侵占",
+              "meaning": "侵占、侵犯，指诸侯之前对齐国土地的占领行为",
               "type": "实词"
             },
             {
               "word": "地",
               "pinyin": "dì",
-              "meaning": "土地",
+              "meaning": "土地、领土，指被诸侯侵占的齐国领土",
               "type": "实词"
             }
           ]
@@ -1059,15 +1031,27 @@
           "translation": "威势持续了三十六年。",
           "words": [
             {
-              "word": "威行",
-              "pinyin": "wēi xíng",
-              "meaning": "威势盛行",
+              "word": "威",
+              "pinyin": "wēi",
+              "meaning": "威势、威望，指齐威王因改革而树立的声威",
               "type": "实词"
             },
             {
-              "word": "三十六年",
-              "pinyin": "sān shí liù nián",
-              "meaning": "三十六年",
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "此处读 xíng，义为施行、盛行，指齐威王的威望在诸侯间传播",
+              "type": "实词"
+            },
+            {
+              "word": "三十六",
+              "pinyin": "sān shí liù",
+              "meaning": "数字三十六，表示年数",
+              "type": "实词"
+            },
+            {
+              "word": "年",
+              "pinyin": "nián",
+              "meaning": "年份，时间单位，指齐威王威望持续的时间",
               "type": "实词"
             }
           ]
@@ -1079,26 +1063,26 @@
             {
               "word": "语",
               "pinyin": "yǔ",
-              "meaning": "记载",
+              "meaning": "名词，指上述淳于髡以隐语谏齐威王的故事或相关言论",
               "type": "实词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在",
-              "type": "虚词"
+              "meaning": "动词，记载在、存在于",
+              "type": "实词"
             },
             {
-              "word": "田完世家",
+              "word": "《田完世家》",
               "pinyin": "tián wán shì jiā",
-              "meaning": "《史记》篇名",
-              "type": "典故"
+              "meaning": "《史记》篇名之一，记载战国时田齐政权（田完为田齐始祖）历史的篇章",
+              "type": "实词"
             },
             {
               "word": "中",
               "pinyin": "zhōng",
-              "meaning": "里面",
-              "type": "虚词"
+              "meaning": "方位名词，里面",
+              "type": "实词"
             }
           ]
         }
@@ -1106,112 +1090,166 @@
     },
     {
       "original": "威王八年，楚大发兵加齐。齐王使淳于髡之赵请救兵，赍金百斤，车马十驷。",
-      "translation": "齐威王八年，楚国大规模发兵进攻齐国。齐王派遣淳于髡到赵国请求救兵，携带黄金百斤，车马十驷。",
+      "translation": "齐威王八年，楚国大规模发兵攻打齐国。齐王派遣淳于髡前往赵国请求救兵，携带黄金百斤，车马十驷。",
       "sentences": [
         {
           "original": "威王八年，楚大发兵加齐。",
-          "translation": "齐威王八年，楚国大规模发兵进攻齐国。",
+          "translation": "齐威王八年，楚国大规模发兵攻打齐国。",
           "words": [
             {
               "word": "威王",
               "pinyin": "wēi wáng",
-              "meaning": "齐威王",
+              "meaning": "战国时期齐国国君，本文中为齐王。",
               "type": "人名"
             },
             {
-              "word": "八年",
-              "pinyin": "bā nián",
-              "meaning": "第八年",
+              "word": "八",
+              "pinyin": "bā",
+              "meaning": "数词，八",
+              "type": "实词"
+            },
+            {
+              "word": "年",
+              "pinyin": "nián",
+              "meaning": "量词，年",
               "type": "实词"
             },
             {
               "word": "楚",
               "pinyin": "chǔ",
-              "meaning": "楚国",
+              "meaning": "战国时期诸侯国，位于今湖北、湖南一带。",
               "type": "地名"
             },
             {
               "word": "大",
               "pinyin": "dà",
-              "meaning": "大规模",
-              "type": "虚词"
+              "meaning": "副词，大规模地",
+              "type": "实词"
             },
             {
-              "word": "发兵",
-              "pinyin": "fā bīng",
-              "meaning": "派遣军队",
+              "word": "发",
+              "pinyin": "fā",
+              "meaning": "动词，派遣、出动",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "名词，军队",
               "type": "实词"
             },
             {
               "word": "加",
               "pinyin": "jiā",
-              "meaning": "进攻",
+              "meaning": "动词，施加、进攻",
               "type": "实词"
             },
             {
               "word": "齐",
               "pinyin": "qí",
-              "meaning": "齐国",
+              "meaning": "战国时期诸侯国，位于今山东一带。",
               "type": "地名"
             }
           ]
         },
         {
           "original": "齐王使淳于髡之赵请救兵，赍金百斤，车马十驷。",
-          "translation": "齐王派遣淳于髡到赵国请求救兵，携带黄金百斤，车马十驷。",
+          "translation": "齐王派遣淳于髡前往赵国请求救兵，携带黄金百斤，车马十驷。",
           "words": [
             {
               "word": "齐王",
               "pinyin": "qí wáng",
-              "meaning": "齐王",
+              "meaning": "战国时期齐国国君，本文中派遣淳于髡求救。",
               "type": "人名"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "派遣",
+              "meaning": "动词，派遣",
               "type": "实词"
             },
             {
               "word": "淳于髡",
               "pinyin": "chún yú kūn",
-              "meaning": "人名",
+              "meaning": "战国时期齐国大夫，本文中受命出使赵国。",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "往、到",
+              "meaning": "动词，去、往",
               "type": "实词"
             },
             {
               "word": "赵",
               "pinyin": "zhào",
-              "meaning": "赵国",
+              "meaning": "战国时期诸侯国，位于今河北、山西一带。",
               "type": "地名"
             },
             {
-              "word": "请救兵",
-              "pinyin": "qǐng jiù bīng",
-              "meaning": "请求救兵",
+              "word": "请",
+              "pinyin": "qǐng",
+              "meaning": "动词，请求",
+              "type": "实词"
+            },
+            {
+              "word": "救",
+              "pinyin": "jiù",
+              "meaning": "动词，救援",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "名词，军队",
               "type": "实词"
             },
             {
               "word": "赍",
               "pinyin": "jī",
-              "meaning": "携带",
+              "meaning": "动词，携带、带着",
               "type": "实词"
             },
             {
-              "word": "金百斤",
-              "pinyin": "jīn bǎi jīn",
-              "meaning": "金子百斤",
+              "word": "金",
+              "pinyin": "jīn",
+              "meaning": "名词，指金属货币，这里指黄金或铜钱",
               "type": "实词"
             },
             {
-              "word": "车马十驷",
-              "pinyin": "chē mǎ shí sì",
-              "meaning": "车马十套",
+              "word": "百",
+              "pinyin": "bǎi",
+              "meaning": "数词，一百",
+              "type": "实词"
+            },
+            {
+              "word": "斤",
+              "pinyin": "jīn",
+              "meaning": "量词，重量单位",
+              "type": "实词"
+            },
+            {
+              "word": "车",
+              "pinyin": "chē",
+              "meaning": "名词，车辆",
+              "type": "实词"
+            },
+            {
+              "word": "马",
+              "pinyin": "mǎ",
+              "meaning": "名词，马匹",
+              "type": "实词"
+            },
+            {
+              "word": "十",
+              "pinyin": "shí",
+              "meaning": "数词，十",
+              "type": "实词"
+            },
+            {
+              "word": "驷",
+              "pinyin": "sì",
+              "meaning": "量词，古代一辆车套四匹马",
               "type": "实词"
             }
           ]
@@ -1220,58 +1258,52 @@
     },
     {
       "original": "淳于髡仰天大笑，冠缨索绝。王曰：“先生少之乎？”髡曰：“何敢！”王曰：“笑岂有说乎？”髡曰：“今者臣从东方来，见道傍有穰田者，操一豚蹄，酒一盂，而祝曰：‘瓯窭满篝，污邪满车。五谷蕃熟，穰穰满家。’臣见其所持者狭而所欲者奢，故笑之。”于是齐威王乃益赍黄金千溢，白璧十双，车马百驷。髡辞而行，至赵。赵王与之精兵十万，革车千乘。楚闻之，夜引兵而去。威王大说，置酒后宫，召髡赐之酒。问曰：“先生能饮几何而醉？”对曰：“臣饮一斗亦醉，一石亦醉。”威王曰：“先生饮一斗而醉，恶能饮一石哉！其说可得闻乎？”髡曰：“赐酒大王之前，执法在傍，御史在后，髡恐惧俯伏而饮，不过一斗径醉矣。",
-      "translation": "淳于髡仰头大笑，笑得帽带都断了。齐威王说：'先生是嫌少吗？'淳于髡说：'哪里敢！'齐威王说：'笑难道有什么说法吗？'淳于髡说：'今天我从东方来，看见路旁有个祈祷田地丰收的人，拿着一只猪蹄，一杯酒，祈祷说：'高处狭小的田地收获满筐，低处肥沃的田地收获满车。五谷繁茂成熟，丰收的粮食堆满家。'我见他拿的东西少而想要的多，所以笑他。'于是齐威王就增加赠送黄金千镒，白璧十双，车马百驷。淳于髡辞别出发，到了赵国。赵王给他精兵十万，战车千辆。楚国听说后，连夜撤兵离去。齐威王非常高兴，在后宫设置酒宴，召见淳于髡赐酒。问道：'先生能喝多少酒才醉？'回答说：'我喝一斗也醉，喝一石也醉。'齐威王说：'先生喝一斗就醉，怎么能喝一石呢！这说法能听听吗？'淳于髡说：'在大王面前赐酒，执法官在旁边，御史在后面，我恐惧地趴着喝酒，不过一斗就直接醉了。'",
+      "translation": "淳于髡仰天大笑，帽带都笑断了。齐威王说：“先生觉得少吗？”淳于髡说：“哪里敢！”齐威王说：“笑难道有什么说法吗？”淳于髡说：“今天我从东方来，看见路旁有个祈祷丰收的人，拿着一个猪蹄，一盂酒，祷告说：‘贫瘠的田地收满筐，肥沃的田地收满车。五谷丰登，粮食堆满屋。’我见他拿的东西少而想要的多，所以笑他。”于是齐威王就增加赠送黄金千镒，白璧十双，车马百驷。淳于髡告辞出发，到了赵国。赵王给他精兵十万，战车千辆。楚国听说后，连夜撤兵离去。齐威王非常高兴，在后宫摆酒，召见淳于髡赐酒。问道：“先生能喝多少才醉？”回答说：“我喝一斗也醉，喝一石也醉。”齐威王说：“先生喝一斗就醉，怎么能喝一石呢！这说法能听听吗？”淳于髡说：“在大王面前赐酒，执法官在旁边，御史在后面，我恐惧地趴着喝酒，不过一斗就直接醉了。”",
       "sentences": [
         {
           "original": "淳于髡仰天大笑，冠缨索绝。",
-          "translation": "淳于髡仰头大笑，笑得帽带都断了。",
+          "translation": "淳于髡仰天大笑，帽带都笑断了。",
           "words": [
             {
               "word": "淳于髡",
               "pinyin": "chún yú kūn",
-              "meaning": "人名",
+              "meaning": "战国时期齐国人，以滑稽善辩著称，此处为齐威王臣子",
               "type": "人名"
             },
             {
               "word": "仰天",
               "pinyin": "yǎng tiān",
-              "meaning": "仰头向天",
+              "meaning": "脸朝向天空",
               "type": "实词"
             },
             {
               "word": "大笑",
               "pinyin": "dà xiào",
-              "meaning": "大声笑",
+              "meaning": "放声狂笑",
               "type": "实词"
             },
             {
               "word": "冠缨",
               "pinyin": "guān yīng",
-              "meaning": "帽带",
+              "meaning": "系帽子的带子",
               "type": "实词"
             },
             {
-              "word": "索",
-              "pinyin": "suǒ",
-              "meaning": "尽",
-              "type": "虚词"
-            },
-            {
-              "word": "绝",
-              "pinyin": "jué",
-              "meaning": "断",
+              "word": "索绝",
+              "pinyin": "suǒ jué",
+              "meaning": "完全断绝。'索'此处义为尽、完全；'绝'古义为断（非今义'绝对'）",
               "type": "实词"
             }
           ]
         },
         {
           "original": "王曰：“先生少之乎？”",
-          "translation": "齐威王说：'先生是嫌少吗？'",
+          "translation": "齐威王说：“先生觉得少吗？”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "君王",
+              "meaning": "指齐威王",
               "type": "实词"
             },
             {
@@ -1283,356 +1315,320 @@
             {
               "word": "先生",
               "pinyin": "xiān sheng",
-              "meaning": "尊称",
+              "meaning": "对有德业者的尊称，此处指淳于髡",
               "type": "实词"
             },
             {
               "word": "少",
               "pinyin": "shǎo",
-              "meaning": "认为少",
+              "meaning": "此处读shǎo，义为认为少、嫌少，形容词活用为动词",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词",
+              "meaning": "代词，指代前文所提及的穰田者所持的'豚蹄''酒盂'等微薄祭品",
               "type": "虚词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，表询问",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "髡曰：“何敢！”",
-          "translation": "淳于髡说：'哪里敢！'",
+          "translation": "淳于髡说：“哪里敢！”",
           "words": [
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "战国时期齐国学者，以滑稽善辩著称，本文主要人物，曾以隐语讽谏齐威王。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "怎么",
+              "meaning": "疑问代词，怎么、哪里，此处表示反问，加强否定语气。",
               "type": "虚词"
             },
             {
               "word": "敢",
               "pinyin": "gǎn",
-              "meaning": "敢",
+              "meaning": "敢于，有胆量。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "王曰：“笑岂有说乎？”",
-          "translation": "齐威王说：'笑难道有什么说法吗？'",
+          "translation": "齐威王说：“笑难道有什么说法吗？”",
           "words": [
             {
               "word": "王",
               "pinyin": "wáng",
-              "meaning": "齐威王",
+              "meaning": "指齐威王，战国时期齐国国君（前356-前320在位），以善于纳谏、改革图强闻名。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "笑",
               "pinyin": "xiào",
-              "meaning": "笑",
+              "meaning": "发笑，指上文淳于髡的大笑行为。",
               "type": "实词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "疑问副词，难道，与句末“乎”呼应，构成反问句。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "有，存在。",
               "type": "实词"
             },
             {
               "word": "说",
-              "pinyin": "shuō",
-              "meaning": "说法",
+              "pinyin": "shuì",
+              "meaning": "此处读 shuì，义为说法、理由。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，与“岂”配合，表反问。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "髡曰：“今者臣从东方来，见道傍有穰田者，操一豚蹄，酒一盂，而祝曰：‘瓯窭满篝，污邪满车。五谷蕃熟，穰穰满家。’臣见其所持者狭而所欲者奢，故笑之。”",
-          "translation": "淳于髡说：'今天我从东方来，看见路旁有个祈祷田地丰收的人，拿着一只猪蹄，一杯酒，祈祷说：'高处狭小的田地收获满筐，低处肥沃的田地收获满车。五谷繁茂成熟，丰收的粮食堆满家。'我见他拿的东西少而想要的多，所以笑他。'",
+          "translation": "淳于髡说：“今天我从东方来，看见路旁有个祈祷丰收的人，拿着一个猪蹄，一盂酒，祷告说：‘贫瘠的田地收满筐，肥沃的田地收满车。五谷丰登，粮食堆满屋。’我见他拿的东西少而想要的多，所以笑他。”",
           "words": [
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "人名，淳于髡，战国时齐国赘婿，以滑稽讽谏著称，本文中为齐威王臣子",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说、说道",
               "type": "实词"
             },
             {
               "word": "今者",
               "pinyin": "jīn zhě",
-              "meaning": "现在",
-              "type": "虚词"
+              "meaning": "时间词组，现在、此时，'者'为助词凑足音节",
+              "type": "实词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，指淳于髡自己，用于自称",
+              "type": "虚词"
             },
             {
               "word": "从",
               "pinyin": "cóng",
-              "meaning": "从",
+              "meaning": "介词，表示动作的起点，从东方",
               "type": "虚词"
             },
             {
               "word": "东方",
               "pinyin": "dōng fāng",
-              "meaning": "东方",
+              "meaning": "方位名词，东边、东方",
               "type": "实词"
             },
             {
               "word": "来",
               "pinyin": "lái",
-              "meaning": "来",
+              "meaning": "动词，到来、来到",
               "type": "实词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "动词，看到、见到",
               "type": "实词"
             },
             {
               "word": "道傍",
               "pinyin": "dào bàng",
-              "meaning": "路旁",
+              "meaning": "通'旁'，道路旁边",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在、有",
               "type": "实词"
             },
             {
               "word": "穰田者",
               "pinyin": "ráng tián zhě",
-              "meaning": "祈求丰收的人",
+              "meaning": "名词词组，祭祀田神以求丰收的人，'穰'为祭祀名，'田'指田神",
               "type": "实词"
             },
             {
               "word": "操",
               "pinyin": "cāo",
-              "meaning": "拿着",
+              "meaning": "动词，持、拿",
               "type": "实词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一",
+              "meaning": "数词，一个",
               "type": "实词"
             },
             {
               "word": "豚蹄",
               "pinyin": "tún tí",
-              "meaning": "猪蹄",
+              "meaning": "名词，小猪的蹄子",
               "type": "实词"
             },
             {
               "word": "酒",
               "pinyin": "jiǔ",
-              "meaning": "酒",
+              "meaning": "名词，酒浆",
               "type": "实词"
             },
             {
-              "word": "一盂",
-              "pinyin": "yī yú",
-              "meaning": "一盂",
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "数词，一",
+              "type": "实词"
+            },
+            {
+              "word": "盂",
+              "pinyin": "yú",
+              "meaning": "量词，古代盛酒或水的圆口器皿",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，连接'操一豚蹄，酒一盂'和'祝曰'，表示动作的顺承关系",
               "type": "虚词"
             },
             {
               "word": "祝",
               "pinyin": "zhù",
-              "meaning": "祈祷",
+              "meaning": "动词，祝祷、祈祷",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说道",
               "type": "实词"
             },
             {
-              "word": "瓯窭",
-              "pinyin": "ōu jù",
-              "meaning": "贫瘠地",
-              "type": "实词"
+              "word": "瓯窭满篝",
+              "pinyin": "ōu jū mǎn gōu",
+              "meaning": "典故，出自《史记·滑稽列传》，'瓯窭'指狭小的高地，'篝'指竹笼，全句形容高地田的谷物装满篝笼，祈求丰收",
+              "type": "典故"
             },
             {
-              "word": "满",
-              "pinyin": "mǎn",
-              "meaning": "满",
-              "type": "实词"
+              "word": "污邪满车",
+              "pinyin": "wū xié mǎn chē",
+              "meaning": "典故，出自《史记·滑稽列传》，'污邪'指低洼的田地，全句形容低洼田的谷物装满车，祈求丰收",
+              "type": "典故"
             },
             {
-              "word": "篝",
-              "pinyin": "gōu",
-              "meaning": "竹笼",
-              "type": "实词"
+              "word": "五谷蕃熟",
+              "pinyin": "wǔ gǔ fán shú",
+              "meaning": "典故，出自《史记·滑稽列传》，各种谷物茂盛成熟，祈求丰收",
+              "type": "典故"
             },
             {
-              "word": "污邪",
-              "pinyin": "wū xié",
-              "meaning": "低洼田",
-              "type": "实词"
-            },
-            {
-              "word": "满",
-              "pinyin": "mǎn",
-              "meaning": "满",
-              "type": "实词"
-            },
-            {
-              "word": "车",
-              "pinyin": "chē",
-              "meaning": "车",
-              "type": "实词"
-            },
-            {
-              "word": "五谷",
-              "pinyin": "wǔ gǔ",
-              "meaning": "五谷",
-              "type": "实词"
-            },
-            {
-              "word": "蕃熟",
-              "pinyin": "fán shú",
-              "meaning": "丰熟",
-              "type": "实词"
-            },
-            {
-              "word": "穰穰",
-              "pinyin": "ráng ráng",
-              "meaning": "丰盛",
-              "type": "实词"
-            },
-            {
-              "word": "满",
-              "pinyin": "mǎn",
-              "meaning": "满",
-              "type": "实词"
-            },
-            {
-              "word": "家",
-              "pinyin": "jiā",
-              "meaning": "家",
-              "type": "实词"
+              "word": "穰穰满家",
+              "pinyin": "ráng ráng mǎn jiā",
+              "meaning": "典故，出自《史记·滑稽列传》，'穰穰'形容丰盛，全句形容粮食众多，堆满家中",
+              "type": "典故"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，指淳于髡自己",
+              "type": "虚词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "动词，看到",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "指示代词，指穰田者的",
+              "type": "虚词"
             },
             {
               "word": "所持者",
               "pinyin": "suǒ chí zhě",
-              "meaning": "所持之物",
+              "meaning": "名词性短语，'所'字结构，指所拿着的祭品",
               "type": "实词"
             },
             {
               "word": "狭",
               "pinyin": "xiá",
-              "meaning": "少",
+              "meaning": "形容词，狭小、微薄，指祭品少",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，连接'所持者狭'和'所欲者奢'，表示转折关系，但是",
               "type": "虚词"
             },
             {
               "word": "所欲者",
               "pinyin": "suǒ yù zhě",
-              "meaning": "所欲之物",
+              "meaning": "名词性短语，'所'字结构，指所祈求的愿望",
               "type": "实词"
             },
             {
               "word": "奢",
               "pinyin": "shē",
-              "meaning": "多",
+              "meaning": "形容词，奢望、过多，指愿望大",
               "type": "实词"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示因果关系，因此、所以",
               "type": "虚词"
             },
             {
               "word": "笑",
               "pinyin": "xiào",
-              "meaning": "笑",
+              "meaning": "动词，讥笑、嘲笑",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，指穰田者",
+              "type": "虚词"
             }
           ]
         },
@@ -1643,97 +1639,115 @@
             {
               "word": "于是",
               "pinyin": "yú shì",
-              "meaning": "于是",
+              "meaning": "连词词组，表示接着前事，于是",
               "type": "虚词"
             },
             {
               "word": "齐威王",
               "pinyin": "qí wēi wáng",
-              "meaning": "齐威王",
+              "meaning": "人名，战国时齐国国君（前356-前320在位），以善于纳谏著称",
               "type": "人名"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示承接，就",
               "type": "虚词"
             },
             {
               "word": "益",
               "pinyin": "yì",
-              "meaning": "增加",
-              "type": "实词"
+              "meaning": "副词，表示程度增加，更加",
+              "type": "虚词"
             },
             {
               "word": "赍",
               "pinyin": "jī",
-              "meaning": "赠送",
+              "meaning": "动词，以财物赠人",
               "type": "实词"
             },
             {
               "word": "黄金",
               "pinyin": "huáng jīn",
-              "meaning": "黄金",
+              "meaning": "名词，黄金，金属之一",
               "type": "实词"
             },
             {
-              "word": "千溢",
-              "pinyin": "qiān yì",
-              "meaning": "千镒",
+              "word": "千",
+              "pinyin": "qiān",
+              "meaning": "数词，一千",
+              "type": "实词"
+            },
+            {
+              "word": "溢",
+              "pinyin": "yì",
+              "meaning": "通'镒'，古代重量单位，一镒约二十两",
               "type": "实词"
             },
             {
               "word": "白璧",
               "pinyin": "bái bì",
-              "meaning": "白璧",
+              "meaning": "名词，白色的玉璧，古代珍贵礼品",
               "type": "实词"
             },
             {
-              "word": "十双",
-              "pinyin": "shí shuāng",
-              "meaning": "十双",
+              "word": "十",
+              "pinyin": "shí",
+              "meaning": "数词，十",
+              "type": "实词"
+            },
+            {
+              "word": "双",
+              "pinyin": "shuāng",
+              "meaning": "量词，成对的",
               "type": "实词"
             },
             {
               "word": "车马",
               "pinyin": "chē mǎ",
-              "meaning": "车马",
+              "meaning": "名词，车辆和马匹",
               "type": "实词"
             },
             {
-              "word": "百驷",
-              "pinyin": "bǎi sì",
-              "meaning": "百驷",
+              "word": "百",
+              "pinyin": "bǎi",
+              "meaning": "数词，一百",
+              "type": "实词"
+            },
+            {
+              "word": "驷",
+              "pinyin": "sì",
+              "meaning": "量词，古代一车四马为一驷",
               "type": "实词"
             }
           ]
         },
         {
           "original": "髡辞而行，至赵。",
-          "translation": "淳于髡辞别出发，到了赵国。",
+          "translation": "淳于髡告辞出发，到了赵国。",
           "words": [
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "淳于髡的简称，齐国大夫，以滑稽善辩著称，本文中为向齐威王进谏的臣子",
               "type": "人名"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "辞别",
+              "meaning": "告辞，辞别",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接‘辞’与‘行’两个动词，表示承接关系",
               "type": "虚词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行走",
+              "meaning": "出发，上路",
               "type": "实词"
             },
             {
@@ -1745,7 +1759,7 @@
             {
               "word": "赵",
               "pinyin": "zhào",
-              "meaning": "赵国",
+              "meaning": "战国七雄之一，都城在今河北邯郸，淳于髡出使的目的地",
               "type": "地名"
             }
           ]
@@ -1757,43 +1771,43 @@
             {
               "word": "赵王",
               "pinyin": "zhào wáng",
-              "meaning": "赵国国王",
+              "meaning": "赵国的国君，此处指赵成侯或赵肃侯（具体所指有争议），淳于髡出使的对象",
               "type": "人名"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "给予",
+              "meaning": "动词，给予",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词",
+              "meaning": "代词，指代淳于髡，作‘与’的间接宾语",
               "type": "虚词"
             },
             {
               "word": "精兵",
               "pinyin": "jīng bīng",
-              "meaning": "精锐士兵",
+              "meaning": "精锐的士兵",
               "type": "实词"
             },
             {
               "word": "十万",
               "pinyin": "shí wàn",
-              "meaning": "数量",
+              "meaning": "数词，十千，形容数量众多",
               "type": "实词"
             },
             {
               "word": "革车",
               "pinyin": "gé chē",
-              "meaning": "战车",
+              "meaning": "古代用皮革包裹车厢的战车",
               "type": "实词"
             },
             {
               "word": "千乘",
               "pinyin": "qiān shèng",
-              "meaning": "千辆",
+              "meaning": "千辆兵车。古代四马一车为一乘，是衡量诸侯国军力的重要单位",
               "type": "实词"
             }
           ]
@@ -1805,229 +1819,241 @@
             {
               "word": "楚",
               "pinyin": "chǔ",
-              "meaning": "楚国",
+              "meaning": "战国时期诸侯国，在今湖北、湖南一带，本文中为撤兵的主体",
               "type": "地名"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听说",
+              "meaning": "听说，获悉（赵国得到精兵的消息）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词",
+              "meaning": "代词，指代前文赵王与之精兵十万、革车千乘这件事",
               "type": "虚词"
             },
             {
               "word": "夜",
               "pinyin": "yè",
-              "meaning": "夜晚",
+              "meaning": "名词作状语，在夜晚，表示时间",
               "type": "实词"
             },
             {
-              "word": "引兵",
-              "pinyin": "yǐn bīng",
-              "meaning": "带领军队",
+              "word": "引",
+              "pinyin": "yǐn",
+              "meaning": "率领，带领（军队）",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "军队，士兵",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接'引兵'和'去'，表示顺承关系",
               "type": "虚词"
             },
             {
               "word": "去",
               "pinyin": "qù",
-              "meaning": "离开",
+              "meaning": "古义：离开（非今义'前往'），指楚军撤退",
               "type": "实词"
             }
           ]
         },
         {
           "original": "威王大说，置酒后宫，召髡赐之酒。",
-          "translation": "齐威王非常高兴，在后宫设置酒宴，召见淳于髡赐酒。",
+          "translation": "齐威王非常高兴，在后宫摆酒，召见淳于髡赐酒。",
           "words": [
             {
               "word": "威王",
               "pinyin": "wēi wáng",
-              "meaning": "齐威王",
+              "meaning": "战国时期齐国国君，姓田名因齐，本文中听取淳于髡建议的君主",
               "type": "人名"
             },
             {
-              "word": "大说",
-              "pinyin": "dà yuè",
-              "meaning": "非常高兴",
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "副词，非常，表示程度深（修饰'说'）",
               "type": "实词"
             },
             {
-              "word": "置酒",
-              "pinyin": "zhì jiǔ",
-              "meaning": "设置酒宴",
+              "word": "说",
+              "pinyin": "yuè",
+              "meaning": "通'悦'，高兴，喜悦",
+              "type": "实词"
+            },
+            {
+              "word": "置",
+              "pinyin": "zhì",
+              "meaning": "设置，安排（酒宴）",
+              "type": "实词"
+            },
+            {
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "酒宴，酒席",
               "type": "实词"
             },
             {
               "word": "后宫",
               "pinyin": "hòu gōng",
-              "meaning": "后宫",
-              "type": "地名"
+              "meaning": "宫殿中帝王妃嫔所居之处，本文中为设宴地点",
+              "type": "实词"
             },
             {
               "word": "召",
               "pinyin": "zhào",
-              "meaning": "召见",
+              "meaning": "召唤，召见",
               "type": "实词"
             },
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "淳于髡，战国时期齐国赘婿，以滑稽善辩著称，本文中被赐酒者",
               "type": "人名"
             },
             {
               "word": "赐",
               "pinyin": "cì",
-              "meaning": "赏赐",
+              "meaning": "赏赐，赐予",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代淳于髡",
               "type": "虚词"
             },
             {
               "word": "酒",
               "pinyin": "jiǔ",
-              "meaning": "酒",
+              "meaning": "酒，饮料",
               "type": "实词"
             }
           ]
         },
         {
           "original": "问曰：“先生能饮几何而醉？”",
-          "translation": "问道：'先生能喝多少酒才醉？'",
+          "translation": "问道：“先生能喝多少才醉？”",
           "words": [
             {
-              "word": "问",
-              "pinyin": "wèn",
-              "meaning": "询问",
-              "type": "实词"
-            },
-            {
-              "word": "曰",
-              "pinyin": "yuē",
-              "meaning": "说",
+              "word": "问曰",
+              "pinyin": "wèn yuē",
+              "meaning": "动词，问道，表示提问的起始语",
               "type": "实词"
             },
             {
               "word": "先生",
-              "pinyin": "xiān shēng",
-              "meaning": "先生",
+              "pinyin": "xiān sheng",
+              "meaning": "尊称，指淳于髡，古代对有学识者的敬称",
               "type": "实词"
             },
             {
-              "word": "能饮",
-              "pinyin": "néng yǐn",
-              "meaning": "能喝",
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能愿动词，能够，表示能力或许可",
+              "type": "实词"
+            },
+            {
+              "word": "饮",
+              "pinyin": "yǐn",
+              "meaning": "此处读 yǐn，义为动词，喝",
               "type": "实词"
             },
             {
               "word": "几何",
               "pinyin": "jǐ hé",
-              "meaning": "多少",
-              "type": "实词"
+              "meaning": "古义：多少（非今义'数学中的几何学'），疑问代词，询问数量",
+              "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而",
+              "meaning": "连词，表示承接关系，连接'饮'和'醉'，可译为'就'或省略",
               "type": "虚词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "醉",
+              "meaning": "动词，因饮酒过量而神志不清",
               "type": "实词"
             }
           ]
         },
         {
           "original": "对曰：“臣饮一斗亦醉，一石亦醉。”",
-          "translation": "回答说：'我喝一斗也醉，喝一石也醉。'",
+          "translation": "回答说：“我喝一斗也醉，喝一石也醉。”",
           "words": [
             {
-              "word": "对",
-              "pinyin": "duì",
-              "meaning": "回答",
-              "type": "实词"
-            },
-            {
-              "word": "曰",
-              "pinyin": "yuē",
-              "meaning": "说",
+              "word": "对曰",
+              "pinyin": "duì yuē",
+              "meaning": "动词，回答说，表示回应的起始语",
               "type": "实词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "我",
+              "meaning": "名词，自称，我，古代臣子对君主的谦称",
               "type": "实词"
             },
             {
               "word": "饮",
               "pinyin": "yǐn",
-              "meaning": "喝",
+              "meaning": "此处读 yǐn，义为动词，喝",
               "type": "实词"
             },
             {
               "word": "一斗",
               "pinyin": "yī dǒu",
-              "meaning": "一斗",
+              "meaning": "数量词，一斗酒，古代容量单位，十升为一斗",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也，表示同样",
               "type": "虚词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "醉",
+              "meaning": "动词，喝醉",
               "type": "实词"
             },
             {
               "word": "一石",
               "pinyin": "yī dàn",
-              "meaning": "一石",
+              "meaning": "此处读 dàn，义为容量单位，十斗为一石；一石酒",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，也，表示同样",
               "type": "虚词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "醉",
+              "meaning": "动词，喝醉",
               "type": "实词"
             }
           ]
         },
         {
           "original": "威王曰：“先生饮一斗而醉，恶能饮一石哉！其说可得闻乎？”",
-          "translation": "齐威王说：'先生喝一斗就醉，怎么能喝一石呢！这说法能听听吗？'",
+          "translation": "齐威王说：“先生喝一斗就醉，怎么能喝一石呢！这说法能听听吗？”",
           "words": [
             {
               "word": "威王",
               "pinyin": "wēi wáng",
-              "meaning": "齐威王",
+              "meaning": "战国时期齐国国君（前356-前320在位），以善于纳谏、励精图治著称",
               "type": "人名"
             },
             {
@@ -2039,7 +2065,7 @@
             {
               "word": "先生",
               "pinyin": "xiān sheng",
-              "meaning": "尊称",
+              "meaning": "对有德业者的尊称，此处指淳于髡",
               "type": "实词"
             },
             {
@@ -2051,25 +2077,25 @@
             {
               "word": "一斗",
               "pinyin": "yī dǒu",
-              "meaning": "一斗酒",
+              "meaning": "一斗酒。斗，古代酒器，亦为容量单位",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示顺承关系，可译为'就'",
               "type": "虚词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "喝醉",
+              "meaning": "饮酒过量，神志不清",
               "type": "实词"
             },
             {
               "word": "恶",
               "pinyin": "wū",
-              "meaning": "怎么",
+              "meaning": "疑问代词，此处读 wū，义为怎么、哪里",
               "type": "虚词"
             },
             {
@@ -2087,25 +2113,25 @@
             {
               "word": "一石",
               "pinyin": "yī dàn",
-              "meaning": "一石酒",
+              "meaning": "一石酒。石，古代容量单位，十斗为一石",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "啊",
+              "meaning": "句末语气词，表反问语气，相当于'呢'",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代'饮一斗而醉，恶能饮一石'这件事或其中的道理",
               "type": "虚词"
             },
             {
               "word": "说",
               "pinyin": "shuō",
-              "meaning": "说法",
+              "meaning": "说法，解释",
               "type": "实词"
             },
             {
@@ -2117,31 +2143,31 @@
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "能够",
-              "type": "实词"
+              "meaning": "助词，用在动词前，表示可能、能够",
+              "type": "虚词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听",
+              "meaning": "听，听到",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问，相当于'吗'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "髡曰：“赐酒大王之前，执法在傍，御史在后，髡恐惧俯伏而饮，不过一斗径醉矣。”",
-          "translation": "淳于髡说：'在大王面前赐酒，执法官在旁边，御史在后面，我恐惧地趴着喝酒，不过一斗就直接醉了。'",
+          "translation": "淳于髡说：“在大王面前赐酒，执法官在旁边，御史在后面，我恐惧地趴着喝酒，不过一斗就直接醉了。”",
           "words": [
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "淳于髡，战国时期齐国赘婿，以博学、滑稽、善辩著称，曾多次讽谏齐威王",
               "type": "人名"
             },
             {
@@ -2153,25 +2179,25 @@
             {
               "word": "赐酒",
               "pinyin": "cì jiǔ",
-              "meaning": "赐予酒",
+              "meaning": "赏赐酒喝",
               "type": "实词"
             },
             {
               "word": "大王",
               "pinyin": "dà wáng",
-              "meaning": "君王",
-              "type": "实词"
+              "meaning": "对国王的尊称，此处指齐威王",
+              "type": "人名"
             },
             {
               "word": "之前",
               "pinyin": "zhī qián",
-              "meaning": "的前面",
-              "type": "虚词"
+              "meaning": "面前",
+              "type": "实词"
             },
             {
               "word": "执法",
               "pinyin": "zhí fǎ",
-              "meaning": "执法官",
+              "meaning": "执行法令的官员",
               "type": "官职"
             },
             {
@@ -2183,13 +2209,13 @@
             {
               "word": "傍",
               "pinyin": "páng",
-              "meaning": "旁边",
+              "meaning": "通'旁'，旁边",
               "type": "实词"
             },
             {
               "word": "御史",
               "pinyin": "yù shǐ",
-              "meaning": "御史官",
+              "meaning": "掌管文书记录、监察百官的官员",
               "type": "官职"
             },
             {
@@ -2207,38 +2233,38 @@
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "淳于髡自称",
               "type": "人名"
             },
             {
               "word": "恐惧",
               "pinyin": "kǒng jù",
-              "meaning": "害怕",
+              "meaning": "非常害怕",
               "type": "实词"
             },
             {
               "word": "俯伏",
               "pinyin": "fǔ fú",
-              "meaning": "趴下",
+              "meaning": "趴在地上，表示恭敬或畏惧",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，连接状语'俯伏'和谓语'饮'，表示修饰关系",
               "type": "虚词"
             },
             {
               "word": "饮",
               "pinyin": "yǐn",
-              "meaning": "喝",
+              "meaning": "喝酒",
               "type": "实词"
             },
             {
               "word": "不过",
               "pinyin": "bù guò",
-              "meaning": "不超过",
-              "type": "实词"
+              "meaning": "古义：仅仅、不超过（非今义转折连词）",
+              "type": "虚词"
             },
             {
               "word": "一斗",
@@ -2249,19 +2275,19 @@
             {
               "word": "径",
               "pinyin": "jìng",
-              "meaning": "直接",
-              "type": "实词"
+              "meaning": "副词，直接，就",
+              "type": "虚词"
             },
             {
               "word": "醉",
               "pinyin": "zuì",
-              "meaning": "喝醉",
+              "meaning": "醉了",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表陈述，相当于'了'",
               "type": "虚词"
             }
           ]
@@ -2270,652 +2296,610 @@
     },
     {
       "original": "若亲有严客，髡帣鞲鞠<月卺>，侍酒于前，时赐馀沥，奉觞上寿，数起，饮不过二斗径醉矣。若朋友交游，久不相见，卒然相睹，欢然道故，私情相语，饮可五六斗径醉矣。若乃州闾之会，男女杂坐，行酒稽留，六博投壶，相引为曹，握手无罚，目眙不禁，前有堕珥，后有遗簪，髡窃乐此，饮可八斗而醉二参。日暮酒阑，合尊促坐，男女同席，履舄交错，杯盘狼藉，堂上烛灭，主人留髡而送客，罗襦襟解，微闻芗泽，当此之时，髡心最欢，能饮一石。故曰酒极则乱，乐极则悲，万事尽然，言不可极，极之而衰。”以讽谏焉。齐王曰：“善！”乃罢长夜之饮，以髡为诸侯主客。宗室置酒，髡尝在侧。",
-      "translation": "如果尊亲有贵客，我卷起袖子躬身侍奉，在席前敬酒，时常得到赏赐的残酒，举杯祝寿，多次起身，饮酒不过二斗就直接醉了。如果是朋友交往，很久不见，突然相遇，愉快地叙旧，私下交谈，饮酒大约五六斗就直接醉了。至于乡里聚会，男女混杂而坐，行酒逗留，玩六博和投壶游戏，互相结伴，握手不受责罚，目光流连不禁，前面有掉落的耳环，后面有遗失的发簪，我私下喜欢这样，饮酒大约八斗而醉两三分。天晚酒尽，合并酒杯促膝而坐，男女同席，鞋子交错，杯盘杂乱，堂上烛火熄灭，主人留下我而送客，丝绸衣襟解开，微微闻到香气，这个时候，我心中最欢愉，能饮一石酒。所以说酒过度就会乱性，快乐过度就会悲伤，万事都是这样，说不能过度，过度就会衰败。以此来讽谏。齐王说：“好！”于是停止长夜饮酒，任命我为诸侯主客。宗室设宴时，我常在旁边。",
+      "translation": "如果尊亲有贵客，我卷起袖子，躬身跪着，在面前侍奉饮酒，时常赐给剩余的酒，我举杯祝酒，多次起身，饮酒不超过二斗就直接醉了。如果朋友交往，很久不见，突然相见，高兴地谈论往事，私下交谈，饮酒大约五六斗就直接醉了。至于乡里聚会，男女混杂坐在一起，行酒迟缓，玩六博和投壶游戏，互相招呼结伴，握手不受责罚，直视不禁止，前面有掉落的耳环，后面有遗落的簪子，我私下喜欢这样，饮酒大约八斗，醉了两三分。天色晚了，酒宴将尽，合并酒杯，促膝而坐，男女同坐一席，鞋子交错，杯盘杂乱，堂上蜡烛熄灭，主人留下我而送走客人，罗衣的衣襟解开，微微闻到香气，在这个时候，我心里最欢乐，能饮一石酒。所以说酒喝到极点就会乱性，快乐到极点就会悲哀，万事都是这样，说不可达到极点，达到极点就会衰败。”用来讽谏。齐王说：“好！”于是停止长夜饮酒，任命淳于髡为诸侯主客。王室宗亲设酒宴，淳于髡曾在旁边。",
       "sentences": [
         {
           "original": "若亲有严客，髡帣鞲鞠<月卺>，侍酒于前，时赐馀沥，奉觞上寿，数起，饮不过二斗径醉矣。",
-          "translation": "如果尊亲有贵客，我卷起袖子躬身侍奉，在席前敬酒，时常得到赏赐的残酒，举杯祝寿，多次起身，饮酒不过二斗就直接醉了。",
+          "translation": "如果尊亲有贵客，我卷起袖子，躬身跪着，在面前侍奉饮酒，时常赐给剩余的酒，我举杯祝酒，多次起身，饮酒不超过二斗就直接醉了。",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表假设，如果、假如",
               "type": "虚词"
             },
             {
               "word": "亲",
               "pinyin": "qīn",
-              "meaning": "父母",
+              "meaning": "古义：指父母、尊亲（非今义'亲人'或'亲自'）",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，有、存在",
               "type": "实词"
             },
             {
               "word": "严客",
               "pinyin": "yán kè",
-              "meaning": "尊贵客人",
+              "meaning": "尊贵的客人。严，敬辞",
               "type": "实词"
             },
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "即淳于髡，战国时期齐国人，赘婿出身，以滑稽善辩著称，本文中为讽谏齐王的主角",
               "type": "人名"
             },
             {
-              "word": "帣鞲",
-              "pinyin": "juǎn gōu",
-              "meaning": "卷袖戴臂套",
+              "word": "帣",
+              "pinyin": "juǎn",
+              "meaning": "动词，卷起（衣袖）",
               "type": "实词"
             },
             {
-              "word": "鞠<月卺>",
-              "pinyin": "jū jì",
-              "meaning": "鞠躬长跪",
+              "word": "鞲",
+              "pinyin": "gōu",
+              "meaning": "名词，皮制臂套；此处用作动词，套上臂套",
+              "type": "实词"
+            },
+            {
+              "word": "鞠",
+              "pinyin": "jū",
+              "meaning": "动词，弯腰、躬身",
+              "type": "实词"
+            },
+            {
+              "word": "<月卺>",
+              "pinyin": "jì",
+              "meaning": "通'脤'（一说通'跽'），恭敬地跪坐",
               "type": "实词"
             },
             {
               "word": "侍酒",
               "pinyin": "shì jiǔ",
-              "meaning": "侍奉酒宴",
+              "meaning": "侍奉（尊长）饮酒",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示处所，在",
               "type": "虚词"
             },
             {
               "word": "前",
               "pinyin": "qián",
-              "meaning": "前面",
+              "meaning": "方位名词，前面",
               "type": "实词"
             },
             {
-              "word": "时赐",
-              "pinyin": "shí cì",
-              "meaning": "时常赐予",
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "副词，时常、经常",
+              "type": "虚词"
+            },
+            {
+              "word": "赐",
+              "pinyin": "cì",
+              "meaning": "动词，赏赐",
               "type": "实词"
             },
             {
               "word": "馀沥",
               "pinyin": "yú lì",
-              "meaning": "剩余酒滴",
+              "meaning": "剩余的酒。沥，液体的点滴",
               "type": "实词"
             },
             {
               "word": "奉觞",
               "pinyin": "fèng shāng",
-              "meaning": "举杯",
+              "meaning": "举杯敬酒。奉，捧着；觞，酒杯",
               "type": "实词"
             },
             {
               "word": "上寿",
               "pinyin": "shàng shòu",
-              "meaning": "敬酒祝寿",
+              "meaning": "敬酒，祝颂长寿",
               "type": "实词"
             },
             {
-              "word": "数起",
-              "pinyin": "shù qǐ",
-              "meaning": "多次起身",
+              "word": "数",
+              "pinyin": "shuò",
+              "meaning": "此处读 shuò，义为多次、屡次",
+              "type": "实词"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "动词，起身",
               "type": "实词"
             },
             {
               "word": "饮",
               "pinyin": "yǐn",
-              "meaning": "喝",
+              "meaning": "动词，喝",
               "type": "实词"
             },
             {
               "word": "不过",
               "pinyin": "bù guò",
-              "meaning": "不超过",
+              "meaning": "古义：不超过（非今义转折连词'但是'）",
               "type": "实词"
             },
             {
               "word": "二斗",
               "pinyin": "èr dǒu",
-              "meaning": "两斗酒",
+              "meaning": "两斗酒。斗，古代酒器，亦为容量单位",
               "type": "实词"
             },
             {
-              "word": "径醉",
-              "pinyin": "jìng zuì",
-              "meaning": "直接醉",
+              "word": "径",
+              "pinyin": "jìng",
+              "meaning": "副词，直接、就",
+              "type": "虚词"
+            },
+            {
+              "word": "醉",
+              "pinyin": "zuì",
+              "meaning": "动词，醉酒",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表陈述，相当于'了'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若朋友交游，久不相见，卒然相睹，欢然道故，私情相语，饮可五六斗径醉矣。",
-          "translation": "如果是朋友交往，很久不见，突然相遇，愉快地叙旧，私下交谈，饮酒大约五六斗就直接醉了。",
+          "translation": "如果朋友交往，很久不见，突然相见，高兴地谈论往事，私下交谈，饮酒大约五六斗就直接醉了。",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表假设，如果、假如",
               "type": "虚词"
             },
             {
               "word": "朋友",
               "pinyin": "péng yǒu",
-              "meaning": "朋友",
+              "meaning": "同门曰朋，同志曰友。泛指交往的人",
               "type": "实词"
             },
             {
               "word": "交游",
               "pinyin": "jiāo yóu",
-              "meaning": "交往",
+              "meaning": "动词，交往、结交",
               "type": "实词"
             },
             {
               "word": "久",
               "pinyin": "jiǔ",
-              "meaning": "长久",
+              "meaning": "形容词，时间长",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "没有",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "相见",
               "pinyin": "xiāng jiàn",
-              "meaning": "见面",
+              "meaning": "互相见面",
               "type": "实词"
             },
             {
-              "word": "卒然",
-              "pinyin": "cù rán",
-              "meaning": "突然",
-              "type": "实词"
+              "word": "卒",
+              "pinyin": "cù",
+              "meaning": "通'猝'，突然、仓促",
+              "type": "虚词"
+            },
+            {
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "形容词词尾，表示'...的样子'",
+              "type": "虚词"
             },
             {
               "word": "相睹",
               "pinyin": "xiāng dǔ",
-              "meaning": "相见",
+              "meaning": "互相看见。睹，看见",
               "type": "实词"
             },
             {
               "word": "欢然",
               "pinyin": "huān rán",
-              "meaning": "高兴地",
+              "meaning": "高兴的样子",
               "type": "实词"
             },
             {
               "word": "道故",
               "pinyin": "dào gù",
-              "meaning": "谈论往事",
+              "meaning": "谈论往事。道，说；故，旧事",
               "type": "实词"
             },
             {
               "word": "私情",
               "pinyin": "sī qíng",
-              "meaning": "私人情感",
+              "meaning": "私人的交情或情感",
               "type": "实词"
             },
             {
               "word": "相语",
               "pinyin": "xiāng yǔ",
-              "meaning": "互相交谈",
+              "meaning": "互相交谈。语，告诉、交谈",
               "type": "实词"
             },
             {
               "word": "饮",
               "pinyin": "yǐn",
-              "meaning": "喝",
+              "meaning": "动词，喝",
               "type": "实词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "大约",
+              "meaning": "副词，大约、约计",
               "type": "虚词"
             },
             {
               "word": "五六斗",
               "pinyin": "wǔ liù dǒu",
-              "meaning": "五六斗酒",
+              "meaning": "五到六斗酒",
               "type": "实词"
             },
             {
-              "word": "径醉",
-              "pinyin": "jìng zuì",
-              "meaning": "直接醉",
+              "word": "径",
+              "pinyin": "jìng",
+              "meaning": "副词，直接、就",
+              "type": "虚词"
+            },
+            {
+              "word": "醉",
+              "pinyin": "zuì",
+              "meaning": "动词，醉酒",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表陈述，相当于'了'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若乃州闾之会，男女杂坐，行酒稽留，六博投壶，相引为曹，握手无罚，目眙不禁，前有堕珥，后有遗簪，髡窃乐此，饮可八斗而醉二参。",
-          "translation": "至于乡里聚会，男女混杂而坐，行酒逗留，玩六博和投壶游戏，互相结伴，握手不受责罚，目光流连不禁，前面有掉落的耳环，后面有遗失的发簪，我私下喜欢这样，饮酒大约八斗而醉两三分。",
+          "translation": "至于乡里聚会，男女混杂坐在一起，行酒迟缓，玩六博和投壶游戏，互相招呼结伴，握手不受责罚，直视不禁止，前面有掉落的耳环，后面有遗落的簪子，我私下喜欢这样，饮酒大约八斗，醉了两三分。",
           "words": [
             {
               "word": "若乃",
               "pinyin": "ruò nǎi",
-              "meaning": "至于",
+              "meaning": "固定结构，用于句首，表示话题转换，相当于'至于'",
               "type": "虚词"
             },
             {
               "word": "州闾",
               "pinyin": "zhōu lǘ",
-              "meaning": "乡里",
+              "meaning": "古代基层行政单位，二十五家为闾，五州为乡，此泛指乡里",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'州闾'和中心语'会'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "会",
               "pinyin": "huì",
-              "meaning": "聚会",
+              "meaning": "聚会，集会",
               "type": "实词"
             },
             {
               "word": "男女",
               "pinyin": "nán nǚ",
-              "meaning": "男女",
+              "meaning": "男子和女子",
               "type": "实词"
             },
             {
               "word": "杂坐",
               "pinyin": "zá zuò",
-              "meaning": "混杂而坐",
+              "meaning": "混杂而坐，不拘礼节",
               "type": "实词"
             },
             {
               "word": "行酒",
               "pinyin": "xíng jiǔ",
-              "meaning": "斟酒劝饮",
+              "meaning": "依次斟酒、劝饮",
               "type": "实词"
             },
             {
               "word": "稽留",
               "pinyin": "jī liú",
-              "meaning": "停留",
+              "meaning": "停留，延迟。此处指斟酒环节缓慢延迟，非'拘留'义",
               "type": "实词"
             },
             {
-              "word": "六博",
-              "pinyin": "liù bó",
-              "meaning": "古代游戏",
-              "type": "实词"
-            },
-            {
-              "word": "投壶",
-              "pinyin": "tóu hú",
-              "meaning": "投箭入壶",
+              "word": "六博投壶",
+              "pinyin": "liù bó tóu hú",
+              "meaning": "古代两种游戏。六博是一种掷采行棋的博戏；投壶是将箭矢投入壶中以决胜负",
               "type": "实词"
             },
             {
               "word": "相引",
               "pinyin": "xiāng yǐn",
-              "meaning": "互相邀请",
+              "meaning": "互相招引、邀请",
               "type": "实词"
             },
             {
               "word": "为曹",
               "pinyin": "wéi cáo",
-              "meaning": "结为伙伴",
+              "meaning": "结为伙伴、同辈。曹，古义：伙伴、同辈（非今义'姓氏'或'辈分'）",
               "type": "实词"
             },
             {
-              "word": "握手",
-              "pinyin": "wò shǒu",
-              "meaning": "握手",
+              "word": "握手无罚",
+              "pinyin": "wò shǒu wú fá",
+              "meaning": "握手不受责罚。形容男女间不拘礼节",
               "type": "实词"
             },
             {
-              "word": "无罚",
-              "pinyin": "wú fá",
-              "meaning": "没有惩罚",
+              "word": "目眙不禁",
+              "pinyin": "mù chēng bù jìn",
+              "meaning": "直视而不被禁止。眙，通'瞪'，直视",
               "type": "实词"
             },
             {
-              "word": "目眙",
-              "pinyin": "mù chì",
-              "meaning": "直视",
+              "word": "前有堕珥",
+              "pinyin": "qián yǒu duò ěr",
+              "meaning": "前面有掉落的耳环。珥，珠玉耳饰",
               "type": "实词"
             },
             {
-              "word": "不禁",
-              "pinyin": "bù jīn",
-              "meaning": "不禁制",
-              "type": "实词"
-            },
-            {
-              "word": "前",
-              "pinyin": "qián",
-              "meaning": "前面",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "堕珥",
-              "pinyin": "duò ěr",
-              "meaning": "掉落耳饰",
-              "type": "实词"
-            },
-            {
-              "word": "后",
-              "pinyin": "hòu",
-              "meaning": "后面",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "遗簪",
-              "pinyin": "yí zān",
-              "meaning": "遗落发簪",
+              "word": "后有遗簪",
+              "pinyin": "hòu yǒu yí zān",
+              "meaning": "后面有遗落的发簪。簪，固定发髻的长针",
               "type": "实词"
             },
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "即淳于髡，战国齐威王时赘婿，以滑稽善辩著称，此处为其自称",
               "type": "人名"
             },
             {
-              "word": "窃乐",
-              "pinyin": "qiè lè",
-              "meaning": "暗自喜欢",
-              "type": "实词"
-            },
-            {
-              "word": "此",
-              "pinyin": "cǐ",
-              "meaning": "这",
+              "word": "窃",
+              "pinyin": "qiè",
+              "meaning": "谦词，私下，暗自",
               "type": "虚词"
             },
             {
-              "word": "饮",
-              "pinyin": "yǐn",
-              "meaning": "喝",
+              "word": "乐此",
+              "pinyin": "lè cǐ",
+              "meaning": "喜欢这样。乐，此处读 lè，义为喜爱、乐于",
               "type": "实词"
             },
             {
-              "word": "可",
-              "pinyin": "kě",
-              "meaning": "大约",
-              "type": "虚词"
-            },
-            {
-              "word": "八斗",
-              "pinyin": "bā dǒu",
-              "meaning": "八斗酒",
+              "word": "饮可八斗",
+              "pinyin": "yǐn kě bā dǒu",
+              "meaning": "大约能喝八斗酒。可，副词，大约",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "就",
+              "meaning": "连词，连接'饮八斗'和'醉二参'两种状态，表顺承",
               "type": "虚词"
             },
             {
               "word": "醉二参",
               "pinyin": "zuì èr sān",
-              "meaning": "醉两三分",
+              "meaning": "醉两三分。参，通'三'，分数词",
               "type": "实词"
             }
           ]
         },
         {
           "original": "日暮酒阑，合尊促坐，男女同席，履舄交错，杯盘狼藉，堂上烛灭，主人留髡而送客，罗襦襟解，微闻芗泽，当此之时，髡心最欢，能饮一石。",
-          "translation": "天晚酒尽，合并酒杯促膝而坐，男女同席，鞋子交错，杯盘杂乱，堂上烛火熄灭，主人留下我而送客，丝绸衣襟解开，微微闻到香气，这个时候，我心中最欢愉，能饮一石酒。",
+          "translation": "天色晚了，酒宴将尽，合并酒杯，促膝而坐，男女同坐一席，鞋子交错，杯盘杂乱，堂上蜡烛熄灭，主人留下我而送走客人，罗衣的衣襟解开，微微闻到香气，在这个时候，我心里最欢乐，能饮一石酒。",
           "words": [
             {
               "word": "日暮",
-              "pinyin": "rìmù",
-              "meaning": "傍晚",
+              "pinyin": "rì mù",
+              "meaning": "傍晚，太阳落山的时候",
               "type": "实词"
             },
             {
               "word": "酒阑",
-              "pinyin": "jiǔlán",
-              "meaning": "酒宴将尽",
+              "pinyin": "jiǔ lán",
+              "meaning": "酒宴将尽，饮酒者半散半在。阑，古义：将尽、将残（非今义'栏杆'或'擅自出入'）",
               "type": "实词"
             },
             {
               "word": "合尊",
-              "pinyin": "hézūn",
-              "meaning": "合并酒杯",
+              "pinyin": "hé zūn",
+              "meaning": "把剩余的酒并在一起。尊，通'樽'，酒杯",
               "type": "实词"
             },
             {
               "word": "促坐",
-              "pinyin": "cùzuò",
-              "meaning": "靠近坐",
+              "pinyin": "cù zuò",
+              "meaning": "促膝而坐，坐得很靠近",
               "type": "实词"
             },
             {
-              "word": "男女",
-              "pinyin": "nánnǚ",
-              "meaning": "男女",
+              "word": "男女同席",
+              "pinyin": "nán nǚ tóng xí",
+              "meaning": "男子和女子同坐一席。席，坐卧铺垫的用具",
               "type": "实词"
             },
             {
-              "word": "同席",
-              "pinyin": "tóngxí",
-              "meaning": "同席而坐",
+              "word": "履舄交错",
+              "pinyin": "lǚ xì jiāo cuò",
+              "meaning": "鞋子杂乱地放在一起。履，单底鞋；舄，复底鞋。此形容宾客众多，不拘礼节",
               "type": "实词"
             },
             {
-              "word": "履舄",
-              "pinyin": "lǚxì",
-              "meaning": "鞋子",
+              "word": "杯盘狼藉",
+              "pinyin": "bēi pán láng jí",
+              "meaning": "杯子和盘子杂乱堆放。狼藉，联绵词，杂乱不堪的样子",
               "type": "实词"
             },
             {
-              "word": "交错",
-              "pinyin": "jiāocuò",
-              "meaning": "交错",
-              "type": "实词"
-            },
-            {
-              "word": "杯盘",
-              "pinyin": "bēipán",
-              "meaning": "杯盘",
-              "type": "实词"
-            },
-            {
-              "word": "狼藉",
-              "pinyin": "lángjí",
-              "meaning": "杂乱",
-              "type": "实词"
-            },
-            {
-              "word": "堂上",
-              "pinyin": "tángshàng",
-              "meaning": "堂上",
-              "type": "实词"
-            },
-            {
-              "word": "烛灭",
-              "pinyin": "zhúmiè",
-              "meaning": "烛灭",
+              "word": "堂上烛灭",
+              "pinyin": "táng shàng zhú miè",
+              "meaning": "厅堂上的烛火熄灭了。堂，正厅",
               "type": "实词"
             },
             {
               "word": "主人",
-              "pinyin": "zhǔrén",
-              "meaning": "主人",
+              "pinyin": "zhǔ rén",
+              "meaning": "宴会的主办者",
               "type": "实词"
             },
             {
-              "word": "留",
-              "pinyin": "liú",
-              "meaning": "留下",
+              "word": "留髡",
+              "pinyin": "liú kūn",
+              "meaning": "留下淳于髡",
               "type": "实词"
-            },
-            {
-              "word": "髡",
-              "pinyin": "kūn",
-              "meaning": "淳于髡",
-              "type": "人名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接'留髡'和'送客'两个动作，表并列",
               "type": "虚词"
             },
             {
               "word": "送客",
-              "pinyin": "sòngkè",
-              "meaning": "送客",
+              "pinyin": "sòng kè",
+              "meaning": "送走其他客人",
               "type": "实词"
             },
             {
               "word": "罗襦",
-              "pinyin": "luórú",
-              "meaning": "丝绸短衣",
+              "pinyin": "luó rú",
+              "meaning": "丝罗制成的短衣。襦，短衣、短袄",
               "type": "实词"
             },
             {
               "word": "襟解",
-              "pinyin": "jīnjiě",
+              "pinyin": "jīn jiě",
               "meaning": "衣襟解开",
               "type": "实词"
             },
             {
               "word": "微闻",
-              "pinyin": "wēiwén",
+              "pinyin": "wēi wén",
               "meaning": "微微闻到",
               "type": "实词"
             },
             {
               "word": "芗泽",
-              "pinyin": "xiāngzé",
-              "meaning": "香气",
+              "pinyin": "xiāng zé",
+              "meaning": "香气。芗，通'香'，谷物的香气，泛指香气；泽，此处指膏泽的气味",
               "type": "实词"
             },
             {
               "word": "当此之时",
-              "pinyin": "dāngcǐzhīshí",
-              "meaning": "当这个时候",
+              "pinyin": "dāng cǐ zhī shí",
+              "meaning": "正当这个时候。当，介词，处在（某个时候）",
+              "type": "虚词"
+            },
+            {
+              "word": "髡",
+              "pinyin": "kūn",
+              "meaning": "即淳于髡，战国齐威王时赘婿，以滑稽善辩著称",
+              "type": "人名"
+            },
+            {
+              "word": "心最欢",
+              "pinyin": "xīn zuì huān",
+              "meaning": "内心最为欢快",
               "type": "实词"
             },
             {
-              "word": "髡心",
-              "pinyin": "kūnxīn",
-              "meaning": "髡的心",
-              "type": "实词"
-            },
-            {
-              "word": "最欢",
-              "pinyin": "zuìhuān",
-              "meaning": "最欢乐",
-              "type": "实词"
-            },
-            {
-              "word": "能饮",
-              "pinyin": "néngyǐn",
-              "meaning": "能饮",
-              "type": "实词"
-            },
-            {
-              "word": "一石",
-              "pinyin": "yīdàn",
-              "meaning": "一石",
+              "word": "能饮一石",
+              "pinyin": "néng yǐn yī dàn",
+              "meaning": "能够喝一石酒。石，容量单位，十斗为一石",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "故曰酒极则乱，乐极则悲，万事尽然，言不可极，极之而衰。",
-          "translation": "所以说酒过度就会乱性，快乐过度就会悲伤，万事都是这样，说不能过度，过度就会衰败。",
+          "original": "故曰酒极则乱，乐极则悲，万事尽然，言不可极，极之而衰。”以讽谏焉。",
+          "translation": "所以说酒喝到极点就会乱性，快乐到极点就会悲哀，万事都是这样，说不可达到极点，达到极点就会衰败。”用来讽谏。",
           "words": [
             {
-              "word": "故",
-              "pinyin": "gù",
-              "meaning": "所以",
+              "word": "故曰",
+              "pinyin": "gù yuē",
+              "meaning": "固定结构，表示总结前文，引出结论，义为“所以说”",
               "type": "虚词"
             },
             {
-              "word": "曰",
-              "pinyin": "yuē",
-              "meaning": "说",
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "酒，饮料",
               "type": "实词"
             },
             {
-              "word": "酒极",
-              "pinyin": "jiǔjí",
-              "meaning": "酒到极点",
+              "word": "极",
+              "pinyin": "jí",
+              "meaning": "达到极点、过度",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表承接，就、那么",
               "type": "虚词"
             },
             {
               "word": "乱",
               "pinyin": "luàn",
-              "meaning": "乱",
+              "meaning": "混乱、失态",
               "type": "实词"
             },
             {
-              "word": "乐极",
-              "pinyin": "lèjí",
-              "meaning": "乐到极点",
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "此处读 lè，义为快乐、享乐（区别于 yuè 之‘音乐’义）",
+              "type": "实词"
+            },
+            {
+              "word": "极",
+              "pinyin": "jí",
+              "meaning": "达到极点、过度",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表承接，就、那么",
               "type": "虚词"
             },
             {
               "word": "悲",
               "pinyin": "bēi",
-              "meaning": "悲",
+              "meaning": "悲哀、悲伤",
               "type": "实词"
             },
             {
               "word": "万事",
-              "pinyin": "wànshì",
-              "meaning": "万事",
+              "pinyin": "wàn shì",
+              "meaning": "一切事情",
               "type": "实词"
             },
             {
               "word": "尽然",
-              "pinyin": "jìnrán",
-              "meaning": "都是如此",
+              "pinyin": "jìn rán",
+              "meaning": "都是这样",
               "type": "实词"
             },
             {
@@ -2926,68 +2910,68 @@
             },
             {
               "word": "不可",
-              "pinyin": "bùkě",
-              "meaning": "不可",
+              "pinyin": "bù kě",
+              "meaning": "不可以、不能",
               "type": "实词"
             },
             {
               "word": "极",
               "pinyin": "jí",
-              "meaning": "极点",
+              "meaning": "达到极点、走向极端",
+              "type": "实词"
+            },
+            {
+              "word": "极",
+              "pinyin": "jí",
+              "meaning": "达到极点、走向极端",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "助词",
+              "meaning": "代词，指代“万事”或“酒乐”等事物",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表承接，就",
               "type": "虚词"
             },
             {
               "word": "衰",
               "pinyin": "shuāi",
-              "meaning": "衰",
+              "meaning": "衰败、衰落",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "以讽谏焉。",
-          "translation": "以此来讽谏。",
-          "words": [
+            },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，用、用来",
               "type": "虚词"
             },
             {
               "word": "讽谏",
-              "pinyin": "fěngjiàn",
-              "meaning": "讽谏",
+              "pinyin": "fěng jiàn",
+              "meaning": "用委婉的言语劝谏",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "兼词，相当于“于此”（指代齐王及此次饮酒之事）",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "齐王曰：“善！”乃罢长夜之饮，以髡为诸侯主客。",
-          "translation": "齐王说：“好！”于是停止长夜饮酒，任命我为诸侯主客。",
+          "original": "齐王曰：“善！”",
+          "translation": "齐王说：“好！”",
           "words": [
             {
               "word": "齐王",
               "pinyin": "qí wáng",
-              "meaning": "齐国国王",
+              "meaning": "指战国时齐国国君，此为齐威王，淳于髡的君主",
               "type": "人名"
             },
             {
@@ -2999,85 +2983,91 @@
             {
               "word": "善",
               "pinyin": "shàn",
-              "meaning": "好",
+              "meaning": "好、对（表示赞同）",
               "type": "实词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "乃罢长夜之饮，以髡为诸侯主客。",
+          "translation": "于是停止长夜饮酒，任命淳于髡为诸侯主客。",
+          "words": [
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示动作行为在时间或事理上的顺承，相当于“于是”、“就”。",
               "type": "虚词"
             },
             {
               "word": "罢",
               "pinyin": "bà",
-              "meaning": "停止",
+              "meaning": "动词，停止、废止。",
               "type": "实词"
             },
             {
               "word": "长夜之饮",
               "pinyin": "cháng yè zhī yǐn",
-              "meaning": "长夜饮酒",
+              "meaning": "整夜的饮酒作乐。此处指齐威王先前通宵达旦饮酒的旧习。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "任命",
-              "type": "实词"
+              "meaning": "介词，表示动作行为所凭借的身份或资格，相当于“用……（任命）为……”。",
+              "type": "虚词"
             },
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "即淳于髡，战国时期齐国赘婿，以滑稽善辩著称，曾用隐语讽谏齐威王。",
               "type": "人名"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "实词"
+              "meaning": "动词，担任、充当。",
+              "type": "虚词"
             },
             {
               "word": "诸侯主客",
               "pinyin": "zhū hóu zhǔ kè",
-              "meaning": "诸侯主客官",
+              "meaning": "官职名，主管接待各诸侯国宾客、外交礼仪等事务。",
               "type": "官职"
             }
           ]
         },
         {
           "original": "宗室置酒，髡尝在侧。",
-          "translation": "宗室设宴时，我常在旁边。",
+          "translation": "王室宗亲设酒宴，淳于髡曾在旁边。",
           "words": [
             {
               "word": "宗室",
               "pinyin": "zōng shì",
-              "meaning": "王室宗族",
+              "meaning": "名词，特指与君主同宗族的人，即王族。",
               "type": "实词"
             },
             {
               "word": "置酒",
               "pinyin": "zhì jiǔ",
-              "meaning": "设置酒宴",
+              "meaning": "动词短语，设置酒宴。",
               "type": "实词"
             },
             {
               "word": "髡",
               "pinyin": "kūn",
-              "meaning": "淳于髡",
+              "meaning": "即淳于髡，战国时期齐国赘婿，以滑稽善辩著称，曾用隐语讽谏齐威王。",
               "type": "人名"
             },
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "曾经",
+              "meaning": "副词，表示动作行为曾经发生，相当于“曾经”。",
               "type": "虚词"
             },
             {
               "word": "在侧",
               "pinyin": "zài cè",
-              "meaning": "在旁边",
+              "meaning": "动词短语，在旁边（作陪）。",
               "type": "实词"
             }
           ]

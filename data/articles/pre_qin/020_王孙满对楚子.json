@@ -1,1452 +1,877 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "020_王孙满对楚子",
   "title": "王孙满对楚子",
   "author": {
     "id": "pre_qin_左丘明",
     "name": "左丘明",
     "dynasty": "pre_qin",
-    "bio": "左丘明，先秦时期史官，生活于春秋末期，鲁国人。相传姓左丘，名明，或单名丘明，生卒年不详。他是《左传》的作者或编纂者，该书是重要的编年体史书，记载春秋时期历史，文笔生动，叙事详实。左丘明以严谨的史学态度和文学才华著称，对后世史学和文学发展有重要贡献，被尊为史学鼻祖之一，简介约100-200字。"
+    "bio": "左丘明，春秋末期鲁国人，生卒年不详，活动年代约在公元前5世纪。相传为鲁国史官，著有《左传》（又称《春秋左氏传》）和《国语》。他是中国古代重要的史学家和文学家，《左传》为编年体史书，记载春秋时期历史，文笔生动，对后世史学和文学影响深远。"
   },
   "source": "左传",
   "dynasty": "pre_qin",
   "volume": 2,
-  "background": "本文出自《左传》，记载春秋时期周定王与楚庄王之间的一次外交事件。当时周王室衰微，诸侯争霸，楚庄王在征服陆浑之戎后，率军至周朝边境洛水，陈兵示威，并询问象征王权的九鼎之大小轻重，意在试探周室权威。周定王派大夫王孙满前去慰劳，王孙满以巧妙言辞回应，强调鼎之轻重在于德行而非实物，维护了周王室的尊严。这一事件反映了春秋时期政治格局的变迁和礼制观念的冲突，左丘明通过记录此对话，警示德行在统治中的核心作用，背景约200-300字。",
-  "appreciation": "本文以精炼的对话形式，展现了高超的文学艺术和深刻的思想内涵。开篇简洁叙述事件，引出楚子问鼎之问，王孙满的回应层层递进，从夏商周三代鼎的迁移历史，论证“在德不在鼎”的核心观点。修辞上运用排比和对比，如“德之休明，虽小，重也；其奸回昏乱，虽大，轻也”，增强说服力和节奏感。思想上，强调德治高于武力，体现了儒家仁政理念，对后世政治哲学有深远影响。文章结构紧凑，语言精炼，通过外交辞令展现智慧与机辩，是历史散文的典范之作，兼具史学价值和文学美感，赏析约300-500字。",
+  "background": "春秋时期，周王室权威衰落，诸侯争霸。楚庄王在位时，楚国势力扩张，伐陆浑之戎后陈兵洛水，在周王室边境炫耀武力。周定王派王孙满慰劳楚子，楚子问九鼎之轻重，隐含取代周室的野心。左丘明作为鲁国史官，编纂《左传》时记录此事，基于历史记载，旨在通过事件反映当时政治格局和外交策略，强调德政与天命的关系。",
+  "appreciation": "本文出自《左传》，以叙事与议论结合的结构展开。首段简述楚子观兵周疆的背景，为对话铺垫；次段以王孙满的对答为主体，进行深入议论。文体上，兼具历史叙事和政论色彩。艺术特色方面，语言精炼而富有节奏，运用夏商周三代铸鼎的典故，通过对比“德”与“鼎”的大小轻重，如“德之休明，虽小，重也；其奸回昏乱，虽大，轻也”，突出修辞效果。思想内涵核心是“在德不在鼎”，强调以德治国、天命所归在于德行，而非武力或权力，维护周王室的正统地位。作为《左传》中的篇章，它展示了春秋时期外交辞令的精妙和历史散文的叙事技巧，对后世史传文学有参考价值。",
   "tags": [
-    "左传",
-    "春秋",
-    "外交辞令",
-    "德治思想",
-    "历史散文"
+    "叙事",
+    "议论",
+    "政治",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "楚子伐陆浑之戎，遂至于洛，观兵于周疆。定王使王孙满劳楚子。楚子问鼎之大小轻重焉。对曰：“在德不在鼎。昔夏之方有德也，远方图物，贡金九牧。",
-      "translation": "楚子讨伐陆浑之戎，于是到达洛水，在周朝的边境上炫耀军力。定王派王孙满慰劳楚子。楚子问鼎的大小轻重。王孙满回答说：“在于德行而不在于鼎。从前夏朝当有德的时候，远方描绘物象，九州之长贡献金属。铸鼎并刻画物象，百物都具备，让百姓知道神怪。所以百姓进入川泽山林，不会遇到不祥之物。螭魅罔两，没有能遇到的。因此能协调上下，以承受天赐的福佑。夏桀有昏乱的德行，鼎迁到商朝，享国六百年。商纣暴虐，鼎迁到周朝。德行如果美善光明，鼎虽小，也重；如果奸邪昏乱，鼎虽大，也轻。上天赐福给明德之人，有所终止。成王在郏鄏定鼎，占卜传世三十代，占卜享年七百年，这是天命。周朝的德行虽然衰微，天命没有改变。鼎的轻重，不可以问。”",
+      "translation": "楚国的君主讨伐陆浑之戎，于是到达洛水，在周朝的边境炫耀兵力。周定王派遣王孙满慰劳楚君。楚君询问鼎的大小和轻重。王孙满回答说：“（鼎的珍贵）在于德行而不在于鼎本身。从前夏朝正有德行的时候，远方的人描绘各种物象进贡，九州的长官贡献金属。”",
       "sentences": [
         {
           "original": "楚子伐陆浑之戎，遂至于洛，观兵于周疆。",
-          "translation": "楚子讨伐陆浑之戎，于是到达洛水，在周朝的边境上炫耀军力。",
+          "translation": "楚君讨伐陆浑之戎，于是到达洛水，在周朝的边境炫耀兵力。",
           "words": [
             {
               "word": "楚子",
               "pinyin": "chǔ zǐ",
-              "meaning": "楚国君主",
+              "meaning": "春秋时期楚国国君。楚国受封子爵，故称其君为“楚子”。此处指楚庄王。",
               "type": "人名"
             },
             {
               "word": "伐",
               "pinyin": "fá",
-              "meaning": "讨伐",
+              "meaning": "征讨，攻打。",
               "type": "实词"
             },
             {
               "word": "陆浑之戎",
               "pinyin": "lù hún zhī róng",
-              "meaning": "陆浑戎族",
+              "meaning": "古部族名，允姓之戎的一支，原居瓜州，后迁至今河南嵩县一带。",
               "type": "地名"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "连词，表示动作的承接，于是，就。",
               "type": "虚词"
             },
             {
-              "word": "至",
-              "pinyin": "zhì",
-              "meaning": "到达",
+              "word": "至于",
+              "pinyin": "zhì yú",
+              "meaning": "动词，到达。",
               "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "到",
-              "type": "虚词"
             },
             {
               "word": "洛",
               "pinyin": "luò",
-              "meaning": "洛水",
+              "meaning": "水名，洛水。流经东周都城洛邑（今河南洛阳）。",
               "type": "地名"
             },
             {
               "word": "观兵",
               "pinyin": "guān bīng",
-              "meaning": "炫耀兵力",
+              "meaning": "古义：检阅军队，炫耀武力（非今义“观看士兵”）。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作“观兵”的地点，在。",
               "type": "虚词"
             },
             {
               "word": "周疆",
               "pinyin": "zhōu jiāng",
-              "meaning": "周朝疆域",
+              "meaning": "周王室直辖的边境区域。",
               "type": "地名"
             }
           ]
         },
         {
           "original": "定王使王孙满劳楚子。",
-          "translation": "定王派王孙满慰劳楚子。",
+          "translation": "周定王派遣王孙满慰劳楚君。",
           "words": [
             {
               "word": "定王",
               "pinyin": "dìng wáng",
-              "meaning": "周定王",
+              "meaning": "即周定王，东周国君（前606-前586在位），名瑜。",
               "type": "人名"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "派遣",
+              "meaning": "动词，派遣。",
               "type": "实词"
             },
             {
               "word": "王孙满",
               "pinyin": "wáng sūn mǎn",
-              "meaning": "周大夫",
+              "meaning": "周大夫，名满。“王孙”表明其为周王之孙。",
               "type": "人名"
             },
             {
               "word": "劳",
-              "pinyin": "láo",
-              "meaning": "慰劳",
+              "pinyin": "lào",
+              "meaning": "此处读 lào，义为慰劳，犒劳。",
               "type": "实词"
             },
             {
               "word": "楚子",
               "pinyin": "chǔ zǐ",
-              "meaning": "楚国君主",
+              "meaning": "同上文，指楚庄王。",
               "type": "人名"
             }
           ]
         },
         {
           "original": "楚子问鼎之大小轻重焉。",
-          "translation": "楚子问鼎的大小轻重。",
+          "translation": "楚君询问鼎的大小和轻重。",
           "words": [
             {
               "word": "楚子",
               "pinyin": "chǔ zǐ",
-              "meaning": "楚国君主",
+              "meaning": "春秋时期楚国国君，爵位为子。此处指楚庄王（？—前591年），名旅（一作吕、侣），观兵周疆、问鼎中原者。",
               "type": "人名"
             },
             {
               "word": "问",
               "pinyin": "wèn",
-              "meaning": "询问",
+              "meaning": "询问，打听。",
               "type": "实词"
             },
             {
               "word": "鼎",
               "pinyin": "dǐng",
-              "meaning": "九鼎",
+              "meaning": "指九鼎，夏、商、周三代传国宝器，象征王权与天命。楚子问鼎，意在试探周室权威，有取代之心。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语“鼎”与中心语“大小轻重”，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "大小",
               "pinyin": "dà xiǎo",
-              "meaning": "大小",
+              "meaning": "指体积、尺寸。",
               "type": "实词"
             },
             {
               "word": "轻重",
               "pinyin": "qīng zhòng",
-              "meaning": "轻重",
+              "meaning": "指重量。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示陈述语气，可不译。",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "对曰：“在德不在鼎。",
-          "translation": "王孙满回答说：“在于德行而不在于鼎。",
+          "original": "对曰：“在德不在鼎。昔夏之方有德也，远方图物，贡金九牧。”",
+          "translation": "（王孙满）回答说：“（鼎的珍贵）在于德行而不在于鼎本身。从前夏朝正有德行的时候，远方的人描绘各种物象进贡，九州的长官贡献金属。”",
           "words": [
             {
               "word": "对",
               "pinyin": "duì",
-              "meaning": "回答",
+              "meaning": "回答，应答。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "在于，取决于。",
               "type": "实词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "德行",
+              "meaning": "指德行、德政。王孙满强调统治天下的根本在于君主的德行，而非九鼎本身。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "在于",
+              "meaning": "在于，取决于。",
               "type": "实词"
             },
             {
               "word": "鼎",
               "pinyin": "dǐng",
-              "meaning": "鼎",
+              "meaning": "指九鼎，象征王权的宝器。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "昔夏之方有德也，远方图物，贡金九牧。",
-          "translation": "从前夏朝当有德的时候，远方描绘物象，九州之长贡献金属。",
-          "words": [
+            },
             {
               "word": "昔",
               "pinyin": "xī",
-              "meaning": "从前",
-              "type": "虚词"
+              "meaning": "从前，往昔。",
+              "type": "实词"
             },
             {
               "word": "夏",
               "pinyin": "xià",
-              "meaning": "夏朝",
+              "meaning": "朝代名，即夏朝（约前2070—前1600年），相传为禹所建。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓结构“夏方有德”之间，取消其独立性，作“昔”的时间状语。",
               "type": "虚词"
             },
             {
               "word": "方",
               "pinyin": "fāng",
-              "meaning": "正在",
-              "type": "虚词"
+              "meaning": "副词，正，正在。",
+              "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "拥有，施行。",
               "type": "实词"
             },
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "德行",
+              "meaning": "指德行、德政。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "停顿语气",
+              "meaning": "句中语气词，表示停顿，以待下文说明。",
               "type": "虚词"
             },
             {
-              "word": "远方",
-              "pinyin": "yuǎn fāng",
-              "meaning": "远方地区",
+              "word": "远",
+              "pinyin": "yuǎn",
+              "meaning": "远方的。",
               "type": "实词"
             },
             {
-              "word": "图物",
-              "pinyin": "tú wù",
-              "meaning": "描绘物产",
+              "word": "方",
+              "pinyin": "fāng",
+              "meaning": "邦国，地域。与“远”连用，指远方之国、藩属。",
               "type": "实词"
             },
             {
-              "word": "贡金",
-              "pinyin": "gòng jīn",
-              "meaning": "贡献金属",
-              "type": "实词"
-            },
-            {
-              "word": "九牧",
-              "pinyin": "jiǔ mù",
-              "meaning": "九州长官",
-              "type": "典故"
-            }
-          ]
-        },
-        {
-          "original": "铸鼎象物，百物而为之备，使民知神奸。",
-          "translation": "铸鼎并刻画物象，百物都具备，让百姓知道神怪。",
-          "words": [
-            {
-              "word": "铸",
-              "pinyin": "zhù",
-              "meaning": "铸造",
-              "type": "实词"
-            },
-            {
-              "word": "鼎",
-              "pinyin": "dǐng",
-              "meaning": "鼎",
-              "type": "实词"
-            },
-            {
-              "word": "象",
-              "pinyin": "xiàng",
-              "meaning": "象征",
+              "word": "图",
+              "pinyin": "tú",
+              "meaning": "动词，描绘，绘制。",
               "type": "实词"
             },
             {
               "word": "物",
               "pinyin": "wù",
-              "meaning": "物象",
+              "meaning": "物品，这里指山川奇异之物。",
               "type": "实词"
             },
             {
-              "word": "百物",
-              "pinyin": "bǎi wù",
-              "meaning": "各种物象",
+              "word": "贡",
+              "pinyin": "gòng",
+              "meaning": "进贡，贡献。",
               "type": "实词"
             },
             {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "而且",
-              "type": "虚词"
-            },
-            {
-              "word": "为",
-              "pinyin": "wèi",
-              "meaning": "为了",
-              "type": "虚词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "它",
-              "type": "虚词"
-            },
-            {
-              "word": "备",
-              "pinyin": "bèi",
-              "meaning": "具备",
+              "word": "金",
+              "pinyin": "jīn",
+              "meaning": "指金属（青铜），古代铸鼎的材料。",
               "type": "实词"
             },
             {
-              "word": "使",
-              "pinyin": "shǐ",
-              "meaning": "让",
-              "type": "实词"
-            },
-            {
-              "word": "民",
-              "pinyin": "mín",
-              "meaning": "民众",
-              "type": "实词"
-            },
-            {
-              "word": "知",
-              "pinyin": "zhī",
-              "meaning": "知道",
-              "type": "实词"
-            },
-            {
-              "word": "神奸",
-              "pinyin": "shén jiān",
-              "meaning": "神怪奸邪",
-              "type": "实词"
+              "word": "九牧",
+              "pinyin": "jiǔ mù",
+              "meaning": "传说中夏代九州的长官（牧伯）。职责是治理地方，并向中央贡纳金属等物。",
+              "type": "官职"
             }
           ]
-        },
-        {
-          "original": "故民入川泽山林，不逢不若。",
-          "translation": "所以百姓进入川泽山林，不会遇到不祥之物。",
-          "words": [
-            {
-              "word": "故",
-              "pinyin": "gù",
-              "meaning": "所以",
-              "type": "虚词"
-            },
-            {
-              "word": "民",
-              "pinyin": "mín",
-              "meaning": "人民",
-              "type": "实词"
-            },
-            {
-              "word": "入",
-              "pinyin": "rù",
-              "meaning": "进入",
-              "type": "实词"
-            },
-            {
-              "word": "川泽山林",
-              "pinyin": "chuān zé shān lín",
-              "meaning": "各种地形",
-              "type": "实词"
-            },
-            {
-              "word": "不逢不若",
-              "pinyin": "bù féng bù ruò",
-              "meaning": "不遇不祥",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "螭魅罔两，莫能逢之。",
-          "translation": "螭魅罔两，没有能遇到的。",
-          "words": [
-            {
-              "word": "螭魅罔两",
-              "pinyin": "chī mèi wǎng liǎng",
-              "meaning": "妖魔鬼怪",
-              "type": "实词"
-            },
-            {
-              "word": "莫",
-              "pinyin": "mò",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "能",
-              "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
-            },
-            {
-              "word": "逢",
-              "pinyin": "féng",
-              "meaning": "遇到",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "它们",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "用能协于上下，以承天休。",
-          "translation": "因此能协调上下，以承受天赐的福佑。",
-          "words": [
-            {
-              "word": "用",
-              "pinyin": "yòng",
-              "meaning": "因此",
-              "type": "虚词"
-            },
-            {
-              "word": "能",
-              "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
-            },
-            {
-              "word": "协",
-              "pinyin": "xié",
-              "meaning": "协调",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "在",
-              "type": "虚词"
-            },
-            {
-              "word": "上下",
-              "pinyin": "shàng xià",
-              "meaning": "天地君臣",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "来",
-              "type": "虚词"
-            },
-            {
-              "word": "承",
-              "pinyin": "chéng",
-              "meaning": "承受",
-              "type": "实词"
-            },
-            {
-              "word": "天休",
-              "pinyin": "tiān xiū",
-              "meaning": "天赐福佑",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "桀有昏德，鼎迁于商，载祀六百。",
-          "translation": "夏桀有昏乱的德行，鼎迁到商朝，享国六百年。",
-          "words": [
-            {
-              "word": "桀",
-              "pinyin": "Jié",
-              "meaning": "夏朝末代君主",
-              "type": "人名"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "拥有",
-              "type": "实词"
-            },
-            {
-              "word": "昏德",
-              "pinyin": "hūn dé",
-              "meaning": "昏乱的德行",
-              "type": "实词"
-            },
-            {
-              "word": "鼎",
-              "pinyin": "dǐng",
-              "meaning": "九鼎，王权象征",
-              "type": "实词"
-            },
-            {
-              "word": "迁",
-              "pinyin": "qiān",
-              "meaning": "迁移",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "到",
-              "type": "虚词"
-            },
-            {
-              "word": "商",
-              "pinyin": "Shāng",
-              "meaning": "商朝",
-              "type": "地名"
-            },
-            {
-              "word": "载祀",
-              "pinyin": "zǎi sì",
-              "meaning": "经历年岁",
-              "type": "实词"
-            },
-            {
-              "word": "六百",
-              "pinyin": "liù bǎi",
-              "meaning": "六百年",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "商纣暴虐，鼎迁于周。",
-          "translation": "商纣暴虐，鼎迁到周朝。",
-          "words": [
-            {
-              "word": "商纣",
-              "pinyin": "Shāng Zhòu",
-              "meaning": "商朝末代君主",
-              "type": "人名"
-            },
-            {
-              "word": "暴虐",
-              "pinyin": "bào nüè",
-              "meaning": "残暴",
-              "type": "实词"
-            },
-            {
-              "word": "鼎",
-              "pinyin": "dǐng",
-              "meaning": "九鼎",
-              "type": "实词"
-            },
-            {
-              "word": "迁",
-              "pinyin": "qiān",
-              "meaning": "迁移",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "到",
-              "type": "虚词"
-            },
-            {
-              "word": "周",
-              "pinyin": "Zhōu",
-              "meaning": "周朝",
-              "type": "地名"
-            }
-          ]
-        },
-        {
-          "original": "德之休明，虽小，重也；其奸回昏乱，虽大，轻也。",
-          "translation": "德行如果美善光明，鼎虽小，也重；如果奸邪昏乱，鼎虽大，也轻。",
-          "words": [
-            {
-              "word": "德",
-              "pinyin": "dé",
-              "meaning": "德行",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "休明",
-              "pinyin": "xiū míng",
-              "meaning": "美好光明",
-              "type": "实词"
-            },
-            {
-              "word": "虽",
-              "pinyin": "suī",
-              "meaning": "即使",
-              "type": "虚词"
-            },
-            {
-              "word": "小",
-              "pinyin": "xiǎo",
-              "meaning": "小",
-              "type": "实词"
-            },
-            {
-              "word": "重",
-              "pinyin": "zhòng",
-              "meaning": "重",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "指代鼎",
-              "type": "虚词"
-            },
-            {
-              "word": "奸回",
-              "pinyin": "jiān huí",
-              "meaning": "奸邪",
-              "type": "实词"
-            },
-            {
-              "word": "昏乱",
-              "pinyin": "hūn luàn",
-              "meaning": "昏庸混乱",
-              "type": "实词"
-            },
-            {
-              "word": "虽",
-              "pinyin": "suī",
-              "meaning": "即使",
-              "type": "虚词"
-            },
-            {
-              "word": "大",
-              "pinyin": "dà",
-              "meaning": "大",
-              "type": "实词"
-            },
-            {
-              "word": "轻",
-              "pinyin": "qīng",
-              "meaning": "轻",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "天祚明德，有所底止。",
-          "translation": "上天赐福给明德之人，有所终止。",
-          "words": [
-            {
-              "word": "天祚",
-              "pinyin": "tiān zuò",
-              "meaning": "天赐福祚",
-              "type": "实词"
-            },
-            {
-              "word": "明德",
-              "pinyin": "míng dé",
-              "meaning": "美德",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "存在",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词",
-              "type": "虚词"
-            },
-            {
-              "word": "底止",
-              "pinyin": "dǐ zhǐ",
-              "meaning": "终止",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "成王定鼎于郏鄏，卜世三十，卜年七百，天所命也。",
-          "translation": "成王在郏鄏定鼎，占卜传世三十代，占卜享年七百年，这是天命。",
-          "words": [
-            {
-              "word": "成王",
-              "pinyin": "chéng wáng",
-              "meaning": "周成王",
-              "type": "人名"
-            },
-            {
-              "word": "定鼎",
-              "pinyin": "dìng dǐng",
-              "meaning": "定都建国",
-              "type": "典故"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "在",
-              "type": "虚词"
-            },
-            {
-              "word": "郏鄏",
-              "pinyin": "jiá rǔ",
-              "meaning": "地名",
-              "type": "地名"
-            },
-            {
-              "word": "卜世",
-              "pinyin": "bǔ shì",
-              "meaning": "占卜世代",
-              "type": "实词"
-            },
-            {
-              "word": "三十",
-              "pinyin": "sān shí",
-              "meaning": "三十",
-              "type": "实词"
-            },
-            {
-              "word": "卜年",
-              "pinyin": "bǔ nián",
-              "meaning": "占卜年数",
-              "type": "实词"
-            },
-            {
-              "word": "七百",
-              "pinyin": "qī bǎi",
-              "meaning": "七百",
-              "type": "实词"
-            },
-            {
-              "word": "天",
-              "pinyin": "tiān",
-              "meaning": "上天",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词",
-              "type": "虚词"
-            },
-            {
-              "word": "命",
-              "pinyin": "mìng",
-              "meaning": "命令",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "周德虽衰，天命未改。",
-          "translation": "周朝的德行虽然衰微，天命没有改变。",
-          "words": [
-            {
-              "word": "周德",
-              "pinyin": "zhōu dé",
-              "meaning": "周朝德行",
-              "type": "实词"
-            },
-            {
-              "word": "虽",
-              "pinyin": "suī",
-              "meaning": "虽然",
-              "type": "虚词"
-            },
-            {
-              "word": "衰",
-              "pinyin": "shuāi",
-              "meaning": "衰落",
-              "type": "实词"
-            },
-            {
-              "word": "天命",
-              "pinyin": "tiān mìng",
-              "meaning": "天命",
-              "type": "实词"
-            },
-            {
-              "word": "未",
-              "pinyin": "wèi",
-              "meaning": "没有",
-              "type": "虚词"
-            },
-            {
-              "word": "改",
-              "pinyin": "gǎi",
-              "meaning": "改变",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "鼎之轻重，未可问也。”",
-          "translation": "鼎的轻重，不可以问。”",
-          "words": []
         }
       ]
     },
     {
       "original": "铸鼎象物，百物而为之备，使民知神奸。故民入川泽山林，不逢不若。螭魅罔两，莫能逢之。用能协于上下，以承天休。桀有昏德，鼎迁于商，载祀六百。商纣暴虐，鼎迁于周。德之休明，虽小，重也；其奸回昏乱，虽大，轻也。天祚明德，有所底止。成王定鼎于郏鄏，卜世三十，卜年七百，天所命也。周德虽衰，天命未改。鼎之轻重，未可问也。”",
-      "translation": "铸造大鼎，描绘各种事物，百物都具备，使人民知道神明和奸邪。因此人民进入河流、沼泽、山林，不会遭遇不吉利的事物。鬼怪妖魔，没有人能碰到。因此能够使上下和谐，以承受上天的恩赐。夏桀德行昏乱，大鼎迁到商朝，延续了六百年。商纣王残暴，大鼎迁到周朝。德行如果美好光明，鼎即使小，也显得重；如果奸邪昏乱，鼎即使大，也显得轻。上天保佑有明德的人，是有终止的时候。周成王在郏鄏定鼎，占卜得知传世三十代，享国七百年，这是上天的旨意。周朝的德行虽然衰落，但上天的命令没有改变。鼎的轻重，不可以询问。",
+      "translation": "铸造宝鼎并刻画物象，百物都具备，让民众知道神明和奸邪。因此民众进入河流、沼泽、山林，不会遇到不顺的东西。螭魅罔两这些怪物，没有人能遇到它们。因此能够和谐上下，来承受上天的福佑。夏桀有昏乱的德行，鼎迁到商朝，经历了六百年。商纣王暴虐，鼎迁到周朝。德行美好光明，鼎虽然小，但很重；如果奸邪昏乱，鼎虽然大，但很轻。上天赐福给明德的人，有终止的期限。周成王在郏鄏（今河南洛阳）定鼎，占卜传世三十代，占卜享年七百年，这是上天的命令。周朝的德行虽然衰落，但天命没有改变。鼎的轻重，不可以询问。",
       "sentences": [
         {
           "original": "铸鼎象物，百物而为之备，使民知神奸。",
-          "translation": "铸造大鼎，描绘各种事物，百物都具备，使人民知道神明和奸邪。",
+          "translation": "铸造宝鼎并刻画物象，百物都具备，让民众知道神明和奸邪。",
           "words": [
             {
               "word": "铸鼎",
               "pinyin": "zhù dǐng",
-              "meaning": "铸造鼎",
+              "meaning": "铸造青铜鼎。鼎为古代象征王权与国家政权的重器。",
               "type": "实词"
             },
             {
               "word": "象物",
               "pinyin": "xiàng wù",
-              "meaning": "象征万物",
+              "meaning": "描绘万物的物象。'象'为动词，描绘；'物'古义指万物（非今义'物品'）。",
               "type": "实词"
             },
             {
               "word": "百物",
               "pinyin": "bǎi wù",
-              "meaning": "各种事物",
+              "meaning": "各种事物，万物。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，表承接",
+              "meaning": "连词，表示承接关系，可译为'从而'或不译。",
               "type": "虚词"
             },
             {
-              "word": "为",
-              "pinyin": "wèi",
-              "meaning": "介词，为了",
-              "type": "虚词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "代词，它",
+              "word": "为之",
+              "pinyin": "wèi zhī",
+              "meaning": "介宾结构。'为'，介词，给、替；'之'，代词，指代'百物'。",
               "type": "虚词"
             },
             {
               "word": "备",
               "pinyin": "bèi",
-              "meaning": "准备",
+              "meaning": "动词，具备，齐备。",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让，使得。",
               "type": "实词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "民众",
+              "meaning": "名词，百姓，民众。",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道，识别。",
               "type": "实词"
             },
             {
               "word": "神奸",
               "pinyin": "shén jiān",
-              "meaning": "神明奸邪",
+              "meaning": "神明与奸邪。此处指图形所代表的神物与妖邪之物。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "故民入川泽山林，不逢不若。",
-          "translation": "因此人民进入河流、沼泽、山林，不会遭遇不吉利的事物。",
+          "translation": "因此民众进入河流、沼泽、山林，不会遇到不顺的东西。",
           "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示结果，所以，因此。",
               "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "民众",
+              "meaning": "名词，百姓，民众。",
               "type": "实词"
             },
             {
               "word": "入",
               "pinyin": "rù",
-              "meaning": "进入",
+              "meaning": "动词，进入。",
               "type": "实词"
             },
             {
               "word": "川泽",
               "pinyin": "chuān zé",
-              "meaning": "河流沼泽",
+              "meaning": "河流与湖泽。",
               "type": "实词"
             },
             {
               "word": "山林",
               "pinyin": "shān lín",
-              "meaning": "山岭森林",
+              "meaning": "山岭与树林。",
               "type": "实词"
             },
             {
               "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
+              "pinyin": "fǒu",
+              "meaning": "副词，表示否定。此处读 fǒu，义为'不会'（古汉语中常用于叙述未来或假设情况）。",
               "type": "虚词"
             },
             {
               "word": "逢",
               "pinyin": "féng",
-              "meaning": "遇到",
+              "meaning": "动词，遇到，遭遇。",
               "type": "实词"
             },
             {
-              "word": "不若",
-              "pinyin": "bù ruò",
-              "meaning": "不顺之物",
+              "word": "不",
+              "pinyin": "fǒu",
+              "meaning": "副词，表示否定。此处读 fǒu，义为'不'。",
+              "type": "虚词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "通'顺'，义为顺利、顺遂。'不若'即不顺利，指不会遇到不顺之事（即下文的'螭魅罔两'）。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "螭魅罔两，莫能逢之。",
-          "translation": "鬼怪妖魔，没有人能碰到。",
+          "translation": "螭魅罔两这些怪物，没有人能遇到它们。",
           "words": [
             {
               "word": "螭魅",
               "pinyin": "chī mèi",
-              "meaning": "山林精怪",
+              "meaning": "山林中的鬼怪，属于神奸之一，古人认为能害人",
               "type": "实词"
             },
             {
               "word": "罔两",
               "pinyin": "wǎng liǎng",
-              "meaning": "水怪鬼影",
+              "meaning": "水中的鬼怪或木石精怪，与螭魅并称鬼怪类",
               "type": "实词"
             },
             {
               "word": "莫",
               "pinyin": "mò",
-              "meaning": "没有人",
+              "meaning": "否定代词，在句中作主语，表示'没有人'或'没有东西'",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "动词，表示具备能力或可能性，义为'能够'",
               "type": "实词"
             },
             {
               "word": "逢",
               "pinyin": "féng",
-              "meaning": "遇到",
+              "meaning": "动词，表示遇见或遭遇，义为'遇到'",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，它们",
+              "meaning": "代词，指代前文的'螭魅罔两'，作宾语",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "用能协于上下，以承天休。",
-          "translation": "因此能够使上下和谐，以承受上天的恩赐。",
+          "translation": "因此能够和谐上下，来承受上天的福佑。",
           "words": [
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "因此",
+              "meaning": "连词，表示因果关系，相当于'因此'、'因而'",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "动词，表示具备能力或可能性，义为'能够'",
               "type": "实词"
             },
             {
               "word": "协",
               "pinyin": "xié",
-              "meaning": "和谐",
+              "meaning": "动词，表示使和谐或协调，义为'协调'",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引进动作的对象，相当于'与'或'对于'",
               "type": "虚词"
             },
             {
               "word": "上下",
               "pinyin": "shàng xià",
-              "meaning": "天地神灵",
+              "meaning": "名词，指天地神祇或君臣百姓，泛指不同层级",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的关系，相当于'用来'或'以便'",
               "type": "虚词"
             },
             {
               "word": "承",
               "pinyin": "chéng",
-              "meaning": "承受",
+              "meaning": "动词，表示接受或蒙受，义为'承受'",
               "type": "实词"
             },
             {
               "word": "天休",
               "pinyin": "tiān xiū",
-              "meaning": "天赐福佑",
+              "meaning": "名词，指上天赐予的福佑或吉祥",
               "type": "实词"
             }
           ]
         },
         {
           "original": "桀有昏德，鼎迁于商，载祀六百。",
-          "translation": "夏桀德行昏乱，大鼎迁到商朝，延续了六百年。",
+          "translation": "夏桀有昏乱的德行，鼎迁到商朝，经历了六百年。",
           "words": [
             {
               "word": "桀",
-              "pinyin": "Jié",
-              "meaning": "夏桀",
+              "pinyin": "jié",
+              "meaning": "夏朝末代君主，以昏庸失德著称，此处作为失德之君的代表",
               "type": "人名"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，拥有、具有",
               "type": "实词"
             },
             {
               "word": "昏德",
               "pinyin": "hūn dé",
-              "meaning": "昏乱品德",
+              "meaning": "昏乱的品德，指君主失德",
               "type": "实词"
             },
             {
               "word": "鼎",
               "pinyin": "dǐng",
-              "meaning": "鼎",
+              "meaning": "九鼎，象征国家政权的宝器",
               "type": "实词"
             },
             {
               "word": "迁",
               "pinyin": "qiān",
-              "meaning": "迁移",
+              "meaning": "迁移，此处指鼎的转移，象征政权更迭",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，表示动作的方向，相当于'到'，引出地点'商'",
               "type": "虚词"
             },
             {
               "word": "商",
-              "pinyin": "Shāng",
-              "meaning": "商朝",
+              "pinyin": "shāng",
+              "meaning": "朝代名，商朝（约前1600-前1046年），此处指商朝政权",
               "type": "地名"
             },
             {
               "word": "载祀",
               "pinyin": "zǎi sì",
-              "meaning": "年代",
+              "meaning": "此处'载'读 zǎi，义为年；'祀'读 sì，也指年，合用表示年代、年岁，此处指商朝享国的时间",
               "type": "实词"
             },
             {
               "word": "六百",
               "pinyin": "liù bǎi",
-              "meaning": "六百年",
+              "meaning": "数词，六百年，指商朝统治的时长",
               "type": "实词"
             }
           ]
         },
         {
           "original": "商纣暴虐，鼎迁于周。",
-          "translation": "商纣王残暴，大鼎迁到周朝。",
+          "translation": "商纣王暴虐，鼎迁到周朝。",
           "words": [
             {
               "word": "商纣",
-              "pinyin": "Shāng Zhòu",
-              "meaning": "商纣王",
+              "pinyin": "shāng zhòu",
+              "meaning": "商朝末代君主帝辛，以暴虐闻名，谥号纣",
               "type": "人名"
             },
             {
               "word": "暴虐",
               "pinyin": "bào nüè",
-              "meaning": "暴虐无道",
+              "meaning": "形容词，残暴酷虐，形容统治残酷",
               "type": "实词"
             },
             {
               "word": "鼎",
               "pinyin": "dǐng",
-              "meaning": "鼎",
+              "meaning": "九鼎，象征国家政权的宝器",
               "type": "实词"
             },
             {
               "word": "迁",
               "pinyin": "qiān",
-              "meaning": "迁移",
+              "meaning": "迁移，此处指鼎的转移，象征政权更迭",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，表示动作的方向，相当于'到'，引出地点'周'",
               "type": "虚词"
             },
             {
               "word": "周",
-              "pinyin": "Zhōu",
-              "meaning": "周朝",
+              "pinyin": "zhōu",
+              "meaning": "朝代名，周朝（约前1046-前256年），此处指周朝政权",
               "type": "地名"
             }
           ]
         },
         {
           "original": "德之休明，虽小，重也；其奸回昏乱，虽大，轻也。",
-          "translation": "德行如果美好光明，鼎即使小，也显得重；如果奸邪昏乱，鼎即使大，也显得轻。",
+          "translation": "德行美好光明，鼎虽然小，但很重；如果奸邪昏乱，鼎虽然大，但很轻。",
           "words": [
             {
               "word": "德",
               "pinyin": "dé",
-              "meaning": "道德",
+              "meaning": "道德，指君主的品德",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间，取消句子独立性，使'德休明'成为主谓短语",
               "type": "虚词"
             },
             {
               "word": "休明",
               "pinyin": "xiū míng",
-              "meaning": "美好清明",
+              "meaning": "美好清明，形容德行高尚",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，表示让步关系，相当于'即使'",
               "type": "虚词"
             },
             {
               "word": "小",
               "pinyin": "xiǎo",
-              "meaning": "小",
+              "meaning": "小，指国家虽小",
               "type": "实词"
             },
             {
               "word": "重",
               "pinyin": "zhòng",
-              "meaning": "重",
+              "meaning": "此处读 zhòng，义为重量大，象征稳固",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，用于句末表判断与肯定",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的",
+              "meaning": "代词，指代前文的'德'或君主",
               "type": "虚词"
             },
             {
               "word": "奸回",
               "pinyin": "jiān huí",
-              "meaning": "奸邪",
+              "meaning": "奸邪，指品德败坏",
               "type": "实词"
             },
             {
               "word": "昏乱",
               "pinyin": "hūn luàn",
-              "meaning": "昏庸混乱",
+              "meaning": "昏庸混乱，形容政治腐败",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，表示让步关系，相当于'即使'",
               "type": "虚词"
             },
             {
               "word": "大",
               "pinyin": "dà",
-              "meaning": "大",
+              "meaning": "大，指国家虽大",
               "type": "实词"
             },
             {
               "word": "轻",
               "pinyin": "qīng",
-              "meaning": "轻",
+              "meaning": "轻，指鼎轻，象征不稳固",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，用于句末表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "天祚明德，有所底止。",
-          "translation": "上天保佑有明德的人，是有终止的时候。",
+          "translation": "上天赐福给明德的人，有终止的期限。",
           "words": [
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "天",
+              "meaning": "上天，指天命",
               "type": "实词"
             },
             {
               "word": "祚",
               "pinyin": "zuò",
-              "meaning": "赐福",
+              "meaning": "赐福，保佑",
               "type": "实词"
             },
             {
               "word": "明德",
               "pinyin": "míng dé",
-              "meaning": "光明之德",
+              "meaning": "光明的德行，指美德",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "有，存在",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "助词",
+              "meaning": "助词，与'有'结合，'有所'表示有...的（东西或限度）",
               "type": "虚词"
             },
             {
               "word": "底止",
               "pinyin": "dǐ zhǐ",
-              "meaning": "终止",
+              "meaning": "终止，止境",
               "type": "实词"
             }
           ]
         },
         {
           "original": "成王定鼎于郏鄏，卜世三十，卜年七百，天所命也。",
-          "translation": "周成王在郏鄏定鼎，占卜得知传世三十代，享国七百年，这是上天的旨意。",
+          "translation": "周成王在郏鄏（今河南洛阳）定鼎，占卜传世三十代，占卜享年七百年，这是上天的命令。",
           "words": [
             {
               "word": "成王",
               "pinyin": "chéng wáng",
-              "meaning": "周成王",
+              "meaning": "西周第二代君主，周武王之子，名诵。在位期间平定三监之乱，营建洛邑，巩固了周朝统治。",
               "type": "人名"
             },
             {
               "word": "定鼎",
               "pinyin": "dìng dǐng",
-              "meaning": "定都",
+              "meaning": "安置九鼎。相传禹铸九鼎象征天下，后以定鼎指定都或建立王朝。此处指周成王在郏鄏定都。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，表示动作的地点，相当于“在”。",
               "type": "虚词"
             },
             {
               "word": "郏鄏",
               "pinyin": "jiá rǔ",
-              "meaning": "周都城",
+              "meaning": "地名，周朝的王都，即洛邑，在今河南洛阳。周武王迁九鼎于此，成王派召公、周公营建，以为东都。",
               "type": "地名"
             },
             {
-              "word": "卜",
-              "pinyin": "bǔ",
-              "meaning": "占卜",
-              "type": "实词"
-            },
-            {
-              "word": "世",
-              "pinyin": "shì",
-              "meaning": "世数",
+              "word": "卜世",
+              "pinyin": "bǔ shì",
+              "meaning": "占卜国家将传位多少代。世，指世代、朝代。",
               "type": "实词"
             },
             {
               "word": "三十",
               "pinyin": "sān shí",
-              "meaning": "三十",
+              "meaning": "数词，三十。",
               "type": "实词"
             },
             {
-              "word": "卜",
-              "pinyin": "bǔ",
-              "meaning": "占卜",
-              "type": "实词"
-            },
-            {
-              "word": "年",
-              "pinyin": "nián",
-              "meaning": "年数",
+              "word": "卜年",
+              "pinyin": "bǔ nián",
+              "meaning": "占卜国家将享国多少年。年，指年岁、国祚。",
               "type": "实词"
             },
             {
               "word": "七百",
               "pinyin": "qī bǎi",
-              "meaning": "七百",
+              "meaning": "数词，七百。",
               "type": "实词"
             },
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "天",
+              "meaning": "上天，主宰命运的最高神祇。",
               "type": "实词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词",
+              "word": "所命",
+              "pinyin": "suǒ mìng",
+              "meaning": "“所”字结构，指“所命令（规定）的事情”。此处指占卜所得的三十代、七百年是上天的旨意。",
               "type": "虚词"
-            },
-            {
-              "word": "命",
-              "pinyin": "mìng",
-              "meaning": "命令",
-              "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "周德虽衰，天命未改。",
-          "translation": "周朝的德行虽然衰落，但上天的命令没有改变。",
+          "translation": "周朝的德行虽然衰落，但天命没有改变。",
           "words": [
             {
               "word": "周德",
               "pinyin": "zhōu dé",
-              "meaning": "周朝的德行",
+              "meaning": "周朝的德行、德运。此处指周朝统治的合法性根基。",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步，相当于“虽然”。",
               "type": "虚词"
             },
             {
               "word": "衰",
               "pinyin": "shuāi",
-              "meaning": "衰落",
+              "meaning": "衰落，衰微。",
               "type": "实词"
             },
             {
               "word": "天命",
               "pinyin": "tiān mìng",
-              "meaning": "天命",
+              "meaning": "上天的命令和安排，指周朝受命于天的统治权。",
               "type": "实词"
             },
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
-              "type": "虚词"
+              "meaning": "否定副词，没有。",
+              "type": "实词"
             },
             {
               "word": "改",
               "pinyin": "gǎi",
-              "meaning": "改变",
+              "meaning": "改变，更改。",
               "type": "实词"
             }
           ]
@@ -1458,43 +883,43 @@
             {
               "word": "鼎",
               "pinyin": "dǐng",
-              "meaning": "鼎",
+              "meaning": "名词，指九鼎，古代象征王权的传国宝器，在句中作为主语。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示领属关系，相当于'的'，连接'鼎'和'轻重'。",
               "type": "虚词"
             },
             {
               "word": "轻重",
               "pinyin": "qīng zhòng",
-              "meaning": "重量",
+              "meaning": "名词性短语，此处'重'读 zhòng，义为重量；'轻重'指鼎的重量大小。",
               "type": "实词"
             },
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "不",
+              "meaning": "副词，表示否定，相当于'不'，在句中修饰'可'。",
               "type": "虚词"
             },
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "可以",
-              "type": "虚词"
+              "meaning": "动词，表示可以、能够。",
+              "type": "实词"
             },
             {
               "word": "问",
               "pinyin": "wèn",
-              "meaning": "询问",
+              "meaning": "动词，询问、打听，特指询问鼎的轻重。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示判断或肯定，加强语气。",
               "type": "虚词"
             }
           ]

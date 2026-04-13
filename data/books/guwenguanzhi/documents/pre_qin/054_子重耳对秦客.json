@@ -1,509 +1,498 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "054_子重耳对秦客",
   "title": "子重耳对秦客",
   "author": {
     "id": "pre_qin_戴圣",
     "name": "戴圣",
     "dynasty": "pre_qin",
-    "bio": "戴圣，字次君，西汉经学家，生卒年不详，约活跃于公元前1世纪汉宣帝时期。他是《礼记》的主要编纂者之一，与叔父戴德并称“大小戴”，共同整理先秦儒家礼学文献。戴圣将散乱的礼学资料系统化，编成《礼记》四十九篇，成为儒家经典之一，对后世儒学、礼仪制度及文化教育产生深远影响。其生平事迹较少记载，但通过《礼记》的传承，彰显了他在经学史上的重要地位。"
+    "bio": "戴圣，字次君，西汉梁郡（今河南商丘）人，生卒年不详，约活跃于元帝时期（公元前1世纪）。曾任九江太守，师从后苍研习礼学，与叔父戴德并称“大小戴”。主要贡献是编订《礼记》（又称《小戴礼记》），辑录先秦至汉初儒家礼论及史事，共四十九篇，成为儒家经典“三礼”之一，对后世礼制、思想及文学影响深远。"
   },
   "source": "礼记檀弓",
   "dynasty": "pre_qin",
   "volume": 3,
-  "background": "本文出自《礼记·檀弓》，记载了春秋时期晋国公子重耳在流亡期间的故事。晋献公去世后，秦国君主秦穆公派人吊唁重耳，并引用古语暗示他可趁机回国夺取君位，以图政治利益。重耳在谋士舅犯的建议下，以仁孝为本，拒绝了这一提议，强调丧人应以仁亲为宝，而非借丧事谋利。这一事件反映了先秦时期的礼仪文化和道德观念，《礼记》作为儒家经典，旨在通过此类故事宣扬礼义仁孝，教化后人。文章的写作背景与《礼记》的编纂目的密切相关，即记录古代礼仪制度，传承儒家思想，以应对当时社会礼崩乐坏的局面，为后世提供道德典范。",
-  "appreciation": "本文以精炼的对话和细腻的动作描写，生动刻画了公子重耳的仁孝形象与智慧抉择。文章结构紧凑，通过秦穆公的吊唁、舅犯的谏言和重耳的回应，层层推进，展现了人物性格与道德冲突。语言古朴典雅，符合《礼记》的文体特点，如“稽颡而不拜”“哭而起”等细节，既体现了礼仪规范，又传达了情感深度。主题上，文章强调“仁亲以为宝”和“远利”的儒家思想，通过重耳拒绝趁丧得利的行为，弘扬了孝道与义利之辨。叙事中寓教于事，以小见大，使读者在故事中领悟礼义精神。整体上，文章兼具文学性与思想性，是古代散文的典范，对后世文学与道德教育影响深远。",
+  "background": "《子重耳对秦客》出自《礼记·檀弓》，记载春秋时期晋国史事。晋献公去世后，其子重耳因骊姬之乱流亡在外，时值丧期，秦穆公派人吊唁并试探重耳是否愿借机回国继位，以谋取政治利益。故事发生在诸侯争霸、礼制渐衰的背景下，反映了当时政治博弈与伦理冲突。作者戴圣为西汉学者，约活动于元帝时期，他在整理和编订古代礼制文献时，将这一先秦故事收录于《礼记》，旨在通过具体事例阐释丧礼中的道德规范与行为准则，以保存和弘扬儒家礼义思想。",
+  "appreciation": "本文为叙事散文，以简洁的对话和行动构建篇章。结构上，先交代背景，再通过秦客劝诱、舅犯建议、重耳应对、秦穆公评价四个环节推进，首尾呼应，逻辑清晰。艺术特色体现在语言精炼，人物刻画生动：如“稽颡而不拜”以动作细节表现重耳未以继承人自居的谦卑，“哭而起”则显其哀父之诚，对比秦客的功利劝说，凸显道德选择。修辞上，运用反问（“天下其孰能说之”）强化立场，节奏张弛有度。思想内涵聚焦儒家伦理，强调“仁亲以为宝”，反对乘丧谋利，体现了礼制下的义利之辨。作为《礼记》名篇，其叙事手法与道德主题对后世史传文学如《左传》《史记》的人物描写有所启示，但文学史地位更侧重于礼学教化而非纯文学创新。",
   "tags": [
-    "仁孝",
-    "礼记",
-    "历史叙事"
+    "叙事",
+    "政治",
+    "人物"
   ],
   "paragraphs": [
     {
       "original": "晋献公之丧，秦穆公使人吊公子重耳，且曰：“寡人闻之：‘亡国恒于斯，得国恒于斯。’虽吾子俨然在忧服之中，丧亦不可久也，时亦不可失也，孺子其图之！”以告舅犯。舅犯曰：“孺子其辞焉！丧人无宝，仁亲以为宝。父死之谓何？又因以为利，而天下其孰能说之？孺子其辞焉！”",
-      "translation": "晋献公去世时，秦穆公派人慰问公子重耳，并且说：“我听说：‘失去国家常常在这个时候，得到国家也常常在这个时候。’虽然您庄重地处于忧伤的服丧期间，但丧期也不可太久，时机也不可错过，年轻人请考虑一下吧！”公子重耳把这件事告诉了舅犯。舅犯说：“年轻人还是推辞吧！流亡的人没有宝物，以仁爱和亲情为宝。父亲去世意味着什么？怎么能借此谋利，天下人谁能为此辩护？年轻人还是推辞吧！”",
+      "translation": "晋献公去世时，秦穆公派人吊唁公子重耳，并且说：“我听说：‘失去国家常常在这个时候，得到国家常常在这个时候。’虽然您庄重地处在忧伤的丧服之中，但丧期也不可以太久，时机也不可以错过，年轻人，您考虑一下吧！”重耳把这话告诉舅犯。舅犯说：“年轻人，您推辞掉吧！流亡的人没有珍宝，把仁爱和亲人当作珍宝。父亲去世是何等事？又借此来谋取利益，那么天下人谁能为您辩解？年轻人，您推辞掉吧！”",
       "sentences": [
         {
-          "original": "晋献公之丧，秦穆公使人吊公子重耳，且曰：",
-          "translation": "晋献公去世时，秦穆公派人慰问公子重耳，并且说：",
+          "original": "晋献公之丧，秦穆公使人吊公子重耳，且曰：“寡人闻之：‘亡国恒于斯，得国恒于斯。’虽吾子俨然在忧服之中，丧亦不可久也，时亦不可失也，孺子其图之！”",
+          "translation": "晋献公去世，秦穆公派人吊唁公子重耳，并且说：“我听说：‘失去国家常常在这个时候，得到国家常常在这个时候。’虽然您庄重地处在忧伤的丧服之中，但丧期也不可以太久，时机也不可以错过，年轻人，您考虑一下吧！”",
           "words": [
             {
               "word": "晋献公",
-              "pinyin": "Jìn Xiàn Gōng",
-              "meaning": "晋国君主",
+              "pinyin": "jìn xiàn gōng",
+              "meaning": "春秋时期晋国国君（前676-前651在位），名诡诸，重耳之父。",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”，连接定语“晋献公”和中心语“丧”。",
               "type": "虚词"
             },
             {
               "word": "丧",
-              "pinyin": "sàng",
-              "meaning": "丧事",
+              "pinyin": "sāng",
+              "meaning": "此处读sāng，名词，指丧事、丧期。",
               "type": "实词"
             },
             {
               "word": "秦穆公",
-              "pinyin": "Qín Mù Gōng",
-              "meaning": "秦国君主",
+              "pinyin": "qín mù gōng",
+              "meaning": "春秋时期秦国国君（前659-前621在位），名任好，春秋五霸之一。",
               "type": "人名"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "派遣",
+              "meaning": "动词，派遣。",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，使者。",
               "type": "实词"
             },
             {
               "word": "吊",
               "pinyin": "diào",
-              "meaning": "吊唁",
+              "meaning": "古义：慰问遭遇丧事的人（非今义“悬挂”）。",
               "type": "实词"
             },
             {
               "word": "公子重耳",
-              "pinyin": "Gōng Zǐ Chóng ěr",
-              "meaning": "晋国公子",
+              "pinyin": "gōng zǐ chóng ěr",
+              "meaning": "即后来的晋文公，晋献公之子，因骊姬之乱流亡在外十九年。",
               "type": "人名"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "并且",
+              "meaning": "连词，并且，表示递进关系。",
               "type": "虚词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说。",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "寡人闻之：‘亡国恒于斯，得国恒于斯。’",
-          "translation": "我听说：‘失去国家常常在这个时候，得到国家也常常在这个时候。’",
-          "words": [
+            },
             {
               "word": "寡人",
               "pinyin": "guǎ rén",
-              "meaning": "我",
-              "type": "代词"
+              "meaning": "古代君主或诸侯的自称，意为“寡德之人”。",
+              "type": "实词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听说",
+              "meaning": "动词，听说。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代下文“亡国恒于斯，得国恒于斯”这句话的内容。",
               "type": "虚词"
             },
             {
               "word": "亡国",
               "pinyin": "wáng guó",
-              "meaning": "失去国家",
+              "meaning": "动宾短语，失去国家。",
               "type": "实词"
             },
             {
               "word": "恒",
               "pinyin": "héng",
-              "meaning": "常常",
+              "meaning": "副词，经常、常常。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，在。",
               "type": "虚词"
             },
             {
               "word": "斯",
               "pinyin": "sī",
-              "meaning": "这时",
-              "type": "代词"
+              "meaning": "指示代词，这个时候，指丧期或权力交接之际。",
+              "type": "虚词"
             },
             {
               "word": "得国",
               "pinyin": "dé guó",
-              "meaning": "得到国家",
+              "meaning": "动宾短语，得到国家，获得君位。",
               "type": "实词"
             },
             {
               "word": "恒",
               "pinyin": "héng",
-              "meaning": "常常",
+              "meaning": "副词，经常、常常。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，在。",
               "type": "虚词"
             },
             {
               "word": "斯",
               "pinyin": "sī",
-              "meaning": "这时",
-              "type": "代词"
-            }
-          ]
-        },
-        {
-          "original": "虽吾子俨然在忧服之中，丧亦不可久也，时亦不可失也，孺子其图之！",
-          "translation": "虽然您庄重地处于忧伤的服丧期间，但丧期也不可太久，时机也不可错过，年轻人请考虑一下吧！",
-          "words": [
+              "meaning": "指示代词，这个时候，指丧期或权力交接之际。",
+              "type": "虚词"
+            },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，虽然，表示让步。",
               "type": "虚词"
             },
             {
               "word": "吾子",
               "pinyin": "wú zǐ",
-              "meaning": "您",
-              "type": "代词"
+              "meaning": "对对方的尊称，相当于“您”。",
+              "type": "实词"
             },
             {
               "word": "俨然",
               "pinyin": "yǎn rán",
-              "meaning": "庄重地",
-              "type": "形容词"
+              "meaning": "形容词，庄重、严肃的样子。",
+              "type": "实词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "处于",
-              "type": "介词"
+              "meaning": "动词，处于。",
+              "type": "实词"
             },
             {
               "word": "忧服",
               "pinyin": "yōu fú",
-              "meaning": "忧伤丧服",
-              "type": "实词"
-            },
-            {
-              "word": "之中",
-              "pinyin": "zhī zhōng",
-              "meaning": "里面",
-              "type": "方位词"
-            },
-            {
-              "word": "丧",
-              "pinyin": "sàng",
-              "meaning": "丧事",
-              "type": "实词"
-            },
-            {
-              "word": "亦",
-              "pinyin": "yì",
-              "meaning": "也",
-              "type": "虚词"
-            },
-            {
-              "word": "不可",
-              "pinyin": "bù kě",
-              "meaning": "不能",
-              "type": "短语"
-            },
-            {
-              "word": "久",
-              "pinyin": "jiǔ",
-              "meaning": "长久",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "啊",
-              "type": "语气词"
-            },
-            {
-              "word": "时",
-              "pinyin": "shí",
-              "meaning": "时机",
-              "type": "实词"
-            },
-            {
-              "word": "亦",
-              "pinyin": "yì",
-              "meaning": "也",
-              "type": "虚词"
-            },
-            {
-              "word": "不可",
-              "pinyin": "bù kě",
-              "meaning": "不能",
-              "type": "短语"
-            },
-            {
-              "word": "失",
-              "pinyin": "shī",
-              "meaning": "失去",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "啊",
-              "type": "语气词"
-            },
-            {
-              "word": "孺子",
-              "pinyin": "rú zǐ",
-              "meaning": "年轻人",
-              "type": "实词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "请",
-              "type": "虚词"
-            },
-            {
-              "word": "图",
-              "pinyin": "tú",
-              "meaning": "考虑",
+              "meaning": "指居丧时的哀伤状态和服饰。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "结构助词，相当于“的”。",
+              "type": "虚词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "方位名词，之中、里面。",
+              "type": "实词"
+            },
+            {
+              "word": "丧",
+              "pinyin": "sàng",
+              "meaning": "此处读sàng，动词，指流亡在外，失去地位。",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "副词，也。",
+              "type": "虚词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "能愿动词短语，不能够。",
+              "type": "实词"
+            },
+            {
+              "word": "久",
+              "pinyin": "jiǔ",
+              "meaning": "形容词，长久。",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表陈述和肯定。",
+              "type": "虚词"
+            },
+            {
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "名词，时机、机会。",
+              "type": "实词"
+            },
+            {
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "副词，也。",
+              "type": "虚词"
+            },
+            {
+              "word": "不可",
+              "pinyin": "bù kě",
+              "meaning": "能愿动词短语，不能够。",
+              "type": "实词"
+            },
+            {
+              "word": "失",
+              "pinyin": "shī",
+              "meaning": "动词，错过。",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表陈述和肯定。",
+              "type": "虚词"
+            },
+            {
+              "word": "孺子",
+              "pinyin": "rú zǐ",
+              "meaning": "名词，年轻人，这里是对公子重耳的称呼，有勉励或轻视之意，视语境而定。",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "语气副词，表祈使、劝勉，相当于“还是”、“可要”。",
+              "type": "虚词"
+            },
+            {
+              "word": "图",
+              "pinyin": "tú",
+              "meaning": "动词，谋划、考虑。",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代秦穆公使者所劝说的“图谋返国”这件事。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "以告舅犯。",
-          "translation": "（公子重耳）把这件事告诉了舅犯。",
+          "translation": "重耳把（秦穆公的话）告诉舅犯。",
           "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，把、将。其宾语（秦客之言）承前省略。",
               "type": "虚词"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告诉",
+              "meaning": "动词，告诉、禀告。",
               "type": "实词"
             },
             {
               "word": "舅犯",
               "pinyin": "jiù fàn",
-              "meaning": "狐偃",
+              "meaning": "即狐偃，字子犯，重耳的舅舅，随重耳流亡的重要谋臣。",
               "type": "人名"
             }
           ]
         },
         {
           "original": "舅犯曰：“孺子其辞焉！丧人无宝，仁亲以为宝。父死之谓何？又因以为利，而天下其孰能说之？孺子其辞焉！”",
-          "translation": "舅犯说：“年轻人还是推辞吧！流亡的人没有宝物，以仁爱和亲情为宝。父亲去世意味着什么？怎么能借此谋利，天下人谁能为此辩护？年轻人还是推辞吧！”",
+          "translation": "舅犯说：“年轻人，您推辞掉吧！流亡的人没有珍宝，把仁爱和亲人当作珍宝。父亲去世是何等事？又借此来谋取利益，那么天下人谁能为您辩解？年轻人，您推辞掉吧！”",
           "words": [
             {
               "word": "舅犯",
               "pinyin": "jiù fàn",
-              "meaning": "狐偃",
+              "meaning": "晋文公重耳的舅舅，名狐偃，字子犯，是重耳流亡与复国的核心谋臣。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说，说道。",
               "type": "实词"
             },
             {
               "word": "孺子",
               "pinyin": "rú zǐ",
-              "meaning": "年轻人",
+              "meaning": "古义：对年轻人的称呼，此处特指公子重耳（非今义‘小孩子’）。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "表示建议",
+              "meaning": "语气副词，表示委婉的祈使或劝告语气，相当于‘还是’。",
               "type": "虚词"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "辞谢",
+              "meaning": "推辞，拒绝。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示肯定或强调。",
               "type": "虚词"
             },
             {
               "word": "丧人",
-              "pinyin": "sāng rén",
-              "meaning": "流亡者",
+              "pinyin": "sàng rén",
+              "meaning": "古义：逃亡、流亡在外的人（‘丧’此处读 sàng，义为逃亡，非今义‘丧失’或‘丧事’）。",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "没有。",
               "type": "实词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "宝物",
+              "meaning": "珍宝，宝贵的东西。",
               "type": "实词"
             },
             {
               "word": "仁亲",
               "pinyin": "rén qīn",
-              "meaning": "仁爱亲情",
+              "meaning": "仁爱和孝敬父母。此处‘亲’特指父母。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，把，将。",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，当作，作为。",
               "type": "实词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "宝物",
+              "meaning": "珍宝，宝贵的东西。",
               "type": "实词"
             },
             {
               "word": "父死",
               "pinyin": "fù sǐ",
-              "meaning": "父亲去世",
+              "meaning": "父亲去世。",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
+              "word": "之谓何",
+              "pinyin": "zhī wèi hé",
+              "meaning": "固定结构，表示‘算是什么呢’或‘意味着什么’，用于引出对某事的定性。",
               "type": "虚词"
-            },
-            {
-              "word": "谓何",
-              "pinyin": "wèi hé",
-              "meaning": "意味着什么",
-              "type": "实词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，再，进而。",
               "type": "虚词"
             },
             {
               "word": "因",
               "pinyin": "yīn",
-              "meaning": "凭借",
-              "type": "实词"
+              "meaning": "介词，凭借，利用。",
+              "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，而，来。",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，谋取。",
               "type": "实词"
             },
             {
               "word": "利",
               "pinyin": "lì",
-              "meaning": "利益",
+              "meaning": "利益，好处。此处特指君位。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，却。",
               "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下人",
+              "meaning": "指天下的人。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "表示反问",
+              "meaning": "语气副词，加强反问语气，相当于‘难道’。",
               "type": "虚词"
             },
             {
               "word": "孰",
               "pinyin": "shú",
-              "meaning": "谁",
-              "type": "实词"
+              "meaning": "疑问代词，谁。",
+              "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "能够。",
               "type": "实词"
             },
             {
               "word": "说",
-              "pinyin": "shuō",
-              "meaning": "解说",
+              "pinyin": "shuì",
+              "meaning": "此处读 shuì，义为解释、辩解、开脱。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词",
+              "meaning": "代词，指代‘因丧为利’这件事。",
               "type": "虚词"
             },
             {
               "word": "孺子",
               "pinyin": "rú zǐ",
-              "meaning": "年轻人",
+              "meaning": "古义：对年轻人的称呼，此处特指公子重耳（非今义‘小孩子’）。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "表示建议",
+              "meaning": "语气副词，表示委婉的祈使或劝告语气，相当于‘还是’。",
               "type": "虚词"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "辞谢",
+              "meaning": "推辞，拒绝。",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示肯定或强调。",
               "type": "虚词"
             }
           ]
@@ -512,292 +501,310 @@
     },
     {
       "original": "公子重耳对客曰：“君惠吊亡臣重耳。身丧父死，不得与于哭泣之哀，以为君忧。父死之谓何？或取有他志以辱君义。”稽颡而不拜，哭而起，起而不私。",
-      "translation": "公子重耳对客人说：“承蒙君王惠顾吊唁我这个逃亡的臣子重耳。我身遭丧父之痛，却不能参与哭泣的哀悼，让您担忧了。父亲去世意味着什么？如果我趁机有别的企图，那会玷辱您的义举。”他叩头而不拜谢，哭泣着站起来，站起来后不私下交谈。",
+      "translation": "公子重耳对客人说：“承蒙您惠临吊唁我这个逃亡的臣子重耳。我自身流亡在外，父亲去世，不能参与哭泣的哀悼，因此让您担忧。父亲死了意味着什么？或许我有别的企图来玷辱您的道义。”说完，他磕头而不拜谢，哭着站起来，站起来后不私下交谈。",
       "sentences": [
         {
           "original": "公子重耳对客曰：“君惠吊亡臣重耳。”",
-          "translation": "公子重耳对客人说：“承蒙君王惠顾吊唁我这个逃亡的臣子重耳。”",
+          "translation": "公子重耳对客人说：“承蒙您惠临吊唁我这个逃亡的臣子重耳。”",
           "words": [
             {
               "word": "公子重耳",
-              "pinyin": "Gōngzǐ Chóng'ěr",
-              "meaning": "晋公子重耳",
+              "pinyin": "gōng zǐ chóng ěr",
+              "meaning": "春秋时期晋国公子，名重耳，后为晋文公，本文中为被吊唁的流亡公子。",
               "type": "人名"
             },
             {
               "word": "对",
               "pinyin": "duì",
-              "meaning": "回答",
+              "meaning": "回答、回应。",
               "type": "实词"
             },
             {
               "word": "客",
               "pinyin": "kè",
-              "meaning": "客人",
+              "meaning": "客人，指秦国的使者。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "君王",
-              "type": "实词"
+              "meaning": "代词，尊称对方，指秦客或秦国国君。",
+              "type": "虚词"
             },
             {
               "word": "惠",
               "pinyin": "huì",
-              "meaning": "恩惠",
+              "meaning": "施加恩惠，惠赐。",
               "type": "实词"
             },
             {
               "word": "吊",
               "pinyin": "diào",
-              "meaning": "吊唁",
+              "meaning": "吊唁、慰问。",
               "type": "实词"
             },
             {
               "word": "亡臣",
               "pinyin": "wáng chén",
-              "meaning": "逃亡之臣",
+              "meaning": "逃亡的臣子，重耳自称。",
               "type": "实词"
             },
             {
               "word": "重耳",
-              "pinyin": "Chóng'ěr",
-              "meaning": "重耳",
+              "pinyin": "chóng ěr",
+              "meaning": "此处'重'读 chóng，义为重耳，晋国公子名。",
               "type": "人名"
             }
           ]
         },
         {
           "original": "“身丧父死，不得与于哭泣之哀，以为君忧。”",
-          "translation": "“我身遭丧父之痛，却不能参与哭泣的哀悼，让您担忧了。”",
+          "translation": "“我自身流亡在外，父亲去世，不能参与哭泣的哀悼，因此让您担忧。”",
           "words": [
             {
               "word": "身",
               "pinyin": "shēn",
-              "meaning": "自身",
+              "meaning": "自身、自己。",
               "type": "实词"
             },
             {
               "word": "丧",
               "pinyin": "sàng",
-              "meaning": "逃亡",
+              "meaning": "此处读 sàng，义为逃亡、流亡。",
               "type": "实词"
             },
             {
               "word": "父",
               "pinyin": "fù",
-              "meaning": "父亲",
+              "meaning": "父亲。",
               "type": "实词"
             },
             {
               "word": "死",
               "pinyin": "sǐ",
-              "meaning": "死亡",
+              "meaning": "死亡。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "能够",
+              "meaning": "能够。",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yù",
-              "meaning": "参与",
+              "meaning": "此处读 yù，义为参与、参加。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作的对象，相当于'在...方面'。",
               "type": "虚词"
             },
             {
               "word": "哭泣",
               "pinyin": "kū qì",
-              "meaning": "哭泣",
+              "meaning": "哭泣的行为，指哀悼仪式。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，相当于'的'，连接定语和中心语。",
               "type": "虚词"
             },
             {
               "word": "哀",
               "pinyin": "āi",
-              "meaning": "哀伤",
+              "meaning": "哀伤、悲痛。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因此",
+              "meaning": "介词，表示原因，相当于'因为'。",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "成为",
+              "meaning": "动词，作为、成为。",
               "type": "实词"
             },
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "君王",
-              "type": "实词"
+              "meaning": "代词，尊称对方，指秦客或秦国国君。",
+              "type": "虚词"
             },
             {
               "word": "忧",
               "pinyin": "yōu",
-              "meaning": "忧虑",
+              "meaning": "忧虑、担忧。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "“父死之谓何？或取有他志以辱君义。”",
-          "translation": "“父亲去世意味着什么？如果我趁机有别的企图，那会玷辱您的义举。”",
+          "translation": "“父亲死了意味着什么？或许我有别的企图来玷辱您的道义。”",
           "words": [
             {
               "word": "父",
               "pinyin": "fù",
-              "meaning": "父亲",
+              "meaning": "父亲，指重耳的父亲晋献公",
               "type": "实词"
             },
             {
               "word": "死",
               "pinyin": "sǐ",
-              "meaning": "死亡",
+              "meaning": "死亡，指晋献公去世",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间取消句子独立性，使'父死'成为主语部分",
               "type": "虚词"
             },
             {
               "word": "谓",
               "pinyin": "wèi",
-              "meaning": "说",
+              "meaning": "动词，叫做、称为",
               "type": "实词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "什么",
-              "type": "实词"
+              "meaning": "疑问代词，什么，用于询问'父死'的意义",
+              "type": "虚词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有人",
+              "meaning": "古义：无定代词，有人（非今义'或者'），指可能有人",
               "type": "虚词"
             },
             {
               "word": "取",
               "pinyin": "qǔ",
-              "meaning": "取得",
+              "meaning": "动词，采取、抱有",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，具有、怀有",
               "type": "实词"
             },
             {
               "word": "他志",
               "pinyin": "tā zhì",
-              "meaning": "其他志向",
+              "meaning": "名词短语，别的意图，指有其他的政治企图",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，以便、来",
               "type": "虚词"
             },
             {
               "word": "辱",
               "pinyin": "rǔ",
-              "meaning": "侮辱",
+              "meaning": "动词，辱没、玷污",
               "type": "实词"
             },
             {
               "word": "君义",
               "pinyin": "jūn yì",
-              "meaning": "君王的道义",
+              "meaning": "名词短语，君主的道义，这里指秦君的恩义",
               "type": "实词"
             }
           ]
         },
         {
           "original": "稽颡而不拜，哭而起，起而不私。",
-          "translation": "他叩头而不拜谢，哭泣着站起来，站起来后不私下交谈。",
+          "translation": "（重耳）磕头而不拜谢，哭着站起来，站起来后不私下交谈。",
           "words": [
             {
               "word": "稽颡",
               "pinyin": "jī sǎng",
-              "meaning": "叩头",
+              "meaning": "叩头，以额触地，古代丧礼中的跪拜动作",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "表转折",
+              "meaning": "连词，表示顺承，然后",
               "type": "虚词"
             },
             {
-              "word": "不拜",
-              "pinyin": "bù bài",
-              "meaning": "不拜谢",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示对动作的否定",
+              "type": "虚词"
+            },
+            {
+              "word": "拜",
+              "pinyin": "bài",
+              "meaning": "动词，跪拜，接受吊唁的礼节",
               "type": "实词"
             },
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣",
+              "meaning": "动词，哭泣，表示哀悼",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "表连接",
+              "meaning": "连词，表示顺承，然后",
               "type": "虚词"
             },
             {
               "word": "起",
               "pinyin": "qǐ",
-              "meaning": "起身",
+              "meaning": "动词，站起来",
+              "type": "实词"
+            },
+            {
+              "word": "起",
+              "pinyin": "qǐ",
+              "meaning": "动词，站起来，指哭后起身",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "表转折",
+              "meaning": "连词，表示转折，却",
               "type": "虚词"
             },
             {
-              "word": "不私",
-              "pinyin": "bù sī",
-              "meaning": "不私下交谈",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示对动作的否定",
+              "type": "虚词"
+            },
+            {
+              "word": "私",
+              "pinyin": "sī",
+              "meaning": "动词，私下交谈，指不与秦客私下说话",
               "type": "实词"
             }
           ]
@@ -806,172 +813,172 @@
     },
     {
       "original": "子显以致使于穆公。穆公曰：“仁夫！公子重耳。夫稽颡而不拜，则未为后也，故不成拜。哭而起，则爱父也；起而不私，则远利也。”",
-      "translation": "子显将情况报告给穆公。穆公说：“仁德啊！公子重耳。他稽颡而不拜，是因为还没有成为继承人，所以不成拜。哭着站起来，是爱父亲的表现；站起来后不私下交谈，是远离利益的表现。”",
+      "translation": "子显将情况回报给穆公。穆公说：“真是仁德啊！公子重耳。他稽颡而不拜，是因为没有成为继承人，所以不成拜礼。哭着站起来，是爱父亲的表现；站起来后不私下交谈，是远离私利的表现。”",
       "sentences": [
         {
           "original": "子显以致使于穆公。",
-          "translation": "子显将（重耳的回应）报告给穆公。",
+          "translation": "子显将情况回报给穆公。",
           "words": [
             {
               "word": "子显",
-              "pinyin": "Zǐ Xiǎn",
-              "meaning": "秦使名",
+              "pinyin": "zǐ xiǎn",
+              "meaning": "春秋时期秦国大夫，受秦穆公派遣吊唁晋公子重耳",
               "type": "人名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "介词，表示动作的凭借，相当于'用'或'把'",
               "type": "虚词"
             },
             {
               "word": "致",
               "pinyin": "zhì",
-              "meaning": "传达",
+              "meaning": "传达、致送",
+              "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "使命、命令",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "向",
+              "meaning": "介词，表示动作的对象，指向穆公",
               "type": "虚词"
             },
             {
               "word": "穆公",
-              "pinyin": "Mù Gōng",
-              "meaning": "秦穆公",
+              "pinyin": "mù gōng",
+              "meaning": "春秋时期秦国国君，名任好，春秋五霸之一",
               "type": "人名"
             }
           ]
         },
         {
-          "original": "穆公曰：“仁夫！公子重耳。”",
-          "translation": "穆公说：“仁德啊！公子重耳。”",
+          "original": "穆公曰：“仁夫！公子重耳。",
+          "translation": "穆公说：“真是仁德啊！公子重耳。",
           "words": [
             {
               "word": "穆公",
-              "pinyin": "Mù Gōng",
-              "meaning": "秦穆公",
+              "pinyin": "mù gōng",
+              "meaning": "春秋时期秦国国君，名任好，春秋五霸之一",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说、说道",
               "type": "实词"
             },
             {
               "word": "仁",
               "pinyin": "rén",
-              "meaning": "仁德",
+              "meaning": "仁爱、仁慈",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示感叹",
               "type": "虚词"
             },
             {
-              "word": "公子",
-              "pinyin": "gōng zǐ",
-              "meaning": "诸侯之子",
-              "type": "实词"
-            },
-            {
-              "word": "重耳",
-              "pinyin": "Chóng ěr",
-              "meaning": "晋文公名",
+              "word": "公子重耳",
+              "pinyin": "gōng zǐ chóng ěr",
+              "meaning": "春秋时期晋国公子，名重耳，后为晋文公，春秋五霸之一",
               "type": "人名"
             }
           ]
         },
         {
           "original": "夫稽颡而不拜，则未为后也，故不成拜。",
-          "translation": "他稽颡而不拜，是因为还没有成为继承人，所以不成拜。",
+          "translation": "他稽颡而不拜，是因为没有成为继承人，所以不成拜礼。",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首语气词，读fú，义为发语词，引出议论",
               "type": "虚词"
             },
             {
               "word": "稽颡",
               "pinyin": "jī sǎng",
-              "meaning": "叩头",
+              "meaning": "古代丧礼中叩头至地的礼仪，以额触地",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表示转折，相当于'却'",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "拜",
               "pinyin": "bài",
-              "meaning": "拜谢",
+              "meaning": "动词，行拜礼，一种表示敬意的礼仪",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示承接，相当于'就'",
               "type": "虚词"
             },
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
+              "meaning": "否定副词，没有",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "成为",
+              "meaning": "动词，读wéi，义为成为",
               "type": "实词"
             },
             {
               "word": "后",
               "pinyin": "hòu",
-              "meaning": "继承人",
+              "meaning": "名词，继承人",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，所以",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "成",
               "pinyin": "chéng",
-              "meaning": "完成",
+              "meaning": "动词，完成",
               "type": "实词"
             },
             {
               "word": "拜",
               "pinyin": "bài",
-              "meaning": "拜谢",
+              "meaning": "动词，行拜礼，一种表示敬意的礼仪",
               "type": "实词"
             }
           ]
@@ -983,100 +990,51 @@
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣",
+              "meaning": "动词，哭泣",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示顺承，然后",
               "type": "虚词"
             },
             {
               "word": "起",
               "pinyin": "qǐ",
-              "meaning": "起身",
+              "meaning": "动词，起身",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示承接，就",
               "type": "虚词"
             },
             {
               "word": "爱",
               "pinyin": "ài",
-              "meaning": "热爱",
+              "meaning": "动词，敬爱",
               "type": "实词"
             },
             {
               "word": "父",
               "pinyin": "fù",
-              "meaning": "父亲",
+              "meaning": "名词，父亲",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表判断",
+              "meaning": "句末语气词，表判断",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "起而不私，则远利也。",
-          "translation": "站起来后不私下交谈，是远离利益的表现。",
-          "words": [
-            {
-              "word": "起",
-              "pinyin": "qǐ",
-              "meaning": "起身",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "但是",
-              "type": "虚词"
-            },
-            {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "私",
-              "pinyin": "sī",
-              "meaning": "谋求私利",
-              "type": "实词"
-            },
-            {
-              "word": "则",
-              "pinyin": "zé",
-              "meaning": "就",
-              "type": "虚词"
-            },
-            {
-              "word": "远",
-              "pinyin": "yuǎn",
-              "meaning": "远离",
-              "type": "实词"
-            },
-            {
-              "word": "利",
-              "pinyin": "lì",
-              "meaning": "利益",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "表判断",
-              "type": "虚词"
-            }
-          ]
+          "original": "起而不私，则远利也。”",
+          "translation": "站起来后不私下交谈，是远离私利的表现。”",
+          "words": []
         }
       ]
     }

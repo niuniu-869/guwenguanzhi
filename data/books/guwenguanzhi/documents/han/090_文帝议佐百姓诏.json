@@ -1,167 +1,174 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "090_文帝议佐百姓诏",
   "title": "文帝议佐百姓诏",
   "author": {
     "id": "han_汉文帝",
     "name": "汉文帝",
     "dynasty": "han",
-    "bio": "汉文帝刘恒（公元前203年—前157年），汉高祖刘邦第四子，西汉第五位皇帝，谥号孝文皇帝，史称汉文帝。在位期间（公元前180年—前157年），他推行黄老之术，主张无为而治，减轻赋税和徭役，废除严刑峻法，注重农业生产，使社会经济得到恢复和发展，开创了“文景之治”的盛世局面。汉文帝以节俭、宽厚著称，生活简朴，在位时宫室苑囿无所增益，是中国历史上著名的仁君之一，其治国理念对后世影响深远。"
+    "bio": "汉文帝刘恒（公元前203年-公元前157年），西汉开国皇帝刘邦之子，籍贯沛县（今江苏沛县）。公元前180年即位，在位期间推行休养生息政策，减轻赋税，开创“文景之治”。其诏书文风朴实，内容关切民生，代表作有《文帝议佐百姓诏》等。在文学史上，汉文帝的诏令体现了汉初散文的质朴风格，对后世帝王文书有示范作用。"
   },
   "source": "",
   "dynasty": "han",
   "volume": 6,
-  "background": "本文是汉文帝刘恒所写的一篇诏书，写作背景为西汉初期，国家经历秦末战乱和楚汉之争后，社会经济尚在恢复之中。汉文帝在位期间（公元前180年—前157年），推行休养生息政策，多次减免田租，提倡节俭治国。然而，据史料记载，文帝时期连年遭遇水旱灾害、疾疫流行，导致农业歉收，粮食短缺，百姓生活困苦。诏书可能写于前元十二年（公元前168年）左右，当时灾情严重，皇帝深感忧虑，下诏自省政事得失，并召集丞相、列侯、吏二千石、博士等官员共同讨论对策，以佐助百姓渡过难关。这反映了汉文帝的仁政思想和对民生问题的高度重视，也体现了西汉初期统治者面对自然灾害时的应对态度。",
-  "appreciation": "本文是一篇诏书，语言质朴无华，情感真挚深沉，展现了汉文帝作为仁君的忧民之心。文章以“间者，数年比不登”开篇，直接点明灾情，引出皇帝的忧虑，结构清晰。接着，通过一系列反问句式，如“意者，朕之政有所失，而行有过与？乃天道有不顺，地利或不得，人事多失和，鬼神废不享与？”层层递进，表达自责和探求原因的急切心情，增强了文章的感染力和逻辑性。修辞上，排比和反问的运用使语言富有节奏感，同时体现了古代汉语的简洁与力度。思想上，诏书融合了儒家的仁政理念和重农思想，强调天道、地利、人事的和谐，反对奢侈浪费，如指出“为酒醪以靡谷者多”等社会问题，显示了对经济民生的深刻洞察。结尾号召官员“率意远思，无有所隐”，展现了皇帝的开明和民主作风，鼓励群臣直言进策。整体而言，文章情感深沉，结构严谨，不仅是古代公文中的典范，也具有较高的文学价值，反映了汉文帝时期的政治风貌和人文关怀。",
+  "background": "西汉文帝时期（公元前180年-公元前157年），政治上奉行黄老之术，推行休养生息政策，社会经济逐步恢复，但自然灾害频发，如水旱疾疫导致农业连年歉收。汉文帝在位时，面对粮食短缺、民生困苦的局面，深感忧虑，下诏自我反省政事失当，并召集丞相、列侯、吏二千石、博士等官员，旨在讨论如何辅助百姓，改善农业生产与粮食供应问题。写作动机直接针对当时百姓食寡乏的现实，寻求具体对策。",
+  "appreciation": "本文为诏书，属议论文体。结构上，先陈述灾情与忧虑，继而以一系列反问句式自我检讨，如“意者，朕之政有所失，而行有过与？”，列举可能原因涉及天道、人事、财政等方面，最后号召群臣集思广益，篇章布局由事及理，层层递进。艺术特色表现为语言质朴直白，多用排比与反问增强思辨力度，节奏平稳舒缓，体现仁君诚恳之风。思想内涵核心是强调君主自省、重农抑商、节俭爱民，反映儒家民本思想与汉初务实政治理念。作为汉代诏令的代表作，其文风对后世帝王文书有影响，展现了早期官方文书的务实特点。",
   "tags": [
-    "汉文帝",
-    "仁政",
-    "诏书"
+    "议论",
+    "政治",
+    "民生"
   ],
   "paragraphs": [
     {
       "original": "间者，数年比不登，又有水旱疾疫之灾，朕甚忧之。愚而不明，未达其咎。",
-      "translation": "近来，连年歉收，又有水旱疾疫的灾害，我非常忧虑。我愚昧而不明智，不明白其中的过错。",
+      "translation": "近年来，连年歉收，又有水旱疾疫的灾害，朕深为忧虑。朕愚昧不明，未能理解其中的缘由。",
       "sentences": [
         {
           "original": "间者，数年比不登，又有水旱疾疫之灾，朕甚忧之。",
-          "translation": "近来，连年歉收，又有水旱疾疫的灾害，我非常忧虑。",
+          "translation": "近年来，连年歉收，又有水灾、旱灾、疾病和瘟疫的灾害，朕非常担忧。",
           "words": [
             {
-              "word": "间",
-              "pinyin": "jiān",
-              "meaning": "近来",
-              "type": "虚词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "的时候",
-              "type": "虚词"
+              "word": "间者",
+              "pinyin": "jiàn zhě",
+              "meaning": "时间名词，近来、前段时间。此处指诏书发布前不久的一段时期。",
+              "type": "实词"
             },
             {
               "word": "数年",
               "pinyin": "shù nián",
-              "meaning": "几年",
+              "meaning": "数词+名词，连续几年。",
               "type": "实词"
             },
             {
               "word": "比",
-              "pinyin": "bǐ",
-              "meaning": "接连",
-              "type": "虚词"
-            },
-            {
-              "word": "不登",
-              "pinyin": "bù dēng",
-              "meaning": "歉收",
-              "type": "实词"
-            },
-            {
-              "word": "又",
-              "pinyin": "yòu",
-              "meaning": "又",
-              "type": "虚词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "水旱疾疫",
-              "pinyin": "shuǐ hàn jí yì",
-              "meaning": "水旱疾病瘟疫",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "灾",
-              "pinyin": "zāi",
-              "meaning": "灾害",
-              "type": "实词"
-            },
-            {
-              "word": "朕",
-              "pinyin": "zhèn",
-              "meaning": "我",
-              "type": "实词"
-            },
-            {
-              "word": "甚",
-              "pinyin": "shèn",
-              "meaning": "很",
-              "type": "虚词"
-            },
-            {
-              "word": "忧",
-              "pinyin": "yōu",
-              "meaning": "担忧",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "它",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "愚而不明，未达其咎。",
-          "translation": "我愚昧而不明智，不明白其中的过错。",
-          "words": [
-            {
-              "word": "愚",
-              "pinyin": "yú",
-              "meaning": "愚笨",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "而且",
+              "pinyin": "bì",
+              "meaning": "此处读 bì，义为接连地、连续地（区别于 bǐ 之'比较'义）。",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示对动作或状态的否定。",
+              "type": "虚词"
+            },
+            {
+              "word": "登",
+              "pinyin": "dēng",
+              "meaning": "动词，（谷物）成熟、丰收。",
+              "type": "实词"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "副词，表示动作的重复或追加，此处指在歉收之上再加灾祸。",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，发生、出现。",
+              "type": "实词"
+            },
+            {
+              "word": "水旱",
+              "pinyin": "shuǐ hàn",
+              "meaning": "名词，水灾和旱灾。",
+              "type": "实词"
+            },
+            {
+              "word": "疾疫",
+              "pinyin": "jí yì",
+              "meaning": "名词，疾病和瘟疫。",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，表修饰关系，相当于现代汉语的'的'。",
+              "type": "虚词"
+            },
+            {
+              "word": "灾",
+              "pinyin": "zāi",
+              "meaning": "名词，灾害、祸患。",
+              "type": "实词"
+            },
+            {
+              "word": "朕",
+              "pinyin": "zhèn",
+              "meaning": "人称代词，皇帝自称。古义：皇帝自称（秦始皇以后专用）（非今义'我'）。",
+              "type": "虚词"
+            },
+            {
+              "word": "甚",
+              "pinyin": "shèn",
+              "meaning": "程度副词，很、非常。",
+              "type": "虚词"
+            },
+            {
+              "word": "忧",
+              "pinyin": "yōu",
+              "meaning": "动词，忧虑、担忧。",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代前文所述'数年比不登，又有水旱疾疫之灾'的情况。",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "愚而不明，未达其咎。",
+          "translation": "朕愚昧而不明智，没有明白其中的原因。",
+          "words": [
+            {
+              "word": "愚",
+              "pinyin": "yú",
+              "meaning": "形容词，愚笨、不聪明。此处是文帝自谦之词。",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表转折关系，相当于'却'。",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示对'明'的否定。",
               "type": "虚词"
             },
             {
               "word": "明",
               "pinyin": "míng",
-              "meaning": "明智",
+              "meaning": "形容词，明智、通达事理。",
               "type": "实词"
             },
             {
               "word": "未",
               "pinyin": "wèi",
-              "meaning": "没有",
+              "meaning": "否定副词，表示动作尚未发生或状态尚未实现。",
               "type": "虚词"
             },
             {
               "word": "达",
               "pinyin": "dá",
-              "meaning": "明白",
+              "meaning": "动词，明白、通晓。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那",
-              "type": "实词"
+              "meaning": "指示代词，那、那个。指代造成上述灾祸和问题的原因。",
+              "type": "虚词"
             },
             {
               "word": "咎",
               "pinyin": "jiù",
-              "meaning": "过错",
+              "meaning": "名词，过错、罪责，此处引申为原因、症结。",
               "type": "实词"
             }
           ]
@@ -170,797 +177,737 @@
     },
     {
       "original": "意者，朕之政有所失，而行有过与？乃天道有不顺，地利或不得，人事多失和，鬼神废不享与？何以致此？将百官之奉养或费，无用之事或多与？何其民食之寡乏也？夫度田非益寡，而计民未加益，以口量地，其于古犹有馀，而食之甚不足者，其咎安在？无乃百姓之从事于末，以害农者蕃，为酒醪以靡谷者多，六畜之食焉者众与？细大之义，吾未能得其中，其与丞相、列侯、吏二千石、博士议之，有可以佐百姓者，率意远思，无有所隐！",
-      "translation": "或许，我的政策有失误，行为有过错吗？还是天道不顺，地利未得，人事不和，鬼神被废弃而不祭祀呢？为什么会这样呢？或许百官的俸养太浪费，无用的事情太多吗？为什么百姓的食物如此匮乏呢？考量田地并非减少，计算人口并未增加，按人口分配土地，比起古代还有剩余，但食物却非常不足，这过错在哪里？莫非百姓从事末业，损害农业的人多，酿酒浪费谷物多，牲畜吃掉的粮食多吗？大大小小的道理，我未能得其中正，与丞相、列侯、吏二千石、博士商议，有可以帮助百姓的办法，尽管直言深思，不要有所隐瞒！",
+      "translation": "或许是我的政令有失误，行为有过错？还是天道不顺，地利未得，人事不和，鬼神被废弃不祭祀？为什么会这样？是百官的俸养太浪费，无用的事情太多吗？为什么百姓的粮食如此缺乏？丈量田地并没有更少，计算人口也没有增加，按人口分配土地，比起古代还有剩余，但粮食却非常不足，这过错在哪里？难道百姓从事工商业，以致损害农业的人多，酿酒浪费谷物多，牲畜吃掉的粮食多吗？大大小小的道理，我未能把握其中的中正之道，希望与丞相、列侯、吏二千石、博士们商议，有可以帮助百姓的办法，尽管直率地深远思考，不要有所隐瞒！",
       "sentences": [
         {
           "original": "意者，朕之政有所失，而行有过与？",
-          "translation": "或许，我的政策有失误，行为有过错吗？",
+          "translation": "或许是我的政令有失误，行为有过错吗？",
           "words": [
             {
               "word": "意者",
               "pinyin": "yì zhě",
-              "meaning": "或许",
+              "meaning": "固定结构，表示推测语气，相当于'想来'或'或许'，用于句首引出疑问",
               "type": "虚词"
             },
             {
               "word": "朕",
               "pinyin": "zhèn",
-              "meaning": "我（皇帝）",
+              "meaning": "古代皇帝的自称，此处指汉文帝自己",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'朕'和中心语'政'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "政",
               "pinyin": "zhèng",
-              "meaning": "政事",
+              "meaning": "政事、政策，指治理国家的措施",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，表示存在或具有",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "所...的",
+              "meaning": "助词，与动词'失'构成'所'字结构，表示'失误的地方'",
               "type": "虚词"
             },
             {
               "word": "失",
               "pinyin": "shī",
-              "meaning": "过失",
+              "meaning": "动词，失误、过失",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表示并列关系，连接'政有所失'和'行有过'两个分句",
               "type": "虚词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行为",
+              "meaning": "此处读 xíng，义为行为、行动",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，表示存在或具有",
               "type": "实词"
             },
             {
               "word": "过",
               "pinyin": "guò",
-              "meaning": "过错",
+              "meaning": "此处读 guò，义为过错、过失",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "通'欤'，句末语气词，表示疑问或感叹",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "乃天道有不顺，地利或不得，人事多失和，鬼神废不享与？",
-          "translation": "还是天道不顺，地利未得，人事不和，鬼神被废弃而不祭祀呢？",
+          "translation": "还是天道不顺，地利未得，人事不和，鬼神被废弃不祭祀呢？",
           "words": [
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "连词，表示转折或承接，相当于'却'或'于是'，引出原因分析",
               "type": "虚词"
             },
             {
               "word": "天道",
               "pinyin": "tiān dào",
-              "meaning": "自然规律",
+              "meaning": "自然规律或天意，指上天的法则",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，表示存在",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "顺",
-              "pinyin": "shùn",
-              "meaning": "顺利",
+              "word": "不顺",
+              "pinyin": "bù shùn",
+              "meaning": "不顺畅、不顺利，指天道运行不和谐",
               "type": "实词"
             },
             {
               "word": "地利",
               "pinyin": "dì lì",
-              "meaning": "地利",
+              "meaning": "地理优势或土地生产，指土地的益处",
               "type": "实词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "或许",
+              "meaning": "古义：有的、有些（非今义'或者'），表示部分情况",
               "type": "虚词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "得",
-              "pinyin": "dé",
-              "meaning": "得到",
+              "word": "不得",
+              "pinyin": "bù dé",
+              "meaning": "没有得到、不能获得，指地利未被充分利用",
               "type": "实词"
             },
             {
               "word": "人事",
               "pinyin": "rén shì",
-              "meaning": "人间事务",
+              "meaning": "人间事务、人为之事，指社会活动",
               "type": "实词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多",
+              "meaning": "形容词，很多、经常，表示频率高",
               "type": "实词"
             },
             {
-              "word": "失",
-              "pinyin": "shī",
-              "meaning": "失去",
-              "type": "实词"
-            },
-            {
-              "word": "和",
-              "pinyin": "hé",
-              "meaning": "和谐",
+              "word": "失和",
+              "pinyin": "shī hé",
+              "meaning": "失去和谐、不和睦，指人事关系不协调",
               "type": "实词"
             },
             {
               "word": "鬼神",
               "pinyin": "guǐ shén",
-              "meaning": "鬼神",
+              "meaning": "鬼怪和神灵，泛指祭祀的对象",
               "type": "实词"
             },
             {
               "word": "废",
               "pinyin": "fèi",
-              "meaning": "废弃",
+              "meaning": "动词，废弃、荒废，指不进行祭祀",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "享",
-              "pinyin": "xiǎng",
-              "meaning": "祭祀",
+              "word": "不享",
+              "pinyin": "bù xiǎng",
+              "meaning": "不祭祀、不享用祭品，指鬼神未被供奉",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yú",
-              "meaning": "吗",
+              "meaning": "通'欤'，句末语气词，表示疑问",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "何以致此？",
-          "translation": "为什么会这样呢？",
+          "translation": "为什么会这样？",
           "words": [
             {
-              "word": "何",
-              "pinyin": "hé",
-              "meaning": "什么",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用",
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "固定结构，介词'以'与疑问代词'何'的倒装，表示询问原因或方式，相当于'为什么'、'怎么'",
               "type": "虚词"
             },
             {
               "word": "致",
               "pinyin": "zhì",
-              "meaning": "导致",
+              "meaning": "动词，导致、造成",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，指代前文所述'民食寡乏'等种种不良状况",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "将百官之奉养或费，无用之事或多与？",
-          "translation": "或许百官的俸养太浪费，无用的事情太多吗？",
+          "translation": "是百官的俸养太浪费，无用的事情太多吗？",
           "words": [
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "或许",
+              "meaning": "此处读 jiāng，句首语气词，表示推测、揣度，相当于'恐怕'、'或许'",
               "type": "虚词"
             },
             {
               "word": "百官",
               "pinyin": "bǎi guān",
-              "meaning": "官员们",
+              "meaning": "名词，朝廷的各级官员",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "奉养",
               "pinyin": "fèng yǎng",
-              "meaning": "供养费用",
+              "meaning": "名词，指官吏的俸禄、供给",
               "type": "实词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "或许",
+              "meaning": "副词，表示不肯定，或许、可能",
               "type": "虚词"
             },
             {
               "word": "费",
               "pinyin": "fèi",
-              "meaning": "花费",
+              "meaning": "动词，耗费、花费过多",
               "type": "实词"
             },
             {
               "word": "无用",
               "pinyin": "wú yòng",
-              "meaning": "没有用处",
+              "meaning": "形容词，没有用处的、不必要的",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于定语和中心语之间，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "事情",
+              "meaning": "名词，事务、事情",
               "type": "实词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "或许",
+              "meaning": "副词，表示不肯定，或许、可能",
               "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多",
+              "meaning": "形容词，数量大、过多",
               "type": "实词"
             },
             {
               "word": "与",
-              "pinyin": "yǔ",
-              "meaning": "吗",
+              "pinyin": "yú",
+              "meaning": "此处读 yú，句末语气词，表示疑问或反诘，后作'欤'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "何其民食之寡乏也？",
-          "translation": "为什么百姓的食物如此匮乏呢？",
+          "translation": "为什么百姓的粮食如此缺乏呢？",
           "words": [
             {
               "word": "何其",
               "pinyin": "hé qí",
-              "meaning": "为什么那样",
+              "meaning": "固定结构，表示感叹，相当于“多么”、“怎么那么”，用以加强疑问或感叹语气。",
               "type": "虚词"
             },
             {
-              "word": "民",
-              "pinyin": "mín",
-              "meaning": "百姓",
-              "type": "实词"
-            },
-            {
-              "word": "食",
-              "pinyin": "shí",
-              "meaning": "粮食",
+              "word": "民食",
+              "pinyin": "mín shí",
+              "meaning": "百姓的粮食（供应）。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓结构“民食寡乏”之间，取消其作为独立句子的资格，使其成为“何其”感叹的对象。",
               "type": "虚词"
             },
             {
               "word": "寡乏",
               "pinyin": "guǎ fá",
-              "meaning": "稀少缺乏",
+              "meaning": "稀少，匮乏。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，与疑问词“何其”配合，表感叹兼疑问语气。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "夫度田非益寡，而计民未加益，以口量地，其于古犹有馀，而食之甚不足者，其咎安在？",
-          "translation": "考量田地并非减少，计算人口并未增加，按人口分配土地，比起古代还有剩余，但食物却非常不足，这过错在哪里？",
+          "translation": "丈量田地并没有更少，计算人口也没有增加，按人口分配土地，比起古代还有剩余，但粮食却非常不足，这过错在哪里？",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首发语词，表示将要发表议论，引发下文。",
               "type": "虚词"
             },
             {
               "word": "度田",
               "pinyin": "duó tián",
-              "meaning": "丈量田地",
+              "meaning": "此处“度”读duó，义为丈量、计算。度田，指丈量全国土地（的总数）。",
               "type": "实词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "否定副词，不是。",
               "type": "虚词"
             },
             {
               "word": "益寡",
               "pinyin": "yì guǎ",
-              "meaning": "更加稀少",
+              "meaning": "更加稀少。益，副词，更加。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，可是、但是。",
               "type": "虚词"
             },
             {
               "word": "计民",
               "pinyin": "jì mín",
-              "meaning": "计算人口",
+              "meaning": "统计人口（的总数）。",
               "type": "实词"
             },
             {
-              "word": "未",
-              "pinyin": "wèi",
-              "meaning": "没有",
+              "word": "未加益",
+              "pinyin": "wèi jiā yì",
+              "meaning": "没有增加。加益，同义复词，增加。",
+              "type": "实词"
+            },
+            {
+              "word": "以口量地",
+              "pinyin": "yǐ kǒu liáng dì",
+              "meaning": "固定结构，按照（现有的）人口来计算（丈量出的）土地。",
               "type": "虚词"
-            },
-            {
-              "word": "加益",
-              "pinyin": "jiā yì",
-              "meaning": "增加",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用",
-              "type": "虚词"
-            },
-            {
-              "word": "口",
-              "pinyin": "kǒu",
-              "meaning": "人口",
-              "type": "实词"
-            },
-            {
-              "word": "量地",
-              "pinyin": "liáng dì",
-              "meaning": "丈量土地",
-              "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那",
+              "meaning": "代词，指代“以口量地”所得出的土地与人口的比例关系。",
               "type": "虚词"
             },
             {
               "word": "于古",
               "pinyin": "yú gǔ",
-              "meaning": "相对于古代",
-              "type": "实词"
+              "meaning": "介词结构，与古代相比。于，介词，表示比较。",
+              "type": "虚词"
             },
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "还",
+              "meaning": "副词，尚且、还。",
               "type": "虚词"
             },
             {
               "word": "有馀",
               "pinyin": "yǒu yú",
-              "meaning": "有剩余",
+              "meaning": "有剩余，指人均土地比古代还多。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，然而。",
               "type": "虚词"
             },
             {
               "word": "食之",
               "pinyin": "shí zhī",
-              "meaning": "粮食的消费",
+              "meaning": "粮食的供应。食，动词活用为名词，指粮食。之，结构助词，的。",
               "type": "实词"
             },
             {
-              "word": "甚",
-              "pinyin": "shèn",
-              "meaning": "很",
-              "type": "虚词"
-            },
-            {
-              "word": "不足",
-              "pinyin": "bù zú",
-              "meaning": "不足够",
+              "word": "甚不足",
+              "pinyin": "shèn bù zú",
+              "meaning": "非常不充足。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的情况",
+              "meaning": "助词，与前面的陈述内容构成“者”字结构，指代“……的情况”，作主语。",
               "type": "虚词"
             },
             {
               "word": "其咎",
               "pinyin": "qí jiù",
-              "meaning": "那过错",
+              "meaning": "那过错。其，指示代词，那。",
               "type": "实词"
             },
             {
               "word": "安在",
               "pinyin": "ān zài",
-              "meaning": "在哪里",
-              "type": "实词"
+              "meaning": "固定结构“安在”（疑问代词“安”+动词“在”），宾语前置，即“在安”，在哪里。",
+              "type": "虚词"
             }
           ]
         },
         {
           "original": "无乃百姓之从事于末，以害农者蕃，为酒醪以靡谷者多，六畜之食焉者众与？",
-          "translation": "莫非百姓从事末业，损害农业的人多，酿酒浪费谷物多，牲畜吃掉的粮食多吗？",
+          "translation": "难道百姓从事工商业，以致损害农业的人多，酿酒浪费谷物多，牲畜吃掉的粮食多吗？",
           "words": [
             {
               "word": "无乃",
               "pinyin": "wú nǎi",
-              "meaning": "恐怕，表示推测",
+              "meaning": "固定结构'无乃...与'的一部分，表推测语气，相当于'恐怕...吧'",
               "type": "虚词"
             },
             {
               "word": "百姓",
               "pinyin": "bǎi xìng",
-              "meaning": "人民",
+              "meaning": "平民，民众",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，助词",
+              "meaning": "助词，用于主语'百姓'和谓语'从事于末'之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "从事",
               "pinyin": "cóng shì",
-              "meaning": "从事职业",
+              "meaning": "从事，参与",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在，介词",
+              "meaning": "介词，引进动作'从事'的对象'末'",
               "type": "虚词"
             },
             {
               "word": "末",
               "pinyin": "mò",
-              "meaning": "工商业",
+              "meaning": "古义：指工商业（与本业'农'相对，非今义'末尾'）",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "以致，连词",
+              "meaning": "连词，表目的，可译为'来'",
               "type": "虚词"
             },
             {
-              "word": "害农",
-              "pinyin": "hài nóng",
-              "meaning": "危害农业",
+              "word": "害",
+              "pinyin": "hài",
+              "meaning": "损害，妨害",
+              "type": "实词"
+            },
+            {
+              "word": "农",
+              "pinyin": "nóng",
+              "meaning": "农业，农耕",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人，助词",
+              "meaning": "助词，与'害农'构成名词性结构，指'妨害农业的事情'",
               "type": "虚词"
             },
             {
               "word": "蕃",
               "pinyin": "fán",
-              "meaning": "多",
+              "meaning": "众多",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "酿造，做",
+              "meaning": "动词，酿造",
               "type": "实词"
             },
             {
               "word": "酒醪",
               "pinyin": "jiǔ láo",
-              "meaning": "酒",
+              "meaning": "汁滓混合的酒，泛指酒",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来，连词",
+              "meaning": "连词，表结果，可译为'以致'",
               "type": "虚词"
             },
             {
-              "word": "靡谷",
-              "pinyin": "mí gǔ",
-              "meaning": "浪费粮食",
+              "word": "靡",
+              "pinyin": "mí",
+              "meaning": "此处读 mí，义为浪费、耗费",
+              "type": "实词"
+            },
+            {
+              "word": "谷",
+              "pinyin": "gǔ",
+              "meaning": "粮食，谷物",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的，助词",
+              "meaning": "助词，与'为酒醪以靡谷'构成名词性结构，指'酿酒浪费谷物的事情'",
               "type": "虚词"
             },
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "多",
+              "meaning": "数量大",
               "type": "实词"
             },
             {
               "word": "六畜",
               "pinyin": "liù chù",
-              "meaning": "六种家畜",
+              "meaning": "指马、牛、羊、鸡、狗、猪，泛指家畜",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，助词",
+              "meaning": "助词，用于主语'六畜'和谓语'食焉'之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "食",
               "pinyin": "shí",
-              "meaning": "吃",
+              "meaning": "动词，吃",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "之，代词",
+              "meaning": "兼词，相当于'于之'（'之'指代粮食）",
               "type": "虚词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的，助词",
+              "meaning": "助词，与'食焉'构成名词性结构，指'吃粮食的（牲畜）'",
               "type": "虚词"
             },
             {
               "word": "众",
               "pinyin": "zhòng",
-              "meaning": "多",
+              "meaning": "众多",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yú",
-              "meaning": "吗，语气词",
+              "meaning": "句末语气词，与'无乃'呼应，表疑问、推测，相当于'吧'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "细大之义，吾未能得其中，其与丞相、列侯、吏二千石、博士议之，有可以佐百姓者，率意远思，无有所隐！",
-          "translation": "大大小小的道理，我未能得其中正，与丞相、列侯、吏二千石、博士商议，有可以帮助百姓的办法，尽管直言深思，不要有所隐瞒！",
+          "translation": "大大小小的道理，我未能把握其中的中正之道，希望与丞相、列侯、吏二千石、博士们商议，有可以帮助百姓的办法，尽管直率地深远思考，不要有所隐瞒！",
           "words": [
             {
               "word": "细大",
               "pinyin": "xì dà",
-              "meaning": "大小事",
+              "meaning": "小的和大的（事情）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，助词",
+              "meaning": "助词，定语标志，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "义",
               "pinyin": "yì",
-              "meaning": "道理",
+              "meaning": "道理，意义",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
-            },
-            {
-              "word": "未",
-              "pinyin": "wèi",
-              "meaning": "没有，副词",
+              "meaning": "人称代词，我（文帝自称）",
               "type": "虚词"
             },
             {
-              "word": "能",
-              "pinyin": "néng",
-              "meaning": "能够",
+              "word": "未能",
+              "pinyin": "wèi néng",
+              "meaning": "没能",
               "type": "实词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "得到，获得",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它的，代词",
+              "meaning": "代词，指代'细大之义'",
               "type": "虚词"
             },
             {
               "word": "中",
-              "pinyin": "zhōng",
-              "meaning": "中心，道理",
+              "pinyin": "zhòng",
+              "meaning": "此处读 zhòng，义为中正、恰当的准则",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "表示祈使",
+              "meaning": "副词，表祈使语气，可译为'还是'",
               "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和，连词",
+              "meaning": "介词，引进动作'议'的协同对象",
               "type": "虚词"
             },
             {
               "word": "丞相",
               "pinyin": "chéng xiàng",
-              "meaning": "官职名",
+              "meaning": "官职，辅佐皇帝的最高行政长官",
               "type": "官职"
             },
             {
               "word": "列侯",
               "pinyin": "liè hóu",
-              "meaning": "爵位名",
+              "meaning": "爵位，异姓功臣的最高封爵，有封地",
               "type": "官职"
             },
             {
               "word": "吏二千石",
               "pinyin": "lì èr qiān dàn",
-              "meaning": "高级官员",
+              "meaning": "官职，指俸禄等级为二千石的官员，如郡守、九卿等",
               "type": "官职"
             },
             {
               "word": "博士",
               "pinyin": "bó shì",
-              "meaning": "学官",
+              "meaning": "官职，掌通古今、备顾问的学官",
               "type": "官职"
             },
             {
               "word": "议",
               "pinyin": "yì",
-              "meaning": "讨论",
+              "meaning": "商议，讨论",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它，代词",
+              "meaning": "代词，指代'细大之义'这件事",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有，动词",
-              "type": "虚词"
+              "meaning": "动词，存在",
+              "type": "实词"
             },
             {
               "word": "可以",
               "pinyin": "kě yǐ",
-              "meaning": "可以用来",
+              "meaning": "古义：可以用来（非今义'能够'或'许可'）",
               "type": "实词"
             },
             {
               "word": "佐",
               "pinyin": "zuǒ",
-              "meaning": "帮助",
+              "meaning": "辅助，帮助",
               "type": "实词"
             },
             {
               "word": "百姓",
               "pinyin": "bǎi xìng",
-              "meaning": "人民",
+              "meaning": "平民，民众",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的，助词",
+              "meaning": "助词，与'可以佐百姓'构成名词性结构，指'可以用来辅助百姓的方法'",
               "type": "虚词"
             },
             {
               "word": "率意",
               "pinyin": "shuài yì",
-              "meaning": "直率表达",
+              "meaning": "直率地表达心意",
               "type": "实词"
             },
             {
               "word": "远思",
               "pinyin": "yuǎn sī",
-              "meaning": "深远思考",
+              "meaning": "深远地思考",
               "type": "实词"
             },
             {
-              "word": "无",
-              "pinyin": "wú",
-              "meaning": "不要，副词",
-              "type": "虚词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有，动词",
-              "type": "虚词"
+              "word": "无有",
+              "pinyin": "wú yǒu",
+              "meaning": "不要有",
+              "type": "实词"
             },
             {
               "word": "所隐",
               "pinyin": "suǒ yǐn",
-              "meaning": "隐瞒之事",
-              "type": "实词"
+              "meaning": "所字结构，'隐'是隐瞒，'所隐'指隐瞒的地方或内容",
+              "type": "虚词"
             }
           ]
         }

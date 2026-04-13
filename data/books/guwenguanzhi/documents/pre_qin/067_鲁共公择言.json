@@ -1,1152 +1,1195 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "067_鲁共公择言",
   "title": "鲁共公择言",
   "author": {
     "id": "pre_qin_刘向",
     "name": "刘向",
     "dynasty": "pre_qin",
-    "bio": "刘向（约公元前77年—公元前6年），字子政，西汉沛县（今属江苏）人。著名经学家、目录学家、文学家。他历任谏大夫、宗正等职，致力于古籍校勘与整理，编成《别录》为中国目录学之祖，并编辑《战国策》、《列女传》、《新序》等书。刘向生平注重文献传承，其工作对后世学术与文学有重要贡献，被誉为西汉文献学的奠基人之一。"
+    "bio": "刘向，字子政，约公元前77年—公元前6年，沛县（今江苏沛县）人。西汉经学家、目录学家，官至谏大夫、宗正等。代表作包括《别录》《新序》《说苑》《列女传》，并整理《战国策》《楚辞》等古籍。他是中国目录学奠基人，对古籍整理与文学传承有重要贡献。"
   },
   "source": "战国策",
   "dynasty": "pre_qin",
   "volume": 4,
-  "background": "《鲁共公择言》出自《战国策》，由西汉刘向编辑整理。战国时期，诸侯争霸，外交活动频繁，宴会成为各国使节交流与劝谏的重要场合。梁王魏婴（即魏惠王）在范台宴请诸侯，鲁共公借此机会起身劝谏，反映了当时纵横策士游说君主的典型场景。刘向在西汉时校勘古籍，将战国时期的史料编成《战国策》，旨在记录策士的言行与智慧，以供后世借鉴。这篇文章通过历史典故，警示君主勿沉迷享乐，体现了战国时期以史为鉴的政治文化，以及刘向对文献的整理与传播意图。",
-  "appreciation": "《鲁共公择言》是一篇结构严谨、语言精炼的劝谏文。文章以宴会场景开篇，鲁共公“避席择言”显示恭敬与郑重，随后引用四个历史典故：禹疏仪狄绝旨酒、齐桓公警易牙之味、晋文公远南威之色、楚王盟强台之乐，形成排比句式，增强气势与说服力。每个典故均以“后世必有以...亡其国者”作结，突出历史教训的普遍性。最后，鲁共公将梁王的享乐与典故类比，点明“兼此四者”的危险，直接劝谏，逻辑清晰。语言上，古文简洁有力，通过“曰”字引述人物话语，生动再现历史场景。主题上，强调防微杜渐、以史为鉴，体现了纵横家的游说艺术与儒家忧患意识。文章在《古文观止》中作为名篇，展现了先秦散文的劝谏技巧与修辞魅力，对后世文学与政治文化有深远影响。",
+  "background": "《鲁共公择言》出自《战国策》，记载战国时期魏惠王（梁王魏婴）在范台宴请诸侯的事件。战国时代诸侯争霸，魏国一度强盛，魏惠王通过会盟展示霸权。鲁共公作为鲁国君主，在酒酣之际起身劝诫，引用夏禹、齐桓公、晋文公、楚庄王的历史典故，警示魏王勿沉迷酒、味、色、台榭之乐，以防亡国。刘向在西汉时期整理《战国策》时收录此文，旨在通过历史故事传达政治教训，反映战国策士的游说传统和当时君主面临的享乐诱惑与治国危机。",
+  "appreciation": "本文以叙事与议论结合，结构清晰：先简述宴会场景，再以鲁君发言为主体，通过四个排比典故展开劝诫。艺术特色上，运用排比和对比修辞，如列举禹疏仪狄、桓公觉味、文公远威、楚王盟台，语言简洁有力，节奏明快，体现战国纵横家的辩论风格。思想内涵聚焦于居安思危、戒奢以俭的治国理念，强调君主应节制欲望，避免因享乐而亡国，具有儒家政治伦理色彩。作为《战国策》名篇，它展现了历史借鉴的叙事手法和策士的劝谏艺术，在先秦散文中具有一定代表性。",
   "tags": [
-    "劝谏艺术",
-    "战国策",
-    "历史典故"
+    "议论",
+    "政治",
+    "历史"
   ],
   "paragraphs": [
     {
       "original": "梁王魏婴觞诸侯于范台，酒酣，请鲁君举觞。鲁君兴，避席择言曰：“昔者，帝女令仪狄作酒而美，进之禹；禹饮而甘之，遂疏仪狄，绝旨酒。曰：‘后世必有以酒亡其国者。’齐桓公夜半不嗛，易牙乃煎、熬、燔、炙，和调五味而进之；桓公食之而饱，至旦不觉，曰：‘后世必有以味亡其国者。’晋文公得南之威，三日不听朝，遂推南之威而远之，曰：“后世必有以色亡其国者。”楚王登强台而望崩山，左江而右湖，以临彷徨，其乐忘死，遂盟强台而弗登，曰：‘后世必有以高台、陂池亡其国者。’今主君之尊，仪狄之酒也；主君之味，易牙之调也；左白台而右闾须，南威之美也；前夹林而后兰台，强台之乐也。有一于此，足以亡其国，今主君兼此四者，可无戒与？”梁王称善相属。",
-      "translation": "梁王魏婴在范台宴请诸侯，酒喝得正酣时，请鲁君举杯祝酒。鲁君站起来，离开座位，选择言辞说道：“从前，帝的女儿命令仪狄酿酒，酒味很美，进献给禹；禹喝了觉得甘甜，于是疏远仪狄，戒绝美酒。说：‘后世必定有因为酒而亡国的人。’齐桓公半夜里不满足，易牙就煎、熬、烤、炙，调和五种味道进献给他；桓公吃得很饱，直到天亮还不满足，说：‘后世必定有因为美味而亡国的人。’晋文公得到南之威，三天不上朝，于是推开南之威而疏远她，说：‘后世必定有因为美色而亡国的人。’楚王登上强台眺望崩山，左边是江，右边是湖，面对彷徨之景，快乐得忘记死亡，于是发誓不再登强台，说：‘后世必定有因为高台、池塘而亡国的人。’现在主君的酒杯，是仪狄的酒；主君的美味，是易牙的调味；左边有白台，右边有闾须，是南之威的美貌；前面有夹林，后面有兰台，是强台的快乐。这四样中有一样，就足以亡国，现在主君兼有这四样，可以不警惕吗？”梁王连连称赞说好。",
+      "translation": "梁王魏婴在范台设宴款待诸侯，酒兴正浓时，请鲁君举杯。鲁君起身离席，恭敬地进言：“从前，帝女令仪狄酿酒，酒味甘美，进献给大禹；大禹饮后觉得甘醇，便疏远仪狄，戒绝美酒，并说：‘后世必有因酒亡国之君。’齐桓公夜半腹中不适，易牙便煎熬烧烤，调和五味进献；桓公饱食至天明，感叹道：‘后世必有因美味亡国之君。’晋文公得到美女南之威，三日不理朝政，于是疏远她，并说：‘后世必有因女色亡国之君。’楚王登强台，望崩山，左江右湖，流连忘返，乐而忘死，遂发誓不再登台，说：‘后世必有因高台池沼亡国之君。’如今主君您的美酒，犹如仪狄所酿；佳肴，犹如易牙所烹；左拥白台，右抱闾须，宛若南之威再起；前有夹林，后有兰台，仿佛强台之乐重现。此四者有一，便足亡国，今主君兼而有之，岂能不警戒？”梁王听罢，连连称善。",
       "sentences": [
         {
           "original": "梁王魏婴觞诸侯于范台，酒酣，请鲁君举觞。",
-          "translation": "梁王魏婴在范台宴请诸侯，酒喝得正酣时，请鲁君举杯祝酒。",
+          "translation": "梁王魏婴在范台设宴款待诸侯，酒喝得正酣时，请鲁君举杯。",
           "words": [
             {
-              "word": "梁王魏婴",
-              "pinyin": "liáng wáng wèi yīng",
-              "meaning": "梁王魏婴",
+              "word": "梁王",
+              "pinyin": "liáng wáng",
+              "meaning": "魏国国君，因迁都大梁（今河南开封），故称梁王。此处指魏婴。",
+              "type": "官职"
+            },
+            {
+              "word": "魏婴",
+              "pinyin": "wèi yīng",
+              "meaning": "即梁惠王，魏国国君，名婴，公元前369-前319年在位。",
               "type": "人名"
             },
             {
               "word": "觞",
               "pinyin": "shāng",
-              "meaning": "敬酒",
+              "meaning": "动词，向……敬酒。",
               "type": "实词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代中央政权所分封的各国国君的统称。",
+              "type": "官职"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作‘觞’的地点‘范台’。",
               "type": "虚词"
             },
             {
               "word": "范台",
               "pinyin": "fàn tái",
-              "meaning": "范台",
+              "meaning": "魏国台观名，故址在今河南开封东南。",
               "type": "地名"
             },
             {
-              "word": "酒酣",
-              "pinyin": "jiǔ hān",
-              "meaning": "酒兴正浓",
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "名词，酒宴。",
+              "type": "实词"
+            },
+            {
+              "word": "酣",
+              "pinyin": "hān",
+              "meaning": "形容词，酒喝得畅快尽兴。",
               "type": "实词"
             },
             {
               "word": "请",
               "pinyin": "qǐng",
-              "meaning": "请求",
+              "meaning": "动词，请求。",
               "type": "实词"
             },
             {
               "word": "鲁君",
               "pinyin": "lǔ jūn",
-              "meaning": "鲁国君主",
-              "type": "人名"
+              "meaning": "鲁国国君，即鲁共公。",
+              "type": "官职"
             },
             {
-              "word": "举觞",
-              "pinyin": "jǔ shāng",
-              "meaning": "举起酒杯",
+              "word": "举",
+              "pinyin": "jǔ",
+              "meaning": "动词，举起。",
+              "type": "实词"
+            },
+            {
+              "word": "觞",
+              "pinyin": "shāng",
+              "meaning": "名词，酒杯。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "鲁君兴，避席择言曰：“昔者，帝女令仪狄作酒而美，进之禹；禹饮而甘之，遂疏仪狄，绝旨酒。曰：‘后世必有以酒亡其国者。’”",
-          "translation": "鲁君站起来，离开座位，选择言辞说道：“从前，帝的女儿命令仪狄酿酒，酒味很美，进献给禹；禹喝了觉得甘甜，于是疏远仪狄，戒绝美酒。说：‘后世必定有因为酒而亡国的人。’”",
+          "translation": "鲁君起身，离开座位，谨慎进言道：“从前，帝女命令仪狄酿酒，酒味美，进献给禹；禹喝了觉得甘美，于是疏远仪狄，断绝美酒。并说：‘后世一定会有因为酒而亡国的人。’”",
           "words": [
             {
               "word": "鲁君",
               "pinyin": "lǔ jūn",
-              "meaning": "鲁国君主",
-              "type": "人名"
+              "meaning": "鲁国国君，即鲁共公。",
+              "type": "官职"
             },
             {
               "word": "兴",
               "pinyin": "xīng",
-              "meaning": "站起来",
+              "meaning": "动词，起身。",
               "type": "实词"
             },
             {
-              "word": "避席",
-              "pinyin": "bì xí",
-              "meaning": "离开席位",
+              "word": "避",
+              "pinyin": "bì",
+              "meaning": "动词，离开。",
               "type": "实词"
             },
             {
-              "word": "择言",
-              "pinyin": "zé yán",
-              "meaning": "选择言辞",
+              "word": "席",
+              "pinyin": "xí",
+              "meaning": "名词，坐席。",
+              "type": "实词"
+            },
+            {
+              "word": "择",
+              "pinyin": "zé",
+              "meaning": "动词，选择。",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "名词，言辞，这里指善言、箴言。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说。",
               "type": "实词"
             },
             {
-              "word": "昔",
-              "pinyin": "xī",
-              "meaning": "从前",
+              "word": "昔者",
+              "pinyin": "xī zhě",
+              "meaning": "时间词组，从前，过去。",
               "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "助词",
-              "type": "虚词"
             },
             {
               "word": "帝女",
               "pinyin": "dì nǚ",
-              "meaning": "帝的女儿",
-              "type": "人名"
+              "meaning": "可能指禹的女儿，或泛指帝王之女。",
+              "type": "实词"
             },
             {
               "word": "令",
               "pinyin": "lìng",
-              "meaning": "命令",
+              "meaning": "动词，命令。",
               "type": "实词"
             },
             {
               "word": "仪狄",
               "pinyin": "yí dí",
-              "meaning": "仪狄",
+              "meaning": "人名，传说中夏禹时的酿酒发明者。",
               "type": "人名"
             },
             {
-              "word": "作酒",
-              "pinyin": "zuò jiǔ",
-              "meaning": "造酒",
+              "word": "作",
+              "pinyin": "zuò",
+              "meaning": "动词，酿造。",
+              "type": "实词"
+            },
+            {
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "名词，酒。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，连接‘作酒’和‘美’，表顺承。",
               "type": "虚词"
             },
             {
               "word": "美",
               "pinyin": "měi",
-              "meaning": "美味",
+              "meaning": "形容词，味道甘美。",
               "type": "实词"
             },
             {
               "word": "进",
               "pinyin": "jìn",
-              "meaning": "进献",
+              "meaning": "动词，进献。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代‘酒’。",
               "type": "虚词"
             },
             {
               "word": "禹",
               "pinyin": "yǔ",
-              "meaning": "禹",
+              "meaning": "夏朝开国君主，传说中治水的英雄。",
               "type": "人名"
             },
             {
               "word": "禹",
               "pinyin": "yǔ",
-              "meaning": "禹",
+              "meaning": "夏朝开国君主，传说中治水的英雄。",
               "type": "人名"
             },
             {
               "word": "饮",
               "pinyin": "yǐn",
-              "meaning": "喝",
+              "meaning": "动词，喝。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，连接‘饮’和‘甘之’，表顺承。",
               "type": "虚词"
             },
             {
               "word": "甘",
               "pinyin": "gān",
-              "meaning": "觉得甘甜",
+              "meaning": "形容词的意动用法，认为……甘美。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代‘酒’。",
               "type": "虚词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "副词，表示动作行为的承接，于是、就。",
               "type": "虚词"
             },
             {
               "word": "疏",
               "pinyin": "shū",
-              "meaning": "疏远",
+              "meaning": "动词，疏远。",
               "type": "实词"
             },
             {
               "word": "仪狄",
               "pinyin": "yí dí",
-              "meaning": "仪狄",
+              "meaning": "人名，传说中夏禹时的酿酒发明者。",
               "type": "人名"
             },
             {
               "word": "绝",
               "pinyin": "jué",
-              "meaning": "断绝",
+              "meaning": "动词，戒绝，断绝。",
               "type": "实词"
             },
             {
-              "word": "旨酒",
-              "pinyin": "zhǐ jiǔ",
-              "meaning": "美酒",
+              "word": "旨",
+              "pinyin": "zhǐ",
+              "meaning": "形容词，味美。",
+              "type": "实词"
+            },
+            {
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "名词，酒。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说。",
               "type": "实词"
             },
             {
               "word": "后世",
               "pinyin": "hòu shì",
-              "meaning": "后代",
+              "meaning": "名词，后代。",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
-              "type": "虚词"
+              "meaning": "副词，一定。",
+              "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，出现。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因为",
+              "meaning": "介词，表示原因，因为。",
               "type": "虚词"
             },
             {
               "word": "酒",
               "pinyin": "jiǔ",
-              "meaning": "酒",
+              "meaning": "名词，嗜好饮酒。",
               "type": "实词"
             },
             {
               "word": "亡",
               "pinyin": "wáng",
-              "meaning": "灭亡",
+              "meaning": "古义：灭亡、使……灭亡（非今义‘死亡、丢失’）。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代‘后世’的君主。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "名词，国家。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，与前面的动词短语构成名词性结构，表示‘……的国家’。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "齐桓公夜半不嗛，易牙乃煎、熬、燔、炙，和调五味而进之；桓公食之而饱，至旦不觉，曰：‘后世必有以味亡其国者。’",
-          "translation": "齐桓公半夜里不满足，易牙就煎、熬、烤、炙，调和五种味道进献给他；桓公吃得很饱，直到天亮还不满足，说：‘后世必定有因为美味而亡国的人。’",
+          "translation": "齐桓公半夜感到不满足，易牙就煎、熬、烤、炙，调和五味后进献给他；桓公吃得饱饱的，直到天亮还不觉得饿，说：‘后世一定会有因为美味而亡国的人。’",
           "words": [
             {
               "word": "齐桓公",
               "pinyin": "qí huán gōng",
-              "meaning": "齐桓公",
+              "meaning": "春秋五霸之首，姜姓齐国国君（前685-前643在位），名小白。",
               "type": "人名"
             },
             {
               "word": "夜半",
               "pinyin": "yè bàn",
-              "meaning": "半夜",
+              "meaning": "半夜，深夜。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "嗛",
               "pinyin": "qiè",
-              "meaning": "满足",
+              "meaning": "通'慊'，满足，惬意。",
               "type": "实词"
             },
             {
               "word": "易牙",
               "pinyin": "yì yá",
-              "meaning": "易牙",
+              "meaning": "春秋时齐桓公宠臣，雍人（厨师），长于调味，传说曾烹子献食。",
               "type": "人名"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，于是，就。",
               "type": "虚词"
             },
             {
               "word": "煎",
               "pinyin": "jiān",
-              "meaning": "煎",
+              "meaning": "烹饪方法，用油将食物煮熟。",
               "type": "实词"
             },
             {
               "word": "熬",
               "pinyin": "áo",
-              "meaning": "熬",
+              "meaning": "烹饪方法，用文火慢煮。",
               "type": "实词"
             },
             {
               "word": "燔",
               "pinyin": "fán",
-              "meaning": "烤",
+              "meaning": "烹饪方法，烤肉。",
               "type": "实词"
             },
             {
               "word": "炙",
               "pinyin": "zhì",
-              "meaning": "炙",
+              "meaning": "烹饪方法，熏烤。",
               "type": "实词"
             },
             {
               "word": "和调",
               "pinyin": "hé tiáo",
-              "meaning": "调和",
+              "meaning": "调和，调配（味道）。",
               "type": "实词"
             },
             {
               "word": "五味",
               "pinyin": "wǔ wèi",
-              "meaning": "五味",
+              "meaning": "酸、甜、苦、辣、咸五种味道，泛指各种味道。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然后",
+              "meaning": "连词，表承接关系。",
               "type": "虚词"
             },
             {
               "word": "进之",
               "pinyin": "jìn zhī",
-              "meaning": "进献给他",
+              "meaning": "进献给他（齐桓公）。",
               "type": "实词"
             },
             {
               "word": "桓公",
               "pinyin": "huán gōng",
-              "meaning": "桓公",
+              "meaning": "即齐桓公。",
               "type": "人名"
             },
             {
               "word": "食之",
               "pinyin": "shí zhī",
-              "meaning": "吃它",
+              "meaning": "吃了它（食物）。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表承接关系。",
               "type": "虚词"
             },
             {
               "word": "饱",
               "pinyin": "bǎo",
-              "meaning": "饱",
+              "meaning": "吃饱，满足。",
               "type": "实词"
             },
             {
               "word": "至旦",
               "pinyin": "zhì dàn",
-              "meaning": "到早晨",
+              "meaning": "直到天亮。",
               "type": "实词"
             },
             {
               "word": "不觉",
               "pinyin": "bù jué",
-              "meaning": "没有觉醒",
+              "meaning": "此处'觉'读 jué，义为睡醒。不觉，没有醒来。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "后世",
               "pinyin": "hòu shì",
-              "meaning": "后代",
+              "meaning": "后裔，后代。",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
+              "meaning": "副词，一定。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因为",
+              "meaning": "介词，因为，由于。",
               "type": "虚词"
             },
             {
               "word": "味",
               "pinyin": "wèi",
-              "meaning": "味道",
+              "meaning": "美味，饮食。",
               "type": "实词"
             },
             {
               "word": "亡",
               "pinyin": "wáng",
-              "meaning": "灭亡",
+              "meaning": "使动用法，使…灭亡。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "国家。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，与前面的动词性短语构成名词性结构，表示'…的情况'。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "晋文公得南之威，三日不听朝，遂推南之威而远之，曰：“后世必有以色亡其国者。”",
-          "translation": "晋文公得到南之威，三天不上朝，于是推开南之威而疏远她，说：‘后世必定有因为美色而亡国的人。’",
+          "translation": "晋文公得到南之威，三天不上朝，于是推开南之威并疏远她，说：“后世一定会有因为女色而亡国的人。”",
           "words": [
             {
               "word": "晋文公",
-              "pinyin": "Jìn Wén Gōng",
-              "meaning": "春秋五霸之一",
+              "pinyin": "jìn wén gōng",
+              "meaning": "春秋五霸之一，晋国国君（前636-前628在位），名重耳。",
               "type": "人名"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "获得",
+              "meaning": "得到，获得。",
               "type": "实词"
             },
             {
               "word": "南之威",
-              "pinyin": "Nán Zhī Wēi",
-              "meaning": "美女名",
+              "pinyin": "nán zhī wēi",
+              "meaning": "春秋时美女名，亦称南威。",
               "type": "人名"
             },
             {
               "word": "三日",
               "pinyin": "sān rì",
-              "meaning": "三天",
+              "meaning": "三天。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定副词",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "听朝",
               "pinyin": "tīng cháo",
-              "meaning": "处理朝政",
+              "meaning": "此处'朝'读 cháo，义为朝廷。听朝，帝王主持朝会，处理政务。",
               "type": "实词"
             },
             {
               "word": "遂",
               "pinyin": "suì",
-              "meaning": "于是",
+              "meaning": "副词，于是，就。",
               "type": "虚词"
             },
             {
               "word": "推",
               "pinyin": "tuī",
-              "meaning": "推开",
+              "meaning": "推开，推却。",
               "type": "实词"
             },
             {
               "word": "南之威",
-              "pinyin": "Nán Zhī Wēi",
-              "meaning": "美女名",
+              "pinyin": "nán zhī wēi",
+              "meaning": "即南威，美女名。",
               "type": "人名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表承接关系。",
               "type": "虚词"
             },
             {
               "word": "远之",
               "pinyin": "yuǎn zhī",
-              "meaning": "疏远她",
+              "meaning": "疏远她（南之威）。",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "后世",
               "pinyin": "hòu shì",
-              "meaning": "后代",
+              "meaning": "后裔，后代。",
               "type": "实词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "必定",
+              "meaning": "副词，一定。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "动词，存在。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "因为",
+              "meaning": "介词，因为，由于。",
               "type": "虚词"
             },
             {
               "word": "色",
               "pinyin": "sè",
-              "meaning": "美色",
+              "meaning": "美色，女色。",
               "type": "实词"
             },
             {
               "word": "亡",
               "pinyin": "wáng",
-              "meaning": "灭亡",
+              "meaning": "使动用法，使…灭亡。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "国家。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的人",
+              "meaning": "助词，与前面的动词性短语构成名词性结构，表示'…的情况'。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "楚王登强台而望崩山，左江而右湖，以临彷徨，其乐忘死，遂盟强台而弗登，曰：‘后世必有以高台、陂池亡其国者。’",
-          "translation": "楚王登上强台眺望崩山，左边是江，右边是湖，面对彷徨之景，快乐得忘记死亡，于是发誓不再登强台，说：‘后世必定有因为高台、池塘而亡国的人。’",
+          "translation": "楚王登上强台眺望崩山，左边是江，右边是湖，流连忘返，快乐得忘了生死，于是发誓不再登强台，说：‘后世一定会有因为高台、池沼而亡国的人。’",
           "words": [
             {
               "word": "楚王",
-              "pinyin": "Chǔ Wáng",
-              "meaning": "楚国君主",
+              "pinyin": "chǔ wáng",
+              "meaning": "指楚庄王，春秋五霸之一，此为其登台览胜之事。",
               "type": "人名"
             },
             {
               "word": "登",
               "pinyin": "dēng",
-              "meaning": "登上",
+              "meaning": "登上，升上。",
               "type": "实词"
             },
             {
               "word": "强台",
-              "pinyin": "Qiáng Tái",
-              "meaning": "台名",
+              "pinyin": "qiáng tái",
+              "meaning": "楚国台名，具体位置不详，为楚庄王游览之地。",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接‘登强台’与‘望崩山’两个动作，表承接。",
               "type": "虚词"
             },
             {
               "word": "望",
               "pinyin": "wàng",
-              "meaning": "眺望",
+              "meaning": "远望，眺望。",
               "type": "实词"
             },
             {
               "word": "崩山",
-              "pinyin": "Bēng Shān",
-              "meaning": "山名",
+              "pinyin": "bēng shān",
+              "meaning": "山名，或指荆山，楚地名山。",
               "type": "地名"
-            },
-            {
-              "word": "左江",
-              "pinyin": "zuǒ jiāng",
-              "meaning": "左边的江",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
-              "type": "虚词"
-            },
-            {
-              "word": "右湖",
-              "pinyin": "yòu hú",
-              "meaning": "右边的湖",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
-            },
-            {
-              "word": "临",
-              "pinyin": "lín",
-              "meaning": "面对",
-              "type": "实词"
-            },
-            {
-              "word": "彷徨",
-              "pinyin": "páng huáng",
-              "meaning": "彷徨观",
-              "type": "地名"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "他的",
-              "type": "虚词"
-            },
-            {
-              "word": "乐",
-              "pinyin": "lè",
-              "meaning": "快乐",
-              "type": "实词"
-            },
-            {
-              "word": "忘死",
-              "pinyin": "wàng sǐ",
-              "meaning": "忘记死亡",
-              "type": "实词"
-            },
-            {
-              "word": "遂",
-              "pinyin": "suì",
-              "meaning": "于是",
-              "type": "虚词"
-            },
-            {
-              "word": "盟",
-              "pinyin": "méng",
-              "meaning": "盟誓",
-              "type": "实词"
-            },
-            {
-              "word": "强台",
-              "pinyin": "Qiáng Tái",
-              "meaning": "台名",
-              "type": "地名"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
-              "type": "虚词"
-            },
-            {
-              "word": "弗",
-              "pinyin": "fú",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "登",
-              "pinyin": "dēng",
-              "meaning": "登上",
-              "type": "实词"
-            },
-            {
-              "word": "曰",
-              "pinyin": "yuē",
-              "meaning": "说",
-              "type": "实词"
-            },
-            {
-              "word": "后世",
-              "pinyin": "hòu shì",
-              "meaning": "后代",
-              "type": "实词"
-            },
-            {
-              "word": "必",
-              "pinyin": "bì",
-              "meaning": "必定",
-              "type": "虚词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "存在",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "因为",
-              "type": "虚词"
-            },
-            {
-              "word": "高台",
-              "pinyin": "gāo tái",
-              "meaning": "高台",
-              "type": "实词"
-            },
-            {
-              "word": "陂池",
-              "pinyin": "bēi chí",
-              "meaning": "池塘",
-              "type": "实词"
-            },
-            {
-              "word": "亡",
-              "pinyin": "wáng",
-              "meaning": "灭亡",
-              "type": "实词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "他的",
-              "type": "虚词"
-            },
-            {
-              "word": "国",
-              "pinyin": "guó",
-              "meaning": "国家",
-              "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "的人",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "今主君之尊，仪狄之酒也；主君之味，易牙之调也；左白台而右闾须，南威之美也；前夹林而后兰台，强台之乐也。",
-          "translation": "现在主君的酒杯，是仪狄的酒；主君的美味，是易牙的调味；左边有白台，右边有闾须，是南之威的美貌；前面有夹林，后面有兰台，是强台的快乐。",
-          "words": [
-            {
-              "word": "今",
-              "pinyin": "jīn",
-              "meaning": "现在",
-              "type": "虚词"
-            },
-            {
-              "word": "主君",
-              "pinyin": "zhǔ jūn",
-              "meaning": "君主",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "尊",
-              "pinyin": "zūn",
-              "meaning": "尊贵",
-              "type": "实词"
-            },
-            {
-              "word": "仪狄",
-              "pinyin": "Yí Dí",
-              "meaning": "造酒者",
-              "type": "人名"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "酒",
-              "pinyin": "jiǔ",
-              "meaning": "酒",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            },
-            {
-              "word": "主君",
-              "pinyin": "zhǔ jūn",
-              "meaning": "君主",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "味",
-              "pinyin": "wèi",
-              "meaning": "味道",
-              "type": "实词"
-            },
-            {
-              "word": "易牙",
-              "pinyin": "Yì Yá",
-              "meaning": "厨师",
-              "type": "人名"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "调",
-              "pinyin": "tiáo",
-              "meaning": "调和",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
             },
             {
               "word": "左",
               "pinyin": "zuǒ",
-              "meaning": "左边",
+              "meaning": "方位名词作动词，左边有。",
               "type": "实词"
             },
             {
-              "word": "白台",
-              "pinyin": "Bái Tái",
-              "meaning": "台名",
+              "word": "江",
+              "pinyin": "jiāng",
+              "meaning": "长江。",
               "type": "地名"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，连接‘左江’与‘右湖’，表并列。",
               "type": "虚词"
             },
             {
               "word": "右",
               "pinyin": "yòu",
-              "meaning": "右边",
+              "meaning": "方位名词作动词，右边有。",
               "type": "实词"
             },
             {
-              "word": "闾须",
-              "pinyin": "Lǘ Xū",
-              "meaning": "美女名",
-              "type": "人名"
-            },
-            {
-              "word": "南威",
-              "pinyin": "Nán Wēi",
-              "meaning": "美女名",
-              "type": "人名"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "美",
-              "pinyin": "měi",
-              "meaning": "美丽",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            },
-            {
-              "word": "前",
-              "pinyin": "qián",
-              "meaning": "前面",
-              "type": "实词"
-            },
-            {
-              "word": "夹林",
-              "pinyin": "Jiā Lín",
-              "meaning": "林名",
+              "word": "湖",
+              "pinyin": "hú",
+              "meaning": "云梦泽等湖泊。",
               "type": "地名"
             },
             {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "连词，表目的，可译为‘来’。",
               "type": "虚词"
             },
             {
-              "word": "后",
-              "pinyin": "hòu",
-              "meaning": "后面",
+              "word": "临",
+              "pinyin": "lín",
+              "meaning": "面对，临近。",
               "type": "实词"
             },
             {
-              "word": "兰台",
-              "pinyin": "Lán Tái",
-              "meaning": "台名",
-              "type": "地名"
-            },
-            {
-              "word": "强台",
-              "pinyin": "Qiáng Tái",
-              "meaning": "台名",
-              "type": "地名"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "乐",
-              "pinyin": "lè",
-              "meaning": "快乐",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "有一于此，足以亡其国，今主君兼此四者，可无戒与？",
-          "translation": "这四样中有一样，就足以亡国，现在主君兼有这四样，可以不警惕吗？",
-          "words": [
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "存在/拥有",
-              "type": "实词"
-            },
-            {
-              "word": "一",
-              "pinyin": "yī",
-              "meaning": "一个",
-              "type": "实词"
-            },
-            {
-              "word": "于此",
-              "pinyin": "yú cǐ",
-              "meaning": "在这里",
-              "type": "虚词"
-            },
-            {
-              "word": "足以",
-              "pinyin": "zú yǐ",
-              "meaning": "足够用来",
-              "type": "虚词"
-            },
-            {
-              "word": "亡",
-              "pinyin": "wáng",
-              "meaning": "灭亡",
+              "word": "彷徨",
+              "pinyin": "páng huáng",
+              "meaning": "古义：逍遥、徘徊（非今义‘犹豫不决’）。此处指在山水间自由漫步。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，指代楚王。",
+              "type": "虚词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "此处读 lè，义为快乐。",
+              "type": "实词"
+            },
+            {
+              "word": "忘死",
+              "pinyin": "wàng sǐ",
+              "meaning": "忘记死亡，形容快乐到极致，置生死于度外。",
+              "type": "实词"
+            },
+            {
+              "word": "遂",
+              "pinyin": "suì",
+              "meaning": "连词，于是，就。",
+              "type": "虚词"
+            },
+            {
+              "word": "盟",
+              "pinyin": "méng",
+              "meaning": "动词，发誓，立下盟约。",
+              "type": "实词"
+            },
+            {
+              "word": "强台",
+              "pinyin": "qiáng tái",
+              "meaning": "楚国台名，此处指代在强台的享乐。",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接‘盟强台’与‘弗登’，表顺承。",
+              "type": "虚词"
+            },
+            {
+              "word": "弗登",
+              "pinyin": "fú dēng",
+              "meaning": "不再登上。弗，不。",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说。",
+              "type": "实词"
+            },
+            {
+              "word": "后世",
+              "pinyin": "hòu shì",
+              "meaning": "后代，后世之人。",
+              "type": "实词"
+            },
+            {
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "一定。",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "有……的人。",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，因为，由于。",
+              "type": "虚词"
+            },
+            {
+              "word": "高台",
+              "pinyin": "gāo tái",
+              "meaning": "高大的台榭。",
+              "type": "实词"
+            },
+            {
+              "word": "陂池",
+              "pinyin": "bēi chí",
+              "meaning": "池塘，此处泛指园林池沼。",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "使……灭亡。",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "国家。",
               "type": "实词"
             },
             {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "代词，与前面的动词短语构成‘者’字结构，指代‘……的国家’。",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "今主君之尊，仪狄之酒也；主君之味，易牙之调也；左白台而右闾须，南威之美也；前夹林而后兰台，强台之乐也。有一于此，足以亡其国，今主君兼此四者，可无戒与？”",
+          "translation": "如今主君您的酒，就像仪狄的酒；您的美味，就像易牙的调味；左边有白台，右边有闾须，就像南之威的美貌；前面是夹林，后面是兰台，就像强台的乐趣。这四样中有一样，就足以亡国，现在主君您同时拥有这四样，能不警惕吗？",
+          "words": [
+            {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "现在。",
+              "type": "实词"
+            },
+            {
+              "word": "主君",
+              "pinyin": "zhǔ jūn",
+              "meaning": "对梁王魏婴的尊称。",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，定语标志，相当于‘的’。",
+              "type": "虚词"
+            },
+            {
+              "word": "尊",
+              "pinyin": "zūn",
+              "meaning": "古义：酒器（非今义‘尊敬’）。此处指代杯中的美酒。",
+              "type": "实词"
+            },
+            {
+              "word": "仪狄",
+              "pinyin": "yí dí",
+              "meaning": "夏禹时的酿酒师，传说为帝女之令（官）。",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，定语标志，相当于‘的’。",
+              "type": "虚词"
+            },
+            {
+              "word": "酒",
+              "pinyin": "jiǔ",
+              "meaning": "美酒。",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             },
             {
               "word": "主君",
               "pinyin": "zhǔ jūn",
-              "meaning": "君主",
+              "meaning": "对梁王魏婴的尊称。",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，定语标志，相当于‘的’。",
+              "type": "虚词"
+            },
+            {
+              "word": "味",
+              "pinyin": "wèi",
+              "meaning": "食物的滋味。",
               "type": "实词"
+            },
+            {
+              "word": "易牙",
+              "pinyin": "yì yá",
+              "meaning": "春秋时齐桓公宠幸的厨师，善于调味。",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，定语标志，相当于‘的’。",
+              "type": "虚词"
+            },
+            {
+              "word": "调",
+              "pinyin": "tiáo",
+              "meaning": "调和，烹饪。",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定。",
+              "type": "虚词"
+            },
+            {
+              "word": "左",
+              "pinyin": "zuǒ",
+              "meaning": "方位名词作动词，左边有。",
+              "type": "实词"
+            },
+            {
+              "word": "白台",
+              "pinyin": "bái tái",
+              "meaning": "美女名。",
+              "type": "人名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接‘左白台’与‘右闾须’，表并列。",
+              "type": "虚词"
+            },
+            {
+              "word": "右",
+              "pinyin": "yòu",
+              "meaning": "方位名词作动词，右边有。",
+              "type": "实词"
+            },
+            {
+              "word": "闾须",
+              "pinyin": "lǘ xū",
+              "meaning": "美女名。",
+              "type": "人名"
+            },
+            {
+              "word": "南威",
+              "pinyin": "nán wēi",
+              "meaning": "即南之威，古代美女名，晋文公所得。",
+              "type": "人名"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，定语标志，相当于‘的’。",
+              "type": "虚词"
+            },
+            {
+              "word": "美",
+              "pinyin": "měi",
+              "meaning": "美貌。",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定。",
+              "type": "虚词"
+            },
+            {
+              "word": "前",
+              "pinyin": "qián",
+              "meaning": "方位名词作动词，前面有。",
+              "type": "实词"
+            },
+            {
+              "word": "夹林",
+              "pinyin": "jiā lín",
+              "meaning": "苑囿名，楚国的游乐之地。",
+              "type": "地名"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接‘前夹林’与‘后兰台’，表并列。",
+              "type": "虚词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "方位名词作动词，后面有。",
+              "type": "实词"
+            },
+            {
+              "word": "兰台",
+              "pinyin": "lán tái",
+              "meaning": "台名，楚国的宫苑建筑。",
+              "type": "地名"
+            },
+            {
+              "word": "强台",
+              "pinyin": "qiáng tái",
+              "meaning": "此处指代楚庄王在强台的快乐经历。",
+              "type": "典故"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，定语标志，相当于‘的’。",
+              "type": "虚词"
+            },
+            {
+              "word": "乐",
+              "pinyin": "lè",
+              "meaning": "此处读 lè，义为快乐。",
+              "type": "实词"
+            },
+            {
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表判断与肯定。",
+              "type": "虚词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "拥有。",
+              "type": "实词"
+            },
+            {
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "一样，一种。",
+              "type": "实词"
+            },
+            {
+              "word": "于此",
+              "pinyin": "yú cǐ",
+              "meaning": "在这里，指在酒、味、色、乐这四种享乐之中。",
+              "type": "虚词"
+            },
+            {
+              "word": "足以",
+              "pinyin": "zú yǐ",
+              "meaning": "足够用来。",
+              "type": "实词"
+            },
+            {
+              "word": "亡",
+              "pinyin": "wáng",
+              "meaning": "使……灭亡。",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的。",
+              "type": "虚词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "国家。",
+              "type": "实词"
+            },
+            {
+              "word": "今",
+              "pinyin": "jīn",
+              "meaning": "现在。",
+              "type": "实词"
+            },
+            {
+              "word": "主君",
+              "pinyin": "zhǔ jūn",
+              "meaning": "对梁王魏婴的尊称。",
+              "type": "人名"
             },
             {
               "word": "兼",
               "pinyin": "jiān",
-              "meaning": "同时具有",
+              "meaning": "同时具有。",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "指示代词，这。",
               "type": "虚词"
             },
             {
               "word": "四者",
               "pinyin": "sì zhě",
-              "meaning": "四样东西",
+              "meaning": "指上文所述的酒、味、色、乐四方面的享乐。",
               "type": "实词"
             },
             {
-              "word": "可无",
-              "pinyin": "kě wú",
-              "meaning": "难道不",
-              "type": "虚词"
+              "word": "可",
+              "pinyin": "kě",
+              "meaning": "能，可以。",
+              "type": "实词"
+            },
+            {
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "不。",
+              "type": "实词"
             },
             {
               "word": "戒",
               "pinyin": "jiè",
-              "meaning": "警戒",
+              "meaning": "警戒，戒备。",
               "type": "实词"
             },
             {
               "word": "与",
               "pinyin": "yú",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示疑问，相当于‘吗’。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "梁王称善相属。",
-          "translation": "梁王连连称赞说好。",
+          "translation": "梁王连声称好。",
           "words": [
             {
               "word": "梁王",
               "pinyin": "liáng wáng",
-              "meaning": "梁国君王",
+              "meaning": "战国时期魏国（梁国）国君魏婴，在范台宴请诸侯",
               "type": "人名"
             },
             {
               "word": "称",
               "pinyin": "chēng",
-              "meaning": "称赞",
+              "meaning": "称赞、赞扬",
               "type": "实词"
             },
             {
               "word": "善",
               "pinyin": "shàn",
-              "meaning": "善言/好",
+              "meaning": "善言、好的建议",
               "type": "实词"
             },
             {
               "word": "相属",
               "pinyin": "xiāng zhǔ",
-              "meaning": "接连不断",
-              "type": "虚词"
+              "meaning": "此处'属'读 zhǔ，义为连接；'相属'整体表示接连、连续",
+              "type": "实词"
             }
           ]
         }

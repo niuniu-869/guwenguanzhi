@@ -1,815 +1,816 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "043_王孙圉论楚宝",
   "title": "王孙圉论楚宝",
   "author": {
     "id": "pre_qin_左丘明",
     "name": "左丘明",
     "dynasty": "pre_qin",
-    "bio": "左丘明，春秋时期鲁国史学家，生卒年不详，约与孔子同时代。相传为《左传》和《国语》的作者，是中国古代重要的历史学家和文学家。他字丘明，后世尊称为“左丘明”，通过编纂史书，详细记录了春秋时期的历史事件、人物言论和思想文化，对后世史学和文学的发展有深远影响。左丘明的作品以叙事生动、语言精炼著称，体现了先秦散文的雄辩风格和人文精神，为研究先秦历史提供了宝贵资料。"
+    "bio": "左丘明，春秋末期鲁国史官，生卒年不详，约与孔子同时。相传为《左传》和《国语》的作者或编纂者。《左传》是编年体史书，《国语》是国别体史书。左丘明在文学史上以历史散文著称，其作品叙事生动，议论精辟，对后世史传文学和散文发展有深远影响。"
   },
   "source": "国语",
   "dynasty": "pre_qin",
   "volume": 3,
-  "background": "《王孙圉论楚宝》出自《国语》，是先秦时期的历史散文，作者左丘明。文章背景设定在春秋时期，诸侯国之间外交活动频繁，常通过宴飨和对话展示国力与价值观。楚国大夫王孙圉出使晋国，晋定公设宴款待，晋国卿大夫赵简子在席间炫耀玉佩，并询问楚国的白珩是否尚在。王孙圉借此机会阐述楚国的治国理念，强调人才和实用资源才是国家真正的宝藏，而非珍宝玩物。这反映了当时社会从物质财富向人才和道德价值的转变，体现了先秦儒家和法家思想中对“宝”的重新定义，即以贤能之士和自然资源为治国之本。左丘明通过这一历史事件，记录了春秋时期的外交辞令和思想交锋，为后世提供了宝贵的历史和文学资料。",
-  "appreciation": "《王孙圉论楚宝》是一篇结构严谨、语言精炼的先秦散文，以对话形式展开，通过赵简子的提问和王孙圉的回答，形成鲜明对比，突出了文章的主题。文章开头以赵简子“鸣玉以相”的细节，引出对“宝”的讨论，王孙圉的回答层层递进，先否定白珩为宝，再列举观射父、左史倚相和云连徒洲等实例，分别从人才、文化和资源三个方面论证楚国的国之根本，最后总结国之六宝，逻辑清晰，说理透彻。语言上，文章采用简洁明快的文言文，句式整齐，富有节奏感，如“圣能制议百物，以辅相国家，则宝之”等排比句，增强了论述的力度和感染力。主题上，文章批判了追求虚华物质的风气，倡导以人才和实用资源为治国核心，体现了先秦时期“尚贤”和“重实”的思想，对后世儒家和法家的治国理念有深远影响。此外，文章通过外交场合的对话，展现了春秋时期诸侯国之间的文化竞争和价值观碰撞，具有深刻的历史和现实意义。",
+  "background": "春秋时期，周王室衰微，诸侯争霸，楚国作为南方大国，与中原诸侯国如晋国有频繁外交往来。王孙圉聘于晋，是楚国外交活动的一部分，发生在楚晋争霸的背景下。左丘明作为鲁国史官，生活在春秋末期，依据史料或传闻撰写此文，旨在记录这一历史事件。写作动机在于通过王孙圉与赵简子的对话，展示楚国的治国理念，强调人才和资源的重要性，反对虚华之风，反映当时务实的政治思想。",
+  "appreciation": "本文出自《国语》，以对话体形式展开，结构清晰：先简短叙事引入宴会场景，后通过问答推进议论主体。王孙圉的回应层层递进，先否定白珩为宝，再列举楚国之宝包括贤臣观射父、左史倚相和云连徒洲的物产，最后总结国之宝的六种标准，使论述系统化。艺术特色上，语言简洁有力，如“未尝为宝”“何宝焉”等反问增强语气；逻辑严密，运用对比和例证，如将白珩与人才、资源对比，突出实用价值。思想内涵核心是强调国家真正的宝物是贤能、史官和自然资源，而非表面华丽的珍玩，体现了春秋时期重实轻华、重民轻物的政治价值观。在文学史上，作为先秦历史散文的篇章，展示了对话论辩的艺术，对后世论说文有借鉴意义。",
   "tags": [
-    "先秦散文",
-    "国语",
-    "治国理念"
+    "议论",
+    "政治",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "王孙圉聘于晋，定公飨之。赵简子鸣玉以相，问于王孙圉曰：“楚之白珩犹在乎？”对曰：“然。”简子曰：“其为宝也，几何矣？”曰：“未尝为宝。楚之所宝者，曰观射父，能作训辞，以行事于诸侯，使无以寡君为口实。又有左史倚相，能道训典，以叙百物，以朝夕献善败于寡君，使寡君无忘先王之业；又能上下说乎鬼神，顺道其欲恶，使神无有怨痛于楚国。又有薮曰云连徒洲，金、木、竹、箭之所生也，龟、珠、角、齿、皮、革、羽、毛，所以备赋，以戒不虞者也。",
-      "translation": "王孙圉到晋国聘问，晋定公设宴款待他。赵简子佩戴着鸣玉来辅佐礼仪，问王孙圉说：“楚国的白珩还在吗？”王孙圉回答说：“是的。”赵简子说：“它作为宝物，价值多少呢？”王孙圉说：“（白珩）不曾被当作宝物。楚国所宝贵的，是观射父，他能撰写外交辞令，用来在诸侯间行事，使他们无法拿我们国君作为话柄。还有左史倚相，他能讲述先王的典籍，用来叙述各种事物，早晚向国君进献善恶成败的教训，使国君不忘先王的功业；又能取悦于天地鬼神，顺应他们的好恶，使神灵对楚国没有怨恨。还有一个叫云连徒洲的沼泽地，是金、木、竹、箭等材料的产地，龟、珠、角、齿、皮、革、羽、毛等物品，是用来准备赋税，以防备意外事件的。",
+      "translation": "王孙圉出使晋国，晋定公设宴款待他。赵简子佩戴着鸣玉辅助礼仪，问王孙圉说：“楚国的白珩还在吗？”王孙圉回答：“是的。”赵简子问：“它作为宝物，价值多少？”王孙圉说：“白珩不曾被当作宝物。楚国所珍视的，是观射父，他能撰写外交辞令，在诸侯间行事，使他们无法拿我们国君作为话柄。还有左史倚相，他能讲述典籍，叙述各种事物，从早到晚向国君进献善恶成败的教训，使国君不忘先王的功业；又能取悦鬼神，顺应他们的好恶，使神灵对楚国没有怨恨。此外，还有叫云连徒洲的沼泽，是金、木、竹、箭等材料生长的地方，龟、珠、角、齿、皮、革、羽、毛等物，用来储备军赋，以防备意外。",
       "sentences": [
         {
           "original": "王孙圉聘于晋，定公飨之。",
-          "translation": "王孙圉到晋国聘问，晋定公设宴款待他。",
+          "translation": "王孙圉出使晋国，晋定公设宴款待他。",
           "words": [
             {
               "word": "王孙圉",
               "pinyin": "wáng sūn yǔ",
-              "meaning": "楚国大夫",
+              "meaning": "春秋时期楚国大夫，本文中出使晋国的使者。",
               "type": "人名"
             },
             {
               "word": "聘",
               "pinyin": "pìn",
-              "meaning": "访问",
+              "meaning": "聘问，指诸侯之间派使节访问。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，引进动作的处所，相当于'到'。",
               "type": "虚词"
             },
             {
               "word": "晋",
               "pinyin": "jìn",
-              "meaning": "晋国",
+              "meaning": "春秋时期诸侯国名，在今山西一带，本文中为晋国。",
               "type": "地名"
             },
             {
               "word": "定公",
               "pinyin": "dìng gōng",
-              "meaning": "晋定公",
+              "meaning": "春秋时期晋国国君，本文中设宴款待王孙圉。",
               "type": "人名"
             },
             {
               "word": "飨",
               "pinyin": "xiǎng",
-              "meaning": "宴请",
+              "meaning": "设宴款待。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代前文的王孙圉。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "赵简子鸣玉以相，问于王孙圉曰：“楚之白珩犹在乎？”",
-          "translation": "赵简子佩戴着鸣玉来辅佐礼仪，问王孙圉说：“楚国的白珩还在吗？”",
+          "translation": "赵简子佩戴着鸣玉辅助礼仪，问王孙圉说：“楚国的白珩还在吗？”",
           "words": [
             {
               "word": "赵简子",
               "pinyin": "zhào jiǎn zǐ",
-              "meaning": "晋国卿大夫",
+              "meaning": "春秋时期晋国卿大夫，本文中在宴会上鸣玉并提问。",
               "type": "人名"
             },
             {
-              "word": "鸣玉",
-              "pinyin": "míng yù",
-              "meaning": "玉佩鸣响",
+              "word": "鸣",
+              "pinyin": "míng",
+              "meaning": "使...发出响声，此处指使玉佩鸣响。",
+              "type": "实词"
+            },
+            {
+              "word": "玉",
+              "pinyin": "yù",
+              "meaning": "玉佩，古代贵族佩戴的玉器。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示方式，连接'鸣玉'和'相'，相当于'来'。",
               "type": "虚词"
             },
             {
               "word": "相",
               "pinyin": "xiàng",
-              "meaning": "辅助",
+              "meaning": "此处读 xiàng，义为相礼、辅助行礼。",
               "type": "实词"
             },
             {
               "word": "问",
               "pinyin": "wèn",
-              "meaning": "询问",
+              "meaning": "询问。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "向",
+              "meaning": "介词，引进动作的对象，相当于'向'。",
               "type": "虚词"
             },
             {
               "word": "王孙圉",
               "pinyin": "wáng sūn yǔ",
-              "meaning": "楚国大夫",
+              "meaning": "春秋时期楚国大夫，本文中出使晋国的使者。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "楚",
               "pinyin": "chǔ",
-              "meaning": "楚国",
+              "meaning": "春秋时期诸侯国名，在今湖北一带，本文中为楚国。",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，表示领属关系，连接'楚'和'白珩'，相当于'的'。",
               "type": "虚词"
             },
             {
               "word": "白珩",
               "pinyin": "bái héng",
-              "meaning": "白色玉佩",
+              "meaning": "古代佩玉上的横玉，一种玉器，本文中为楚国宝物。",
               "type": "实词"
             },
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "还",
+              "meaning": "副词，表示状态持续，相当于'还'。",
               "type": "虚词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "存在",
+              "meaning": "存在。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问，相当于'吗'。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "对曰：“然。”",
-          "translation": "王孙圉回答说：“是的。”",
+          "translation": "王孙圉回答：“是的。”",
           "words": [
             {
               "word": "对",
               "pinyin": "duì",
-              "meaning": "回答",
+              "meaning": "动词，回答、应答",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "是的",
+              "meaning": "形容词，是的、对的，表示肯定应答",
               "type": "实词"
             }
           ]
         },
         {
           "original": "简子曰：“其为宝也，几何矣？”",
-          "translation": "赵简子说：“它作为宝物，价值多少呢？”",
+          "translation": "赵简子问：“它作为宝物，价值多少？”",
           "words": [
             {
               "word": "简子",
-              "pinyin": "Jiǎn zǐ",
-              "meaning": "赵简子",
+              "pinyin": "jiǎn zǐ",
+              "meaning": "春秋时期晋国正卿，赵文子之孙，名鞅，谥号简",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "它",
-              "type": "实词"
+              "meaning": "代词，指代上文提到的楚国白珩",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "此处读 wéi，动词，作为、当作",
               "type": "实词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "宝物",
+              "meaning": "名词，宝物、珍宝",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表停顿",
+              "meaning": "句中语气词，表停顿，以舒缓语气",
               "type": "虚词"
             },
             {
               "word": "几何",
               "pinyin": "jǐ hé",
-              "meaning": "多少",
+              "meaning": "古义：多少（询问数量或价值）（非今义数学分支‘几何学’）",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "表疑问",
+              "meaning": "句末语气词，与疑问词‘几何’连用，加强疑问语气",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "曰：“未尝为宝。",
-          "translation": "王孙圉说：“（白珩）不曾被当作宝物。",
+          "original": "曰：“未尝为宝。楚之所宝者，曰观射父，能作训辞，以行事于诸侯，使无以寡君为口实。又有左史倚相，能道训典，以叙百物，以朝夕献善败于寡君，使寡君无忘先王之业；又能上下说乎鬼神，顺道其欲恶，使神无有怨痛于楚国。又有薮曰云连徒洲，金、木、竹、箭之所生也，龟、珠、角、齿、皮、革、羽、毛，所以备赋，以戒不虞者也。”",
+          "translation": "王孙圉说：“白珩不曾被当作宝物。楚国所珍视的，是观射父，他能撰写外交辞令，在诸侯间行事，使他们无法拿我们国君作为话柄。还有左史倚相，他能讲述典籍，叙述各种事物，从早到晚向国君进献善恶成败的教训，使国君不忘先王的功业；又能取悦鬼神，顺应他们的好恶，使神灵对楚国没有怨恨。此外，还有叫云连徒洲的沼泽，是金、木、竹、箭等材料生长的地方，龟、珠、角、齿、皮、革、羽、毛等物，用来储备军赋，以防备意外。”",
           "words": [
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "未尝",
               "pinyin": "wèi cháng",
-              "meaning": "不曾",
-              "type": "虚词"
+              "meaning": "副词性短语，不曾",
+              "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "动词，作为",
               "type": "实词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "宝物",
+              "meaning": "名词，宝物",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "楚之所宝者，曰观射父，能作训辞，以行事于诸侯，使无以寡君为口实。",
-          "translation": "楚国所宝贵的，是观射父，他能撰写外交辞令，用来在诸侯间行事，使他们无法拿我们国君作为话柄。",
-          "words": [
+            },
             {
               "word": "楚",
-              "pinyin": "Chǔ",
-              "meaning": "楚国",
+              "pinyin": "chǔ",
+              "meaning": "春秋时期诸侯国，在今湖北、湖南一带",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接'楚'和'所宝者'",
               "type": "虚词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "所",
+              "meaning": "助词，与'宝'组成'所宝'结构，表示'所宝贵的东西'",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "珍视",
+              "meaning": "动词，宝贵、珍视",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的东西",
+              "meaning": "助词，与'所宝'结合，表示'所宝贵的东西'",
               "type": "虚词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "叫作",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "观射父",
-              "pinyin": "Guàn yì fù",
-              "meaning": "人名",
+              "pinyin": "guàn yì fù",
+              "meaning": "春秋时期楚国大夫，以善于辞令著称",
               "type": "人名"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "能愿动词，能够",
               "type": "实词"
             },
             {
               "word": "作",
               "pinyin": "zuò",
-              "meaning": "创作",
+              "meaning": "动词，创作、撰写",
               "type": "实词"
             },
             {
               "word": "训辞",
               "pinyin": "xùn cí",
-              "meaning": "训辞",
+              "meaning": "名词，教导性的言辞",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
-              "word": "行事",
-              "pinyin": "xíng shì",
-              "meaning": "行事",
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "动词，进行、处理",
+              "type": "实词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "名词，事务、事情",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出地点，相当于'在'",
               "type": "虚词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
+              "meaning": "名词，指各诸侯国",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让、使得",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "不",
+              "meaning": "副词，表示禁止，不要",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "把",
+              "meaning": "介词，表示处置，相当于'把'",
               "type": "虚词"
             },
             {
               "word": "寡君",
               "pinyin": "guǎ jūn",
-              "meaning": "我国君主",
+              "meaning": "名词，谦称，指自己的国君",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "作为",
+              "meaning": "动词，作为",
               "type": "实词"
             },
             {
               "word": "口实",
               "pinyin": "kǒu shí",
-              "meaning": "话柄",
+              "meaning": "名词，话柄、借口",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "又有左史倚相，能道训典，以叙百物，以朝夕献善败于寡君，使寡君无忘先王之业；又能上下说乎鬼神，顺道其欲恶，使神无有怨痛于楚国。",
-          "translation": "还有左史倚相，他能讲述先王的典籍，用来叙述各种事物，早晚向国君进献善恶成败的教训，使国君不忘先王的功业；又能取悦于天地鬼神，顺应他们的好恶，使神灵对楚国没有怨恨。",
-          "words": [
+            },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "再",
+              "meaning": "副词，表示追加，又",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "拥有",
+              "meaning": "动词，有",
               "type": "实词"
             },
             {
               "word": "左史",
               "pinyin": "zuǒ shǐ",
-              "meaning": "官职名",
+              "meaning": "古代官职，负责记事和典籍",
               "type": "官职"
             },
             {
               "word": "倚相",
               "pinyin": "yǐ xiàng",
-              "meaning": "人名",
+              "meaning": "春秋时期楚国左史，博学多才",
               "type": "人名"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能愿动词，能够",
+              "type": "实词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "讲述",
+              "meaning": "动词，讲述、遵循",
               "type": "实词"
             },
             {
               "word": "训典",
               "pinyin": "xùn diǎn",
-              "meaning": "训导典籍",
+              "meaning": "名词，先王的训导和典籍",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "叙",
               "pinyin": "xù",
-              "meaning": "叙述",
+              "meaning": "动词，叙述、安排",
               "type": "实词"
             },
             {
               "word": "百物",
               "pinyin": "bǎi wù",
-              "meaning": "万物",
+              "meaning": "名词，各种事物",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "朝夕",
               "pinyin": "zhāo xī",
-              "meaning": "早晚",
+              "meaning": "名词，早晚，指经常",
               "type": "实词"
             },
             {
               "word": "献",
               "pinyin": "xiàn",
-              "meaning": "进献",
+              "meaning": "动词，进献、呈献",
               "type": "实词"
             },
             {
               "word": "善败",
               "pinyin": "shàn bài",
-              "meaning": "成败",
+              "meaning": "名词，善恶与成败",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "给",
+              "meaning": "介词，引出对象，相当于'给'",
               "type": "虚词"
             },
             {
               "word": "寡君",
               "pinyin": "guǎ jūn",
-              "meaning": "我国君主",
+              "meaning": "名词，谦称，指自己的国君",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让、使得",
               "type": "实词"
             },
             {
               "word": "寡君",
               "pinyin": "guǎ jūn",
-              "meaning": "我国君主",
+              "meaning": "名词，谦称，指自己的国君",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "不要",
+              "meaning": "副词，表示禁止，不要",
               "type": "虚词"
             },
             {
               "word": "忘",
               "pinyin": "wàng",
-              "meaning": "忘记",
+              "meaning": "动词，忘记",
               "type": "实词"
             },
             {
               "word": "先王",
               "pinyin": "xiān wáng",
-              "meaning": "先代君王",
+              "meaning": "名词，指楚国的先代君王",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "业",
               "pinyin": "yè",
-              "meaning": "事业",
+              "meaning": "名词，事业、功业",
               "type": "实词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示追加，又",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
-              "type": "虚词"
+              "meaning": "能愿动词，能够",
+              "type": "实词"
             },
             {
               "word": "上下",
               "pinyin": "shàng xià",
-              "meaning": "天地神灵",
+              "meaning": "名词，指天地神灵",
               "type": "实词"
             },
             {
               "word": "说",
-              "pinyin": "yuè",
-              "meaning": "取悦",
+              "pinyin": "shuì",
+              "meaning": "此处读 shuì，义为取悦、劝说",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "于",
+              "meaning": "介词，引出对象，相当于'于'",
               "type": "虚词"
             },
             {
               "word": "鬼神",
               "pinyin": "guǐ shén",
-              "meaning": "鬼神",
+              "meaning": "名词，鬼神",
               "type": "实词"
             },
             {
-              "word": "顺道",
-              "pinyin": "shùn dào",
-              "meaning": "顺从引导",
+              "word": "顺",
+              "pinyin": "shùn",
+              "meaning": "动词，顺从",
+              "type": "实词"
+            },
+            {
+              "word": "道",
+              "pinyin": "dǎo",
+              "meaning": "通'导'，义为引导",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们的",
+              "meaning": "代词，指鬼神",
               "type": "虚词"
             },
             {
               "word": "欲恶",
               "pinyin": "yù wù",
-              "meaning": "好恶",
+              "meaning": "名词，喜好和厌恶",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让、使得",
               "type": "实词"
             },
             {
               "word": "神",
               "pinyin": "shén",
-              "meaning": "神灵",
+              "meaning": "名词，神灵",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "副词，表示否定，没有",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，有",
               "type": "实词"
             },
             {
               "word": "怨痛",
               "pinyin": "yuàn tòng",
-              "meaning": "怨恨",
+              "meaning": "名词，怨恨和痛苦",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对",
+              "meaning": "介词，引出对象，相当于'对'",
               "type": "虚词"
             },
             {
               "word": "楚国",
               "pinyin": "chǔ guó",
-              "meaning": "楚国",
+              "meaning": "春秋时期诸侯国，在今湖北、湖南一带",
               "type": "地名"
-            }
-          ]
-        },
-        {
-          "original": "又有薮曰云连徒洲，金、木、竹、箭之所生也，龟、珠、角、齿、皮、革、羽、毛，所以备赋，以戒不虞者也。”",
-          "translation": "还有一个叫云连徒洲的沼泽地，是金、木、竹、箭等材料的产地，龟、珠、角、齿、皮、革、羽、毛等物品，是用来准备赋税，以防备意外事件的。”",
-          "words": [
+            },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "再",
+              "meaning": "副词，表示追加，又",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，有",
               "type": "实词"
             },
             {
               "word": "薮",
               "pinyin": "sǒu",
-              "meaning": "湖泽",
+              "meaning": "名词，湖泽、沼泽",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "叫做",
+              "meaning": "动词，叫做",
               "type": "实词"
             },
             {
               "word": "云连徒洲",
               "pinyin": "yún lián tú zhōu",
-              "meaning": "地名",
+              "meaning": "楚国地名，一处湖泽",
               "type": "地名"
             },
             {
               "word": "金",
               "pinyin": "jīn",
-              "meaning": "金属",
+              "meaning": "名词，金属",
               "type": "实词"
             },
             {
               "word": "木",
               "pinyin": "mù",
-              "meaning": "木材",
+              "meaning": "名词，木材",
               "type": "实词"
             },
             {
               "word": "竹",
               "pinyin": "zhú",
-              "meaning": "竹子",
+              "meaning": "名词，竹子",
               "type": "实词"
             },
             {
               "word": "箭",
               "pinyin": "jiàn",
-              "meaning": "箭竹",
+              "meaning": "名词，箭竹，一种竹子",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "所",
+              "meaning": "助词，与'生'组成'所生'结构，表示'出产的地方'",
               "type": "虚词"
             },
             {
               "word": "生",
               "pinyin": "shēng",
-              "meaning": "出产",
+              "meaning": "动词，出产",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "也",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             },
             {
               "word": "龟",
               "pinyin": "guī",
-              "meaning": "龟甲",
+              "meaning": "名词，龟甲",
               "type": "实词"
             },
             {
               "word": "珠",
               "pinyin": "zhū",
-              "meaning": "珍珠",
+              "meaning": "名词，珍珠",
               "type": "实词"
             },
             {
               "word": "角",
               "pinyin": "jiǎo",
-              "meaning": "兽角",
+              "meaning": "名词，兽角",
               "type": "实词"
             },
             {
               "word": "齿",
               "pinyin": "chǐ",
-              "meaning": "象牙",
+              "meaning": "名词，象牙",
               "type": "实词"
             },
             {
               "word": "皮",
               "pinyin": "pí",
-              "meaning": "皮革",
+              "meaning": "名词，皮革",
               "type": "实词"
             },
             {
               "word": "革",
               "pinyin": "gé",
-              "meaning": "皮革",
+              "meaning": "名词，去毛的兽皮",
               "type": "实词"
             },
             {
               "word": "羽",
               "pinyin": "yǔ",
-              "meaning": "羽毛",
+              "meaning": "名词，羽毛",
               "type": "实词"
             },
             {
               "word": "毛",
               "pinyin": "máo",
-              "meaning": "毛发",
+              "meaning": "名词，兽毛",
               "type": "实词"
             },
             {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "所",
+              "word": "所以",
+              "pinyin": "suǒ yǐ",
+              "meaning": "固定结构，用来…的",
               "type": "虚词"
+            },
+            {
+              "word": "备",
+              "pinyin": "bèi",
+              "meaning": "动词，准备",
+              "type": "实词"
+            },
+            {
+              "word": "赋",
+              "pinyin": "fù",
+              "meaning": "名词，赋税或军赋",
+              "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
-            },
-            {
-              "word": "备赋",
-              "pinyin": "bèi fù",
-              "meaning": "准备赋税",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "戒",
               "pinyin": "jiè",
-              "meaning": "防备",
+              "meaning": "动词，戒备",
               "type": "实词"
             },
             {
               "word": "不虞",
               "pinyin": "bù yú",
-              "meaning": "意外",
+              "meaning": "名词，意外",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的",
+              "meaning": "助词，与'戒不虞'结合，表示'戒备意外的东西'",
               "type": "虚词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "也",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
@@ -818,220 +819,238 @@
     },
     {
       "original": "所以共币帛，以宾享于诸侯者也。若诸侯之好币具，而导之以训辞，有不虞之备，而皇神相之，寡君其可以免罪于诸侯，而国民保焉。此楚国之宝也。若夫白珩，先王之玩也，何宝焉？”",
-      "translation": "这些是用来供给币帛，以宾客之礼款待诸侯的。如果诸侯所喜好的币帛齐备了，并用善言来引导，有防备意外的准备，而天神加以辅助，那么寡君或许可以免于诸侯的责罪，国民也能得以保全。这就是楚国的宝物。至于白珩，那只是先王的玩物，怎么能算是宝物呢？",
+      "translation": "这些是用来供给币帛，以招待和享献给诸侯的。如果诸侯的友好币帛具备，并用训辞引导他们，有意外事件的准备，而大神辅助他们，我们的国君或许可以免于诸侯的罪责，而国家和人民得以保全。这就是楚国的宝物。至于白珩，只是先王的玩物，有什么可宝贵的呢？",
       "sentences": [
         {
           "original": "所以共币帛，以宾享于诸侯者也。",
-          "translation": "这些是用来供给币帛，以宾客之礼款待诸侯的。",
+          "translation": "这些是用来供给币帛，以招待和享献给诸侯的。",
           "words": [
             {
               "word": "所以",
               "pinyin": "suǒ yǐ",
-              "meaning": "用来",
+              "meaning": "固定结构，表示凭借或工具，用来…的（指凭借这些来做的）",
               "type": "虚词"
             },
             {
               "word": "共",
-              "pinyin": "gòng",
-              "meaning": "供给",
+              "pinyin": "gōng",
+              "meaning": "通'供'，义为供给、提供",
               "type": "实词"
             },
             {
               "word": "币帛",
               "pinyin": "bì bó",
-              "meaning": "礼物",
+              "meaning": "古义：祭祀或聘问时馈赠的礼物（非今义'货币'）",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
-              "word": "宾享",
-              "pinyin": "bīn xiǎng",
-              "meaning": "宾客享宴",
+              "word": "宾",
+              "pinyin": "bīn",
+              "meaning": "动词，以宾客之礼招待",
+              "type": "实词"
+            },
+            {
+              "word": "享",
+              "pinyin": "xiǎng",
+              "meaning": "动词，进献、贡献",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作对象，向",
               "type": "虚词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代中央政权所分封的各国国君的统称，负有服从王命、定期朝贡、提供军赋等义务",
+              "type": "官职"
             },
             {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "的（人/事）",
-              "type": "虚词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "表示判断",
+              "word": "者也",
+              "pinyin": "zhě yě",
+              "meaning": "语气词连用，'者'表提顿，'也'表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若诸侯之好币具，而导之以训辞，有不虞之备，而皇神相之，寡君其可以免罪于诸侯，而国民保焉。",
-          "translation": "如果诸侯所喜好的币帛齐备了，并用善言来引导，有防备意外的准备，而天神加以辅助，那么寡君或许可以免于诸侯的责罪，国民也能得以保全。",
+          "translation": "如果诸侯的友好币帛具备，并用训辞引导他们，有意外事件的准备，而大神辅助他们，我们的国君或许可以免于诸侯的罪责，而国家和人民得以保全。",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表假设，如果",
               "type": "虚词"
             },
             {
               "word": "诸侯",
               "pinyin": "zhū hóu",
-              "meaning": "诸侯",
-              "type": "实词"
+              "meaning": "古代中央政权所分封的各国国君的统称，负有服从王命、定期朝贡、提供军赋等义务",
+              "type": "官职"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构之间，取消句子独立性",
               "type": "虚词"
             },
             {
-              "word": "好币具",
-              "pinyin": "hǎo bì jù",
-              "meaning": "友好礼物具备",
+              "word": "好币",
+              "pinyin": "hǎo bì",
+              "meaning": "古义：友好的礼物（'币'指礼物，非今义'货币'）",
+              "type": "实词"
+            },
+            {
+              "word": "具",
+              "pinyin": "jù",
+              "meaning": "动词，准备、备办",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表承接，就",
               "type": "虚词"
             },
             {
               "word": "导",
               "pinyin": "dǎo",
-              "meaning": "引导",
+              "meaning": "动词，引导、开导",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他们",
+              "meaning": "代词，指代前来聘问的诸侯",
               "type": "虚词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，用",
               "type": "虚词"
             },
             {
               "word": "训辞",
               "pinyin": "xùn cí",
-              "meaning": "训导之辞",
+              "meaning": "教导之辞，合乎礼法的言辞",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，具备、预备",
               "type": "实词"
             },
             {
-              "word": "不虞之备",
-              "pinyin": "bù yú zhī bèi",
-              "meaning": "意外准备",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "而且",
-              "type": "虚词"
-            },
-            {
-              "word": "皇神",
-              "pinyin": "huáng shén",
-              "meaning": "大神",
-              "type": "实词"
-            },
-            {
-              "word": "相",
-              "pinyin": "xiàng",
-              "meaning": "辅助",
+              "word": "不虞",
+              "pinyin": "bù yú",
+              "meaning": "意料不到的事，意外",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他们",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
-              "word": "寡君",
-              "pinyin": "guǎ jūn",
-              "meaning": "我国君主",
-              "type": "实词"
-            },
-            {
-              "word": "其",
-              "pinyin": "qí",
-              "meaning": "大概",
-              "type": "虚词"
-            },
-            {
-              "word": "可以",
-              "pinyin": "kě yǐ",
-              "meaning": "可以",
-              "type": "虚词"
-            },
-            {
-              "word": "免罪",
-              "pinyin": "miǎn zuì",
-              "meaning": "免于罪责",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "从",
-              "type": "虚词"
-            },
-            {
-              "word": "诸侯",
-              "pinyin": "zhū hóu",
-              "meaning": "诸侯",
+              "word": "备",
+              "pinyin": "bèi",
+              "meaning": "名词，准备、防备",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表并列，而且",
+              "type": "虚词"
+            },
+            {
+              "word": "皇神",
+              "pinyin": "huáng shén",
+              "meaning": "天神，伟大的神灵",
+              "type": "实词"
+            },
+            {
+              "word": "相",
+              "pinyin": "xiàng",
+              "meaning": "此处读 xiàng，义为辅助、保佑",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代楚国或楚君",
+              "type": "虚词"
+            },
+            {
+              "word": "寡君",
+              "pinyin": "guǎ jūn",
+              "meaning": "对别国谦称本国国君",
+              "type": "实词"
+            },
+            {
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "语气词，表推测、委婉，大概、或许",
+              "type": "虚词"
+            },
+            {
+              "word": "可以",
+              "pinyin": "kě yǐ",
+              "meaning": "能愿动词，能够",
+              "type": "实词"
+            },
+            {
+              "word": "免罪",
+              "pinyin": "miǎn zuì",
+              "meaning": "避免获罪",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，引出对象，从",
+              "type": "虚词"
+            },
+            {
+              "word": "诸侯",
+              "pinyin": "zhū hóu",
+              "meaning": "古代中央政权所分封的各国国君的统称，负有服从王命、定期朝贡、提供军赋等义务",
+              "type": "官职"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表结果，从而",
               "type": "虚词"
             },
             {
               "word": "国民",
               "pinyin": "guó mín",
-              "meaning": "国家和人民",
+              "meaning": "国家的百姓",
               "type": "实词"
             },
             {
               "word": "保",
               "pinyin": "bǎo",
-              "meaning": "保全",
+              "meaning": "动词，安定、安居",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "于此",
+              "meaning": "兼词，相当于'于此'（指在楚国）",
               "type": "虚词"
             }
           ]
@@ -1043,91 +1062,91 @@
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，指代前文所述的贤臣、盟主、祭器等能保国安民的事物",
+              "type": "虚词"
             },
             {
               "word": "楚国",
               "pinyin": "chǔ guó",
-              "meaning": "楚国",
+              "meaning": "春秋时期诸侯国，芈姓，熊氏，在江汉流域，为南方大国",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'楚国'和中心语'宝'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "宝物",
+              "meaning": "名词，珍宝，指珍贵的人或物",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表示判断",
+              "meaning": "句末语气词，表判断与肯定，确认前文所述即为楚国之宝",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若夫白珩，先王之玩也，何宝焉？",
-          "translation": "至于白珩，那只是先王的玩物，怎么能算是宝物呢？",
+          "translation": "至于白珩，只是先王的玩物，有什么可宝贵的呢？",
           "words": [
             {
               "word": "若夫",
               "pinyin": "ruò fú",
-              "meaning": "至于",
+              "meaning": "固定结构，用于句首表示他转或另起话题，相当于'至于'",
               "type": "虚词"
             },
             {
               "word": "白珩",
               "pinyin": "bái héng",
-              "meaning": "白色珩玉",
+              "meaning": "楚国特有的佩玉，用白玉制成，系于珩（玉佩顶端的横玉）下",
               "type": "实词"
             },
             {
               "word": "先王",
               "pinyin": "xiān wáng",
-              "meaning": "前代君王",
+              "meaning": "名词，指楚国的前代君主",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'先王'和中心语'玩'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "玩",
               "pinyin": "wán",
-              "meaning": "玩物",
+              "meaning": "名词，供玩赏之物，指白珩仅具观赏价值",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "表示判断",
+              "meaning": "句末语气词，表判断与肯定，确认白珩仅为玩物",
               "type": "虚词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "什么",
+              "meaning": "疑问代词，表示反问，哪里、怎么",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "珍宝",
+              "meaning": "动词，珍视、当作珍宝",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "语气词",
+              "meaning": "句末语气词，与疑问词'何'配合，加强反问语气",
               "type": "虚词"
             }
           ]
@@ -1136,16 +1155,16 @@
     },
     {
       "original": "“圉闻国之宝，六而已：圣能制议百物，以辅相国家，则宝之；玉足以庇荫嘉谷，使无水旱之灾，则宝之；龟足以宪臧否，则宝之；珠足以御火灾，则宝之；金足以御兵乱，则宝之；山林薮泽，足以备财用，则宝之。若夫哗嚣之美，楚虽蛮夷，不能宝也。”",
-      "translation": "圉听说国家的宝贝，只有六种而已：圣人能够制定和议论万物，以辅佐国家，就把他当作宝贝；玉器足以庇护好谷物，使没有水旱灾害，就把它当作宝贝；龟甲足以判定吉凶，就把它当作宝贝；珠宝足以抵御火灾，就把它当作宝贝；金属足以抵御兵乱，就把它当作宝贝；山林湖泽，足以储备财物用度，就把它当作宝贝。至于那些喧嚣华美的东西，楚即使是蛮夷，也不能把它们当作宝贝。",
+      "translation": "我听说国家的宝物，只有六种罢了：圣人能制定和审议各种事物，以辅助国家，就珍视他；玉器足以庇护良谷，使没有水旱灾害，就珍视它；龟甲足以显示吉凶，就珍视它；珍珠足以防御火灾，就珍视它；金属足以防御战乱，就珍视它；山林湖泽足以准备财物用度，就珍视它们。至于那些喧嚣浮华的美物，楚国即使是蛮夷，也不能珍视它们。",
       "sentences": [
         {
           "original": "圉闻国之宝，六而已：",
-          "translation": "圉听说国家的宝贝，只有六种而已：",
+          "translation": "我听说国家的宝物，只有六种罢了。",
           "words": [
             {
               "word": "圉",
               "pinyin": "yǔ",
-              "meaning": "人名",
+              "meaning": "楚国大夫王孙圉之名，本文对话的发言者",
               "type": "人名"
             },
             {
@@ -1163,73 +1182,67 @@
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'国'与中心语'宝'，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "宝物",
+              "meaning": "古义：珍视、当作宝物（非今义'宝贝'）。此处为动词",
               "type": "实词"
             },
             {
               "word": "六",
               "pinyin": "liù",
-              "meaning": "六种",
+              "meaning": "数词，六种",
               "type": "实词"
             },
             {
               "word": "而已",
               "pinyin": "ér yǐ",
-              "meaning": "罢了",
+              "meaning": "句末语气词，表示限止，相当于'罢了'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "圣能制议百物，以辅相国家，则宝之；",
-          "translation": "圣人能够制定和议论万物，以辅佐国家，就把他当作宝贝；",
+          "translation": "圣人能制定和审议各种事物，以辅助国家，就珍视他。",
           "words": [
             {
               "word": "圣",
               "pinyin": "shèng",
-              "meaning": "圣人",
+              "meaning": "圣人，具有最高智慧和道德的人",
               "type": "实词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够",
+              "meaning": "能愿动词，能够",
               "type": "实词"
             },
             {
-              "word": "制",
-              "pinyin": "zhì",
-              "meaning": "制定",
-              "type": "实词"
-            },
-            {
-              "word": "议",
-              "pinyin": "yì",
-              "meaning": "议论",
+              "word": "制议",
+              "pinyin": "zhì yì",
+              "meaning": "裁断、评议",
               "type": "实词"
             },
             {
               "word": "百物",
               "pinyin": "bǎi wù",
-              "meaning": "万物",
+              "meaning": "各种事物",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，用来",
               "type": "虚词"
             },
             {
               "word": "辅相",
               "pinyin": "fǔ xiàng",
-              "meaning": "辅佐",
+              "meaning": "辅佐、协助",
               "type": "实词"
             },
             {
@@ -1241,379 +1254,367 @@
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示承接关系，就",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "珍视",
+              "meaning": "古义：珍视、当作宝物（非今义'宝贝'）。此处为动词",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代'圣能制议百物，以辅相国家'这种情况",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "玉足以庇荫嘉谷，使无水旱之灾，则宝之；",
-          "translation": "玉器足以庇护好谷物，使没有水旱灾害，就把它当作宝贝；",
+          "translation": "玉器足以庇护良谷，使没有水旱灾害，就珍视它。",
           "words": [
             {
               "word": "玉",
               "pinyin": "yù",
-              "meaning": "玉石",
+              "meaning": "玉石，古代常作为宝物用于祭祀或象征珍贵",
               "type": "实词"
             },
             {
               "word": "足以",
               "pinyin": "zú yǐ",
-              "meaning": "足够用来",
+              "meaning": "固定结构，表示“足够用来”，连接“玉”与“庇荫嘉谷”",
               "type": "虚词"
             },
             {
               "word": "庇荫",
               "pinyin": "bì yìn",
-              "meaning": "庇护",
+              "meaning": "庇护、保护，使嘉谷免受水旱之灾",
               "type": "实词"
             },
             {
               "word": "嘉谷",
               "pinyin": "jiā gǔ",
-              "meaning": "好谷物",
+              "meaning": "优良的谷物，指五谷",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "使得",
-              "type": "虚词"
+              "meaning": "让、致使",
+              "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "没有、消除",
               "type": "实词"
             },
             {
               "word": "水旱",
               "pinyin": "shuǐ hàn",
-              "meaning": "水旱灾",
+              "meaning": "水灾和旱灾，泛指自然灾害",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，在“水旱之灾”中表示领属关系，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "灾",
               "pinyin": "zāi",
-              "meaning": "灾害",
+              "meaning": "灾害、灾难",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示承接关系，相当于“那么”、“就”",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "珍视",
+              "meaning": "动词，以...为宝，珍视",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代前文的“玉”，作“宝”的宾语",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "龟足以宪臧否，则宝之；",
-          "translation": "龟甲足以判定吉凶，就把它当作宝贝；",
+          "translation": "龟甲足以显示吉凶，就珍视它。",
           "words": [
             {
               "word": "龟",
               "pinyin": "guī",
-              "meaning": "龟甲",
+              "meaning": "龟甲，古代用于占卜，以卜吉凶",
               "type": "实词"
             },
             {
-              "word": "足",
-              "pinyin": "zú",
-              "meaning": "足够",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
+              "word": "足以",
+              "pinyin": "zú yǐ",
+              "meaning": "固定结构，表示“足够用来”，连接“龟”与“宪臧否”",
               "type": "虚词"
             },
             {
               "word": "宪",
               "pinyin": "xiàn",
-              "meaning": "判定",
+              "meaning": "显示、表明，指龟甲能显示善恶",
               "type": "实词"
             },
             {
               "word": "臧否",
               "pinyin": "zāng pǐ",
-              "meaning": "善恶",
+              "meaning": "善恶、好坏，臧为善，否为恶",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示承接关系，相当于“那么”",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "当作宝物",
+              "meaning": "动词，以...为宝，珍视",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代前文的“龟”，作“宝”的宾语",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "珠足以御火灾，则宝之；",
-          "translation": "珠宝足以抵御火灾，就把它当作宝贝；",
+          "translation": "珍珠足以防御火灾，就珍视它。",
           "words": [
             {
               "word": "珠",
               "pinyin": "zhū",
-              "meaning": "珍珠",
+              "meaning": "珍珠，古代视为珍宝，此处指能抵御火灾的珍珠",
               "type": "实词"
             },
             {
-              "word": "足",
-              "pinyin": "zú",
-              "meaning": "足够",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
+              "word": "足以",
+              "pinyin": "zú yǐ",
+              "meaning": "固定结构，表示'足够用来'，此处连接'珠'和'御火灾'，说明珍珠的功能",
               "type": "虚词"
             },
             {
               "word": "御",
               "pinyin": "yù",
-              "meaning": "防御",
+              "meaning": "抵御、防止，此处指珍珠能防止火灾发生",
               "type": "实词"
             },
             {
               "word": "火灾",
               "pinyin": "huǒ zāi",
-              "meaning": "火灾",
+              "meaning": "失火造成的灾害，此处指珍珠能防御的灾祸",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示顺承关系，相当于'那么'，此处引出结果'宝之'",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "当作宝物",
+              "meaning": "动词，意动用法，以...为宝，此处指把珍珠当作宝物",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代前面的'珠'，作'宝'的宾语",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "金足以御兵乱，则宝之；",
-          "translation": "金属足以抵御兵乱，就把它当作宝贝；",
+          "translation": "金属足以防御战乱，就珍视它。",
           "words": [
             {
               "word": "金",
               "pinyin": "jīn",
-              "meaning": "金属",
+              "meaning": "金属，此处指黄金或青铜等贵重金属，能抵御兵乱",
               "type": "实词"
             },
             {
-              "word": "足",
-              "pinyin": "zú",
-              "meaning": "足够",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
+              "word": "足以",
+              "pinyin": "zú yǐ",
+              "meaning": "固定结构，表示'足够用来'，此处连接'金'和'御兵乱'，说明金属的功能",
               "type": "虚词"
             },
             {
               "word": "御",
               "pinyin": "yù",
-              "meaning": "防御",
+              "meaning": "抵御、防止，此处指金属能防止兵乱",
               "type": "实词"
             },
             {
               "word": "兵乱",
               "pinyin": "bīng luàn",
-              "meaning": "兵祸混乱",
+              "meaning": "战争引起的动乱，此处指金属能防御的灾祸",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "就",
+              "meaning": "连词，表示顺承关系，相当于'那么'，此处引出结果'宝之'",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "当作宝物",
+              "meaning": "动词，意动用法，以...为宝，此处指把金属当作宝物",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代前面的'金'，作'宝'的宾语",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "山林薮泽，足以备财用，则宝之。",
-          "translation": "山林湖泽，足以储备财物用度，就把它当作宝贝。",
+          "translation": "山林湖泽足以准备财物用度，就珍视它们。",
           "words": [
             {
               "word": "山林",
               "pinyin": "shān lín",
-              "meaning": "山区森林",
+              "meaning": "山和森林，提供木材、猎物等自然资源",
               "type": "实词"
             },
             {
               "word": "薮泽",
               "pinyin": "sǒu zé",
-              "meaning": "沼泽湖泊",
+              "meaning": "沼泽和湖泊，提供水产、芦苇等资源",
               "type": "实词"
             },
             {
               "word": "足以",
               "pinyin": "zú yǐ",
-              "meaning": "足够用来",
+              "meaning": "固定结构，表示足够用来，后接动词短语",
               "type": "虚词"
             },
             {
               "word": "备",
               "pinyin": "bèi",
-              "meaning": "提供",
+              "meaning": "准备、具备，指提供或拥有",
               "type": "实词"
             },
             {
               "word": "财用",
               "pinyin": "cái yòng",
-              "meaning": "财物用度",
+              "meaning": "财物和用度，指经济资源和开支",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，表示顺承关系，连接条件与结果，意为'那么'",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "珍视",
+              "meaning": "动词，珍视、以...为宝，表示视为珍贵",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代前面的山林薮泽等自然资源",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "若夫哗嚣之美，楚虽蛮夷，不能宝也。",
-          "translation": "至于那些喧嚣华美的东西，楚即使是蛮夷，也不能把它们当作宝贝。",
+          "translation": "至于那些喧嚣浮华的美物，楚国即使是蛮夷，也不能珍视它们。",
           "words": [
             {
               "word": "若夫",
               "pinyin": "ruò fú",
-              "meaning": "至于",
+              "meaning": "固定结构，用于句首，表示提起另一话题，相当于'至于'",
               "type": "虚词"
             },
             {
               "word": "哗嚣",
               "pinyin": "huá xiāo",
-              "meaning": "喧哗吵闹",
+              "meaning": "喧哗喧闹，指浮华不实的名声或装饰",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于定语和中心语之间，表示修饰关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "美",
               "pinyin": "měi",
-              "meaning": "美物",
+              "meaning": "美好、美名，这里指哗嚣所带来的表面美好",
               "type": "实词"
             },
             {
               "word": "楚",
               "pinyin": "chǔ",
-              "meaning": "楚国",
+              "meaning": "春秋时期诸侯国，国君为芈姓，疆域主要在今湖北、湖南一带",
               "type": "地名"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "虽然",
+              "meaning": "连词，表示让步关系，相当于现代汉语的'虽然'",
               "type": "虚词"
             },
             {
               "word": "蛮夷",
               "pinyin": "mán yí",
-              "meaning": "蛮夷之地",
+              "meaning": "古代中原地区对南方民族的称呼，这里楚国自称蛮夷，表示文化相对落后",
               "type": "实词"
             },
             {
-              "word": "不能",
-              "pinyin": "bù néng",
-              "meaning": "不能够",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定，修饰动词'能'",
+              "type": "虚词"
+            },
+            {
+              "word": "能",
+              "pinyin": "néng",
+              "meaning": "能愿动词，表示能力或可能性，能够",
               "type": "虚词"
             },
             {
               "word": "宝",
               "pinyin": "bǎo",
-              "meaning": "珍视",
+              "meaning": "动词，以...为宝，珍视、看重",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表示肯定或判断语气，加强陈述",
               "type": "虚词"
             }
           ]

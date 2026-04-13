@@ -1,101 +1,115 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "176_辨奸论",
   "title": "辨奸论",
   "author": {
     "id": "song_苏洵",
     "name": "苏洵",
     "dynasty": "song",
-    "bio": "苏洵（1009－1066），字明允，号老泉，眉州眉山（今四川眉山）人。北宋文学家，唐宋八大家之一。他长于散文，尤擅政论，笔力雄健，议论畅达。与子苏轼、苏辙合称“三苏”，著有《嘉祐集》。苏洵晚年得仕，曾任秘书省校书郎，其文风质朴犀利，对后世影响深远。"
+    "bio": "苏洵，字明允，号老泉，生于1009年，卒于1066年，眉州眉山（今四川眉山）人。北宋文学家，曾任秘书省校书郎、霸州文安县主簿。代表作有《嘉祐集》，包括《六国论》《辨奸论》等。与子苏轼、苏辙并称‘三苏’，同列唐宋八大家，以论说文著称，文风犀利，切中时弊。"
   },
   "source": "",
   "dynasty": "song",
   "volume": 10,
-  "background": "《辨奸论》是北宋文学家苏洵所作的一篇政论散文，写于北宋中期，约在宋仁宗嘉祐年间（1056-1063年）。当时社会矛盾日益尖锐，王安石变法前夕，朝廷中党争初现，苏洵对王安石的激进改革主张和为人持批评态度，认为其表面清高实则阴险。文章借古讽今，通过历史人物王衍和卢杞的典故，影射现实中的伪君子，旨在警示当权者识别奸邪、防微杜渐。苏洵与王安石政见不合，此文反映了他对北宋政治风气的忧虑，以及对儒家道德理想的坚守，是宋代古文运动中议论散文的代表作之一。",
-  "appreciation": "《辨奸论》以严密的逻辑和犀利的语言著称，展现了苏洵卓越的议论文才华。文章结构清晰，开篇提出“事有必至，理有固然”的论点，强调静观明理的重要性，继而引用山巨源和郭汾阳的历史事例，通过对比分析，指出识人需结合时势，避免主观臆断。文中运用排比、反问等修辞手法，如“月晕而风，础润而雨”，形象生动，增强了说服力。语言简洁有力，如“阴贼险狠，与人异趣”，直指奸邪本质。思想上，文章融合儒家伦理，批判伪善，强调“不近人情者”多为大奸，具有深刻的现实警示意义。整体上，该文论证层层递进，从自然现象到人事变迁，再到具体历史与现实类比，体现了苏洵散文雄健恣肆、逻辑严密的风格，是宋代议论文的典范之作。",
+  "background": "北宋仁宗至英宗时期，政治上党争初现，社会矛盾积累。苏洵身为布衣文人，以文章知名，多次应试不中，后经欧阳修推荐任校书郎等职。写作《辨奸论》时，他观察到朝中某些人物行为不近人情，预见到潜在政治风险，故撰文以辨识奸邪，警示当权者。文章基于历史事例如王衍、卢杞，动机在于揭露伪善，防患未然。",
+  "appreciation": "《辨奸论》是一篇议论文，结构严谨，先提出‘静者见微知著’的论点，通过类比‘月晕而风，础润而雨’引出人事难测，再以山巨源、郭汾阳的历史事例分析其料人未必全准，转到当代描述某人言行不近人情，类比竖刁、易牙等奸臣，最后以孙子语作结。艺术特色上，语言简洁有力，善用排比、对比和典故，如‘口诵孔、老之言，身履夷、齐之行’与‘阴贼险狠’形成反差，增强批判力。思想内涵核心是辨识奸邪应观其是否合乎人情，主张‘凡事之不近人情者，鲜不为大奸慝’，体现了苏洵务实的政治观。文学史上，此文作为宋代论说文的典范，展现了苏洵犀利的文风，对后世政论文有参考价值。",
   "tags": [
-    "古文观止",
-    "苏洵",
-    "议论文"
+    "议论",
+    "政治",
+    "人物",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "事有必至，理有固然。惟天下之静者，乃能见微而知著。月晕而风，础润而雨，人人知之。人事之推移，理势之相因，其疏阔而难知，变化而不可测者，孰与天地阴阳之事？而贤者有不知，其故何也？好恶乱其中，而利害夺其外也。",
-      "translation": "事情有必然发生的趋势，道理有本来如此的规律。只有天下那些心境宁静的人，才能从细微的迹象预见到明显的后果。月亮周围出现光环就预示着要刮风，柱子基石湿润就预示着要下雨，这是人人都知道的。人事的变迁，理势的相互依存，它们的疏阔难知、变化莫测，与天地阴阳之事相比如何？然而贤能的人有时却不知道，这是什么原因呢？是因为他们的好恶扰乱了内心，利害关系影响了他们的外在判断。",
+      "translation": "事情有必然的趋势，道理有固有的根据。只有天下心境宁静的人，才能从细微的迹象预知显著的结果。月亮出现光环就要起风，柱子基石湿润就要下雨，这是人人都明白的。人事的变化发展，道理和趋势的相互依存，那些疏远而难以知晓、变化而不可预测的情况，与天地阴阳的事情相比如何？然而贤能的人却有不知道的，这是什么缘故呢？是因为喜好和厌恶扰乱了他们的内心，利益和害处影响了他们的外在行为。",
       "sentences": [
         {
           "original": "事有必至，理有固然。",
-          "translation": "事情有必然发生的趋势，道理有本来如此的规律。",
+          "translation": "事情有必然到来的趋势，道理有本来如此的根据。",
           "words": [
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "事情",
+              "meaning": "事情，事件",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "存在，具有",
               "type": "实词"
             },
             {
-              "word": "必至",
-              "pinyin": "bì zhì",
-              "meaning": "必然到来",
+              "word": "必",
+              "pinyin": "bì",
+              "meaning": "副词，表示必然性，修饰'至'表示事情必然到来的趋势",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "到来，到达",
               "type": "实词"
             },
             {
               "word": "理",
               "pinyin": "lǐ",
-              "meaning": "道理",
+              "meaning": "道理，事理",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在",
+              "meaning": "存在，具有",
               "type": "实词"
             },
             {
               "word": "固然",
               "pinyin": "gù rán",
-              "meaning": "本来如此",
-              "type": "虚词"
+              "meaning": "本来如此，固有的道理",
+              "type": "实词"
             }
           ]
         },
         {
           "original": "惟天下之静者，乃能见微而知著。",
-          "translation": "只有天下那些心境宁静的人，才能从细微的迹象预见到明显的后果。",
+          "translation": "只有天下心境宁静的人，才能从微小的迹象预知明显的结果。",
           "words": [
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "只有",
+              "meaning": "句首语气词，表示强调或限定，相当于'只有'",
               "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "指整个国家或世界",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'天下'和中心语'静者'，相当于'的'",
               "type": "虚词"
             },
             {
-              "word": "静者",
-              "pinyin": "jìng zhě",
-              "meaning": "安静的人",
+              "word": "静",
+              "pinyin": "jìng",
+              "meaning": "安静，宁静",
               "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "代词，与形容词结合构成名词性短语，指'...的人'",
+              "type": "虚词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "才",
+              "meaning": "副词，才，表示条件关系，与'惟'呼应",
               "type": "虚词"
             },
             {
@@ -105,39 +119,27 @@
               "type": "实词"
             },
             {
-              "word": "见微",
-              "pinyin": "jiàn wēi",
-              "meaning": "见到微小",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "并且",
-              "type": "虚词"
-            },
-            {
-              "word": "知著",
-              "pinyin": "zhī zhù",
-              "meaning": "知道显著",
-              "type": "实词"
+              "word": "见微而知著",
+              "pinyin": "jiàn wēi ér zhī zhù",
+              "meaning": "成语，指从微小的征兆就能预知显著的后果，形容洞察力敏锐",
+              "type": "典故"
             }
           ]
         },
         {
           "original": "月晕而风，础润而雨，人人知之。",
-          "translation": "月亮周围出现光环就预示着要刮风，柱子基石湿润就预示着要下雨，这是人人都知道的。",
+          "translation": "月亮周围出现光环就要刮风，柱子基石湿润就要下雨，这是人人都知道的。",
           "words": [
             {
               "word": "月晕",
               "pinyin": "yuè yùn",
-              "meaning": "月亮光晕",
+              "meaning": "月亮周围出现光圈，是起风的征兆",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "就",
+              "meaning": "连词，表承接关系，可译为'就'",
               "type": "虚词"
             },
             {
@@ -149,13 +151,13 @@
             {
               "word": "础润",
               "pinyin": "chǔ rùn",
-              "meaning": "柱础潮湿",
+              "meaning": "柱子的基石湿润，是下雨的征兆",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "就",
+              "meaning": "连词，表承接关系，可译为'就'",
               "type": "虚词"
             },
             {
@@ -173,85 +175,91 @@
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "知道、明白",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "它",
+              "meaning": "代词，指代'月晕而风，础润而雨'这些自然现象",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "人事之推移，理势之相因，其疏阔而难知，变化而不可测者，孰与天地阴阳之事？",
-          "translation": "人事的变迁，理势的相互依存，它们的疏阔难知、变化莫测，与天地阴阳之事相比如何？",
+          "translation": "人事的变化发展，道理和趋势的相互依存，那些疏远而难以知晓、变化而不可预测的情况，与天地阴阳的事情相比如何？",
           "words": [
             {
               "word": "人事",
               "pinyin": "rén shì",
-              "meaning": "人世间的事情",
+              "meaning": "古义：人世间的事情、社会现象（非今义'人员管理'）",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间，取消句子独立性",
               "type": "虚词"
             },
             {
               "word": "推移",
               "pinyin": "tuī yí",
-              "meaning": "变迁",
+              "meaning": "变迁、发展",
               "type": "实词"
             },
             {
               "word": "理势",
               "pinyin": "lǐ shì",
-              "meaning": "道理形势",
+              "meaning": "事物的内在规律（理）与外在发展趋势（势）",
               "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，用于主谓之间，取消句子独立性",
+              "type": "虚词"
             },
             {
               "word": "相因",
               "pinyin": "xiāng yīn",
-              "meaning": "相互因果",
+              "meaning": "相互因循、相互影响",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "指代前述",
+              "meaning": "代词，指代'人事之推移，理势之相因'这些情况",
               "type": "虚词"
             },
             {
               "word": "疏阔",
               "pinyin": "shū kuò",
-              "meaning": "疏远",
+              "meaning": "疏远、不切近，难以把握",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表并列关系",
               "type": "虚词"
             },
             {
               "word": "难知",
               "pinyin": "nán zhī",
-              "meaning": "难以知道",
+              "meaning": "难以知晓",
               "type": "实词"
             },
             {
               "word": "变化",
               "pinyin": "biàn huà",
-              "meaning": "变化",
+              "meaning": "变动",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表并列关系",
               "type": "虚词"
             },
             {
@@ -263,133 +271,157 @@
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "助词",
+              "meaning": "助词，与前面的成分构成'者'字结构，指代'…的情况'",
               "type": "虚词"
             },
             {
               "word": "孰与",
               "pinyin": "shú yǔ",
-              "meaning": "与...相比",
+              "meaning": "固定结构，表示比较，相当于'与…相比怎么样'",
               "type": "虚词"
             },
             {
               "word": "天地阴阳",
               "pinyin": "tiān dì yīn yáng",
-              "meaning": "天地阴阳",
-              "type": "实词"
+              "meaning": "泛指自然界的运行规律和现象",
+              "type": "典故"
             },
             {
-              "word": "之事",
-              "pinyin": "zhī shì",
-              "meaning": "的事情",
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "助词，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "事情、现象",
               "type": "实词"
             }
           ]
         },
         {
           "original": "而贤者有不知，其故何也？",
-          "translation": "然而贤能的人有时却不知道，这是什么原因呢？",
+          "translation": "然而贤能的人却有不知道的，这是什么缘故呢？",
           "words": [
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然而",
+              "meaning": "连词，表转折，相当于'却'、'但是'",
               "type": "虚词"
             },
             {
               "word": "贤者",
               "pinyin": "xián zhě",
-              "meaning": "贤能的人",
+              "meaning": "有德行、有才能的人",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在、出现",
               "type": "实词"
             },
             {
-              "word": "不知",
-              "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那个",
+              "meaning": "代词，指代'贤者有不知'这种情况",
               "type": "虚词"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "原因",
+              "meaning": "名词，原因、缘故",
               "type": "实词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "什么",
-              "type": "实词"
+              "meaning": "疑问代词，什么",
+              "type": "虚词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表疑问和停顿",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "好恶乱其中，而利害夺其外也。",
-          "translation": "是因为他们的好恶扰乱了内心，利害关系影响了他们的外在判断。",
+          "translation": "因为喜好和厌恶扰乱了他们的内心，利益和害处影响了他们的外在行为。",
           "words": [
             {
               "word": "好恶",
               "pinyin": "hào wù",
-              "meaning": "喜好厌恶",
+              "meaning": "喜好与厌恶。此处'好'读hào，义为喜爱；'恶'读wù，义为憎恨",
               "type": "实词"
             },
             {
               "word": "乱",
               "pinyin": "luàn",
-              "meaning": "扰乱",
+              "meaning": "动词，扰乱、迷惑",
               "type": "实词"
             },
             {
-              "word": "其中",
-              "pinyin": "qí zhōng",
-              "meaning": "他们的内心",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的，指代'贤者'",
+              "type": "虚词"
+            },
+            {
+              "word": "中",
+              "pinyin": "zhōng",
+              "meaning": "方位名词，内心",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表并列，可不译或译为'又'",
               "type": "虚词"
             },
             {
               "word": "利害",
               "pinyin": "lì hài",
-              "meaning": "利益损害",
+              "meaning": "利益与祸害",
               "type": "实词"
             },
             {
               "word": "夺",
               "pinyin": "duó",
-              "meaning": "夺取",
+              "meaning": "动词，强取、改变，此指影响、左右",
               "type": "实词"
             },
             {
-              "word": "其外",
-              "pinyin": "qí wài",
-              "meaning": "他们的外在",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，他的，指代'贤者'",
+              "type": "虚词"
+            },
+            {
+              "word": "外",
+              "pinyin": "wài",
+              "meaning": "方位名词，外在行为、判断",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
@@ -398,7 +430,7 @@
     },
     {
       "original": "昔者，山巨源见王衍，曰：“误天下苍生者，必此人也。”郭汾阳见卢杞曰：“此人得志，吾子孙无遗类矣。”自今而言之，其理固有可见者。以吾观之，王衍之为人，容貌言语，固有以欺世而盗名者，然不忮，不求，与物浮沉。使晋无惠帝，仅得中主，虽衍百千，何从而乱天下乎？卢杞之奸，固足以败国，然而不学无文，容貌不足以动人，言语不足以眩世。非德宗之鄙暗，亦何从而用之？由是言之，二公之料二子，亦容有未必然也。",
-      "translation": "从前，山巨源见到王衍，说：“贻误天下百姓的，一定是这个人。”郭汾阳见到卢杞说：“这个人如果得志，我的子孙就不会有存活下来的了。”从今天来看，其中的道理本来就有可以预见的地方。在我看来，王衍的为人，容貌和言语本来就有用来欺骗世人、盗取名声的地方，然而他不嫉妒，不贪求，随波逐流。假使晋朝没有惠帝，仅仅得到一个中等才能的君主，即使有成百上千个王衍，从哪里去扰乱天下呢？卢杞的奸邪本来足以败坏国家，然而他不学无术，没有文采，容貌不足以打动人，言语不足以迷惑世人。如果不是德宗的鄙陋昏暗，又从哪里去任用他呢？由此说来，两位公对两个人的预料，也或许不一定正确。",
+      "translation": "从前，山巨源见到王衍，说：“贻误天下百姓的，一定是这个人。”郭汾阳见到卢杞说：“这个人如果得志，我的子孙就一个都活不成了。”从今天来看，其中的道理本来就有可以预见的地方。在我看来，王衍的为人，外貌和言谈确实有欺骗世人、窃取名声的地方，然而他不嫉妒，不贪求，随波逐流。假使晋朝没有惠帝，仅仅得到一个中等才能的君主，即使有成百上千个王衍，又怎么能扰乱天下呢？卢杞的奸邪本来足以败坏国家，但是他没有学问，缺乏文采，外貌不足以打动人，言谈不足以迷惑世人。如果不是唐德宗鄙陋昏庸，又怎么能任用他呢？由此说来，两位前辈对那两个人的预料，也或许不一定正确。",
       "sentences": [
         {
           "original": "昔者，山巨源见王衍，曰：“误天下苍生者，必此人也。”",
@@ -407,157 +439,169 @@
             {
               "word": "昔者",
               "pinyin": "xī zhě",
-              "meaning": "从前",
+              "meaning": "时间状语，从前、过去。'昔'为过去，'者'为助词，附于时间词后表停顿。",
               "type": "虚词"
             },
             {
               "word": "山巨源",
               "pinyin": "shān jù yuán",
-              "meaning": "山涛",
+              "meaning": "西晋名士山涛，字巨源，竹林七贤之一，此处以其评论王衍之事为典。",
               "type": "人名"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "会见",
+              "meaning": "动词，会见、见到。",
               "type": "实词"
             },
             {
               "word": "王衍",
               "pinyin": "wáng yǎn",
-              "meaning": "人名",
+              "meaning": "西晋大臣，以清谈著称，后官至太尉，被石勒所杀，被视为清谈误国的代表。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说。",
               "type": "实词"
             },
             {
               "word": "误",
               "pinyin": "wù",
-              "meaning": "贻误",
+              "meaning": "动词，贻误、耽误。",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "天下",
+              "meaning": "名词，指全国或全世界。",
               "type": "实词"
             },
             {
               "word": "苍生",
               "pinyin": "cāng shēng",
-              "meaning": "百姓",
+              "meaning": "名词，百姓、众民。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，与动宾短语'误天下苍生'构成名词性结构，指'……的人'。",
               "type": "虚词"
             },
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "一定",
+              "meaning": "副词，一定、必然。",
               "type": "虚词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "指示代词，这。",
               "type": "虚词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "郭汾阳见卢杞曰：“此人得志，吾子孙无遗类矣。”",
-          "translation": "郭汾阳见到卢杞说：“这个人如果得志，我的子孙就不会有存活下来的了。”",
+          "translation": "郭汾阳见到卢杞说：“这个人如果得志，我的子孙就一个都活不成了。”",
           "words": [
             {
               "word": "郭汾阳",
               "pinyin": "guō fén yáng",
-              "meaning": "郭子仪",
+              "meaning": "唐代名将郭子仪，因功封汾阳郡王，世称郭汾阳。",
               "type": "人名"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "会见",
+              "meaning": "动词，会见。",
               "type": "实词"
             },
             {
               "word": "卢杞",
               "pinyin": "lú qǐ",
-              "meaning": "人名",
+              "meaning": "唐代宰相，以奸佞、排斥异己著称，为唐代著名奸臣。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "动词，说。",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "指示代词，这。",
               "type": "虚词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人。",
               "type": "实词"
             },
             {
-              "word": "得志",
-              "pinyin": "dé zhì",
-              "meaning": "得逞",
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "动词，实现、达成。",
+              "type": "实词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "名词，志向、抱负，此处特指掌权得势的野心。",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我的",
+              "meaning": "人称代词，我的。",
               "type": "虚词"
             },
             {
               "word": "子孙",
               "pinyin": "zǐ sūn",
-              "meaning": "子孙",
+              "meaning": "名词，儿子和孙子，泛指后代。",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有。",
               "type": "实词"
             },
             {
-              "word": "遗类",
-              "pinyin": "yí lèi",
-              "meaning": "幸存者",
+              "word": "遗",
+              "pinyin": "yí",
+              "meaning": "动词，遗留、剩下。",
+              "type": "实词"
+            },
+            {
+              "word": "类",
+              "pinyin": "lèi",
+              "meaning": "名词，种类、同类，此处指幸存的后代。",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "了",
+              "meaning": "句末语气词，表对未来的肯定性预测，相当于'了'。",
               "type": "虚词"
             }
           ]
@@ -567,147 +611,99 @@
           "translation": "从今天来看，其中的道理本来就有可以预见的地方。",
           "words": [
             {
-              "word": "自今",
-              "pinyin": "zì jīn",
-              "meaning": "从现在",
-              "type": "虚词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "而",
-              "type": "虚词"
-            },
-            {
-              "word": "言",
-              "pinyin": "yán",
-              "meaning": "说",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "它",
+              "word": "自今而言之",
+              "pinyin": "zì jīn ér yán zhī",
+              "meaning": "固定结构，'自…而言之'表示从某个角度/时间点来评论，此处意为'从今天来看这件事'",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "那",
+              "meaning": "指示代词，指代前文所述王衍、卢杞之事的道理",
               "type": "虚词"
             },
             {
               "word": "理",
               "pinyin": "lǐ",
-              "meaning": "道理",
+              "meaning": "道理，事理",
               "type": "实词"
             },
             {
               "word": "固",
               "pinyin": "gù",
-              "meaning": "本来",
+              "meaning": "副词，本来，固然",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
               "word": "可见",
               "pinyin": "kě jiàn",
-              "meaning": "可以看见",
+              "meaning": "可以预见，可以看出来",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的",
+              "meaning": "助词，与动词性短语'可见'构成名词性结构，表示'……的情况'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "以吾观之，王衍之为人，容貌言语，固有以欺世而盗名者，然不忮，不求，与物浮沉。",
-          "translation": "在我看来，王衍的为人，容貌和言语本来就有用来欺骗世人、盗取名声的地方，然而他不嫉妒，不贪求，随波逐流。",
+          "translation": "在我看来，王衍的为人，外貌和言谈确实有欺骗世人、窃取名声的地方，然而他不嫉妒，不贪求，随波逐流。",
           "words": [
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "凭借",
-              "type": "虚词"
-            },
-            {
-              "word": "吾",
-              "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
-            },
-            {
-              "word": "观",
-              "pinyin": "guān",
-              "meaning": "观察",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
+              "word": "以吾观之",
+              "pinyin": "yǐ wú guān zhī",
+              "meaning": "固定结构，'以…观之'表示从某个立场来看，此处意为'依我看来'",
               "type": "虚词"
             },
             {
               "word": "王衍",
               "pinyin": "wáng yǎn",
-              "meaning": "人名",
+              "meaning": "西晋大臣，字夷甫，琅琊临沂人，以清谈著称，后为石勒所杀",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓结构'王衍为人'之间，取消句子独立性，使其成为话题",
               "type": "虚词"
             },
             {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "实词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
+              "word": "为人",
+              "pinyin": "wéi rén",
+              "meaning": "指做人的态度、品行",
               "type": "实词"
             },
             {
               "word": "容貌",
               "pinyin": "róng mào",
-              "meaning": "相貌",
+              "meaning": "古义：仪容举止（非今义仅指长相）",
               "type": "实词"
             },
             {
               "word": "言语",
               "pinyin": "yán yǔ",
-              "meaning": "言辞",
+              "meaning": "言辞，谈论",
               "type": "实词"
             },
             {
               "word": "固",
               "pinyin": "gù",
-              "meaning": "本来",
+              "meaning": "副词，固然，诚然",
               "type": "虚词"
             },
             {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
+              "word": "有以",
+              "pinyin": "yǒu yǐ",
+              "meaning": "固定结构，有办法、有用来……的（方式）",
               "type": "虚词"
             },
             {
@@ -719,7 +715,7 @@
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表并列，连接'欺世'与'盗名'",
               "type": "虚词"
             },
             {
@@ -731,403 +727,397 @@
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "…的人",
+              "meaning": "助词，与前面的动词短语'有以欺世而盗名'构成名词性结构，指代'……的方面/手段'",
               "type": "虚词"
             },
             {
               "word": "然",
               "pinyin": "rán",
-              "meaning": "然而",
+              "meaning": "连词，表转折，然而",
               "type": "虚词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "忮",
-              "pinyin": "zhì",
-              "meaning": "嫉妒",
+              "word": "不忮",
+              "pinyin": "bù zhì",
+              "meaning": "不嫉妒。忮：嫉妒，害",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "求",
-              "pinyin": "qiú",
-              "meaning": "贪求",
+              "word": "不求",
+              "pinyin": "bù qiú",
+              "meaning": "不贪求",
               "type": "实词"
             },
             {
-              "word": "与",
-              "pinyin": "yǔ",
-              "meaning": "和",
-              "type": "虚词"
-            },
-            {
-              "word": "物",
-              "pinyin": "wù",
-              "meaning": "外界",
-              "type": "实词"
-            },
-            {
-              "word": "浮沉",
-              "pinyin": "fú chén",
-              "meaning": "随波逐流",
+              "word": "与物浮沉",
+              "pinyin": "yǔ wù fú chén",
+              "meaning": "随波逐流，随俗应付。物：外界，世俗",
               "type": "实词"
             }
           ]
         },
         {
           "original": "使晋无惠帝，仅得中主，虽衍百千，何从而乱天下乎？",
-          "translation": "假使晋朝没有惠帝，仅仅得到一个中等才能的君主，即使有成百上千个王衍，从哪里去扰乱天下呢？",
+          "translation": "假使晋朝没有惠帝，仅仅得到一个中等才能的君主，即使有成百上千个王衍，又怎么能扰乱天下呢？",
           "words": [
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "假使",
+              "meaning": "此处读 shǐ，义为假使、如果（连词，表假设）",
               "type": "虚词"
             },
             {
               "word": "晋",
               "pinyin": "jìn",
-              "meaning": "晋朝",
+              "meaning": "朝代名，指西晋（265-316年）",
               "type": "地名"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
-              "type": "虚词"
+              "meaning": "动词，没有",
+              "type": "实词"
             },
             {
               "word": "惠帝",
               "pinyin": "huì dì",
-              "meaning": "晋惠帝",
+              "meaning": "西晋第二位皇帝司马衷（259-307年），以昏庸著称",
               "type": "人名"
             },
             {
               "word": "仅",
               "pinyin": "jǐn",
-              "meaning": "仅仅",
+              "meaning": "副词，仅仅、只",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "得到",
+              "meaning": "动词，得到、拥有",
               "type": "实词"
             },
             {
               "word": "中主",
               "pinyin": "zhōng zhǔ",
-              "meaning": "中等君主",
+              "meaning": "中等才能的君主（非昏君亦非明君）",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，即使、纵然",
               "type": "虚词"
             },
             {
               "word": "衍",
               "pinyin": "yǎn",
-              "meaning": "王衍",
+              "meaning": "指前文提及的王衍（256-311年），西晋清谈家、重臣",
               "type": "人名"
             },
             {
               "word": "百千",
               "pinyin": "bǎi qiān",
-              "meaning": "成百上千",
+              "meaning": "数词，成百上千，极言其多",
               "type": "实词"
             },
             {
               "word": "何从",
               "pinyin": "hé cóng",
-              "meaning": "从何",
+              "meaning": "固定结构，从何处、怎么能（表反问）",
               "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "来",
+              "meaning": "连词，表承接",
               "type": "虚词"
             },
             {
               "word": "乱",
               "pinyin": "luàn",
-              "meaning": "扰乱",
+              "meaning": "动词，使混乱、祸乱",
               "type": "实词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "国家",
+              "meaning": "名词，指全国或整个国家",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表反问",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "卢杞之奸，固足以败国，然而不学无文，容貌不足以动人，言语不足以眩世。",
-          "translation": "卢杞的奸邪本来足以败坏国家，然而他不学无术，没有文采，容貌不足以打动人，言语不足以迷惑世人。",
+          "translation": "卢杞的奸邪本来足以败坏国家，但是他没有学问，缺乏文采，外貌不足以打动人，言谈不足以迷惑世人。",
           "words": [
             {
               "word": "卢杞",
               "pinyin": "lú qǐ",
-              "meaning": "人名",
+              "meaning": "唐朝宰相（？-785年），以奸邪、排斥异己著称",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，的",
               "type": "虚词"
             },
             {
               "word": "奸",
               "pinyin": "jiān",
-              "meaning": "奸诈",
+              "meaning": "名词，奸邪、邪恶的品性",
               "type": "实词"
             },
             {
               "word": "固",
               "pinyin": "gù",
-              "meaning": "本来",
+              "meaning": "副词，本来、固然",
               "type": "虚词"
             },
             {
               "word": "足以",
               "pinyin": "zú yǐ",
-              "meaning": "足够用来",
+              "meaning": "固定结构，足够用来",
               "type": "虚词"
             },
             {
-              "word": "败国",
-              "pinyin": "bài guó",
-              "meaning": "败坏国家",
+              "word": "败",
+              "pinyin": "bài",
+              "meaning": "动词，败坏、毁坏",
+              "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "名词，国家",
               "type": "实词"
             },
             {
               "word": "然而",
               "pinyin": "rán ér",
-              "meaning": "但是",
+              "meaning": "固定结构，表示转折，相当于“但是”",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表否定",
               "type": "虚词"
             },
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学识",
+              "meaning": "动词，学习（此处指没有学问）",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
-              "type": "虚词"
+              "meaning": "动词，没有",
+              "type": "实词"
             },
             {
               "word": "文",
               "pinyin": "wén",
-              "meaning": "文才",
+              "meaning": "名词，文采、文化修养",
               "type": "实词"
             },
             {
               "word": "容貌",
-              "pinyin": "róng mào",
-              "meaning": "相貌",
+              "pinyin": "móng róng",
+              "meaning": "名词，相貌、面容",
               "type": "实词"
             },
             {
-              "word": "不足",
-              "pinyin": "bù zú",
-              "meaning": "不够",
+              "word": "不足以",
+              "pinyin": "bù zú yǐ",
+              "meaning": "固定结构，不够用来",
               "type": "虚词"
             },
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
+              "word": "动",
+              "pinyin": "dòng",
+              "meaning": "动词，打动、感动",
+              "type": "实词"
             },
             {
-              "word": "动人",
-              "pinyin": "dòng rén",
-              "meaning": "打动人",
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，他人、世人",
               "type": "实词"
             },
             {
               "word": "言语",
               "pinyin": "yán yǔ",
-              "meaning": "言辞",
+              "meaning": "名词，言辞、说话",
               "type": "实词"
             },
             {
-              "word": "不足",
-              "pinyin": "bù zú",
-              "meaning": "不够",
-              "type": "虚词"
+              "word": "眩",
+              "pinyin": "xuàn",
+              "meaning": "动词，迷惑、炫惑",
+              "type": "实词"
             },
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用来",
-              "type": "虚词"
-            },
-            {
-              "word": "眩世",
-              "pinyin": "xuàn shì",
-              "meaning": "迷惑世人",
+              "word": "世",
+              "pinyin": "shì",
+              "meaning": "名词，世人、社会",
               "type": "实词"
             }
           ]
         },
         {
           "original": "非德宗之鄙暗，亦何从而用之？",
-          "translation": "如果不是德宗的鄙陋昏暗，又从哪里去任用他呢？",
+          "translation": "如果不是唐德宗鄙陋昏庸，又怎么能任用他呢？",
           "words": [
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "否定，不是",
+              "meaning": "否定副词，用于假设条件句，表示'如果不是'",
               "type": "虚词"
             },
             {
               "word": "德宗",
               "pinyin": "dé zōng",
-              "meaning": "唐德宗皇帝",
+              "meaning": "唐朝皇帝李适（742-805），在位期间昏庸，任用奸臣卢杞",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，结构助词",
+              "meaning": "结构助词，相当于'的'，连接'德宗'和'鄙暗'",
               "type": "虚词"
             },
             {
               "word": "鄙暗",
               "pinyin": "bǐ àn",
-              "meaning": "鄙陋昏暗",
+              "meaning": "形容见识浅薄、昏庸糊涂",
               "type": "实词"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，表示顺承关系，相当于'又'或'也'",
               "type": "虚词"
             },
             {
-              "word": "何从",
-              "pinyin": "hé cóng",
-              "meaning": "凭什么，从哪里",
+              "word": "何",
+              "pinyin": "hé",
+              "meaning": "疑问代词，与'从'连用，表示'从哪里'或'怎么'",
               "type": "虚词"
+            },
+            {
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "动词，表示来源或依据，'何从'即'从何'",
+              "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连接词，表顺承",
+              "meaning": "连词，连接'何从'和'用之'，表示顺承",
               "type": "虚词"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "任用",
+              "meaning": "动词，任用、使用",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指卢杞",
+              "meaning": "代词，指代前文提到的卢杞",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "由是言之，二公之料二子，亦容有未必然也。",
-          "translation": "由此说来，两位公对两个人的预料，也或许不一定正确。",
+          "translation": "由此说来，两位前辈对那两个人的预料，也或许不一定正确。",
           "words": [
             {
               "word": "由是",
               "pinyin": "yóu shì",
-              "meaning": "由此，因此",
+              "meaning": "固定结构，表示由此得出结论，相当于'因此'或'由此看来'",
               "type": "虚词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "说",
+              "meaning": "动词，谈论、评说",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指前述内容",
+              "meaning": "代词，指代前面所述山巨源和郭汾阳的预言之事",
               "type": "虚词"
             },
             {
               "word": "二公",
               "pinyin": "èr gōng",
-              "meaning": "两位公，指山巨源和郭汾阳",
+              "meaning": "指山巨源（山涛，西晋名士）和郭汾阳（郭子仪，唐朝名将）",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的，结构助词",
+              "meaning": "结构助词，相当于'的'，连接'二公'和'料'",
               "type": "虚词"
             },
             {
               "word": "料",
               "pinyin": "liào",
-              "meaning": "预料",
+              "meaning": "动词，预料、预测",
               "type": "实词"
             },
             {
               "word": "二子",
               "pinyin": "èr zǐ",
-              "meaning": "两个人，指王衍和卢杞",
+              "meaning": "指王衍（西晋大臣，以清谈误国）和卢杞（唐朝宰相，奸臣）",
               "type": "人名"
             },
             {
               "word": "亦",
               "pinyin": "yì",
-              "meaning": "也",
+              "meaning": "副词，表示类同，此处指二公的预言也可能不必然准确",
               "type": "虚词"
             },
             {
-              "word": "容有",
-              "pinyin": "róng yǒu",
-              "meaning": "或许有",
+              "word": "容",
+              "pinyin": "róng",
+              "meaning": "副词，表示推测，相当于'或许'、'可能'",
               "type": "虚词"
             },
             {
-              "word": "未必然",
-              "pinyin": "wèi bì rán",
-              "meaning": "不一定这样",
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在或发生",
+              "type": "实词"
+            },
+            {
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "副词，表示否定，相当于'不'",
+              "type": "虚词"
+            },
+            {
+              "word": "必然",
+              "pinyin": "bì rán",
+              "meaning": "形容词，表示事理上确定不移，此处指预言不一定应验",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表示肯定或结束语气",
               "type": "虚词"
             }
           ]
@@ -1136,1145 +1126,815 @@
     },
     {
       "original": "今有人，口诵孔、老之言，身履夷、齐之行，收召好名之士，不得志之人，相与造作言语，私立名字，以为颜渊、孟轲复出，而阴贼险狠，与人异趣。是王衍、卢杞合而为一人也，其祸岂可胜言哉？夫面垢不忘洗，衣垢不忘浣，此人之至情也。今也不然，衣臣虏之衣，食犬彘之食，囚首丧面，而谈诗书，此岂其情也哉？凡事之不近人情者，鲜不为大奸慝，竖刁、易牙、开方是也。以盖世之名，而济其未形之患，虽有愿治之主，好贤之相，犹将举而用之，则其为天下患，必然而无疑者，非特二子之比也。",
-      "translation": "现在有一个人，口中诵读孔子、老子的言论，身体力行伯夷、叔齐的行为，收罗召集喜好名声的人和不得志的人，一起制造言论，私下树立名号，自以为是颜渊、孟轲再世，但内心阴险狠毒，与常人志趣不同。这是王衍、卢杞合为一个人了，他造成的祸患难道能说得完吗？脸脏了不忘洗脸，衣服脏了不忘洗涤，这是人之常情。现在却不是这样，穿着奴仆的衣服，吃着猪狗的食物，像囚犯一样头发蓬乱、面容沮丧，却谈论诗书，这难道是他的真情吗？凡是做事不近人情的人，很少不是大奸大恶的，竖刁、易牙、开方就是这样的人。凭借盖世的名声，来助长他尚未显现的祸患，即使有希望治理好国家的君主，喜好贤能的宰相，还是会提拔重用他，那么他成为天下的祸患，是必然而无疑的，不只是王衍、卢杞二人所能比拟的。孙子说：“善于用兵的人，没有显赫的战功。”假使这个人不被任用，那么我的话就是错的，而这个人会有怀才不遇的感叹，谁知道祸患会达到这种地步呢！否则，天下将遭受他的祸患，而我却获得有先见之明的名声，可悲啊！",
+      "translation": "现在有这样一个人，口中诵读孔子、老子的言论，亲身实践伯夷、叔齐的行为，收罗召集喜好名声的人和不得志的人，一起制造言论，私自树立名号，以为他是颜渊、孟子再世，但内心阴险狠毒，与常人志趣不同。这是王衍、卢杞合为一个人了，他的祸害难道能说得完吗？脸脏了不忘洗，衣服脏了不忘浣洗，这是人之常情。现在却不是这样，穿奴隶的衣服，吃猪狗的食物，像囚犯一样头发蓬乱，像居丧一样面容憔悴，却谈论诗书，这难道是他的真情吗？凡是做事不近人情的，很少不是大奸大恶，竖刁、易牙、开方就是这样的人。用盖世的名声，来助长他尚未显现的祸患，即使有希望治理好国家的君主，喜好贤能的宰相，还是会提拔重用他，那么他成为天下的祸患，是必然而无疑的，不只是王衍、卢杞二人所能比拟的。",
       "sentences": [
         {
           "original": "今有人，口诵孔、老之言，身履夷、齐之行，收召好名之士，不得志之人，相与造作言语，私立名字，以为颜渊、孟轲复出，而阴贼险狠，与人异趣。",
-          "translation": "现在有一个人，口中诵读孔子、老子的言论，身体力行伯夷、叔齐的行为，收罗召集喜好名声的人和不得志的人，一起制造言论，私下树立名号，自以为是颜渊、孟轲再世，但内心阴险狠毒，与常人志趣不同。",
+          "translation": "现在有这样一个人，口中诵读孔子、老子的言论，亲身实践伯夷、叔齐的行为，收罗召集喜好名声的人和不得志的人，一起制造言论，私自树立名号，以为他是颜渊、孟子再世，但内心阴险狠毒，与常人志趣不同。",
           "words": [
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
-              "type": "虚词"
+              "meaning": "时间副词，如今、现在",
+              "type": "实词"
             },
             {
-              "word": "有人",
-              "pinyin": "yǒu rén",
-              "meaning": "有个人",
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，存在",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，指某个人",
               "type": "实词"
             },
             {
               "word": "口诵",
               "pinyin": "kǒu sòng",
-              "meaning": "口中诵读",
+              "meaning": "动词，口头诵读",
               "type": "实词"
             },
             {
-              "word": "孔",
-              "pinyin": "Kǒng",
-              "meaning": "孔子",
-              "type": "人名"
-            },
-            {
-              "word": "老",
-              "pinyin": "Lǎo",
-              "meaning": "老子",
+              "word": "孔、老",
+              "pinyin": "kǒng lǎo",
+              "meaning": "指孔子（儒家创始人）和老子（道家创始人），春秋时期的思想家",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'孔、老'和中心语'言'",
               "type": "虚词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "言论",
+              "meaning": "名词，言论、学说",
               "type": "实词"
             },
             {
               "word": "身履",
               "pinyin": "shēn lǚ",
-              "meaning": "身体力行",
+              "meaning": "动词，亲身实践",
               "type": "实词"
             },
             {
-              "word": "夷",
-              "pinyin": "Yí",
-              "meaning": "伯夷",
-              "type": "人名"
-            },
-            {
-              "word": "齐",
-              "pinyin": "Qí",
-              "meaning": "叔齐",
+              "word": "夷、齐",
+              "pinyin": "yí qí",
+              "meaning": "指伯夷和叔齐，商末孤竹君之子，以互相让国和不食周粟而饿死著称，被儒家视为高洁之士的典范",
               "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'夷、齐'和中心语'行'",
               "type": "虚词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行为",
+              "meaning": "名词，品行、操守",
               "type": "实词"
             },
             {
               "word": "收召",
               "pinyin": "shōu zhào",
-              "meaning": "招收召集",
+              "meaning": "动词，招揽、聚集",
               "type": "实词"
             },
             {
-              "word": "好名",
-              "pinyin": "hào míng",
-              "meaning": "爱好名声",
+              "word": "好名之士",
+              "pinyin": "hào míng zhī shì",
+              "meaning": "喜好名声的士人",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "士",
-              "pinyin": "shì",
-              "meaning": "士人",
-              "type": "实词"
-            },
-            {
-              "word": "不得志",
-              "pinyin": "bù dé zhì",
-              "meaning": "不得志向",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人",
+              "word": "不得志之人",
+              "pinyin": "bù dé zhì zhī rén",
+              "meaning": "不得志的人",
               "type": "实词"
             },
             {
               "word": "相与",
               "pinyin": "xiāng yǔ",
-              "meaning": "共同",
-              "type": "虚词"
+              "meaning": "副词，共同、一起",
+              "type": "实词"
             },
             {
               "word": "造作",
               "pinyin": "zào zuò",
-              "meaning": "制造",
+              "meaning": "动词，编造、制造",
               "type": "实词"
             },
             {
               "word": "言语",
               "pinyin": "yán yǔ",
-              "meaning": "言论",
+              "meaning": "名词，指舆论、说法",
               "type": "实词"
             },
             {
               "word": "私立",
               "pinyin": "sī lì",
-              "meaning": "私自设立",
+              "meaning": "动词，私自树立",
               "type": "实词"
             },
             {
               "word": "名字",
               "pinyin": "míng zì",
-              "meaning": "名号",
+              "meaning": "名词，此处指名号、称号",
               "type": "实词"
             },
             {
               "word": "以为",
               "pinyin": "yǐ wéi",
-              "meaning": "认为",
+              "meaning": "动词，认为、把……当作",
               "type": "实词"
             },
             {
               "word": "颜渊",
-              "pinyin": "Yán Yuān",
-              "meaning": "颜回",
+              "pinyin": "yán yuān",
+              "meaning": "即颜回，孔子最得意的弟子，以德行著称，后世尊为'复圣'",
               "type": "人名"
             },
             {
               "word": "孟轲",
-              "pinyin": "Mèng Kē",
-              "meaning": "孟子",
+              "pinyin": "mèng kē",
+              "meaning": "即孟子，儒家学派代表人物，被尊为'亚圣'",
               "type": "人名"
             },
             {
               "word": "复出",
               "pinyin": "fù chū",
-              "meaning": "再次出现",
+              "meaning": "动词，再次出现",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，相当于'却'",
               "type": "虚词"
             },
             {
-              "word": "阴贼险狠",
-              "pinyin": "yīn zéi xiǎn hěn",
-              "meaning": "阴险狠毒",
+              "word": "阴贼",
+              "pinyin": "yīn zéi",
+              "meaning": "形容词，内心狠毒。古义：狠毒、残忍（非今义'偷盗者'）",
               "type": "实词"
             },
             {
-              "word": "与",
-              "pinyin": "yǔ",
-              "meaning": "和",
+              "word": "险狠",
+              "pinyin": "xiǎn hěn",
+              "meaning": "形容词，性情险恶凶狠",
+              "type": "实词"
+            },
+            {
+              "word": "与人",
+              "pinyin": "yǔ rén",
+              "meaning": "介词结构，和一般人相比",
               "type": "虚词"
-            },
-            {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "别人",
-              "type": "实词"
             },
             {
               "word": "异趣",
               "pinyin": "yì qù",
-              "meaning": "志趣不同",
+              "meaning": "动词，旨趣不同",
               "type": "实词"
             }
           ]
         },
         {
           "original": "是王衍、卢杞合而为一人也，其祸岂可胜言哉？",
-          "translation": "这是王衍、卢杞合为一个人了，他造成的祸患难道能说得完吗？",
+          "translation": "这是王衍、卢杞合为一个人了，他的祸害难道能说得完吗？",
           "words": [
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "这",
+              "meaning": "指示代词，这",
               "type": "虚词"
             },
             {
               "word": "王衍",
-              "pinyin": "Wáng Yǎn",
-              "meaning": "王衍",
+              "pinyin": "wáng yǎn",
+              "meaning": "西晋大臣，官至司徒，崇尚玄谈，后为石勒所杀，被视为清谈误国的代表",
               "type": "人名"
             },
             {
               "word": "卢杞",
-              "pinyin": "Lú Qǐ",
-              "meaning": "卢杞",
+              "pinyin": "lú qǐ",
+              "meaning": "唐朝宰相，为人奸险，排斥忠良，史称其'阴贼险狠'",
               "type": "人名"
             },
             {
               "word": "合",
               "pinyin": "hé",
-              "meaning": "合并",
+              "meaning": "动词，合并",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而",
+              "meaning": "连词，连接状语'合'和中心语'为'，表顺承",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "成为",
+              "meaning": "动词，成为",
               "type": "实词"
             },
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一个",
+              "meaning": "数词，一个",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "名词，人",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断和肯定",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的，指代前文描述的那种人",
               "type": "虚词"
             },
             {
               "word": "祸",
               "pinyin": "huò",
-              "meaning": "祸害",
+              "meaning": "名词，祸患",
               "type": "实词"
             },
             {
-              "word": "岂",
-              "pinyin": "qǐ",
-              "meaning": "难道",
-              "type": "虚词"
-            },
-            {
-              "word": "可",
-              "pinyin": "kě",
-              "meaning": "可以",
-              "type": "虚词"
+              "word": "岂可",
+              "pinyin": "qǐ kě",
+              "meaning": "副词，怎么能，难道能。与句末'哉'构成反问",
+              "type": "实词"
             },
             {
               "word": "胜言",
               "pinyin": "shèng yán",
-              "meaning": "说完",
+              "meaning": "动词，说完、尽述。胜，尽",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "呢",
+              "meaning": "句末语气词，与'岂'配合表反问，相当于'呢'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "夫面垢不忘洗，衣垢不忘浣，此人之至情也。",
-          "translation": "脸脏了不忘洗脸，衣服脏了不忘洗涤，这是人之常情。",
+          "translation": "脸脏了不忘洗，衣服脏了不忘浣洗，这是人之常情。",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首发语词，表示将要议论或陈述某事，可不译",
               "type": "虚词"
             },
             {
               "word": "面垢",
               "pinyin": "miàn gòu",
-              "meaning": "脸脏",
+              "meaning": "脸上的污垢，指脸脏了",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "忘",
-              "pinyin": "wàng",
-              "meaning": "忘记",
+              "word": "不忘",
+              "pinyin": "bù wàng",
+              "meaning": "不忘记（去做）",
               "type": "实词"
             },
             {
               "word": "洗",
               "pinyin": "xǐ",
-              "meaning": "洗",
+              "meaning": "清洗，这里指洗脸",
               "type": "实词"
             },
             {
               "word": "衣垢",
               "pinyin": "yī gòu",
-              "meaning": "衣服脏",
+              "meaning": "衣服上的污垢，指衣服脏了",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "忘",
-              "pinyin": "wàng",
-              "meaning": "忘记",
+              "word": "不忘",
+              "pinyin": "bù wàng",
+              "meaning": "不忘记（去做）",
               "type": "实词"
             },
             {
               "word": "浣",
               "pinyin": "huàn",
-              "meaning": "洗涤",
+              "meaning": "洗涤，这里指洗衣",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
+              "meaning": "指示代词，这",
               "type": "虚词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人",
+              "meaning": "人们，泛指一般人",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "至情",
               "pinyin": "zhì qíng",
-              "meaning": "真情",
+              "meaning": "最真实、最自然的情感，常情",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "今也不然，衣臣虏之衣，食犬彘之食，囚首丧面，而谈诗书，此岂其情也哉？",
-          "translation": "现在却不是这样，穿着奴仆的衣服，吃着猪狗的食物，像囚犯一样头发蓬乱、面容沮丧，却谈论诗书，这难道是他的真情吗？",
+          "translation": "现在却不是这样，穿奴隶的衣服，吃猪狗的食物，像囚犯一样头发蓬乱，像居丧一样面容憔悴，却谈论诗书，这难道是他的真情吗？",
           "words": [
             {
               "word": "今",
               "pinyin": "jīn",
-              "meaning": "现在",
+              "meaning": "现在，指苏洵所处的时代",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句中语气词，表停顿，舒缓语气",
               "type": "虚词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "然",
-              "pinyin": "rán",
-              "meaning": "这样",
+              "word": "不然",
+              "pinyin": "bù rán",
+              "meaning": "不是这样",
               "type": "实词"
             },
             {
               "word": "衣",
               "pinyin": "yì",
-              "meaning": "穿",
+              "meaning": "此处读 yì，动词，穿（衣服）",
               "type": "实词"
             },
             {
               "word": "臣虏",
               "pinyin": "chén lǔ",
-              "meaning": "奴隶",
+              "meaning": "奴仆，俘虏，指地位低下的人",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "衣",
               "pinyin": "yī",
-              "meaning": "衣服",
+              "meaning": "此处读 yī，名词，衣服",
               "type": "实词"
             },
             {
               "word": "食",
-              "pinyin": "shí",
-              "meaning": "吃",
+              "pinyin": "sì",
+              "meaning": "此处读 sì，动词，吃",
               "type": "实词"
             },
             {
               "word": "犬彘",
               "pinyin": "quǎn zhì",
-              "meaning": "狗猪",
+              "meaning": "狗和猪，比喻粗劣的食物",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "食",
               "pinyin": "shí",
-              "meaning": "食物",
+              "meaning": "此处读 shí，名词，食物",
               "type": "实词"
             },
             {
               "word": "囚首",
               "pinyin": "qiú shǒu",
-              "meaning": "囚犯头",
+              "meaning": "像囚犯一样不梳头，头发散乱",
               "type": "实词"
             },
             {
               "word": "丧面",
-              "pinyin": "sàng miàn",
-              "meaning": "丧脸",
+              "pinyin": "sāng miàn",
+              "meaning": "通“慽面”，愁苦、不洁净的面容。此处“丧”读 sāng，通“慽”，义为悲伤、愁苦",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，却",
               "type": "虚词"
             },
             {
               "word": "谈",
               "pinyin": "tán",
-              "meaning": "谈论",
+              "meaning": "谈论，讲论",
               "type": "实词"
             },
             {
               "word": "诗书",
               "pinyin": "shī shū",
-              "meaning": "诗书经典",
+              "meaning": "《诗经》和《尚书》，这里泛指儒家经典",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，这",
+              "type": "虚词"
             },
             {
               "word": "岂",
               "pinyin": "qǐ",
-              "meaning": "难道",
+              "meaning": "副词，表反问，难道",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，他们的，指代前文“衣臣虏之衣，食犬彘之食，囚首丧面，而谈诗书”之人",
+              "type": "虚词"
             },
             {
               "word": "情",
               "pinyin": "qíng",
-              "meaning": "真情",
+              "meaning": "真情，本性",
               "type": "实词"
             },
             {
-              "word": "也哉",
-              "pinyin": "yě zāi",
-              "meaning": "语气词",
+              "word": "也",
+              "pinyin": "yě",
+              "meaning": "句末语气词，表停顿",
+              "type": "虚词"
+            },
+            {
+              "word": "哉",
+              "pinyin": "zāi",
+              "meaning": "句末反问语气词，与“岂”呼应，加强反问语气",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "凡事之不近人情者，鲜不为大奸慝，竖刁、易牙、开方是也。",
-          "translation": "凡是做事不近人情的人，很少不是大奸大恶的，竖刁、易牙、开方就是这样的人。",
+          "translation": "凡是做事不近人情的，很少不是大奸大恶，竖刁、易牙、开方就是这样的人。",
           "words": [
             {
-              "word": "凡",
-              "pinyin": "fán",
-              "meaning": "凡是",
-              "type": "实词"
-            },
-            {
-              "word": "事",
-              "pinyin": "shì",
-              "meaning": "事情",
+              "word": "凡事",
+              "pinyin": "fán shì",
+              "meaning": "所有事情，一切事情",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间，取消句子独立性，使‘凡事不近人情’成为主语短语",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "近",
               "pinyin": "jìn",
-              "meaning": "接近",
+              "meaning": "动词，接近、符合",
               "type": "实词"
             },
             {
               "word": "人情",
               "pinyin": "rén qíng",
-              "meaning": "人之常情",
+              "meaning": "人的情感、常情",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的（东西）",
+              "meaning": "助词，与前面的‘凡事之不近人情’构成‘者’字结构，指代‘……的事情’",
               "type": "虚词"
             },
             {
               "word": "鲜",
               "pinyin": "xiǎn",
-              "meaning": "少",
+              "meaning": "副词，少",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
-              "type": "实词"
+              "meaning": "此处读 wéi，义为是、属于",
+              "type": "虚词"
             },
             {
               "word": "大奸慝",
               "pinyin": "dà jiān tè",
-              "meaning": "大奸恶",
+              "meaning": "大奸大恶之人。慝：邪恶",
               "type": "实词"
             },
             {
               "word": "竖刁",
               "pinyin": "shù diāo",
-              "meaning": "人名",
+              "meaning": "春秋时齐国宦官，为接近齐桓公自宫，后与易牙等乱政",
               "type": "人名"
             },
             {
               "word": "易牙",
               "pinyin": "yì yá",
-              "meaning": "人名",
+              "meaning": "春秋时齐国厨师，为取悦桓公曾烹其子为羹，与竖刁同为佞臣",
               "type": "人名"
             },
             {
               "word": "开方",
               "pinyin": "kāi fāng",
-              "meaning": "人名",
+              "meaning": "春秋时卫国公子，事齐桓公，父母死不归国，亦为佞臣",
               "type": "人名"
             },
             {
               "word": "是也",
               "pinyin": "shì yě",
-              "meaning": "就是这样",
+              "meaning": "固定结构，表判断，‘就是这样’、‘说的就是这类人’",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "以盖世之名，而济其未形之患，虽有愿治之主，好贤之相，犹将举而用之，则其为天下患，必然而无疑者，非特二子之比也。",
-          "translation": "凭借盖世的名声，来助长他尚未显现的祸患，即使有希望治理好国家的君主，喜好贤能的宰相，还是会提拔重用他，那么他成为天下的祸患，是必然而无疑的，不只是王衍、卢杞二人所能比拟的。",
+          "translation": "用盖世的名声，来助长他尚未显现的祸患，即使有希望治理好国家的君主，喜好贤能的宰相，还是会提拔重用他，那么他成为天下的祸患，是必然而无疑的，不只是王衍、卢杞二人所能比拟的。",
           "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用",
+              "meaning": "介词，凭借、依靠",
               "type": "虚词"
             },
             {
               "word": "盖世",
               "pinyin": "gài shì",
-              "meaning": "压倒一世",
+              "meaning": "形容词，压倒当世，超过世人",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
               "word": "名",
               "pinyin": "míng",
-              "meaning": "名声",
+              "meaning": "名词，名声、名望",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，却",
               "type": "虚词"
             },
             {
               "word": "济",
               "pinyin": "jì",
-              "meaning": "助长",
+              "meaning": "动词，助长、促成",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
-              "type": "实词"
+              "meaning": "代词，他的（指代奸人）",
+              "type": "虚词"
             },
             {
               "word": "未形",
               "pinyin": "wèi xíng",
-              "meaning": "未显现",
+              "meaning": "形容词，尚未显露、未显现出来",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
               "word": "患",
               "pinyin": "huàn",
-              "meaning": "祸患",
+              "meaning": "名词，祸患",
               "type": "实词"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "即使",
+              "meaning": "连词，即使、纵然",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，有",
               "type": "实词"
             },
             {
               "word": "愿治",
               "pinyin": "yuàn zhì",
-              "meaning": "希望治理好",
+              "meaning": "形容词，希望国家得到治理，有励精图治之心",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
               "word": "主",
               "pinyin": "zhǔ",
-              "meaning": "君主",
+              "meaning": "名词，君主",
               "type": "实词"
             },
             {
               "word": "好贤",
               "pinyin": "hào xián",
-              "meaning": "喜好贤才",
+              "meaning": "此处‘好’读 hào，义为喜爱；喜爱贤才",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
               "word": "相",
               "pinyin": "xiàng",
-              "meaning": "宰相",
+              "meaning": "此处读 xiàng，义为宰相、辅政大臣",
               "type": "实词"
             },
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "还",
+              "meaning": "副词，还、仍然",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "副词，会、将会",
               "type": "虚词"
             },
             {
               "word": "举",
               "pinyin": "jǔ",
-              "meaning": "举荐",
+              "meaning": "动词，举荐、提拔",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表承接，然后",
               "type": "虚词"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "任用",
+              "meaning": "动词，任用",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，他（指代奸人）",
+              "type": "虚词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，那么",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他",
-              "type": "实词"
+              "meaning": "代词，他（指代奸人）",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "成为",
-              "type": "实词"
+              "meaning": "此处读 wéi，义为成为",
+              "type": "虚词"
             },
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "国家",
+              "meaning": "名词，指国家、全国",
               "type": "实词"
             },
             {
               "word": "患",
               "pinyin": "huàn",
-              "meaning": "祸患",
+              "meaning": "名词，祸患",
               "type": "实词"
             },
             {
               "word": "必然",
               "pinyin": "bì rán",
-              "meaning": "一定",
+              "meaning": "形容词，一定如此，确定不移",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，连接状语和中心词，表修饰",
               "type": "虚词"
             },
             {
               "word": "无疑",
               "pinyin": "wú yí",
-              "meaning": "没有疑问",
+              "meaning": "动词，没有疑问",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "的（情况）",
+              "meaning": "助词，与‘必然而无疑’构成‘者’字结构，指代‘……的情况’",
               "type": "虚词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "副词，不是",
               "type": "虚词"
             },
             {
               "word": "特",
               "pinyin": "tè",
-              "meaning": "只",
-              "type": "实词"
+              "meaning": "副词，只、仅仅",
+              "type": "虚词"
             },
             {
               "word": "二子",
               "pinyin": "èr zǐ",
-              "meaning": "两个人",
-              "type": "实词"
+              "meaning": "指上文提到的王衍（西晋清谈误国者）和卢杞（唐朝奸相）二人",
+              "type": "人名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的",
               "type": "虚词"
             },
             {
               "word": "比",
               "pinyin": "bǐ",
-              "meaning": "相比",
+              "meaning": "名词，比较、相比",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表判断与肯定",
               "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "孙子曰：“善用兵者，无赫赫之功。”",
-          "translation": "孙子说：“善于用兵的人，没有显赫的战功。”",
-          "words": [
-            {
-              "word": "孙子",
-              "pinyin": "sūn zǐ",
-              "meaning": "孙武",
-              "type": "人名"
-            },
-            {
-              "word": "曰",
-              "pinyin": "yuē",
-              "meaning": "说",
-              "type": "实词"
-            },
-            {
-              "word": "善",
-              "pinyin": "shàn",
-              "meaning": "善于",
-              "type": "实词"
-            },
-            {
-              "word": "用兵",
-              "pinyin": "yòng bīng",
-              "meaning": "用兵",
-              "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的人",
-              "type": "虚词"
-            },
-            {
-              "word": "无",
-              "pinyin": "wú",
-              "meaning": "没有",
-              "type": "虚词"
-            },
-            {
-              "word": "赫赫",
-              "pinyin": "hè hè",
-              "meaning": "显赫",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "功",
-              "pinyin": "gōng",
-              "meaning": "功绩",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "使斯人而不用也，则吾言为过，而斯人有不遇之叹，孰知祸之至于此哉！",
-          "translation": "假使这个人不被任用，那么我的话就是错的，而这个人会有怀才不遇的感叹，谁知道祸患会达到这种地步呢！",
-          "words": [
-            {
-              "word": "使",
-              "pinyin": "shǐ",
-              "meaning": "如果",
-              "type": "虚词"
-            },
-            {
-              "word": "斯人",
-              "pinyin": "sī rén",
-              "meaning": "这个人",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
-              "type": "虚词"
-            },
-            {
-              "word": "不用",
-              "pinyin": "bù yòng",
-              "meaning": "不使用",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "语气词",
-              "type": "虚词"
-            },
-            {
-              "word": "则",
-              "pinyin": "zé",
-              "meaning": "那么",
-              "type": "虚词"
-            },
-            {
-              "word": "吾言",
-              "pinyin": "wú yán",
-              "meaning": "我的话",
-              "type": "实词"
-            },
-            {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "是",
-              "type": "实词"
-            },
-            {
-              "word": "过",
-              "pinyin": "guò",
-              "meaning": "过错",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
-              "type": "虚词"
-            },
-            {
-              "word": "斯人",
-              "pinyin": "sī rén",
-              "meaning": "这个人",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有",
-              "type": "实词"
-            },
-            {
-              "word": "不遇",
-              "pinyin": "bù yù",
-              "meaning": "不被赏识",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "叹",
-              "pinyin": "tàn",
-              "meaning": "叹息",
-              "type": "实词"
-            },
-            {
-              "word": "孰",
-              "pinyin": "shú",
-              "meaning": "谁",
-              "type": "虚词"
-            },
-            {
-              "word": "知",
-              "pinyin": "zhī",
-              "meaning": "知道",
-              "type": "实词"
-            },
-            {
-              "word": "祸",
-              "pinyin": "huò",
-              "meaning": "灾祸",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "助词",
-              "type": "虚词"
-            },
-            {
-              "word": "至于",
-              "pinyin": "zhì yú",
-              "meaning": "到",
-              "type": "实词"
-            },
-            {
-              "word": "此",
-              "pinyin": "cǐ",
-              "meaning": "这里",
-              "type": "实词"
-            },
-            {
-              "word": "哉",
-              "pinyin": "zāi",
-              "meaning": "语气词",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "不然，于下将被其祸，而吾获知言之名，悲夫！",
-          "translation": "否则，天下将遭受他的祸患，而我却获得有先见之明的名声，可悲啊！",
-          "words": [
-            {
-              "word": "不然",
-              "pinyin": "bù rán",
-              "meaning": "否则",
-              "type": "实词"
-            },
-            {
-              "word": "于下",
-              "pinyin": "yú xià",
-              "meaning": "在下",
-              "type": "实词"
-            },
-            {
-              "word": "将",
-              "pinyin": "jiāng",
-              "meaning": "将要",
-              "type": "虚词"
-            },
-            {
-              "word": "被",
-              "pinyin": "bèi",
-              "meaning": "遭受",
-              "type": "实词"
-            },
-            {
-              "word": "其祸",
-              "pinyin": "qí huò",
-              "meaning": "他的灾祸",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词",
-              "type": "虚词"
-            },
-            {
-              "word": "吾",
-              "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
-            },
-            {
-              "word": "获",
-              "pinyin": "huò",
-              "meaning": "获得",
-              "type": "实词"
-            },
-            {
-              "word": "知言",
-              "pinyin": "zhī yán",
-              "meaning": "知言",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "名",
-              "pinyin": "míng",
-              "meaning": "名声",
-              "type": "实词"
-            },
-            {
-              "word": "悲夫",
-              "pinyin": "bēi fū",
-              "meaning": "悲哀啊",
-              "type": "实词"
             }
           ]
         }
@@ -2282,7 +1942,7 @@
     },
     {
       "original": "孙子曰：“善用兵者，无赫赫之功。”使斯人而不用也，则吾言为过，而斯人有不遇之叹，孰知祸之至于此哉！不然，于下将被其祸，而吾获知言之名，悲夫！",
-      "translation": "孙子说：“善于用兵的人，没有显赫的战功。”假使这个人不被任用，那么我的话就是错的，而这个人会有怀才不遇的感叹，谁知道祸患会达到这种地步呢！否则，天下人将遭受他的祸害，而我却获得了有先见之明的名声，可悲啊！",
+      "translation": "孙子说：“善于用兵的人，没有显赫的战功。”假使这个人不被任用，那么我的话就是错的，而这个人会有怀才不遇的感叹，谁会知道祸患会严重到这种地步呢！如果不是这样（即如果他被任用），那么天下百姓将遭受他的祸害，而我却获得有先见之明的名声，这真是可悲啊！",
       "sentences": [
         {
           "original": "孙子曰：“善用兵者，无赫赫之功。”",
@@ -2291,259 +1951,259 @@
             {
               "word": "孙子",
               "pinyin": "sūn zǐ",
-              "meaning": "孙武",
+              "meaning": "人名，指孙武，春秋时期著名军事家，著有《孙子兵法》。此处作为权威被引用。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
-              "word": "善用兵",
-              "pinyin": "shàn yòng bīng",
-              "meaning": "善于用兵",
+              "word": "善用兵者",
+              "pinyin": "shàn yòng bīng zhě",
+              "meaning": "善于用兵的人。",
               "type": "实词"
-            },
-            {
-              "word": "者",
-              "pinyin": "zhě",
-              "meaning": "...的人",
-              "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
-              "type": "实词"
-            },
-            {
-              "word": "赫赫",
-              "pinyin": "hè hè",
-              "meaning": "显赫",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "动词，没有。",
               "type": "虚词"
             },
             {
-              "word": "功",
-              "pinyin": "gōng",
-              "meaning": "功绩",
+              "word": "赫赫之功",
+              "pinyin": "hè hè zhī gōng",
+              "meaning": "显赫的战功。赫赫，显赫盛大貌；之，助词，的。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "使斯人而不用也，则吾言为过，而斯人有不遇之叹，孰知祸之至于此哉！",
-          "translation": "假使这个人不被任用，那么我的话就是错的，而这个人会有怀才不遇的感叹，谁知道祸患会达到这种地步呢！",
+          "translation": "假使这个人不被任用，那么我的话就是错的，而这个人会有怀才不遇的感叹，谁会知道祸患会严重到这种地步呢！",
           "words": [
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "如果",
+              "meaning": "连词，假使、如果。",
               "type": "虚词"
             },
             {
               "word": "斯人",
               "pinyin": "sī rén",
-              "meaning": "此人",
-              "type": "实词"
+              "meaning": "这个人。斯，指示代词，这。",
+              "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表示承接关系，可不译。",
               "type": "虚词"
             },
             {
               "word": "不用",
               "pinyin": "bù yòng",
-              "meaning": "不被任用",
+              "meaning": "不被任用。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气",
+              "meaning": "句末语气词，表示假设语气下的停顿。",
               "type": "虚词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，那么，表示承接关系。",
               "type": "虚词"
             },
             {
               "word": "吾言",
               "pinyin": "wú yán",
-              "meaning": "我的话",
+              "meaning": "我的话。吾，第一人称代词，我。",
               "type": "实词"
             },
             {
-              "word": "为过",
-              "pinyin": "wéi guò",
-              "meaning": "是错误",
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "动词，是。",
+              "type": "虚词"
+            },
+            {
+              "word": "过",
+              "pinyin": "guò",
+              "meaning": "形容词，错误。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表示并列关系。",
               "type": "虚词"
             },
             {
               "word": "斯人",
               "pinyin": "sī rén",
-              "meaning": "此人",
-              "type": "实词"
+              "meaning": "同前，指代王安石。",
+              "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，怀有。",
               "type": "实词"
             },
             {
-              "word": "不遇",
-              "pinyin": "bù yù",
-              "meaning": "不被赏识",
+              "word": "不遇之叹",
+              "pinyin": "bù yù zhī tàn",
+              "meaning": "怀才不遇的感叹。不遇，没有遇到赏识重用自己的机会。",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
+              "word": "孰知",
+              "pinyin": "shú zhī",
+              "meaning": "谁知道。孰，疑问代词，谁。",
               "type": "虚词"
-            },
-            {
-              "word": "叹",
-              "pinyin": "tàn",
-              "meaning": "叹息",
-              "type": "实词"
-            },
-            {
-              "word": "孰",
-              "pinyin": "shú",
-              "meaning": "谁",
-              "type": "虚词"
-            },
-            {
-              "word": "知",
-              "pinyin": "zhī",
-              "meaning": "知道",
-              "type": "实词"
             },
             {
               "word": "祸",
               "pinyin": "huò",
-              "meaning": "灾祸",
+              "meaning": "名词，灾祸。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "到",
+              "meaning": "助词，用于主谓结构之间，取消句子独立性。",
               "type": "虚词"
             },
             {
-              "word": "至于此",
-              "pinyin": "zhì yú cǐ",
-              "meaning": "到这种地步",
+              "word": "至于",
+              "pinyin": "zhì yú",
+              "meaning": "古义：达到（某种地步）。（非今义表示另提一事的介词）",
               "type": "实词"
+            },
+            {
+              "word": "此",
+              "pinyin": "cǐ",
+              "meaning": "指示代词，这种地步。",
+              "type": "虚词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "啊",
+              "meaning": "句末语气词，表示感叹。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "不然，于下将被其祸，而吾获知言之名，悲夫！",
-          "translation": "否则，天下人将遭受他的祸害，而我却获得了有先见之明的名声，可悲啊！",
+          "translation": "如果不是这样（即如果他被任用），那么天下百姓将遭受他的祸害，而我却获得有先见之明的名声，这真是可悲啊！",
           "words": [
             {
-              "word": "不然",
-              "pinyin": "bù rán",
-              "meaning": "否则",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，用于否定'然'，表示'不是这样'或'否则'，引出与前文假设相反的情况",
               "type": "虚词"
             },
             {
-              "word": "于下",
-              "pinyin": "yú xià",
-              "meaning": "在下位的人",
+              "word": "然",
+              "pinyin": "rán",
+              "meaning": "指示代词，指代前文'使斯人而不用也'的假设情况，意为'这样'，在'不然'中表示假设的否定",
+              "type": "虚词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，引出动作涉及的对象或范围，此处表示'在…方面'，与'下'构成介词短语",
+              "type": "虚词"
+            },
+            {
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "名词，指地位在下的人或普通民众，与'于'连用表示'在下位的人'",
               "type": "实词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "时间副词，表示动作或情况即将发生，意为'将要'",
               "type": "虚词"
             },
             {
               "word": "被",
               "pinyin": "bèi",
-              "meaning": "遭受",
+              "meaning": "动词，表示遭受、蒙受，此处指承受祸患",
               "type": "实词"
             },
             {
-              "word": "其祸",
-              "pinyin": "qí huò",
-              "meaning": "那个灾祸",
+              "word": "其",
+              "pinyin": "qí",
+              "meaning": "代词，指代前文'斯人'（可能指王安石）或祸患的来源，意为'他的'或'那'",
+              "type": "虚词"
+            },
+            {
+              "word": "祸",
+              "pinyin": "huò",
+              "meaning": "名词，指灾难、祸害，此处指政治或社会上的祸患",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而",
+              "meaning": "连词，此处表示转折关系，连接前后两个分句，相当于'却'或'但是'",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "人称代词，指作者苏洵自己，意为'我'",
+              "type": "虚词"
             },
             {
               "word": "获",
               "pinyin": "huò",
-              "meaning": "获得",
+              "meaning": "动词，表示得到、取得，此处指获得名声",
               "type": "实词"
             },
             {
-              "word": "知言",
-              "pinyin": "zhī yán",
-              "meaning": "有预见的言论",
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，此处指预知、洞察，与'言'结合表示有先见之明的言论",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "名词，指言论、话语，此处特指有见识或预知性的言论",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接'知言'和'名'，表示所属关系",
               "type": "虚词"
             },
             {
               "word": "名",
               "pinyin": "míng",
-              "meaning": "名声",
+              "meaning": "名词，指名声、声誉，此处指因有先见之明而获得的声望",
               "type": "实词"
             },
             {
               "word": "悲",
               "pinyin": "bēi",
-              "meaning": "悲伤",
+              "meaning": "动词，表示感到悲哀、悲伤，此处表达作者对可能结果的感慨",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "啊",
+              "meaning": "此处读fú，句末语气词，表示感叹或惋惜，相当于'啊'或'吧'",
               "type": "虚词"
             }
           ]

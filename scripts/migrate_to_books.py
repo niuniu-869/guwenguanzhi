@@ -53,6 +53,12 @@ def migrate_guwenguanzhi() -> None:
     print("=== 迁移古文观止 ===")
     dst = OUT_BOOKS / "guwenguanzhi"
     dst_docs = dst / "documents"
+    dst_catalog = dst / "catalog.json"
+    if dst_catalog.exists():
+        existing = json.loads(dst_catalog.read_text(encoding="utf-8"))
+        if "bookId" in existing:
+            print("  ⏭️  已迁移，跳过")
+            return
     src_catalog = json.loads(SRC_CATALOG.read_text(encoding="utf-8"))
 
     # 1. book.json
@@ -138,6 +144,12 @@ def migrate_shiji() -> None:
     print("=== 迁移史记 ===")
     dst = OUT_BOOKS / "shiji"
     dst_docs = dst / "documents"
+    dst_catalog = dst / "catalog.json"
+    if dst_catalog.exists():
+        existing = json.loads(dst_catalog.read_text(encoding="utf-8"))
+        if "bookId" in existing:
+            print("  ⏭️  已迁移，跳过")
+            return
     old_catalog = json.loads((SRC_SHIJI / "catalog.json").read_text(encoding="utf-8"))
 
     # 1. book.json

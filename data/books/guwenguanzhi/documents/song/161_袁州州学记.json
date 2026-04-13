@@ -1,317 +1,295 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "161_袁州州学记",
   "title": "袁州州学记",
   "author": {
     "id": "song_李觏",
     "name": "李觏",
     "dynasty": "song",
-    "bio": "李觏（1009年－1059年），字泰伯，号盱江先生，北宋建昌军南城（今江西南城）人。他是北宋中期重要的思想家、文学家，一生未仕，以教学和著述为业。李觏提倡经世致用，反对佛老和空谈，主张改革弊政，关注社会现实。他的文章多涉及教育、伦理和政治，著有《直讲李先生文集》（又称《盱江文集》），对后世儒家思想发展有一定影响。李觏在《袁州州学记》中体现了其重视教育、强调道德修养的理念，是宋代儒学复兴运动中的代表人物之一。"
+    "bio": "李觏（1009-1059），字泰伯，号旴江先生，北宋建昌军南城（今江西南城）人。曾任太学助教、直讲等职，是北宋中期思想家、文学家。代表作有《直讲李先生文集》，其文注重经世致用，反对空谈，对王安石变法有影响。在文学史上以议论散文见长，风格简练务实。"
   },
   "source": "",
   "dynasty": "song",
   "volume": 9,
-  "background": "《袁州州学记》写作于宋代庆历年间，具体为宋仁宗庆历四年（1044年）之后。当时，宋仁宗推行庆历新政，下诏州县立学，以振兴儒学、培养人才。然而，各地官员执行不一，有的尽心竭力，有的敷衍塞责，导致教育推行不畅。袁州（今江西宜春）在祖无泽任知州时，发现学宫残缺，担忧人才流失、儒学失效，遂与通判陈侁商议，选址重建学校。经过精心规划和施工，学校于次年建成。李觏作为旴江学者，受邀撰写此文，记录建学过程并阐述教育意义。文章反映了宋代兴学运动的历史背景，以及儒家学者对教育救国的深切关注，旨在呼吁地方官员和士人重视教育，以实现教化人心、巩固社稷的目标。",
-  "appreciation": "《袁州州学记》是一篇结构严谨、思想深刻的宋代散文，兼具叙事与议论之美。文章开篇简述州县立学的诏令及执行不一的状况，通过对比手法突出袁州建学的积极意义，如“有哲有愚”“倡而不和”，生动展现时代背景。叙事部分细致描写建学过程，从选址“厥土燥刚，厥位面阳”到建筑“殿堂门庑，黝垩丹漆”，语言简洁而形象，体现古文之精炼。议论部分则通过历史典故，如秦朝因废弃《诗》《书》而速亡、汉代因重视学术而教化深厚，引用经典《诗》《书》来论证教育对国家兴衰的关键作用。作者进一步提出教育的终极目的：在太平时期“谭礼乐以陶吾民”，在乱世时“仗大节，为臣死忠，为子死孝”，强调儒家伦理的实践性，反对功利主义的“弄笔墨以侥利达”。全文逻辑清晰，用典贴切，情感真挚，既是一篇建学记事文，更是一篇倡导教育救国的议论文，体现了李觏经世致用的思想和对社会责任的担当。艺术上，文章运用排比、对比等修辞，增强说服力，语言古朴有力，是宋代古文中的佳作。",
+  "background": "北宋仁宗庆历三年（1043年），朝廷下诏州县立学，推行教育改革。地方官员执行不一，有尽心者，亦有敷衍者，导致学校荒废。庆历四年，祖无泽任袁州知州，见学宫残缺，与通判陈侁议建新学，选址城东，精心营建，次年学成。李觏作为旴江学者，受邀在州学落成祭祀时发表议论，写作此文。动机是借袁州学事，阐述教育真义，批评当时教育流于功利，呼吁重视儒家教化。",
+  "appreciation": "文章以记叙与议论结合。前半简述诏令立学及袁州建学过程，后半借李觏之口展开议论，结构清晰。艺术上，语言简练，多用对偶排比，如‘有哲有愚’、‘屈力殚虑，祇顺德意；假官借师，苟具文书’，增强节奏感。思想内涵强调教育应培养忠孝节义，通过秦汉历史对比，指出教化对国家稳定的作用，批评仅为利达的功利教育。此文体现了宋代古文文以载道的特点，是李觏议论散文的代表作。",
   "tags": [
-    "教育兴学",
-    "宋代散文",
-    "儒家思想"
+    "议论",
+    "叙事",
+    "政治",
+    "哲理"
   ],
   "paragraphs": [
     {
       "original": "皇帝二十有三年，制诏州县立学。惟时守令，有哲有愚。有屈力殚虑，祇顺德意；有假官借师，苟具文书。或连数城，亡诵弦声。倡而不和，教尼不行。",
-      "translation": "皇帝在位的第二十三年，下诏命令各州县设立学校。当时的太守和县令，有的聪明，有的愚昧。有的竭尽心力，恭敬地遵循皇帝的旨意；有的假借官职和教师的名义，只是敷衍了事，只做表面文章。有的连续几个城市，都没有读书声。倡导却不响应，教育受阻无法推行。",
+      "translation": "皇帝在位二十三年时，下诏命令各州县设立学校。当时的太守和县令，有的明智，有的愚昧。有的竭尽全力，恭敬地遵从皇帝的旨意；有的假借官职和师长之名，苟且敷衍，只做表面文章。以至于连续数座城池，都没有读书声。倡导却无人响应，教化受阻无法推行。",
       "sentences": [
         {
           "original": "皇帝二十有三年，制诏州县立学。",
-          "translation": "皇帝在位的第二十三年，下诏命令各州县设立学校。",
+          "translation": "皇帝在位二十三年时，下诏命令各州县设立学校。",
           "words": [
             {
               "word": "皇帝",
               "pinyin": "huáng dì",
-              "meaning": "君主",
+              "meaning": "此处特指宋仁宗赵祯（1010-1063），在位期间推行庆历兴学。",
               "type": "实词"
             },
             {
               "word": "二十",
               "pinyin": "èr shí",
-              "meaning": "数字二十",
+              "meaning": "数词，二十。",
               "type": "实词"
             },
             {
               "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "又",
+              "pinyin": "yòu",
+              "meaning": "通'又'，用于整数与零数之间，表示连接。",
               "type": "虚词"
             },
             {
               "word": "三年",
               "pinyin": "sān nián",
-              "meaning": "三个年头",
+              "meaning": "时间名词，指宋仁宗在位的第二十三年（即庆历四年，1044年）。",
               "type": "实词"
             },
             {
               "word": "制诏",
               "pinyin": "zhì zhào",
-              "meaning": "皇帝命令",
+              "meaning": "古义：皇帝颁发的命令文告（非今义'制造诏书'的动作）。",
               "type": "实词"
             },
             {
               "word": "州县",
               "pinyin": "zhōu xiàn",
-              "meaning": "地方行政",
+              "meaning": "地方行政区划，州和县。",
               "type": "实词"
             },
             {
               "word": "立学",
               "pinyin": "lì xué",
-              "meaning": "建立学校",
+              "meaning": "建立官学（学校）。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "惟时守令，有哲有愚。",
-          "translation": "当时的太守和县令，有的聪明，有的愚昧。",
+          "translation": "当时的太守和县令，有的明智，有的愚昧。",
           "words": [
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "发语词",
+              "meaning": "句首语气词，表示强调或提示，可译为'那'、'那些'。",
               "type": "虚词"
             },
             {
               "word": "时",
               "pinyin": "shí",
-              "meaning": "当时",
+              "meaning": "名词，当时、那时。",
               "type": "实词"
             },
             {
               "word": "守令",
               "pinyin": "shǒu lìng",
-              "meaning": "地方官",
+              "meaning": "官职名，指州一级的行政长官'太守'和县一级的行政长官'县令'。",
               "type": "官职"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有的",
-              "type": "虚词"
+              "meaning": "动词，表示存在，可译为'有的'。",
+              "type": "实词"
             },
             {
               "word": "哲",
               "pinyin": "zhé",
-              "meaning": "聪明",
+              "meaning": "形容词，明智、贤明。",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有的",
-              "type": "虚词"
+              "meaning": "动词，表示存在，可译为'有的'。",
+              "type": "实词"
             },
             {
               "word": "愚",
               "pinyin": "yú",
-              "meaning": "愚笨",
+              "meaning": "形容词，愚昧、昏庸。",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "有屈力殚虑，祇顺德意；",
-          "translation": "有的竭尽心力，恭敬地遵循皇帝的旨意；",
+          "original": "有屈力殚虑，祇顺德意；有假官借师，苟具文书。",
+          "translation": "有的竭尽全力，恭敬地遵从皇帝的旨意；有的假借官职和师长之名，苟且敷衍，只做表面文章。",
           "words": [
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有的",
-              "type": "虚词"
+              "meaning": "动词，表示存在，指有些人这样做",
+              "type": "实词"
             },
             {
               "word": "屈力殚虑",
               "pinyin": "qū lì dān lǜ",
-              "meaning": "竭尽心力",
-              "type": "实词"
+              "meaning": "成语，用尽力量和思虑，形容竭尽心力",
+              "type": "典故"
             },
             {
               "word": "祇",
-              "pinyin": "zhǐ",
-              "meaning": "恭敬",
-              "type": "虚词"
+              "pinyin": "qí",
+              "meaning": "恭敬，形容态度虔诚",
+              "type": "实词"
             },
             {
               "word": "顺",
               "pinyin": "shùn",
-              "meaning": "遵从",
+              "meaning": "遵循，遵从旨意",
               "type": "实词"
             },
             {
               "word": "德意",
               "pinyin": "dé yì",
-              "meaning": "恩德意图",
+              "meaning": "皇帝的恩德和意旨",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "有假官借师，苟具文书。",
-          "translation": "有的假借官职和教师的名义，只是敷衍了事，只做表面文章。",
-          "words": [
+            },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有的",
-              "type": "虚词"
+              "meaning": "动词，表示存在，指另一些人",
+              "type": "实词"
             },
             {
               "word": "假",
               "pinyin": "jiǎ",
-              "meaning": "借用",
+              "meaning": "假借，借用名义",
               "type": "实词"
             },
             {
               "word": "官",
               "pinyin": "guān",
-              "meaning": "官职",
+              "meaning": "官职，官员职位",
               "type": "实词"
             },
             {
               "word": "借",
               "pinyin": "jiè",
-              "meaning": "借用",
+              "meaning": "借助，利用资源",
               "type": "实词"
             },
             {
               "word": "师",
               "pinyin": "shī",
-              "meaning": "老师",
+              "meaning": "师长，教师",
               "type": "实词"
             },
             {
               "word": "苟",
               "pinyin": "gǒu",
-              "meaning": "苟且",
+              "meaning": "副词，苟且、敷衍地，表示做事不认真",
               "type": "虚词"
             },
             {
               "word": "具",
               "pinyin": "jù",
-              "meaning": "备办",
+              "meaning": "备办，准备文书",
               "type": "实词"
             },
             {
               "word": "文书",
-              "pinyin": "wénshū",
-              "meaning": "公文",
+              "pinyin": "wén shū",
+              "meaning": "公文和文书，官方文件",
               "type": "实词"
             }
           ]
         },
         {
           "original": "或连数城，亡诵弦声。",
-          "translation": "有的连续几个城市，都没有读书声。",
+          "translation": "以至于连续数座城池，都没有读书声。",
           "words": [
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "有的",
+              "meaning": "虚词，有的地方，表示部分城市的情况",
               "type": "虚词"
             },
             {
               "word": "连",
               "pinyin": "lián",
-              "meaning": "连接",
+              "meaning": "动词，连接，指城市相连",
               "type": "实词"
             },
             {
-              "word": "数",
-              "pinyin": "shù",
-              "meaning": "几个",
-              "type": "实词"
-            },
-            {
-              "word": "城",
-              "pinyin": "chéng",
-              "meaning": "城市",
+              "word": "数城",
+              "pinyin": "shù chéng",
+              "meaning": "此处'数'读 shù，义为几、多个；'城'指城市，合指几座城市",
               "type": "实词"
             },
             {
               "word": "亡",
-              "pinyin": "wáng",
-              "meaning": "没有",
+              "pinyin": "wú",
+              "meaning": "通'无'，义为没有",
               "type": "实词"
             },
             {
-              "word": "诵",
-              "pinyin": "sòng",
-              "meaning": "诵读",
-              "type": "实词"
-            },
-            {
-              "word": "弦",
-              "pinyin": "xián",
-              "meaning": "弦歌",
-              "type": "实词"
-            },
-            {
-              "word": "声",
-              "pinyin": "shēng",
-              "meaning": "声音",
+              "word": "诵弦声",
+              "pinyin": "sòng xián shēng",
+              "meaning": "诵读和弦歌的声音，指教育文化活动",
               "type": "实词"
             }
           ]
         },
         {
           "original": "倡而不和，教尼不行。",
-          "translation": "倡导却不响应，教育受阻无法推行。",
+          "translation": "倡导却无人响应，教化受阻无法推行。",
           "words": [
             {
               "word": "倡",
               "pinyin": "chàng",
-              "meaning": "倡导",
+              "meaning": "动词，倡导，指皇帝诏令州县立学的号召",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表转折，相当于'却'，连接'倡'与'不和'两个动作",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，修饰动词'和'，表示对倡导不响应",
               "type": "虚词"
             },
             {
               "word": "和",
               "pinyin": "hè",
-              "meaning": "应和",
+              "meaning": "此处读 hè，义为应和、响应，指地方官员不积极响应立学倡导",
               "type": "实词"
             },
             {
               "word": "教",
               "pinyin": "jiào",
-              "meaning": "教化",
+              "meaning": "此处读 jiào，义为教育、教化，指州学教育事业",
               "type": "实词"
             },
             {
               "word": "尼",
               "pinyin": "ní",
-              "meaning": "阻止",
+              "meaning": "通'抳'，义为阻止、止息，指教育被阻碍而无法开展",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，修饰动词'行'，表示教育不能实行",
               "type": "虚词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "推行",
+              "meaning": "动词，实行、推行，指教育政策无法实施",
               "type": "实词"
             }
           ]
@@ -320,214 +298,220 @@
     },
     {
       "original": "三十有二年，范阳祖君无泽，知袁州。始至，进诸生，知学宫阙状。大惧人材放失，儒效阔疏，亡以称上意旨。通判颍川陈君侁，闻而是之，议以克合。",
-      "translation": "三十二年，范阳的祖无泽担任袁州知州。刚到任，就召见学生们，了解到学宫的缺失状况。他非常担心人才流失，儒学效果疏远，无法符合皇上的旨意。通判颍川的陈侁听说后赞同这个意见，商议后达成一致。",
+      "translation": "在位第三十二年，范阳人祖无泽担任袁州知州。刚到任，就召见学生们，了解到学宫破败的状况。他非常担心人才散失，儒学的功效疏远，无法符合皇上的意旨。通判颍川人陈侁听说后赞同这件事，商议后能够达成一致。",
       "sentences": [
         {
           "original": "三十有二年，范阳祖君无泽，知袁州。",
-          "translation": "三十二年，范阳的祖无泽担任袁州知州。",
+          "translation": "在位第三十二年，范阳人祖无泽担任袁州知州。",
           "words": [
             {
               "word": "三十有二年",
               "pinyin": "sān shí yòu èr nián",
-              "meaning": "三十二年",
+              "meaning": "三十二年。‘有’用于整数与零数之间，是古代汉语的固定用法。",
               "type": "实词"
             },
             {
               "word": "范阳",
               "pinyin": "fàn yáng",
-              "meaning": "地名",
+              "meaning": "古郡名，在今河北涿州一带，是祖无泽的郡望（祖籍）。",
               "type": "地名"
             },
             {
               "word": "祖君无泽",
               "pinyin": "zǔ jūn wú zé",
-              "meaning": "人名",
+              "meaning": "即祖无泽，北宋官员，‘君’是尊称。时任袁州知州。",
               "type": "人名"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "担任知州",
-              "type": "官职"
+              "meaning": "动词，主持、掌管，此处特指担任知州（一州的行政长官）。",
+              "type": "实词"
             },
             {
               "word": "袁州",
               "pinyin": "yuán zhōu",
-              "meaning": "地名",
+              "meaning": "州名，治所在今江西省宜春市。",
               "type": "地名"
             }
           ]
         },
         {
           "original": "始至，进诸生，知学宫阙状。",
-          "translation": "刚到任，就召见学生们，了解到学宫的缺失状况。",
+          "translation": "刚到任，就召见学生们，了解到学宫破败的状况。",
           "words": [
             {
-              "word": "始至",
-              "pinyin": "shǐ zhì",
-              "meaning": "开始到达",
+              "word": "始",
+              "pinyin": "shǐ",
+              "meaning": "副词，表示动作行为的开始，起初、刚刚。",
+              "type": "虚词"
+            },
+            {
+              "word": "至",
+              "pinyin": "zhì",
+              "meaning": "动词，到达（袁州）。",
               "type": "实词"
             },
             {
               "word": "进",
               "pinyin": "jìn",
-              "meaning": "进见",
+              "meaning": "动词，召见、接见。",
               "type": "实词"
             },
             {
               "word": "诸生",
               "pinyin": "zhū shēng",
-              "meaning": "学生们",
+              "meaning": "指州学的学生们。‘诸’为众多，‘生’为生员。",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，了解、知晓。",
               "type": "实词"
             },
             {
-              "word": "学宫",
-              "pinyin": "xué gōng",
-              "meaning": "学校",
-              "type": "实词"
-            },
-            {
-              "word": "阙状",
-              "pinyin": "quē zhuàng",
-              "meaning": "残缺状况",
+              "word": "学宫阙状",
+              "pinyin": "xué gōng quē zhuàng",
+              "meaning": "学宫（官办学校）残破的状况。‘阙’通‘缺’，残缺、败坏。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "大惧人材放失，儒效阔疏，亡以称上意旨。",
-          "translation": "他非常担心人才流失，儒学效果疏远，无法符合皇上的旨意。",
+          "translation": "他非常担心人才散失，儒学的功效疏远，无法符合皇上的意旨。",
           "words": [
             {
-              "word": "大惧",
-              "pinyin": "dà jù",
-              "meaning": "非常害怕",
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "副词，非常、十分，表示程度深。",
+              "type": "虚词"
+            },
+            {
+              "word": "惧",
+              "pinyin": "jù",
+              "meaning": "动词，担心、忧虑。",
               "type": "实词"
             },
             {
               "word": "人材",
               "pinyin": "rén cái",
-              "meaning": "人才",
+              "meaning": "名词，有才能的人。",
               "type": "实词"
             },
             {
               "word": "放失",
               "pinyin": "fàng shī",
-              "meaning": "散失",
+              "meaning": "动词，散失、流散。",
               "type": "实词"
             },
             {
               "word": "儒效",
               "pinyin": "rú xiào",
-              "meaning": "儒学功效",
+              "meaning": "名词，儒学的功效、作用。",
               "type": "实词"
             },
             {
               "word": "阔疏",
               "pinyin": "kuò shū",
-              "meaning": "疏远",
+              "meaning": "形容词，荒废、疏略。",
               "type": "实词"
             },
             {
               "word": "亡以",
               "pinyin": "wú yǐ",
-              "meaning": "无法",
+              "meaning": "固定结构，通‘无以’，意为‘没有用来…的办法’。",
               "type": "虚词"
             },
             {
               "word": "称",
               "pinyin": "chèn",
-              "meaning": "符合",
+              "meaning": "此处读 chèn，动词，符合、配得上。",
               "type": "实词"
             },
             {
               "word": "上",
               "pinyin": "shàng",
-              "meaning": "皇上",
+              "meaning": "名词，指皇上、皇帝。",
               "type": "实词"
             },
             {
               "word": "意旨",
               "pinyin": "yì zhǐ",
-              "meaning": "意旨",
+              "meaning": "名词，意图、旨意。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "通判颍川陈君侁，闻而是之，议以克合。",
-          "translation": "通判颍川的陈侁听说后赞同这个意见，商议后达成一致。",
+          "translation": "通判颍川人陈侁听说后赞同这件事，商议后能够达成一致。",
           "words": [
             {
               "word": "通判",
               "pinyin": "tōng pàn",
-              "meaning": "官职名，州副职",
+              "meaning": "官职名，宋代州府副长官，有监督州府官员之权。",
               "type": "官职"
             },
             {
               "word": "颍川",
               "pinyin": "yǐng chuān",
-              "meaning": "地名，古郡名",
+              "meaning": "地名，郡名，治所在阳翟（今河南禹州），此处为陈侁的郡望。",
               "type": "地名"
             },
             {
               "word": "陈君侁",
               "pinyin": "chén jūn shēn",
-              "meaning": "人名，陈侁",
+              "meaning": "人名，袁州通判，名侁（shēn），‘君’为敬称。",
               "type": "人名"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听到",
+              "meaning": "动词，听说。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，表承接",
+              "meaning": "连词，表示顺承关系，可译为‘就’。",
               "type": "虚词"
             },
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "认为正确",
+              "meaning": "动词，认为正确、赞同。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指代",
+              "meaning": "代词，指代祖无泽‘大惧人材放失…’的意见。",
               "type": "虚词"
             },
             {
               "word": "议",
               "pinyin": "yì",
-              "meaning": "商议",
+              "meaning": "动词，商议、讨论。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "介词，表凭借",
+              "meaning": "介词，因、因此。",
               "type": "虚词"
             },
             {
               "word": "克",
               "pinyin": "kè",
-              "meaning": "能够",
+              "meaning": "动词，能够。",
               "type": "实词"
             },
             {
               "word": "合",
               "pinyin": "hé",
-              "meaning": "一致",
+              "meaning": "动词，达成一致、吻合。",
               "type": "实词"
             }
           ]
@@ -536,130 +520,112 @@
     },
     {
       "original": "相旧夫子庙，狭隘不足改为，乃营治之东。厥土燥刚，厥位面阳，厥材孔良。",
-      "translation": "查看旧的孔子庙，发现它狭窄简陋，不足以改建，于是在城池的东边营建新学宫。那里的土壤干燥坚硬，位置向阳，材料非常优良。",
+      "translation": "察看旧的夫子庙，发现它狭窄简陋，不足以改建，于是在州治的东边选址建造。新址土地干燥坚硬，位置向阳，材料非常优良。",
       "sentences": [
         {
           "original": "相旧夫子庙，狭隘不足改为，乃营治之东。",
-          "translation": "查看旧的孔子庙，发现它狭窄简陋，不足以改建，于是在城池的东边营建新学宫。",
+          "translation": "察看旧的夫子庙，发现它狭窄简陋，不足以改建，于是在州治的东边选址建造。",
           "words": [
             {
               "word": "相",
               "pinyin": "xiàng",
-              "meaning": "观察",
+              "meaning": "此处读 xiàng，义为察看、审视（区别于 xiāng 之‘互相’义）",
               "type": "实词"
             },
             {
               "word": "旧",
               "pinyin": "jiù",
-              "meaning": "旧的",
+              "meaning": "形容词，原有的、过去的",
               "type": "实词"
             },
             {
               "word": "夫子庙",
               "pinyin": "fū zǐ miào",
-              "meaning": "孔子庙",
-              "type": "典故"
+              "meaning": "祭祀孔子的庙宇，古代地方官学常设于此",
+              "type": "地名"
             },
             {
               "word": "狭隘",
               "pinyin": "xiá ài",
-              "meaning": "狭窄",
+              "meaning": "形容词，（空间）狭窄",
               "type": "实词"
             },
             {
               "word": "不足",
               "pinyin": "bù zú",
-              "meaning": "不够",
+              "meaning": "动词性词组，不够、不值得",
               "type": "实词"
             },
             {
               "word": "改为",
               "pinyin": "gǎi wéi",
-              "meaning": "改建",
+              "meaning": "动词，改建。此处‘为’读 wéi，义为做、建造",
               "type": "实词"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示承接，于是、就",
               "type": "虚词"
             },
             {
-              "word": "营治",
-              "pinyin": "yíng zhì",
-              "meaning": "建造",
+              "word": "营",
+              "pinyin": "yíng",
+              "meaning": "动词，营建、建造",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
-              "type": "虚词"
-            },
-            {
-              "word": "东",
-              "pinyin": "dōng",
-              "meaning": "东边",
-              "type": "实词"
+              "word": "治之东",
+              "pinyin": "zhì zhī dōng",
+              "meaning": "词组，州治（官署）的东边。‘治’指地方官署所在地",
+              "type": "地名"
             }
           ]
         },
         {
           "original": "厥土燥刚，厥位面阳，厥材孔良。",
-          "translation": "那里的土壤干燥坚硬，位置向阳，材料非常优良。",
+          "translation": "那里土地干燥坚硬，位置向阳，材料非常优良。",
           "words": [
             {
               "word": "厥",
               "pinyin": "jué",
-              "meaning": "其",
+              "meaning": "指示代词，其、那",
               "type": "虚词"
             },
             {
               "word": "土",
               "pinyin": "tǔ",
-              "meaning": "土地",
+              "meaning": "名词，土壤、土质",
               "type": "实词"
             },
             {
               "word": "燥刚",
               "pinyin": "zào gāng",
-              "meaning": "干燥坚硬",
+              "meaning": "形容词，干燥而坚硬",
               "type": "实词"
-            },
-            {
-              "word": "厥",
-              "pinyin": "jué",
-              "meaning": "其",
-              "type": "虚词"
             },
             {
               "word": "位",
               "pinyin": "wèi",
-              "meaning": "位置",
+              "meaning": "名词，位置、方位",
               "type": "实词"
             },
             {
               "word": "面阳",
               "pinyin": "miàn yáng",
-              "meaning": "面向阳光",
+              "meaning": "动宾结构，面向阳光（南方）。‘面’古义：朝向（非今义‘脸面’）",
               "type": "实词"
-            },
-            {
-              "word": "厥",
-              "pinyin": "jué",
-              "meaning": "其",
-              "type": "虚词"
             },
             {
               "word": "材",
               "pinyin": "cái",
-              "meaning": "材料",
+              "meaning": "名词，木材、材料",
               "type": "实词"
             },
             {
               "word": "孔良",
               "pinyin": "kǒng liáng",
-              "meaning": "很好",
+              "meaning": "形容词，甚好、很优良。‘孔’为程度副词，很、甚",
               "type": "实词"
             }
           ]
@@ -668,130 +634,166 @@
     },
     {
       "original": "殿堂门庑，黝垩丹漆，举以法。故生师有舍，庖廪有次。百尔器备，并手偕作。",
-      "translation": "殿堂、门和厢房，用黑色、白色、红色和漆涂饰，都遵循法度。因此，学生和老师有房舍，厨房和仓库安排有序。各种器具都准备齐全，大家一齐动手劳作。",
+      "translation": "殿堂和门庑，都按照法度涂上黑色、白色、红色和漆色。因此，学生和老师有房舍，厨房和粮仓各有其位。各种器具一应俱全，众人齐心协力共同建造。",
       "sentences": [
         {
           "original": "殿堂门庑，黝垩丹漆，举以法。",
-          "translation": "殿堂、门和厢房，用黑色、白色、红色和漆涂饰，都按照法度进行。",
+          "translation": "殿堂和门庑，用黑色、白色、红色和漆色涂饰，一切都按照法度进行。",
           "words": [
             {
               "word": "殿堂",
               "pinyin": "diàn táng",
-              "meaning": "殿堂建筑",
+              "meaning": "指正房，供奉神佛或举行典礼的建筑物。",
               "type": "实词"
             },
             {
               "word": "门庑",
               "pinyin": "mén wǔ",
-              "meaning": "门和廊屋",
+              "meaning": "门与廊屋，泛指建筑物的出入口及附属建筑。",
               "type": "实词"
             },
             {
               "word": "黝垩",
               "pinyin": "yǒu è",
-              "meaning": "黑白涂料",
+              "meaning": "黝，微青黑色；垩，白色土。指涂饰墙壁的黑白涂料。",
               "type": "实词"
             },
             {
               "word": "丹漆",
               "pinyin": "dān qī",
-              "meaning": "红漆",
+              "meaning": "丹，朱红色；漆，涂料。指红色的漆。",
               "type": "实词"
             },
             {
               "word": "举",
               "pinyin": "jǔ",
-              "meaning": "都、全",
+              "meaning": "动词，全部、都。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "按照",
+              "meaning": "介词，表示依据，相当于“按照”、“依照”。",
               "type": "虚词"
             },
             {
               "word": "法",
               "pinyin": "fǎ",
-              "meaning": "法度",
+              "meaning": "名词，法度、规格。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "故生师有舍，庖廪有次。",
-          "translation": "所以学生和老师有房舍，厨房和仓库有次序。",
+          "translation": "所以学生和老师有房舍，厨房和粮仓有适当的位置。",
           "words": [
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，表示结果或结论，相当于“所以”、“因此”。",
               "type": "虚词"
             },
             {
-              "word": "生师",
-              "pinyin": "shēng shī",
-              "meaning": "学生老师",
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "名词，学生、生员。",
+              "type": "实词"
+            },
+            {
+              "word": "师",
+              "pinyin": "shī",
+              "meaning": "名词，老师、教官。",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，拥有、具备。",
               "type": "实词"
             },
             {
               "word": "舍",
               "pinyin": "shè",
-              "meaning": "房舍",
+              "meaning": "名词，房舍、住所。",
               "type": "实词"
             },
             {
-              "word": "庖廪",
-              "pinyin": "páo lǐn",
-              "meaning": "厨房粮仓",
+              "word": "庖",
+              "pinyin": "páo",
+              "meaning": "名词，厨房。",
+              "type": "实词"
+            },
+            {
+              "word": "廪",
+              "pinyin": "lǐn",
+              "meaning": "名词，粮仓。",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，拥有、具备。",
               "type": "实词"
             },
             {
               "word": "次",
               "pinyin": "cì",
-              "meaning": "次序",
+              "meaning": "名词，次序、位置。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "百尔器备，并手偕作。",
-          "translation": "各种器具都准备齐全，大家一齐动手劳作。",
+          "translation": "各种器具都完备，大家一齐动手共同劳作。",
           "words": [
             {
-              "word": "百尔",
-              "pinyin": "bǎi ěr",
-              "meaning": "各种",
+              "word": "百",
+              "pinyin": "bǎi",
+              "meaning": "数词，表示众多、各种，修饰'器'",
               "type": "实词"
             },
             {
-              "word": "器备",
-              "pinyin": "qì bèi",
-              "meaning": "器具齐备",
+              "word": "尔",
+              "pinyin": "ěr",
+              "meaning": "代词，指代前文提到的各种器具，相当于'其'或那些",
+              "type": "虚词"
+            },
+            {
+              "word": "器",
+              "pinyin": "qì",
+              "meaning": "名词，指州学建筑中的各种器具和设备",
               "type": "实词"
             },
             {
-              "word": "并手",
-              "pinyin": "bìng shǒu",
-              "meaning": "一起动手",
+              "word": "备",
+              "pinyin": "bèi",
+              "meaning": "动词，表示齐备、准备齐全",
               "type": "实词"
             },
             {
-              "word": "偕作",
-              "pinyin": "xié zuò",
-              "meaning": "共同劳作",
+              "word": "并",
+              "pinyin": "bìng",
+              "meaning": "副词，表示一起、同时，修饰动作",
+              "type": "虚词"
+            },
+            {
+              "word": "手",
+              "pinyin": "shǒu",
+              "meaning": "名词，手，这里用作状语，表示用手操作",
+              "type": "实词"
+            },
+            {
+              "word": "偕",
+              "pinyin": "xié",
+              "meaning": "副词，表示共同、一起，强调协同动作",
+              "type": "虚词"
+            },
+            {
+              "word": "作",
+              "pinyin": "zuò",
+              "meaning": "动词，表示劳作、工作，具体指修建劳动",
               "type": "实词"
             }
           ]
@@ -800,247 +802,334 @@
     },
     {
       "original": "工善吏勤，晨夜展力，越明年成。",
-      "translation": "工匠技艺精湛，官吏勤勉不懈，日夜辛勤劳作，次年工程告竣。",
+      "translation": "工匠技艺精良，官吏勤勉，日夜努力工作，到了第二年就完成了。",
       "sentences": [
         {
           "original": "工善吏勤",
-          "translation": "工匠技艺精湛，官吏勤勉。",
-          "words": []
+          "translation": "工匠技艺精良，官吏勤勉。",
+          "words": [
+            {
+              "word": "工",
+              "pinyin": "gōng",
+              "meaning": "名词，指参与工程建设的工匠",
+              "type": "实词"
+            },
+            {
+              "word": "善",
+              "pinyin": "shàn",
+              "meaning": "形容词，（技艺）精良、精湛",
+              "type": "实词"
+            },
+            {
+              "word": "吏",
+              "pinyin": "lì",
+              "meaning": "名词，指负责监督工程的官吏",
+              "type": "实词"
+            },
+            {
+              "word": "勤",
+              "pinyin": "qín",
+              "meaning": "形容词，勤勉、尽心尽力",
+              "type": "实词"
+            }
+          ]
         },
         {
           "original": "晨夜展力",
-          "translation": "日夜辛勤劳作。",
-          "words": []
+          "translation": "日夜努力工作。",
+          "words": [
+            {
+              "word": "晨夜",
+              "pinyin": "chén yè",
+              "meaning": "名词性词组，从早晨到夜晚，表示日夜不停",
+              "type": "实词"
+            },
+            {
+              "word": "展",
+              "pinyin": "zhǎn",
+              "meaning": "动词，施展、发挥",
+              "type": "实词"
+            },
+            {
+              "word": "力",
+              "pinyin": "lì",
+              "meaning": "名词，力量、力气",
+              "type": "实词"
+            }
+          ]
         },
         {
           "original": "越明年成",
-          "translation": "到了第二年完成。",
-          "words": []
+          "translation": "到了第二年就完成了。",
+          "words": [
+            {
+              "word": "越",
+              "pinyin": "yuè",
+              "meaning": "到了，指时间经过（此处指从工程开始到第二年）",
+              "type": "实词"
+            },
+            {
+              "word": "明年",
+              "pinyin": "míng nián",
+              "meaning": "第二年",
+              "type": "实词"
+            },
+            {
+              "word": "成",
+              "pinyin": "chéng",
+              "meaning": "完成，竣工（指州学修建完毕）",
+              "type": "实词"
+            }
+          ]
         }
       ]
     },
     {
       "original": "舍菜且有日，旴江李觏谂于众曰：“惟四代之学，考诸经可见已。秦以山西鏖六国，欲帝万世，刘氏一呼而关门不守，武夫健将，卖降恐后。何耶？《诗》、《书》之道废，人惟见利而不闻义焉耳。孝武乘丰富，世祖出戎行，皆孳孳学术。",
-      "translation": "祭祀先师的日期已经确定，旴江的李觏对众人说：'思考虞、夏、商、周四代的学校教育，考察经典就可以知道。秦国从崤山以西与六国激战，想要称帝万世，但刘邦一声呼喊，函谷关就失守了，武将们争先恐后地投降。为什么呢？《诗经》、《尚书》所教导的道义被废弃，人们只看到利益而不听闻道义。汉武帝趁着国家富足，汉光武帝出身军旅，都勤勉地致力于学术。'",
+      "translation": "释菜礼的日期将近，旴江李觏对众人说：“思考虞、夏、商、周四代的教育，考察经典就可以知道了。秦国在崤山以西与六国激战，想要称帝万世，但刘氏一声呼喊，函谷关就失守了，武将们争先恐后地出卖投降。为什么呢？因为《诗经》、《尚书》的道义废弃了，人们只看到利益而不听闻道义罢了。孝武乘着国家富饶，世祖出身于军旅，都勤勉于学问和教育。”",
       "sentences": [
         {
           "original": "舍菜且有日，旴江李觏谂于众曰：",
-          "translation": "祭祀先师的日期已经确定，旴江的李觏对众人说：",
+          "translation": "释菜礼的日期将近，旴江李觏对众人说：",
           "words": [
             {
               "word": "舍菜",
               "pinyin": "shè cài",
-              "meaning": "祭祀先师",
-              "type": "典故"
+              "meaning": "古代入学时祭祀先圣先师的仪式，'舍'通'释'，即释奠、释菜礼",
+              "type": "实词"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "将要",
+              "meaning": "副词，表示动作行为将要发生，译为'将要'",
               "type": "虚词"
             },
             {
               "word": "有日",
               "pinyin": "yǒu rì",
-              "meaning": "指定日期",
+              "meaning": "指日期已经确定",
               "type": "实词"
             },
             {
-              "word": "旴江李觏",
-              "pinyin": "Xū jiāng Lǐ Gòu",
-              "meaning": "人名",
+              "word": "旴江",
+              "pinyin": "xū jiāng",
+              "meaning": "地名，即今江西抚河，流经建昌军，李觏为盱江人，故称",
+              "type": "地名"
+            },
+            {
+              "word": "李觏",
+              "pinyin": "lǐ gòu",
+              "meaning": "北宋思想家、文学家（1009-1059），字泰伯，建昌军南城人，本文作者",
               "type": "人名"
             },
             {
               "word": "谂",
               "pinyin": "shěn",
-              "meaning": "告诉",
+              "meaning": "动词，规劝、告知",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "向",
+              "meaning": "介词，引出动作'谂'的对象，译为'向'",
               "type": "虚词"
             },
             {
               "word": "众",
               "pinyin": "zhòng",
-              "meaning": "众人",
+              "meaning": "名词，指在场的众人",
               "type": "实词"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
-              "type": "虚词"
+              "meaning": "动词，说",
+              "type": "实词"
             }
           ]
         },
         {
           "original": "惟四代之学，考诸经可见已。",
-          "translation": "思考虞、夏、商、周四代的学校教育，考察经典就可以知道。",
+          "translation": "思考虞、夏、商、周四代的教育，考察经典就可以知道了。",
           "words": [
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "只有",
+              "meaning": "句首语气词，表示强调或提示，可译为'只有'或保留不译",
               "type": "虚词"
             },
             {
               "word": "四代",
               "pinyin": "sì dài",
-              "meaning": "虞夏商周",
-              "type": "典故"
+              "meaning": "指虞、夏、商、周四代，儒家推崇的古代盛世",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，连接定语'四代'和中心语'学'，表示修饰关系，译为'的'",
               "type": "虚词"
             },
             {
               "word": "学",
               "pinyin": "xué",
-              "meaning": "学问",
+              "meaning": "名词，指学校教育制度",
               "type": "实词"
             },
             {
               "word": "考",
               "pinyin": "kǎo",
-              "meaning": "考察",
+              "meaning": "动词，考察、考证",
               "type": "实词"
             },
             {
               "word": "诸",
               "pinyin": "zhū",
-              "meaning": "之于",
+              "meaning": "兼词，相当于'之于'（'之'指代'四代之学'，'于'引出依据）",
               "type": "虚词"
             },
             {
               "word": "经",
               "pinyin": "jīng",
-              "meaning": "经典",
+              "meaning": "名词，指儒家经典",
               "type": "实词"
             },
             {
-              "word": "可",
-              "pinyin": "kě",
-              "meaning": "可以",
-              "type": "实词"
-            },
-            {
-              "word": "见",
-              "pinyin": "jiàn",
-              "meaning": "看见",
-              "type": "实词"
-            },
-            {
-              "word": "已",
-              "pinyin": "yǐ",
-              "meaning": "了",
-              "type": "虚词"
+              "word": "可见已",
+              "pinyin": "kě jiàn yǐ",
+              "meaning": "固定结构，表示'就可以知道了'，'已'通'矣'，句末语气词",
+              "type": "典故"
             }
           ]
         },
         {
           "original": "秦以山西鏖六国，欲帝万世，刘氏一呼而关门不守，武夫健将，卖降恐后。",
-          "translation": "秦国从崤山以西与六国激战，想要称帝万世，但刘邦一声呼喊，函谷关就失守了，武将们争先恐后地投降。",
+          "translation": "秦国在崤山以西与六国激战，想要称帝万世，但刘氏一声呼喊，函谷关就失守了，武将们争先恐后地出卖投降。",
           "words": [
             {
               "word": "秦",
-              "pinyin": "Qín",
-              "meaning": "秦国",
+              "pinyin": "qín",
+              "meaning": "战国七雄之一，嬴姓，据崤山以西，最终统一六国建立秦朝。",
               "type": "地名"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "凭借",
+              "meaning": "介词，表示凭借、依靠，此处指秦国凭借（崤山以西的地理优势）。",
               "type": "虚词"
             },
             {
               "word": "山西",
-              "pinyin": "Shān xī",
-              "meaning": "崤山以西",
+              "pinyin": "shān xī",
+              "meaning": "古地名，指崤山（或华山）以西地区，为秦国核心区域。",
               "type": "地名"
             },
             {
               "word": "鏖",
               "pinyin": "áo",
-              "meaning": "激战",
+              "meaning": "本义为激战、苦战，此处用作动词，激烈战斗。",
               "type": "实词"
             },
             {
               "word": "六国",
               "pinyin": "liù guó",
-              "meaning": "六个国家",
-              "type": "实词"
+              "meaning": "指战国时期崤山以东的齐、楚、燕、韩、赵、魏六个国家。",
+              "type": "地名"
             },
             {
               "word": "欲",
               "pinyin": "yù",
-              "meaning": "想要",
+              "meaning": "动词，想要、企图。",
               "type": "实词"
             },
             {
               "word": "帝",
               "pinyin": "dì",
-              "meaning": "称帝",
+              "meaning": "此处名词活用为动词，称帝、做帝王。",
               "type": "实词"
             },
             {
               "word": "万世",
               "pinyin": "wàn shì",
-              "meaning": "万代",
+              "meaning": "数词与名词组合，指千秋万代。",
               "type": "实词"
             },
             {
               "word": "刘氏",
-              "pinyin": "Liú shì",
-              "meaning": "刘邦",
+              "pinyin": "liú shì",
+              "meaning": "指汉高祖刘邦（刘季），秦末起义领袖，西汉开国皇帝。",
               "type": "人名"
             },
             {
-              "word": "一呼",
-              "pinyin": "yī hū",
-              "meaning": "一声呼喊",
+              "word": "一",
+              "pinyin": "yī",
+              "meaning": "数词，一次。",
+              "type": "实词"
+            },
+            {
+              "word": "呼",
+              "pinyin": "hū",
+              "meaning": "动词，呼喊、号召。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表示转折关系，却、但是。",
               "type": "虚词"
             },
             {
               "word": "关门",
               "pinyin": "guān mén",
-              "meaning": "函谷关",
+              "meaning": "特指函谷关的城门，秦国东部重要军事屏障。",
               "type": "地名"
             },
             {
-              "word": "不守",
-              "pinyin": "bù shǒu",
-              "meaning": "失守",
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定。",
+              "type": "虚词"
+            },
+            {
+              "word": "守",
+              "pinyin": "shǒu",
+              "meaning": "动词，防守、守住。",
               "type": "实词"
             },
             {
-              "word": "武夫健将",
-              "pinyin": "wǔ fū jiàn jiàng",
-              "meaning": "武将们",
+              "word": "武夫",
+              "pinyin": "wǔ fū",
+              "meaning": "名词，武士、军人。",
               "type": "实词"
             },
             {
-              "word": "卖降",
-              "pinyin": "mài xiáng",
-              "meaning": "投降卖国",
+              "word": "健将",
+              "pinyin": "jiàn jiàng",
+              "meaning": "名词，勇猛的将领。此处读jiàng，义为将领。",
               "type": "实词"
             },
             {
-              "word": "恐后",
-              "pinyin": "kǒng hòu",
-              "meaning": "唯恐落后",
+              "word": "卖",
+              "pinyin": "mài",
+              "meaning": "动词，出卖。",
+              "type": "实词"
+            },
+            {
+              "word": "降",
+              "pinyin": "xiáng",
+              "meaning": "动词，投降。",
+              "type": "实词"
+            },
+            {
+              "word": "恐",
+              "pinyin": "kǒng",
+              "meaning": "动词，害怕、担心。",
+              "type": "实词"
+            },
+            {
+              "word": "后",
+              "pinyin": "hòu",
+              "meaning": "名词，落在后面。卖降恐后：争先恐后地投降。",
               "type": "实词"
             }
           ]
@@ -1052,163 +1141,169 @@
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "为什么",
-              "type": "实词"
+              "meaning": "疑问代词，为什么、什么原因。",
+              "type": "虚词"
             },
             {
               "word": "耶",
               "pinyin": "yé",
-              "meaning": "语气词呢",
+              "meaning": "句末疑问语气词，呢、吗。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "《诗》、《书》之道废，人惟见利而不闻义焉耳。",
-          "translation": "《诗经》、《尚书》所教导的道义被废弃，人们只看到利益而不听闻道义。",
+          "translation": "因为《诗经》、《尚书》的道义废弃了，人们只看到利益而不听闻道义罢了。",
           "words": [
             {
-              "word": "《诗》",
-              "pinyin": "Shī",
-              "meaning": "诗经",
-              "type": "典故"
+              "word": "诗",
+              "pinyin": "shī",
+              "meaning": "指《诗经》，儒家经典之一，古代诗歌总集，代表礼乐教化",
+              "type": "实词"
             },
             {
-              "word": "《书》",
-              "pinyin": "Shū",
-              "meaning": "尚书",
-              "type": "典故"
+              "word": "书",
+              "pinyin": "shū",
+              "meaning": "指《尚书》，儒家经典之一，古代历史文献汇编，记载先王政事",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于'的'，连接定语'诗书'和中心语'道'，表示所属关系",
               "type": "虚词"
             },
             {
               "word": "道",
               "pinyin": "dào",
-              "meaning": "学说",
+              "meaning": "道理、学说，指《诗》《书》所代表的儒家思想体系",
               "type": "实词"
             },
             {
               "word": "废",
               "pinyin": "fèi",
-              "meaning": "废弃",
+              "meaning": "废弃、衰败，指不被重视或失传，导致社会道德沦丧",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人们",
+              "meaning": "人们，泛指秦代的社会人士，强调普遍性",
               "type": "实词"
             },
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "只",
+              "meaning": "副词，只、仅仅，强调人们行为的单一倾向，与后文'不闻义'对比",
               "type": "虚词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "看见",
+              "meaning": "看见、看到，此处引申为追求、贪图，指目光短浅",
               "type": "实词"
             },
             {
               "word": "利",
               "pinyin": "lì",
-              "meaning": "利益",
+              "meaning": "利益、好处，指物质私利，与'义'相对",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折关系，连接'见利'和'不闻义'，相当于却、但是，突出矛盾",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，否定词，修饰'闻义'，表示没有、未能，强调缺失",
               "type": "虚词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听到",
+              "meaning": "听到、听闻，此处引申为了解、接受或遵循",
               "type": "实词"
             },
             {
               "word": "义",
               "pinyin": "yì",
-              "meaning": "道义",
+              "meaning": "道义、正义，指儒家道德准则，与'利'相对",
               "type": "实词"
             },
             {
-              "word": "焉耳",
-              "pinyin": "yān ěr",
-              "meaning": "罢了",
+              "word": "焉",
+              "pinyin": "yān",
+              "meaning": "句末语气词，兼有指代作用，此处与'耳'连用，加强肯定语气，表示原因",
+              "type": "虚词"
+            },
+            {
+              "word": "耳",
+              "pinyin": "ěr",
+              "meaning": "句末语气词，表示限止，相当于'而已'、'罢了'，强调仅此而已",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "孝武乘丰富，世祖出戎行，皆孳孳学术。",
-          "translation": "汉武帝趁着国家富足，汉光武帝出身军旅，都勤勉地致力于学术。",
+          "translation": "孝武乘着国家富饶，世祖出身于军旅，都勤勉于学问和教育。",
           "words": [
             {
               "word": "孝武",
               "pinyin": "xiào wǔ",
-              "meaning": "汉武帝",
+              "meaning": "指汉武帝刘彻（前156-前87），西汉皇帝，谥号孝武，在位期间罢黜百家、独尊儒术，推崇学术",
               "type": "人名"
             },
             {
               "word": "乘",
               "pinyin": "chéng",
-              "meaning": "趁着",
+              "meaning": "此处读 chéng，义为趁着、凭借，指利用有利条件",
               "type": "实词"
             },
             {
               "word": "丰富",
               "pinyin": "fēng fù",
-              "meaning": "富足",
+              "meaning": "富足、充裕，形容国家财力物力充足的时代背景",
               "type": "实词"
             },
             {
               "word": "世祖",
               "pinyin": "shì zǔ",
-              "meaning": "汉光武帝",
+              "meaning": "指汉光武帝刘秀（前5-57），东汉开国皇帝，庙号世祖，中兴汉室，提倡儒学",
               "type": "人名"
             },
             {
               "word": "出",
               "pinyin": "chū",
-              "meaning": "出身于",
+              "meaning": "动词，出身于、来自，指从某种背景中兴起",
               "type": "实词"
             },
             {
               "word": "戎行",
               "pinyin": "róng háng",
-              "meaning": "军队",
+              "meaning": "军队、行伍，指军事生涯或行伍出身",
               "type": "实词"
             },
             {
               "word": "皆",
               "pinyin": "jiē",
-              "meaning": "都",
+              "meaning": "副词，都、全部，表示总括前面两位皇帝的行为",
               "type": "虚词"
             },
             {
               "word": "孳孳",
               "pinyin": "zī zī",
-              "meaning": "勤勉",
+              "meaning": "勤勉不懈、努力不懈的样子，形容专注致力于某事",
               "type": "实词"
             },
             {
               "word": "学术",
               "pinyin": "xué shù",
-              "meaning": "学问",
+              "meaning": "学问和道术，特指儒家经典的研究和教化，以正人心",
               "type": "实词"
             }
           ]
@@ -1217,11 +1312,11 @@
     },
     {
       "original": "俗化之厚，延于灵、献。草茅危言者，折首而不悔。功烈震主者，闻命而释兵。",
-      "translation": "风俗教化的深厚，延续到了灵帝和献帝时期。那些在野的直言者，即使被斩首也不后悔。功勋卓著、威震君主的人，一听到命令就放下兵权。",
+      "translation": "风俗教化的淳厚，延续到了汉灵帝和汉献帝时期。民间那些敢于直言进谏的人，即使面临杀头之祸也毫不后悔。而那些功业足以震撼君主的人，一接到命令就立即交出兵权。",
       "sentences": [
         {
           "original": "俗化之厚，延于灵、献。",
-          "translation": "风俗教化的深厚，延续到了灵帝和献帝时期。",
+          "translation": "风俗教化的淳厚，延续到了灵帝和献帝时期。",
           "words": [
             {
               "word": "俗化",
@@ -1232,73 +1327,73 @@
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主谓之间取消句子独立性，使'俗化厚'成为主语部分",
               "type": "虚词"
             },
             {
               "word": "厚",
               "pinyin": "hòu",
-              "meaning": "深厚",
+              "meaning": "淳厚，深厚",
               "type": "实词"
             },
             {
               "word": "延",
               "pinyin": "yán",
-              "meaning": "延续",
+              "meaning": "延续，扩展",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "到",
+              "meaning": "介词，表示时间或范围的终点，相当于'到'",
               "type": "虚词"
             },
             {
               "word": "灵",
               "pinyin": "líng",
-              "meaning": "汉灵帝",
+              "meaning": "指汉灵帝刘宏（168-189在位），东汉第十一位皇帝",
               "type": "人名"
             },
             {
               "word": "献",
               "pinyin": "xiàn",
-              "meaning": "汉献帝",
+              "meaning": "指汉献帝刘协（189-220在位），东汉末代皇帝",
               "type": "人名"
             }
           ]
         },
         {
           "original": "草茅危言者，折首而不悔。",
-          "translation": "那些在野的直言者，即使被斩首也不后悔。",
+          "translation": "草野中直言进谏的人，即使被杀头也不后悔。",
           "words": [
             {
               "word": "草茅",
               "pinyin": "cǎo máo",
-              "meaning": "草野民间",
+              "meaning": "指草野、民间，代指在野未仕之人",
               "type": "实词"
             },
             {
               "word": "危言",
               "pinyin": "wēi yán",
-              "meaning": "正直言论",
+              "meaning": "直言，正直的言论",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，与前面的修饰语构成名词性结构，指'……的人'",
               "type": "虚词"
             },
             {
               "word": "折首",
               "pinyin": "zhé shǒu",
-              "meaning": "断头被杀",
+              "meaning": "掉脑袋，指被杀",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，连接'折首'和'不悔'，表示转折关系，相当于'却'",
               "type": "虚词"
             },
             {
@@ -1311,42 +1406,60 @@
         },
         {
           "original": "功烈震主者，闻命而释兵。",
-          "translation": "功勋卓著、威震君主的人，一听到命令就放下兵权。",
+          "translation": "功业震撼君主的人，听到命令就放下兵器。",
           "words": [
             {
               "word": "功烈",
               "pinyin": "gōng liè",
-              "meaning": "功业",
+              "meaning": "功业、功绩，指显赫的功劳，在句中作主语部分。",
               "type": "实词"
             },
             {
-              "word": "震主",
-              "pinyin": "zhèn zhǔ",
-              "meaning": "震动君主",
+              "word": "震",
+              "pinyin": "zhèn",
+              "meaning": "震动，使震惊，特指功高使君主不安，与'主'构成动宾关系。",
+              "type": "实词"
+            },
+            {
+              "word": "主",
+              "pinyin": "zhǔ",
+              "meaning": "君主，皇帝，指被震动的对象。",
               "type": "实词"
             },
             {
               "word": "者",
               "pinyin": "zhě",
-              "meaning": "...的人",
+              "meaning": "助词，用在'功烈震主'后构成名词性短语，表示'功业震动君主的人'。",
               "type": "虚词"
             },
             {
-              "word": "闻命",
-              "pinyin": "wén mìng",
-              "meaning": "听到命令",
+              "word": "闻",
+              "pinyin": "wén",
+              "meaning": "听到，听闻，在句中指接受命令。",
+              "type": "实词"
+            },
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "命令，特指君主的诏令。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表顺承关系，连接'闻命'和'释兵'两个动作，表示'就'或'便'。",
               "type": "虚词"
             },
             {
-              "word": "释兵",
-              "pinyin": "shì bīng",
-              "meaning": "放下兵器",
+              "word": "释",
+              "pinyin": "shì",
+              "meaning": "放下，释放，在句中指解除武装。",
+              "type": "实词"
+            },
+            {
+              "word": "兵",
+              "pinyin": "bīng",
+              "meaning": "兵器，武器，指军事力量。",
               "type": "实词"
             }
           ]
@@ -1355,538 +1468,574 @@
     },
     {
       "original": "群雄相视，不敢去臣位，尚数十年。教道之结人心如此。今代遭圣神，尔袁得圣君，俾尔由庠序，践古人之迹。天下治，则谭礼乐以陶吾民。一有不幸，尤当仗大节，为臣死忠，为子死孝。使人有所赖，且有所法。是惟朝家教学之意。若其弄笔墨以侥利达而已，岂徒二三子之羞？抑亦为国者之忧？”",
-      "translation": "各路诸侯互相观望，不敢脱离臣子的身份，这种情况还持续了几十年。教育之道凝聚人心的效果就是这样。当今时代遇到圣明的君主，你们袁州得到圣君的治理，使你们能通过学校，追随古人的足迹。天下太平时，就谈论礼乐来陶冶百姓。一旦国家有难，尤其应当坚守大节，作为臣子要为忠诚而死，作为儿子要为孝道而死。使人们有所依靠，并且有所效法。这就是朝廷教育的意图。如果只是舞文弄墨来侥幸追求利禄和显达，那难道只是你们这些人的羞耻？也是治国者的忧虑。",
+      "translation": "群雄互相观望，不敢放弃臣子的地位，还持续了几十年。教化之道维系人心就是这样。当今时代遇到神圣的君主，你们袁州得到圣明的君主，使你们通过学校，追随古人的足迹。天下太平时，就谈论礼乐来陶冶我们的百姓。一旦有不幸，尤其应当坚守大节，作为臣子要死于忠诚，作为儿子要死于孝道。使人有所依靠，并且有所效法。这就是朝廷教学的本意。如果只是玩弄笔墨以侥幸获取利禄和显达而已，这难道只是你们几个人的羞耻吗？抑或也是治理国家的人的忧虑？",
       "sentences": [
         {
           "original": "群雄相视，不敢去臣位，尚数十年。",
-          "translation": "各路诸侯互相观望，不敢脱离臣子的身份，这种情况还持续了几十年。",
+          "translation": "群雄互相观望，不敢放弃臣子的地位，还持续了几十年。",
           "words": [
             {
               "word": "群雄",
               "pinyin": "qún xióng",
-              "meaning": "众多英雄",
+              "meaning": "指唐末五代时期众多割据一方的军事首领或藩镇势力",
               "type": "实词"
             },
             {
               "word": "相视",
               "pinyin": "xiāng shì",
-              "meaning": "互相看",
+              "meaning": "互相观望，形容彼此顾忌、对峙而不敢轻动的状态",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "不",
-              "type": "虚词"
-            },
-            {
-              "word": "敢",
-              "pinyin": "gǎn",
-              "meaning": "敢",
+              "word": "不敢",
+              "pinyin": "bù gǎn",
+              "meaning": "没有勇气或顾忌名分而不敢（做某事）",
               "type": "实词"
             },
             {
               "word": "去",
               "pinyin": "qù",
-              "meaning": "离开",
+              "meaning": "古义：离开、放弃、去除（非今义‘前往’）。此处指放弃（臣子的名位）",
               "type": "实词"
             },
             {
               "word": "臣位",
               "pinyin": "chén wèi",
-              "meaning": "臣子之位",
+              "meaning": "臣子的职位或名分",
               "type": "实词"
             },
             {
               "word": "尚",
               "pinyin": "shàng",
-              "meaning": "还",
+              "meaning": "副词，尚且、还，表示情况持续",
               "type": "虚词"
             },
             {
               "word": "数十年",
               "pinyin": "shù shí nián",
-              "meaning": "几十年",
+              "meaning": "几十年，表示时间长久",
               "type": "实词"
             }
           ]
         },
         {
           "original": "教道之结人心如此。",
-          "translation": "教育之道凝聚人心的效果就是这样。",
+          "translation": "教化之道维系人心就是这样。",
           "words": [
             {
               "word": "教道",
               "pinyin": "jiào dào",
-              "meaning": "教育之道",
+              "meaning": "教化之道，指儒家礼乐教化的原则与方法",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于主语‘教道’和谓语‘结’之间，取消句子独立性，使‘教道结人心’成为一个整体短语",
               "type": "虚词"
             },
             {
               "word": "结",
               "pinyin": "jié",
-              "meaning": "联结",
+              "meaning": "联结、凝聚、维系",
               "type": "实词"
             },
             {
               "word": "人心",
               "pinyin": "rén xīn",
-              "meaning": "人心",
+              "meaning": "人的思想、情感、归向之心",
               "type": "实词"
             },
             {
               "word": "如此",
               "pinyin": "rú cǐ",
-              "meaning": "像这样",
+              "meaning": "像这样，指代前文所述‘群雄不敢去臣位’的效果",
               "type": "实词"
             }
           ]
         },
         {
           "original": "今代遭圣神，尔袁得圣君，俾尔由庠序，践古人之迹。",
-          "translation": "当今时代遇到圣明的君主，你们袁州得到圣君的治理，使你们能通过学校，追随古人的足迹。",
+          "translation": "当今时代遇到神圣的君主，你们袁州得到圣明的君主，使你们通过学校，追随古人的足迹。",
           "words": [
             {
               "word": "今代",
               "pinyin": "jīn dài",
-              "meaning": "当今时代",
+              "meaning": "当今时代，指作者李觏所处的北宋时期",
               "type": "实词"
             },
             {
               "word": "遭",
               "pinyin": "zāo",
-              "meaning": "遇到",
+              "meaning": "遇到、逢",
               "type": "实词"
             },
             {
               "word": "圣神",
               "pinyin": "shèng shén",
-              "meaning": "圣明神祇",
+              "meaning": "圣明的神祇或君主，这里尊称宋朝皇帝",
               "type": "实词"
             },
             {
               "word": "尔",
               "pinyin": "ěr",
-              "meaning": "你们",
-              "type": "实词"
+              "meaning": "代词，你们，指袁州的人民",
+              "type": "虚词"
             },
             {
               "word": "袁",
               "pinyin": "yuán",
-              "meaning": "袁州",
+              "meaning": "地名，袁州，治所在今江西宜春，宋代州级行政区",
               "type": "地名"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "获得",
+              "meaning": "得到、获得",
               "type": "实词"
             },
             {
               "word": "圣君",
               "pinyin": "shèng jūn",
-              "meaning": "圣明君主",
+              "meaning": "圣明的君主，指宋朝皇帝",
               "type": "实词"
             },
             {
               "word": "俾",
               "pinyin": "bǐ",
-              "meaning": "使",
+              "meaning": "使、让",
               "type": "实词"
             },
             {
               "word": "尔",
               "pinyin": "ěr",
-              "meaning": "你们",
-              "type": "实词"
+              "meaning": "代词，你们，指袁州的人民",
+              "type": "虚词"
             },
             {
               "word": "由",
               "pinyin": "yóu",
-              "meaning": "通过",
+              "meaning": "介词，通过、经由",
               "type": "虚词"
             },
             {
               "word": "庠序",
               "pinyin": "xiáng xù",
-              "meaning": "学校",
+              "meaning": "古代地方学校的名称，殷代称序，周代称庠，泛指教育机构",
               "type": "实词"
             },
             {
               "word": "践",
               "pinyin": "jiàn",
-              "meaning": "践行",
+              "meaning": "践行、追随",
               "type": "实词"
             },
             {
               "word": "古人",
               "pinyin": "gǔ rén",
-              "meaning": "古代人",
+              "meaning": "古代的人，指先贤圣哲",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，的，连接定语'古人'和中心词'迹'",
               "type": "虚词"
             },
             {
               "word": "迹",
               "pinyin": "jì",
-              "meaning": "事迹",
+              "meaning": "足迹、事迹，指古人的行为典范",
               "type": "实词"
             }
           ]
         },
         {
           "original": "天下治，则谭礼乐以陶吾民。",
-          "translation": "天下太平时，就谈论礼乐来陶冶百姓。",
+          "translation": "天下太平时，就谈论礼乐来陶冶我们的百姓。",
           "words": [
             {
               "word": "天下",
               "pinyin": "tiān xià",
-              "meaning": "国家或世界",
+              "meaning": "国家或整个社会",
               "type": "实词"
             },
             {
               "word": "治",
               "pinyin": "zhì",
-              "meaning": "太平",
+              "meaning": "治理得好、太平",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，就，表示顺承关系，连接'天下治'与后续行动",
               "type": "虚词"
             },
             {
               "word": "谭",
               "pinyin": "tán",
-              "meaning": "谈论",
+              "meaning": "通'谈'，谈论、讲习",
               "type": "实词"
             },
             {
               "word": "礼乐",
               "pinyin": "lǐ yuè",
-              "meaning": "礼仪音乐",
+              "meaning": "礼仪和音乐，古代教化的重要内容，此处'乐'读 yuè，义为音乐",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，用来，表示目的，连接'谭礼乐'与'陶吾民'",
               "type": "虚词"
             },
             {
               "word": "陶",
               "pinyin": "táo",
-              "meaning": "陶冶",
+              "meaning": "陶冶、教化",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我的",
-              "type": "实词"
+              "meaning": "代词，我们，指作者或国家一方",
+              "type": "虚词"
             },
             {
               "word": "民",
               "pinyin": "mín",
-              "meaning": "人民",
+              "meaning": "人民、百姓",
               "type": "实词"
             }
           ]
         },
         {
           "original": "一有不幸，尤当仗大节，为臣死忠，为子死孝。",
-          "translation": "一旦国家有难，尤其应当坚守大节，作为臣子要为忠诚而死，作为儿子要为孝道而死。",
+          "translation": "一旦有不幸，尤其应当坚守大节，作为臣子要死于忠诚，作为儿子要死于孝道。",
           "words": [
             {
               "word": "一",
               "pinyin": "yī",
-              "meaning": "一旦",
-              "type": "虚词"
+              "meaning": "数词，一旦、一经，表示假设的条件。",
+              "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "发生",
+              "meaning": "动词，发生、遭遇。",
               "type": "实词"
             },
             {
               "word": "不幸",
               "pinyin": "bù xìng",
-              "meaning": "不幸事件",
+              "meaning": "古义：指国家遭遇重大变故，如战争、灾荒等（非今义‘运气不好’）。",
               "type": "实词"
             },
             {
               "word": "尤",
               "pinyin": "yóu",
-              "meaning": "尤其",
+              "meaning": "副词，更、更加，强调在不幸之时更应如此。",
               "type": "虚词"
             },
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "应当",
+              "meaning": "此处读 dāng，义为应当、应该。",
               "type": "实词"
             },
             {
               "word": "仗",
               "pinyin": "zhàng",
-              "meaning": "坚持",
+              "meaning": "动词，秉持、坚守。",
               "type": "实词"
             },
             {
               "word": "大节",
               "pinyin": "dà jié",
-              "meaning": "大节操",
+              "meaning": "古义：指在危难时刻应坚守的忠孝节操等重大原则（非今义‘重要节日’）。",
               "type": "实词"
             },
             {
               "word": "为",
-              "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "实词"
+              "pinyin": "wèi",
+              "meaning": "此处读 wèi，介词，引出动作的对象，表示‘作为’。",
+              "type": "虚词"
             },
             {
               "word": "臣",
               "pinyin": "chén",
-              "meaning": "臣子",
+              "meaning": "名词，臣子、官员。",
               "type": "实词"
             },
             {
               "word": "死",
               "pinyin": "sǐ",
-              "meaning": "为...死",
+              "meaning": "动词，为……而死，这里指献出生命以坚守。",
               "type": "实词"
             },
             {
               "word": "忠",
               "pinyin": "zhōng",
-              "meaning": "忠诚",
+              "meaning": "名词，忠诚的品德。",
               "type": "实词"
             },
             {
               "word": "为",
-              "pinyin": "wéi",
-              "meaning": "作为",
-              "type": "实词"
+              "pinyin": "wèi",
+              "meaning": "此处读 wèi，介词，引出动作的对象，表示‘作为’。",
+              "type": "虚词"
             },
             {
               "word": "子",
               "pinyin": "zǐ",
-              "meaning": "儿子",
+              "meaning": "名词，子女。",
               "type": "实词"
             },
             {
               "word": "死",
               "pinyin": "sǐ",
-              "meaning": "为...死",
+              "meaning": "动词，为……而死，这里指献出生命以坚守。",
               "type": "实词"
             },
             {
               "word": "孝",
               "pinyin": "xiào",
-              "meaning": "孝道",
+              "meaning": "名词，孝顺的品德。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "使人有所赖，且有所法。",
-          "translation": "使人们有所依靠，并且有所效法。",
+          "translation": "使人有所依靠，并且有所效法。",
           "words": [
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "此处读 shǐ，动词，让、致使。",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人们",
+              "meaning": "名词，人们、百姓。",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，拥有。",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "所...的东西",
+              "meaning": "特殊代词，与动词‘赖’结合构成名词性结构，指‘可以依赖的东西’。",
               "type": "虚词"
             },
             {
               "word": "赖",
               "pinyin": "lài",
-              "meaning": "依赖",
+              "meaning": "动词，依赖、依靠。",
               "type": "实词"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "而且",
+              "meaning": "连词，表示递进关系，而且。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "动词，拥有。",
               "type": "实词"
             },
             {
               "word": "所",
               "pinyin": "suǒ",
-              "meaning": "所...的东西",
+              "meaning": "特殊代词，与动词‘法’结合构成名词性结构，指‘可以效法的榜样’。",
               "type": "虚词"
             },
             {
               "word": "法",
               "pinyin": "fǎ",
-              "meaning": "效法",
+              "meaning": "动词，效法、学习。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "是惟朝家教学之意。",
-          "translation": "这就是朝廷教育的意图。",
+          "translation": "这就是朝廷教学的本意。",
           "words": [
             {
               "word": "是",
               "pinyin": "shì",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，这，指代前文所述教学之意。",
+              "type": "虚词"
             },
             {
               "word": "惟",
               "pinyin": "wéi",
-              "meaning": "只",
+              "meaning": "副词，就是、正是，表示判断与强调。",
               "type": "虚词"
             },
             {
               "word": "朝家",
               "pinyin": "cháo jiā",
-              "meaning": "朝廷",
+              "meaning": "名词，朝廷或国家。在本文中指宋朝朝廷。'朝'此处读 cháo，区别于 zhāo（早晨）。",
               "type": "实词"
             },
             {
               "word": "教学",
               "pinyin": "jiào xué",
-              "meaning": "教育",
+              "meaning": "动词，教育教化。指学校的教育。'教'此处读 jiào，义为教导，区别于 jiāo（传授）。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，的，连接定语'朝家教学'和中心词'意'。",
               "type": "虚词"
             },
             {
               "word": "意",
               "pinyin": "yì",
-              "meaning": "意图",
+              "meaning": "名词，意图、宗旨。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "若其弄笔墨以侥利达而已，岂徒二三子之羞？抑亦为国者之忧？",
-          "translation": "如果只是舞文弄墨来侥幸追求利禄和显达，那难道只是你们这些人的羞耻？也是治国者的忧虑。",
+          "translation": "如果只是玩弄笔墨以侥幸获取利禄和显达而已，这难道只是你们几个人的羞耻吗？抑或也是治理国家的人的忧虑？",
           "words": [
             {
               "word": "若",
-              "pinyin": "rúo",
-              "meaning": "如果",
+              "pinyin": "ruò",
+              "meaning": "连词，如果，表示假设条件。",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们",
+              "meaning": "代词，他们，指代前文的学子或人们。",
               "type": "虚词"
             },
             {
-              "word": "弄笔墨",
-              "pinyin": "nòng bǐ mò",
-              "meaning": "玩弄文墨",
+              "word": "弄",
+              "pinyin": "nòng",
+              "meaning": "动词，玩弄、从事。在本文中指写作或学习活动。",
+              "type": "实词"
+            },
+            {
+              "word": "笔墨",
+              "pinyin": "bǐ mò",
+              "meaning": "名词，书写工具，引申为写作或学问。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，用来、以便，表示目的。",
               "type": "虚词"
             },
             {
-              "word": "侥利达",
-              "pinyin": "jiǎo lì dá",
-              "meaning": "侥幸求利达",
+              "word": "侥",
+              "pinyin": "jiǎo",
+              "meaning": "动词，通'徼'，求取、追求。'侥'此处读 jiǎo，义为求取。",
               "type": "实词"
             },
             {
-              "word": "而已",
-              "pinyin": "ér yǐ",
-              "meaning": "罢了",
+              "word": "利达",
+              "pinyin": "lì dá",
+              "meaning": "名词，利禄和显达，指功名富贵。",
+              "type": "实词"
+            },
+            {
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，连接动词'侥利达'和语气词'已'，表示承接。",
               "type": "虚词"
             },
             {
-              "word": "岂徒",
-              "pinyin": "qǐ tú",
-              "meaning": "难道只是",
+              "word": "已",
+              "pinyin": "yǐ",
+              "meaning": "语气词，通'矣'，在'而已'中表示限制语气，相当于'罢了'。",
+              "type": "虚词"
+            },
+            {
+              "word": "岂",
+              "pinyin": "qǐ",
+              "meaning": "副词，难道，表示反问语气。",
+              "type": "虚词"
+            },
+            {
+              "word": "徒",
+              "pinyin": "tú",
+              "meaning": "副词，仅仅、只是。",
               "type": "虚词"
             },
             {
               "word": "二三子",
               "pinyin": "èr sān zǐ",
-              "meaning": "你们几人",
-              "type": "实词"
+              "meaning": "典故，指你们几个人，学生们。出自《论语》等古籍，孔子常用以称呼弟子。",
+              "type": "典故"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，的，连接'二三子'和'羞'。",
               "type": "虚词"
             },
             {
               "word": "羞",
               "pinyin": "xiū",
-              "meaning": "羞耻",
+              "meaning": "名词，羞耻。古义：羞耻、耻辱（非今义'害羞'或'食物'）。",
               "type": "实词"
             },
             {
-              "word": "抑亦",
-              "pinyin": "yì yì",
-              "meaning": "也是",
+              "word": "抑",
+              "pinyin": "yì",
+              "meaning": "连词，还是，表示选择关系。",
               "type": "虚词"
             },
             {
-              "word": "为国者",
-              "pinyin": "wéi guó zhě",
-              "meaning": "治国者",
+              "word": "亦",
+              "pinyin": "yì",
+              "meaning": "副词，也。",
+              "type": "虚词"
+            },
+            {
+              "word": "为",
+              "pinyin": "wéi",
+              "meaning": "动词，治理、担任。'为'此处读 wéi，义为做、治理。",
               "type": "实词"
+            },
+            {
+              "word": "国",
+              "pinyin": "guó",
+              "meaning": "名词，国家。",
+              "type": "实词"
+            },
+            {
+              "word": "者",
+              "pinyin": "zhě",
+              "meaning": "助词，与动词短语'为国'结合构成名词性短语，表示'…的人'。",
+              "type": "虚词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，的，连接'为国者'和'忧'。",
               "type": "虚词"
             },
             {
               "word": "忧",
               "pinyin": "yōu",
-              "meaning": "忧虑",
+              "meaning": "名词，忧虑、担忧。",
               "type": "实词"
             }
           ]

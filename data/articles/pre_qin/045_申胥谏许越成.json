@@ -1,275 +1,301 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "045_申胥谏许越成",
   "title": "申胥谏许越成",
   "author": {
     "id": "pre_qin_左丘明",
     "name": "左丘明",
     "dynasty": "pre_qin",
-    "bio": "左丘明，春秋时期鲁国史学家，相传姓左丘，名明，一说名丘明。生卒年不详，约活动于公元前5世纪，与孔子同时或稍后。他是中国古代杰出的史学家和文学家，主要贡献是编撰了《左传》和《国语》。《左传》为编年体史书，详细记载春秋历史；《国语》为国别体史书，记录各国言论。左丘明以严谨史笔和生动叙事著称，对后世史学和散文发展影响深远，被尊为“百家宗师”，其作品是中国古代文化经典的重要组成部分。"
+    "bio": "左丘明，春秋时期鲁国史学家，生卒年不详，活动于公元前5世纪。相传为《左传》和《国语》的编纂者，曾任史官。其作品以详实史料和文学笔法著称，是中国古代史学与散文的重要奠基人，对后世史传文学影响深远。"
   },
   "source": "国语",
   "dynasty": "pre_qin",
   "volume": 3,
-  "background": "这篇文章出自《国语》，记录了春秋时期吴越争霸的历史片段。吴王夫差在父亲阖闾被越国击败后，励精图治，于夫椒之战大败越国。越王勾践求和，夫差意图北上攻打齐国以争霸中原，因此想与越国讲和稳固后方。申胥（伍子胥）作为吴国重臣，洞察越国潜在威胁，力谏夫差不可许和，指出越国大夫文种善谋，越王勾践爱民好信，终将反扑。但夫差骄傲自满，不听劝谏，执意许越成。这反映了吴国战略失误，为后来越国灭吴埋下伏笔，体现了先秦时期政治决策的复杂性和历史教训。",
-  "appreciation": "这篇文章以对话体形式，生动刻画了历史人物和事件，展现了先秦历史散文的文学魅力。申胥的谏言逻辑严密，层层递进：先否定越国的忠诚，再分析其策略，指出越国利用吴王好胜心，以婉约之辞使其沉迷享乐，消耗吴国实力；最后用“为虺弗摧，为蛇将若何”的比喻，形象警示姑息养奸的危险，语言精炼而富有说服力。吴王的回应则凸显其傲慢与短视，如“若无越，则吾何以春秋曜吾军士”，显示他将越国视为炫耀武力的对象，人物性格对比鲜明。结构上，先叙吴王决定，再记申胥劝谏，最后以“荒成不盟”作结，意味深长，强化了悲剧色彩。文章出自《国语》，体现了简洁明快的叙事风格和深刻的政治智慧，不仅具有史料价值，更在文学上通过对话推动情节，塑造立体形象，对后世散文影响深远。",
+  "background": "本文出自《国语·吴语》，记载春秋末期吴越争霸的关键事件。时代背景为公元前5世纪，吴王夫差在击败越国后，意图北上与齐国争霸，而越王勾践在大夫文种辅佐下暗中复兴。政治环境是诸侯兼并激烈，吴国表面强盛但内部隐患渐生。作者左丘明作为鲁国史官，基于史料记录此事，写作动机在于通过申胥（伍子胥）的谏言与吴王夫差的决策，呈现历史教训，警示后人审慎对待外交与军事策略。",
+  "appreciation": "本文属历史散文，以叙事为主，兼含议论。结构上采用对话体，先由吴王夫差宣布许越成，再以申胥谏言展开核心论述，最后以吴王拒谏和越国辞盟收尾，篇章紧凑，逻辑递进。艺术特色体现在语言简洁有力，如申胥谏词中运用比喻“为虺弗摧，为蛇将若何”，以虺蛇喻越国隐患，形象生动；节奏明快，通过人物对话凸显性格对比——申胥的远见与夫差的骄纵。思想内涵聚焦政治智慧，强调防微杜渐、警惕伪装，批判君主因好胜而轻信，具有现实警示价值。作为《国语》名篇，它体现了早期史传文学的叙事技巧与思想深度，对后世论说文有借鉴意义。",
   "tags": [
-    "谏言",
-    "历史散文",
-    "吴越争霸"
+    "叙事",
+    "议论",
+    "政治",
+    "军事"
   ],
   "paragraphs": [
     {
       "original": "吴王夫差乃告诸大夫曰：“孤将有大志于齐，吾将许越成，而无拂吾虑。若越既改，吾又何求？若其不改，反行，吾振旅焉。”",
-      "translation": "吴王夫差于是告诉诸位大夫说：“我打算对齐国有大的作为，我将允许越国讲和，你们不要违背我的考虑。如果越国已经改过自新，我还有什么可求的呢？如果他们不改，等我返回，就整顿军队去讨伐。”",
+      "translation": "吴王夫差于是告诉各位大夫说：‘我打算对齐国有重大图谋，我将允许越国讲和，你们不要反对我的计划。如果越国已经改过自新，我还有什么可求的呢？如果他们不改，反而背约行动，我就整顿军队去征讨。’",
       "sentences": [
         {
-          "original": "吴王夫差乃告诸大夫曰：“孤将有大志于齐，吾将许越成，而无拂吾虑。”",
-          "translation": "吴王夫差于是告诉诸位大夫说：“我将对齐国有大的志向，我将允许越国讲和，不要违背我的考虑。”",
+          "original": "吴王夫差乃告诸大夫曰：",
+          "translation": "吴王夫差于是告诉各位大夫说：",
           "words": [
             {
               "word": "吴王夫差",
               "pinyin": "wú wáng fū chāi",
-              "meaning": "吴国国王夫差",
+              "meaning": "春秋末期吴国君主（？—前473年），吴王阖闾之子，曾大败越国，后与晋争霸。",
               "type": "人名"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示顺承关系，相当于“于是”、“就”。",
               "type": "虚词"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告诉",
+              "meaning": "禀告，报告。",
               "type": "实词"
             },
             {
               "word": "诸",
               "pinyin": "zhū",
-              "meaning": "各位",
+              "meaning": "兼词，相当于“之于”，此处用法偏指“之”，指代大夫们。",
               "type": "虚词"
             },
             {
               "word": "大夫",
               "pinyin": "dà fū",
-              "meaning": "官员",
+              "meaning": "官职，古代高级官员，参与国政。",
               "type": "官职"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "孤将有大志于齐，",
+          "translation": "我打算对齐国有重大图谋，",
+          "words": [
             {
               "word": "孤",
               "pinyin": "gū",
-              "meaning": "我（君主自称）",
-              "type": "人名"
+              "meaning": "人称代词，古代君王或诸侯的自称，此处为吴王夫差自称。",
+              "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "副词，表示将来时态，将要。",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "怀有，具有。",
               "type": "实词"
             },
             {
-              "word": "大志",
-              "pinyin": "dà zhì",
-              "meaning": "远大志向",
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "形容词，重大的。",
+              "type": "实词"
+            },
+            {
+              "word": "志",
+              "pinyin": "zhì",
+              "meaning": "古义：意图、志向（此处特指军事意图，非今义泛指‘志气’）。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对",
+              "meaning": "介词，引出动作对象，相当于“对”、“对于”。",
               "type": "虚词"
             },
             {
               "word": "齐",
               "pinyin": "qí",
-              "meaning": "齐国",
+              "meaning": "古国名，周代诸侯国，在今山东北部。",
               "type": "地名"
-            },
+            }
+          ]
+        },
+        {
+          "original": "吾将许越成，而无拂吾虑。",
+          "translation": "我将允许越国讲和，而不要违背我的考虑。",
+          "words": [
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "人名"
+              "meaning": "第一人称代词，指吴王夫差自己",
+              "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "副词，表示将来时态，将要",
               "type": "虚词"
             },
             {
               "word": "许",
               "pinyin": "xǔ",
-              "meaning": "允许",
+              "meaning": "动词，答应、允许",
               "type": "实词"
             },
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越国",
+              "meaning": "春秋时诸侯国，都会稽，今浙江一带",
               "type": "地名"
             },
             {
               "word": "成",
               "pinyin": "chéng",
-              "meaning": "和解",
+              "meaning": "动词，讲和、达成和议",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，连接前后两个分句，表示承接关系",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "不要",
+              "meaning": "通‘毋’，不要",
               "type": "虚词"
             },
             {
               "word": "拂",
               "pinyin": "fú",
-              "meaning": "违背",
+              "meaning": "动词，违背、拂逆",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "人名"
+              "meaning": "第一人称代词，指吴王夫差自己",
+              "type": "虚词"
             },
             {
               "word": "虑",
               "pinyin": "lǜ",
-              "meaning": "考虑",
+              "meaning": "名词，考虑、谋划",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "“若越既改，吾又何求？”",
-          "translation": "“如果越国已经改变，我还有什么要求？”",
+          "original": "若越既改，吾又何求？",
+          "translation": "如果越国已经改过自新，我又有什么可求的呢？",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，如果，表示假设",
               "type": "虚词"
             },
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越国",
+              "meaning": "春秋时诸侯国，都会稽，今浙江一带",
               "type": "地名"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "副词，已经，表示动作完成",
               "type": "虚词"
             },
             {
               "word": "改",
               "pinyin": "gǎi",
-              "meaning": "改正",
+              "meaning": "动词，改正、改变",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "人名"
+              "meaning": "第一人称代词，指吴王夫差自己",
+              "type": "虚词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示重复或继续，还",
               "type": "虚词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "什么",
+              "meaning": "疑问代词，什么，作动词‘求’的宾语，前置",
               "type": "虚词"
             },
             {
               "word": "求",
               "pinyin": "qiú",
-              "meaning": "要求",
+              "meaning": "动词，要求、追求",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "“若其不改，反行，吾振旅焉。”",
-          "translation": "“如果他们不改变，返回时，我将整顿军队。”",
+          "original": "若其不改，反行，吾振旅焉。",
+          "translation": "如果他们不改，反而行动，我就整顿军队。",
           "words": [
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，表示假设条件，相当于'如果'，引出后文情况",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他们（指越国）",
+              "meaning": "代词，指代越国，作'不改'的主语",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "副词，表示否定，修饰动词'改'",
               "type": "虚词"
             },
             {
               "word": "改",
               "pinyin": "gǎi",
-              "meaning": "改正",
+              "meaning": "改变，指越国改变其行为或政策",
               "type": "实词"
             },
             {
               "word": "反",
               "pinyin": "fǎn",
-              "meaning": "返回",
+              "meaning": "通'返'，义为返回，指吴王从齐国返回",
               "type": "实词"
             },
             {
               "word": "行",
               "pinyin": "xíng",
-              "meaning": "行动",
+              "meaning": "此处读 xíng，义为行走或行程，指返回的行程",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "人名"
+              "meaning": "第一人称代词，指吴王夫差自己",
+              "type": "虚词"
             },
             {
-              "word": "振旅",
-              "pinyin": "zhèn lǚ",
-              "meaning": "整顿军队",
+              "word": "振",
+              "pinyin": "zhèn",
+              "meaning": "整顿、振兴，指整军备战",
+              "type": "实词"
+            },
+            {
+              "word": "旅",
+              "pinyin": "lǚ",
+              "meaning": "军队，指吴国的军队",
               "type": "实词"
             },
             {
               "word": "焉",
               "pinyin": "yān",
-              "meaning": "于此",
+              "meaning": "句末语气词，表陈述语气，加强肯定",
               "type": "虚词"
             }
           ]
@@ -278,7 +304,7 @@
     },
     {
       "original": "申胥谏曰：“不可许也。夫越非实忠心好吴也，又非慑畏吾甲兵之强也。大夫种勇而善谋，将还玩吴国于股掌之上，以得其志。夫固知君王之盖威以好胜也，故婉约其辞，以从逸王志，使淫乐于诸夏之国，以自伤也。使吾甲兵钝弊，民人离落，而日以憔悴，然后安受吾烬。夫越王好信以爱民，四方归之，年谷时熟，日长炎炎，及吾犹可以战也。为虺弗摧，为蛇将若何？”",
-      "translation": "申胥劝谏说：“不能答应。”越国并不是真心忠于吴国，也不是害怕我们军队的强大。大夫文种勇敢而善于谋划，将会把吴国玩弄于股掌之上，以实现他的志向。他本来就知道君王您崇尚威严、好胜，所以言辞委婉，来迎合君王您的心意，让您沉溺于中原各国的享乐，从而自我伤害。使我们的军队疲惫，人民离散，日益衰弱，然后越国就能安然地接收我们的残局。越王讲信用、爱护人民，四方归附他，年年丰收，国势日益强盛，趁我们还能作战的时候（应该行动）。小蛇不打死，长成大蛇后怎么办？",
+      "translation": "申胥劝谏说：“不能答应。越国并非真心喜好吴国，也不是畏惧我们军队的强大。大夫文种勇敢而善于谋略，将会把吴国玩弄于股掌之上，以实现他的志向。他本来就知道君王崇尚威严而好胜，所以言辞委婉，以放纵君王的心志，使君王沉溺于中原各国的享乐，从而自我伤害。让我们的军队疲惫，人民离散，日益憔悴，然后安稳地接收我们的残局。越王喜好诚信而爱护人民，四方归附他，年成丰收，日益兴盛，趁我们还可以作战的时候。小蛇时不打死，成了大蛇怎么办？”",
       "sentences": [
         {
           "original": "申胥谏曰：“不可许也。”",
@@ -287,427 +313,445 @@
             {
               "word": "申胥",
               "pinyin": "shēn xū",
-              "meaning": "人名",
+              "meaning": "春秋时期吴国大夫，本名伍员，字子胥。本文中为劝谏吴王勿许越和的主要人物。",
               "type": "人名"
             },
             {
-              "word": "谏曰",
-              "pinyin": "jiàn yuē",
-              "meaning": "劝谏说",
+              "word": "谏",
+              "pinyin": "jiàn",
+              "meaning": "规劝，劝谏（君主或尊长）。",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "不可",
               "pinyin": "bù kě",
-              "meaning": "不可以",
+              "meaning": "不可以，不行。",
               "type": "虚词"
             },
             {
               "word": "许",
               "pinyin": "xǔ",
-              "meaning": "答应",
+              "meaning": "答应，允许（讲和）。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "夫越非实忠心好吴也，又非慑畏吾甲兵之强也。",
-          "translation": "越国并不是真心忠于吴国，也不是害怕我们军队的强大。",
+          "translation": "越国并非真心喜好吴国，也不是畏惧我们军队的强大。",
           "words": [
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "发语词",
+              "meaning": "句首发语词，表示将发议论，无实义。",
               "type": "虚词"
             },
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越国",
+              "meaning": "春秋时诸侯国，在今浙江一带。",
               "type": "地名"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "否定副词，不是。",
               "type": "虚词"
             },
             {
               "word": "实",
               "pinyin": "shí",
-              "meaning": "确实",
-              "type": "虚词"
+              "meaning": "确实，实在。",
+              "type": "实词"
             },
             {
               "word": "忠心",
               "pinyin": "zhōng xīn",
-              "meaning": "忠诚之心",
+              "meaning": "忠诚的心意。",
               "type": "实词"
             },
             {
               "word": "好",
               "pinyin": "hào",
-              "meaning": "喜好",
+              "meaning": "此处读hào，义为喜好、喜爱。",
               "type": "实词"
             },
             {
               "word": "吴",
               "pinyin": "wú",
-              "meaning": "吴国",
+              "meaning": "春秋时诸侯国，在今江苏南部，本文中为越国的对手。",
               "type": "地名"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句中语气词，表停顿，以舒缓语气。",
               "type": "虚词"
             },
             {
               "word": "又",
               "pinyin": "yòu",
-              "meaning": "又",
+              "meaning": "副词，表示并列或递进，可译为“也”、“又”。",
               "type": "虚词"
             },
             {
               "word": "非",
               "pinyin": "fēi",
-              "meaning": "不是",
+              "meaning": "否定副词，不是。",
               "type": "虚词"
             },
             {
               "word": "慑畏",
               "pinyin": "shè wèi",
-              "meaning": "畏惧",
+              "meaning": "恐惧，害怕。",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我的",
+              "meaning": "人称代词，我的，我们的。此处指代吴国。",
               "type": "虚词"
             },
             {
               "word": "甲兵",
               "pinyin": "jiǎ bīng",
-              "meaning": "军队",
+              "meaning": "铠甲和兵器，泛指军事力量。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于“的”。",
               "type": "虚词"
             },
             {
               "word": "强",
               "pinyin": "qiáng",
-              "meaning": "强大",
+              "meaning": "强大。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词",
+              "meaning": "句末语气词，表判断与肯定。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "大夫种勇而善谋，将还玩吴国于股掌之上，以得其志。",
-          "translation": "大夫文种勇敢而善于谋划，将会把吴国玩弄于股掌之上，以实现他的志向。",
+          "translation": "大夫文种勇敢而善于谋略，将会把吴国玩弄于股掌之上，以实现他的志向。",
           "words": [
             {
-              "word": "大夫",
-              "pinyin": "dà fū",
-              "meaning": "官职",
-              "type": "官职"
-            },
-            {
-              "word": "种",
-              "pinyin": "zhǒng",
-              "meaning": "文种",
+              "word": "大夫种",
+              "pinyin": "dà fū zhǒng",
+              "meaning": "春秋末期越国大夫，即文种，与范蠡同为辅佐越王勾践灭吴复国的核心谋臣。",
               "type": "人名"
             },
             {
               "word": "勇",
               "pinyin": "yǒng",
-              "meaning": "勇敢",
+              "meaning": "勇敢，有胆量。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词",
+              "meaning": "连词，表示并列关系，连接‘勇’和‘善谋’两种品质。",
               "type": "虚词"
             },
             {
               "word": "善",
               "pinyin": "shàn",
-              "meaning": "擅长",
+              "meaning": "善于，擅长。",
               "type": "实词"
             },
             {
               "word": "谋",
               "pinyin": "móu",
-              "meaning": "谋略",
+              "meaning": "谋略，计谋。",
               "type": "实词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "副词，将要，表示将来时态。",
               "type": "虚词"
             },
             {
-              "word": "还玩",
-              "pinyin": "huán wán",
-              "meaning": "玩弄",
+              "word": "还",
+              "pinyin": "xuán",
+              "meaning": "通‘旋’，此处读xuán，义为旋转、摆弄、操纵。",
+              "type": "实词"
+            },
+            {
+              "word": "玩",
+              "pinyin": "wán",
+              "meaning": "古义：玩弄、轻视、戏弄（非今义‘玩耍’）。此处指随意操纵。",
               "type": "实词"
             },
             {
               "word": "吴国",
               "pinyin": "wú guó",
-              "meaning": "吴国",
+              "meaning": "春秋时期诸侯国，姬姓，据有今江苏大部及安徽、浙江一部分，此时为越国主要对手。",
               "type": "地名"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作‘玩’所涉及的处所，相当于‘在’。",
               "type": "虚词"
             },
             {
               "word": "股掌",
               "pinyin": "gǔ zhǎng",
-              "meaning": "大腿手掌",
+              "meaning": "大腿和手掌。固定比喻，喻指完全控制、任意摆布的范围。",
               "type": "实词"
             },
             {
-              "word": "之上",
-              "pinyin": "zhī shàng",
-              "meaning": "上面",
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，相当于‘的’，连接‘股掌’和‘上’。",
+              "type": "虚词"
+            },
+            {
+              "word": "上",
+              "pinyin": "shàng",
+              "meaning": "方位词，上面。‘股掌之上’即在大腿和手掌之上，比喻处于绝对控制之下。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表示目的，可译为‘来’、‘用来’。",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "实现",
+              "meaning": "得到，实现。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的，指代大夫种自己的。",
               "type": "虚词"
             },
             {
               "word": "志",
               "pinyin": "zhì",
-              "meaning": "志向",
+              "meaning": "志向，意图。此处指大夫种图谋吴国的计划。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "夫固知君王之盖威以好胜也，故婉约其辞，以从逸王志，使淫乐于诸夏之国，以自伤也。",
-          "translation": "他本来就知道君王您崇尚威严、好胜，所以言辞委婉，来迎合君王您的心意，让您沉溺于中原各国的享乐，从而自我伤害。",
+          "translation": "他本来就知道君王崇尚威严而好胜，所以言辞委婉，以放纵君王的心志，使君王沉溺于中原各国的享乐，从而自我伤害。",
           "words": [
             {
               "word": "夫",
-              "pinyin": "fū",
-              "meaning": "发语词",
+              "pinyin": "fú",
+              "meaning": "句首语气词，表示发表议论，可不译。",
               "type": "虚词"
             },
             {
               "word": "固",
               "pinyin": "gù",
-              "meaning": "本来",
-              "type": "实词"
+              "meaning": "副词，本来，确实。",
+              "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "知道，了解。",
               "type": "实词"
             },
             {
               "word": "君王",
               "pinyin": "jūn wáng",
-              "meaning": "君主",
+              "meaning": "指吴王夫差。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，用于主谓短语‘君王盖威’之间，取消其独立性，使整个短语作‘知’的宾语。",
               "type": "虚词"
             },
             {
               "word": "盖威",
               "pinyin": "gài wēi",
-              "meaning": "崇尚威势",
+              "meaning": "崇尚威势。盖，超过、崇尚；威，威严、武力。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "而",
+              "meaning": "连词，连接‘盖威’和‘好胜’，表示并列或递进关系，相当于‘而又’。",
               "type": "虚词"
             },
             {
               "word": "好胜",
               "pinyin": "hào shèng",
-              "meaning": "喜欢胜利",
+              "meaning": "喜欢胜过别人，处处想占上风。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句中语气词，表示停顿，以待下文陈述原因。",
               "type": "虚词"
             },
             {
               "word": "故",
               "pinyin": "gù",
-              "meaning": "所以",
+              "meaning": "连词，所以，因此。表示因果关系。",
               "type": "虚词"
             },
             {
               "word": "婉约",
               "pinyin": "wǎn yuē",
-              "meaning": "委婉",
+              "meaning": "古义：委婉而卑顺（非今义‘委婉含蓄’）。此处指言辞谦卑顺从。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "他的",
+              "meaning": "代词，他的，指代越国使者（或大夫种）的。",
               "type": "虚词"
             },
             {
               "word": "辞",
               "pinyin": "cí",
-              "meaning": "言辞",
+              "meaning": "言辞，话语。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，可译为‘以便’、‘来’。",
               "type": "虚词"
             },
             {
-              "word": "从逸",
-              "pinyin": "cóng yì",
-              "meaning": "放纵安逸",
+              "word": "从",
+              "pinyin": "zòng",
+              "meaning": "通‘纵’，此处读zòng，义为放纵、使放纵。",
+              "type": "实词"
+            },
+            {
+              "word": "逸",
+              "pinyin": "yì",
+              "meaning": "使安逸，使放纵。‘从逸’同义连用，意为放纵。",
               "type": "实词"
             },
             {
               "word": "王志",
               "pinyin": "wáng zhì",
-              "meaning": "君王的志向",
+              "meaning": "君王（指吴王夫差）的心志、欲望。",
               "type": "实词"
             },
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "让，致使。",
               "type": "实词"
             },
             {
               "word": "淫乐",
               "pinyin": "yín lè",
-              "meaning": "过度享乐",
+              "meaning": "过度享乐，沉湎于酒色。淫，过度、无节制。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "在",
+              "meaning": "介词，引出动作‘淫乐’的处所或范围，相当于‘在…方面’。",
               "type": "虚词"
             },
             {
               "word": "诸夏",
               "pinyin": "zhū xià",
-              "meaning": "中原各国",
-              "type": "地名"
+              "meaning": "指中原地区的各个华夏诸侯国。周代王室所分封的诸国统称。",
+              "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "结构助词，相当于‘的’。",
               "type": "虚词"
             },
             {
               "word": "国",
               "pinyin": "guó",
-              "meaning": "国家",
+              "meaning": "国家。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "以便",
+              "meaning": "连词，表示结果，可译为‘以致’、‘从而’。",
               "type": "虚词"
             },
             {
               "word": "自伤",
               "pinyin": "zì shāng",
-              "meaning": "自我伤害",
+              "meaning": "伤害自己。此处指吴国因沉湎享乐而损耗国力。",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表示肯定和判断。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "使吾甲兵钝弊，民人离落，而日以憔悴，然后安受吾烬。",
-          "translation": "使我们的军队疲惫，人民离散，日益衰弱，然后越国就能安然地接收我们的残局。",
+          "translation": "让我们的军队疲惫，人民离散，日益憔悴，然后安稳地接收我们的残局。",
           "words": [
             {
               "word": "使",
               "pinyin": "shǐ",
-              "meaning": "让",
+              "meaning": "动词，让、致使",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我的",
+              "meaning": "人称代词，我的、我们的（指代吴国一方）",
               "type": "虚词"
             },
             {
               "word": "甲兵",
               "pinyin": "jiǎ bīng",
-              "meaning": "军队",
+              "meaning": "铠甲和兵器，泛指军备",
               "type": "实词"
             },
             {
               "word": "钝弊",
               "pinyin": "dùn bì",
-              "meaning": "钝坏破败",
+              "meaning": "（兵器）钝坏破旧，（装备）疲敝",
               "type": "实词"
             },
             {
               "word": "民人",
               "pinyin": "mín rén",
-              "meaning": "人民",
+              "meaning": "百姓，民众",
               "type": "实词"
             },
             {
@@ -719,73 +763,73 @@
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "而且",
+              "meaning": "连词，表转折，可是、却",
               "type": "虚词"
             },
             {
               "word": "日",
               "pinyin": "rì",
-              "meaning": "一天天",
+              "meaning": "名词作状语，一天天地",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "地",
+              "meaning": "连词，连接状语和中心词，相当于‘而’",
               "type": "虚词"
             },
             {
               "word": "憔悴",
               "pinyin": "qiáo cuì",
-              "meaning": "衰弱",
+              "meaning": "困顿萎靡",
               "type": "实词"
             },
             {
               "word": "然后",
               "pinyin": "rán hòu",
-              "meaning": "这样以后",
+              "meaning": "固定结构，表示‘这样以后’，承接上文所述情况",
               "type": "虚词"
             },
             {
               "word": "安",
               "pinyin": "ān",
-              "meaning": "安然",
-              "type": "实词"
+              "meaning": "副词，安稳地、从容地",
+              "type": "虚词"
             },
             {
               "word": "受",
               "pinyin": "shòu",
-              "meaning": "接受",
+              "meaning": "动词，接受、承受",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我的",
+              "meaning": "人称代词，我们的（指代吴国一方）",
               "type": "虚词"
             },
             {
               "word": "烬",
               "pinyin": "jìn",
-              "meaning": "灰烬",
+              "meaning": "物体燃烧后的残余，比喻残局、败亡后的局面",
               "type": "实词"
             }
           ]
         },
         {
           "original": "夫越王好信以爱民，四方归之，年谷时熟，日长炎炎，及吾犹可以战也。",
-          "translation": "越王讲信用、爱护人民，四方归附他，年年丰收，国势日益强盛，趁我们还能作战的时候（应该行动）。",
+          "translation": "越王喜好诚信而爱护人民，四方归附他，年成丰收，日益兴盛，趁我们还可以作战的时候。",
           "words": [
             {
               "word": "夫",
-              "pinyin": "fū",
-              "meaning": "发语词",
+              "pinyin": "fú",
+              "meaning": "句首语气词，表示发表议论，不译",
               "type": "虚词"
             },
             {
               "word": "越王",
               "pinyin": "yuè wáng",
-              "meaning": "越国君主",
+              "meaning": "春秋时期越国国君，此处指勾践，吴国的敌国君主",
               "type": "人名"
             },
             {
@@ -797,37 +841,37 @@
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "而",
+              "meaning": "连词，表并列，和、并且",
               "type": "虚词"
             },
             {
               "word": "爱民",
               "pinyin": "ài mín",
-              "meaning": "爱护人民",
+              "meaning": "爱护民众",
               "type": "实词"
             },
             {
               "word": "四方",
               "pinyin": "sì fāng",
-              "meaning": "天下",
+              "meaning": "天下各地",
               "type": "实词"
             },
             {
               "word": "归",
               "pinyin": "guī",
-              "meaning": "归附",
+              "meaning": "动词，归附、归顺",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他",
+              "meaning": "代词，指代越王",
               "type": "虚词"
             },
             {
               "word": "年谷",
               "pinyin": "nián gǔ",
-              "meaning": "一年的谷物",
+              "meaning": "一年中收获的谷物",
               "type": "实词"
             },
             {
@@ -839,109 +883,109 @@
             {
               "word": "日",
               "pinyin": "rì",
-              "meaning": "一天天",
+              "meaning": "名词作状语，一天天地",
               "type": "实词"
             },
             {
               "word": "长",
               "pinyin": "zhǎng",
-              "meaning": "增长",
+              "meaning": "此处读 zhǎng，动词，增长、兴盛",
               "type": "实词"
             },
             {
               "word": "炎炎",
               "pinyin": "yán yán",
-              "meaning": "兴盛",
+              "meaning": "火势炽盛的样子，比喻势力兴盛、威赫",
               "type": "实词"
             },
             {
               "word": "及",
               "pinyin": "jí",
-              "meaning": "趁着",
-              "type": "虚词"
+              "meaning": "此处读 jí，动词，趁着（区别于连词‘和’义）",
+              "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我们",
+              "meaning": "人称代词，我们（指代吴国一方）",
               "type": "虚词"
             },
             {
               "word": "犹",
               "pinyin": "yóu",
-              "meaning": "还",
-              "type": "实词"
+              "meaning": "副词，还、尚且",
+              "type": "虚词"
             },
             {
               "word": "可以",
               "pinyin": "kě yǐ",
-              "meaning": "可以",
-              "type": "实词"
+              "meaning": "助动词‘可’+介词‘以’，表示能够凭借（某种条件）",
+              "type": "虚词"
             },
             {
               "word": "战",
               "pinyin": "zhàn",
-              "meaning": "作战",
+              "meaning": "动词，作战",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "语气词",
+              "meaning": "句末语气词，表陈述和肯定",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "为虺弗摧，为蛇将若何？",
-          "translation": "小蛇不打死，长成大蛇后怎么办？",
+          "translation": "小蛇时不打死，成了大蛇怎么办？",
           "words": [
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "如果，表示假设",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，义为成为、变成，指从小蛇成长为大蛇",
+              "type": "实词"
             },
             {
               "word": "虺",
               "pinyin": "huǐ",
-              "meaning": "小蛇",
+              "meaning": "名词，小蛇、毒蛇，喻指弱小的敌人或隐患",
               "type": "实词"
             },
             {
               "word": "弗",
               "pinyin": "fú",
-              "meaning": "不",
+              "meaning": "否定副词，意为'不'，在句中修饰动词'摧'，表示对消灭小蛇的否定",
               "type": "虚词"
             },
             {
               "word": "摧",
               "pinyin": "cuī",
-              "meaning": "摧毁",
+              "meaning": "动词，摧毁、打死，指消灭小蛇",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "如果，表示假设",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，义为成为、变成，指小蛇变成大蛇",
+              "type": "实词"
             },
             {
               "word": "蛇",
               "pinyin": "shé",
-              "meaning": "蛇",
+              "meaning": "名词，大蛇，喻指成长后的强大祸患",
               "type": "实词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "古义：将要、快要（非今义'将领'或'将军'），副词，表示未来可能发生的情况",
               "type": "虚词"
             },
             {
               "word": "若何",
               "pinyin": "ruò hé",
-              "meaning": "如何，怎么办",
+              "meaning": "固定结构，相当于'奈何'或'如何'，表示'怎么办'，用于反问强调后果严重",
               "type": "虚词"
             }
           ]
@@ -950,190 +994,178 @@
     },
     {
       "original": "吴王曰：“大夫奚隆于越？越曾足以为大虞乎？若无越，则吾何以春秋曜吾军士？”乃许之成。",
-      "translation": "吴王说：“大夫为何如此看重越国？越国难道足以成为大患吗？如果没有越国，那么我如何在春秋两季炫耀我的军队？”于是允许了和解。",
+      "translation": "吴王说：“大夫为什么如此重视越国？越国难道足以成为大患吗？如果没有越国，那么我怎么在春秋季节炫耀我的军队呢？”于是允许越国讲和。",
       "sentences": [
         {
-          "original": "吴王曰：“大夫奚隆于越？”",
-          "translation": "吴王说：“大夫为何如此推崇越国？”",
+          "original": "吴王曰：“大夫奚隆于越？越曾足以为大虞乎？若无越，则吾何以春秋曜吾军士？”",
+          "translation": "吴王说：“大夫为什么如此重视越国？越国难道足以成为大患吗？如果没有越国，那么我怎么在春秋季节炫耀我的军队呢？”",
           "words": [
             {
               "word": "吴王",
               "pinyin": "wú wáng",
-              "meaning": "吴国君主",
+              "meaning": "春秋时期吴国国君，此处指吴王夫差。",
               "type": "人名"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说",
+              "meaning": "说。",
               "type": "实词"
             },
             {
               "word": "大夫",
               "pinyin": "dà fū",
-              "meaning": "官职名",
+              "meaning": "官职名，指高级官员，此处当指伍子胥（申胥）。",
               "type": "官职"
             },
             {
               "word": "奚",
               "pinyin": "xī",
-              "meaning": "为什么",
+              "meaning": "疑问代词，为什么。",
               "type": "虚词"
             },
             {
               "word": "隆",
               "pinyin": "lóng",
-              "meaning": "推崇",
+              "meaning": "尊崇、重视。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "对于",
+              "meaning": "介词，表示对象，对于。",
               "type": "虚词"
             },
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越国",
+              "meaning": "春秋时越国，在今浙江一带。",
               "type": "地名"
-            }
-          ]
-        },
-        {
-          "original": "越曾足以为大虞乎？",
-          "translation": "越国难道足以成为大患吗？",
-          "words": [
+            },
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越国",
+              "meaning": "指代越国。",
               "type": "地名"
             },
             {
               "word": "曾",
               "pinyin": "céng",
-              "meaning": "竟然",
+              "meaning": "此处读 céng，副词，竟然。",
               "type": "虚词"
             },
             {
               "word": "足以",
               "pinyin": "zú yǐ",
-              "meaning": "足够",
-              "type": "实词"
+              "meaning": "固定结构，足够用来。",
+              "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "成为",
-              "type": "实词"
+              "meaning": "此处读 wéi，动词，成为。",
+              "type": "虚词"
             },
             {
               "word": "大虞",
               "pinyin": "dà yú",
-              "meaning": "大忧患",
+              "meaning": "大的忧患。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，吗。",
               "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "若无越，则吾何以春秋曜吾军士？",
-          "translation": "如果没有越国，那么我如何在春秋时节炫耀我的军队？",
-          "words": [
+            },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "如果",
+              "meaning": "连词，如果。",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "没有",
+              "meaning": "动词，没有。",
               "type": "实词"
             },
             {
               "word": "越",
               "pinyin": "yuè",
-              "meaning": "越国",
+              "meaning": "指代越国。",
               "type": "地名"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "那么",
+              "meaning": "连词，那么。",
               "type": "虚词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我。",
+              "type": "虚词"
             },
             {
               "word": "何以",
               "pinyin": "hé yǐ",
-              "meaning": "用什么",
+              "meaning": "固定结构，用什么。",
               "type": "虚词"
             },
             {
               "word": "春秋",
               "pinyin": "chūn qiū",
-              "meaning": "春秋季节",
+              "meaning": "春季和秋季，代指季节。",
               "type": "实词"
             },
             {
               "word": "曜",
               "pinyin": "yào",
-              "meaning": "炫耀",
+              "meaning": "通'耀'，炫耀、照耀。",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我的",
-              "type": "实词"
+              "meaning": "代词，我的。",
+              "type": "虚词"
             },
             {
               "word": "军士",
               "pinyin": "jūn shì",
-              "meaning": "军队",
+              "meaning": "军队士兵。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "乃许之成。",
-          "translation": "于是允许了和解。",
+          "translation": "于是允许越国讲和。",
           "words": [
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是、就",
+              "meaning": "副词，于是。",
               "type": "虚词"
             },
             {
               "word": "许",
               "pinyin": "xǔ",
-              "meaning": "允许、答应",
+              "meaning": "动词，答应。",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "他、它",
+              "meaning": "代词，指代越国求和之事。",
               "type": "虚词"
             },
             {
               "word": "成",
               "pinyin": "chéng",
-              "meaning": "和解",
+              "meaning": "名词，和解、讲和。",
               "type": "实词"
             }
           ]
@@ -1142,206 +1174,161 @@
     },
     {
       "original": "将盟，越王又使诸稽郢辞曰：“以盟为有益乎？前盟口血未干，足以结信矣。",
-      "translation": "即将结盟时，越王又派遣诸稽郢辞谢说：“认为结盟有益吗？之前的盟誓口血未干，足以建立信任了。认为结盟无益吗？君王放弃甲兵的威势来亲临指使，却为何看重鬼神而轻视自己呢？”吴王于是答应了，荒废结盟而没有举行仪式。",
+      "translation": "将要盟誓的时候，越王又派遣诸稽郢推辞说：'认为盟誓是有益的吗？前次盟誓的口血还没有干，足以结成信约了。'",
       "sentences": [
         {
-          "original": "将盟，越王又使诸稽郢辞曰：",
-          "translation": "即将结盟时，越王又派遣诸稽郢辞谢说。",
-          "words": []
-        },
-        {
-          "original": "以盟为有益乎？",
-          "translation": "认为结盟有益吗？",
-          "words": []
-        },
-        {
-          "original": "前盟口血未干，足以结信矣。",
-          "translation": "之前的盟誓口血未干，足以建立信任了。",
-          "words": []
-        },
-        {
-          "original": "以盟为无益乎？",
-          "translation": "认为结盟无益吗？",
+          "original": "将盟，越王又使诸稽郢辞曰",
+          "translation": "将要盟誓的时候，越王又派遣诸稽郢推辞说",
           "words": [
             {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "认为",
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "副词，表示动作即将发生，此处修饰'盟'，指将要举行盟誓",
               "type": "虚词"
             },
             {
               "word": "盟",
               "pinyin": "méng",
-              "meaning": "盟约",
+              "meaning": "动词，结盟、盟誓",
+              "type": "实词"
+            },
+            {
+              "word": "越王",
+              "pinyin": "yuè wáng",
+              "meaning": "春秋时期越国国君，本文中派使者诸稽郢辞谢与吴国的盟约",
+              "type": "人名"
+            },
+            {
+              "word": "又",
+              "pinyin": "yòu",
+              "meaning": "副词，表示重复或继续，此处指越王再次派遣使者",
+              "type": "虚词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "动词，派遣",
+              "type": "实词"
+            },
+            {
+              "word": "诸稽郢",
+              "pinyin": "zhū jī yǐng",
+              "meaning": "春秋时期越国大夫，复姓诸稽，名郢，本文中作为越王的使者辞谢盟约",
+              "type": "人名"
+            },
+            {
+              "word": "辞",
+              "pinyin": "cí",
+              "meaning": "动词，推辞、辞谢",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "动词，说",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "以盟为有益乎？",
+          "translation": "认为盟誓是有益的吗？",
+          "words": [
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "介词，与'为'构成'以...为...'结构，表示认为...是...",
+              "type": "虚词"
+            },
+            {
+              "word": "盟",
+              "pinyin": "méng",
+              "meaning": "名词，盟誓、结盟之事",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
-              "type": "虚词"
+              "meaning": "此处读 wéi，义为是、作为，动词，在'以...为...'结构中表示判断",
+              "type": "实词"
             },
             {
-              "word": "无益",
-              "pinyin": "wú yì",
-              "meaning": "没有益处",
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，具有",
+              "type": "实词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "名词，好处、益处",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示疑问，相当于'吗'",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "君王舍甲兵之威以临使之，而胡重于鬼神而自轻也。",
-          "translation": "君王放弃甲兵的威势来亲临指使，却为何看重鬼神而轻视自己呢？",
+          "original": "前盟口血未干，足以结信矣。",
+          "translation": "前次盟誓的口血还没有干，足以结成信约了。",
           "words": [
             {
-              "word": "君王",
-              "pinyin": "jūn wáng",
-              "meaning": "君主",
+              "word": "前盟",
+              "pinyin": "qián méng",
+              "meaning": "之前的盟约，指前一次会盟所订立的誓约",
               "type": "实词"
             },
             {
-              "word": "舍",
-              "pinyin": "shě",
-              "meaning": "舍弃",
+              "word": "口血",
+              "pinyin": "kǒu xuè",
+              "meaning": "古代盟会时歃血为盟，将牲血涂于口旁以示诚信，这里指盟誓的血迹",
               "type": "实词"
             },
             {
-              "word": "甲兵",
-              "pinyin": "jiǎ bīng",
-              "meaning": "铠甲兵器",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "的",
+              "word": "未",
+              "pinyin": "wèi",
+              "meaning": "虚词，否定副词，表示没有，修饰'干'，指口血没有干燥",
               "type": "虚词"
             },
             {
-              "word": "威",
-              "pinyin": "wēi",
-              "meaning": "威势",
+              "word": "干",
+              "pinyin": "gān",
+              "meaning": "此处读 gān，义为干燥（区别于 gàn 之'主干'义）",
+              "type": "实词"
+            },
+            {
+              "word": "足",
+              "pinyin": "zú",
+              "meaning": "形容词，足够",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "虚词，介词，在'足以'结构中表示凭借，用来",
               "type": "虚词"
             },
             {
-              "word": "临",
-              "pinyin": "lín",
-              "meaning": "临驾",
+              "word": "结",
+              "pinyin": "jié",
+              "meaning": "动词，缔结、建立",
               "type": "实词"
             },
             {
-              "word": "使",
-              "pinyin": "shǐ",
-              "meaning": "指使",
+              "word": "信",
+              "pinyin": "xìn",
+              "meaning": "名词，信任、诚信",
               "type": "实词"
             },
             {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "他们",
+              "word": "矣",
+              "pinyin": "yǐ",
+              "meaning": "虚词，句末语气词，表示肯定，相当于'了'",
               "type": "虚词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "却",
-              "type": "虚词"
-            },
-            {
-              "word": "胡",
-              "pinyin": "hú",
-              "meaning": "为什么",
-              "type": "虚词"
-            },
-            {
-              "word": "重",
-              "pinyin": "zhòng",
-              "meaning": "重视",
-              "type": "实词"
-            },
-            {
-              "word": "于",
-              "pinyin": "yú",
-              "meaning": "对于",
-              "type": "虚词"
-            },
-            {
-              "word": "鬼神",
-              "pinyin": "guǐ shén",
-              "meaning": "鬼神",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "却",
-              "type": "虚词"
-            },
-            {
-              "word": "自轻",
-              "pinyin": "zì qīng",
-              "meaning": "轻视自己",
-              "type": "实词"
-            },
-            {
-              "word": "也",
-              "pinyin": "yě",
-              "meaning": "啊",
-              "type": "虚词"
-            }
-          ]
-        },
-        {
-          "original": "吴王乃许之，荒成不盟。",
-          "translation": "吴王于是答应了，荒废结盟而没有举行仪式。",
-          "words": [
-            {
-              "word": "吴王",
-              "pinyin": "wú wáng",
-              "meaning": "吴国君主",
-              "type": "人名"
-            },
-            {
-              "word": "乃",
-              "pinyin": "nǎi",
-              "meaning": "于是",
-              "type": "虚词"
-            },
-            {
-              "word": "许",
-              "pinyin": "xǔ",
-              "meaning": "答应",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "他",
-              "type": "虚词"
-            },
-            {
-              "word": "荒成",
-              "pinyin": "huāng chéng",
-              "meaning": "空成",
-              "type": "实词"
-            },
-            {
-              "word": "不盟",
-              "pinyin": "bù méng",
-              "meaning": "不结盟",
-              "type": "实词"
             }
           ]
         }
@@ -1349,154 +1336,214 @@
     },
     {
       "original": "以盟为无益乎？君王舍甲兵之威以临使之，而胡重于鬼神而自轻也。”吴王乃许之，荒成不盟。",
-      "translation": "如果认为盟约没有益处呢？君王您放弃甲兵的威势来亲自处理和驱使我们，却为何看重鬼神而轻视自己呢？吴王于是答应了，荒废盟约而不举行盟誓。",
+      "translation": "'认为盟约没有益处吗？君王您舍弃甲兵的威势来役使我们，却为什么重视鬼神而轻视自己呢？' 吴王于是答应了，空有成约而不结盟。",
       "sentences": [
         {
           "original": "以盟为无益乎？",
-          "translation": "如果认为盟约没有益处呢？",
+          "translation": "认为盟约没有益处吗？",
           "words": [
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "认为",
-              "type": "虚词"
+              "meaning": "动词，认为、以为，与'为'构成'以...为...'结构，表示主观看法",
+              "type": "实词"
             },
             {
               "word": "盟",
               "pinyin": "méng",
-              "meaning": "盟约",
+              "meaning": "名词，盟约，指诸侯间缔结的条约或誓言",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
-              "type": "虚词"
+              "meaning": "此处读 wéi，动词，是、作为，在'以...为...'结构中表示判断",
+              "type": "实词"
             },
             {
-              "word": "无益",
-              "pinyin": "wú yì",
-              "meaning": "没有益处",
+              "word": "无",
+              "pinyin": "wú",
+              "meaning": "动词，没有、缺乏",
+              "type": "实词"
+            },
+            {
+              "word": "益",
+              "pinyin": "yì",
+              "meaning": "名词，好处、利益",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表疑问语气，相当于'吗'，用于反问以加强语势",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "君王舍甲兵之威以临使之，而胡重于鬼神而自轻也。”",
-          "translation": "君王您放弃甲兵的威势来亲自处理和驱使我们，却为何看重鬼神而轻视自己呢？",
+          "translation": "君王您舍弃甲兵的威势来役使我们，却为什么重视鬼神而轻视自己呢？",
           "words": [
             {
               "word": "君王",
               "pinyin": "jūn wáng",
-              "meaning": "君主",
+              "meaning": "君主，这里指吴王夫差，春秋末期吴国国君",
               "type": "实词"
             },
             {
               "word": "舍",
               "pinyin": "shě",
-              "meaning": "舍弃",
+              "meaning": "此处读 shě，动词，舍弃、放弃，指不用军事力量",
               "type": "实词"
             },
             {
-              "word": "甲兵之威",
-              "pinyin": "jiǎ bīng zhī wēi",
-              "meaning": "甲兵的威势",
+              "word": "甲兵",
+              "pinyin": "jiǎ bīng",
+              "meaning": "铠甲和兵器，代指军队或军事力量",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，用于修饰语'甲兵'和中心语'威'之间，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "威",
+              "pinyin": "wēi",
+              "meaning": "名词，威势、威力",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表目的，用来、以便，连接'舍甲兵之威'和'临使之'",
               "type": "虚词"
             },
             {
-              "word": "临使之",
-              "pinyin": "lín shǐ zhī",
-              "meaning": "亲临驱使",
+              "word": "临",
+              "pinyin": "lín",
+              "meaning": "动词，面对、居高临下，引申为统治、控制",
               "type": "实词"
+            },
+            {
+              "word": "使",
+              "pinyin": "shǐ",
+              "meaning": "动词，役使、驱使",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代越国，在句中作'使'的宾语",
+              "type": "虚词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "却",
+              "meaning": "连词，表转折关系，却、但是，连接前后两个分句",
               "type": "虚词"
             },
             {
               "word": "胡",
               "pinyin": "hú",
-              "meaning": "为什么",
+              "meaning": "疑问代词，为什么、何故，用于反问",
               "type": "虚词"
             },
             {
-              "word": "重于鬼神",
-              "pinyin": "zhòng yú guǐ shén",
-              "meaning": "重视鬼神",
+              "word": "重",
+              "pinyin": "zhòng",
+              "meaning": "此处读 zhòng，动词，重视、看重",
+              "type": "实词"
+            },
+            {
+              "word": "于",
+              "pinyin": "yú",
+              "meaning": "介词，引进对象，对于、在...方面",
+              "type": "虚词"
+            },
+            {
+              "word": "鬼神",
+              "pinyin": "guǐ shén",
+              "meaning": "鬼和神，泛指神灵或超自然力量",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "并且",
+              "meaning": "连词，表顺承关系，并且、而且，连接'重于鬼神'和'自轻'",
               "type": "虚词"
             },
             {
-              "word": "自轻",
-              "pinyin": "zì qīng",
-              "meaning": "轻视自己",
+              "word": "自",
+              "pinyin": "zì",
+              "meaning": "代词，自己，指代吴王自身",
+              "type": "虚词"
+            },
+            {
+              "word": "轻",
+              "pinyin": "qīng",
+              "meaning": "动词，轻视、看轻",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "啊",
+              "meaning": "句末语气词，表肯定或判断语气，加强陈述",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "吴王乃许之，荒成不盟。",
-          "translation": "吴王于是答应了，荒废盟约而不举行盟誓。",
+          "translation": "吴王于是答应了，空有成约而不结盟。",
           "words": [
             {
               "word": "吴王",
               "pinyin": "wú wáng",
-              "meaning": "吴王",
+              "meaning": "春秋末期吴国君主，此处指吴王夫差，接受申胥谏言但许越成之君",
               "type": "人名"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示承接关系，相当于'于是'、'就'，连接吴王许越成之事",
               "type": "虚词"
             },
             {
-              "word": "许之",
-              "pinyin": "xǔ zhī",
-              "meaning": "答应他",
+              "word": "许",
+              "pinyin": "xǔ",
+              "meaning": "动词，答应、允许，指吴王同意越国的求和请求",
               "type": "实词"
             },
             {
-              "word": "荒成",
-              "pinyin": "huāng chéng",
-              "meaning": "荒废盟约",
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代前文越国求和之事，在句中作宾语",
+              "type": "虚词"
+            },
+            {
+              "word": "荒",
+              "pinyin": "huāng",
+              "meaning": "动词，荒废、废弃，指废弃已达成的和约",
+              "type": "实词"
+            },
+            {
+              "word": "成",
+              "pinyin": "chéng",
+              "meaning": "名词，指达成的和约或协议，即吴越之间的成约",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词，表示否定，修饰动词'盟'",
               "type": "虚词"
             },
             {
               "word": "盟",
               "pinyin": "méng",
-              "meaning": "结盟",
+              "meaning": "动词，盟誓、结盟，指举行盟誓仪式",
               "type": "实词"
             }
           ]

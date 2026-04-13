@@ -1,138 +1,181 @@
 {
+  "_prompt_version": "v2-2026-04-13",
   "id": "072_卜居",
   "title": "卜居",
   "author": {
     "id": "pre_qin_屈原",
     "name": "屈原",
     "dynasty": "pre_qin",
-    "bio": "屈原（约公元前340年—公元前278年），芈姓，屈氏，名平，字原，又自云名正则，字灵均。战国时期楚国诗人、政治家，中国浪漫主义文学的奠基人。他创立了‘楚辞’体，代表作有《离骚》、《九歌》、《天问》等。屈原早年受楚怀王信任，曾任左徒、三闾大夫，后因遭贵族排挤诽谤，被放逐至汉北和沅湘流域。楚国郢都被秦军攻破后，他自沉汨罗江殉国。其作品充满爱国情怀和理想追求，对中国文学影响深远。"
+    "bio": "屈原，名平，字原，约公元前340年-公元前278年，楚国丹阳（今湖北秭归）人。曾任左徒、三闾大夫，参与内政外交，因主张改革遭谗被流放，最终投汨罗江自尽。代表作有《离骚》、《九歌》、《天问》等，开创楚辞体，是中国浪漫主义文学奠基人，对后世文学影响深远。"
   },
   "source": "",
   "dynasty": "pre_qin",
   "volume": 4,
-  "background": "屈原（约公元前340年—公元前278年）是战国时期楚国的政治家和诗人，因主张改革和联齐抗秦而遭谗言陷害，被楚王放逐。在流放期间，他内心苦闷，对人生道路产生深刻疑惑。《卜居》创作于这一背景下，通过虚构屈原拜访太卜郑詹尹进行占卜的情节，表达了他面对忠君爱国与随波逐流之间的抉择困境。文章反映了战国时期楚国政治腐败、社会动荡的现实，以及屈原在逆境中坚守理想人格的精神挣扎。这种背景使得《卜居》不仅是个人情感的抒发，也成为时代矛盾的缩影，展现了古代士人在乱世中的生存哲学和道德追求。",
-  "appreciation": "《卜居》是一篇以问答形式展开的哲理散文，文学价值卓越。文章通过屈原与太卜的对话，运用排比、对比等修辞手法，如‘宁...将...’的句式，生动对比了忠诚与谄媚、高洁与污浊等对立选择，增强了语言的节奏感和感染力。主题上，它探讨了在混浊世道中如何保持个人操守，体现了屈原的高尚品格和悲剧命运。太卜的回应‘用君之心，行君之意’强调了个人意志的重要性，暗示占卜无法解决根本的人生问题，深化了文章的哲学内涵。艺术特色上，文章意象丰富，如‘蝉翼为重，千钧为轻’、‘黄钟毁弃，瓦釜雷鸣’等，形象揭露了社会不公；屈原的自我比喻如‘千里之驹’、‘水中之凫’，则生动表达了他的志向与困境。作为楚辞文学的代表作，《卜居》对后世文学产生了深远影响，成为中国古典文学中探讨人生哲学的经典之作，展现了屈原浪漫主义风格和深邃的思想境界。",
+  "background": "战国时期，楚国政治动荡，屈原（约前340-前278）作为楚国贵族，曾任左徒、三闾大夫，主张改革内政、联齐抗秦，但遭子兰、靳尚等谗言陷害，被楚怀王疏远并流放。文章写于流放期间，屈原已三年不得见楚王，身处困境，内心矛盾。写作动机是通过向太卜郑詹尹卜问的形式，表达对个人道路选择的困惑，以及对楚国政治腐败、贤士遭弃的批判。",
+  "appreciation": "《卜居》以骚体赋形式，采用叙事与抒情结合的对话结构，先简述背景，再通过屈原与太卜的问答展开。艺术特色上，大量运用排比和对比修辞，如“宁...将...”句式，形成强烈节奏感，语言凝练而富有诗意，如“蝉翼为重，千钧为轻”等比喻，生动揭示社会颠倒。思想内涵聚焦于道德困境，屈原在“廉洁正直”与“从俗富贵”间挣扎，体现坚守真我、不与世俗同流的高洁立场，同时批判“谗人高张，贤士无名”的时局。作为《楚辞》篇章，它在文学史上承袭楚地文化，以个人抒情反映时代矛盾，对后世辞赋和抒情文学有启发。",
   "tags": [
-    "屈原",
-    "卜居",
-    "人生哲学"
+    "抒情",
+    "哲理",
+    "赋"
   ],
   "paragraphs": [
     {
       "original": "屈原既放，三年不得复见。竭智尽忠，而蔽障于谗；心烦虑乱，不知所从。",
-      "translation": "屈原已经被放逐，三年没能再见到君王。他竭尽智慧和忠诚，却被谗言所遮蔽；心绪烦乱，思虑混乱，不知道该何去何从。",
+      "translation": "屈原已经被放逐，三年来不能再次见到君王。他竭尽智慧和忠诚，却被谗言所遮蔽阻碍；心烦意乱，不知该何去何从。",
       "sentences": [
         {
           "original": "屈原既放，三年不得复见。",
-          "translation": "屈原已经被放逐，三年没能再见到君王。",
+          "translation": "屈原已经被放逐，三年来不能再次见到君王。",
           "words": [
             {
               "word": "屈原",
-              "pinyin": "Qū Yuán",
-              "meaning": "屈原",
+              "pinyin": "qū yuán",
+              "meaning": "战国时期楚国诗人、政治家，芈姓，屈氏，名平，字原。",
               "type": "人名"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "已经",
+              "meaning": "时间副词，已经。",
               "type": "虚词"
             },
             {
               "word": "放",
               "pinyin": "fàng",
-              "meaning": "放逐",
+              "meaning": "古义：放逐、流放（非今义'放置'）。",
               "type": "实词"
             },
             {
-              "word": "三年",
-              "pinyin": "sān nián",
-              "meaning": "三年",
+              "word": "三",
+              "pinyin": "sān",
+              "meaning": "数词，三。",
               "type": "实词"
             },
             {
-              "word": "不得",
-              "pinyin": "bù dé",
-              "meaning": "不能",
+              "word": "年",
+              "pinyin": "nián",
+              "meaning": "量词，年。",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
             },
             {
-              "word": "复见",
-              "pinyin": "fù jiàn",
-              "meaning": "再次见到",
+              "word": "得",
+              "pinyin": "dé",
+              "meaning": "能愿动词，能够。",
+              "type": "实词"
+            },
+            {
+              "word": "复",
+              "pinyin": "fù",
+              "meaning": "副词，再次、重新。",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "此处读 jiàn，义为谒见、拜见（指拜见楚王）。",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "竭智尽忠，而蔽障于谗；",
-          "translation": "他竭尽智慧和忠诚，却被谗言所遮蔽。",
+          "original": "竭智尽忠，而蔽障于谗；心烦虑乱，不知所从。",
+          "translation": "他竭尽智慧和忠诚，却被谗言所遮蔽阻碍；心烦意乱，不知该何去何从。",
           "words": [
             {
-              "word": "竭智",
-              "pinyin": "jié zhì",
-              "meaning": "竭尽智慧",
+              "word": "竭",
+              "pinyin": "jié",
+              "meaning": "动词，用尽、穷尽。",
               "type": "实词"
             },
             {
-              "word": "尽忠",
-              "pinyin": "jìn zhōng",
-              "meaning": "竭尽忠诚",
+              "word": "智",
+              "pinyin": "zhì",
+              "meaning": "名词，智慧、才智。",
+              "type": "实词"
+            },
+            {
+              "word": "尽",
+              "pinyin": "jìn",
+              "meaning": "动词，竭尽、全部用出。",
+              "type": "实词"
+            },
+            {
+              "word": "忠",
+              "pinyin": "zhōng",
+              "meaning": "名词，忠诚、忠心。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "但是",
+              "meaning": "连词，表转折，却、但是。",
               "type": "虚词"
             },
             {
               "word": "蔽障",
               "pinyin": "bì zhàng",
-              "meaning": "遮蔽",
+              "meaning": "动词，遮蔽、阻隔。",
               "type": "实词"
             },
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "被",
+              "meaning": "介词，表被动，被。",
               "type": "虚词"
             },
             {
               "word": "谗",
               "pinyin": "chán",
-              "meaning": "谗言",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "心烦虑乱，不知所从。",
-          "translation": "心绪烦乱，思虑混乱，不知道该何去何从。",
-          "words": [
-            {
-              "word": "心烦",
-              "pinyin": "xīn fán",
-              "meaning": "心烦意乱",
+              "meaning": "名词，谗言；或指进谗言的小人。",
               "type": "实词"
             },
             {
-              "word": "虑乱",
-              "pinyin": "lǜ luàn",
-              "meaning": "思虑混乱",
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "名词，内心、心思。",
               "type": "实词"
             },
             {
-              "word": "不知",
-              "pinyin": "bù zhī",
-              "meaning": "不知道",
+              "word": "烦",
+              "pinyin": "fán",
+              "meaning": "形容词，烦闷、烦躁。",
+              "type": "实词"
+            },
+            {
+              "word": "虑",
+              "pinyin": "lǜ",
+              "meaning": "名词，思虑、思绪。",
+              "type": "实词"
+            },
+            {
+              "word": "乱",
+              "pinyin": "luàn",
+              "meaning": "形容词，混乱、纷乱。",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
+            },
+            {
+              "word": "知",
+              "pinyin": "zhī",
+              "meaning": "动词，知道、明白。",
+              "type": "实词"
             },
             {
               "word": "所从",
               "pinyin": "suǒ cóng",
-              "meaning": "所从之路",
-              "type": "实词"
+              "meaning": "所字结构，'所'助词，与动词'从'构成名词性短语，意为'跟随的东西'或'遵循的道路'，此处指处世的方向。",
+              "type": "虚词"
             }
           ]
         }
@@ -140,27 +183,102 @@
     },
     {
       "original": "乃往见太卜郑詹尹，曰：“余有所疑，愿因先生决之。”詹尹乃端策拂龟，曰：“君将何以教之？”",
-      "translation": "于是屈原去见太卜郑詹尹，说：“我心中有些疑惑，希望先生能为我决断。”郑詹尹便摆正蓍草，拂拭龟壳，说：“您有什么要问我的呢？”",
+      "translation": "于是屈原前去拜见太卜郑詹尹，说道：“我心中有些疑惑，想请先生帮我决断。”郑詹尹便摆正蓍草、拂拭龟壳，问道：“您有何事要占卜？”",
       "sentences": [
         {
-          "original": "乃往见太卜郑詹尹",
-          "translation": "于是去见太卜郑詹尹",
-          "words": []
-        },
-        {
-          "original": "曰：“余有所疑，愿因先生决之。”",
-          "translation": "说：“我心中有些疑惑，希望先生能为我决断。”",
-          "words": []
-        },
-        {
-          "original": "詹尹乃端策拂龟",
-          "translation": "郑詹尹便摆正蓍草，拂拭龟壳",
-          "words": []
-        },
-        {
-          "original": "曰：“君将何以教之？”",
-          "translation": "说：“您有什么要问我的呢？”",
+          "original": "乃往见太卜郑詹尹，曰：“余有所疑，愿因先生决之。”",
+          "translation": "于是前去拜见太卜郑詹尹，说：“我有些疑惑，希望先生能帮我决断。”",
           "words": [
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "副词，表示动作的承接，于是、就",
+              "type": "虚词"
+            },
+            {
+              "word": "往见",
+              "pinyin": "wǎng jiàn",
+              "meaning": "前去拜见",
+              "type": "实词"
+            },
+            {
+              "word": "太卜郑詹尹",
+              "pinyin": "tài bǔ zhèng zhān yǐn",
+              "meaning": "太卜：官名，掌管占卜的官员；郑詹尹：郑国的太卜，名詹尹",
+              "type": "官职"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            },
+            {
+              "word": "余",
+              "pinyin": "yú",
+              "meaning": "第一人称代词，我",
+              "type": "虚词"
+            },
+            {
+              "word": "有所疑",
+              "pinyin": "yǒu suǒ yí",
+              "meaning": "有疑问的地方",
+              "type": "实词"
+            },
+            {
+              "word": "愿",
+              "pinyin": "yuàn",
+              "meaning": "希望",
+              "type": "实词"
+            },
+            {
+              "word": "因",
+              "pinyin": "yīn",
+              "meaning": "介词，凭借、依靠",
+              "type": "虚词"
+            },
+            {
+              "word": "先生",
+              "pinyin": "xiān sheng",
+              "meaning": "对有德业者的尊称，此处指太卜郑詹尹",
+              "type": "实词"
+            },
+            {
+              "word": "决之",
+              "pinyin": "jué zhī",
+              "meaning": "决断它。之：代词，指代‘所疑’之事",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "詹尹乃端策拂龟，曰：“君将何以教之？”",
+          "translation": "郑詹尹于是摆正蓍草、拂拭龟壳，说：“您有什么要问我的？”",
+          "words": [
+            {
+              "word": "詹尹",
+              "pinyin": "zhān yǐn",
+              "meaning": "郑国的太卜，名詹尹",
+              "type": "人名"
+            },
+            {
+              "word": "乃",
+              "pinyin": "nǎi",
+              "meaning": "副词，表示动作的承接，于是、就",
+              "type": "虚词"
+            },
+            {
+              "word": "端策",
+              "pinyin": "duān cè",
+              "meaning": "摆正占卜用的蓍草简册。策：通‘册’，指占卜用的蓍草简册",
+              "type": "实词"
+            },
+            {
+              "word": "拂龟",
+              "pinyin": "fú guī",
+              "meaning": "拂拭占卜用的龟甲，以示虔敬",
+              "type": "实词"
+            },
             {
               "word": "曰",
               "pinyin": "yuē",
@@ -170,37 +288,25 @@
             {
               "word": "君",
               "pinyin": "jūn",
-              "meaning": "您",
-              "type": "实词"
+              "meaning": "对对方的尊称，您",
+              "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "将要",
+              "meaning": "时间副词，将要、打算",
               "type": "虚词"
             },
             {
-              "word": "何",
-              "pinyin": "hé",
-              "meaning": "什么",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "用",
+              "word": "何以",
+              "pinyin": "hé yǐ",
+              "meaning": "固定结构，介宾短语‘以何’的倒装，表示‘用什么’、‘凭什么’",
               "type": "虚词"
             },
             {
-              "word": "教",
-              "pinyin": "jiào",
-              "meaning": "教导",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "我",
+              "word": "教之",
+              "pinyin": "jiāo zhī",
+              "meaning": "教导我。此处‘教’读jiāo，义为教导；之：代词，第一人称，指代詹尹自己",
               "type": "实词"
             }
           ]
@@ -209,220 +315,304 @@
     },
     {
       "original": "屈原曰：“吾宁悃悃款款，朴以忠乎？将送往劳来，斯无穷乎？宁诛锄草茆以力耕乎？将游大人以成名乎？宁正言不讳以危身乎？将从俗富贵以媮生乎？",
-      "translation": "屈原说：“我宁愿诚诚恳恳，朴实而忠诚吗？还是忙于应酬交际，这样无穷无尽呢？宁愿铲除茅草努力耕种吗？还是游说权贵来成名呢？宁愿直言不讳而危及自身吗？还是追随世俗富贵而苟且偷生呢？”",
+      "translation": "屈原说：“我是应当诚诚恳恳，朴实忠诚呢？还是去送往迎来，这样就能长久无忧呢？是宁愿铲除茅草，努力耕种呢？还是去游说权贵以成就名声呢？是宁愿直言不讳而危及自身呢？还是追随世俗追求富贵而苟且偷生呢？”",
       "sentences": [
         {
-          "original": "吾宁悃悃款款，朴以忠乎？将送往劳来，斯无穷乎？",
-          "translation": "我宁愿诚诚恳恳，朴实而忠诚吗？还是忙于应酬交际，这样无穷无尽呢？",
+          "original": "吾宁悃悃款款，朴以忠乎？",
+          "translation": "我是应当诚诚恳恳，朴实忠诚呢？",
           "words": [
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "第一人称代词，我",
+              "type": "虚词"
             },
             {
               "word": "宁",
-              "pinyin": "nìng",
-              "meaning": "宁可",
+              "pinyin": "níng",
+              "meaning": "此处读 níng，副词，表示选择关系，宁可、宁愿",
               "type": "虚词"
             },
             {
               "word": "悃悃款款",
               "pinyin": "kǔn kǔn kuǎn kuǎn",
-              "meaning": "诚恳忠实",
+              "meaning": "叠音形容词，形容诚恳、忠实的样子",
               "type": "实词"
             },
             {
               "word": "朴",
               "pinyin": "pǔ",
-              "meaning": "朴实",
+              "meaning": "形容词，质朴、淳朴",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "而",
+              "meaning": "连词，连接状语和中心语，相当于‘而’，表并列或递进",
               "type": "虚词"
             },
             {
               "word": "忠",
               "pinyin": "zhōng",
-              "meaning": "忠诚",
+              "meaning": "形容词，忠诚、忠实",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，相当于‘吗’，与‘宁’构成‘宁…乎’的选择疑问句式",
               "type": "虚词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "将送往劳来，斯无穷乎？",
+          "translation": "还是去送往迎来，这样就能长久无忧呢？",
+          "words": [
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "连词，表示选择关系，还是，与上句‘宁’构成‘宁…将…’的选择句式",
               "type": "虚词"
             },
             {
               "word": "送往劳来",
               "pinyin": "sòng wǎng láo lái",
-              "meaning": "应酬交际",
+              "meaning": "动宾结构并列，指送走离去的人，慰劳前来的人，喻指忙于世俗应酬交际",
               "type": "实词"
             },
             {
               "word": "斯",
               "pinyin": "sī",
-              "meaning": "这样",
+              "meaning": "指示代词，此、这，指代‘送往劳来’这种处世方式",
               "type": "虚词"
             },
             {
               "word": "无穷",
               "pinyin": "wú qióng",
-              "meaning": "没有穷尽",
+              "meaning": "没有穷尽。此处‘穷’古义：困厄、不得志（非今义‘贫穷’）。指（这样）就能免于困厄吗？",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，相当于‘吗’，表示反问",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "宁诛锄草茆以力耕乎？将游大人以成名乎？",
-          "translation": "宁愿铲除茅草努力耕种吗？还是游说权贵来成名呢？",
+          "original": "宁诛锄草茆以力耕乎？",
+          "translation": "是宁愿铲除茅草，努力耕种呢？",
           "words": [
             {
               "word": "宁",
-              "pinyin": "nìng",
-              "meaning": "宁可",
+              "pinyin": "níng",
+              "meaning": "此处读 níng，义为宁可、宁愿。选择连词，与后文“将”呼应。",
               "type": "虚词"
             },
             {
-              "word": "诛锄",
-              "pinyin": "zhū chú",
-              "meaning": "铲除",
+              "word": "诛",
+              "pinyin": "zhū",
+              "meaning": "铲除、除去。",
+              "type": "实词"
+            },
+            {
+              "word": "锄",
+              "pinyin": "chú",
+              "meaning": "用锄头除去杂草。",
               "type": "实词"
             },
             {
               "word": "草茆",
               "pinyin": "cǎo máo",
-              "meaning": "杂草",
+              "meaning": "通‘茅’，指茅草。草茆即茅草，常用于指代荒草或简陋之物。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，相当于“来”。",
               "type": "虚词"
             },
             {
-              "word": "力耕",
-              "pinyin": "lì gēng",
-              "meaning": "努力耕作",
+              "word": "力",
+              "pinyin": "lì",
+              "meaning": "尽力、努力。",
+              "type": "实词"
+            },
+            {
+              "word": "耕",
+              "pinyin": "gēng",
+              "meaning": "耕种田地。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
-              "type": "虚词"
-            },
-            {
-              "word": "将",
-              "pinyin": "jiāng",
-              "meaning": "还是",
-              "type": "虚词"
-            },
-            {
-              "word": "游大人",
-              "pinyin": "yóu dà rén",
-              "meaning": "游说权贵",
-              "type": "实词"
-            },
-            {
-              "word": "以",
-              "pinyin": "yǐ",
-              "meaning": "来",
-              "type": "虚词"
-            },
-            {
-              "word": "成名",
-              "pinyin": "chéng míng",
-              "meaning": "成就名声",
-              "type": "实词"
-            },
-            {
-              "word": "乎",
-              "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，表示选择疑问。",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "宁正言不讳以危身乎？将从俗富贵以媮生乎？",
-          "translation": "宁愿直言不讳而危及自身吗？还是追随世俗富贵而苟且偷生呢？",
+          "original": "将游大人以成名乎？",
+          "translation": "还是去游说权贵以成就名声呢？",
+          "words": [
+            {
+              "word": "将",
+              "pinyin": "jiāng",
+              "meaning": "此处读 jiāng，义为还是。选择连词，与“宁”呼应。",
+              "type": "虚词"
+            },
+            {
+              "word": "游",
+              "pinyin": "yóu",
+              "meaning": "游说、结交。",
+              "type": "实词"
+            },
+            {
+              "word": "大人",
+              "pinyin": "dà rén",
+              "meaning": "指权贵之人，达官贵人。",
+              "type": "实词"
+            },
+            {
+              "word": "以",
+              "pinyin": "yǐ",
+              "meaning": "连词，表示目的，相当于“来”。",
+              "type": "虚词"
+            },
+            {
+              "word": "成",
+              "pinyin": "chéng",
+              "meaning": "成就、实现。",
+              "type": "实词"
+            },
+            {
+              "word": "名",
+              "pinyin": "míng",
+              "meaning": "名声、名誉。",
+              "type": "实词"
+            },
+            {
+              "word": "乎",
+              "pinyin": "hū",
+              "meaning": "句末疑问语气词，表示选择疑问。",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "宁正言不讳以危身乎？",
+          "translation": "是宁愿直言不讳而危及自身呢？",
           "words": [
             {
               "word": "宁",
               "pinyin": "nìng",
-              "meaning": "宁可",
+              "meaning": "此处读 nìng，义为宁可、宁愿，表示选择。",
               "type": "虚词"
             },
             {
-              "word": "正言不讳",
-              "pinyin": "zhèng yán bù huì",
-              "meaning": "直言不讳",
+              "word": "正",
+              "pinyin": "zhèng",
+              "meaning": "正直地，不歪曲。",
+              "type": "实词"
+            },
+            {
+              "word": "言",
+              "pinyin": "yán",
+              "meaning": "说话，进言。",
+              "type": "实词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示不。",
+              "type": "虚词"
+            },
+            {
+              "word": "讳",
+              "pinyin": "huì",
+              "meaning": "隐讳，不敢说或不愿说。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "而",
+              "meaning": "连词，表示目的，用来。",
               "type": "虚词"
             },
             {
-              "word": "危身",
-              "pinyin": "wēi shēn",
-              "meaning": "危及自身",
+              "word": "危",
+              "pinyin": "wēi",
+              "meaning": "使危险，危害。",
+              "type": "实词"
+            },
+            {
+              "word": "身",
+              "pinyin": "shēn",
+              "meaning": "自身，自己。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示疑问。",
               "type": "虚词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "将从俗富贵以媮生乎？",
+          "translation": "还是追随世俗追求富贵而苟且偷生呢？",
+          "words": [
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "此处读 jiāng，义为还是，表示选择。",
               "type": "虚词"
             },
             {
-              "word": "从俗富贵",
-              "pinyin": "cóng sú fù guì",
-              "meaning": "追随世俗富贵",
+              "word": "从",
+              "pinyin": "cóng",
+              "meaning": "追随，顺从。",
+              "type": "实词"
+            },
+            {
+              "word": "俗",
+              "pinyin": "sú",
+              "meaning": "世俗，社会风气。",
+              "type": "实词"
+            },
+            {
+              "word": "富贵",
+              "pinyin": "fù guì",
+              "meaning": "财富和显贵地位。",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "来",
+              "meaning": "连词，表示目的，用来。",
               "type": "虚词"
             },
             {
-              "word": "媮生",
-              "pinyin": "tōu shēng",
-              "meaning": "苟且偷生",
+              "word": "媮",
+              "pinyin": "tōu",
+              "meaning": "通'偷'，义为苟且、马虎，指不认真对待生活。",
+              "type": "实词"
+            },
+            {
+              "word": "生",
+              "pinyin": "shēng",
+              "meaning": "生活，生存。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末语气词，表示疑问。",
               "type": "虚词"
             }
           ]
@@ -431,268 +621,304 @@
     },
     {
       "original": "宁超然高举以保真乎？将哫訾粟斯，喔咿嚅唲，以事妇人乎？宁廉洁正直以自清乎？将突梯滑稽，如脂如韦，以絜楹乎？宁昂昂若千里之驹乎？将泛泛若水中之凫乎？与波上下，偷以全吾躯乎？宁与骐骥亢轭乎？将随驽马之迹乎？宁与黄鹄比翼乎？将与鸡鹜争食乎？此孰吉孰凶？何去何从？世混浊而不清：蝉翼为重，千钧为轻；黄钟毁弃，瓦釜雷鸣；谗人高张，贤士无名。吁嗟默默兮，谁知吾之廉贞？”",
-      "translation": "是宁愿超然脱俗以保持本真呢？还是阿谀奉承、强颜欢笑去侍奉妇人呢？是宁愿廉洁正直以保持清白呢？还是圆滑世故、没有骨气去迎合他人呢？是宁愿气宇轩昂像千里马呢？还是随波逐流像水中的野鸭？随波逐流，苟且偷生以保全自身吗？是宁愿与良马并驾齐驱呢？还是跟随劣马的足迹呢？是宁愿与天鹅比翼齐飞呢？还是与鸡鸭争夺食物呢？这些选择哪个吉利哪个凶险？我该何去何从？世道混浊不清：蝉翼被看作重，千钧被看作轻；黄钟被毁弃，瓦釜却雷鸣；谗人嚣张，贤士无名。唉，沉默不语啊，谁知道我的廉洁忠贞？",
+      "translation": "是宁愿超然世外、高飞远走以保持真纯呢？还是阿谀奉承、强颜欢笑来侍奉妇人呢？是宁愿廉洁正直以保持自身清白呢？还是圆滑谄媚、没有骨气来迎合世俗呢？是宁愿气概轩昂像千里马呢？还是漂浮不定像水中的野鸭，随波逐流，苟且保全我的身躯呢？是宁愿与良马并驾齐驱呢？还是跟随劣马的足迹呢？是宁愿与天鹅比翼齐飞呢？还是与鸡鸭争夺食物呢？这些选择哪个吉利哪个凶险？我该何去何从？世道混浊不清：蝉翼被看作重，千钧被看作轻；黄钟被毁坏丢弃，瓦釜却发出雷鸣般的声音；谗人嚣张，贤士无名。唉，沉默不语啊，谁知道我的廉洁忠贞？",
       "sentences": [
         {
           "original": "宁超然高举以保真乎？将哫訾粟斯，喔咿嚅唲，以事妇人乎？",
-          "translation": "是宁愿超然脱俗以保持本真呢？还是阿谀奉承、强颜欢笑去侍奉妇人呢？",
+          "translation": "是宁愿超然世外、高飞远走以保持真纯呢？还是阿谀奉承、强颜欢笑来侍奉妇人呢？",
           "words": [
             {
               "word": "宁",
               "pinyin": "nìng",
-              "meaning": "宁可",
+              "meaning": "此处读 nìng，义为宁愿、宁可，表示选择关系的连词",
               "type": "虚词"
             },
             {
               "word": "超然",
               "pinyin": "chāo rán",
-              "meaning": "超脱的样子",
+              "meaning": "超脱尘世的样子",
               "type": "实词"
             },
             {
               "word": "高举",
               "pinyin": "gāo jǔ",
-              "meaning": "高飞",
+              "meaning": "高飞远走，远离世俗",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
               "word": "保真",
               "pinyin": "bǎo zhēn",
-              "meaning": "保持真性",
+              "meaning": "保持真纯的本性",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，相当于“吗”",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "此处读 jiāng，义为还是，表示选择关系的连词",
               "type": "虚词"
             },
             {
               "word": "哫訾粟斯",
               "pinyin": "zú zī sù sī",
-              "meaning": "阿谀奉承的样子",
+              "meaning": "联绵词，形容阿谀奉承、察言观色的样子",
               "type": "实词"
             },
             {
               "word": "喔咿嚅唲",
               "pinyin": "ō yī rú ér",
-              "meaning": "强颜欢笑的样子",
+              "meaning": "联绵词，形容强笑献媚、欲言又止的样子",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "侍奉",
+              "meaning": "动词，侍奉、讨好",
               "type": "实词"
             },
             {
               "word": "妇人",
               "pinyin": "fù rén",
-              "meaning": "妇人",
+              "meaning": "此处特指楚怀王宠姬郑袖",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，相当于“吗”",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "宁廉洁正直以自清乎？将突梯滑稽，如脂如韦，以絜楹乎？",
-          "translation": "是宁愿廉洁正直以保持清白呢？还是圆滑世故、没有骨气去迎合他人呢？",
+          "translation": "是宁愿廉洁正直以保持自身清白呢？还是圆滑谄媚、没有骨气来迎合世俗呢？",
           "words": [
             {
               "word": "宁",
               "pinyin": "nìng",
-              "meaning": "宁可",
+              "meaning": "此处读 nìng，义为宁愿、宁可，表示选择关系的连词",
               "type": "虚词"
             },
             {
               "word": "廉洁",
               "pinyin": "lián jié",
-              "meaning": "廉洁",
+              "meaning": "品行清白，不贪污",
               "type": "实词"
             },
             {
               "word": "正直",
               "pinyin": "zhèng zhí",
-              "meaning": "正直",
+              "meaning": "公正坦率，不偏邪",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
               "word": "自清",
               "pinyin": "zì qīng",
-              "meaning": "自我清洁",
+              "meaning": "保持自身的清白",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，相当于“吗”",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "此处读 jiāng，义为还是，表示选择关系的连词",
               "type": "虚词"
             },
             {
               "word": "突梯滑稽",
               "pinyin": "tū tī huá jī",
-              "meaning": "圆滑谄媚",
-              "type": "实词"
+              "meaning": "成语，形容处世圆滑，善于迎合世俗",
+              "type": "典故"
             },
             {
               "word": "如脂如韦",
               "pinyin": "rú zhī rú wéi",
-              "meaning": "像油脂皮革般柔软",
-              "type": "实词"
+              "meaning": "成语，像油脂一样滑，像熟皮一样软，比喻没有骨气，随波逐流",
+              "type": "典故"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "连词，表目的，用来",
               "type": "虚词"
             },
             {
               "word": "絜楹",
-              "pinyin": "xié yíng",
-              "meaning": "测量柱子，比喻圆滑",
+              "pinyin": "jié yíng",
+              "meaning": "絜通'洁'，楹为柱子；此处比喻圆滑处世以求容身",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "句末疑问语气词，相当于“吗”",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "宁昂昂若千里之驹乎？将泛泛若水中之凫乎？与波上下，偷以全吾躯乎？",
-          "translation": "是宁愿气宇轩昂像千里马呢？还是随波逐流像水中的野鸭？随波逐流，苟且偷生以保全自身吗？",
+          "translation": "是宁愿气概轩昂像千里马呢？还是漂浮不定像水中的野鸭，随波逐流，苟且保全我的身躯呢？",
           "words": [
             {
               "word": "宁",
-              "pinyin": "nìng",
-              "meaning": "宁可",
+              "pinyin": "níng",
+              "meaning": "虚词，表选择，宁可，与后文'将'构成'宁…将…'选择句式",
               "type": "虚词"
             },
             {
               "word": "昂昂",
               "pinyin": "áng áng",
-              "meaning": "昂首挺胸",
+              "meaning": "形容词，气概轩昂、志节高超的样子",
               "type": "实词"
             },
             {
               "word": "若",
               "pinyin": "ruò",
-              "meaning": "像",
+              "meaning": "虚词，像，如同，表比喻",
               "type": "虚词"
             },
             {
-              "word": "千里之驹",
-              "pinyin": "qiān lǐ zhī jū",
-              "meaning": "千里马",
+              "word": "千里",
+              "pinyin": "qiān lǐ",
+              "meaning": "实词，指千里之远，形容马能日行千里",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "虚词，助词，相当于'的'，连接'千里'和'驹'",
+              "type": "虚词"
+            },
+            {
+              "word": "驹",
+              "pinyin": "jū",
+              "meaning": "实词，小马，这里泛指马",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "虚词，句末疑问语气词，表疑问语气",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "虚词，表选择，还是，与前文'宁'呼应",
               "type": "虚词"
             },
             {
               "word": "泛泛",
               "pinyin": "fàn fàn",
-              "meaning": "漂浮的样子",
+              "meaning": "形容词，漂浮不定、随波逐流的样子",
               "type": "实词"
             },
             {
-              "word": "若",
-              "pinyin": "ruò",
-              "meaning": "像",
+              "word": "水中",
+              "pinyin": "shuǐ zhōng",
+              "meaning": "实词，水里面，指水面之下",
+              "type": "实词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "虚词，助词，相当于'的'，连接'水中'和'凫'",
               "type": "虚词"
             },
             {
-              "word": "水中之凫",
-              "pinyin": "shuǐ zhōng zhī fú",
-              "meaning": "水中的野鸭",
+              "word": "凫",
+              "pinyin": "fú",
+              "meaning": "实词，野鸭，一种水鸟",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "虚词，句末疑问语气词，表疑问语气",
               "type": "虚词"
             },
             {
-              "word": "与波上下",
-              "pinyin": "yǔ bō shàng xià",
-              "meaning": "随波逐流",
+              "word": "与",
+              "pinyin": "yǔ",
+              "meaning": "虚词，介词，和、跟，引出动作对象'波'",
+              "type": "虚词"
+            },
+            {
+              "word": "波",
+              "pinyin": "bō",
+              "meaning": "实词，波浪",
+              "type": "实词"
+            },
+            {
+              "word": "上下",
+              "pinyin": "shàng xià",
+              "meaning": "实词，动词，上下浮动，随波起伏",
               "type": "实词"
             },
             {
               "word": "偷",
               "pinyin": "tōu",
-              "meaning": "苟且",
+              "meaning": "古义：苟且、马虎（非今义'偷窃'），这里指苟且求生",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "用来",
+              "meaning": "虚词，连词，表目的，用来、以便",
               "type": "虚词"
             },
             {
               "word": "全",
               "pinyin": "quán",
-              "meaning": "保全",
+              "meaning": "实词，动词，保全",
               "type": "实词"
             },
             {
-              "word": "吾躯",
-              "pinyin": "wú qū",
-              "meaning": "我的身体",
+              "word": "吾",
+              "pinyin": "wú",
+              "meaning": "虚词，代词，我的，指代说话人自己",
+              "type": "虚词"
+            },
+            {
+              "word": "躯",
+              "pinyin": "qū",
+              "meaning": "实词，身体",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "吗",
+              "meaning": "虚词，句末疑问语气词，表疑问语气",
               "type": "虚词"
             }
           ]
@@ -703,68 +929,74 @@
           "words": [
             {
               "word": "宁",
-              "pinyin": "nìng",
-              "meaning": "宁可",
+              "pinyin": "níng",
+              "meaning": "虚词，表选择，宁可，与后文'将'构成'宁…将…'选择句式",
               "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "虚词，介词，和、跟，引出对象'骐骥'",
               "type": "虚词"
             },
             {
               "word": "骐骥",
               "pinyin": "qí jì",
-              "meaning": "骏马",
+              "meaning": "实词，良马，千里马，比喻贤才",
               "type": "实词"
             },
             {
-              "word": "亢轭",
-              "pinyin": "kàng è",
-              "meaning": "并驾齐驱",
+              "word": "亢",
+              "pinyin": "kàng",
+              "meaning": "通'抗'，义为举、并，这里指并驾齐驱",
+              "type": "实词"
+            },
+            {
+              "word": "轭",
+              "pinyin": "è",
+              "meaning": "实词，车辕前端驾在马颈上的横木，这里指驾车",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "疑问语气",
+              "meaning": "虚词，句末疑问语气词，表疑问语气",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "虚词，表选择，还是，与前文'宁'呼应",
               "type": "虚词"
             },
             {
               "word": "随",
               "pinyin": "suí",
-              "meaning": "跟随",
+              "meaning": "实词，动词，跟随、追随",
               "type": "实词"
             },
             {
               "word": "驽马",
               "pinyin": "nú mǎ",
-              "meaning": "劣马",
+              "meaning": "实词，劣马，比喻庸才",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "虚词，助词，相当于'的'，连接'驽马'和'迹'",
               "type": "虚词"
             },
             {
               "word": "迹",
               "pinyin": "jì",
-              "meaning": "足迹",
+              "meaning": "实词，足迹、踪迹",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "疑问语气",
+              "meaning": "虚词，句末疑问语气词，表疑问语气",
               "type": "虚词"
             }
           ]
@@ -776,61 +1008,67 @@
             {
               "word": "宁",
               "pinyin": "nìng",
-              "meaning": "宁可",
+              "meaning": "此处读 nìng，义为宁愿、宁可，选择连词，与'将'呼应表选择",
               "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "介词，引出动作的伴随对象，相当于'和'、'跟'",
               "type": "虚词"
             },
             {
               "word": "黄鹄",
               "pinyin": "huáng hú",
-              "meaning": "天鹅",
+              "meaning": "黄色的天鹅，象征高洁远大之志，文中喻指贤士",
               "type": "实词"
             },
             {
               "word": "比翼",
               "pinyin": "bǐ yì",
-              "meaning": "翅膀并列",
+              "meaning": "并翅齐飞，比喻共同高举或并肩，此处指与黄鹄齐飞",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "疑问语气",
+              "meaning": "句末疑问语气词，表选择疑问，相当于'吗'",
               "type": "虚词"
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "还是",
+              "meaning": "此处读 jiāng，义为还是，选择连词，用于选择问句",
               "type": "虚词"
             },
             {
               "word": "与",
               "pinyin": "yǔ",
-              "meaning": "和",
+              "meaning": "介词，引出动作的伴随对象，相当于'和'、'跟'",
               "type": "虚词"
             },
             {
               "word": "鸡鹜",
               "pinyin": "jī wù",
-              "meaning": "鸡和鸭",
+              "meaning": "鸡和鸭，喻指凡鸟，象征平庸卑下之辈",
               "type": "实词"
             },
             {
-              "word": "争食",
-              "pinyin": "zhēng shí",
-              "meaning": "争夺食物",
+              "word": "争",
+              "pinyin": "zhēng",
+              "meaning": "争夺、竞争",
+              "type": "实词"
+            },
+            {
+              "word": "食",
+              "pinyin": "shí",
+              "meaning": "食物、吃食",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "疑问语气",
+              "meaning": "句末疑问语气词，表选择疑问，相当于'吗'",
               "type": "虚词"
             }
           ]
@@ -842,175 +1080,151 @@
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这",
-              "type": "实词"
+              "meaning": "指示代词，指代前文所述的两种选择情况",
+              "type": "虚词"
             },
             {
               "word": "孰",
               "pinyin": "shú",
-              "meaning": "哪个",
+              "meaning": "疑问代词，用于选择，相当于'哪个'",
               "type": "虚词"
             },
             {
               "word": "吉",
               "pinyin": "jí",
-              "meaning": "吉利",
+              "meaning": "吉利、吉祥",
               "type": "实词"
             },
             {
               "word": "孰",
               "pinyin": "shú",
-              "meaning": "哪个",
+              "meaning": "疑问代词，用于选择，相当于'哪个'",
               "type": "虚词"
             },
             {
               "word": "凶",
               "pinyin": "xiōng",
-              "meaning": "凶险",
+              "meaning": "凶险、不吉利",
               "type": "实词"
             },
             {
-              "word": "何",
-              "pinyin": "hé",
-              "meaning": "什么",
-              "type": "虚词"
-            },
-            {
-              "word": "去",
-              "pinyin": "qù",
-              "meaning": "离开",
-              "type": "实词"
-            },
-            {
-              "word": "何",
-              "pinyin": "hé",
-              "meaning": "什么",
-              "type": "虚词"
-            },
-            {
-              "word": "从",
-              "pinyin": "cóng",
-              "meaning": "跟随",
-              "type": "实词"
+              "word": "何去何从",
+              "pinyin": "hé qù hé cóng",
+              "meaning": "成语，出自《楚辞·卜居》，指在抉择中离开哪里、跟随哪里，选择去向",
+              "type": "典故"
             }
           ]
         },
         {
           "original": "世混浊而不清：蝉翼为重，千钧为轻；黄钟毁弃，瓦釜雷鸣；谗人高张，贤士无名。",
-          "translation": "世道混浊不清：蝉翼被看作重，千钧被看作轻；黄钟被毁弃，瓦釜却雷鸣；谗人嚣张，贤士无名。",
+          "translation": "世道混浊不清：蝉翼被看作重，千钧被看作轻；黄钟被毁坏丢弃，瓦釜却发出雷鸣般的声音；谗人嚣张，贤士无名。",
           "words": [
             {
               "word": "世",
               "pinyin": "shì",
-              "meaning": "世间",
+              "meaning": "名词，指社会、世道",
               "type": "实词"
             },
             {
               "word": "混浊",
-              "pinyin": "hún zhuó",
-              "meaning": "混乱污浊",
+              "pinyin": "hùn zhuó",
+              "meaning": "形容词，混乱污浊",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "然而",
+              "meaning": "连词，表示转折关系，却",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "不",
+              "meaning": "否定副词",
               "type": "虚词"
             },
             {
               "word": "清",
               "pinyin": "qīng",
-              "meaning": "清明",
+              "meaning": "形容词，清明、清平",
               "type": "实词"
             },
             {
               "word": "蝉翼",
               "pinyin": "chán yì",
-              "meaning": "蝉的翅膀",
+              "meaning": "名词，蝉的翅膀，极轻之物",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "动词，此处读 wéi，义为是、算作",
               "type": "实词"
             },
             {
               "word": "重",
               "pinyin": "zhòng",
-              "meaning": "重",
+              "meaning": "形容词，此处读 zhòng，义为重量大（与“轻”相对）",
               "type": "实词"
             },
             {
               "word": "千钧",
               "pinyin": "qiān jūn",
-              "meaning": "千钧重量",
-              "type": "实词"
-            },
-            {
-              "word": "为",
-              "pinyin": "wéi",
-              "meaning": "是",
+              "meaning": "名词，古代以三十斤为一钧，千钧极言其重",
               "type": "实词"
             },
             {
               "word": "轻",
               "pinyin": "qīng",
-              "meaning": "轻",
+              "meaning": "形容词，重量小",
               "type": "实词"
             },
             {
               "word": "黄钟",
               "pinyin": "huáng zhōng",
-              "meaning": "黄钟大吕",
+              "meaning": "典故，古代十二律之首，为音律基准，象征雅乐正声与法度，此处喻指贤能之士",
               "type": "典故"
             },
             {
               "word": "毁弃",
               "pinyin": "huǐ qì",
-              "meaning": "毁坏抛弃",
+              "meaning": "动词，毁坏抛弃",
               "type": "实词"
             },
             {
               "word": "瓦釜",
               "pinyin": "wǎ fǔ",
-              "meaning": "瓦锅",
-              "type": "实词"
+              "meaning": "典故，陶制的锅，与“黄钟”对举，喻指庸才小人或粗俗之音",
+              "type": "典故"
             },
             {
               "word": "雷鸣",
               "pinyin": "léi míng",
-              "meaning": "雷声鸣响",
+              "meaning": "动词，像雷一样鸣响，形容声音宏大",
               "type": "实词"
             },
             {
               "word": "谗人",
               "pinyin": "chán rén",
-              "meaning": "进谗者",
+              "meaning": "名词，说别人坏话的人，进谗言的小人",
               "type": "实词"
             },
             {
               "word": "高张",
               "pinyin": "gāo zhāng",
-              "meaning": "得势高张",
+              "meaning": "动词，古义：嚣张、得势（非今义“张开”）",
               "type": "实词"
             },
             {
               "word": "贤士",
               "pinyin": "xián shì",
-              "meaning": "贤能之士",
+              "meaning": "名词，有才德的人",
               "type": "实词"
             },
             {
               "word": "无名",
               "pinyin": "wú míng",
-              "meaning": "没有名声",
+              "meaning": "动词，没有名声，不被称颂",
               "type": "实词"
             }
           ]
@@ -1022,49 +1236,49 @@
             {
               "word": "吁嗟",
               "pinyin": "xū jiē",
-              "meaning": "唉呀",
+              "meaning": "叹词，表示感叹",
               "type": "虚词"
             },
             {
               "word": "默默",
               "pinyin": "mò mò",
-              "meaning": "沉默",
+              "meaning": "形容词，沉默不语、不得意的样子",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "啊",
+              "meaning": "语气词，用于句末或句中，表示停顿或感叹，相当于“啊”",
               "type": "虚词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "谁",
-              "type": "实词"
+              "meaning": "疑问代词，哪个人",
+              "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "动词，知道、了解",
               "type": "实词"
             },
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "我",
-              "type": "实词"
+              "meaning": "代词，我",
+              "type": "虚词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "的",
+              "meaning": "助词，用于定语和中心语之间，相当于“的”",
               "type": "虚词"
             },
             {
               "word": "廉贞",
               "pinyin": "lián zhēn",
-              "meaning": "廉洁正直",
+              "meaning": "形容词，廉洁坚贞",
               "type": "实词"
             }
           ]
@@ -1073,280 +1287,340 @@
     },
     {
       "original": "詹尹乃释策而谢曰：“夫尺有所短，寸有所长；物有所不足，智有所不明；数有所不逮，神有所不通。用君之心，行君之意。龟策诚不能知此事。”",
-      "translation": "詹尹于是放下蓍草和龟甲，辞谢说：“尺有所短，寸有所长；事物有不足之处，智慧有不明之处；术数有达不到的地方，神灵有不通晓的地方。用你的心，行你的意。龟甲和蓍草实在不能知道这件事。”",
+      "translation": "詹尹于是放下蓍草，辞谢道：“尺有所短，寸有所长；事物有不足之处，智慧有不明之处；术数有不及之处，神灵有不通之处。用你的心，行你的意。龟甲和蓍草实在不能知道这件事。”",
       "sentences": [
         {
-          "original": "詹尹乃释策而谢曰",
-          "translation": "詹尹于是放下蓍草和龟甲，辞谢说",
+          "original": "詹尹乃释策而谢曰：",
+          "translation": "詹尹于是放下蓍草，辞谢说：",
           "words": [
             {
               "word": "詹尹",
               "pinyin": "zhān yǐn",
-              "meaning": "占卜官",
-              "type": "官职"
+              "meaning": "春秋时期郑国占卜官，名詹",
+              "type": "人名"
             },
             {
               "word": "乃",
               "pinyin": "nǎi",
-              "meaning": "于是",
+              "meaning": "副词，表示承接，相当于'于是'、'就'",
               "type": "虚词"
             },
             {
-              "word": "释策",
-              "pinyin": "shì cè",
-              "meaning": "放下蓍草",
-              "type": "实词"
-            },
-            {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "并且",
-              "type": "虚词"
-            },
-            {
-              "word": "谢曰",
-              "pinyin": "xiè yuē",
-              "meaning": "辞谢说",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "夫尺有所短，寸有所长",
-          "translation": "尺有所短，寸有所长",
-          "words": [
-            {
-              "word": "夫",
-              "pinyin": "fú",
-              "meaning": "发语词",
-              "type": "虚词"
-            },
-            {
-              "word": "尺",
-              "pinyin": "chǐ",
-              "meaning": "一尺",
-              "type": "实词"
-            },
-            {
-              "word": "有所短",
-              "pinyin": "yǒu suǒ duǎn",
-              "meaning": "有短处",
-              "type": "实词"
-            },
-            {
-              "word": "寸",
-              "pinyin": "cùn",
-              "meaning": "一寸",
-              "type": "实词"
-            },
-            {
-              "word": "有所长",
-              "pinyin": "yǒu suǒ cháng",
-              "meaning": "有长处",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "物有所不足，智有所不明",
-          "translation": "事物有不足之处，智慧有不明之处",
-          "words": [
-            {
-              "word": "物",
-              "pinyin": "wù",
-              "meaning": "事物",
-              "type": "实词"
-            },
-            {
-              "word": "有所不足",
-              "pinyin": "yǒu suǒ bù zú",
-              "meaning": "有不足",
-              "type": "实词"
-            },
-            {
-              "word": "智",
-              "pinyin": "zhì",
-              "meaning": "智慧",
-              "type": "实词"
-            },
-            {
-              "word": "有所不明",
-              "pinyin": "yǒu suǒ bù míng",
-              "meaning": "有不明",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "数有所不逮，神有所不通",
-          "translation": "术数有达不到的地方，神灵有不通晓的地方",
-          "words": [
-            {
-              "word": "数",
-              "pinyin": "shù",
-              "meaning": "术数，命运",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有，具有",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词，表...的",
-              "type": "虚词"
-            },
-            {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "否定，不",
-              "type": "虚词"
-            },
-            {
-              "word": "逮",
-              "pinyin": "dài",
-              "meaning": "及，达到",
-              "type": "实词"
-            },
-            {
-              "word": "神",
-              "pinyin": "shén",
-              "meaning": "神明",
-              "type": "实词"
-            },
-            {
-              "word": "有",
-              "pinyin": "yǒu",
-              "meaning": "有，具有",
-              "type": "实词"
-            },
-            {
-              "word": "所",
-              "pinyin": "suǒ",
-              "meaning": "助词，表...的",
-              "type": "虚词"
-            },
-            {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "否定，不",
-              "type": "虚词"
-            },
-            {
-              "word": "通",
-              "pinyin": "tōng",
-              "meaning": "通达，明白",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "用君之心，行君之意",
-          "translation": "用你的心，行你的意",
-          "words": [
-            {
-              "word": "用",
-              "pinyin": "yòng",
-              "meaning": "使用，依照",
-              "type": "实词"
-            },
-            {
-              "word": "君",
-              "pinyin": "jūn",
-              "meaning": "您，指对方",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "助词，的",
-              "type": "虚词"
-            },
-            {
-              "word": "心",
-              "pinyin": "xīn",
-              "meaning": "内心，心思",
-              "type": "实词"
-            },
-            {
-              "word": "行",
-              "pinyin": "xíng",
-              "meaning": "实行，践行",
-              "type": "实词"
-            },
-            {
-              "word": "君",
-              "pinyin": "jūn",
-              "meaning": "您，指对方",
-              "type": "实词"
-            },
-            {
-              "word": "之",
-              "pinyin": "zhī",
-              "meaning": "助词，的",
-              "type": "虚词"
-            },
-            {
-              "word": "意",
-              "pinyin": "yì",
-              "meaning": "意愿，意旨",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "龟策诚不能知此事",
-          "translation": "龟甲和蓍草实在不能知道这件事",
-          "words": [
-            {
-              "word": "龟",
-              "pinyin": "guī",
-              "meaning": "龟甲，占卜用",
+              "word": "释",
+              "pinyin": "shì",
+              "meaning": "放下、舍弃",
               "type": "实词"
             },
             {
               "word": "策",
               "pinyin": "cè",
-              "meaning": "蓍草，占卜用",
+              "meaning": "占卜用的蓍草或筹策",
               "type": "实词"
             },
             {
-              "word": "诚",
-              "pinyin": "chéng",
-              "meaning": "确实，实在",
+              "word": "而",
+              "pinyin": "ér",
+              "meaning": "连词，表示顺承关系，连接'释策'和'谢曰'",
+              "type": "虚词"
+            },
+            {
+              "word": "谢",
+              "pinyin": "xiè",
+              "meaning": "古义：辞谢、推辞（非今义'感谢'）",
+              "type": "实词"
+            },
+            {
+              "word": "曰",
+              "pinyin": "yuē",
+              "meaning": "说",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "夫尺有所短，寸有所长；物有所不足，智有所不明；数有所不逮，神有所不通。",
+          "translation": "尺有所短，寸有所长；事物有不足之处，智慧有不明之处；术数有不及之处，神灵有不通之处。",
+          "words": [
+            {
+              "word": "夫",
+              "pinyin": "fú",
+              "meaning": "句首发语词，表示议论开始，无实义",
+              "type": "虚词"
+            },
+            {
+              "word": "尺",
+              "pinyin": "chǐ",
+              "meaning": "长度单位，十寸为一尺",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'短'结合，'所短'表示短的地方",
+              "type": "虚词"
+            },
+            {
+              "word": "短",
+              "pinyin": "duǎn",
+              "meaning": "形容词，不足、短处",
+              "type": "实词"
+            },
+            {
+              "word": "寸",
+              "pinyin": "cùn",
+              "meaning": "长度单位，十寸为一尺",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'长'结合，'所长'表示长的地方",
+              "type": "虚词"
+            },
+            {
+              "word": "长",
+              "pinyin": "cháng",
+              "meaning": "形容词，长处、优点",
+              "type": "实词"
+            },
+            {
+              "word": "物",
+              "pinyin": "wù",
+              "meaning": "名词，事物",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'不足'结合，'所不足'表示不足的地方",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定，不",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "足",
+              "pinyin": "zú",
+              "meaning": "形容词，足够、完备",
+              "type": "实词"
+            },
+            {
+              "word": "智",
+              "pinyin": "zhì",
+              "meaning": "名词，智慧、智力",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'不明'结合，'所不明'表示不明的地方",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "明",
+              "pinyin": "míng",
+              "meaning": "形容词，明白、明了",
+              "type": "实词"
+            },
+            {
+              "word": "数",
+              "pinyin": "shù",
+              "meaning": "此处读 shù，义为术数、命运，指占卜算卦",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'不逮'结合，'所不逮'表示不及的地方",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "逮",
+              "pinyin": "dài",
+              "meaning": "动词，及、达到",
+              "type": "实词"
+            },
+            {
+              "word": "神",
+              "pinyin": "shén",
+              "meaning": "名词，神灵",
+              "type": "实词"
+            },
+            {
+              "word": "有",
+              "pinyin": "yǒu",
+              "meaning": "动词，表示存在",
+              "type": "实词"
+            },
+            {
+              "word": "所",
+              "pinyin": "suǒ",
+              "meaning": "助词，与'不通'结合，'所不通'表示不通的地方",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定",
+              "type": "虚词"
+            },
+            {
+              "word": "通",
+              "pinyin": "tōng",
+              "meaning": "动词，通达、通晓",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "用君之心，行君之意。",
+          "translation": "用你的心，行你的意。",
+          "words": [
+            {
+              "word": "用",
+              "pinyin": "yòng",
+              "meaning": "动词，采用、依照",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "代词，对对方的尊称，此处指屈原",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "名词，内心、本心",
+              "type": "实词"
+            },
+            {
+              "word": "行",
+              "pinyin": "xíng",
+              "meaning": "动词，实行、践行",
+              "type": "实词"
+            },
+            {
+              "word": "君",
+              "pinyin": "jūn",
+              "meaning": "代词，对对方的尊称，此处指屈原",
+              "type": "虚词"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "结构助词，相当于'的'",
+              "type": "虚词"
+            },
+            {
+              "word": "意",
+              "pinyin": "yì",
+              "meaning": "名词，意愿、想法",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "龟策诚不能知此事。",
+          "translation": "龟甲和蓍草实在不能知道这件事。",
+          "words": [
+            {
+              "word": "龟",
+              "pinyin": "guī",
+              "meaning": "名词，龟甲，古代占卜用具",
+              "type": "实词"
+            },
+            {
+              "word": "策",
+              "pinyin": "cè",
+              "meaning": "名词，蓍草，古代占卜用具",
+              "type": "实词"
+            },
+            {
+              "word": "诚",
+              "pinyin": "chéng",
+              "meaning": "副词，确实、实在",
+              "type": "虚词"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "能",
               "pinyin": "néng",
-              "meaning": "能够，可以",
+              "meaning": "能愿动词，能够",
               "type": "虚词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道，了解",
+              "meaning": "动词，知道、理解",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "这，这个",
-              "type": "实词"
+              "meaning": "指示代词，这、这个",
+              "type": "虚词"
             },
             {
               "word": "事",
               "pinyin": "shì",
-              "meaning": "事情，指占卜之事",
+              "meaning": "名词，事情，指詹尹前面所说的'尺有所短'等道理",
               "type": "实词"
             }
           ]
