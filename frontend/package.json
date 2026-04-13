@@ -6,6 +6,9 @@
     "node": ">=22.12.0"
   },
   "scripts": {
+    "sync-data": "python3 ../scripts/sync_frontend_data.py",
+    "predev": "npm run sync-data",
+    "prebuild": "npm run sync-data",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",

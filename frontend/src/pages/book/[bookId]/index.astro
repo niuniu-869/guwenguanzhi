@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CatalogTree from '../../../components/CatalogTree.astro';
+import { getAllBooks, getBook, getCatalog } from '../../../lib/books';
+
+export function getStaticPaths() {
+  return getAllBooks().map((b) => ({
+    params: { bookId: b.id },
+  }));
+}
+
+const { bookId } = Astro.params;
+const book = getBook(bookId!);
+const catalog = getCatalog(bookId!);
+
+if (!book || !catalog) {
+  return Astro.redirect('/');
+}
+
+const hierarchyTop = catalog.hierarchy[0];
+---
+
+<BaseLayout title={book.name} description={book.summary}>
+  <article class="max-w-5xl mx-auto px-4 sm:px-6 py-12">
+    {/* 面包屑 */}
+    <nav class="text-sm text-ink-faint mb-6">
+      <a href={import.meta.env.BASE_URL} class="hover:text-ink transition-colors no-underline">
+        典籍
+      </a>
+      <span class="mx-2">›</span>
+      <span class="text-ink-light">{book.name}</span>
+    </nav>
+
+    {/* 书头 */}
+    <header class="mb-12 text-center">
+      <h1 class="font-serif text-5xl font-bold tracking-[0.15em] text-ink mb-4">
+        {book.displayName}
+      </h1>
+      <p class="text-ink-light tracking-widest">
+        {book.author ? `${book.period} · ${book.author} 撰` : `${book.period}${book.editor ? ` · ${book.editor} 编` : ''}`}
+      </p>
+      <div class="mt-4 flex items-center justify-center gap-4 text-sm text-ink-faint">
+        <span>
+          {book.totalDocuments}
+          {book.structureType === 'jizhuan' ? ' 卷' : ' 篇'}
+        </span>
+        {book.totalParagraphs && (
+          <>
+            <span class="w-1 h-1 rounded-full bg-border"></span>
+            <span>{book.totalParagraphs.toLocaleString()} 段</span>
+          </>
+        )}
+        {book.totalChars && (
+          <>
+            <span class="w-1 h-1 rounded-full bg-border"></span>
+            <span>{(book.totalChars / 10000).toFixed(1)} 万字</span>
+          </>
+        )}
+      </div>
+      <div class="mt-6 max-w-2xl mx-auto px-5 py-4 bg-silk rounded border border-border-light text-left">
+        <p class="text-sm text-ink-light leading-relaxed">{book.summary}</p>
+      </div>
+    </header>
+
+    {/* 目录 */}
+    <section>
+      <CatalogTree
+        bookId={book.id}
+        groups={catalog.groups}
+        hierarchyName={hierarchyTop}
+      />
+    </section>
+  </article>
+</BaseLayout>

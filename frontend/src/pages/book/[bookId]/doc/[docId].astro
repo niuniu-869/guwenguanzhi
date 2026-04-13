@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import DocumentReader from '../../../../components/DocumentReader';
+import {
+  getAllBooks,
+  getBook,
+  getAllDocuments,
+  findDocumentPath,
+  bookUrl,
+  groupUrl,
+} from '../../../../lib/books';
+
+export async function getStaticPaths() {
+  const paths: Array<{ params: { bookId: string; docId: string } }> = [];
+  for (const b of getAllBooks()) {
+    for (const doc of getAllDocuments(b.id)) {
+      paths.push({ params: { bookId: b.id, docId: doc.id } });
+    }
+  }
+  return paths;
+}
+
+const { bookId, docId } = Astro.params;
+const book = getBook(bookId!);
+const info = findDocumentPath(bookId!, docId!);
+
+if (!book || !info) {
+  return Astro.redirect('/');
+}
+
+const { doc, path } = info;
+
+/**
+ * 客户端 fetch 需要的子目录：
+ *  - 古文观止：documents/<dynasty>/<docId>.json    → subdir = 顶层分组 id
+ *  - 史记：    documents/<docId>.json             → subdir = undefined
+ */
+const hierarchy = book.hierarchy;
+const subdir = hierarchy[0] === 'dynasty' ? path[0]?.id : undefined;
+
+/** 面包屑 */
+const crumbs = [
+  { label: '典籍', href: import.meta.env.BASE_URL },
+  { label: book.name, href: bookUrl(book.id) },
+  ...path.map((g, i) => ({
+    label: g.name,
+    href: groupUrl(book.id, path.slice(0, i + 1).map((x) => x.id)),
+  })),
+];
+
+const title = doc.title;
+const authorLabel = hierarchy[0] === 'dynasty' && path[1] ? path[1].name : book.author;
+const desc = `${title}${authorLabel ? ' · ' + authorLabel : ''} · ${book.name}`;
+---
+
+<BaseLayout title={title} description={desc}>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    {/* 面包屑 */}
+    <nav class="text-sm text-ink-faint mb-6 flex flex-wrap items-center gap-1">
+      {
+        crumbs.map((c, i) => (
+          <>
+            {i > 0 && <span class="mx-1">›</span>}
+            <a
+              href={c.href}
+              class="hover:text-ink transition-colors no-underline"
+            >
+              {c.label}
+            </a>
+          </>
+        ))
+      }
+    </nav>
+
+    {/* 文章头部 */}
+    <header class="text-center mb-10">
+      <div class="flex items-center justify-center gap-2 mb-4 text-sm">
+        {doc.juan !== undefined && (
+          <span class="dynasty-badge">卷 {doc.juan}</span>
+        )}
+        {authorLabel && (
+          <>
+            {doc.juan !== undefined && <span class="text-ink-faint">·</span>}
+            <span class="text-ink-light">{authorLabel}</span>
+          </>
+        )}
+      </div>
+      <h1 class="font-serif text-3xl sm:text-4xl font-bold tracking-wider text-ink">
+        {title}
+      </h1>
+      {doc.source && (
+        <p class="mt-3 text-sm text-ink-faint">{doc.source}</p>
+      )}
+      {doc.tags && doc.tags.length > 0 && (
+        <div class="flex items-center justify-center gap-2 mt-4 flex-wrap">
+          {doc.tags.map((tag) => (
+            <span class="text-xs px-2 py-0.5 rounded-sm bg-silk text-ink-light">
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+    </header>
+
+    {/* 客户端加载的阅读区 */}
+    <DocumentReader
+      bookId={book.id}
+      docId={doc.id}
+      subdir={subdir}
+      client:load
+    />
+  </article>
+</BaseLayout>

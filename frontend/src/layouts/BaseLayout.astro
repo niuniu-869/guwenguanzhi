@@ -6,8 +6,8 @@ interface Props {
   description?: string;
 }
 
-const { title = '古文观止', description = '古文观止全文翻译 · 逐句翻译 · 逐词注释' } = Astro.props;
-const fullTitle = title === '古文观止' ? title : `${title} · 古文观止`;
+const { title = '古文观之', description = '中国古典文学与史书学习 · 逐句翻译 · 逐词注释' } = Astro.props;
+const fullTitle = title === '古文观之' ? title : `${title} · 古文观之`;
 ---
 
 <!doctype html>
@@ -20,14 +20,23 @@ const fullTitle = title === '古文观止' ? title : `${title} · 古文观止`;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet" />
+    <!--
+      多 Noto 字体链：
+        - Serif SC/TC/HK：古籍生僻字在繁体（TC/HK）字库覆盖更全（如 貙 U+8C99）
+        - Sans SC/TC：UI + 白话翻译
+      Google Fonts 用 unicode-range 分片加载，实际传输体积可控
+    -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Serif+TC:wght@400;600;700&family=Noto+Serif+HK:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body class="flex flex-col min-h-screen">
     <!-- 顶部导航 -->
     <header class="border-b border-border-light">
       <nav class="max-w-4xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
         <a href={import.meta.env.BASE_URL} class="flex items-center gap-2 text-ink no-underline hover:opacity-80 transition-opacity">
-          <span class="font-serif text-lg font-semibold tracking-wider">古文观止</span>
+          <span class="font-serif text-lg font-semibold tracking-wider">古文观之</span>
         </a>
         <div class="flex items-center gap-4 text-sm text-ink-light">
           <a href={import.meta.env.BASE_URL} class="hover:text-ink transition-colors no-underline">首页</a>
@@ -51,7 +60,7 @@ const fullTitle = title === '古文观止' ? title : `${title} · 古文观止`;
     <!-- 页脚 -->
     <footer class="border-t border-border-light mt-auto">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 py-8 text-center text-sm text-ink-faint">
-        <p>古文观止 · 开源古文学习工具</p>
+        <p>古文观之 · 开源古典文学与史书学习工具</p>
         <p class="mt-1">翻译内容由 AI 生成，仅供参考学习</p>
         <p class="mt-1">模型由 <a href="https://platform.xiaomimimo.com" target="_blank" rel="noopener" class="text-ink-light hover:text-cinnabar transition-colors">platform.xiaomimimo.com</a> 赞助</p>
       </div>

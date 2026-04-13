@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import CatalogTree from '../../../../components/CatalogTree.astro';
+import {
+  getAllBooks,
+  getBook,
+  getCatalog,
+  findGroup,
+  bookUrl,
+  groupUrl,
+} from '../../../../lib/books';
+import type { Group } from '../../../../lib/types';
+
+export async function getStaticPaths() {
+  const paths: Array<{ params: { bookId: string; path: string } }> = [];
+  for (const b of getAllBooks()) {
+    const cat = getCatalog(b.id);
+    if (!cat) continue;
+    walk(cat.groups, []);
+
+    function walk(groups: Group[], prefix: string[]) {
+      for (const g of groups) {
+        const p = [...prefix, g.id];
+        paths.push({ params: { bookId: b.id, path: p.join('/') } });
+        if (g.subgroups) walk(g.subgroups, p);
+      }
+    }
+  }
+  return paths;
+}
+
+const { bookId, path: pathStr } = Astro.params;
+const segments = (pathStr ?? '').split('/').filter(Boolean);
+const book = getBook(bookId!);
+const group = findGroup(bookId!, segments);
+
+if (!book || !group) {
+  return Astro.redirect('/');
+}
+
+// 构建面包屑（每一段查对应 group 名）
+const cat = getCatalog(bookId!)!;
+const breadcrumbs: Array<{ name: string; href: string }> = [];
+let acc: Group[] = cat.groups;
+for (let i = 0; i < segments.length; i++) {
+  const found: Group | undefined = acc.find((g) => g.id === segments[i]);
+  if (!found) break;
+  breadcrumbs.push({
+    name: found.name,
+    href: groupUrl(bookId!, segments.slice(0, i + 1)),
+  });
+  acc = found.subgroups ?? [];
+}
+
+const hierarchyName = cat.hierarchy[segments.length - 1];
+const hasSubgroups = !!(group.subgroups && group.subgroups.length > 0);
+const subgroupsArr: Group[] = group.subgroups ?? [];
+---
+
+<BaseLayout title={group.name} description={`${book.name} · ${group.name}`}>
+  <article class="max-w-5xl mx-auto px-4 sm:px-6 py-10">
+    {/* 面包屑 */}
+    <nav class="text-sm text-ink-faint mb-6 flex flex-wrap items-center gap-1">
+      <a href={import.meta.env.BASE_URL} class="hover:text-ink transition-colors no-underline">
+        典籍
+      </a>
+      <span class="mx-1">›</span>
+      <a href={bookUrl(book.id)} class="hover:text-ink transition-colors no-underline">
+        {book.name}
+      </a>
+      {
+        breadcrumbs.map((c, i) => (
+          <>
+            <span class="mx-1">›</span>
+            {i === breadcrumbs.length - 1 ? (
+              <span class="text-ink-light">{c.name}</span>
+            ) : (
+              <a href={c.href} class="hover:text-ink transition-colors no-underline">
+                {c.name}
+              </a>
+            )}
+          </>
+        ))
+      }
+    </nav>
+
+    {/* 标题 */}
+    <header class="mb-10">
+      <h1 class="font-serif text-3xl font-bold text-ink">{group.name}</h1>
+      {group.description && (
+        <p class="mt-2 text-sm text-ink-light">{group.description}</p>
+      )}
+    </header>
+
+    {/* 内容 */}
+    {
+      hasSubgroups ? (
+        <CatalogTree
+          bookId={book.id}
+          groups={subgroupsArr}
+          path={segments}
+          hierarchyName={hierarchyName}
+        />
+      ) : (
+        <CatalogTree
+          bookId={book.id}
+          groups={[group]}
+          path={segments.slice(0, -1)}
+          depth={1}
+          hierarchyName={hierarchyName}
+        />
+      )
+    }
+  </article>
+</BaseLayout>

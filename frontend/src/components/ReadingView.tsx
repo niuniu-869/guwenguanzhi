@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import type { Paragraph, Sentence, Word } from "../lib/data";
+import type { Paragraph, Sentence, Word } from "../lib/types";
 
 type Mode = "original" | "parallel" | "detail";
 

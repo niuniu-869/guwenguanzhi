@@ -18,8 +18,14 @@
   --color-border: #E0D8C8;
   --color-border-light: #EDE7DA;
 
-  --font-serif: 'Noto Serif SC', 'Source Han Serif SC', 'STSong', serif;
-  --font-sans: 'Noto Sans SC', 'Source Han Sans SC', 'PingFang SC', sans-serif;
+  /*
+    字体链：SC 为主，TC/HK 作 fallback
+    古籍生僻字（如 貙 U+8C99）在繁体 Noto 字库覆盖更全，浏览器按 glyph 逐字 fallback
+  */
+  --font-serif: 'Noto Serif SC', 'Noto Serif TC', 'Noto Serif HK',
+    'Source Han Serif SC', 'Source Han Serif TC', 'STSong', serif;
+  --font-sans: 'Noto Sans SC', 'Noto Sans TC',
+    'Source Han Sans SC', 'PingFang SC', sans-serif;
 }
 
 /* ============================================================

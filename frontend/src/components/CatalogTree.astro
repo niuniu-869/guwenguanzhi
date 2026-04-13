@@ -1,0 +1,120 @@
+---
+/**
+ * 递归目录组件
+ * 支持任意深度嵌套 Group，叶子 document 自动生成阅读页链接
+ */
+import type { Group } from '../lib/types';
+import { documentUrl, groupUrl, dynastyColor } from '../lib/books';
+
+interface Props {
+  bookId: string;
+  groups: Group[];
+  /** 当前分组路径（递归时用） */
+  path?: string[];
+  /** 层级深度（决定标题大小） */
+  depth?: number;
+  /** 分组层级名（用于配色） */
+  hierarchyName?: string;
+}
+
+const { bookId, groups, path = [], depth = 0, hierarchyName } = Astro.props;
+
+/** 统计一个分组下的文档数（含子组） */
+function countDocs(g: Group): number {
+  let n = g.documents?.length ?? 0;
+  if (g.subgroups) for (const sg of g.subgroups) n += countDocs(sg);
+  return n;
+}
+
+const titleSizeClass = ['text-3xl', 'text-xl', 'text-lg', 'text-base'][Math.min(depth, 3)];
+---
+
+<div class={depth === 0 ? 'space-y-16' : depth === 1 ? 'space-y-8' : 'space-y-4'}>
+  {
+    groups.map((group) => {
+      const groupPath = [...path, group.id];
+      const color = hierarchyName === 'dynasty' ? dynastyColor(group.id) : null;
+      const total = countDocs(group);
+
+      return (
+        <section id={group.id}>
+          {/* 顶层分组使用完整标题 + 分隔线 */}
+          {depth === 0 && (
+            <div class="flex items-end gap-4 mb-8 border-b border-border-light pb-4">
+              <h2
+                class="font-serif text-3xl font-bold leading-none"
+                style={color ? `color: ${color}` : ''}
+              >
+                {group.name}
+              </h2>
+              {group.description && (
+                <span class="text-sm text-ink-faint pb-0.5">{group.description}</span>
+              )}
+              <span class="ml-auto text-sm text-ink-faint pb-0.5">
+                {total} 篇
+              </span>
+            </div>
+          )}
+
+          {/* 中间层 */}
+          {depth === 1 && (
+            <div class="flex items-baseline gap-3 mb-3">
+              <h3 class={`font-serif ${titleSizeClass} font-semibold text-ink`}>
+                {group.name}
+              </h3>
+              {group.description && (
+                <span class="text-xs text-ink-faint line-clamp-1 flex-1">{group.description}</span>
+              )}
+              <span class="text-xs text-ink-faint shrink-0">{total} 篇</span>
+            </div>
+          )}
+
+          {/* 有子分组：递归（用内缩容器） */}
+          {group.subgroups && group.subgroups.length > 0 && (
+            <Astro.self
+              bookId={bookId}
+              groups={group.subgroups}
+              path={groupPath}
+              depth={depth + 1}
+              hierarchyName={hierarchyName}
+            />
+          )}
+
+          {/* 有叶子文档：展示网格 */}
+          {group.documents && group.documents.length > 0 && (
+            <ul class="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+              {group.documents.map((doc) => (
+                <li>
+                  <a
+                    href={documentUrl(bookId, doc.id)}
+                    class="group block px-3 py-2 rounded border border-border-light hover:border-cinnabar/40 hover:bg-silk/50 transition-all no-underline"
+                  >
+                    <div class="flex items-baseline gap-2">
+                      {doc.juan !== undefined && (
+                        <span class="font-mono text-xs text-ink-faint shrink-0 w-8">
+                          卷{doc.juan}
+                        </span>
+                      )}
+                      <span class="font-serif text-sm text-ink group-hover:text-cinnabar transition-colors truncate">
+                        {doc.title}
+                      </span>
+                    </div>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </section>
+      );
+    })
+  }
+</div>
+
+<style>
+  .line-clamp-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>
