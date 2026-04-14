@@ -1,61 +1,273 @@
 {
-  "_prompt_version": "v2-2026-04-13",
+  "_prompt_version": "v3.3-2026-04-14",
   "id": "116_吊古战场文",
   "title": "吊古战场文",
   "author": {
     "id": "tang_李华",
     "name": "李华",
     "dynasty": "tang",
-    "bio": "李华，字遐叔，约715年—约766年，赵州赞皇（今河北赞皇）人。唐代文学家，曾任监察御史、吏部员外郎等职。安史之乱中受伪职，乱后贬官。代表作有《吊古战场文》、《含元殿赋》等。他是唐代古文运动先驱，骈文造诣深厚，对后世文学有一定影响。"
+    "bio": "李华，字遐叔，唐代文学家，生卒年约715-766年，籍贯赵郡赞皇（今河北赞皇）。天宝年间进士及第，曾任监察御史、吏部员外郎。安史之乱中受安禄山伪职，乱平后贬杭州司户参军。代表作有《吊古战场文》《含元殿赋》等。与萧颖士齐名，提倡古文，是唐代古文运动先驱之一，文风强调复古与实用。"
   },
   "source": "",
   "dynasty": "tang",
   "volume": 7,
-  "background": "李华生活在唐玄宗至肃宗时期，正值唐朝由盛转衰，安史之乱（755-763年）导致社会动荡，战乱频仍。李华本人曾在安史之乱中被俘，接受安禄山伪职，乱后遭贬谪，仕途坎坷。写作此文时，他可能基于个人经历和时代背景，借古战场之景，抒发对战争残酷性的反思，批判穷兵黩武政策，表达对和平的向往。",
-  "appreciation": "《吊古战场文》是一篇骈文，融合抒情与议论。结构上，开篇以‘浩浩乎平沙无垠’描绘古战场荒凉景象，引入亭长叙述，中间铺陈历代战争惨状，如‘尸填巨港之岸，血满长城之窟’，结尾抒发感慨并提出‘守在四夷’的政治主张。艺术特色鲜明，语言骈俪，多用对偶和排比，如‘鼓衰兮力竭，矢竭兮弦绝’，节奏铿锵，画面感强。思想内涵深刻，通过对比齐魏徭戍、秦汉征伐等史实，批判文教失宣、武臣用奇的弊端，倡导儒家仁政和王道，强调以德服人而非武力征服。在文学史上，此文是唐代骈文佳作，展现了李华对社会现实的关切，对后世怀古文学有影响。",
+  "background": "李华生活于唐玄宗至代宗时期，历经安史之乱，社会动荡，边疆战事频繁。安史之乱中，李华曾接受安禄山伪职，乱平后被贬为杭州司户参军，个人境遇坎坷。写作此文时，他可能游历或途经古战场遗址，借景抒怀。动机在于反思唐朝自开国以来对四夷的军事扩张，尤其是玄宗时期的边疆政策，通过吊唁古战场，表达对战争残酷性的批判，主张以文教代替武力，避免无谓牺牲。",
+  "appreciation": "本文为赋体古文，结构上先以荒凉战场景象起笔，引入亭长对话点明主题，继而铺陈历代战争惨状，最后议论抒情，层层递进。艺术特色上，运用铺陈排比（如“吾想夫北风振漠”段）、对比（如周、秦、汉不同用兵结果）和悲壮语言（如“尸填巨港之岸，血满长城之窟”），节奏铿锵，渲染出苍凉氛围。思想内涵核心是反战与人道主义，批判“文教失宣，武臣用奇”的弊端，强调战争对民生摧残，提出“守在四夷”的防御思想。作为唐代古文运动先驱之作，它推动散文骈散结合，对后世怀古文学有示范意义。",
   "tags": [
+    "赋",
     "骈文",
     "抒情",
     "军事",
     "怀古"
   ],
+  "characters": [
+    {
+      "id": "the_ting_zhang",
+      "name": "亭长",
+      "aliases": [],
+      "role": "唐代古战场遗址的亭长，向作者介绍战场历史",
+      "stance": "客观陈述战场惨状，提及鬼哭传说",
+      "motive": "告知作者此地为古战场，引发作者吊唁之情",
+      "relations": []
+    },
+    {
+      "id": "li_hua",
+      "name": "李华",
+      "aliases": [
+        "遐叔"
+      ],
+      "role": "唐代文学家，本文作者，以第一人称吊唁古战场",
+      "stance": "悲天悯人，通过描写和议论反思战争",
+      "motive": "抒发对战争残酷的感慨，主张和平与文教",
+      "relations": [
+        {
+          "target": "亭长",
+          "type": "朋友",
+          "note": "偶遇并听取战场介绍，推动全文展开"
+        }
+      ]
+    }
+  ],
   "paragraphs": [
     {
       "original": "浩浩乎平沙无垠，敻不见人。河水萦带，群山纠纷。黯兮惨悴，风悲日曛。",
-      "translation": "广阔无边的平坦沙漠，辽阔得看不见人影。河流像带子一样蜿蜒环绕，群山交错杂乱。景色暗淡凄凉，风声悲鸣，日光昏暗。",
+      "translation": "平沙浩瀚无垠，遥远不见人影。河水萦绕如带，群山纷乱交错。天色黯淡凄惨，风声悲凉，日光昏暗。",
       "sentences": [
         {
           "original": "浩浩乎平沙无垠，敻不见人。",
-          "translation": "广阔啊，平坦的沙漠无边无际，辽阔得看不到人。",
+          "translation": "浩瀚无边的平沙，遥远得看不见人影。",
           "words": [
             {
               "word": "浩浩",
               "pinyin": "hào hào",
-              "meaning": "水势盛大貌，此处形容沙漠辽阔无边",
+              "meaning": "形容广阔无边的样子，指沙漠浩瀚。",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "句末语气词，表感叹，相当于'啊'",
+              "meaning": "语气词，用于形容词'浩浩'后，表示感叹语气。",
               "type": "虚词"
             },
             {
               "word": "平沙",
               "pinyin": "píng shā",
-              "meaning": "平坦的沙漠",
+              "meaning": "平坦的沙地，指沙漠。",
               "type": "实词"
             },
             {
               "word": "无垠",
               "pinyin": "wú yín",
-              "meaning": "没有边际",
+              "meaning": "没有边际，形容极其广阔。",
               "type": "实词"
             },
             {
               "word": "敻",
               "pinyin": "xiòng",
-              "meaning": "远，强调空间的遥远",
+              "meaning": "罕用义：辽阔、遥远（现代汉语几乎不用此义）。",
+              "type": "实词",
+              "highlight": "rare"
+            },
+            {
+              "word": "不",
+              "pinyin": "bù",
+              "meaning": "副词，表示否定，修饰动词'见'。",
+              "type": "虚词"
+            },
+            {
+              "word": "见",
+              "pinyin": "jiàn",
+              "meaning": "动词，看见、看到。",
+              "type": "实词"
+            },
+            {
+              "word": "人",
+              "pinyin": "rén",
+              "meaning": "名词，人类、人影。",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "河水萦带，群山纠纷。",
+          "translation": "河水如带子般环绕，群山交错纷杂。",
+          "words": [
+            {
+              "word": "河水",
+              "pinyin": "hé shuǐ",
+              "meaning": "河流的水，指战场的河流。",
+              "type": "实词"
+            },
+            {
+              "word": "萦带",
+              "pinyin": "yíng dài",
+              "meaning": "动词，环绕、缠绕如带。",
+              "type": "实词"
+            },
+            {
+              "word": "群山",
+              "pinyin": "qún shān",
+              "meaning": "众多的山。",
+              "type": "实词"
+            },
+            {
+              "word": "纠纷",
+              "pinyin": "jiū fēn",
+              "meaning": "古义：交错杂乱（非今义'争执'）。",
+              "type": "实词",
+              "highlight": "ancient_today"
+            }
+          ]
+        },
+        {
+          "original": "黯兮惨悴，风悲日曛。",
+          "translation": "天色阴暗凄惨，风声悲凉，日光昏暗。",
+          "words": [
+            {
+              "word": "黯",
+              "pinyin": "àn",
+              "meaning": "暗淡，昏暗。形容战场天色阴沉、气氛凄凉。",
+              "type": "实词"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词，表停顿或感叹，相当于'啊'，舒缓语气以增强抒情效果。",
+              "type": "虚词"
+            },
+            {
+              "word": "惨",
+              "pinyin": "cǎn",
+              "meaning": "悲惨，凄惨。形容景象悲凉、令人伤感。",
+              "type": "实词"
+            },
+            {
+              "word": "悴",
+              "pinyin": "cuì",
+              "meaning": "憔悴，忧伤。与'惨'并列，强调悲伤至极的状态。",
+              "type": "实词"
+            },
+            {
+              "word": "风",
+              "pinyin": "fēng",
+              "meaning": "风。此处指战场上的风声，渲染悲凉氛围。",
+              "type": "实词"
+            },
+            {
+              "word": "悲",
+              "pinyin": "bēi",
+              "meaning": "悲伤。形容风声悲凉，拟人化表达哀伤之情。",
+              "type": "实词"
+            },
+            {
+              "word": "日",
+              "pinyin": "rì",
+              "meaning": "太阳。此处指战场上的日光，暗示天色昏暗。",
+              "type": "实词"
+            },
+            {
+              "word": "曛",
+              "pinyin": "xūn",
+              "meaning": "罕用义：日落时的余光，昏暗。形容日光暗淡，与'黯'呼应。",
+              "type": "实词",
+              "highlight": "rare"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "蓬断草枯，凛若霜晨。鸟飞不下，兽铤亡群。亭长告余曰：“此古战场也。尝覆三军。往往鬼哭，天阴则闻。”伤心哉！秦欤？汉欤？将近代欤？",
+      "translation": "蓬草断折，野草枯萎，寒冷得如同下霜的清晨。鸟儿飞过不肯落下，野兽疾走失群。亭长告诉我说：“这是古战场，曾经覆灭过三军。常常有鬼哭，天阴时就能听到。”真令人伤心啊！这是秦朝、汉朝，还是近代的战场呢？",
+      "sentences": [
+        {
+          "original": "蓬断草枯，凛若霜晨。",
+          "translation": "蓬草断折，野草枯萎，寒冷得像下霜的清晨。",
+          "words": [
+            {
+              "word": "蓬",
+              "pinyin": "péng",
+              "meaning": "蓬草，一种枯后根断、随风飘转的植物",
+              "type": "实词"
+            },
+            {
+              "word": "断",
+              "pinyin": "duàn",
+              "meaning": "折断，断裂",
+              "type": "实词"
+            },
+            {
+              "word": "草",
+              "pinyin": "cǎo",
+              "meaning": "草本植物",
+              "type": "实词"
+            },
+            {
+              "word": "枯",
+              "pinyin": "kū",
+              "meaning": "干枯，枯萎",
+              "type": "实词"
+            },
+            {
+              "word": "凛",
+              "pinyin": "lǐn",
+              "meaning": "寒冷，凛冽",
+              "type": "实词"
+            },
+            {
+              "word": "若",
+              "pinyin": "ruò",
+              "meaning": "连词，如同，用于比喻寒冷如同霜晨",
+              "type": "虚词"
+            },
+            {
+              "word": "霜",
+              "pinyin": "shuāng",
+              "meaning": "秋霜，象征寒冷",
+              "type": "实词"
+            },
+            {
+              "word": "晨",
+              "pinyin": "chén",
+              "meaning": "早晨",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "鸟飞不下，兽铤亡群。",
+          "translation": "鸟儿飞过不落下，野兽疾走失群。",
+          "words": [
+            {
+              "word": "鸟",
+              "pinyin": "niǎo",
+              "meaning": "鸟类",
+              "type": "实词"
+            },
+            {
+              "word": "飞",
+              "pinyin": "fēi",
+              "meaning": "飞翔",
               "type": "实词"
             },
             {
@@ -65,171 +277,35 @@
               "type": "虚词"
             },
             {
-              "word": "见",
-              "pinyin": "jiàn",
-              "meaning": "此处读 jiàn，义为看见",
+              "word": "下",
+              "pinyin": "xià",
+              "meaning": "降落，落下",
               "type": "实词"
             },
             {
-              "word": "人",
-              "pinyin": "rén",
-              "meaning": "人影",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "河水萦带，群山纠纷。",
-          "translation": "河流像带子一样环绕，群山交错杂乱。",
-          "words": [
-            {
-              "word": "河水",
-              "pinyin": "hé shuǐ",
-              "meaning": "黄河之水",
+              "word": "兽",
+              "pinyin": "shòu",
+              "meaning": "野兽",
               "type": "实词"
             },
             {
-              "word": "萦带",
-              "pinyin": "yíng dài",
-              "meaning": "像带子一样环绕",
-              "type": "实词"
-            },
-            {
-              "word": "群山",
-              "pinyin": "qún shān",
-              "meaning": "众多山峰",
-              "type": "实词"
-            },
-            {
-              "word": "纠纷",
-              "pinyin": "jiū fēn",
-              "meaning": "交错重叠，杂乱貌",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "黯兮惨悴，风悲日曛。",
-          "translation": "暗淡而凄凉憔悴，风声悲凉，日光昏暗。",
-          "words": [
-            {
-              "word": "黯",
-              "pinyin": "àn",
-              "meaning": "形容词，昏暗、暗淡，形容战场气氛阴沉、光线不足。",
-              "type": "实词"
-            },
-            {
-              "word": "兮",
-              "pinyin": "xī",
-              "meaning": "语气助词，用于形容词'黯'后，表示感叹或舒缓语气，相当于'啊'，连接并列的形容词。",
-              "type": "虚词"
-            },
-            {
-              "word": "惨悴",
-              "pinyin": "cǎn cuì",
-              "meaning": "复合形容词，悲惨憔悴，形容景象凄凉、令人伤感，与'黯'并列描述战场阴郁。",
-              "type": "实词"
-            },
-            {
-              "word": "风",
-              "pinyin": "fēng",
-              "meaning": "名词，风，此处与'悲'连用，拟人化表示风声如同悲鸣。",
-              "type": "实词"
-            },
-            {
-              "word": "悲",
-              "pinyin": "bēi",
-              "meaning": "动词，悲伤、悲鸣，此处形容风声发出悲凉之声，拟人化手法。",
-              "type": "实词"
-            },
-            {
-              "word": "日",
-              "pinyin": "rì",
-              "meaning": "名词，太阳，此处与'曛'连用，表示太阳光线暗淡、昏黄。",
-              "type": "实词"
-            },
-            {
-              "word": "曛",
-              "pinyin": "xūn",
-              "meaning": "形容词，昏暗，特指日光暗淡或日落时的昏黄景象，形容战场天色阴沉。",
-              "type": "实词"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "original": "蓬断草枯，凛若霜晨。鸟飞不下，兽铤亡群。亭长告余曰：“此古战场也。尝覆三军。往往鬼哭，天阴则闻。”伤心哉！秦欤？汉欤？将近代欤？",
-      "translation": "蓬草断裂，草木枯萎，寒冷得如同下霜的清晨。鸟儿飞过却不肯落下，野兽疾走而失散离群。亭长告诉我说：“这是古战场。曾经覆灭过三军。常常有鬼哭，天阴时就能听到。”伤心啊！是秦朝呢？汉朝呢？还是近代呢？",
-      "sentences": [
-        {
-          "original": "蓬断草枯，凛若霜晨。",
-          "translation": "蓬草断裂，草木枯萎，寒冷得如同下霜的清晨。",
-          "words": [
-            {
-              "word": "蓬断",
-              "pinyin": "péng duàn",
-              "meaning": "蓬草断折。蓬为菊科植物，秋枯根断，随风飘转，此处形容战场荒芜之极。",
-              "type": "实词"
-            },
-            {
-              "word": "草枯",
-              "pinyin": "cǎo kū",
-              "meaning": "百草枯萎。与“蓬断”并列，共同渲染深秋或初冬战场的肃杀、死寂景象。",
-              "type": "实词"
-            },
-            {
-              "word": "凛",
-              "pinyin": "lǐn",
-              "meaning": "古义：寒冷（非今义‘严肃’或‘畏惧’）。此处形容战场寒气刺骨。",
-              "type": "实词"
-            },
-            {
-              "word": "若",
-              "pinyin": "ruò",
-              "meaning": "动词，如同、好像。连接“凛”与“霜晨”，构成比喻。",
-              "type": "虚词"
-            },
-            {
-              "word": "霜晨",
-              "pinyin": "shuāng chén",
-              "meaning": "降霜的清晨。用以比喻战场的寒冷与凄清。",
-              "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "鸟飞不下，兽铤亡群。",
-          "translation": "鸟儿飞过却不肯落下，野兽疾走而失散离群。",
-          "words": [
-            {
-              "word": "鸟飞",
-              "pinyin": "niǎo fēi",
-              "meaning": "鸟儿飞翔。此处作主语，指天空的飞鸟。",
-              "type": "实词"
-            },
-            {
-              "word": "不下",
-              "pinyin": "bù xià",
-              "meaning": "不降落（于地）。因战场死寂可怖，飞鸟不敢降落栖息。",
-              "type": "实词"
-            },
-            {
-              "word": "兽铤",
-              "pinyin": "shòu tǐng",
-              "meaning": "野兽疾走。铤，此处读 tǐng，义为快跑、疾走（区别于 dǐng 之‘未经冶铸的铜铁’义）。",
-              "type": "实词"
+              "word": "铤",
+              "pinyin": "tǐng",
+              "meaning": "罕用义：快跑，疾走（现代汉语中此义项罕用）",
+              "type": "实词",
+              "highlight": "rare"
             },
             {
               "word": "亡",
               "pinyin": "wáng",
-              "meaning": "通‘无’，义为没有。",
-              "type": "虚词"
+              "meaning": "古义：失去，逃散（非今义'死亡'）",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
               "word": "群",
               "pinyin": "qún",
-              "meaning": "兽群，同伴。与“亡”连用，指野兽狂奔失散，不见同伴。",
+              "meaning": "群体，兽群",
               "type": "实词"
             }
           ]
@@ -241,182 +317,193 @@
             {
               "word": "亭长",
               "pinyin": "tíng zhǎng",
-              "meaning": "秦汉时乡官，掌治安、诉讼等，此为叙述者所遇之人。",
+              "meaning": "古代地方小吏，负责治安、诉讼等事务",
               "type": "官职"
             },
             {
               "word": "告",
               "pinyin": "gào",
-              "meaning": "告诉、告知。",
+              "meaning": "告诉、禀告",
               "type": "实词"
             },
             {
               "word": "余",
               "pinyin": "yú",
-              "meaning": "第一人称代词，我。",
-              "type": "虚词"
+              "meaning": "古义：第一人称代词，我（非今义'多余'）",
+              "type": "虚词",
+              "highlight": "ancient_today"
             },
             {
               "word": "曰",
               "pinyin": "yuē",
-              "meaning": "说。",
+              "meaning": "说",
               "type": "实词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "指示代词，这、这里。",
+              "meaning": "指示代词，这",
               "type": "虚词"
             },
             {
               "word": "古",
               "pinyin": "gǔ",
-              "meaning": "古代的、过去的。",
+              "meaning": "古代的",
               "type": "实词"
             },
             {
               "word": "战场",
               "pinyin": "zhàn chǎng",
-              "meaning": "两军交战的地方。",
+              "meaning": "交战的地方",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句末语气词，表判断与肯定。",
+              "meaning": "句末语气词，表判断或肯定",
               "type": "虚词"
             },
             {
               "word": "尝",
               "pinyin": "cháng",
-              "meaning": "时间副词，曾经。",
-              "type": "虚词"
+              "meaning": "古义：曾经（非今义'品尝'）",
+              "type": "虚词",
+              "highlight": "ancient_today"
             },
             {
               "word": "覆",
               "pinyin": "fù",
-              "meaning": "覆灭、使……覆没。",
-              "type": "实词"
+              "meaning": "古义：覆灭、击败（非今义'覆盖'）",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
-              "word": "三",
-              "pinyin": "sān",
-              "meaning": "数词，三。",
-              "type": "实词"
-            },
-            {
-              "word": "军",
-              "pinyin": "jūn",
-              "meaning": "军队的编制单位，此处泛指军队。",
-              "type": "实词"
+              "word": "三军",
+              "pinyin": "sān jūn",
+              "meaning": "古义：古代军队的通称，泛指全军（非今义'海陆空三军'）",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
               "word": "往往",
               "pinyin": "wǎng wǎng",
-              "meaning": "古义：处处、到处（非今义‘常常’）。",
-              "type": "实词"
+              "meaning": "常常、每每",
+              "type": "虚词"
             },
             {
               "word": "鬼",
               "pinyin": "guǐ",
-              "meaning": "鬼魂、亡灵。",
+              "meaning": "鬼魂",
               "type": "实词"
             },
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣、啼哭。",
+              "meaning": "哭泣",
               "type": "实词"
             },
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "天空、天气。",
+              "meaning": "天空、天气",
               "type": "实词"
             },
             {
               "word": "阴",
               "pinyin": "yīn",
-              "meaning": "阴沉、阴暗。",
+              "meaning": "阴暗",
               "type": "实词"
             },
             {
               "word": "则",
               "pinyin": "zé",
-              "meaning": "连词，表顺承，就。",
+              "meaning": "连词，就、便",
               "type": "虚词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听到、听见。",
+              "meaning": "听到",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "伤心哉！秦欤？汉欤？将近代欤？",
-          "translation": "伤心啊！是秦朝呢？汉朝呢？还是近代呢？",
+          "original": "伤心哉！",
+          "translation": "伤心啊！",
           "words": [
             {
               "word": "伤",
               "pinyin": "shāng",
-              "meaning": "使……悲伤、伤害。",
+              "meaning": "伤害、使悲伤",
               "type": "实词"
             },
             {
               "word": "心",
               "pinyin": "xīn",
-              "meaning": "内心、心情。",
+              "meaning": "内心、心情",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "句末感叹语气词，表强烈感叹。",
+              "meaning": "句末感叹语气词，表悲伤或感叹",
               "type": "虚词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "秦欤？汉欤？将近代欤？",
+          "translation": "是秦朝呢？汉朝呢？还是近代呢？",
+          "words": [
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "朝代名，中国历史上第一个大一统王朝（前221-前207）。",
-              "type": "地名"
+              "meaning": "战国七雄之一，后统一中国建立秦朝（前221-前207）",
+              "type": "地名",
+              "highlight": null
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "句末疑问语气词，表疑问或反问。",
-              "type": "虚词"
+              "meaning": "句末疑问语气词，相当于'吗'或'呢'",
+              "type": "虚词",
+              "highlight": null
             },
             {
               "word": "汉",
               "pinyin": "hàn",
-              "meaning": "朝代名，继秦之后的大一统王朝（前202-220）。",
-              "type": "地名"
+              "meaning": "朝代名，刘邦建立（前202-220），分为西汉与东汉",
+              "type": "地名",
+              "highlight": null
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "句末疑问语气词，表疑问或反问。",
-              "type": "虚词"
+              "meaning": "句末疑问语气词，相当于'吗'或'呢'",
+              "type": "虚词",
+              "highlight": null
             },
             {
               "word": "将",
               "pinyin": "jiāng",
-              "meaning": "此处读jiāng，义为连词，表选择，还是。",
-              "type": "虚词"
+              "meaning": "此处读 jiāng，义为连词，表示选择，相当于'还是'",
+              "type": "虚词",
+              "highlight": "polyphone"
             },
             {
               "word": "近代",
               "pinyin": "jìn dài",
-              "meaning": "距离说话人较近的时代。",
-              "type": "实词"
+              "meaning": "指较近的时代，文中可能指隋唐时期",
+              "type": "实词",
+              "highlight": null
             },
             {
               "word": "欤",
               "pinyin": "yú",
-              "meaning": "句末疑问语气词，表疑问或反问。",
-              "type": "虚词"
+              "meaning": "句末疑问语气词，相当于'吗'或'呢'",
+              "type": "虚词",
+              "highlight": null
             }
           ]
         }
@@ -424,7 +511,7 @@
     },
     {
       "original": "吾闻夫齐魏徭戍，荆韩召募。万里奔走，连年暴露。沙草晨牧，河冰夜渡。",
-      "translation": "我听说齐国和魏国征发徭役戍守，楚国和韩国招募士兵。他们奔走万里，连年暴露在荒野。早晨在沙草中放牧，夜间在河冰上渡河。",
+      "translation": "我听说齐国和魏国征发徭役戍边，楚国和韩国招募士兵。他们奔走万里，常年风餐露宿。清晨在沙草中放牧战马，夜晚渡过冰封的河流。",
       "sentences": [
         {
           "original": "吾闻夫齐魏徭戍，荆韩召募。",
@@ -439,31 +526,32 @@
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "动词，听说",
+              "meaning": "听说，听闻",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "此处读 fú，句首发语词，引出议论，无实义",
-              "type": "虚词"
+              "meaning": "此处读fú，义为句首语气词，用于引起议论",
+              "type": "虚词",
+              "highlight": "polyphone"
             },
             {
               "word": "齐魏",
               "pinyin": "qí wèi",
-              "meaning": "战国时期的齐国和魏国，齐在今山东，魏在今河南",
+              "meaning": "战国时期的两个诸侯国，齐国和魏国",
               "type": "地名"
             },
             {
               "word": "徭戍",
               "pinyin": "yáo shù",
-              "meaning": "徭役和戍守，指古代劳役和守边任务",
+              "meaning": "徭役和戍守，指征发百姓服劳役和守卫边疆",
               "type": "实词"
             },
             {
               "word": "荆韩",
               "pinyin": "jīng hán",
-              "meaning": "战国时期的楚国（荆）和韩国，楚在今湖北，韩在今河南中部",
+              "meaning": "战国时期的两个诸侯国，楚国和韩国。荆是楚国的别称",
               "type": "地名"
             },
             {
@@ -476,18 +564,18 @@
         },
         {
           "original": "万里奔走，连年暴露。",
-          "translation": "奔走万里，连年暴露在荒野。",
+          "translation": "奔走万里，常年暴露在野外。",
           "words": [
             {
               "word": "万里",
               "pinyin": "wàn lǐ",
-              "meaning": "形容路途遥远",
+              "meaning": "形容路途遥远，一万里的距离",
               "type": "实词"
             },
             {
               "word": "奔走",
               "pinyin": "bēn zǒu",
-              "meaning": "古义：奔跑（非今义'行走'）",
+              "meaning": "奔跑，指快速行军或逃亡。其中'走'古义为跑（非今义'行走'）",
               "type": "实词"
             },
             {
@@ -499,49 +587,62 @@
             {
               "word": "暴露",
               "pinyin": "bào lù",
-              "meaning": "暴露在野外，指征战辛苦",
+              "meaning": "暴露在外，指经受日晒雨淋。'暴'古义为晒",
               "type": "实词"
             }
           ]
         },
         {
           "original": "沙草晨牧，河冰夜渡。",
-          "translation": "早晨在沙草中放牧，夜间在河冰上渡河。",
+          "translation": "清晨在沙草中放牧，夜晚渡过冰河。",
           "words": [
             {
-              "word": "沙草",
-              "pinyin": "shā cǎo",
-              "meaning": "沙地与草丛，指荒凉的战场环境",
+              "word": "沙",
+              "pinyin": "shā",
+              "meaning": "沙地，战场环境的一部分",
+              "type": "实词"
+            },
+            {
+              "word": "草",
+              "pinyin": "cǎo",
+              "meaning": "草地，与沙地并列的战场环境",
               "type": "实词"
             },
             {
               "word": "晨",
               "pinyin": "chén",
-              "meaning": "清晨时分，表示时间",
+              "meaning": "早晨，时间状语",
               "type": "实词"
             },
             {
               "word": "牧",
               "pinyin": "mù",
-              "meaning": "放牧牲畜，此处指在沙草中照料战马",
+              "meaning": "古义：放牧（非今义'牧师'或'管理'）",
+              "type": "实词",
+              "highlight": "ancient_today"
+            },
+            {
+              "word": "河",
+              "pinyin": "hé",
+              "meaning": "河流，战场地理特征",
               "type": "实词"
             },
             {
-              "word": "河冰",
-              "pinyin": "hé bīng",
-              "meaning": "河流结冰，指冬季严寒的渡河条件",
+              "word": "冰",
+              "pinyin": "bīng",
+              "meaning": "冰，指河面结冰",
               "type": "实词"
             },
             {
               "word": "夜",
               "pinyin": "yè",
-              "meaning": "夜晚，与'晨'对应，表示日夜兼程",
+              "meaning": "夜晚，时间状语",
               "type": "实词"
             },
             {
               "word": "渡",
               "pinyin": "dù",
-              "meaning": "渡过河流，指在冰上或水中行军",
+              "meaning": "渡河，军事行动",
               "type": "实词"
             }
           ]
@@ -550,22 +651,22 @@
     },
     {
       "original": "地阔天长，不知归路。寄身锋刃，腷臆谁诉？秦汉而还，多事四夷。中州耗斁，无世无之。古称戎、夏，不抗王师。文教失宣，武臣用奇。奇兵有异于仁义，王道迂阔而莫为。呜呼噫嘻！",
-      "translation": "土地辽阔，天空高远，不知归途何在。置身于刀光剑影之中，满腔郁愤向谁倾诉？秦汉以来，四方战事频仍。中原地区损耗败坏，没有哪个世代不是如此。古人称戎和夏，不与王师对抗。礼乐教化不再宣扬，武臣便施展奇谋。奇兵与仁义相异，王道被视为迂阔而无人践行。唉呀！",
+      "translation": "大地辽阔，天空高远，不知归途在何方。置身于刀光剑影之中，满腔悲愤向谁倾诉？秦汉以来，多次与四夷交战，中原地区损耗败坏，没有哪个朝代不是如此。古时称戎、夏，不与王师对抗。礼乐教化不被宣扬，武将却滥用奇谋。奇兵与仁义相悖，王道迂腐空疏而无人践行。唉呀！",
       "sentences": [
         {
           "original": "地阔天长，不知归路。",
-          "translation": "土地广阔，天空辽远，不知道归家的路。",
+          "translation": "大地辽阔，天空高远，不知归途在何方。",
           "words": [
             {
               "word": "地",
               "pinyin": "dì",
-              "meaning": "大地，此处指古战场所在的地面",
+              "meaning": "大地，土地",
               "type": "实词"
             },
             {
               "word": "阔",
               "pinyin": "kuò",
-              "meaning": "广阔，辽阔",
+              "meaning": "辽阔，广阔",
               "type": "实词"
             },
             {
@@ -577,13 +678,13 @@
             {
               "word": "长",
               "pinyin": "cháng",
-              "meaning": "此处读 cháng，义为辽远、漫长（指空间或时间）",
+              "meaning": "高远，悠长",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定副词，表示否定",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
@@ -595,19 +696,19 @@
             {
               "word": "归路",
               "pinyin": "guī lù",
-              "meaning": "返回家乡的道路",
+              "meaning": "回去的道路",
               "type": "实词"
             }
           ]
         },
         {
           "original": "寄身锋刃，腷臆谁诉？",
-          "translation": "寄身于刀锋之下，心中的郁闷向谁倾诉？",
+          "translation": "置身于刀光剑影之中，满腔悲愤向谁倾诉？",
           "words": [
             {
               "word": "寄",
               "pinyin": "jì",
-              "meaning": "寄托，托付",
+              "meaning": "托付，安放",
               "type": "实词"
             },
             {
@@ -619,19 +720,19 @@
             {
               "word": "锋刃",
               "pinyin": "fēng rèn",
-              "meaning": "刀剑等兵器的锋利部分，代指兵器或战场",
+              "meaning": "刀剑等兵器的尖端和刃口，代指兵器、战场",
               "type": "实词"
             },
             {
               "word": "腷臆",
               "pinyin": "bì yì",
-              "meaning": "连绵词，指心情郁结、烦闷悲愤",
+              "meaning": "心情郁结，烦闷",
               "type": "实词"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "疑问代词，表示‘向谁’、‘对谁’",
+              "meaning": "疑问代词，表示反问，意为“向谁”",
               "type": "虚词"
             },
             {
@@ -644,72 +745,74 @@
         },
         {
           "original": "秦汉而还，多事四夷。",
-          "translation": "秦汉以来，多次与四夷发生战事。",
+          "translation": "秦汉以来，多次与四夷交战。",
           "words": [
             {
               "word": "秦汉",
               "pinyin": "qín hàn",
-              "meaning": "朝代名，指秦朝和汉朝。",
+              "meaning": "朝代名，秦朝和汉朝的合称，指秦汉时期。",
               "type": "实词"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，表示承接关系，连接时间状语“秦汉”与谓语“还”。",
+              "meaning": "连词，连接‘秦汉’与‘还’，表示时间上的顺承关系，可译为‘以后’、‘以来’。",
               "type": "虚词"
             },
             {
               "word": "还",
               "pinyin": "hái",
-              "meaning": "实词，表示以来、以后。",
+              "meaning": "动词，归来，返回。此处与‘秦汉’连用，表示自秦汉以来。",
               "type": "实词"
             },
             {
-              "word": "多事",
-              "pinyin": "duō shì",
-              "meaning": "动词性词组，意为多战事、经常发生战事。",
+              "word": "多",
+              "pinyin": "duō",
+              "meaning": "副词，频繁，常常。",
               "type": "实词"
+            },
+            {
+              "word": "事",
+              "pinyin": "shì",
+              "meaning": "古义：从事，有事（指战事、军事行动）。非今义‘事情’。",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
               "word": "四夷",
               "pinyin": "sì yí",
-              "meaning": "古义：古代对中原华夏族以外四方少数民族的泛称（非今义‘外国’）。",
+              "meaning": "古代对中原王朝四方少数民族的统称。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "中州耗斁，无世无之。",
-          "translation": "中原地区损耗败坏，没有哪个世代不是如此。",
+          "translation": "中原地区损耗败坏，没有哪个朝代不是如此。",
           "words": [
             {
               "word": "中州",
               "pinyin": "zhōng zhōu",
-              "meaning": "地名，指中原地区。",
-              "type": "地名"
+              "meaning": "指中原地区。",
+              "type": "实词"
             },
             {
               "word": "耗斁",
               "pinyin": "hào yì",
-              "meaning": "损耗败坏。‘斁’通‘黩’，义为败坏。",
+              "meaning": "罕用义：损耗，败坏。‘耗’指消耗，‘斁’指败坏。",
+              "type": "实词",
+              "highlight": "rare"
+            },
+            {
+              "word": "无世",
+              "pinyin": "wú shì",
+              "meaning": "没有哪个世代。",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "动词，表示没有。",
-              "type": "虚词"
-            },
-            {
-              "word": "世",
-              "pinyin": "shì",
-              "meaning": "实词，指时代、朝代。",
-              "type": "实词"
-            },
-            {
-              "word": "无",
-              "pinyin": "wú",
-              "meaning": "动词，表示没有。",
+              "meaning": "动词，没有。",
               "type": "虚词"
             },
             {
@@ -722,108 +825,108 @@
         },
         {
           "original": "古称戎、夏，不抗王师。",
-          "translation": "古代称戎和夏，不抵抗王师。",
+          "translation": "古时称戎、夏，不与王师对抗。",
           "words": [
             {
               "word": "古",
               "pinyin": "gǔ",
-              "meaning": "时间名词，指古代、古时候。",
+              "meaning": "古时候，指上古三代",
               "type": "实词"
             },
             {
               "word": "称",
               "pinyin": "chēng",
-              "meaning": "动词，称说、述说。",
+              "meaning": "称作，称为",
               "type": "实词"
             },
             {
               "word": "戎",
               "pinyin": "róng",
-              "meaning": "古代对西部少数民族的统称。",
-              "type": "实词"
+              "meaning": "古代对西部少数民族的统称",
+              "type": "地名"
             },
             {
               "word": "夏",
               "pinyin": "xià",
-              "meaning": "指华夏，中原地区的部族或国家。",
-              "type": "实词"
+              "meaning": "指华夏，中原民族",
+              "type": "地名"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "否定副词，表示否定，与动词‘抗’连用。",
+              "meaning": "否定副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "抗",
               "pinyin": "kàng",
-              "meaning": "动词，抵抗、对抗。",
+              "meaning": "抵抗，对抗",
               "type": "实词"
             },
             {
               "word": "王师",
               "pinyin": "wáng shī",
-              "meaning": "古义：天子的军队，朝廷的军队（非今泛指‘国家军队’）。",
+              "meaning": "帝王的军队，指天子的正义之师",
               "type": "实词"
             }
           ]
         },
         {
           "original": "文教失宣，武臣用奇。",
-          "translation": "礼乐教化不再宣扬，武臣便施展奇谋。",
+          "translation": "礼乐教化不被宣扬，武将却滥用奇谋。",
           "words": [
             {
               "word": "文教",
               "pinyin": "wén jiào",
-              "meaning": "名词，指礼乐教化、典章制度。",
+              "meaning": "礼乐教化，指以文德施行教化",
               "type": "实词"
             },
             {
               "word": "失",
               "pinyin": "shī",
-              "meaning": "动词，丧失、废弃。",
+              "meaning": "废弃，丧失",
               "type": "实词"
             },
             {
               "word": "宣",
               "pinyin": "xuān",
-              "meaning": "动词，宣扬、传播。",
+              "meaning": "宣扬，传播",
               "type": "实词"
             },
             {
               "word": "武臣",
               "pinyin": "wǔ chén",
-              "meaning": "名词，指武将、军事官员。",
+              "meaning": "武将，掌管军事的臣子",
               "type": "实词"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "动词，使用、施行。",
+              "meaning": "使用，采用",
               "type": "实词"
             },
             {
               "word": "奇",
               "pinyin": "qí",
-              "meaning": "名词，指奇谋、诡诈之术。",
+              "meaning": "指奇计、权变诡诈的手段",
               "type": "实词"
             }
           ]
         },
         {
           "original": "奇兵有异于仁义，王道迂阔而莫为。",
-          "translation": "奇兵与仁义不同，王道被视为迂阔而无人实行。",
+          "translation": "奇兵与仁义相悖，王道迂腐空疏而无人践行。",
           "words": [
             {
               "word": "奇兵",
               "pinyin": "qí bīng",
-              "meaning": "出其不意的战术或军队",
+              "meaning": "出其不意、变幻莫测的用兵策略",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "动词，存在、具有",
+              "meaning": "动词，存在",
               "type": "实词"
             },
             {
@@ -835,13 +938,13 @@
             {
               "word": "于",
               "pinyin": "yú",
-              "meaning": "介词，引出比较对象，相当于“跟…相比”",
+              "meaning": "介词，表示比较对象，相当于“和”、“与”",
               "type": "虚词"
             },
             {
               "word": "仁义",
               "pinyin": "rén yì",
-              "meaning": "儒家倡导的仁爱与正义",
+              "meaning": "儒家倡导的仁爱与正义的道德准则",
               "type": "实词"
             },
             {
@@ -853,25 +956,26 @@
             {
               "word": "迂阔",
               "pinyin": "yū kuò",
-              "meaning": "不切实际，不合时宜",
-              "type": "实词"
+              "meaning": "古义：不切实际（特指儒家王道学说被认为脱离现实，非今义泛指不务实）",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，连接“迂阔”与“莫为”，表示转折或顺承关系",
+              "meaning": "连词，表示转折关系，相当于“却”",
               "type": "虚词"
             },
             {
               "word": "莫",
               "pinyin": "mò",
-              "meaning": "无定代词，没有谁、没有人",
+              "meaning": "无定代词，没有谁，没有人",
               "type": "虚词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "此处读 wéi，动词，做、施行",
+              "meaning": "动词，做，实行",
               "type": "实词"
             }
           ]
@@ -883,8 +987,8 @@
             {
               "word": "呜呼噫嘻",
               "pinyin": "wū hū yī xī",
-              "meaning": "四个感叹词连用，表达深沉、强烈的悲慨之情",
-              "type": "虚词"
+              "meaning": "四个叹词连用，表达极度悲愤、感慨的强烈情感",
+              "type": "典故"
             }
           ]
         }
@@ -892,11 +996,11 @@
     },
     {
       "original": "吾想夫北风振漠，胡兵伺便。主将骄敌，期门受战。野竖旄旗，川回组练。",
-      "translation": "我想象那北风吹动沙漠，胡人军队伺机而动。主将骄傲轻敌，到了营门才接战。原野上竖起旄旗，河川间回绕着军队。",
+      "translation": "我想到那北风席卷沙漠，胡兵伺机而动；主将骄傲轻敌，在营门前接战；原野上竖起旄旗，河川间军队回旋。",
       "sentences": [
         {
           "original": "吾想夫北风振漠，胡兵伺便。",
-          "translation": "我想象那北风吹动沙漠，胡人军队伺机而动。",
+          "translation": "我想那北风振动沙漠，胡兵伺机便利。",
           "words": [
             {
               "word": "吾",
@@ -907,44 +1011,51 @@
             {
               "word": "想",
               "pinyin": "xiǎng",
-              "meaning": "动词，想象、设想",
+              "meaning": "设想，想象",
               "type": "实词"
             },
             {
               "word": "夫",
               "pinyin": "fú",
-              "meaning": "句首语气词，表示要发议论，可不译",
+              "meaning": "句首语气词，表示将发议论，无实义",
               "type": "虚词"
             },
             {
-              "word": "北风振漠",
-              "pinyin": "běi fēng zhèn mò",
-              "meaning": "北方的大风撼动沙漠，描绘边塞苦寒荒凉的景象",
+              "word": "北风",
+              "pinyin": "běi fēng",
+              "meaning": "北方的风",
+              "type": "实词"
+            },
+            {
+              "word": "振漠",
+              "pinyin": "zhèn mò",
+              "meaning": "振动沙漠",
               "type": "实词"
             },
             {
               "word": "胡兵",
               "pinyin": "hú bīng",
-              "meaning": "古代对北方边地及西域民族军队的称呼",
+              "meaning": "古代对北方及西方部族军队的称呼",
               "type": "实词"
             },
             {
-              "word": "伺",
-              "pinyin": "sì",
-              "meaning": "此处读sì，义为窥伺、侦察等待",
+              "word": "伺便",
+              "pinyin": "sì biàn",
+              "meaning": "窥伺有利的时机",
               "type": "实词"
             },
             {
               "word": "便",
               "pinyin": "biàn",
-              "meaning": "名词，便利的时机、有利的机会",
-              "type": "实词"
+              "meaning": "此处读 biàn，义为便利、有利时机",
+              "type": "实词",
+              "highlight": "polyphone"
             }
           ]
         },
         {
           "original": "主将骄敌，期门受战。",
-          "translation": "主将骄傲轻敌，到了营门才接战。",
+          "translation": "主将骄傲轻敌，在营门前接战。",
           "words": [
             {
               "word": "主将",
@@ -955,73 +1066,68 @@
             {
               "word": "骄",
               "pinyin": "jiāo",
-              "meaning": "古义：轻视、傲视（非今义'骄傲'）",
-              "type": "实词"
+              "meaning": "古义：傲慢轻视（非今义‘骄傲’）",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
               "word": "敌",
               "pinyin": "dí",
-              "meaning": "名词，敌人",
+              "meaning": "敌人",
               "type": "实词"
             },
             {
               "word": "期门",
               "pinyin": "qī mén",
-              "meaning": "汉代郎官，掌执兵出入护卫，此处借指守门将领",
-              "type": "官职"
-            },
-            {
-              "word": "受",
-              "pinyin": "shòu",
-              "meaning": "动词，接受、应承",
+              "meaning": "军营之门",
               "type": "实词"
             },
             {
-              "word": "战",
-              "pinyin": "zhàn",
-              "meaning": "名词，战斗",
+              "word": "受战",
+              "pinyin": "shòu zhàn",
+              "meaning": "应战，接战",
               "type": "实词"
             }
           ]
         },
         {
           "original": "野竖旄旗，川回组练。",
-          "translation": "原野上竖起旄旗，河川间回绕着军队。",
+          "translation": "原野上竖起旄旗，河川间回旋着军队。",
           "words": [
             {
               "word": "野",
               "pinyin": "yě",
-              "meaning": "原野，指古战场上的开阔地",
+              "meaning": "野外，原野",
               "type": "实词"
             },
             {
               "word": "竖",
               "pinyin": "shù",
-              "meaning": "竖立、树立，指将军旗立起",
+              "meaning": "竖立，树立",
               "type": "实词"
             },
             {
               "word": "旄旗",
               "pinyin": "máo qí",
-              "meaning": "用牦牛尾装饰的军旗，泛指战旗",
+              "meaning": "旗帜，旄指用牦牛尾装饰的旗，旗泛指旗帜",
               "type": "实词"
             },
             {
               "word": "川",
               "pinyin": "chuān",
-              "meaning": "平川，指战场上的平坦地带",
+              "meaning": "河流",
               "type": "实词"
             },
             {
               "word": "回",
               "pinyin": "huí",
-              "meaning": "回旋、来回移动，形容军队调动",
+              "meaning": "回旋，环绕",
               "type": "实词"
             },
             {
               "word": "组练",
               "pinyin": "zǔ liàn",
-              "meaning": "组甲和被练，指战士的服装，借指军队",
+              "meaning": "组指丝带，练指白绢，合指战士的服装或借指军队",
               "type": "实词"
             }
           ]
@@ -1030,388 +1136,371 @@
     },
     {
       "original": "法重心骇，威尊命贱。利镞穿骨，惊沙入面。主客相搏，山川震眩，声析江河，势崩雷电。至若穷阴凝闭，凛冽海隅，积雪没胫，坚冰在须；鸷鸟休巢，征马踟蹰；缯纩无温，堕指裂肤。当此苦寒，天假强胡，凭陵杀气，以相翦屠。径截辎重，横攻士卒。都尉新降，将军覆没。尸填巨港之岸，血满长城之窟。无贵无贱，同为枯骨。可胜言哉！鼓衰兮力竭，矢竭兮弦绝，白刃交兮宝刀折，两军蹙兮生死决。降矣哉？终身夷狄。战矣哉？骨暴沙砾。鸟无声兮山寂寂，夜正长兮风淅淅。魂魄结兮天沉沉，鬼神聚兮云幂幂。日光寒兮草短，月色苦兮霜白。伤心惨目，有如是耶！",
-      "translation": "军法严厉令人心惊，威严尊贵而生命卑贱。锋利的箭头穿透骨头，飞扬的沙尘扑打脸面。敌我双方激烈搏斗，山川为之震动眩晕，声势仿佛撕裂江河，崩裂如雷电轰鸣。至于阴云密布天气凝滞，海边凛冽寒冷，积雪淹没小腿，胡须上结满坚冰；凶猛的鸷鸟停止归巢，战马徘徊不前；丝绵衣物毫无温暖，手指冻掉皮肤冻裂。在这苦寒之时，上天借给强胡机会，他们凭借肃杀之气，前来相互屠杀。直接截取军用物资，横向攻击士兵。都尉刚刚投降，将军全军覆没。尸体填满大河的岸边，鲜血注满长城的洞穴。无论高贵低贱，都化为枯骨。这惨状怎能说得完啊！鼓声衰弱啊力气耗尽，箭矢用尽啊弓弦断绝，白刃相交啊宝刀折断，两军逼近啊生死决战。投降吗？终身沦为夷狄。战斗吗？尸骨暴露在沙砾之中。鸟无声啊山峦寂静，夜正长啊风声淅淅。魂魄聚集啊天色阴沉，鬼神聚拢啊云层密布。日光寒冷啊草木短枯，月色凄苦啊霜雪洁白。伤心惨目的景象，竟至于如此啊！",
+      "translation": "军法严厉，人心惊恐；威严尊贵，生命卑贱。锋利的箭头穿透骨头，飞沙扑打在脸上。主军和客军互相搏斗，山川震动眩目，声音撕裂江河，气势崩裂如雷电。至于阴云密布，寒冷到海边，积雪淹没小腿，坚冰挂在胡须上；凶猛的鸟停止巢穴，战马徘徊不前；丝棉衣服没有温暖，手指冻掉，皮肤冻裂。当这苦寒之时，天借给强大的胡人，凭借杀气，来互相剪除屠杀。直接截击辎重，横向攻击士兵。都尉刚刚投降，将军全军覆没。尸体填满大河的岸边，鲜血充满长城的洞穴。无论贵贱，同样成为枯骨。怎能说得完啊！鼓声衰弱啊力量耗尽，箭矢用尽啊弓弦断绝，白刃相交啊宝刀折断，两军逼近啊生死决战。投降吗？终身成为夷狄。战斗吗？骨头暴露在沙砾中。鸟无声啊山寂静，夜正长啊风淅淅。魂魄凝结啊天阴沉，鬼神聚集啊云笼罩。日光寒冷啊草短，月色凄苦啊霜白。伤心惨目，竟有如此景象啊！",
       "sentences": [
         {
           "original": "法重心骇，威尊命贱。",
-          "translation": "军法严厉，内心恐惧；威严尊贵，生命低贱。",
+          "translation": "军法严厉，人心惊恐；威严尊贵，生命卑贱。",
           "words": [
             {
-              "word": "法",
-              "pinyin": "fǎ",
-              "meaning": "名词，指军法、法令",
+              "word": "法重",
+              "pinyin": "fǎ zhòng",
+              "meaning": "法令严苛",
               "type": "实词"
             },
             {
-              "word": "重",
-              "pinyin": "zhòng",
-              "meaning": "形容词，严厉、严酷",
+              "word": "心骇",
+              "pinyin": "xīn hài",
+              "meaning": "内心惊惧",
               "type": "实词"
             },
             {
-              "word": "心",
-              "pinyin": "xīn",
-              "meaning": "名词，内心",
+              "word": "威尊",
+              "pinyin": "wēi zūn",
+              "meaning": "主将威严尊贵",
               "type": "实词"
             },
             {
-              "word": "骇",
-              "pinyin": "hài",
-              "meaning": "动词，惊惧、恐惧",
-              "type": "实词"
-            },
-            {
-              "word": "威",
-              "pinyin": "wēi",
-              "meaning": "名词，指将领的威势、权威",
-              "type": "实词"
-            },
-            {
-              "word": "尊",
-              "pinyin": "zūn",
-              "meaning": "形容词，尊贵、崇高",
-              "type": "实词"
-            },
-            {
-              "word": "命",
-              "pinyin": "mìng",
-              "meaning": "名词，士卒的生命",
-              "type": "实词"
-            },
-            {
-              "word": "贱",
-              "pinyin": "jiàn",
-              "meaning": "形容词，低贱、不值钱",
-              "type": "实词"
+              "word": "命贱",
+              "pinyin": "mìng jiàn",
+              "meaning": "古义：士卒生命低贱、不值钱（非今义‘卑鄙’）",
+              "type": "实词",
+              "highlight": "ancient_today"
             }
           ]
         },
         {
           "original": "利镞穿骨，惊沙入面。",
-          "translation": "锋利的箭头穿透骨头，飞扬的沙尘扑面而来。",
+          "translation": "锋利的箭头穿透骨头，飞沙扑打在脸上。",
           "words": [
             {
-              "word": "利",
-              "pinyin": "lì",
-              "meaning": "形容词，锋利",
+              "word": "利镞",
+              "pinyin": "lì zú",
+              "meaning": "锋利的箭头",
               "type": "实词"
             },
             {
-              "word": "镞",
-              "pinyin": "zú",
-              "meaning": "名词，箭头",
+              "word": "穿骨",
+              "pinyin": "chuān gǔ",
+              "meaning": "穿透骨头",
               "type": "实词"
             },
             {
-              "word": "穿",
-              "pinyin": "chuān",
-              "meaning": "动词，穿透",
+              "word": "惊沙",
+              "pinyin": "jīng shā",
+              "meaning": "扑面惊心的风沙",
               "type": "实词"
             },
             {
-              "word": "骨",
-              "pinyin": "gǔ",
-              "meaning": "名词，骨头",
-              "type": "实词"
-            },
-            {
-              "word": "惊",
-              "pinyin": "jīng",
-              "meaning": "形容词，令人惊恐的，形容风沙猛烈",
-              "type": "实词"
-            },
-            {
-              "word": "沙",
-              "pinyin": "shā",
-              "meaning": "名词，沙尘",
-              "type": "实词"
-            },
-            {
-              "word": "入",
-              "pinyin": "rù",
-              "meaning": "动词，扑入、打在",
-              "type": "实词"
-            },
-            {
-              "word": "面",
-              "pinyin": "miàn",
-              "meaning": "名词，脸面",
+              "word": "入面",
+              "pinyin": "rù miàn",
+              "meaning": "扑打在脸上",
               "type": "实词"
             }
           ]
         },
         {
           "original": "主客相搏，山川震眩，声析江河，势崩雷电。",
-          "translation": "敌我双方搏斗，山川震动眩晕，声音撕裂江河，气势如雷电崩裂。",
+          "translation": "主军和客军互相搏斗，山川震动眩目，声音撕裂江河，气势崩裂如雷电。",
           "words": [
             {
               "word": "主客",
               "pinyin": "zhǔ kè",
-              "meaning": "指战场上的进攻方（主）与防守方（客）",
-              "type": "实词"
+              "meaning": "古义：指作战双方，我方与敌方（非今义‘主人和客人’）。",
+              "type": "实词",
+              "highlight": "ancient_today"
             },
             {
               "word": "相",
               "pinyin": "xiāng",
-              "meaning": "副词，表示动作交互，互相",
-              "type": "虚词"
+              "meaning": "此处读 xiāng，副词，表示动作交互，互相。",
+              "type": "虚词",
+              "highlight": "polyphone"
             },
             {
               "word": "搏",
               "pinyin": "bó",
-              "meaning": "搏斗，激烈交战",
+              "meaning": "动词，搏斗、交战。",
               "type": "实词"
             },
             {
               "word": "山川",
               "pinyin": "shān chuān",
-              "meaning": "山岳与河流",
+              "meaning": "名词，山岳与河流。",
               "type": "实词"
             },
             {
               "word": "震眩",
               "pinyin": "zhèn xuàn",
-              "meaning": "震动而使人眩晕",
-              "type": "实词"
+              "meaning": "动词，震动而使人眼花、昏乱。‘眩’为罕用义：眼花、昏乱（非今义‘眩晕’）。",
+              "type": "实词",
+              "highlight": "rare"
             },
             {
               "word": "声",
               "pinyin": "shēng",
-              "meaning": "声音，指战场上厮杀呐喊之声",
+              "meaning": "名词，声音。",
               "type": "实词"
             },
             {
               "word": "析",
               "pinyin": "xī",
-              "meaning": "撕裂，劈开",
+              "meaning": "动词，劈开、撕裂。",
               "type": "实词"
             },
             {
               "word": "江河",
               "pinyin": "jiāng hé",
-              "meaning": "特指长江与黄河，此处泛指大河",
+              "meaning": "名词，长江与黄河，泛指大河。",
               "type": "实词"
             },
             {
               "word": "势",
               "pinyin": "shì",
-              "meaning": "气势，威势",
+              "meaning": "名词，声势、气势。",
               "type": "实词"
             },
             {
               "word": "崩",
               "pinyin": "bēng",
-              "meaning": "崩裂，崩塌",
+              "meaning": "动词，崩塌、崩裂。",
               "type": "实词"
             },
             {
               "word": "雷电",
               "pinyin": "léi diàn",
-              "meaning": "雷与闪电",
+              "meaning": "名词，雷与闪电。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "至若穷阴凝闭，凛冽海隅，积雪没胫，坚冰在须；鸷鸟休巢，征马踟蹰；缯纩无温，堕指裂肤。",
-          "translation": "至于阴云密布，天气凝滞，海边寒冷刺骨，积雪淹没小腿，胡须上结坚冰；凶猛的鸟停止巢穴，战马徘徊不前；丝绵衣服没有温暖，手指冻掉，皮肤冻裂。",
+          "translation": "至于阴云密布，寒冷到海边，积雪淹没小腿，坚冰挂在胡须上；凶猛的鸟停止巢穴，战马徘徊不前；丝棉衣服没有温暖，手指冻掉，皮肤冻裂。",
           "words": [
             {
               "word": "至若",
               "pinyin": "zhì ruò",
-              "meaning": "固定结构，表示话题转换，相当于'至于'，引出下文对苦寒环境的描写",
-              "type": "虚词"
+              "meaning": "固定结构，发语词，用于引起下文论题，相当于‘至于’。",
+              "type": "虚词",
+              "highlight": "fixed"
             },
             {
               "word": "穷阴",
               "pinyin": "qióng yīn",
-              "meaning": "极阴，指极其阴沉寒冷的天气",
+              "meaning": "名词，指隆冬极阴的天气。",
               "type": "实词"
             },
             {
               "word": "凝闭",
               "pinyin": "níng bì",
-              "meaning": "凝结闭塞，形容天寒地冻，天地间气息不通",
+              "meaning": "动词，（天气）凝滞，阴云密布。",
               "type": "实词"
             },
             {
               "word": "凛冽",
               "pinyin": "lǐn liè",
-              "meaning": "刺骨的寒冷",
+              "meaning": "形容词，刺骨地寒冷。",
               "type": "实词"
             },
             {
               "word": "海隅",
               "pinyin": "hǎi yú",
-              "meaning": "海边，角落",
+              "meaning": "名词，海边，海角。",
               "type": "实词"
             },
             {
               "word": "积雪",
               "pinyin": "jī xuě",
-              "meaning": "堆积的雪",
+              "meaning": "名词，堆积的雪。",
               "type": "实词"
             },
             {
-              "word": "没胫",
-              "pinyin": "mò jìng",
-              "meaning": "淹没小腿。没，此处读 mò，义为淹没；胫，小腿",
+              "word": "没",
+              "pinyin": "mò",
+              "meaning": "此处读 mò，动词，淹没、盖过。",
+              "type": "实词",
+              "highlight": "polyphone"
+            },
+            {
+              "word": "胫",
+              "pinyin": "jìng",
+              "meaning": "名词，小腿。",
               "type": "实词"
             },
             {
               "word": "坚冰",
               "pinyin": "jiān bīng",
-              "meaning": "坚硬的冰",
+              "meaning": "名词，坚硬的冰。",
               "type": "实词"
             },
             {
-              "word": "在须",
-              "pinyin": "zài xū",
-              "meaning": "凝结在胡须上",
+              "word": "在",
+              "pinyin": "zài",
+              "meaning": "动词，附着、凝结在。",
+              "type": "实词"
+            },
+            {
+              "word": "须",
+              "pinyin": "xū",
+              "meaning": "名词，胡须。",
               "type": "实词"
             },
             {
               "word": "鸷鸟",
               "pinyin": "zhì niǎo",
-              "meaning": "凶猛的鸟，如鹰鹯之类",
+              "meaning": "名词，凶猛的鸟，如鹰鹯之类。",
               "type": "实词"
             },
             {
               "word": "休巢",
               "pinyin": "xiū cháo",
-              "meaning": "停止（出巢活动），躲在巢中",
+              "meaning": "动词，停止出巢，躲在巢中。",
               "type": "实词"
             },
             {
               "word": "征马",
               "pinyin": "zhēng mǎ",
-              "meaning": "出征的战马",
+              "meaning": "名词，战马。",
               "type": "实词"
             },
             {
               "word": "踟蹰",
               "pinyin": "chí chú",
-              "meaning": "徘徊不前，因寒冷而畏缩不进",
+              "meaning": "动词，徘徊不前，犹豫不进。",
               "type": "实词"
             },
             {
               "word": "缯纩",
               "pinyin": "zēng kuàng",
-              "meaning": "缯，丝织品；纩，棉絮。泛指丝绵等御寒衣物",
+              "meaning": "名词，缯是丝织品，纩是棉絮，泛指丝绵衣服。",
               "type": "实词"
             },
             {
               "word": "无温",
               "pinyin": "wú wēn",
-              "meaning": "没有温暖",
+              "meaning": "动词，没有温暖。",
               "type": "实词"
             },
             {
               "word": "堕指",
               "pinyin": "duò zhǐ",
-              "meaning": "手指冻掉。堕，通'隳'，毁坏、脱落",
+              "meaning": "动宾结构，手指冻掉。",
               "type": "实词"
             },
             {
               "word": "裂肤",
               "pinyin": "liè fū",
-              "meaning": "皮肤冻裂",
+              "meaning": "动宾结构，皮肤冻裂。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "当此苦寒，天假强胡，凭陵杀气，以相翦屠。",
-          "translation": "在这苦寒之时，上天借给强胡机会，他们凭借杀气，来互相屠杀。",
+          "translation": "当这苦寒之时，天借给强大的胡人，凭借杀气，来互相剪除屠杀。",
           "words": [
             {
               "word": "当",
               "pinyin": "dāng",
-              "meaning": "介词，表时间，义为“在（那个时候）”",
+              "meaning": "介词，表示时间，相当于“在……时候”",
               "type": "虚词"
             },
             {
               "word": "此",
               "pinyin": "cǐ",
-              "meaning": "指示代词，指代前述“苦寒”的环境",
+              "meaning": "指示代词，指代前文描述的苦寒环境",
               "type": "虚词"
             },
             {
               "word": "苦寒",
               "pinyin": "kǔ hán",
-              "meaning": "极端寒冷的气候",
+              "meaning": "严寒、酷寒",
               "type": "实词"
             },
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "上天，大自然",
+              "meaning": "上天、苍天",
               "type": "实词"
             },
             {
               "word": "假",
               "pinyin": "jiǎ",
-              "meaning": "此处读 jiǎ，义为借给、给予（机会）",
-              "type": "实词"
+              "meaning": "罕用义：借给、赐予（非今义“虚假”或“假期”）",
+              "type": "实词",
+              "highlight": "rare"
             },
             {
               "word": "强胡",
               "pinyin": "qiáng hú",
-              "meaning": "强悍的北方游牧民族",
+              "meaning": "强悍的胡人（古代对北方民族的泛称）",
               "type": "实词"
             },
             {
               "word": "凭陵",
               "pinyin": "píng líng",
-              "meaning": "凭借，倚仗",
+              "meaning": "凭借、倚仗",
               "type": "实词"
             },
             {
               "word": "杀气",
               "pinyin": "shā qì",
-              "meaning": "肃杀之气，指严寒的气候条件",
+              "meaning": "肃杀之气，指战争氛围",
               "type": "实词"
             },
             {
               "word": "以",
               "pinyin": "yǐ",
-              "meaning": "连词，表目的，义为“来”、“用来”",
+              "meaning": "连词，表示目的，相当于“来”",
               "type": "虚词"
             },
             {
               "word": "相",
               "pinyin": "xiāng",
-              "meaning": "副词，表示动作行为是交互的，义为“互相”",
+              "meaning": "副词，表示互相",
               "type": "虚词"
             },
             {
               "word": "翦屠",
               "pinyin": "jiǎn tú",
-              "meaning": "剪灭屠杀",
+              "meaning": "剪除屠杀",
               "type": "实词"
             }
           ]
         },
         {
           "original": "径截辎重，横攻士卒。",
-          "translation": "直接截取军用物资，横向攻击士兵。",
+          "translation": "直接截击辎重，横向攻击士兵。",
           "words": [
             {
-              "word": "径截",
-              "pinyin": "jìng jié",
-              "meaning": "直接截击",
+              "word": "径",
+              "pinyin": "jìng",
+              "meaning": "副词，径直、直接",
+              "type": "虚词"
+            },
+            {
+              "word": "截",
+              "pinyin": "jié",
+              "meaning": "拦截",
               "type": "实词"
             },
             {
               "word": "辎重",
               "pinyin": "zī zhòng",
-              "meaning": "行军时携带的军械、粮草、被服等物资",
+              "meaning": "军用物资",
               "type": "实词"
             },
             {
-              "word": "横攻",
-              "pinyin": "héng gōng",
-              "meaning": "横向攻击，拦腰攻击",
+              "word": "横",
+              "pinyin": "héng",
+              "meaning": "副词，横向、拦腰",
+              "type": "虚词"
+            },
+            {
+              "word": "攻",
+              "pinyin": "gōng",
+              "meaning": "攻击",
               "type": "实词"
             },
             {
@@ -1424,37 +1513,45 @@
         },
         {
           "original": "都尉新降，将军覆没。",
-          "translation": "都尉刚刚投降，将军覆灭。",
+          "translation": "都尉刚刚投降，将军全军覆没。",
           "words": [
             {
               "word": "都尉",
               "pinyin": "dū wèi",
-              "meaning": "古代武官职位，次于将军的军官，负责军事事务",
+              "meaning": "古代武官职位，秦汉时为郡级军事长官，此处指战败投降的军官",
               "type": "官职"
             },
             {
               "word": "新",
               "pinyin": "xīn",
-              "meaning": "刚刚，表示投降的时间不久，修饰'降'",
+              "meaning": "新近、刚刚",
               "type": "实词"
             },
             {
               "word": "降",
               "pinyin": "xiáng",
-              "meaning": "此处读 xiáng，义为投降、归顺敌方",
-              "type": "实词"
+              "meaning": "此处读 xiáng，义为投降、归顺",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "将军",
               "pinyin": "jiāng jūn",
-              "meaning": "高级武官，统领军队的将领，职位高于都尉",
+              "meaning": "高级武官，统率军队，此处指战死的将领",
               "type": "官职"
             },
             {
-              "word": "覆没",
-              "pinyin": "fù mò",
-              "meaning": "军队被消灭，全军覆灭，指将军战死或被俘",
+              "word": "覆",
+              "pinyin": "fù",
+              "meaning": "覆灭、灭亡",
               "type": "实词"
+            },
+            {
+              "word": "没",
+              "pinyin": "mò",
+              "meaning": "此处读 mò，义为覆灭、淹没",
+              "type": "实词",
+              "highlight": "polyphone"
             }
           ]
         },
@@ -1465,175 +1562,177 @@
             {
               "word": "尸",
               "pinyin": "shī",
-              "meaning": "尸体，指战死者的遗体，堆积于战场",
+              "meaning": "尸体",
               "type": "实词"
             },
             {
               "word": "填",
               "pinyin": "tián",
-              "meaning": "填满、堆积，形容尸体众多",
+              "meaning": "填满、堆积",
               "type": "实词"
             },
             {
               "word": "巨",
               "pinyin": "jù",
-              "meaning": "巨大，形容河流宽阔",
+              "meaning": "巨大",
               "type": "实词"
             },
             {
               "word": "港",
               "pinyin": "gǎng",
-              "meaning": "河流或水道，此处指大河",
+              "meaning": "河流、水道",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "结构助词，连接定语'巨港'和中心语'岸'，相当于'的'",
+              "meaning": "结构助词，用于连接定语和中心词，表示领属或修饰关系",
               "type": "虚词"
             },
             {
               "word": "岸",
               "pinyin": "àn",
-              "meaning": "水边的陆地，岸边",
+              "meaning": "河岸、水边",
               "type": "实词"
             },
             {
               "word": "血",
               "pinyin": "xuè",
-              "meaning": "血液，指战士流出的血，布满地面",
+              "meaning": "血液",
               "type": "实词"
             },
             {
               "word": "满",
               "pinyin": "mǎn",
-              "meaning": "充满、布满，形容血液浸透",
+              "meaning": "充满、布满",
               "type": "实词"
             },
             {
               "word": "长城",
               "pinyin": "cháng chéng",
-              "meaning": "古代中国修建的军事防御工程，横跨北方边境，用于抵御外敌",
+              "meaning": "古代中国修建的军事防御工程，横跨北方边境，此处指战场附近的长城段",
               "type": "地名"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "结构助词，连接定语'长城'和中心语'窟'，相当于'的'",
+              "meaning": "结构助词，用于连接定语和中心词，表示领属或修饰关系",
               "type": "虚词"
             },
             {
               "word": "窟",
               "pinyin": "kū",
-              "meaning": "洞穴或凹陷处，此处指城墙下的孔洞或血坑",
+              "meaning": "洞穴、窟窿",
               "type": "实词"
             }
           ]
         },
         {
           "original": "无贵无贱，同为枯骨。",
-          "translation": "无论高贵低贱，都成为枯骨。",
+          "translation": "无论贵贱，同样成为枯骨。",
           "words": [
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "连词，无论、不分。与后文‘无’构成‘无…无…’固定结构，表示排除一切条件。",
-              "type": "虚词"
+              "meaning": "动词，没有、不分",
+              "type": "实词"
             },
             {
               "word": "贵",
               "pinyin": "guì",
-              "meaning": "形容词，地位尊贵、显赫。",
+              "meaning": "形容词，尊贵",
               "type": "实词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "连词，无论、不分。与前文‘无’呼应。",
-              "type": "虚词"
+              "meaning": "动词，没有、不分",
+              "type": "实词"
             },
             {
               "word": "贱",
               "pinyin": "jiàn",
-              "meaning": "形容词，地位卑贱、低微。",
+              "meaning": "形容词，卑贱",
               "type": "实词"
             },
             {
               "word": "同",
               "pinyin": "tóng",
-              "meaning": "副词，同样、一起。",
+              "meaning": "副词，同样",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "动词，成为、化为。",
-              "type": "实词"
+              "meaning": "此处读wéi，义为成为",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "枯骨",
               "pinyin": "kū gǔ",
-              "meaning": "名词，腐烂的尸骨。",
+              "meaning": "枯朽的骨头",
               "type": "实词"
             }
           ]
         },
         {
           "original": "可胜言哉！",
-          "translation": "能说得完吗！",
+          "translation": "怎能说得完啊！",
           "words": [
             {
               "word": "可",
               "pinyin": "kě",
-              "meaning": "能愿动词，可以、能够。",
+              "meaning": "能愿动词，可以",
               "type": "实词"
             },
             {
               "word": "胜",
-              "pinyin": "shēng",
-              "meaning": "此处读 shēng，动词，尽、完。",
-              "type": "实词"
+              "pinyin": "shèng",
+              "meaning": "此处读shèng，义为尽、完",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "动词，说、描述。",
+              "meaning": "动词，说",
               "type": "实词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "句末语气助词，与‘可’呼应，表反问或感叹，相当于‘呢’、‘啊’。",
+              "meaning": "句末语气词，表感叹",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "鼓衰兮力竭，矢竭兮弦绝，白刃交兮宝刀折，两军蹙兮生死决。",
-          "translation": "鼓声衰弱啊力气耗尽，箭矢用尽啊弓弦断绝，白刃相交啊宝刀折断，两军逼近啊生死决战。",
+          "translation": "鼓声衰弱啊力量耗尽，箭矢用尽啊弓弦断绝，白刃相交啊宝刀折断，两军逼近啊生死决战。",
           "words": [
             {
               "word": "鼓",
               "pinyin": "gǔ",
-              "meaning": "名词，战鼓，古代指挥军队进退的乐器",
+              "meaning": "名词，战鼓",
               "type": "实词"
             },
             {
               "word": "衰",
               "pinyin": "shuāi",
-              "meaning": "形容词，衰弱、微弱，形容鼓声由强转弱",
+              "meaning": "形容词，衰弱、微弱",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气助词，用于句中或句末，表示咏叹或语气停顿，增强节奏感",
+              "meaning": "语气词，用于句中或句末，表示咏叹或停顿，相当于现代汉语的‘啊’、‘呀’",
               "type": "虚词"
             },
             {
               "word": "力",
               "pinyin": "lì",
-              "meaning": "名词，力气、体力",
+              "meaning": "名词，力气、力量",
               "type": "实词"
             },
             {
@@ -1651,13 +1750,13 @@
             {
               "word": "竭",
               "pinyin": "jié",
-              "meaning": "动词，用尽、耗尽",
+              "meaning": "动词，用尽、穷尽",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气助词，用于句中或句末，表示咏叹或语气停顿，增强节奏感",
+              "meaning": "语气词，用于句中或句末，表示咏叹或停顿，相当于现代汉语的‘啊’、‘呀’",
               "type": "虚词"
             },
             {
@@ -1675,7 +1774,7 @@
             {
               "word": "白刃",
               "pinyin": "bái rèn",
-              "meaning": "名词，锋利的刀剑，因刀刃反光呈白色，故称",
+              "meaning": "名词词组，锋利的刀剑",
               "type": "实词"
             },
             {
@@ -1687,13 +1786,13 @@
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气助词，用于句中或句末，表示咏叹或语气停顿，增强节奏感",
+              "meaning": "语气词，用于句中或句末，表示咏叹或停顿，相当于现代汉语的‘啊’、‘呀’",
               "type": "虚词"
             },
             {
               "word": "宝刀",
               "pinyin": "bǎo dāo",
-              "meaning": "名词，珍贵的战刀",
+              "meaning": "名词词组，珍贵的战刀",
               "type": "实词"
             },
             {
@@ -1705,38 +1804,39 @@
             {
               "word": "两军",
               "pinyin": "liǎng jūn",
-              "meaning": "名词，对峙的双方军队",
+              "meaning": "名词词组，敌对双方的军队",
               "type": "实词"
             },
             {
               "word": "蹙",
               "pinyin": "cù",
-              "meaning": "动词，迫近、逼近，形容两军激烈交锋、短兵相接",
-              "type": "实词"
+              "meaning": "罕用义：逼近、迫近（非今义‘皱眉’或‘收缩’）。此处指两军近距离对峙、迫近",
+              "type": "实词",
+              "highlight": "rare"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气助词，用于句中或句末，表示咏叹或语气停顿，增强节奏感",
+              "meaning": "语气词，用于句中或句末，表示咏叹或停顿，相当于现代汉语的‘啊’、‘呀’",
               "type": "虚词"
             },
             {
               "word": "生死",
               "pinyin": "shēng sǐ",
-              "meaning": "名词，生存与死亡，此处指决定生死的关键时刻",
+              "meaning": "名词词组，生存与死亡",
               "type": "实词"
             },
             {
               "word": "决",
               "pinyin": "jué",
-              "meaning": "动词，决断、决战",
+              "meaning": "动词，决战、决定（胜负）",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "降矣哉？终身夷狄。",
-          "translation": "投降吗？终身成为夷狄。",
+          "original": "降矣哉？终身夷狄。战矣哉？骨暴沙砾。",
+          "translation": "投降吗？终身成为夷狄。战斗吗？骨头暴露在沙砾中。",
           "words": [
             {
               "word": "降",
@@ -1747,79 +1847,74 @@
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "语气助词，用于句末，表示已然或将然的陈述语气，此处与'哉'连用，加强假设语气",
+              "meaning": "语气词，表示已然或肯定，此处与‘哉’连用，加强反问语气",
               "type": "虚词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "语气助词，用于句末，常与疑问词或假设语气配合，表示反问或感叹，此处表假设性反问",
+              "meaning": "语气词，表示感叹或反问，此处与‘矣’连用，构成‘矣哉’句式，表强烈反问",
               "type": "虚词"
             },
             {
               "word": "终身",
               "pinyin": "zhōng shēn",
-              "meaning": "副词，一辈子、一生",
+              "meaning": "名词词组，一辈子、一生",
               "type": "实词"
             },
             {
               "word": "夷狄",
               "pinyin": "yí dí",
-              "meaning": "名词，古代对中原以外少数民族的泛称，含有文化差异与文明对立的意味，此处指投降后将终身被视为异族",
+              "meaning": "名词词组，古代对东方和北方少数民族的称呼，常含贬义，此处泛指异族之地",
               "type": "实词"
-            }
-          ]
-        },
-        {
-          "original": "战矣哉？骨暴沙砾。",
-          "translation": "战斗吗？尸骨暴露在沙砾中。",
-          "words": [
+            },
             {
               "word": "战",
               "pinyin": "zhàn",
-              "meaning": "动词，进行战争、战斗",
+              "meaning": "动词，战斗、作战",
               "type": "实词"
             },
             {
               "word": "矣",
               "pinyin": "yǐ",
-              "meaning": "语气词，表示陈述或感叹，此处与‘哉’连用加强反问语气",
+              "meaning": "语气词，表示已然或肯定，此处与‘哉’连用，加强反问语气",
               "type": "虚词"
             },
             {
               "word": "哉",
               "pinyin": "zāi",
-              "meaning": "语气词，与‘矣’连用构成‘矣哉’，表示强烈的反问或感叹",
+              "meaning": "语气词，表示感叹或反问，此处与‘矣’连用，构成‘矣哉’句式，表强烈反问",
               "type": "虚词"
             },
             {
               "word": "骨",
               "pinyin": "gǔ",
-              "meaning": "名词，尸骨",
+              "meaning": "名词，尸骨、骸骨",
               "type": "实词"
             },
             {
               "word": "暴",
               "pinyin": "pù",
-              "meaning": "通‘曝’，义为暴露、显露",
-              "type": "实词"
+              "meaning": "此处读 pù，通‘曝’，义为暴露、显露",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "沙砾",
               "pinyin": "shā lì",
-              "meaning": "名词，沙子和碎石",
+              "meaning": "名词词组，沙子和碎石",
               "type": "实词"
             }
           ]
         },
         {
           "original": "鸟无声兮山寂寂，夜正长兮风淅淅。",
-          "translation": "鸟无声啊山寂静，夜正长啊风声淅淅。",
+          "translation": "鸟无声啊山寂静，夜正长啊风淅淅。",
           "words": [
             {
               "word": "鸟",
               "pinyin": "niǎo",
-              "meaning": "名词，飞禽的总称",
+              "meaning": "飞鸟，泛指鸟类",
               "type": "实词"
             },
             {
@@ -1831,205 +1926,241 @@
             {
               "word": "声",
               "pinyin": "shēng",
-              "meaning": "名词，声音",
+              "meaning": "声音",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气助词，用于句中或句末，舒缓节奏，表咏叹，相当于‘啊’或‘呀’",
+              "meaning": "语气词，用于句中或句末，表示停顿或感叹，增强咏叹语气",
               "type": "虚词"
             },
             {
               "word": "山",
               "pinyin": "shān",
-              "meaning": "名词，山峦",
+              "meaning": "山峦",
               "type": "实词"
             },
             {
               "word": "寂寂",
               "pinyin": "jì jì",
-              "meaning": "形容词，寂静无声的样子",
+              "meaning": "寂静无声的样子",
               "type": "实词"
             },
             {
               "word": "夜",
               "pinyin": "yè",
-              "meaning": "名词，从天黑到天亮的一段时间",
+              "meaning": "夜晚",
               "type": "实词"
             },
             {
               "word": "正",
               "pinyin": "zhèng",
-              "meaning": "副词，表示动作或状态正在进行，正值",
-              "type": "实词"
+              "meaning": "副词，正在",
+              "type": "虚词"
             },
             {
               "word": "长",
               "pinyin": "cháng",
-              "meaning": "形容词，指时间久、漫长",
+              "meaning": "漫长",
               "type": "实词"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词，用于句中或句末，表示停顿或感叹，增强咏叹语气",
+              "type": "虚词"
             },
             {
               "word": "风",
               "pinyin": "fēng",
-              "meaning": "名词，空气流动的现象",
+              "meaning": "风声",
               "type": "实词"
             },
             {
               "word": "淅淅",
               "pinyin": "xī xī",
-              "meaning": "拟声词，形容风声、雨声或轻微的摩擦声",
+              "meaning": "拟声词，形容风声",
               "type": "实词"
             }
           ]
         },
         {
           "original": "魂魄结兮天沉沉，鬼神聚兮云幂幂。",
-          "translation": "魂魄聚集啊天色阴沉，鬼神聚集啊云层密布。",
+          "translation": "魂魄凝结啊天阴沉，鬼神聚集啊云笼罩。",
           "words": [
             {
               "word": "魂魄",
               "pinyin": "hún pò",
-              "meaning": "指人的精神灵气，此处特指战死者的灵魂。",
+              "meaning": "指人的灵魂、精神",
               "type": "实词"
             },
             {
               "word": "结",
               "pinyin": "jié",
-              "meaning": "纠结，凝聚。形容战场上亡魂众多，相互缠绕。",
+              "meaning": "凝聚、聚集",
               "type": "实词"
             },
             {
               "word": "兮",
               "pinyin": "xī",
-              "meaning": "语气助词，用于句中表示停顿和咏叹，增强抒情效果。",
+              "meaning": "语气词，用于句中或句末，表示停顿或感叹，增强咏叹语气",
               "type": "虚词"
             },
             {
               "word": "天",
               "pinyin": "tiān",
-              "meaning": "天空。此处形容战场上方的天空。",
+              "meaning": "天空",
               "type": "实词"
             },
             {
               "word": "沉沉",
               "pinyin": "chén chén",
-              "meaning": "形容天色阴沉黑暗的样子。",
+              "meaning": "形容天色阴沉昏暗的样子",
               "type": "实词"
             },
             {
               "word": "鬼神",
               "pinyin": "guǐ shén",
-              "meaning": "泛指鬼怪神灵。此处指战场上聚集的鬼魂与神异之气。",
+              "meaning": "鬼怪和神灵",
               "type": "实词"
             },
             {
               "word": "聚",
               "pinyin": "jù",
-              "meaning": "聚集。形容鬼魂与阴气汇集。",
+              "meaning": "集合、汇集",
               "type": "实词"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词，用于句中或句末，表示停顿或感叹，增强咏叹语气",
+              "type": "虚词"
             },
             {
               "word": "云",
               "pinyin": "yún",
-              "meaning": "云层。此处指战场上浓密的云。",
+              "meaning": "云层",
               "type": "实词"
             },
             {
               "word": "幂幂",
               "pinyin": "mì mì",
-              "meaning": "形容云层浓密覆盖的样子。",
+              "meaning": "形容阴云覆盖浓密的样子",
               "type": "实词"
             }
           ]
         },
         {
           "original": "日光寒兮草短，月色苦兮霜白。",
-          "translation": "日光寒冷啊草短枯，月色凄苦啊霜洁白。",
+          "translation": "日光寒冷啊草短，月色凄苦啊霜白。",
           "words": [
             {
               "word": "日光",
               "pinyin": "rì guāng",
-              "meaning": "阳光。此处指战场上寒冷、缺乏暖意的阳光。",
+              "meaning": "太阳光",
               "type": "实词"
             },
             {
               "word": "寒",
               "pinyin": "hán",
-              "meaning": "寒冷。形容日光给人的感觉。",
+              "meaning": "寒冷",
               "type": "实词"
+            },
+            {
+              "word": "兮",
+              "pinyin": "xī",
+              "meaning": "语气词，用于诗歌中表示停顿或感叹，增强抒情语气",
+              "type": "虚词"
             },
             {
               "word": "草",
               "pinyin": "cǎo",
-              "meaning": "草。此处指战场上枯萎的草。",
+              "meaning": "草",
               "type": "实词"
             },
             {
               "word": "短",
               "pinyin": "duǎn",
-              "meaning": "短小、枯萎。形容草因寒冷而凋零的状态。",
+              "meaning": "短小",
               "type": "实词"
             },
             {
               "word": "月色",
               "pinyin": "yuè sè",
-              "meaning": "月光。此处指战场上凄清惨淡的月光。",
+              "meaning": "月光",
               "type": "实词"
             },
             {
               "word": "苦",
               "pinyin": "kǔ",
-              "meaning": "凄苦、惨淡。形容月光给人的感觉。",
+              "meaning": "苦涩",
               "type": "实词"
             },
             {
               "word": "霜",
               "pinyin": "shuāng",
-              "meaning": "白霜。此处指战场上凝结的霜。",
+              "meaning": "霜",
               "type": "实词"
             },
             {
               "word": "白",
               "pinyin": "bái",
-              "meaning": "白色。形容霜的颜色，渲染凄冷氛围。",
+              "meaning": "白色",
               "type": "实词"
             }
           ]
         },
         {
           "original": "伤心惨目，有如是耶！",
-          "translation": "伤心惨目，竟有这样的吗！",
+          "translation": "伤心惨目，竟有如此景象啊！",
           "words": [
             {
-              "word": "伤心",
-              "pinyin": "shāng xīn",
-              "meaning": "使人心情悲伤",
+              "word": "伤",
+              "pinyin": "shāng",
+              "meaning": "伤害，使悲伤",
               "type": "实词"
             },
             {
-              "word": "惨目",
-              "pinyin": "cǎn mù",
-              "meaning": "景象凄惨，使人目不忍视",
+              "word": "心",
+              "pinyin": "xīn",
+              "meaning": "心，内心",
+              "type": "实词"
+            },
+            {
+              "word": "惨",
+              "pinyin": "cǎn",
+              "meaning": "悲惨，凄惨",
+              "type": "实词"
+            },
+            {
+              "word": "目",
+              "pinyin": "mù",
+              "meaning": "眼睛，视觉",
               "type": "实词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "存在，发生",
+              "meaning": "存在，有",
               "type": "实词"
             },
             {
-              "word": "如是",
-              "pinyin": "rú shì",
-              "meaning": "固定结构，指代前文所述的悲惨景象，意为'像这样'",
+              "word": "如",
+              "pinyin": "rú",
+              "meaning": "像，如同",
+              "type": "实词"
+            },
+            {
+              "word": "是",
+              "pinyin": "shì",
+              "meaning": "代词，这样，指代前述'伤心惨目'的景象",
               "type": "虚词"
             },
             {
               "word": "耶",
               "pinyin": "yé",
-              "meaning": "句末语气词，表感叹，相当于'啊'",
+              "meaning": "句末语气词，表感叹或反问",
               "type": "虚词"
             }
           ]
@@ -2038,113 +2169,151 @@
     },
     {
       "original": "吾闻之：牧用赵卒，大破林胡，开地千里，遁逃匈奴。汉倾天下，财殚力痡。",
-      "translation": "我听说，李牧率领赵国士兵大败林胡，开拓疆土千里，使匈奴逃遁；而汉朝倾尽全国之力，却落得财力耗尽、民力疲敝。",
+      "translation": "我听说：李牧率领赵国士兵，大败林胡，开拓千里疆土，击退匈奴。而汉朝倾尽全国之力，却落得财力枯竭、民力疲敝。",
       "sentences": [
         {
           "original": "吾闻之：牧用赵卒，大破林胡，开地千里，遁逃匈奴。",
-          "translation": "我听说：李牧使用赵国士兵，大败林胡，开拓疆土千里，使匈奴逃跑。",
+          "translation": "我听说：李牧率领赵国士兵，大败林胡，开拓千里疆土，击退匈奴。",
           "words": [
             {
               "word": "吾",
               "pinyin": "wú",
-              "meaning": "第一人称代词，我。此处作句子主语。",
+              "meaning": "第一人称代词，我",
               "type": "虚词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "动词，听说。",
+              "meaning": "听说",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指代下文所述关于李牧和汉朝的史事。",
+              "meaning": "代词，指代下文提到的内容（即‘牧用赵卒……遁逃匈奴’这件事）",
               "type": "虚词"
             },
             {
               "word": "牧",
               "pinyin": "mù",
-              "meaning": "战国末期赵国名将李牧，曾大破匈奴、林胡。",
-              "type": "人名"
+              "meaning": "古义：指李牧，战国时期赵国名将（非今义‘放牧’）",
+              "type": "人名",
+              "highlight": "ancient_today"
             },
             {
               "word": "用",
               "pinyin": "yòng",
-              "meaning": "动词，任用、使用。",
+              "meaning": "任用，使用",
               "type": "实词"
             },
             {
-              "word": "赵卒",
-              "pinyin": "zhào zú",
-              "meaning": "赵国的士兵。",
+              "word": "赵",
+              "pinyin": "zhào",
+              "meaning": "战国七雄之一，都城在邯郸（今河北邯郸）",
+              "type": "地名"
+            },
+            {
+              "word": "卒",
+              "pinyin": "zú",
+              "meaning": "士兵",
               "type": "实词"
             },
             {
-              "word": "大破",
-              "pinyin": "dà pò",
-              "meaning": "彻底击败、击溃。",
+              "word": "大",
+              "pinyin": "dà",
+              "meaning": "副词，表示程度深，大规模地",
+              "type": "虚词"
+            },
+            {
+              "word": "破",
+              "pinyin": "pò",
+              "meaning": "击败，打败",
               "type": "实词"
             },
             {
               "word": "林胡",
               "pinyin": "lín hú",
-              "meaning": "古代北方游牧民族名，活动于战国时期赵国北部。",
+              "meaning": "古代北方游牧民族名，匈奴的一支",
               "type": "地名"
             },
             {
-              "word": "开地",
-              "pinyin": "kāi dì",
-              "meaning": "开拓疆土。",
+              "word": "开",
+              "pinyin": "kāi",
+              "meaning": "开拓，扩展",
+              "type": "实词"
+            },
+            {
+              "word": "地",
+              "pinyin": "dì",
+              "meaning": "疆土，领土",
               "type": "实词"
             },
             {
               "word": "千里",
               "pinyin": "qiān lǐ",
-              "meaning": "数词与量词组合，形容地域极其辽阔。",
+              "meaning": "形容地域极其辽阔",
               "type": "实词"
             },
             {
               "word": "遁逃",
               "pinyin": "dùn táo",
-              "meaning": "使动用法，使…逃跑。此处指李牧的军事行动迫使匈奴败逃。",
+              "meaning": "使动用法，使…逃跑，即赶跑、驱逐",
               "type": "实词"
             },
             {
               "word": "匈奴",
               "pinyin": "xiōng nú",
-              "meaning": "古代活跃于蒙古高原的游牧民族，秦汉时期为中原王朝的主要边患。",
+              "meaning": "古代活跃于北方蒙古高原的游牧民族",
               "type": "地名"
             }
           ]
         },
         {
           "original": "汉倾天下，财殚力痡。",
-          "translation": "汉朝倾尽天下之力，财力耗尽，民力疲敝。",
+          "translation": "汉朝倾尽天下之力，财力枯竭，民力疲病。",
           "words": [
             {
               "word": "汉",
               "pinyin": "hàn",
-              "meaning": "朝代名，指汉朝（前202-220年）。",
+              "meaning": "朝代名，此处指西汉",
+              "type": "地名"
+            },
+            {
+              "word": "倾",
+              "pinyin": "qīng",
+              "meaning": "倾尽，用尽",
               "type": "实词"
             },
             {
-              "word": "倾天下",
-              "pinyin": "qīng tiān xià",
-              "meaning": "倾尽全国的人力物力。",
+              "word": "天下",
+              "pinyin": "tiān xià",
+              "meaning": "指全国的人力物力",
               "type": "实词"
             },
             {
-              "word": "财殚",
-              "pinyin": "cái dān",
-              "meaning": "财力耗尽。殚，尽、竭。",
+              "word": "财",
+              "pinyin": "cái",
+              "meaning": "财力，财富",
               "type": "实词"
             },
             {
-              "word": "力痡",
-              "pinyin": "lì pū",
-              "meaning": "人力疲敝。痡，病、疲困。",
+              "word": "殚",
+              "pinyin": "dān",
+              "meaning": "竭尽，用尽",
               "type": "实词"
+            },
+            {
+              "word": "力",
+              "pinyin": "lì",
+              "meaning": "力量，民力",
+              "type": "实词"
+            },
+            {
+              "word": "痡",
+              "pinyin": "pū",
+              "meaning": "罕用义：病，疲惫（此义现代汉语已不用）",
+              "type": "实词",
+              "highlight": "rare"
             }
           ]
         }
@@ -2152,40 +2321,34 @@
     },
     {
       "original": "任人而已，其在多乎？周逐猃狁，北至太原，既城朔方，全师而还。饮至策勋，和乐且闲，穆穆棣棣，君臣之间。秦起长城，竟海为关，荼毒生灵，万里朱殷。",
-      "translation": "关键在于任用人才罢了，难道在于数量多吗？周朝驱逐猃狁，向北到太原，在朔方筑城后，保全军队凯旋。庆功宴上记录功勋，君臣之间和谐安乐、庄重恭敬。而秦朝修建长城，直到海边设立关隘，残害百姓，万里疆土血染成暗红。",
+      "translation": "治国之道在于任用贤才，而不在于兵多将广。周朝驱逐猃狁，北至太原，筑城朔方后全师凯旋，庆功记勋，君臣和谐安乐，庄重恭敬。秦朝却修筑长城，直至海滨设关，残害生灵，致使万里疆土血染成河。",
       "sentences": [
         {
           "original": "任人而已，其在多乎？",
-          "translation": "关键在于任用人才罢了，难道在于数量多吗？",
+          "translation": "只是在于任用人才罢了，难道在于多吗？",
           "words": [
             {
               "word": "任",
               "pinyin": "rèn",
-              "meaning": "动词，任用、委任人才",
+              "meaning": "动词，任用、选拔",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "名词，人才、贤能之士",
+              "meaning": "名词，人才、贤能",
               "type": "实词"
             },
             {
-              "word": "而",
-              "pinyin": "ér",
-              "meaning": "连词，连接'任人'和'已'，表示顺承或限制关系",
-              "type": "虚词"
-            },
-            {
-              "word": "已",
-              "pinyin": "yǐ",
-              "meaning": "语气词，与'而'连用构成'而已'，表限制语气，相当于'罢了'",
+              "word": "而已",
+              "pinyin": "ér yǐ",
+              "meaning": "句末语气词，相当于'罢了'，表示限制",
               "type": "虚词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "代词，指代'任人'这件事",
+              "meaning": "语气词，表示反问，相当于'难道'",
               "type": "虚词"
             },
             {
@@ -2197,43 +2360,43 @@
             {
               "word": "多",
               "pinyin": "duō",
-              "meaning": "形容词，数量大，这里指任用人才的多少",
+              "meaning": "形容词，数量大、众多",
               "type": "实词"
             },
             {
               "word": "乎",
               "pinyin": "hū",
-              "meaning": "句末语气词，表疑问，相当于'吗'",
+              "meaning": "句末疑问语气词，相当于'吗'",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "周逐猃狁，北至太原，既城朔方，全师而还。",
-          "translation": "周朝驱逐猃狁，向北到太原，已经在朔方筑城，保全军队而还。",
+          "translation": "周朝驱逐猃狁，向北到达太原，在朔方筑城后，保全军队凯旋。",
           "words": [
             {
               "word": "周",
               "pinyin": "zhōu",
-              "meaning": "朝代名，指西周或东周时期，本文中指周朝",
+              "meaning": "朝代名，西周时期",
               "type": "地名"
             },
             {
               "word": "逐",
               "pinyin": "zhú",
-              "meaning": "动词，驱逐、追逐",
+              "meaning": "动词，驱逐、赶走",
               "type": "实词"
             },
             {
               "word": "猃狁",
               "pinyin": "xiǎn yǔn",
-              "meaning": "古代北方少数民族，周朝时活跃于今陕西、甘肃一带，常侵扰中原",
+              "meaning": "古代北方游牧民族，又称北狄",
               "type": "地名"
             },
             {
               "word": "北",
               "pinyin": "běi",
-              "meaning": "方位名词作状语，向北",
+              "meaning": "方位词，向北、北方",
               "type": "实词"
             },
             {
@@ -2245,31 +2408,31 @@
             {
               "word": "太原",
               "pinyin": "tài yuán",
-              "meaning": "地名，周朝时指今宁夏固原或山西太原一带，为北方要地",
+              "meaning": "地名，在今宁夏固原一带，周朝边疆",
               "type": "地名"
             },
             {
               "word": "既",
               "pinyin": "jì",
-              "meaning": "副词，已经，表示动作完成",
+              "meaning": "副词，已经",
               "type": "虚词"
             },
             {
               "word": "城",
               "pinyin": "chéng",
-              "meaning": "名词作动词，筑城、修建城墙",
+              "meaning": "动词，筑城（名词活用为动词）",
               "type": "实词"
             },
             {
               "word": "朔方",
               "pinyin": "shuò fāng",
-              "meaning": "地名，北方，周朝时指今内蒙古一带的边疆地区",
+              "meaning": "地名，在今内蒙古杭锦旗一带，周朝北方",
               "type": "地名"
             },
             {
               "word": "全",
               "pinyin": "quán",
-              "meaning": "动词，保全、使完整无损",
+              "meaning": "形容词，完整、保全",
               "type": "实词"
             },
             {
@@ -2281,14 +2444,15 @@
             {
               "word": "而",
               "pinyin": "ér",
-              "meaning": "连词，连接'全师'和'还'，表示顺承关系",
+              "meaning": "连词，连接状语和中心词，表示方式或结果",
               "type": "虚词"
             },
             {
               "word": "还",
               "pinyin": "huán",
-              "meaning": "动词，返回、回师",
-              "type": "实词"
+              "meaning": "此处读 huán，义为返回（区别于 hái 之'仍然'义）",
+              "type": "实词",
+              "highlight": "polyphone"
             }
           ]
         },
@@ -2299,128 +2463,132 @@
             {
               "word": "饮至",
               "pinyin": "yǐn zhì",
-              "meaning": "典故，古代征伐凯旋后，在宗庙饮酒庆功、祭告祖先的仪式。",
+              "meaning": "古代军队凯旋后在宗庙饮酒庆功的仪式，记录功勋",
               "type": "典故"
             },
             {
               "word": "策勋",
               "pinyin": "cè xūn",
-              "meaning": "动宾短语，记录功勋于简策。",
+              "meaning": "记录功勋",
               "type": "实词"
             },
             {
               "word": "和乐",
               "pinyin": "hé lè",
-              "meaning": "和谐安乐。",
-              "type": "实词"
+              "meaning": "和谐快乐，'乐'此处读lè，义为快乐（区别于yuè之'音乐'义）",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "且",
               "pinyin": "qiě",
-              "meaning": "连词，表并列，相当于“又”、“而且”。",
+              "meaning": "连词，表并列，连接'和乐'与'闲'，可译为'而且'",
               "type": "虚词"
             },
             {
               "word": "闲",
               "pinyin": "xián",
-              "meaning": "通‘娴’，文雅安详。",
+              "meaning": "安闲、悠闲",
               "type": "实词"
             },
             {
               "word": "穆穆棣棣",
               "pinyin": "mù mù dì dì",
-              "meaning": "形容词，形容仪容庄重恭敬、举止雍容娴雅的样子。",
-              "type": "实词"
+              "meaning": "出自《诗经·邶风·柏舟》，形容仪态端庄、和美",
+              "type": "典故"
             },
             {
               "word": "君臣",
               "pinyin": "jūn chén",
-              "meaning": "君主和臣子。",
+              "meaning": "君主和臣子",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "结构助词，相当于‘的’，连接定语‘君臣’和中心语‘间’。",
+              "meaning": "助词，表领属关系，相当于'的'",
               "type": "虚词"
             },
             {
               "word": "间",
               "pinyin": "jiān",
-              "meaning": "名词，之间、中间。",
+              "meaning": "之间、中间",
               "type": "实词"
             }
           ]
         },
         {
           "original": "秦起长城，竟海为关，荼毒生灵，万里朱殷。",
-          "translation": "秦朝修建长城，直到海边设立关隘，残害百姓，万里之地血染成暗红。",
+          "translation": "秦朝修建长城，直到海边设置关塞，残害百姓，万里之地血流成河。",
           "words": [
             {
               "word": "秦",
               "pinyin": "qín",
-              "meaning": "朝代名，中国历史上第一个大一统的中央集权制王朝（前221-前207）。",
+              "meaning": "战国七雄之一，后统一中国建立秦朝，此处指秦朝",
               "type": "地名"
             },
             {
               "word": "起",
               "pinyin": "qǐ",
-              "meaning": "动词，修建、建造。",
+              "meaning": "修建、建造",
               "type": "实词"
             },
             {
               "word": "长城",
               "pinyin": "cháng chéng",
-              "meaning": "古代巨型军事防御工程，秦朝连接并扩建以抵御北方游牧民族。",
+              "meaning": "指万里长城，古代防御工程",
               "type": "实词"
             },
             {
               "word": "竟",
               "pinyin": "jìng",
-              "meaning": "通‘境’，边界、疆界。",
-              "type": "实词"
+              "meaning": "通'境'，边界，此处用作动词，意为以...为边界",
+              "type": "实词",
+              "highlight": "loan"
             },
             {
               "word": "海",
               "pinyin": "hǎi",
-              "meaning": "此处指渤海或泛指大海。",
+              "meaning": "大海",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "动词，修筑、作为。",
-              "type": "实词"
+              "meaning": "此处读wéi，义为作为、当作",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "关",
               "pinyin": "guān",
-              "meaning": "名词，关隘、要塞。",
+              "meaning": "关隘、关口",
               "type": "实词"
             },
             {
               "word": "荼毒",
               "pinyin": "tú dú",
-              "meaning": "动词，残害、毒害。",
+              "meaning": "毒害、残害",
               "type": "实词"
             },
             {
               "word": "生灵",
               "pinyin": "shēng líng",
-              "meaning": "名词，百姓、人民；也泛指有生命之物。",
+              "meaning": "百姓、人民",
               "type": "实词"
             },
             {
               "word": "万里",
               "pinyin": "wàn lǐ",
-              "meaning": "数量词，形容范围极其广大。",
+              "meaning": "形容范围极广，指长城绵延万里",
               "type": "实词"
             },
             {
               "word": "朱殷",
               "pinyin": "zhū yān",
-              "meaning": "形容词，深红色。此处指血流遍地，土地被染成深红色。",
-              "type": "实词"
+              "meaning": "罕用义：赤黑色，形容血迹斑斑",
+              "type": "实词",
+              "highlight": "rare"
             }
           ]
         }
@@ -2428,88 +2596,89 @@
     },
     {
       "original": "汉击匈奴，虽得阴山，枕骸遍野，功不补患。",
-      "translation": "汉朝攻打匈奴，虽然夺取了阴山，但尸骨枕藉遍布原野，功绩不足以弥补祸患。",
+      "translation": "汉朝出击匈奴，虽夺得阴山之地，却尸骨枕藉遍野，功绩远不足以弥补灾祸。",
       "sentences": [
         {
           "original": "汉击匈奴，虽得阴山，枕骸遍野，功不补患。",
-          "translation": "汉朝攻打匈奴，虽然得到了阴山，但尸骨枕藉遍布原野，功绩不足以弥补祸患。",
+          "translation": "汉朝攻击匈奴，虽然得到了阴山，但尸骨遍野，功绩弥补不了祸患。",
           "words": [
             {
               "word": "汉",
               "pinyin": "hàn",
-              "meaning": "朝代名，指汉朝（前202-220），此处指汉朝军队",
+              "meaning": "朝代名，此处指西汉（前202-8年）。",
               "type": "地名"
             },
             {
               "word": "击",
               "pinyin": "jī",
-              "meaning": "动词，攻击、攻打",
+              "meaning": "攻击，攻打。",
               "type": "实词"
             },
             {
               "word": "匈奴",
               "pinyin": "xiōng nú",
-              "meaning": "古代北方游牧民族，汉代主要边患，此处指匈奴政权",
+              "meaning": "古代活跃于蒙古高原的游牧民族，汉代主要边患。",
               "type": "地名"
             },
             {
               "word": "虽",
               "pinyin": "suī",
-              "meaning": "连词，用在复句前一分句表示让步，相当于'虽然'，后文隐含转折",
+              "meaning": "连词，表转折，相当于“虽然”。",
               "type": "虚词"
             },
             {
               "word": "得",
               "pinyin": "dé",
-              "meaning": "动词，获得、占领",
+              "meaning": "获得，占领。",
               "type": "实词"
             },
             {
               "word": "阴山",
               "pinyin": "yīn shān",
-              "meaning": "山脉名，在今内蒙古中部，汉代与匈奴争夺的战略要地",
+              "meaning": "山脉名，横亘于内蒙古中部，汉代与匈奴争夺的战略要地。",
               "type": "地名"
             },
             {
-              "word": "枕骸",
-              "pinyin": "zhěn hái",
-              "meaning": "枕藉的尸骨，形容战死者尸体交错堆积",
+              "word": "枕",
+              "pinyin": "zhěn",
+              "meaning": "罕用义：指尸骨纵横相枕藉（非今义“枕头”或“枕着”）。",
+              "type": "实词",
+              "highlight": "rare"
+            },
+            {
+              "word": "骸",
+              "pinyin": "hái",
+              "meaning": "尸骨，骸骨。",
               "type": "实词"
             },
             {
-              "word": "遍",
-              "pinyin": "biàn",
-              "meaning": "动词，遍布、遍及",
-              "type": "实词"
-            },
-            {
-              "word": "野",
-              "pinyin": "yě",
-              "meaning": "名词，原野、郊外",
+              "word": "遍野",
+              "pinyin": "biàn yě",
+              "meaning": "遍布原野。",
               "type": "实词"
             },
             {
               "word": "功",
               "pinyin": "gōng",
-              "meaning": "名词，功绩、战功",
+              "meaning": "功绩，战功。",
               "type": "实词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "副词，表示否定，意为不能、无法",
+              "meaning": "否定副词，表示否定。",
               "type": "虚词"
             },
             {
               "word": "补",
               "pinyin": "bǔ",
-              "meaning": "动词，补偿、弥补",
+              "meaning": "弥补，补偿。",
               "type": "实词"
             },
             {
               "word": "患",
               "pinyin": "huàn",
-              "meaning": "名词，祸患、灾难",
+              "meaning": "祸患，灾难。",
               "type": "实词"
             }
           ]
@@ -2518,28 +2687,29 @@
     },
     {
       "original": "苍苍蒸民，谁无父母？提携捧负，畏其不寿。谁无兄弟，如足如手？谁无夫妇，如宾如友？生也何恩？杀之何咎？其存其没，家莫闻知。人或有言，将信将疑。悁悁心目，寝寐见之。布奠倾觞，哭望天涯。天地为愁，草木凄悲。吊祭不至，精魂何依？必有凶年，人其流离。呜呼噫嘻！时耶？命耶？从古如斯。为之奈何？守在四夷。",
-      "translation": "众多百姓，谁没有父母？他们搀扶照顾父母，唯恐不能长寿。谁没有兄弟，兄弟如同手足？谁没有夫妇，夫妇相敬如宾、友好如友？生养他们有何恩德？杀害他们又有何罪过？他们是生是死，家人无从知晓。有人传来消息，家人半信半疑。忧心忡忡，睡梦中见到他们。陈列祭品、倾倒酒浆，哭泣着遥望天涯。天地为之忧愁，草木也凄凉悲伤。祭奠不到，灵魂将何所依托？必定会有荒年，人们将流离失所。唉！是时运吗？是命运吗？自古以来就是这样。对此该怎么办？只有守卫四方，安抚夷狄。",
+      "translation": "众多百姓，谁没有父母？从小提携捧抱，只怕他们活不长。谁没有兄弟，像手足一样亲密？谁没有夫妇，像宾客像朋友一样相敬？生下他们有什么恩情？杀死他们又有什么罪过？他们的生死，家里无从知晓。有人说起，也是半信半疑。忧心忡忡，睡梦中见到他们。摆设祭奠，倾酒哭泣，望向天涯。天地为之忧愁，草木凄凉悲伤。吊唁祭祀不到，灵魂何处依托？必定会有荒年，人民流离失所。唉！是时运吗？是命运吗？从古至今都这样。对此能怎么办？只有守卫四夷。",
       "sentences": [
         {
-          "original": "苍苍蒸民，谁无父母？提携捧负，畏其不寿。",
-          "translation": "众多百姓，谁没有父母？他们搀扶照顾父母，唯恐父母不能长寿。",
+          "original": "苍苍蒸民，谁无父母？",
+          "translation": "众多百姓，谁没有父母？",
           "words": [
             {
               "word": "苍苍",
               "pinyin": "cāng cāng",
-              "meaning": "形容众多、茂盛的样子，此处修饰‘蒸民’，形容百姓众多",
+              "meaning": "众多、茂盛的样子",
               "type": "实词"
             },
             {
               "word": "蒸民",
               "pinyin": "zhēng mín",
-              "meaning": "通‘烝民’，‘烝’义为众多，指众民、百姓",
-              "type": "实词"
+              "meaning": "通‘烝’，义为众多；蒸民即众民、百姓",
+              "type": "实词",
+              "highlight": "loan"
             },
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "疑问代词，谁，此处用于反问句‘谁无父母’，表示‘没有谁没有父母’，强调普遍性",
+              "meaning": "疑问代词，哪一个人",
               "type": "虚词"
             },
             {
@@ -2551,302 +2721,297 @@
             {
               "word": "父母",
               "pinyin": "fù mǔ",
-              "meaning": "名词，父亲和母亲",
+              "meaning": "父亲和母亲",
               "type": "实词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "提携捧负，畏其不寿。",
+          "translation": "从小提携捧抱，只怕他们活不长。",
+          "words": [
             {
               "word": "提携",
               "pinyin": "tí xié",
-              "meaning": "动词，搀扶，带领，指父母照顾小孩",
+              "meaning": "牵扶，带领，指照顾",
               "type": "实词"
             },
             {
               "word": "捧负",
               "pinyin": "pěng fù",
-              "meaning": "动词，抱着背着，指悉心照料孩子",
+              "meaning": "用双手承托、背负，指奉养",
               "type": "实词"
             },
             {
               "word": "畏",
               "pinyin": "wèi",
-              "meaning": "动词，害怕，担心",
+              "meaning": "动词，担心、害怕",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "代词，指代孩子，父母提携捧负，担心孩子不长寿",
+              "meaning": "代词，指代父母",
               "type": "虚词"
             },
             {
               "word": "不",
               "pinyin": "bù",
-              "meaning": "副词，表示否定，此处修饰‘寿’，意为不长寿",
+              "meaning": "副词，表示否定",
               "type": "虚词"
             },
             {
               "word": "寿",
               "pinyin": "shòu",
-              "meaning": "动词，长寿，活得很长",
+              "meaning": "名词，寿命、长寿",
               "type": "实词"
             }
           ]
         },
         {
           "original": "谁无兄弟，如足如手？",
-          "translation": "谁没有兄弟，兄弟如同手足？",
+          "translation": "谁没有兄弟，像手足一样亲密？",
           "words": [
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "疑问代词，谁，此处用于反问句‘谁无兄弟’，表示‘没有谁没有兄弟’，强调普遍性",
+              "meaning": "疑问代词，用于反问句中，表示'没有人'或'哪个人'，强调每个人都有兄弟。",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "动词，没有",
+              "meaning": "动词，没有。",
               "type": "实词"
             },
             {
               "word": "兄弟",
               "pinyin": "xiōng dì",
-              "meaning": "名词，哥哥和弟弟",
+              "meaning": "名词，哥哥和弟弟。",
               "type": "实词"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "动词，像，如同，表示比喻，此处比喻兄弟关系",
+              "meaning": "动词，像。",
               "type": "实词"
             },
             {
               "word": "足",
               "pinyin": "zú",
-              "meaning": "名词，脚，此处比喻兄弟之间的依存关系，如足之支撑身体",
+              "meaning": "名词，脚。",
               "type": "实词"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "动词，像，如同，表示比喻，此处比喻兄弟关系",
+              "meaning": "动词，像。",
               "type": "实词"
             },
             {
               "word": "手",
               "pinyin": "shǒu",
-              "meaning": "名词，手，此处比喻兄弟之间的亲密关系，如手之相助",
+              "meaning": "名词，手。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "谁无夫妇，如宾如友？",
-          "translation": "谁没有夫妇，夫妇相敬如宾、友好如友？",
+          "translation": "谁没有夫妇，像宾客像朋友一样相敬？",
           "words": [
             {
               "word": "谁",
               "pinyin": "shuí",
-              "meaning": "疑问代词，哪一个人。此处用于反问，强调每个人都……",
+              "meaning": "疑问代词，用于反问句中，表示'没有人'或'哪个人'，强调每个人都有夫妇。",
               "type": "虚词"
             },
             {
               "word": "无",
               "pinyin": "wú",
-              "meaning": "动词，没有",
+              "meaning": "动词，没有。",
               "type": "实词"
             },
             {
               "word": "夫妇",
               "pinyin": "fū fù",
-              "meaning": "名词，丈夫和妻子",
+              "meaning": "名词，丈夫和妻子。",
               "type": "实词"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "动词，像，如同",
+              "meaning": "动词，像。",
               "type": "实词"
             },
             {
               "word": "宾",
               "pinyin": "bīn",
-              "meaning": "名词，宾客。此处形容夫妇相敬如宾",
+              "meaning": "名词，宾客。",
               "type": "实词"
             },
             {
               "word": "如",
               "pinyin": "rú",
-              "meaning": "动词，像，如同",
+              "meaning": "动词，像。",
               "type": "实词"
             },
             {
               "word": "友",
               "pinyin": "yǒu",
-              "meaning": "名词，朋友。此处形容夫妇亲密如友",
+              "meaning": "名词，朋友。",
               "type": "实词"
             }
           ]
         },
         {
-          "original": "生也何恩？杀之何咎？",
-          "translation": "生养他们有何恩德？杀害他们又有何罪过？",
+          "original": "生也何恩？",
+          "translation": "生下他们有什么恩情？",
           "words": [
             {
               "word": "生",
               "pinyin": "shēng",
-              "meaning": "动词，生存，活着。指百姓得以活在世上",
+              "meaning": "动词，出生、活着，指士兵或人民的生命开始",
               "type": "实词"
             },
             {
               "word": "也",
               "pinyin": "yě",
-              "meaning": "句中语气词，表停顿，引出下文对‘生’的议论",
+              "meaning": "语气词，用于主语'生'后表示停顿，引出反问语气",
               "type": "虚词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "疑问代词，什么。此处作定语，修饰‘恩’",
+              "meaning": "疑问代词，什么，在句中作定语修饰'恩'，表示反问",
               "type": "虚词"
             },
             {
               "word": "恩",
               "pinyin": "ēn",
-              "meaning": "名词，恩惠，恩德",
+              "meaning": "名词，恩惠、恩情，指统治者对人民的恩德",
               "type": "实词"
-            },
+            }
+          ]
+        },
+        {
+          "original": "杀之何咎？",
+          "translation": "杀死他们又有什么罪过？",
+          "words": [
             {
               "word": "杀",
               "pinyin": "shā",
-              "meaning": "动词，杀害，杀死。指在战争中被杀",
+              "meaning": "动词，杀死，指战争中的杀戮",
               "type": "实词"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指代前文‘其存其没’中的‘其’（那些人）",
+              "meaning": "代词，指代前文提到的士兵或人民，作'杀'的宾语",
               "type": "虚词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "疑问代词，什么。此处作定语，修饰‘咎’",
+              "meaning": "疑问代词，什么，在句中作定语修饰'咎'，表示反问",
               "type": "虚词"
             },
             {
               "word": "咎",
               "pinyin": "jiù",
-              "meaning": "名词，罪过，过错",
+              "meaning": "名词，罪过、过错，指杀戮的罪责",
               "type": "实词"
             }
           ]
         },
         {
           "original": "其存其没，家莫闻知。",
-          "translation": "他们是生是死，家人无从知晓。",
+          "translation": "他们的生死，家里无从知晓。",
           "words": [
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "连词，用于并列问句，构成‘其…其…’结构，表示‘是…还是…’",
+              "meaning": "虚词，代词，指代前文的'蒸民'或战士，相当于'他们'",
               "type": "虚词"
             },
             {
               "word": "存",
               "pinyin": "cún",
-              "meaning": "生存，活着",
+              "meaning": "实词，动词，生存、存活",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "连词，用于并列问句，构成‘其…其…’结构，表示‘是…还是…’",
+              "meaning": "虚词，代词，同上，指代战士",
               "type": "虚词"
             },
             {
               "word": "没",
               "pinyin": "mò",
-              "meaning": "通‘殁’，义为死亡",
-              "type": "实词"
+              "meaning": "通'殁'，义为死亡",
+              "type": "实词",
+              "highlight": "loan"
             },
             {
               "word": "家",
               "pinyin": "jiā",
-              "meaning": "家中亲人",
+              "meaning": "实词，名词，家庭、家人",
               "type": "实词"
             },
             {
               "word": "莫",
               "pinyin": "mò",
-              "meaning": "否定性无定代词，没有谁",
+              "meaning": "虚词，否定代词，没有谁、没有人",
               "type": "虚词"
             },
             {
               "word": "闻",
               "pinyin": "wén",
-              "meaning": "听到",
+              "meaning": "实词，动词，听说、听到",
               "type": "实词"
             },
             {
               "word": "知",
               "pinyin": "zhī",
-              "meaning": "知道",
+              "meaning": "实词，动词，知道、了解",
               "type": "实词"
             }
           ]
         },
         {
           "original": "人或有言，将信将疑。",
-          "translation": "有人传来消息，家人半信半疑。",
+          "translation": "有人说起，也是半信半疑。",
           "words": [
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "人们",
+              "meaning": "实词，名词，人们",
               "type": "实词"
             },
             {
               "word": "或",
               "pinyin": "huò",
-              "meaning": "古义：有人（无定代词，非今义‘或者’）",
+              "meaning": "虚词，代词，有人、有的人",
               "type": "虚词"
             },
             {
               "word": "有",
               "pinyin": "yǒu",
-              "meaning": "有",
+              "meaning": "实词，动词，存在、具有",
               "type": "实词"
             },
             {
               "word": "言",
               "pinyin": "yán",
-              "meaning": "传言，消息",
+              "meaning": "实词，名词，话语、言论",
               "type": "实词"
             },
             {
-              "word": "将",
-              "pinyin": "jiāng",
-              "meaning": "副词，又，表示并列",
-              "type": "虚词"
-            },
-            {
-              "word": "信",
-              "pinyin": "xìn",
-              "meaning": "相信",
-              "type": "实词"
-            },
-            {
-              "word": "将",
-              "pinyin": "jiāng",
-              "meaning": "副词，又，表示并列",
-              "type": "虚词"
-            },
-            {
-              "word": "疑",
-              "pinyin": "yí",
-              "meaning": "怀疑",
-              "type": "实词"
+              "word": "将信将疑",
+              "pinyin": "jiāng xìn jiāng yí",
+              "meaning": "典故，成语，有些相信又有些怀疑，形容犹豫不决",
+              "type": "典故"
             }
           ]
         },
@@ -2857,103 +3022,92 @@
             {
               "word": "悁悁",
               "pinyin": "yuān yuān",
-              "meaning": "忧愁不安的样子。",
+              "meaning": "叠音词，形容忧愁、郁结的样子。",
               "type": "实词"
             },
             {
               "word": "心目",
               "pinyin": "xīn mù",
-              "meaning": "内心和眼睛，指心神和视觉。",
+              "meaning": "内心与视觉，此处合指思念、盼望之情。",
               "type": "实词"
             },
             {
               "word": "寝寐",
               "pinyin": "qǐn mèi",
-              "meaning": "睡觉和醒着，泛指日夜。",
+              "meaning": "睡觉，卧床休息。",
               "type": "实词"
             },
             {
               "word": "见",
               "pinyin": "jiàn",
-              "meaning": "此处读 jiàn，义为看见。",
-              "type": "实词"
+              "meaning": "此处读 jiàn，义为看见、见到。",
+              "type": "实词",
+              "highlight": "polyphone"
             },
             {
               "word": "之",
               "pinyin": "zhī",
-              "meaning": "代词，指代所思念的亲人或战士。",
+              "meaning": "代词，指代征人。",
               "type": "虚词"
             }
           ]
         },
         {
           "original": "布奠倾觞，哭望天涯。",
-          "translation": "陈列祭品、倾倒酒浆，哭泣着遥望天涯。",
+          "translation": "摆设祭奠，倾酒哭泣，望向天涯。",
           "words": [
             {
-              "word": "布",
-              "pinyin": "bù",
-              "meaning": "布置，陈设。",
+              "word": "布奠",
+              "pinyin": "bù diàn",
+              "meaning": "摆设祭品以祭奠。",
               "type": "实词"
             },
             {
-              "word": "奠",
-              "pinyin": "diàn",
-              "meaning": "祭奠，设置祭品。",
-              "type": "实词"
-            },
-            {
-              "word": "倾",
-              "pinyin": "qīng",
-              "meaning": "倾倒，倒出。",
-              "type": "实词"
-            },
-            {
-              "word": "觞",
-              "pinyin": "shāng",
-              "meaning": "古代酒器。",
+              "word": "倾觞",
+              "pinyin": "qīng shāng",
+              "meaning": "倾倒酒杯（以祭奠）。",
               "type": "实词"
             },
             {
               "word": "哭",
               "pinyin": "kū",
-              "meaning": "哭泣，流泪出声。",
+              "meaning": "哭泣，哀悼。",
               "type": "实词"
             },
             {
               "word": "望",
               "pinyin": "wàng",
-              "meaning": "向远处看。",
+              "meaning": "遥望，向远处看。",
               "type": "实词"
             },
             {
               "word": "天涯",
               "pinyin": "tiān yá",
-              "meaning": "天的边缘，指极远的地方。",
+              "meaning": "天的边际，指极远的地方。",
               "type": "实词"
             }
           ]
         },
         {
           "original": "天地为愁，草木凄悲。",
-          "translation": "天地为之忧愁，草木也凄凉悲伤。",
+          "translation": "天地为之忧愁，草木凄凉悲伤。",
           "words": [
             {
               "word": "天地",
               "pinyin": "tiān dì",
-              "meaning": "天空和大地，指整个自然界",
+              "meaning": "天和地，指整个自然界",
               "type": "实词"
             },
             {
               "word": "为",
               "pinyin": "wéi",
-              "meaning": "此处读 wéi，义为变得、成为",
+              "meaning": "动词，感到、呈现",
               "type": "实词"
             },
             {
               "word": "愁",
               "pinyin": "chóu",
-              "meaning": "忧愁，悲伤的情感",
+              "meaning": "忧愁、悲戚",
               "type": "实词"
             },
             {
@@ -2965,61 +3119,55 @@
             {
               "word": "凄悲",
               "pinyin": "qī bēi",
-              "meaning": "凄凉悲伤，形容悲伤的氛围",
+              "meaning": "凄凉悲伤",
               "type": "实词"
             }
           ]
         },
         {
           "original": "吊祭不至，精魂何依？",
-          "translation": "祭奠不到，灵魂将何所依托？",
+          "translation": "吊唁祭祀不到，灵魂何处依托？",
           "words": [
             {
               "word": "吊祭",
               "pinyin": "diào jì",
-              "meaning": "祭祀吊唁，指对死者的祭奠",
+              "meaning": "祭奠、凭吊",
               "type": "实词"
             },
             {
-              "word": "不",
-              "pinyin": "bù",
-              "meaning": "否定副词，表示没有，修饰动词'至'",
-              "type": "虚词"
-            },
-            {
-              "word": "至",
-              "pinyin": "zhì",
-              "meaning": "到达，指祭奠送达",
+              "word": "不至",
+              "pinyin": "bù zhì",
+              "meaning": "不到、不能到达",
               "type": "实词"
             },
             {
               "word": "精魂",
               "pinyin": "jīng hún",
-              "meaning": "灵魂，指死者的魂魄",
+              "meaning": "灵魂、魂魄",
               "type": "实词"
             },
             {
               "word": "何",
               "pinyin": "hé",
-              "meaning": "疑问代词，什么，在'何依'中作前置宾语，意为'依靠什么'",
+              "meaning": "疑问代词，哪里、何处",
               "type": "虚词"
             },
             {
               "word": "依",
               "pinyin": "yī",
-              "meaning": "依靠，依托",
+              "meaning": "依托、归附",
               "type": "实词"
             }
           ]
         },
         {
           "original": "必有凶年，人其流离。",
-          "translation": "必定会有荒年，人们将流离失所。",
+          "translation": "必定会有荒年，人民流离失所。",
           "words": [
             {
               "word": "必",
               "pinyin": "bì",
-              "meaning": "副词，表示事理上确定不移，此处强调战后必然发生的情况。",
+              "meaning": "副词，表示事理上确定不移，一定、必然。",
               "type": "虚词"
             },
             {
@@ -3031,98 +3179,143 @@
             {
               "word": "凶年",
               "pinyin": "xiōng nián",
-              "meaning": "名词，指因战争破坏导致的灾荒、饥馑之年。",
+              "meaning": "灾荒之年，谷物不收的年岁。",
               "type": "实词"
             },
             {
               "word": "人",
               "pinyin": "rén",
-              "meaning": "名词，指战后的百姓、人民。",
+              "meaning": "指百姓、民众。",
               "type": "实词"
             },
             {
               "word": "其",
               "pinyin": "qí",
-              "meaning": "语气词，表示推测语气，可译为‘大概’‘恐怕’，此处指人民恐怕要流离失所。",
+              "meaning": "语气词，表示推测或加强语气，大概、将要。",
               "type": "虚词"
             },
             {
               "word": "流离",
               "pinyin": "liú lí",
-              "meaning": "动词，指流转、离散，四处逃难。",
-              "type": "实词"
+              "meaning": "古义：流转离散，流落他乡（非今义‘光彩焕发’或‘淋漓’）。",
+              "type": "实词",
+              "highlight": "ancient_today"
             }
           ]
         },
         {
-          "original": "呜呼噫嘻！时耶？命耶？从古如斯。",
-          "translation": "唉！是时运吗？是命运吗？自古以来就是这样。",
+          "original": "呜呼噫嘻！",
+          "translation": "唉！",
           "words": [
             {
               "word": "呜呼噫嘻",
               "pinyin": "wū hū yī xī",
-              "meaning": "连续使用的感叹词，表达对时运与命运的深沉悲慨与无奈。",
-              "type": "虚词"
-            },
-            {
-              "word": "时",
-              "pinyin": "shí",
-              "meaning": "名词，指时势、时运。",
-              "type": "实词"
-            },
-            {
-              "word": "耶",
-              "pinyin": "yé",
-              "meaning": "句末疑问语气词，表示选择疑问，与‘命耶’构成‘是…还是…’的句式。",
-              "type": "虚词"
-            },
-            {
-              "word": "命",
-              "pinyin": "mìng",
-              "meaning": "名词，指命运、天命。",
-              "type": "实词"
-            },
-            {
-              "word": "耶",
-              "pinyin": "yé",
-              "meaning": "句末疑问语气词，与前文‘时耶’呼应，构成选择疑问。",
-              "type": "虚词"
-            },
-            {
-              "word": "从古如斯",
-              "pinyin": "cóng gǔ rú sī",
-              "meaning": "固定结构，‘从古至今都是如此’，总结历史规律，表达对战争悲剧循环的哀叹。",
+              "meaning": "四个感叹词连用，表示强烈的悲伤、感慨之情。",
               "type": "虚词"
             }
           ]
         },
         {
-          "original": "为之奈何？守在四夷。",
-          "translation": "对此该怎么办？只有守卫四方，安抚夷狄。",
+          "original": "时耶？",
+          "translation": "是时运吗？",
           "words": [
             {
-              "word": "为之奈何",
-              "pinyin": "wéi zhī nài hé",
-              "meaning": "固定结构'奈…何'的变体，意为'对…（这种情况）怎么办'。此处'之'指代前文描述的战争惨状与家人离散之悲。",
-              "type": "典故"
+              "word": "时",
+              "pinyin": "shí",
+              "meaning": "名词，指时运或时机，在句中与'命'并列，表示对时运的疑问",
+              "type": "实词"
             },
+            {
+              "word": "耶",
+              "pinyin": "yé",
+              "meaning": "句末语气词，表示疑问，相当于'吗'，用于构成选择问句",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "命耶？",
+          "translation": "是命运吗？",
+          "words": [
+            {
+              "word": "命",
+              "pinyin": "mìng",
+              "meaning": "名词，指命运或天命，在句中与'时'并列，表示对命运的疑问",
+              "type": "实词"
+            },
+            {
+              "word": "耶",
+              "pinyin": "yé",
+              "meaning": "句末语气词，表示疑问，相当于'吗'，用于构成选择问句",
+              "type": "虚词"
+            }
+          ]
+        },
+        {
+          "original": "从古如斯。",
+          "translation": "从古至今都这样。",
+          "words": [
+            {
+              "word": "从古",
+              "pinyin": "cóng gǔ",
+              "meaning": "介词结构，表示时间起点，自古以来、从古代开始",
+              "type": "虚词"
+            },
+            {
+              "word": "如斯",
+              "pinyin": "rú sī",
+              "meaning": "动宾结构，像这样（指代前文所述战争惨状与人间悲剧）",
+              "type": "实词"
+            }
+          ]
+        },
+        {
+          "original": "为之奈何？",
+          "translation": "对此能怎么办？",
+          "words": [
+            {
+              "word": "为",
+              "pinyin": "wèi",
+              "meaning": "此处读 wèi，介词，表示对象，对（这种情况）",
+              "type": "虚词",
+              "highlight": "polyphone"
+            },
+            {
+              "word": "之",
+              "pinyin": "zhī",
+              "meaning": "代词，指代前文所述从古至今战争带来的流离失所等悲惨状况",
+              "type": "虚词"
+            },
+            {
+              "word": "奈何",
+              "pinyin": "nài hé",
+              "meaning": "固定结构，表示询问方式或办法，怎么办、如何处置",
+              "type": "典故",
+              "highlight": "fixed"
+            }
+          ]
+        },
+        {
+          "original": "守在四夷。",
+          "translation": "只有守卫四夷。",
+          "words": [
             {
               "word": "守",
               "pinyin": "shǒu",
-              "meaning": "动词，防守、守卫。此处指通过德化使四夷归附，从而守卫边疆的策略。",
+              "meaning": "动词，防守、守卫",
               "type": "实词"
             },
             {
               "word": "在",
               "pinyin": "zài",
-              "meaning": "介词，表示处所，相当于'在于'。与'守'连用，指出防守的关键所在。",
+              "meaning": "介词，表示处所或依据，相当于'在于'",
               "type": "虚词"
             },
             {
               "word": "四夷",
               "pinyin": "sì yí",
-              "meaning": "古义：古代对中原王朝四方少数民族（东夷、西戎、南蛮、北狄）的泛称（非今义'外国'）。文中指通过怀柔德政使边疆安定。",
-              "type": "地名"
+              "meaning": "古代中原王朝对四方少数民族的统称",
+              "type": "实词"
             }
           ]
         }
