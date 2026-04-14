@@ -7,8 +7,9 @@ data/corpus.sqlite-*
 data/metadata.sqlite
 data/metadata.sqlite-*
 
-# L2 元数据原始 JSON（pilot 阶段不入库，Stage 3 后视情况）
-data/metadata/
+# L2 元数据失败日志（原始 JSON 入库作为 skill 资产）
+data/metadata/**/_failures_*.log
+data/metadata/_failures_*.log
 
 # Python
 __pycache__/

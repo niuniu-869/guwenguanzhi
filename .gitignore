@@ -62,7 +62,7 @@ skill/data/corpus.sqlite
 skill/data/corpus.sqlite-*
 skill/data/metadata.sqlite
 skill/data/metadata.sqlite-*
-skill/data/metadata/
+skill/data/metadata/**/_failures_*.log
 skill/data/annotated
 skill/**/__pycache__/
 skill/**/*.pyc
