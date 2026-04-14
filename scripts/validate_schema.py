@@ -29,6 +29,13 @@ BOOKS_DIR = BASE_DIR / "data" / "books"
 
 VALID_TYPES = {"实词", "虚词", "人名", "地名", "官职", "典故"}
 
+VALID_HIGHLIGHTS = {"ancient_today", "loan", "polyphone", "rare", "fixed"}
+
+VALID_RELATION_TYPES = {
+    "父子", "母子", "兄弟", "夫妻", "君臣", "师生", "朋友", "同僚",
+    "对手", "盟友", "亲属", "门客", "下属", "上司",
+}
+
 # 违禁类型 → 应该归到哪里
 TYPE_MIGRATION = {
     "成语": "典故", "典故成语": "典故", "固定结构": "典故",
@@ -134,6 +141,12 @@ def validate_word(word: dict, sent_orig: str, loc: str) -> list[Issue]:
         issues.append(Issue("warn", "meaning_too_long",
                            f"meaning 过长 ({len(meaning)}字): {meaning[:40]}...", loc))
 
+    # highlight 字段枚举（可选字段，None/缺省 合法）
+    hl = word.get("highlight")
+    if hl is not None and hl != "" and hl not in VALID_HIGHLIGHTS:
+        issues.append(Issue("error", "invalid_highlight",
+                           f"非法 highlight: '{hl}'（合法：{sorted(VALID_HIGHLIGHTS)} 或省略）", loc))
+
     return issues
 
 
@@ -177,6 +190,45 @@ def validate_sentence(sent: dict, loc: str) -> list[Issue]:
     return issues
 
 
+def validate_characters(chars, loc: str) -> list[Issue]:
+    """人物卡（可选字段）校验"""
+    issues: list[Issue] = []
+    if chars is None:
+        return issues
+    if not isinstance(chars, list):
+        issues.append(Issue("error", "characters_not_list",
+                           f"characters 必须为数组", loc))
+        return issues
+
+    names_in_cards = {c.get("name", "") for c in chars if isinstance(c, dict)}
+    for ci, c in enumerate(chars):
+        cloc = f"{loc}.c{ci}"
+        if not isinstance(c, dict):
+            issues.append(Issue("error", "character_not_dict",
+                               f"人物卡非 dict: {c}", cloc))
+            continue
+        for f in ("id", "name", "role", "stance", "motive"):
+            if not c.get(f):
+                issues.append(Issue("warn", "character_missing_field",
+                                   f"人物卡缺少/空 '{f}'", cloc))
+
+        for ri, rel in enumerate(c.get("relations", []) or []):
+            rloc = f"{cloc}.r{ri}"
+            if not isinstance(rel, dict):
+                issues.append(Issue("error", "relation_not_dict",
+                                   f"relation 非 dict", rloc))
+                continue
+            rt = rel.get("type", "")
+            if rt and rt not in VALID_RELATION_TYPES:
+                issues.append(Issue("warn", "invalid_relation_type",
+                                   f"非法 relation.type: '{rt}'", rloc))
+            target = rel.get("target", "")
+            if target and target not in names_in_cards:
+                issues.append(Issue("warn", "relation_target_unknown",
+                                   f"relation.target '{target}' 不在人物卡列表", rloc))
+    return issues
+
+
 def validate_document(doc: dict, path: Path) -> FileReport:
     report = FileReport(path=str(path.relative_to(BASE_DIR)))
 
@@ -185,6 +237,9 @@ def validate_document(doc: dict, path: Path) -> FileReport:
         if not doc.get(field_name):
             report.issues.append(Issue("error", "missing_doc_field",
                                        f"文档缺少 '{field_name}'", "doc"))
+
+    # 人物卡（可选）
+    report.issues.extend(validate_characters(doc.get("characters"), "doc.characters"))
 
     paragraphs = doc.get("paragraphs", [])
     if not paragraphs:
@@ -195,6 +250,7 @@ def validate_document(doc: dict, path: Path) -> FileReport:
     total_sents = 0
     total_words = 0
     type_cnt: Counter = Counter()
+    highlight_cnt: Counter = Counter()
     polyphone_readings: dict[str, set[str]] = defaultdict(set)
 
     for p_idx, para in enumerate(paragraphs):
@@ -215,6 +271,9 @@ def validate_document(doc: dict, path: Path) -> FileReport:
             for w in sent.get("words", []):
                 total_words += 1
                 type_cnt[w.get("type", "?")] += 1
+                hl = w.get("highlight")
+                if hl:
+                    highlight_cnt[hl] += 1
                 # 多音字读音一致性追踪
                 word_char = w.get("word", "")
                 pinyin = w.get("pinyin", "")
@@ -234,6 +293,8 @@ def validate_document(doc: dict, path: Path) -> FileReport:
         "sentences": total_sents,
         "words": total_words,
         "types": dict(type_cnt),
+        "highlights": dict(highlight_cnt),
+        "characters": len(doc.get("characters") or []),
         "error_count": len(report.errors),
         "warn_count": len(report.warns),
     }
@@ -294,6 +355,16 @@ def main():
             global_types[t] += c
     invalid_type_cnt = {t: c for t, c in global_types.items() if t not in VALID_TYPES}
 
+    # 全局 highlight 分布
+    global_highlights: Counter = Counter()
+    for r in reports:
+        for h, c in r.stats.get("highlights", {}).items():
+            global_highlights[h] += c
+
+    # 人物卡覆盖统计
+    with_chars = sum(1 for r in reports if r.stats.get("characters", 0) > 0)
+    without_chars = total_files - with_chars
+
     print("=" * 60)
     print(f"📋 Schema 校验报告")
     print("=" * 60)
@@ -313,6 +384,16 @@ def main():
     for t, c in sorted(global_types.items(), key=lambda x: -x[1])[:20]:
         mark = "✅" if t in VALID_TYPES else "❌"
         print(f"  {mark} {t:10s} {c:8d}")
+    print()
+
+    print(f"highlight 字段分布:")
+    for h, c in sorted(global_highlights.items(), key=lambda x: -x[1]):
+        mark = "✅" if h in VALID_HIGHLIGHTS else "❌"
+        print(f"  {mark} {h:14s} {c:8d}")
+    print()
+
+    print(f"人物卡（characters）覆盖:")
+    print(f"  有人物卡: {with_chars} / 无人物卡: {without_chars}")
     print()
 
     if args.verbose:

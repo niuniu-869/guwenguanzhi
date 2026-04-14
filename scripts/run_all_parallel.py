@@ -295,6 +295,7 @@ def merge(article, dynasty_id):
         "background": meta.get("background", ""),
         "appreciation": meta.get("appreciation", ""),
         "tags": meta.get("tags", []),
+        "characters": meta.get("characters", []),
         "paragraphs": paragraphs,
     }
     _write_tagged(out, final)

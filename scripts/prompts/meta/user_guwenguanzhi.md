@@ -44,6 +44,10 @@
 
 若作者已在前面出现过（本次不是其首篇），可简化为"已见前篇《XX》作者简介"，但若是系列中首篇，必须完整给出。
 
+### characters（人物卡数组，可为空）
+
+{{include: meta/rules/character_extraction_rules.md}}
+
 ---
 
 ## 输出格式
@@ -53,6 +57,21 @@
   "background": "...",
   "appreciation": "...",
   "tags": ["标签1", "标签2", "标签3"],
-  "author_bio": "..."
+  "author_bio": "...",
+  "characters": [
+    {
+      "id": "稳定 ID",
+      "name": "人物主称",
+      "aliases": ["别称"],
+      "role": "朝代 + 身份 + 本文角色",
+      "stance": "立场/处事方式",
+      "motive": "核心动机",
+      "relations": [
+        {"target": "另一人物 name", "type": "关系类型", "note": "可选说明"}
+      ]
+    }
+  ]
 }
 ```
+
+若全文无可考实名人物（纯山水/抒情篇），`characters` 输出 `[]`。

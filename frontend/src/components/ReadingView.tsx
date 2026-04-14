@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import type { Paragraph, Sentence, Word } from "../lib/types";
+import type { HighlightKind, Paragraph, Sentence, Word } from "../lib/types";
 
 type Mode = "original" | "parallel" | "detail";
 
@@ -7,13 +7,52 @@ interface Props {
   paragraphs: Paragraph[];
 }
 
+const HIGHLIGHT_STORAGE_KEY = "gwgz_highlight_on";
+
+/** 重点字类别的中文标签（popover 徽章用） */
+const HIGHLIGHT_LABEL: Record<HighlightKind, string> = {
+  ancient_today: "古今异义",
+  loan: "通假字",
+  polyphone: "多音字",
+  rare: "罕用义",
+  fixed: "固定结构",
+};
+
+function hlClass(word: Word, on: boolean): string {
+  if (!on || !word.highlight) return "";
+  return `hl-${word.highlight}`;
+}
+
 export default function ReadingView({ paragraphs }: Props) {
   const [mode, setMode] = useState<Mode>("parallel");
+  // 默认开启；从 localStorage 读上次偏好
+  const [highlightOn, setHighlightOn] = useState<boolean>(true);
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(HIGHLIGHT_STORAGE_KEY);
+      if (saved === "0") setHighlightOn(false);
+    } catch {
+      /* ignore */
+    }
+  }, []);
+
+  const toggleHighlight = () => {
+    setHighlightOn((prev) => {
+      const next = !prev;
+      try {
+        localStorage.setItem(HIGHLIGHT_STORAGE_KEY, next ? "1" : "0");
+      } catch {
+        /* ignore */
+      }
+      return next;
+    });
+  };
 
   return (
     <div>
-      {/* 模式切换 */}
-      <div className="flex justify-center mb-8">
+      {/* 顶部工具栏：模式切换 + 重点字开关 */}
+      <div className="flex flex-wrap items-center justify-center gap-3 mb-8">
         <div className="inline-flex">
           <button
             className={`mode-btn ${mode === "original" ? "active" : ""}`}
@@ -34,12 +73,28 @@ export default function ReadingView({ paragraphs }: Props) {
             逐词
           </button>
         </div>
+
+        <button
+          type="button"
+          className={`highlight-toggle ${highlightOn ? "active" : ""}`}
+          onClick={toggleHighlight}
+          aria-pressed={highlightOn}
+          title="切换通假/多音/古今异义/罕用义/固定结构的底色标记"
+        >
+          <span className="dot" />
+          重点字 {highlightOn ? "开" : "关"}
+        </button>
       </div>
 
       {/* 正文 */}
       <div className="space-y-8">
         {paragraphs.map((para, i) => (
-          <ParagraphView key={i} paragraph={para} mode={mode} />
+          <ParagraphView
+            key={i}
+            paragraph={para}
+            mode={mode}
+            highlightOn={highlightOn}
+          />
         ))}
       </div>
     </div>
@@ -49,27 +104,40 @@ export default function ReadingView({ paragraphs }: Props) {
 function ParagraphView({
   paragraph,
   mode,
+  highlightOn,
 }: {
   paragraph: Paragraph;
   mode: Mode;
+  highlightOn: boolean;
 }) {
   if (mode === "original") {
-    return <OriginalMode paragraph={paragraph} />;
+    return <OriginalMode paragraph={paragraph} highlightOn={highlightOn} />;
   }
   if (mode === "parallel") {
-    return <ParallelMode paragraph={paragraph} />;
+    return <ParallelMode paragraph={paragraph} highlightOn={highlightOn} />;
   }
+  // 逐词模式不加底色（已拆开展示，加底色反而视觉过载）
   return <DetailMode paragraph={paragraph} />;
 }
 
 /* ============================================================
    原文模式：纯古文，点击词弹出释义
    ============================================================ */
-function OriginalMode({ paragraph }: { paragraph: Paragraph }) {
+function OriginalMode({
+  paragraph,
+  highlightOn,
+}: {
+  paragraph: Paragraph;
+  highlightOn: boolean;
+}) {
   return (
     <div className="prose-classical text-xl sm:text-2xl leading-relaxed">
       {paragraph.sentences.map((sentence, i) => (
-        <SentenceWithPopover key={i} sentence={sentence} />
+        <SentenceWithPopover
+          key={i}
+          sentence={sentence}
+          highlightOn={highlightOn}
+        />
       ))}
     </div>
   );
@@ -78,12 +146,22 @@ function OriginalMode({ paragraph }: { paragraph: Paragraph }) {
 /* ============================================================
    对照模式：原文（可点击词查释义） + 整段翻译
    ============================================================ */
-function ParallelMode({ paragraph }: { paragraph: Paragraph }) {
+function ParallelMode({
+  paragraph,
+  highlightOn,
+}: {
+  paragraph: Paragraph;
+  highlightOn: boolean;
+}) {
   return (
     <div className="space-y-3">
       <div className="prose-classical text-lg sm:text-xl leading-relaxed">
         {paragraph.sentences.map((sentence, i) => (
-          <SentenceWithPopover key={i} sentence={sentence} />
+          <SentenceWithPopover
+            key={i}
+            sentence={sentence}
+            highlightOn={highlightOn}
+          />
         ))}
       </div>
       {paragraph.translation && (
@@ -124,7 +202,7 @@ function DetailMode({ paragraph }: { paragraph: Paragraph }) {
 }
 
 /* ============================================================
-   单词组件：拼音标注 + 点击弹出释义
+   单词组件：拼音标注 + 点击弹出释义（逐词模式）
    ============================================================ */
 function WordWithPinyin({ word }: { word: Word }) {
   const [open, setOpen] = useState(false);
@@ -169,7 +247,13 @@ function WordWithPinyin({ word }: { word: Word }) {
    原文/对照模式下的可点击句子
    按 sentence.original 顺序对齐词与标点（words 数组本身不含标点）
    ============================================================ */
-function SentenceWithPopover({ sentence }: { sentence: Sentence }) {
+function SentenceWithPopover({
+  sentence,
+  highlightOn,
+}: {
+  sentence: Sentence;
+  highlightOn: boolean;
+}) {
   const [activeWord, setActiveWord] = useState<number | null>(null);
 
   const tokens = alignWordsWithText(sentence.original, sentence.words);
@@ -188,6 +272,7 @@ function SentenceWithPopover({ sentence }: { sentence: Sentence }) {
           <WordInSentence
             key={i}
             word={tok.word}
+            highlightOn={highlightOn}
             isActive={activeWord === i}
             onToggle={() => setActiveWord(activeWord === i ? null : i)}
             onLeave={() => setActiveWord(null)}
@@ -240,21 +325,24 @@ function alignWordsWithText(original: string, words: Word[]): AlignedToken[] {
    ============================================================ */
 function WordInSentence({
   word,
+  highlightOn,
   isActive,
   onToggle,
   onLeave,
 }: {
   word: Word;
+  highlightOn: boolean;
   isActive: boolean;
   onToggle: () => void;
   onLeave: () => void;
 }) {
   const ref = useRef<HTMLSpanElement>(null);
+  const highlightCls = hlClass(word, highlightOn);
 
   return (
     <span
       ref={ref}
-      className="word-clickable relative inline-block cursor-pointer"
+      className={`word-clickable relative inline-block cursor-pointer ${highlightCls}`}
       onClick={onToggle}
       onMouseLeave={onLeave}
     >
@@ -283,7 +371,6 @@ function WordPopover({
     if (!el || !parent) return;
 
     const rect = el.getBoundingClientRect();
-    const parentRect = parent.getBoundingClientRect();
     const vw = window.innerWidth;
 
     // 检测溢出并调整对齐
@@ -294,7 +381,7 @@ function WordPopover({
     } else {
       setAlign("center");
     }
-  }, []);
+  }, [parentRef]);
 
   const alignClass =
     align === "left"
@@ -310,6 +397,8 @@ function WordPopover({
         ? "right-3"
         : "left-1/2 -translate-x-1/2";
 
+  const hlLabel = word.highlight ? HIGHLIGHT_LABEL[word.highlight] : null;
+
   return (
     <div ref={popoverRef} className={`word-popover-auto ${alignClass}`}>
       {/* 箭头 */}
@@ -321,7 +410,10 @@ function WordPopover({
         <span className="font-normal text-gray-400 ml-2">{word.pinyin}</span>
       </div>
       <div className="text-xs opacity-90">{word.meaning}</div>
-      <div className="text-xs opacity-60 mt-1">{word.type}</div>
+      <div className="text-xs opacity-60 mt-1">
+        {word.type}
+        {hlLabel && <span className="hl-badge ml-2">{hlLabel}</span>}
+      </div>
     </div>
   );
 }

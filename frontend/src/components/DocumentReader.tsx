@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 import type { Document } from "../lib/types";
 import { loadDocument } from "../lib/document";
 import ReadingView from "./ReadingView";
+import CharactersPanel from "./CharactersPanel";
 
 interface Props {
   bookId: string;
@@ -67,6 +68,9 @@ export default function DocumentReader({ bookId, docId, subdir }: Props) {
         </section>
       )}
 
+      {/* v3 新增：人物关系卡（无人物则组件自行隐藏） */}
+      <CharactersPanel characters={doc.characters} />
+
       {/* 正文阅读区 */}
       <section className="mb-12">
         <ReadingView paragraphs={doc.paragraphs} />
@@ -77,7 +81,9 @@ export default function DocumentReader({ bookId, docId, subdir }: Props) {
       {/* 赏析 */}
       {doc.appreciation && (
         <section className="mb-10">
-          <h2 className="font-serif text-xl font-semibold text-ink mb-4">赏析</h2>
+          <h2 className="font-serif text-xl font-semibold text-ink mb-4">
+            赏析
+          </h2>
           <p className="text-ink-light leading-relaxed whitespace-pre-line">
             {doc.appreciation}
           </p>
@@ -92,7 +98,10 @@ export default function DocumentReader({ bookId, docId, subdir }: Props) {
           </h2>
           <div className="flex flex-wrap gap-2">
             {doc.keyFigures.map((p) => (
-              <span key={p} className="text-sm text-ink-light px-2 py-0.5 bg-silk rounded">
+              <span
+                key={p}
+                className="text-sm text-ink-light px-2 py-0.5 bg-silk rounded"
+              >
                 {p}
               </span>
             ))}
@@ -113,7 +122,9 @@ export default function DocumentReader({ bookId, docId, subdir }: Props) {
           <h2 className="text-sm font-semibold text-ink-light mb-2 tracking-wider">
             关于 {doc.author.name}
           </h2>
-          <p className="text-sm text-ink-light leading-relaxed">{doc.author.bio}</p>
+          <p className="text-sm text-ink-light leading-relaxed">
+            {doc.author.bio}
+          </p>
         </section>
       )}
     </div>

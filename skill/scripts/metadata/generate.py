@@ -72,18 +72,24 @@ PROMPT_VERSION = load_prompt_version()
 # ------------------------------------------------------------
 
 def list_juans(conn: sqlite3.Connection, book_id: str) -> list[dict]:
-    """列出某本书的所有「卷」（按 sub_type+sub_index 聚合）。"""
+    """列出某本书的所有「卷」。
+
+    混合策略：
+      - 有 sub_type 的段按 (sub_type, sub_index) 聚合
+      - 无 sub_type 的段按 juan 聚合
+    同一本书两种卷共存（如汉书 22 sub_type + 78 juan）。
+    """
+    # 有 sub_type 的卷
     cur = conn.execute(
         """
-        SELECT
-          sub_type, sub_index,
-          MIN(juan) AS juan, MIN(juan_name) AS juan_name,
-          MIN(book_name) AS book_name,
-          GROUP_CONCAT(text, char(10)) AS full_text,
-          COUNT(*) AS segs, SUM(LENGTH(text)) AS chars
+        SELECT sub_type, sub_index,
+               MIN(juan) AS juan, MIN(juan_name) AS juan_name,
+               MIN(book_name) AS book_name,
+               GROUP_CONCAT(text, char(10)) AS full_text,
+               COUNT(*) AS segs, SUM(LENGTH(text)) AS chars
         FROM (
           SELECT * FROM documents
-          WHERE book_id = ?
+          WHERE book_id = ? AND sub_type IS NOT NULL AND sub_index IS NOT NULL
           ORDER BY sub_type, sub_index, segment
         )
         GROUP BY sub_type, sub_index
@@ -103,6 +109,36 @@ def list_juans(conn: sqlite3.Connection, book_id: str) -> list[dict]:
             "segs": r["segs"],
             "chars": r["chars"],
         })
+
+    # 无 sub_type 的卷
+    cur = conn.execute(
+        """
+        SELECT juan, MIN(juan_name) AS juan_name,
+               MIN(book_name) AS book_name,
+               GROUP_CONCAT(text, char(10)) AS full_text,
+               COUNT(*) AS segs, SUM(LENGTH(text)) AS chars
+        FROM (
+          SELECT * FROM documents
+          WHERE book_id = ? AND sub_type IS NULL
+          ORDER BY juan, segment
+        )
+        GROUP BY juan
+        ORDER BY juan
+        """,
+        (book_id,),
+    )
+    for r in cur:
+        rows.append({
+            "sub_type": None,
+            "sub_index": None,
+            "juan": r["juan"],
+            "juan_name": r["juan_name"],
+            "book_name": r["book_name"],
+            "text": r["full_text"] or "",
+            "segs": r["segs"],
+            "chars": r["chars"],
+        })
+
     return rows
 
 
@@ -132,8 +168,14 @@ def filter_juans(juans: list[dict], spec: str | None, limit: int | None) -> list
 # 单卷生成
 # ------------------------------------------------------------
 
-def output_path(book_id: str, sub_type: str, sub_index: int) -> Path:
-    return METADATA_OUT / book_id / f"{sub_type}_{sub_index:03d}.json"
+def output_path(book_id: str, sub_type: str | None, sub_index: int | None, juan: int) -> Path:
+    """按是否有 sub_type 生成不同命名：
+    有 subtype → 本纪_001.json / 列传_025.json
+    无 subtype → juan_001.json
+    """
+    if sub_type and sub_index is not None:
+        return METADATA_OUT / book_id / f"{sub_type}_{sub_index:03d}.json"
+    return METADATA_OUT / book_id / f"juan_{juan:03d}.json"
 
 
 def is_current_version(path: Path) -> bool:
@@ -157,9 +199,11 @@ def truncate_text(text: str, limit: int = MAX_TEXT_CHARS) -> tuple[str, bool]:
 def gen_one(juan: dict, book_meta: dict[str, str], book_id: str) -> str:
     sub_type = juan["sub_type"]
     sub_index = juan["sub_index"]
-    out = output_path(book_id, sub_type, sub_index)
+    juan_num = juan["juan"] or 0
+    out = output_path(book_id, sub_type, sub_index, juan_num)
+    tag = f"{sub_type}/{sub_index:03d}" if sub_type else f"juan/{juan_num:03d}"
     if is_current_version(out):
-        return f"⏭ {book_id}/{sub_type}/{sub_index:03d} 已是 {PROMPT_VERSION}"
+        return f"⏭ {book_id}/{tag} 已是 {PROMPT_VERSION}"
 
     text, truncated = truncate_text(juan["text"])
     system = load_prompt("system.md")
@@ -178,10 +222,10 @@ def gen_one(juan: dict, book_meta: dict[str, str], book_id: str) -> str:
     try:
         result = call_llm_json(system, user)
     except Exception as e:
-        return f"❌ {book_id}/{sub_type}/{sub_index:03d}: {type(e).__name__}: {e}"
+        return f"❌ {book_id}/{tag}: {type(e).__name__}: {e}"
 
     if not isinstance(result, dict):
-        return f"❌ {book_id}/{sub_type}/{sub_index:03d}: LLM 返回非 dict ({type(result).__name__})"
+        return f"❌ {book_id}/{tag}: LLM 返回非 dict ({type(result).__name__})"
 
     # 注入元信息
     payload = {
@@ -197,7 +241,7 @@ def gen_one(juan: dict, book_meta: dict[str, str], book_id: str) -> str:
     }
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), "utf-8")
-    return f"✅ {book_id}/{sub_type}/{sub_index:03d} {juan['juan_name'][:20]}"
+    return f"✅ {book_id}/{tag} {(juan['juan_name'] or '')[:20]}"
 
 
 # ------------------------------------------------------------

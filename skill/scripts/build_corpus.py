@@ -63,7 +63,8 @@ BOOK_ID_MAP: dict[str, str] = {
     "三国志": "sanguozhi",
     "晉書": "jinshu",
     "晋书": "jinshu",
-    "宋書": "songshu_shen",  # 沈约
+    "宋書": "songshu",  # 沈约
+    "宋书": "songshu",
     "南齊書": "nanqishu",
     "南齐书": "nanqishu",
     "梁書": "liangshu",
@@ -128,14 +129,30 @@ JUAN_PATTERN = re.compile(
 )
 
 # --------- 正则：体裁分卷（Pattern C）---------
-# OpenCC t2s 后已统一简体。匹配"<体裁>第<序号>"作为体裁内分卷标识。
+# OpenCC t2s 后已统一简体。匹配"<体裁>[第]<序号>"作为体裁内分卷标识。
 # 史记的"书"如《天官书》《封禅书》；汉书以后改"志"如《五行志》。
 # Pattern C 仅用于"卷X"标识缺失的大书（宋史/明史/清史稿/旧唐书/新唐书等）的兜底分卷。
+# "第"可选：清史稿写"本纪一"、周书写"帝纪第一"；统一兼容。
+# 要求前有换行/段首锚定，避免正文嵌入的"本书卷二十六 / 阅卷三日"等误命中。
+# 两个子模式 OR：(a) 带"第"（shiji/hanshu 等严谨）；(b) 行首 + 无"第"（清史稿等）
 SUBTYPE_PATTERN = re.compile(
-    r"(本纪|列传|世家|志|表|书)第([一二三四五六七八九十百千零〇○0-9]+)"
+    r"(?:"
+    r"(本纪|列传|世家|志|表|书|帝纪)第([一二三四五六七八九十百千零〇○0-9]+)"
+    r"|"
+    r"(?:^|\n)[\s\u3000]*"
+    r"(本纪|列传|世家|志|表|帝纪)"
+    r"([一二三四五六七八九十百千零〇○0-9]+)"
+    r"(?=[\s\u3000]|$)"
+    r")"
+)
+# Pattern D：三国志专属的"魏志卷X/蜀志卷X/吴志卷X"
+ZHI_VOLUME_PATTERN = re.compile(
+    r"(?:^|\n)\s*(魏志|蜀志|吴志|蜀书|吴书|魏书)卷\s*"
+    r"([一二三四五六七八九十百千零〇○0-9]+)"
+    r"(?:\s+[^\n]{0,30})?(?=\n)"
 )
 # 已识别的体裁集合，用于从 juan_name 反推 sub_type
-SUBTYPES = ("本纪", "列传", "世家", "志", "表", "书")
+SUBTYPES = ("本纪", "列传", "世家", "志", "表", "书", "帝纪")
 
 # --------- 中文数字转阿拉伯 ---------
 _CN_NUM = {
@@ -217,23 +234,32 @@ def normalize_text(text: str) -> str:
     text = text.replace("\u3000", " ").replace("\ufeff", "")
     return text
 
+# juan_name 反推 pattern：允许"本纪/列传"后夹 1 字（上/中/下）再跟第N
+# 例 "宋本纪上第一" → ("本纪", 1), "齐本纪下第五" → ("本纪", 5)
+_NAME_SUBTYPE_PATTERN = re.compile(
+    r"(本纪|列传|世家|志|表|书|帝纪)(?:[上中下])?第([一二三四五六七八九十百千零〇○0-9]+)"
+)
+
+
 def _parse_subtype_from_name(name: str) -> tuple[str | None, int | None]:
     """从 juan_name 反推 (sub_type, sub_index)。
 
     Examples:
         "五帝本纪第一"      → ("本纪", 1)
         "管晏列传第二"      → ("列传", 2)
-        "六国年表第三"      → ("表", 3)
-        "天官书第五"        → ("书", 5)
-        "本纪第一 太祖一"   → ("本纪", 1)
+        "宋本纪上第一"      → ("本纪", 1)
         "列传第二百三十"    → ("列传", 230)
     """
+    m = _NAME_SUBTYPE_PATTERN.search(name)
+    if m:
+        return m.group(1), cn_to_int(m.group(2))
+    # 兜底：SUBTYPE_PATTERN (两个分支，全书范围的模式)
     m = SUBTYPE_PATTERN.search(name)
     if not m:
         return None, None
-    sub_type = m.group(1)
-    sub_index = cn_to_int(m.group(2))
-    return sub_type, sub_index
+    sub_type = m.group(1) or m.group(3)
+    idx_str = m.group(2) or m.group(4)
+    return sub_type, cn_to_int(idx_str)
 
 
 def split_book_to_juans(
@@ -244,36 +270,76 @@ def split_book_to_juans(
     优先级：
       1. JUAN_PATTERN（卷X）匹配 ≥ 5 处 → 主分卷器。每卷尝试从 juan_name 反推 sub_type/sub_index。
       2. 否则 SUBTYPE_PATTERN（本纪第N/列传第N/...）兜底分卷（适用宋史/明史/清史稿等大书）。
-      3. 都没有 → 单"卷 0"通体（极少见，仅小补注/非正史）。
+      3. Pattern D "魏志卷X/蜀志卷X"三国志专属。
+      4. 都没有 → 单"卷 0"通体（极少见，仅小补注/非正史）。
     """
     juan_matches = list(JUAN_PATTERN.finditer(text))
     sub_matches = list(SUBTYPE_PATTERN.finditer(text))
+    zhi_matches = list(ZHI_VOLUME_PATTERN.finditer(text))
+
+    juan_n = len(juan_matches)
+    sub_n = len(sub_matches)
+    zhi_n = len(zhi_matches)
 
     # 决策矩阵：
     # 1) SUBTYPE 显著占优（≥ 2.5×JUAN 且自身 ≥ 10）→ 用 SUBTYPE（如宋史 19×）
-    # 2) JUAN 命中 ≥ 5 → 试 JUAN 切分；若产出卷数 < SUBTYPE/4 则切回 SUBTYPE
-    #    （应对旧唐书/晋书：JUAN_PATTERN 误命中目录，cn_to_int 后过滤剩 1 卷）
+    # 2) JUAN 命中 ≥ 5 → 试 JUAN 切分；若产出卷数 < SUBTYPE/4 且 SUBTYPE 足够多，切回 SUBTYPE
+    #    （应对旧唐书/晋书：JUAN_PATTERN 误命中目录，cn_to_int 后过滤剩 1 卷；
+    #     旧五代史：目录 150 卷后正文卷已失效，_split_by_juan 会过滤空 body 只剩 1 卷）
     # 3) JUAN 不达标 但 SUBTYPE ≥ 10 → 用 SUBTYPE
-    # 4) 都不达标 → 通体不分卷
-    juan_n = len(juan_matches)
-    sub_n = len(sub_matches)
+    # 4) 三国志专属 Pattern D：若 Pattern D ≥ 10，优先用
+    # 5) 都不达标 → 通体不分卷
     if sub_n >= 10 and sub_n >= juan_n * 2.5:
         return _split_by_subtype(text, sub_matches)
     if juan_n >= 5:
         result = _split_by_juan(text, juan_matches)
         if len(result) < max(sub_n // 4, 5) and sub_n >= 10:
             return _split_by_subtype(text, sub_matches)
+        if len(result) < 5 and zhi_n >= 10:
+            return _split_by_zhi(text, zhi_matches)
         return result
     if sub_n >= 10:
         return _split_by_subtype(text, sub_matches)
+    if zhi_n >= 10:
+        return _split_by_zhi(text, zhi_matches)
 
     return [(0, f"{book_name}（通体）", text.strip(), None, None)]
 
 
-def _split_by_juan(
-    text: str, matches: list[re.Match]
+def _split_by_zhi(
+    text: str, matches: list[re.Match], min_body_chars: int = 100
 ) -> list[tuple[int, str, str, str | None, int | None]]:
-    """按 JUAN_PATTERN 分卷，并尝试从卷名反推 sub_type/sub_index。"""
+    """Pattern D 分卷：三国志"魏志卷X / 蜀志卷X / 吴志卷X"。
+
+    juan_num 全书累加；sub_type 取"魏志/蜀志/吴志"；sub_index 为该志内序号。
+    body 太短（目录项）跳过。
+    """
+    juans: list[tuple[int, str, str, str | None, int | None]] = []
+    counter = 0
+    for i, m in enumerate(matches):
+        zhi = m.group(1)
+        idx = cn_to_int(m.group(2))
+        if idx is None:
+            continue
+        body_start = m.end()
+        body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        body = text[body_start:body_end].strip()
+        if len(body) < min_body_chars:
+            continue
+        tail = text[body_start : body_start + 30].split("\n", 1)[0].strip()
+        juan_name = f"{zhi}卷{m.group(2)}{(' ' + tail) if tail else ''}".strip()
+        counter += 1
+        juans.append((counter, juan_name, body, zhi, idx))
+    return juans
+
+
+def _split_by_juan(
+    text: str, matches: list[re.Match], min_body_chars: int = 100
+) -> list[tuple[int, str, str, str | None, int | None]]:
+    """按 JUAN_PATTERN 分卷，并尝试从卷名反推 sub_type/sub_index。
+
+    body 短于 min_body_chars 的视作目录项跳过（旧五代史前半是 150 行目录）。
+    """
     juans: list[tuple[int, str, str, str | None, int | None]] = []
     for i, m in enumerate(matches):
         juan_num_str = m.group(1) or m.group(2)
@@ -293,8 +359,9 @@ def _split_by_juan(
             juan_name = f"卷{juan_num}"
         sub_type, sub_index = _parse_subtype_from_name(juan_name)
         body = text[body_start:body_end].strip()
-        if body:
-            juans.append((juan_num, juan_name, body, sub_type, sub_index))
+        if len(body) < min_body_chars:
+            continue
+        juans.append((juan_num, juan_name, body, sub_type, sub_index))
     return juans
 
 
@@ -310,8 +377,9 @@ def _split_by_subtype(
     juans: list[tuple[int, str, str, str | None, int | None]] = []
     counter = 0
     for i, m in enumerate(matches):
-        sub_type = m.group(1)
-        sub_index = cn_to_int(m.group(2))
+        sub_type = m.group(1) or m.group(3)
+        idx_str = m.group(2) or m.group(4)
+        sub_index = cn_to_int(idx_str)
         if sub_index is None:
             continue
         header_start = m.start()
@@ -324,7 +392,8 @@ def _split_by_subtype(
         # 卷名 = 标识 + 紧跟的 30 字（卷小标题，至换行止）
         tail = text[body_start : body_start + 30]
         tail = tail.split("\n", 1)[0].strip()
-        juan_name = f"{sub_type}第{m.group(2)}{(' ' + tail) if tail else ''}".strip()
+        sep = "第" if m.group(1) else ""
+        juan_name = f"{sub_type}{sep}{idx_str}{(' ' + tail) if tail else ''}".strip()
         counter += 1
         juans.append((counter, juan_name, body, sub_type, sub_index))
     return juans

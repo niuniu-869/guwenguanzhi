@@ -5,7 +5,7 @@
 
 // ============ 书 ============
 
-export type StructureType = 'collection' | 'jizhuan' | 'biannian';
+export type StructureType = "collection" | "jizhuan" | "biannian";
 
 export interface BookIndex {
   /** 稳定 ID，用于路由与目录 */
@@ -80,11 +80,21 @@ export interface Catalog {
 
 // ============ 文档内容 ============
 
+/** 重点字高亮类别（v3 新增，可选） */
+export type HighlightKind =
+  | "ancient_today"
+  | "loan"
+  | "polyphone"
+  | "rare"
+  | "fixed";
+
 export interface Word {
   word: string;
   pinyin: string;
   meaning: string;
   type: string;
+  /** v3 新增：本词在当前语境的重点类别（缺省表示普通词，无需标记） */
+  highlight?: HighlightKind | null;
 }
 
 export interface Sentence {
@@ -103,6 +113,40 @@ export interface Author {
   name: string;
   dynasty: string;
   bio?: string;
+}
+
+/** v3 新增：人物卡关系 */
+export type RelationType =
+  | "父子"
+  | "母子"
+  | "兄弟"
+  | "夫妻"
+  | "君臣"
+  | "师生"
+  | "朋友"
+  | "同僚"
+  | "对手"
+  | "盟友"
+  | "亲属"
+  | "门客"
+  | "下属"
+  | "上司";
+
+export interface CharacterRelation {
+  target: string;
+  type: RelationType | string;
+  note?: string;
+}
+
+/** v3 新增：人物卡 */
+export interface Character {
+  id: string;
+  name: string;
+  aliases?: string[];
+  role: string;
+  stance: string;
+  motive: string;
+  relations?: CharacterRelation[];
 }
 
 export interface Document {
@@ -124,5 +168,7 @@ export interface Document {
   juan?: number;
   category?: string;
   categoryName?: string;
+  /** v3 新增：人物卡（可空数组） */
+  characters?: Character[];
   paragraphs: Paragraph[];
 }
