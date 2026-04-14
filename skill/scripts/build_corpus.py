@@ -106,19 +106,25 @@ BOOK_ID_MAP: dict[str, str] = {
 }
 
 # --------- 正则：分卷 ---------
-# daizhige 原文中卷的常见标识：
-#   "卷一", "卷二", ..., "卷十", "卷百二十"
-#   "第一卷", "第二卷"
-#   "VOL.1", "◎卷一"
-# 保险起见用宽松匹配，命中任一分一卷
+# daizhige 原文卷标识有两类常见格式：
+#   A. 行首"卷X"或"◎卷X"：史记、汉书、元史等小书常见
+#      例： "卷一 五帝本纪第一"
+#   B. 紧跟书名的"<书名>卷X 体裁词"：宋史、明史、清史稿等大书常见
+#      例： "宋史卷四百七十一　　列传第二百三十"  (无换行，贴上一卷末)
+# 用 OR 模式同时匹配。命中后用 group(1) or group(2) 取卷号。
 JUAN_PATTERN = re.compile(
-    r"(?:^|\n)\s*"
-    r"(?:◎|◆|★)?\s*"
-    r"(?:第)?"
-    r"卷\s*"
+    r"(?:"
+    # Pattern A
+    r"(?:^|\n)\s*(?:◎|◆|★)?\s*(?:第)?卷\s*"
     r"([一二三四五六七八九十百千零〇○0-9]+)"
-    r"\s*[^\n]{0,30}"  # 可跟卷名
-    r"(?=\n)"
+    r"\s*[^\n]{0,30}(?=\n)"
+    r"|"
+    # Pattern B：紧跟书名（1-4 汉字）的卷号 + 体裁词
+    r"[\u4e00-\u9fff]{1,4}卷\s*"
+    r"([一二三四五六七八九十百千零〇○0-9]+)"
+    r"\s*[\u3000 ]+"
+    r"(?:本紀|列傳|世家|志|表|本纪|列传|記|记|傳)"
+    r")"
 )
 
 # --------- 中文数字转阿拉伯 ---------
@@ -205,17 +211,21 @@ def split_book_to_juans(
 
     juans: list[tuple[int, str, str]] = []
     for i, m in enumerate(matches):
-        juan_num_str = m.group(1)
+        # group(1) = Pattern A (行首卷X) ; group(2) = Pattern B (书名卷X+体裁)
+        juan_num_str = m.group(1) or m.group(2)
         juan_num = cn_to_int(juan_num_str)
         if juan_num is None:
             continue
-        # 卷名 = 匹配行的剩余部分（直到下一卷或文末）
         header_start = m.start()
         body_start = m.end()
         body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        # 卷名取 header 里卷号之后、换行之前的 30 字
+        # 卷名 = 整个 match 内除卷号外的剩余部分（清掉前缀书名/符号/卷X）
         header_line = text[header_start:body_start].strip()
-        juan_name = re.sub(r"^\s*(?:◎|◆|★)?\s*(?:第)?卷\s*[一二三四五六七八九十百千零〇○0-9]+\s*", "", header_line).strip()
+        juan_name = re.sub(
+            r"^\s*[\u4e00-\u9fff]{0,4}\s*(?:◎|◆|★)?\s*(?:第)?卷\s*[一二三四五六七八九十百千零〇○0-9]+\s*",
+            "",
+            header_line,
+        ).strip()
         if not juan_name:
             juan_name = f"卷{juan_num}"
         body = text[body_start:body_end].strip()
