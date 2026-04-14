@@ -347,9 +347,14 @@ def _split_by_juan(
         if juan_num is None:
             continue
         header_start = m.start()
-        body_start = m.end()
+        # juan_name 取「完整行」而非仅 match 区间（Pattern B 只到体裁词，漏"第N"）
+        line_end_idx = text.find("\n", m.end())
+        if line_end_idx == -1:
+            line_end_idx = min(m.end() + 60, len(text))
+        header_line = text[header_start:line_end_idx].strip()
+        # body 仍然从 match 末尾 或 行末（取更远的）开始，避免重复把 juan_name 计入 body
+        body_start = max(m.end(), line_end_idx)
         body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        header_line = text[header_start:body_start].strip()
         juan_name = re.sub(
             r"^\s*[\u4e00-\u9fff]{0,4}\s*(?:◎|◆|★)?\s*(?:第)?卷\s*[一二三四五六七八九十百千零〇○0-9]+\s*",
             "",
