@@ -32,8 +32,17 @@ VALID_TYPES = {"实词", "虚词", "人名", "地名", "官职", "典故"}
 VALID_HIGHLIGHTS = {"ancient_today", "loan", "polyphone", "rare", "fixed"}
 
 VALID_RELATION_TYPES = {
-    "父子", "母子", "兄弟", "夫妻", "君臣", "师生", "朋友", "同僚",
-    "对手", "盟友", "亲属", "门客", "下属", "上司",
+    # 亲属
+    "父子", "母子", "父女", "母女", "兄弟", "姐妹", "夫妻", "祖孙", "叔侄", "姑侄", "亲属",
+    # 政治 / 职务
+    "君臣", "同僚", "下属", "上司", "门客", "主仆", "上下属", "官民", "治理",
+    # 军事 / 对立
+    "对手", "盟友", "仇人",
+    # 文学 / 学术
+    "师生", "师承", "同窗", "前辈后学", "作者与传主", "评论对象", "引证",
+    "作序者", "请序者", "推荐者", "被推荐者",
+    # 社交
+    "朋友", "知己", "宾主", "恩人", "同情者", "支持者", "反抗者", "推崇", "师友",
 }
 
 # 违禁类型 → 应该归到哪里
@@ -224,8 +233,9 @@ def validate_characters(chars, loc: str) -> list[Issue]:
                                    f"非法 relation.type: '{rt}'", rloc))
             target = rel.get("target", "")
             if target and target not in names_in_cards:
-                issues.append(Issue("warn", "relation_target_unknown",
-                                   f"relation.target '{target}' 不在人物卡列表", rloc))
+                # 外围人物（如"蹇叔之子""唐宪宗"）合理存在于 relation，无需强制入卡
+                issues.append(Issue("info", "relation_target_external",
+                                   f"relation.target '{target}' 为外围人物（不在本篇人物卡内）", rloc))
     return issues
 
 
