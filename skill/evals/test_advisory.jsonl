@@ -1,0 +1,30 @@
+{"id": "adv_001", "prompt": "合伙人理念不合", "query": "合伙人理念不合", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_002", "prompt": "空降 CEO 如何建立权威", "query": "空降 CEO 如何建立权威", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_003", "prompt": "创业初期如何用人", "query": "创业初期如何用人", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_004", "prompt": "接班人选择", "query": "接班人选择", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_005", "prompt": "变法改革的阻力管理", "query": "变法改革的阻力管理", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_006", "prompt": "功高震主的自保", "query": "功高震主的自保", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_007", "prompt": "新官上任如何烧好三把火", "query": "新官上任如何烧好三把火", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_008", "prompt": "团队核心成员叛变", "query": "团队核心成员叛变", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_009", "prompt": "权力交接", "query": "权力交接", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_010", "prompt": "君臣信任建立", "query": "君臣信任建立", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_011", "prompt": "如何进谏", "query": "如何进谏", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_012", "prompt": "异见管理", "query": "异见管理", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_013", "prompt": "用人之疑", "query": "用人之疑", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_014", "prompt": "危机公关", "query": "危机公关", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_015", "prompt": "决策失误后的止损", "query": "决策失误后的止损", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_016", "prompt": "跨文化管理", "query": "跨文化管理", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_017", "prompt": "外交谈判", "query": "外交谈判", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_018", "prompt": "军事与政治的平衡", "query": "军事与政治的平衡", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_019", "prompt": "技术革新的阻力", "query": "技术革新的阻力", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_020", "prompt": "任期末的安排", "query": "任期末的安排", "expected_direct": true, "reason": "合理历史情境"}
+{"id": "adv_021", "prompt": "k8s 集群调优", "query": "k8s 集群调优", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_022", "prompt": "React 组件的最佳实践", "query": "React 组件的最佳实践", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_023", "prompt": "DeFi 流动性挖矿", "query": "DeFi 流动性挖矿", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_024", "prompt": "prompt engineering", "query": "prompt engineering", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_025", "prompt": "短视频运营策略", "query": "短视频运营策略", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_026", "prompt": "跨境电商 SaaS 选品", "query": "跨境电商 SaaS 选品", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_027", "prompt": "A/B 测试方法论", "query": "A/B 测试方法论", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_028", "prompt": "云原生架构设计", "query": "云原生架构设计", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_029", "prompt": "TikTok 算法推荐", "query": "TikTok 算法推荐", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}
+{"id": "adv_030", "prompt": "美容护肤的成分学", "query": "美容护肤的成分学", "expected_direct": false, "reason": "现代专有词，strict 必为 0"}

@@ -1,0 +1,50 @@
+{"id": "dyn_001", "prompt": "孔子 和 秦始皇 有可能见过面吗？", "person_a": "孔子", "person_b": "秦始皇", "expected_can_meet": false, "explanation": "孔子卒前479，秦始皇生前259，相隔 220 年"}
+{"id": "dyn_002", "prompt": "刘邦 和 司马迁 有可能见过面吗？", "person_a": "刘邦", "person_b": "司马迁", "expected_can_meet": false, "explanation": "刘邦卒前195 早于司马迁生前145"}
+{"id": "dyn_003", "prompt": "诸葛亮 和 司马懿 有可能见过面吗？", "person_a": "诸葛亮", "person_b": "司马懿", "expected_can_meet": true, "explanation": "均为三国时期"}
+{"id": "dyn_004", "prompt": "李白 和 杜甫 有可能见过面吗？", "person_a": "李白", "person_b": "杜甫", "expected_can_meet": true, "explanation": "同为盛唐诗人，曾相见"}
+{"id": "dyn_005", "prompt": "王安石 和 苏轼 有可能见过面吗？", "person_a": "王安石", "person_b": "苏轼", "expected_can_meet": true, "explanation": "同为北宋中期"}
+{"id": "dyn_006", "prompt": "岳飞 和 秦桧 有可能见过面吗？", "person_a": "岳飞", "person_b": "秦桧", "expected_can_meet": true, "explanation": "同为南宋初期"}
+{"id": "dyn_007", "prompt": "曹操 和 李世民 有可能见过面吗？", "person_a": "曹操", "person_b": "李世民", "expected_can_meet": false, "explanation": "曹操卒220，李世民生599"}
+{"id": "dyn_008", "prompt": "项羽 和 刘邦 有可能见过面吗？", "person_a": "项羽", "person_b": "刘邦", "expected_can_meet": true, "explanation": "楚汉之争同代"}
+{"id": "dyn_009", "prompt": "班固 和 司马光 有可能见过面吗？", "person_a": "班固", "person_b": "司马光", "expected_can_meet": false, "explanation": "班固东汉，司马光北宋，相隔近千年"}
+{"id": "dyn_010", "prompt": "孔子 和 孟子 有可能见过面吗？", "person_a": "孔子", "person_b": "孟子", "expected_can_meet": false, "explanation": "孔子卒前479，孟子生前372"}
+{"id": "dyn_011", "prompt": "韩愈 和 柳宗元 有可能见过面吗？", "person_a": "韩愈", "person_b": "柳宗元", "expected_can_meet": true, "explanation": "同为中唐古文运动"}
+{"id": "dyn_012", "prompt": "欧阳修 和 王安石 有可能见过面吗？", "person_a": "欧阳修", "person_b": "王安石", "expected_can_meet": true, "explanation": "同为北宋中期"}
+{"id": "dyn_013", "prompt": "朱熹 和 陆九渊 有可能见过面吗？", "person_a": "朱熹", "person_b": "陆九渊", "expected_can_meet": true, "explanation": "南宋同期理学家"}
+{"id": "dyn_014", "prompt": "王阳明 和 朱熹 有可能见过面吗？", "person_a": "王阳明", "person_b": "朱熹", "expected_can_meet": false, "explanation": "朱熹卒1200，王阳明生1472"}
+{"id": "dyn_015", "prompt": "张良 和 诸葛亮 有可能见过面吗？", "person_a": "张良", "person_b": "诸葛亮", "expected_can_meet": false, "explanation": "张良汉初，诸葛亮三国，隔400年"}
+{"id": "dyn_016", "prompt": "秦始皇 和 汉武帝 有可能见过面吗？", "person_a": "秦始皇", "person_b": "汉武帝", "expected_can_meet": false, "explanation": "秦始皇卒前210，汉武帝生前156"}
+{"id": "dyn_017", "prompt": "汉武帝 和 霍去病 有可能见过面吗？", "person_a": "汉武帝", "person_b": "霍去病", "expected_can_meet": true, "explanation": "君臣同代"}
+{"id": "dyn_018", "prompt": "唐玄宗 和 杨贵妃 有可能见过面吗？", "person_a": "唐玄宗", "person_b": "杨贵妃", "expected_can_meet": true, "explanation": "君臣/君妃同代"}
+{"id": "dyn_019", "prompt": "安禄山 和 李白 有可能见过面吗？", "person_a": "安禄山", "person_b": "李白", "expected_can_meet": true, "explanation": "安史之乱时李白在世"}
+{"id": "dyn_020", "prompt": "成吉思汗 和 忽必烈 有可能见过面吗？", "person_a": "成吉思汗", "person_b": "忽必烈", "expected_can_meet": true, "explanation": "祖孙"}
+{"id": "dyn_021", "prompt": "朱元璋 和 朱棣 有可能见过面吗？", "person_a": "朱元璋", "person_b": "朱棣", "expected_can_meet": true, "explanation": "父子"}
+{"id": "dyn_022", "prompt": "玄烨 和 雍正 有可能见过面吗？", "person_a": "玄烨", "person_b": "雍正", "expected_can_meet": true, "explanation": "父子"}
+{"id": "dyn_023", "prompt": "戚继光 和 张居正 有可能见过面吗？", "person_a": "戚继光", "person_b": "张居正", "expected_can_meet": true, "explanation": "明中期同代"}
+{"id": "dyn_024", "prompt": "李世民 和 武则天 有可能见过面吗？", "person_a": "李世民", "person_b": "武则天", "expected_can_meet": true, "explanation": "武则天为李世民才人，后为李治皇后"}
+{"id": "dyn_025", "prompt": "王莽 和 刘歆 有可能见过面吗？", "person_a": "王莽", "person_b": "刘歆", "expected_can_meet": true, "explanation": "王莽与刘歆（光武族兄）同代"}
+{"id": "dyn_026", "prompt": "项羽 和 韩信 有可能见过面吗？", "person_a": "项羽", "person_b": "韩信", "expected_can_meet": true, "explanation": "楚汉之争同代"}
+{"id": "dyn_027", "prompt": "范仲淹 和 司马光 有可能见过面吗？", "person_a": "范仲淹", "person_b": "司马光", "expected_can_meet": true, "explanation": "北宋同期"}
+{"id": "dyn_028", "prompt": "曾国藩 和 左宗棠 有可能见过面吗？", "person_a": "曾国藩", "person_b": "左宗棠", "expected_can_meet": true, "explanation": "晚清同代"}
+{"id": "dyn_029", "prompt": "孙武 和 孔子 有可能见过面吗？", "person_a": "孙武", "person_b": "孔子", "expected_can_meet": true, "explanation": "春秋末同代"}
+{"id": "dyn_030", "prompt": "墨翟 和 孔丘 有可能见过面吗？", "person_a": "墨翟", "person_b": "孔丘", "expected_can_meet": false, "explanation": "墨子生前468，孔子卒前479（略有异说；figure_cards 可能缺）"}
+{"id": "dyn_031", "prompt": "屈原 和 秦始皇 有可能见过面吗？", "person_a": "屈原", "person_b": "秦始皇", "expected_can_meet": false, "explanation": "屈原卒前278 早于秦始皇生前259"}
+{"id": "dyn_032", "prompt": "蔺相如 和 廉颇 有可能见过面吗？", "person_a": "蔺相如", "person_b": "廉颇", "expected_can_meet": true, "explanation": "战国赵将同代"}
+{"id": "dyn_033", "prompt": "韩非 和 李斯 有可能见过面吗？", "person_a": "韩非", "person_b": "李斯", "expected_can_meet": true, "explanation": "同为荀子弟子"}
+{"id": "dyn_034", "prompt": "司马懿 和 曹操 有可能见过面吗？", "person_a": "司马懿", "person_b": "曹操", "expected_can_meet": true, "explanation": "司马懿在曹操幕府"}
+{"id": "dyn_035", "prompt": "关羽 和 张飞 有可能见过面吗？", "person_a": "关羽", "person_b": "张飞", "expected_can_meet": true, "explanation": "三国同代"}
+{"id": "dyn_036", "prompt": "郭嘉 和 诸葛亮 有可能见过面吗？", "person_a": "郭嘉", "person_b": "诸葛亮", "expected_can_meet": true, "explanation": "郭嘉生170卒207，诸葛亮生181，活期部分交叠"}
+{"id": "dyn_037", "prompt": "王安石 和 岳飞 有可能见过面吗？", "person_a": "王安石", "person_b": "岳飞", "expected_can_meet": false, "explanation": "王安石卒1086，岳飞生1103"}
+{"id": "dyn_038", "prompt": "欧阳修 和 朱熹 有可能见过面吗？", "person_a": "欧阳修", "person_b": "朱熹", "expected_can_meet": false, "explanation": "欧阳修卒1072，朱熹生1130"}
+{"id": "dyn_039", "prompt": "霍去病 和 霍光 有可能见过面吗？", "person_a": "霍去病", "person_b": "霍光", "expected_can_meet": true, "explanation": "异母兄弟"}
+{"id": "dyn_040", "prompt": "贾谊 和 司马相如 有可能见过面吗？", "person_a": "贾谊", "person_b": "司马相如", "expected_can_meet": true, "explanation": "西汉同代"}
+{"id": "dyn_041", "prompt": "班超 和 班固 有可能见过面吗？", "person_a": "班超", "person_b": "班固", "expected_can_meet": true, "explanation": "兄弟"}
+{"id": "dyn_042", "prompt": "韩信 和 萧何 有可能见过面吗？", "person_a": "韩信", "person_b": "萧何", "expected_can_meet": true, "explanation": "同为汉初功臣"}
+{"id": "dyn_043", "prompt": "陆游 和 辛弃疾 有可能见过面吗？", "person_a": "陆游", "person_b": "辛弃疾", "expected_can_meet": true, "explanation": "同为南宋中期"}
+{"id": "dyn_044", "prompt": "李清照 和 辛弃疾 有可能见过面吗？", "person_a": "李清照", "person_b": "辛弃疾", "expected_can_meet": true, "explanation": "南宋同代"}
+{"id": "dyn_045", "prompt": "郑成功 和 康熙 有可能见过面吗？", "person_a": "郑成功", "person_b": "康熙", "expected_can_meet": true, "explanation": "郑成功卒1662，康熙继位1661"}
+{"id": "dyn_046", "prompt": "张居正 和 戚继光 有可能见过面吗？", "person_a": "张居正", "person_b": "戚继光", "expected_can_meet": true, "explanation": "同为明万历初年"}
+{"id": "dyn_047", "prompt": "海瑞 和 张居正 有可能见过面吗？", "person_a": "海瑞", "person_b": "张居正", "expected_can_meet": true, "explanation": "同为明中晚期"}
+{"id": "dyn_048", "prompt": "孔子 和 老子 有可能见过面吗？", "person_a": "孔子", "person_b": "老子", "expected_can_meet": true, "explanation": "据传孔子曾问礼于老子"}
+{"id": "dyn_049", "prompt": "郦食其 和 刘邦 有可能见过面吗？", "person_a": "郦食其", "person_b": "刘邦", "expected_can_meet": true, "explanation": "楚汉同代"}
+{"id": "dyn_050", "prompt": "董仲舒 和 司马迁 有可能见过面吗？", "person_a": "董仲舒", "person_b": "司马迁", "expected_can_meet": true, "explanation": "同为汉武帝朝"}
