@@ -116,10 +116,11 @@ def query_to_fts(query: str) -> str:
         # 用双引号让 unicode61 按空格切成一整个短语
         return f'"{bigrams}"'
 
-    # 空格分隔的多个词 → 各自 bigram + AND（FTS5 默认 AND）
+    # 空格分隔的多个词 → 各自 bigram 后扁平化为空格 AND
+    # 非 CJK 词（如 "CEO"）的 bigram 为空串，需过滤
     if " " in query:
         parts = [to_bigrams(p) for p in query.split() if p.strip()]
-        return " ".join(f'({p})' for p in parts if p)
+        return " ".join(p for p in parts if p)
 
     # 单个词
     return to_bigrams(query)
