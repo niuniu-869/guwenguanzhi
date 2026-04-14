@@ -1,8 +1,11 @@
 # china-classics
 
 > 中国古典文献阅读 + 历史咨询的 Agent Skill
-> **状态**: 🚧 开发中 (v0.1 skeleton, Stage 0 完成)
-> **上游**: [guwenguanzhi_ai](https://github.com/niuniu-869/guwenguanzhi) 项目，v1.0 ready 后拆出独立仓库
+> **状态**: v1.0.0-rc1（所有 Stage 完成，评测通过）
+> **上游**: [guwenguanzhi_ai](https://github.com/niuniu-869/guwenguanzhi) 项目
+>
+> **数据规模**：169k 段原文 / 3240 卷 metadata / 12175 人物卡 / 18811 事件 / 9649 advisory
+> **Evals**: citation 92% / figures 100% / dynasty 84% / advisory 93%
 
 ## 定位
 
@@ -69,27 +72,39 @@ L3 深度标注 — 古文观止 222 篇（复用阅读器数据）
 | Stage | 内容 | 进度 |
 |---|---|---|
 | 0 | 文档 + 骨架 | ✅ |
-| 1 | L1 底本接入 (corpus.sqlite + search/cite) | 🚧 |
-| 2 | L2 元数据 pilot (史记 130 卷) | ⏳ |
-| 3 | L2 全量 (其余 23 部史) | ⏳ |
-| 4 | references/ 核心层 (5 子目录) | ⏳ |
-| 5 | scripts/ 查询工具完善 | ⏳ |
-| 6 | evals/ 反幻觉测试 (330+ 条) | ⏳ |
-| 7 | SKILL.md 定稿 + v1.0 发布 | ⏳ |
+| 1 | L1 底本接入 (corpus.sqlite + search/cite) | ✅ |
+| 2 | L2 元数据 pilot (史记 104 卷) | ✅ |
+| 3 | L2 全量 (24 史 + 清史稿 共 3240 卷) | ✅ |
+| 4 | references/ 核心层 (advisory + linguistic + classics + history + figures) | ✅ |
+| 5 | scripts/ 高层 API (lookup/analogy/timeline) | ✅ |
+| 6 | evals/ 反幻觉测试 (330 条) | ✅ |
+| 7 | SKILL.md 定稿 + v1.0 发布 | ✅ |
 
 ## 本地开发
 
 ```bash
 cd skill/
-# 1. 拉取底本 vendor
+# 1. 拉取底本 vendor（二十四史 + AncientDoc + NiuTrans）
 bash scripts/vendor/pull_all.sh
 
-# 2. 构建 FTS5 全文检索
+# 2. 构建 FTS5 全文检索语料
 python scripts/build_corpus.py
 
-# 3. 验证查询
+# 3. 构建 L2 元数据索引（需 MIMO_API_KEY）
+python scripts/metadata/generate.py       # 生成 3240 卷 JSON
+python scripts/metadata/build_index.py    # 合并到 metadata.sqlite
+
+# 4. 验证核心工具
 python scripts/search.py "管仲" --limit 10
-python scripts/cite.py "史记/卷062/段3"
+python scripts/cite.py shiji/世家/25
+python scripts/cite.py --verify "运筹策帷帐之中"
+python scripts/lookup.py 张良
+python scripts/lookup.py --place 长安
+python scripts/analogy.py "合伙人理念不合"
+python scripts/timeline.py --from 755 --to 763
+
+# 5. 跑 evals 反幻觉测试（330 条）
+python evals/build_evals.py && python evals/run_evals.py
 ```
 
 ## 数据来源与许可

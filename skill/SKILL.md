@@ -14,8 +14,9 @@ license: MIT (code) + CC BY-SA 4.0 (wiki)
 
 # 中国古典文献与历史专家
 
-> **状态**: v0.4（Stage 4 完成 advisory + linguistic 核心层）
+> **状态**: v1.0.0-rc1（Stage 7 发布候选，所有 references + evals 已完成）
 > **数据规模**: 169 k 段原文 / 3240 卷 metadata / 12175 人物卡 / 18811 事件 / 9649 advisory
+> **评测基线**: citation 92% / figures 100% / dynasty 84% / advisory 93%
 
 ## 何时使用（触发场景）
 
@@ -130,10 +131,14 @@ license: MIT (code) + CC BY-SA 4.0 (wiki)
 - [`annotation-guide.md`](references/linguistic/annotation-guide.md) — 四层注释
 - [`citation-format.md`](references/linguistic/citation-format.md) — 引用规范
 
-### Stage 4.2 待补
-- `classics/` 24 本典籍导读
-- `history/` 6 篇朝代脉络
-- `figures/` 人物档案按朝代
+### [`classics/`](references/classics/) — 25 本正史导读
+每本 `<book_id>.md`：作者/成书/首读推荐/语言难点/引用格式/工具联动。见 [`_index.md`](references/classics/_index.md)。
+
+### [`history/`](references/history/) — 6 篇朝代脉络
+`pre_qin` / `qin_han` / `wei_jin_nbc` / `sui_tang` / `song_yuan` / `ming_qing`。每篇含时间轴（带 URN）+ 分期 + 核心人物 + 读史坑。
+
+### [`figures/`](references/figures/) — 人物档案（按朝代）
+同 6 朝代切分，基于 `figure_cards` occurrences ≥5 聚合，查询用 `lookup.py`。
 
 ---
 
