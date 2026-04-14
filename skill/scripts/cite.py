@@ -1,15 +1,25 @@
 #!/usr/bin/env python3
-"""原文引用校验器。给定 URN 或待校验片段，返回规范【书·卷·段】引用 + 原文。
+"""原文引用校验器。给定 URN（数字或语义）或待校验片段，返回规范【书·卷·段】引用 + 原文。
 
 用法：
-    python skill/scripts/cite.py shiji/006/001             # URN 格式
-    python skill/scripts/cite.py "shiji/6/1"                # 非零填充也接受
-    python skill/scripts/cite.py --verify "民为贵社稷次之"  # 校验片段是否在库
+    # 数字 URN（书 / 卷号 / 段号）
+    python skill/scripts/cite.py shiji/006/001
+    python skill/scripts/cite.py "shiji/6/1"
+
+    # 语义 URN（书 / 体裁 / 体裁内序号[/段号]）★Stage 1.5 新增
+    python skill/scripts/cite.py shiji/世家/030          # 史记·留侯世家 全卷段1
+    python skill/scripts/cite.py shiji/世家/030/003      # 史记·留侯世家 段3
+    python skill/scripts/cite.py shiji/本纪/7            # 史记·项羽本纪
+    python skill/scripts/cite.py mingshi/本纪/1          # 明史·太祖本纪
+
+    # 片段校验
+    python skill/scripts/cite.py --verify "民为贵社稷次之"
     python skill/scripts/cite.py --verify "君子之交淡若水" --strict
 
 场景：
   - agent 要引用原文前调此脚本，不存在则拒答（反幻觉）
   - --verify 支持片段校验：若片段在某处原文出现则返回命中，否则返回 {"found": false}
+  - 语义 URN 让"《史记·留侯世家》"这种典籍引用方式直接可达，跨书统一
 """
 
 from __future__ import annotations
@@ -19,20 +29,10 @@ import json
 import sqlite3
 import sys
 
-from _corpus import require_corpus, format_citation, parse_urn, query_to_fts
+from _corpus import require_corpus, format_citation, parse_urn, parse_semantic_urn, query_to_fts
 
 
-def lookup_by_urn(conn: sqlite3.Connection, book_id: str, juan: int, segment: int) -> dict | None:
-    cur = conn.execute(
-        "SELECT book_id, book_name, juan, juan_name, segment, text, urn "
-        "FROM documents "
-        "WHERE book_id = ? AND juan = ? AND segment = ? "
-        "LIMIT 1",
-        (book_id, juan, segment),
-    )
-    row = cur.fetchone()
-    if not row:
-        return None
+def _row_to_dict(row: sqlite3.Row) -> dict:
     return {
         "urn": row["urn"],
         "book_id": row["book_id"],
@@ -40,9 +40,55 @@ def lookup_by_urn(conn: sqlite3.Connection, book_id: str, juan: int, segment: in
         "juan": row["juan"],
         "juan_name": row["juan_name"],
         "segment": row["segment"],
+        "sub_type": row["sub_type"] if "sub_type" in row.keys() else None,
+        "sub_index": row["sub_index"] if "sub_index" in row.keys() else None,
         "text": row["text"],
         "citation": format_citation(row),
     }
+
+
+def lookup_by_urn(conn: sqlite3.Connection, book_id: str, juan: int, segment: int) -> dict | None:
+    cur = conn.execute(
+        "SELECT book_id, book_name, juan, juan_name, segment, sub_type, sub_index, text, urn "
+        "FROM documents "
+        "WHERE book_id = ? AND juan = ? AND segment = ? "
+        "LIMIT 1",
+        (book_id, juan, segment),
+    )
+    row = cur.fetchone()
+    return _row_to_dict(row) if row else None
+
+
+def lookup_by_semantic(
+    conn: sqlite3.Connection,
+    book_id: str,
+    sub_type: str,
+    sub_index: int,
+    segment: int | None,
+) -> list[dict]:
+    """按 (book_id, sub_type, sub_index) 查整卷或单段。
+
+    若 segment 给定 → 返回单段 dict 列表 (0/1 元素)
+    若 segment 为 None → 返回该卷所有段（按 segment 升序）
+    """
+    if segment is not None:
+        cur = conn.execute(
+            "SELECT book_id, book_name, juan, juan_name, segment, sub_type, sub_index, text, urn "
+            "FROM documents "
+            "WHERE book_id = ? AND sub_type = ? AND sub_index = ? AND segment = ? "
+            "LIMIT 1",
+            (book_id, sub_type, sub_index, segment),
+        )
+    else:
+        cur = conn.execute(
+            "SELECT book_id, book_name, juan, juan_name, segment, sub_type, sub_index, text, urn "
+            "FROM documents "
+            "WHERE book_id = ? AND sub_type = ? AND sub_index = ? "
+            "ORDER BY segment LIMIT 100",
+            (book_id, sub_type, sub_index),
+        )
+    rows = cur.fetchall()
+    return [_row_to_dict(r) for r in rows]
 
 
 def verify_phrase(conn: sqlite3.Connection, phrase: str, strict: bool = False) -> list[dict]:
@@ -122,11 +168,39 @@ def main() -> None:
                     print(f"  {i}. {marker} {h['citation']}")
                     print(f"     {h['text'][:100]}{'...' if len(h['text']) > 100 else ''}")
         else:
-            # URN 模式
+            # 优先尝试语义 URN（如 shiji/世家/030 或 shiji/世家/030/001）
+            sem = parse_semantic_urn(args.arg)
+            if sem:
+                book_id, sub_type, sub_index, segment = sem
+                results = lookup_by_semantic(conn, book_id, sub_type, sub_index, segment)
+                if not results:
+                    msg = f"⛔ 语义 URN {args.arg!r} 未命中（{book_id}·{sub_type}第{sub_index}）"
+                    if args.json:
+                        print(json.dumps({"urn": args.arg, "found": False}, ensure_ascii=False))
+                    else:
+                        print(msg)
+                    sys.exit(3)
+                if args.json:
+                    payload = {"urn": args.arg, "found": True, "count": len(results), "segments": results}
+                    print(json.dumps(payload, ensure_ascii=False, indent=2))
+                else:
+                    print(f"✅ 语义 URN {args.arg!r} 命中 {len(results)} 段")
+                    print("-" * 60)
+                    for r in results[:10]:
+                        print(r["citation"])
+                        print(r["text"][:300] + ("..." if len(r["text"]) > 300 else ""))
+                        print()
+                    if len(results) > 10:
+                        print(f"...（共 {len(results)} 段，仅示前 10）")
+                return
+
+            # 回退到数字 URN
             parsed = parse_urn(args.arg)
             if not parsed:
                 print(f"[fatal] URN 格式错误：{args.arg!r}", file=sys.stderr)
-                print("  应为 book_id/juan/segment，如 shiji/006/001", file=sys.stderr)
+                print("  数字 URN: book_id/juan/segment，如 shiji/006/001", file=sys.stderr)
+                print("  语义 URN: book_id/<体裁>/<序号>[/segment]，如 shiji/世家/030", file=sys.stderr)
+                print("  支持的体裁: 本纪/列传/世家/志/表/书", file=sys.stderr)
                 sys.exit(1)
             book_id, juan, segment = parsed
             result = lookup_by_urn(conn, book_id, juan, segment)

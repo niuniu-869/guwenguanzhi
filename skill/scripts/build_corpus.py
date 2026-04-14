@@ -127,6 +127,16 @@ JUAN_PATTERN = re.compile(
     r")"
 )
 
+# --------- 正则：体裁分卷（Pattern C）---------
+# OpenCC t2s 后已统一简体。匹配"<体裁>第<序号>"作为体裁内分卷标识。
+# 史记的"书"如《天官书》《封禅书》；汉书以后改"志"如《五行志》。
+# Pattern C 仅用于"卷X"标识缺失的大书（宋史/明史/清史稿/旧唐书/新唐书等）的兜底分卷。
+SUBTYPE_PATTERN = re.compile(
+    r"(本纪|列传|世家|志|表|书)第([一二三四五六七八九十百千零〇○0-9]+)"
+)
+# 已识别的体裁集合，用于从 juan_name 反推 sub_type
+SUBTYPES = ("本纪", "列传", "世家", "志", "表", "书")
+
 # --------- 中文数字转阿拉伯 ---------
 _CN_NUM = {
     "零": 0, "〇": 0, "○": 0,
@@ -179,10 +189,19 @@ class Segment:
     juan_name: str
     segment: int
     text: str
+    sub_type: str | None = None      # 本纪/列传/世家/志/表/书；可空
+    sub_index: int | None = None     # 该体裁内的序号；可空
 
     @property
     def urn(self) -> str:
         return f"{self.book_id}/{self.juan:03d}/{self.segment:03d}"
+
+    @property
+    def semantic_urn(self) -> str | None:
+        """语义化 URN，如 shiji/世家/030/001。仅当 sub_type/sub_index 都有时返回。"""
+        if self.sub_type and self.sub_index is not None:
+            return f"{self.book_id}/{self.sub_type}/{self.sub_index:03d}/{self.segment:03d}"
+        return None
 
     @property
     def char_count(self) -> int:
@@ -198,20 +217,65 @@ def normalize_text(text: str) -> str:
     text = text.replace("\u3000", " ").replace("\ufeff", "")
     return text
 
+def _parse_subtype_from_name(name: str) -> tuple[str | None, int | None]:
+    """从 juan_name 反推 (sub_type, sub_index)。
+
+    Examples:
+        "五帝本纪第一"      → ("本纪", 1)
+        "管晏列传第二"      → ("列传", 2)
+        "六国年表第三"      → ("表", 3)
+        "天官书第五"        → ("书", 5)
+        "本纪第一 太祖一"   → ("本纪", 1)
+        "列传第二百三十"    → ("列传", 230)
+    """
+    m = SUBTYPE_PATTERN.search(name)
+    if not m:
+        return None, None
+    sub_type = m.group(1)
+    sub_index = cn_to_int(m.group(2))
+    return sub_type, sub_index
+
+
 def split_book_to_juans(
     text: str, book_id: str, book_name: str
-) -> list[tuple[int, str, str]]:
-    """把一本书的全文切分为 (juan_num, juan_name, juan_body) 列表。
+) -> list[tuple[int, str, str, str | None, int | None]]:
+    """把一本书的全文切分为 (juan_num, juan_name, juan_body, sub_type, sub_index) 列表。
 
-    若找不到卷标识，退化为单"卷 0"（通体不分）。
+    优先级：
+      1. JUAN_PATTERN（卷X）匹配 ≥ 5 处 → 主分卷器。每卷尝试从 juan_name 反推 sub_type/sub_index。
+      2. 否则 SUBTYPE_PATTERN（本纪第N/列传第N/...）兜底分卷（适用宋史/明史/清史稿等大书）。
+      3. 都没有 → 单"卷 0"通体（极少见，仅小补注/非正史）。
     """
-    matches = list(JUAN_PATTERN.finditer(text))
-    if not matches:
-        return [(0, f"{book_name}（通体）", text.strip())]
+    juan_matches = list(JUAN_PATTERN.finditer(text))
+    sub_matches = list(SUBTYPE_PATTERN.finditer(text))
 
-    juans: list[tuple[int, str, str]] = []
+    # 决策矩阵：
+    # 1) SUBTYPE 显著占优（≥ 2.5×JUAN 且自身 ≥ 10）→ 用 SUBTYPE（如宋史 19×）
+    # 2) JUAN 命中 ≥ 5 → 试 JUAN 切分；若产出卷数 < SUBTYPE/4 则切回 SUBTYPE
+    #    （应对旧唐书/晋书：JUAN_PATTERN 误命中目录，cn_to_int 后过滤剩 1 卷）
+    # 3) JUAN 不达标 但 SUBTYPE ≥ 10 → 用 SUBTYPE
+    # 4) 都不达标 → 通体不分卷
+    juan_n = len(juan_matches)
+    sub_n = len(sub_matches)
+    if sub_n >= 10 and sub_n >= juan_n * 2.5:
+        return _split_by_subtype(text, sub_matches)
+    if juan_n >= 5:
+        result = _split_by_juan(text, juan_matches)
+        if len(result) < max(sub_n // 4, 5) and sub_n >= 10:
+            return _split_by_subtype(text, sub_matches)
+        return result
+    if sub_n >= 10:
+        return _split_by_subtype(text, sub_matches)
+
+    return [(0, f"{book_name}（通体）", text.strip(), None, None)]
+
+
+def _split_by_juan(
+    text: str, matches: list[re.Match]
+) -> list[tuple[int, str, str, str | None, int | None]]:
+    """按 JUAN_PATTERN 分卷，并尝试从卷名反推 sub_type/sub_index。"""
+    juans: list[tuple[int, str, str, str | None, int | None]] = []
     for i, m in enumerate(matches):
-        # group(1) = Pattern A (行首卷X) ; group(2) = Pattern B (书名卷X+体裁)
         juan_num_str = m.group(1) or m.group(2)
         juan_num = cn_to_int(juan_num_str)
         if juan_num is None:
@@ -219,7 +283,6 @@ def split_book_to_juans(
         header_start = m.start()
         body_start = m.end()
         body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        # 卷名 = 整个 match 内除卷号外的剩余部分（清掉前缀书名/符号/卷X）
         header_line = text[header_start:body_start].strip()
         juan_name = re.sub(
             r"^\s*[\u4e00-\u9fff]{0,4}\s*(?:◎|◆|★)?\s*(?:第)?卷\s*[一二三四五六七八九十百千零〇○0-9]+\s*",
@@ -228,9 +291,42 @@ def split_book_to_juans(
         ).strip()
         if not juan_name:
             juan_name = f"卷{juan_num}"
+        sub_type, sub_index = _parse_subtype_from_name(juan_name)
         body = text[body_start:body_end].strip()
         if body:
-            juans.append((juan_num, juan_name, body))
+            juans.append((juan_num, juan_name, body, sub_type, sub_index))
+    return juans
+
+
+def _split_by_subtype(
+    text: str, matches: list[re.Match], min_body_chars: int = 100
+) -> list[tuple[int, str, str, str | None, int | None]]:
+    """SUBTYPE 兜底分卷：每个 "本纪第N/列传第N/..." 标识起一个新卷。
+
+    juan_num 用全书 running counter（1, 2, 3, ...）。
+    juan_name 取标识 + 后续 30 字（直到换行或下个标识）。
+    body 短于 min_body_chars 的视作目录项，跳过。
+    """
+    juans: list[tuple[int, str, str, str | None, int | None]] = []
+    counter = 0
+    for i, m in enumerate(matches):
+        sub_type = m.group(1)
+        sub_index = cn_to_int(m.group(2))
+        if sub_index is None:
+            continue
+        header_start = m.start()
+        body_start = m.end()
+        body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        body = text[body_start:body_end].strip()
+        # 跳过过短的 body（多为目录项 "本纪第一本纪第二..."）
+        if len(body) < min_body_chars:
+            continue
+        # 卷名 = 标识 + 紧跟的 30 字（卷小标题，至换行止）
+        tail = text[body_start : body_start + 30]
+        tail = tail.split("\n", 1)[0].strip()
+        juan_name = f"{sub_type}第{m.group(2)}{(' ' + tail) if tail else ''}".strip()
+        counter += 1
+        juans.append((counter, juan_name, body, sub_type, sub_index))
     return juans
 
 def split_juan_to_segments(body: str, max_chars: int = 500) -> list[str]:
@@ -271,7 +367,7 @@ def parse_file(path: Path) -> Iterator[Segment]:
     text = normalize_text(raw)
 
     juans = split_book_to_juans(text, book_id, stem)
-    for juan_num, juan_name, body in juans:
+    for juan_num, juan_name, body, sub_type, sub_index in juans:
         segments = split_juan_to_segments(body)
         for i, seg_text in enumerate(segments, 1):
             yield Segment(
@@ -281,6 +377,8 @@ def parse_file(path: Path) -> Iterator[Segment]:
                 juan_name=juan_name,
                 segment=i,
                 text=seg_text,
+                sub_type=sub_type,
+                sub_index=sub_index,
             )
 
 # --------- SQLite 构建 ---------
@@ -295,6 +393,8 @@ CREATE TABLE IF NOT EXISTS documents (
     segment INTEGER NOT NULL,
     text TEXT NOT NULL,
     text_ngram TEXT NOT NULL,  -- bigram 空格串，供 FTS 索引
+    sub_type TEXT,             -- 本纪/列传/世家/志/表/书；可空
+    sub_index INTEGER,         -- 体裁内序号；可空
     char_count INTEGER NOT NULL,
     urn TEXT NOT NULL UNIQUE
 );
@@ -321,6 +421,7 @@ CREATE TRIGGER IF NOT EXISTS documents_ad AFTER DELETE ON documents BEGIN
 END;
 
 CREATE INDEX IF NOT EXISTS idx_book_juan ON documents(book_id, juan, segment);
+CREATE INDEX IF NOT EXISTS idx_book_subtype ON documents(book_id, sub_type, sub_index);
 """
 
 def init_db(rebuild: bool = False) -> sqlite3.Connection:
@@ -339,10 +440,12 @@ def ingest_segments(conn: sqlite3.Connection, segments: list[Segment]) -> int:
     for seg in segments:
         try:
             cur.execute(
-                "INSERT INTO documents(book_id, book_name, juan, juan_name, segment, text, text_ngram, char_count, urn) "
-                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                "INSERT INTO documents(book_id, book_name, juan, juan_name, segment, "
+                "text, text_ngram, sub_type, sub_index, char_count, urn) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                 (seg.book_id, seg.book_name, seg.juan, seg.juan_name,
-                 seg.segment, seg.text, to_bigrams(seg.text), seg.char_count, seg.urn),
+                 seg.segment, seg.text, to_bigrams(seg.text),
+                 seg.sub_type, seg.sub_index, seg.char_count, seg.urn),
             )
             inserted += 1
         except sqlite3.IntegrityError:
@@ -432,10 +535,14 @@ def inspect(filename: str) -> None:
 
     juans = split_book_to_juans(text, book_id, stem)
     print(f"\n[juans] 切分出 {len(juans)} 卷")
-    for i, (num, name, body) in enumerate(juans[:5]):
-        print(f"  卷{num} 《{name}》: {len(body)} 字，首段：{body[:80]}...")
+    for i, (num, name, body, sub_type, sub_index) in enumerate(juans[:5]):
+        st = f" [{sub_type}#{sub_index}]" if sub_type else ""
+        print(f"  卷{num}{st} 《{name}》: {len(body)} 字，首段：{body[:80]}...")
     if len(juans) > 5:
         print(f"  ...（共 {len(juans)} 卷，仅示前 5）")
+    # 体裁覆盖统计
+    typed = sum(1 for j in juans if j[3])
+    print(f"\n[subtypes] 有体裁标注的卷: {typed}/{len(juans)}")
 
     if juans:
         segs = split_juan_to_segments(juans[0][2])

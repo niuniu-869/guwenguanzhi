@@ -125,10 +125,13 @@ def query_to_fts(query: str) -> str:
     return to_bigrams(query)
 
 
-def parse_urn(urn: str) -> tuple[str, int, int] | None:
-    """把 URN 字符串解析为 (book_id, juan, segment)。
+SUBTYPES = ("本纪", "列传", "世家", "志", "表", "书")
 
-    支持两种格式：
+
+def parse_urn(urn: str) -> tuple[str, int, int] | None:
+    """把数字 URN 解析为 (book_id, juan, segment)。
+
+    支持：
       - "shiji/006/003"
       - "shiji/6/3"
     不合法返回 None。
@@ -145,3 +148,34 @@ def parse_urn(urn: str) -> tuple[str, int, int] | None:
     if not book_id or juan < 0 or segment < 0:
         return None
     return book_id, juan, segment
+
+
+def parse_semantic_urn(urn: str) -> tuple[str, str, int, int | None] | None:
+    """把语义 URN 解析为 (book_id, sub_type, sub_index, segment | None)。
+
+    支持：
+      - "shiji/世家/030/001"     → 史记·世家第30·段1
+      - "shiji/世家/030"          → 史记·世家第30 全卷（segment=None）
+      - "shiji/本纪/6"            → 史记·本纪第6
+    第二段必须是已知体裁名（本纪/列传/世家/志/表/书）。
+    """
+    parts = urn.strip().split("/")
+    if len(parts) not in (3, 4):
+        return None
+    book_id = parts[0].strip()
+    sub_type = parts[1].strip()
+    if sub_type not in SUBTYPES:
+        return None
+    try:
+        sub_index = int(parts[2])
+    except ValueError:
+        return None
+    segment: int | None = None
+    if len(parts) == 4:
+        try:
+            segment = int(parts[3])
+        except ValueError:
+            return None
+    if not book_id or sub_index < 0 or (segment is not None and segment < 0):
+        return None
+    return book_id, sub_type, sub_index, segment
