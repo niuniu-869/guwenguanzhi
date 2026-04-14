@@ -88,16 +88,19 @@ def lookup_person(conn: sqlite3.Connection, name: str) -> list[dict]:
 
 
 def lookup_place(conn: sqlite3.Connection, place: str, limit: int = 10) -> list[dict]:
-    """地名查询：精确或 LIKE。"""
+    """地名查询：按 (book_id, sub_type, sub_index) 去重聚合，返回每卷一条。"""
     cur = conn.execute(
-        "SELECT g.book_id, g.sub_type, g.sub_index, g.place, "
+        "SELECT g.book_id, g.sub_type, g.sub_index, "
+        "       MIN(g.place) AS place, "
+        "       COUNT(*) AS mentions, "
         "       j.juan, j.title, j.juan_name, j.historical_period "
         "FROM geography_items g "
         "LEFT JOIN juans j ON j.book_id = g.book_id "
         "  AND (j.sub_type = g.sub_type OR (j.sub_type IS NULL AND g.sub_type IS NULL)) "
         "  AND j.sub_index = g.sub_index "
         "WHERE g.place = ? OR g.place LIKE ? "
-        "ORDER BY g.book_id LIMIT ?",
+        "GROUP BY g.book_id, g.sub_type, g.sub_index "
+        "ORDER BY mentions DESC, g.book_id LIMIT ?",
         (place, f"%{place}%", limit),
     )
     return [dict(r) for r in cur.fetchall()]
@@ -136,7 +139,7 @@ def _render_place(rows: list[dict], place: str, as_json: bool) -> None:
     if not rows:
         print(f"⛔ 地名 {place!r} 未命中")
         sys.exit(3)
-    print(f"✅ 地名 {place!r} 在 {len(rows)} 卷出现：")
+    print(f"✅ 地名 {place!r} 在 {len(rows)} 卷出现（按提及次数排序）：")
     for r in rows:
         if r["sub_type"]:
             st = f"{r['sub_type']}/{r['sub_index']:03d}"
@@ -144,7 +147,8 @@ def _render_place(rows: list[dict], place: str, as_json: bool) -> None:
             st = f"juan/{r.get('juan') or '-'}"
         title = (r.get("title") or "")[:30]
         period = (r.get("historical_period") or "")[:20]
-        print(f"  {r['book_id']:10s}/{st:12s}  {title:30s}  ({period})")
+        mentions = r.get("mentions") or 1
+        print(f"  {r['book_id']:10s}/{st:12s}  ×{mentions:<3d} {title:30s}  ({period})")
 
 
 def main() -> None:

@@ -22,9 +22,35 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-from _corpus import query_to_fts  # noqa: E402
+from _corpus import query_to_fts, to_bigrams, is_cjk  # noqa: E402
 
 METADATA_DB = SCRIPT_DIR.parent / "data" / "metadata.sqlite"
+
+
+def _query_to_fts_or(query: str) -> str:
+    """长 query 回退模式：bigram OR，宽松匹配。
+    例：'创业合伙人理念不合' → '(创业) OR (业合) OR (合伙) OR (伙人) ...'
+    """
+    chunks: list[list[str]] = []
+    current: list[str] = []
+    for ch in query.strip():
+        if is_cjk(ch):
+            current.append(ch)
+        else:
+            if current:
+                chunks.append(current)
+                current = []
+    if current:
+        chunks.append(current)
+    bigrams: list[str] = []
+    for chunk in chunks:
+        if len(chunk) == 1:
+            bigrams.append(chunk[0])
+        else:
+            bigrams += [chunk[i] + chunk[i + 1] for i in range(len(chunk) - 1)]
+    if not bigrams:
+        return query
+    return " OR ".join(f"({bg})" for bg in bigrams)
 
 
 def require_metadata() -> sqlite3.Connection:
@@ -36,10 +62,7 @@ def require_metadata() -> sqlite3.Connection:
     return conn
 
 
-def find_analogies(
-    conn: sqlite3.Connection, query: str, limit: int = 10, book: str | None = None,
-) -> list[dict]:
-    fts_q = query_to_fts(query)
+def _exec_fts(conn, fts_q, book, limit):
     sql = (
         "SELECT a.book_id, a.sub_type, a.sub_index, a.scenario, "
         "       j.juan AS juan, j.title, j.juan_name, j.summary, j.historical_period, "
@@ -61,16 +84,35 @@ def find_analogies(
     return [dict(r) for r in cur.fetchall()]
 
 
-def render(rows: list[dict], query: str, as_json: bool) -> None:
+def find_analogies(
+    conn: sqlite3.Connection, query: str, limit: int = 10, book: str | None = None,
+) -> tuple[list[dict], str]:
+    """查历史先例。先 AND 严格匹配，未命中则降级为 bigram OR 宽松匹配。
+    返回 (rows, mode)；mode ∈ {'strict', 'loose'}。
+    """
+    strict_q = query_to_fts(query)
+    rows = _exec_fts(conn, strict_q, book, limit)
+    if rows:
+        return rows, "strict"
+    loose_q = _query_to_fts_or(query)
+    if loose_q and loose_q != strict_q:
+        rows = _exec_fts(conn, loose_q, book, limit)
+        if rows:
+            return rows, "loose"
+    return [], "strict"
+
+
+def render(rows: list[dict], query: str, as_json: bool, mode: str = "strict") -> None:
     if as_json:
-        print(json.dumps({"query": query, "count": len(rows), "cases": rows},
+        print(json.dumps({"query": query, "mode": mode, "count": len(rows), "cases": rows},
                           ensure_ascii=False, indent=2))
         return
     if not rows:
         print(f"⛔ 现代情境 {query!r} 在 advisory 库未命中")
         print("   → agent 应改用【推断·建议】标签，不得杜撰历史先例")
         sys.exit(3)
-    print(f"✅ 现代情境 {query!r} → {len(rows)} 条历史先例：\n")
+    mode_tag = "严格匹配" if mode == "strict" else "宽松匹配（关键词 OR 回退）"
+    print(f"✅ 现代情境 {query!r} → {len(rows)} 条历史先例 [{mode_tag}]：\n")
     for i, r in enumerate(rows, 1):
         if r["sub_type"]:
             st = f"{r['sub_type']}/{r['sub_index']:03d}"
@@ -101,8 +143,8 @@ def main() -> None:
 
     conn = require_metadata()
     try:
-        rows = find_analogies(conn, args.query, args.limit, args.book)
-        render(rows, args.query, args.json)
+        rows, mode = find_analogies(conn, args.query, args.limit, args.book)
+        render(rows, args.query, args.json, mode)
     finally:
         conn.close()
 
