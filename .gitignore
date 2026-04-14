@@ -56,5 +56,18 @@ data/books/*/raw_source/
 data/books/shiji/
 scripts/_archive/
 
+# china-classics skill 的 vendor 和构建产物
+skill/vendor/
+skill/data/corpus.sqlite
+skill/data/corpus.sqlite-*
+skill/data/metadata.sqlite
+skill/data/metadata.sqlite-*
+skill/data/metadata/
+skill/data/annotated
+skill/**/__pycache__/
+skill/**/*.pyc
+skill/logs/
+skill/_failures.jsonl
+
 # Frontend public data: auto-generated symlinks from scripts/sync_frontend_data.py
 frontend/public/data/

@@ -1,0 +1,67 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "china-classics"
+version = "0.1.0.dev0"
+description = "Agent skill for Chinese classical literature reading, history query, and historical advisory"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "guwenguanzhi_ai team" }
+]
+keywords = [
+    "claude-skill",
+    "agent-skill",
+    "chinese-classics",
+    "classical-chinese",
+    "chinese-history",
+    "guwen",
+    "24-histories",
+    "shiji",
+]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Chinese (Simplified)",
+    "Natural Language :: Chinese (Traditional)",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Text Processing :: Linguistic",
+]
+dependencies = [
+    "requests>=2.31",
+    "opencc-python-reimplemented>=0.1.7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "ruff>=0.5",
+]
+mcp = [
+    # Stage 8 预留，MCP server 形态
+    # "fastmcp>=0.2",
+]
+
+[project.urls]
+Homepage = "https://github.com/niuniu-869/guwenguanzhi"
+Documentation = "https://github.com/niuniu-869/guwenguanzhi/blob/main/docs/skill_design_v2.md"
+Repository = "https://github.com/niuniu-869/guwenguanzhi"
+Issues = "https://github.com/niuniu-869/guwenguanzhi/issues"
+
+[project.scripts]
+# Stage 5 后暴露 CLI
+# china-classics-search = "china_classics.scripts.search:main"
+# china-classics-cite = "china_classics.scripts.cite:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["china_classics*"]
+exclude = ["tests*", "vendor*", "data*", "evals*"]
