@@ -106,8 +106,31 @@ def lookup_place(conn: sqlite3.Connection, place: str, limit: int = 10) -> list[
     return [dict(r) for r in cur.fetchall()]
 
 
+def _appearance_urn(a: dict) -> str:
+    """把 appearance 条目格式化为可直接喂给 cite.py 的 URN。
+
+    优先语义 URN（book/sub_type/sub_index），回退到数字 URN（book/juan）。
+    """
+    book = a.get("book") or ""
+    if a.get("sub_type") and a.get("sub_index") is not None:
+        return f"{book}/{a['sub_type']}/{a['sub_index']:03d}"
+    juan = a.get("juan")
+    if juan is not None:
+        return f"{book}/{int(juan):03d}"
+    return book
+
+
 def _render_person(cards: list[dict], as_json: bool) -> None:
     if as_json:
+        # JSON 模式下也把 urn 内联到每条 appearance，便于 agent 直接消费
+        for c in cards:
+            try:
+                apps = json.loads(c.get("appearances_json") or "[]")
+                for a in apps:
+                    a["urn"] = _appearance_urn(a)
+                c["appearances_json"] = json.dumps(apps, ensure_ascii=False)
+            except (TypeError, ValueError):
+                pass
         print(json.dumps(cards, ensure_ascii=False, indent=2))
         return
     if not cards:
@@ -119,16 +142,16 @@ def _render_person(cards: list[dict], as_json: bool) -> None:
         print(f"【{c['canonical_name']}】  生卒: {c['lifespan']}  出现 {c['occurrences']} 卷")
         if aliases:
             print(f"  别名: {' / '.join(aliases)}")
-        print(f"  出处:")
+        print(f"  出处（URN 可直接喂 cite.py）:")
         for a in apps[:15]:
-            if a.get("sub_type"):
-                st = f"{a['sub_type']}/{a['sub_index']:03d}"
-            else:
-                st = f"juan/{a.get('juan') or '-'}"
+            urn = _appearance_urn(a)
             role = (a.get("role") or "")[:40]
-            print(f"    {a.get('book'):10s}/{st:12s}  {role}")
+            print(f"    {urn:32s}  {role}")
         if len(apps) > 15:
             print(f"    ...（共 {len(apps)} 条）")
+        if apps:
+            first_urn = _appearance_urn(apps[0])
+            print(f"  💡 取原文：cite.py {first_urn} [--full]")
         print()
 
 

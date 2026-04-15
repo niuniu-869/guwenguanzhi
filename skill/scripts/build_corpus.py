@@ -97,14 +97,59 @@ BOOK_ID_MAP: dict[str, str] = {
     "明史": "mingshi",
     # 虽非严格二十四史，但常见附带
     "清史稿": "qingshigao",
-    # 三家注（合入对应正史作为 commentary）
+    # 新元史（柯劭忞，民国所撰二十五史之一）
+    "新元史": "xinyuanshi",
+    # 别本/辑本 —— 与主本语义相同但字句有别，仍计作正史
+    "前汉书": "qianhanshu",          # 汉书别本
+    "史记四库": "shiji_sikuben",      # 史记四库本
+    "后汉书四库": "houhanshu_sikuben",
+    "旧五代史四库": "jiuwudaishi_sikuben",
+    "旧晋书九家辑本": "jiujinshu",     # 旧晋书早佚，现存辑本
+    "后汉书八家辑注": "houhanshu_bajia",
+    # 史记三家注（合本）
     "史記正義": "shiji_zhengyi",
     "史记正义": "shiji_zhengyi",
     "史記索隱": "shiji_suoyin",
     "史记索隐": "shiji_suoyin",
     "史記集解": "shiji_jijie",
     "史记集解": "shiji_jijie",
+    "史记集解三家注索隐正义": "shiji_sanjiazhu",
 }
+
+# --------- 书目分类：zhengshi (正史正本) / supplement (别本辑本/三家注) / commentary (史评考异) ---------
+# 默认 zhengshi；以下显式标记 supplement 与 commentary。
+# Agent 反幻觉校验（cite.py --verify）默认只查 zhengshi + supplement；
+# commentary 属他人考据，不应作为正史引用来源。
+BOOK_TYPE: dict[str, str] = {
+    # supplement：与主本关系为别本/辑本/官注
+    "qianhanshu": "supplement",
+    "shiji_sikuben": "supplement",
+    "houhanshu_sikuben": "supplement",
+    "jiuwudaishi_sikuben": "supplement",
+    "jiujinshu": "supplement",
+    "houhanshu_bajia": "supplement",
+    "shiji_zhengyi": "supplement",
+    "shiji_suoyin": "supplement",
+    "shiji_jijie": "supplement",
+    "shiji_sanjiazhu": "supplement",
+    # commentary：史评、考异、纂误、补表；非原典
+    "unknown_三国史辨误": "commentary",
+    "unknown_三国志补注": "commentary",
+    "unknown_两汉刊误补遗": "commentary",
+    "unknown_五代史纂误": "commentary",
+    "unknown_新唐书纠谬": "commentary",
+    "unknown_班马异同": "commentary",
+    "unknown_班马异同论": "commentary",
+    "unknown_补后汉书年表": "commentary",
+    "unknown_读史记十表": "commentary",
+    "unknown_史记疑问": "commentary",
+    "unknown_钦定辽金元三史国语解": "commentary",
+}
+
+
+def classify_book(book_id: str) -> str:
+    """返回 book_type：zhengshi / supplement / commentary。默认 zhengshi。"""
+    return BOOK_TYPE.get(book_id, "zhengshi")
 
 # --------- 正则：分卷 ---------
 # daizhige 原文卷标识有两类常见格式：
@@ -208,6 +253,7 @@ class Segment:
     text: str
     sub_type: str | None = None      # 本纪/列传/世家/志/表/书；可空
     sub_index: int | None = None     # 该体裁内的序号；可空
+    book_type: str = "zhengshi"      # zhengshi / supplement / commentary
 
     @property
     def urn(self) -> str:
@@ -236,30 +282,64 @@ def normalize_text(text: str) -> str:
 
 # juan_name 反推 pattern：允许"本纪/列传"后夹 1 字（上/中/下）再跟第N
 # 例 "宋本纪上第一" → ("本纪", 1), "齐本纪下第五" → ("本纪", 5)
+# 汉书及以下史书惯例不写"列传第N"，而写"X传第N"（如"司马迁传第三十二"）；
+# 纪也有 "高后纪第三"、"惠帝纪第二" 这种以人名+纪的写法。
+# CJK 字符类：包含常用区 + 扩展 A（覆盖"䃅"等生僻字）
+_CJK_CHAR = r"[\u3400-\u4dbf\u4e00-\u9fff]"
 _NAME_SUBTYPE_PATTERN = re.compile(
-    r"(本纪|列传|世家|志|表|书|帝纪)(?:[上中下])?第([一二三四五六七八九十百千零〇○0-9]+)"
+    r"("
+    r"本纪|列传|世家|志|表|书|帝纪|后纪|"
+    rf"{_CJK_CHAR}{{0,8}}传|"   # 允许 0 字前缀（裸"传第N"）及多字人名含生僻字
+    rf"{_CJK_CHAR}{{0,6}}纪"
+    r")"
+    r"(?:[上中下])?"
+    r"第([一二三四五六七八九十百千零〇○0-9]+)"
 )
+
+
+def _normalize_subtype(raw: str) -> str:
+    """把各种体裁变体归一到标准体裁名。
+
+    "司马迁传"   → "列传"
+    "张陈王周传" → "列传"
+    "高后纪"     → "本纪"
+    "惠帝纪"     → "本纪"
+    "帝纪"       → "本纪"（等价合并，便于跨书语义 URN 统一）
+    """
+    if raw in ("本纪", "列传", "世家", "志", "表", "书"):
+        return raw
+    if raw in ("帝纪", "后纪"):
+        return "本纪"
+    if raw.endswith("传"):
+        return "列传"
+    if raw.endswith("纪"):
+        return "本纪"
+    return raw
 
 
 def _parse_subtype_from_name(name: str) -> tuple[str | None, int | None]:
     """从 juan_name 反推 (sub_type, sub_index)。
 
     Examples:
-        "五帝本纪第一"      → ("本纪", 1)
-        "管晏列传第二"      → ("列传", 2)
-        "宋本纪上第一"      → ("本纪", 1)
-        "列传第二百三十"    → ("列传", 230)
+        "五帝本纪第一"        → ("本纪", 1)
+        "管晏列传第二"        → ("列传", 2)
+        "宋本纪上第一"        → ("本纪", 1)
+        "列传第二百三十"      → ("列传", 230)
+        "司马迁传第三十二"    → ("列传", 32)   ← 新增
+        "张陈王周传第十"      → ("列传", 10)   ← 新增
+        "高后纪第三"          → ("本纪", 3)    ← 新增
+        "惠帝纪第二"          → ("本纪", 2)    ← 新增
     """
     m = _NAME_SUBTYPE_PATTERN.search(name)
     if m:
-        return m.group(1), cn_to_int(m.group(2))
+        return _normalize_subtype(m.group(1)), cn_to_int(m.group(2))
     # 兜底：SUBTYPE_PATTERN (两个分支，全书范围的模式)
     m = SUBTYPE_PATTERN.search(name)
     if not m:
         return None, None
     sub_type = m.group(1) or m.group(3)
     idx_str = m.group(2) or m.group(4)
-    return sub_type, cn_to_int(idx_str)
+    return _normalize_subtype(sub_type), cn_to_int(idx_str)
 
 
 def split_book_to_juans(
@@ -403,11 +483,59 @@ def _split_by_subtype(
         juans.append((counter, juan_name, body, sub_type, sub_index))
     return juans
 
+def _greedy_pack(chunks: list[str], max_chars: int) -> list[str]:
+    """按顺序把碎片贪心打包，每段不超过 max_chars（单片超限则独立一段）。"""
+    out: list[str] = []
+    buf = ""
+    for c in chunks:
+        if not c:
+            continue
+        if buf and len(buf) + len(c) > max_chars:
+            out.append(buf)
+            buf = c
+        else:
+            buf += c
+    if buf:
+        out.append(buf)
+    return out
+
+
+def _split_oversize(seg: str, max_chars: int) -> list[str]:
+    """对超长段做分级兜底切分：句号→分号顿号→硬切。"""
+    # Tier 1：中文句末标点
+    t1 = re.split(r"(?<=[。？！])", seg)
+    packed = _greedy_pack(t1, max_chars)
+    if all(len(s) <= max_chars for s in packed):
+        return packed
+    # Tier 2：分号、顿号（适用于志/表的目录式内容）
+    out: list[str] = []
+    for s in packed:
+        if len(s) <= max_chars:
+            out.append(s)
+            continue
+        t2 = re.split(r"(?<=[；;、])", s)
+        out.extend(_greedy_pack(t2, max_chars))
+    if all(len(s) <= max_chars for s in out):
+        return out
+    # Tier 3：硬切（终极兜底，保证无巨段）
+    final: list[str] = []
+    for s in out:
+        if len(s) <= max_chars:
+            final.append(s)
+        else:
+            for i in range(0, len(s), max_chars):
+                final.append(s[i : i + max_chars])
+    return final
+
+
 def split_juan_to_segments(body: str, max_chars: int = 500) -> list[str]:
     """把一卷的 body 切分为段落列表。
 
-    首选：双换行分段。
-    二选：单换行 + 段落 > max_chars 时按中文句号切。
+    分级策略：
+      1. 双换行优先分段
+      2. 每段若 ≤ max_chars 直接保留
+      3. 超过 max_chars → _split_oversize：句号 → 分号顿号 → 硬切
+    保证 max(char_count) ≤ max_chars，消除巨段。
     """
     raw = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
     segments: list[str] = []
@@ -416,17 +544,7 @@ def split_juan_to_segments(body: str, max_chars: int = 500) -> list[str]:
         if len(p) <= max_chars:
             segments.append(p)
         else:
-            # 按句号 + 问号 + 叹号切
-            sentences = re.split(r"(?<=[。？！])", p)
-            buf = ""
-            for s in sentences:
-                if len(buf) + len(s) > max_chars and buf:
-                    segments.append(buf)
-                    buf = s
-                else:
-                    buf += s
-            if buf:
-                segments.append(buf)
+            segments.extend(_split_oversize(p, max_chars))
     return segments
 
 def parse_file(path: Path) -> Iterator[Segment]:
@@ -440,6 +558,7 @@ def parse_file(path: Path) -> Iterator[Segment]:
     raw = path.read_text(encoding="utf-8", errors="ignore")
     text = normalize_text(raw)
 
+    book_type = classify_book(book_id)
     juans = split_book_to_juans(text, book_id, stem)
     for juan_num, juan_name, body, sub_type, sub_index in juans:
         segments = split_juan_to_segments(body)
@@ -453,6 +572,7 @@ def parse_file(path: Path) -> Iterator[Segment]:
                 text=seg_text,
                 sub_type=sub_type,
                 sub_index=sub_index,
+                book_type=book_type,
             )
 
 # --------- SQLite 构建 ---------
@@ -470,7 +590,8 @@ CREATE TABLE IF NOT EXISTS documents (
     sub_type TEXT,             -- 本纪/列传/世家/志/表/书；可空
     sub_index INTEGER,         -- 体裁内序号；可空
     char_count INTEGER NOT NULL,
-    urn TEXT NOT NULL UNIQUE
+    urn TEXT NOT NULL UNIQUE,
+    book_type TEXT NOT NULL DEFAULT 'zhengshi'  -- zhengshi/supplement/commentary
 );
 
 -- FTS5 用 unicode61 按空格切，索引 text_ngram 即可用中文短语查询
@@ -496,6 +617,7 @@ END;
 
 CREATE INDEX IF NOT EXISTS idx_book_juan ON documents(book_id, juan, segment);
 CREATE INDEX IF NOT EXISTS idx_book_subtype ON documents(book_id, sub_type, sub_index);
+CREATE INDEX IF NOT EXISTS idx_book_type ON documents(book_type);
 """
 
 def init_db(rebuild: bool = False) -> sqlite3.Connection:
@@ -515,11 +637,12 @@ def ingest_segments(conn: sqlite3.Connection, segments: list[Segment]) -> int:
         try:
             cur.execute(
                 "INSERT INTO documents(book_id, book_name, juan, juan_name, segment, "
-                "text, text_ngram, sub_type, sub_index, char_count, urn) "
-                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                "text, text_ngram, sub_type, sub_index, char_count, urn, book_type) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                 (seg.book_id, seg.book_name, seg.juan, seg.juan_name,
                  seg.segment, seg.text, to_bigrams(seg.text),
-                 seg.sub_type, seg.sub_index, seg.char_count, seg.urn),
+                 seg.sub_type, seg.sub_index, seg.char_count, seg.urn,
+                 seg.book_type),
             )
             inserted += 1
         except sqlite3.IntegrityError:

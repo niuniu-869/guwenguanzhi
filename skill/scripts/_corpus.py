@@ -17,6 +17,29 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 SKILL_ROOT = SCRIPT_DIR.parent
 CORPUS_DB = SKILL_ROOT / "data" / "corpus.sqlite"
 
+# --------- 查询归一化：繁→简 + 全角空格 ---------
+# 与 build_corpus.normalize_text 对称，保证查询词与索引在同一"字形空间"内
+try:
+    from opencc import OpenCC
+    _cc_t2s = OpenCC("t2s")
+
+    def normalize_query(text: str) -> str:
+        """查询归一：繁体→简体，全角空格→半角。与入库时 normalize_text 对称。
+
+        Examples:
+            "魏徵" → "魏征"
+            "鴻門宴" → "鸿门宴"
+            "漢書" → "汉书"
+        """
+        if not text:
+            return text
+        text = _cc_t2s.convert(text)
+        text = text.replace("\u3000", " ").replace("\ufeff", "")
+        return text
+except ImportError:  # opencc 缺失时退化为 no-op，scripts 仍可用
+    def normalize_query(text: str) -> str:  # type: ignore[misc]
+        return text
+
 
 def require_corpus() -> sqlite3.Connection:
     """打开 corpus.sqlite；不存在则给出明确错误并退出。"""
@@ -98,7 +121,7 @@ def query_to_fts(query: str) -> str:
       - 含空格 OR 特殊符号：透传
       - 单字：原样返回（可能匹配多）
     """
-    query = query.strip()
+    query = normalize_query(query.strip())
     if not query:
         return query
 

@@ -29,7 +29,14 @@ import json
 import sqlite3
 import sys
 
-from _corpus import require_corpus, format_citation, parse_urn, parse_semantic_urn, query_to_fts
+from _corpus import (
+    require_corpus,
+    format_citation,
+    parse_urn,
+    parse_semantic_urn,
+    query_to_fts,
+    normalize_query,
+)
 
 
 def _row_to_dict(row: sqlite3.Row) -> dict:
@@ -91,29 +98,38 @@ def lookup_by_semantic(
     return [_row_to_dict(r) for r in rows]
 
 
-def verify_phrase(conn: sqlite3.Connection, phrase: str, strict: bool = False) -> list[dict]:
+def verify_phrase(
+    conn: sqlite3.Connection,
+    phrase: str,
+    strict: bool = False,
+    include_commentary: bool = False,
+) -> list[dict]:
     """校验一个片段是否存在于语料库中。
 
-    非严格模式：trigram FTS 查询，允许部分匹配
+    非严格模式：bigram FTS 查询，允许部分匹配
     严格模式：LIKE '%phrase%' 完整连续匹配
+    两种模式都对 phrase 做 normalize_query（繁→简）再比对，消除字形差异假阴性。
+    默认排除 book_type='commentary'（史评/考异/纂误）——这些非正史原典，不应作为反幻觉引用来源。
     """
+    normalized = normalize_query(phrase)
+    # 默认只在 zhengshi + supplement 中校验；commentary 需显式开启
+    type_filter = "" if include_commentary else " AND d.book_type != 'commentary'"
     if strict:
         cur = conn.execute(
-            "SELECT book_id, book_name, juan, juan_name, segment, text, urn "
-            "FROM documents "
-            "WHERE text LIKE ? "
-            "LIMIT 5",
-            (f"%{phrase}%",),
+            f"SELECT book_id, book_name, juan, juan_name, segment, text, urn, book_type "
+            f"FROM documents d "
+            f"WHERE text LIKE ? {type_filter} "
+            f"LIMIT 5",
+            (f"%{normalized}%",),
         )
     else:
-        # 非严格：用 bigram FTS 查近似短语
         fts_query = query_to_fts(f'"{phrase}"')
         cur = conn.execute(
-            "SELECT d.book_id, d.book_name, d.juan, d.juan_name, "
-            "       d.segment, d.text, d.urn "
-            "FROM documents_fts JOIN documents d ON d.id = documents_fts.rowid "
-            "WHERE documents_fts MATCH ? "
-            "ORDER BY bm25(documents_fts) LIMIT 5",
+            f"SELECT d.book_id, d.book_name, d.juan, d.juan_name, "
+            f"       d.segment, d.text, d.urn, d.book_type "
+            f"FROM documents_fts JOIN documents d ON d.id = documents_fts.rowid "
+            f"WHERE documents_fts MATCH ? {type_filter} "
+            f"ORDER BY bm25(documents_fts) LIMIT 5",
             (fts_query,),
         )
 
@@ -127,7 +143,8 @@ def verify_phrase(conn: sqlite3.Connection, phrase: str, strict: bool = False) -
             "segment": r["segment"],
             "text": r["text"],
             "citation": format_citation(r),
-            "exact_match": phrase in r["text"],
+            "exact_match": normalized in r["text"],
+            "book_type": r["book_type"] if "book_type" in r.keys() else "zhengshi",
         }
         for r in rows
     ]
@@ -138,6 +155,9 @@ def main() -> None:
     parser.add_argument("arg", nargs="?", help="URN 或片段（配合 --verify）")
     parser.add_argument("--verify", type=str, help="校验片段是否在库")
     parser.add_argument("--strict", action="store_true", help="严格连续匹配（配合 --verify）")
+    parser.add_argument("--include-commentary", action="store_true",
+                        help="允许在史评/考异类书目中校验（默认仅在正史原典中查，杜绝他人考据混入）")
+    parser.add_argument("--full", action="store_true", help="输出段全文，不做长度截断")
     parser.add_argument("--json", action="store_true", help="输出 JSON")
     args = parser.parse_args()
 
@@ -147,9 +167,20 @@ def main() -> None:
     conn = require_corpus()
     try:
         if args.verify:
-            hits = verify_phrase(conn, args.verify, strict=args.strict)
+            hits = verify_phrase(
+                conn, args.verify,
+                strict=args.strict,
+                include_commentary=args.include_commentary,
+            )
+            normalized = normalize_query(args.verify)
+            normalized_note = (
+                f"（查询已归一：{args.verify!r} → {normalized!r}）"
+                if normalized != args.verify
+                else ""
+            )
             payload = {
                 "phrase": args.verify,
+                "normalized": normalized,
                 "strict": args.strict,
                 "found": len(hits) > 0,
                 "count": len(hits),
@@ -159,13 +190,20 @@ def main() -> None:
                 print(json.dumps(payload, ensure_ascii=False, indent=2))
             else:
                 if not hits:
-                    print(f"⛔ 片段 {args.verify!r} 未在语料库找到")
-                    print("  → agent 应拒绝引用，或降级标注【推断】")
+                    print(f"⛔ 片段 {args.verify!r} 未在语料库找到 {normalized_note}")
+                    print("  → 不得复述原文具体字句（即使标【推断】也不行）；只能声明归属")
+                    print("  建议兜底（按顺序尝试）：")
+                    print(f"    1) 缩短片段：cite.py --verify '<核心 4-6 字>'")
+                    print(f"    2) 关键词检索：search.py '<关键词>' --limit 10")
+                    print(f"    3) 取整卷核验：cite.py <book>/<sub_type>/<N>  如 shiji/本纪/8")
+                    print(f"    4) 若疑为史评/考异：加 --include-commentary")
+                    print(f"    5) 仍未中 → 明示 'skill 库未收录，请他处核验'")
                     sys.exit(3)
-                print(f"✅ 片段 {args.verify!r} 命中 {len(hits)} 处：")
+                print(f"✅ 片段 {args.verify!r} 命中 {len(hits)} 处 {normalized_note}")
                 for i, h in enumerate(hits, 1):
                     marker = "=" if h["exact_match"] else "~"
-                    print(f"  {i}. {marker} {h['citation']}")
+                    type_tag = "" if h.get("book_type") == "zhengshi" else f" [{h.get('book_type')}]"
+                    print(f"  {i}. {marker} {h['citation']}{type_tag}")
                     print(f"     {h['text'][:100]}{'...' if len(h['text']) > 100 else ''}")
         else:
             # 优先尝试语义 URN（如 shiji/世家/030 或 shiji/世家/030/001）
@@ -188,7 +226,11 @@ def main() -> None:
                     print("-" * 60)
                     for r in results[:10]:
                         print(r["citation"])
-                        print(r["text"][:300] + ("..." if len(r["text"]) > 300 else ""))
+                        text = r["text"]
+                        if args.full or len(text) <= 300:
+                            print(text)
+                        else:
+                            print(f"{text[:300]}...  （段共 {len(text)} 字，加 --full 输出全文）")
                         print()
                     if len(results) > 10:
                         print(f"...（共 {len(results)} 段，仅示前 10）")
@@ -215,7 +257,11 @@ def main() -> None:
             else:
                 print(result["citation"])
                 print("-" * 60)
-                print(result["text"])
+                text = result["text"]
+                if args.full or len(text) <= 500:
+                    print(text)
+                else:
+                    print(f"{text[:500]}...  （段共 {len(text)} 字，加 --full 输出全文）")
     finally:
         conn.close()
 

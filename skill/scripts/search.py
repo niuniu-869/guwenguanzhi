@@ -28,6 +28,7 @@ def search(
     query: str,
     limit: int = 10,
     book: str | None = None,
+    include_commentary: bool = False,
 ) -> list[dict]:
     """在 FTS5 上执行查询，返回命中列表。
 
@@ -41,7 +42,7 @@ def search(
     fts_query = query_to_fts(query)
     sql_parts = [
         "SELECT d.id, d.book_id, d.book_name, d.juan, d.juan_name, "
-        "       d.segment, d.text, d.urn, bm25(documents_fts) AS rank "
+        "       d.segment, d.text, d.urn, d.book_type, bm25(documents_fts) AS rank "
         "FROM documents_fts "
         "JOIN documents d ON d.id = documents_fts.rowid "
         "WHERE documents_fts MATCH ? "
@@ -51,6 +52,9 @@ def search(
     if book:
         sql_parts.append("AND d.book_id = ? ")
         params.append(book)
+
+    if not include_commentary:
+        sql_parts.append("AND d.book_type != 'commentary' ")
 
     sql_parts.append("ORDER BY rank LIMIT ?")
     params.append(limit)
@@ -86,6 +90,7 @@ def search(
             "snippet": _snippet(row["text"], query),
             "rank": row["rank"],
             "citation": format_citation(row),
+            "book_type": row["book_type"] if "book_type" in row.keys() else "zhengshi",
         }
         for row in rows
     ]
@@ -107,12 +112,15 @@ def main() -> None:
     parser.add_argument("query", help="FTS5 查询字符串")
     parser.add_argument("--limit", type=int, default=10, help="最大返回数（默认 10）")
     parser.add_argument("--book", type=str, help="限定 book_id（如 shiji）")
+    parser.add_argument("--include-commentary", action="store_true",
+                        help="把史评/考异类（book_type=commentary）一并纳入搜索")
     parser.add_argument("--json", action="store_true", help="输出 JSON（供 agent 调用）")
     args = parser.parse_args()
 
     conn = require_corpus()
     try:
-        hits = search(conn, args.query, limit=args.limit, book=args.book)
+        hits = search(conn, args.query, limit=args.limit, book=args.book,
+                      include_commentary=args.include_commentary)
     except sqlite3.OperationalError as e:
         print(f"[fatal] FTS5 查询错误：{e}", file=sys.stderr)
         print("  提示：短语用双引号包裹，如 '\"民为贵\"'", file=sys.stderr)

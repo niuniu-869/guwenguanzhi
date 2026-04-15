@@ -14,8 +14,9 @@ license: MIT (code) + CC BY-SA 4.0 (wiki)
 
 # 中国古典文献与历史专家
 
-> **状态**: v1.0.0-rc1（Stage 7 发布候选，所有 references + evals 已完成）
-> **数据规模**: 169 k 段原文 / 3240 卷 metadata / 12175 人物卡 / 18811 事件 / 9649 advisory
+> **状态**: v1.0.0-rc2（索引质量修复：繁简归一 / X传 URN / 史评隔离 / 巨段清零）
+> **数据规模**: 183 k 段原文（27 本正史主本 + 10 本别本辑本 + 11 本史评）/ 3240 卷 metadata / 12175 人物卡 / 18811 事件 / 9649 advisory
+> **索引不变量**: 段长 ≤ 500 字 / 26 本正史 sub_type 覆盖 100% / 繁简异体字自动归一 / commentary 默认不参与反幻觉校验
 > **评测基线**: citation 92% / figures 100% / dynasty 84% / advisory 93%
 
 ## 何时使用（触发场景）
@@ -45,11 +46,20 @@ license: MIT (code) + CC BY-SA 4.0 (wiki)
 
 ## 强制工作流（Mandatory，非建议）
 
-1. **引用必校验**：凡涉及原文/年代/具体事件，先走 `scripts/cite.py --verify "片段"` 或 `cite.py <URN>`。未命中 → 删除或降级【推断】
+1. **引用必校验**：凡涉及原文/年代/具体事件，先走 `scripts/cite.py --verify "片段"` 或 `cite.py <URN>`。**未命中即不得复述原文具体字句**（即使标【推断】也不行——预训练记忆会伪装成史实）；只能声明"该句按学界通行归于 X 书，本 skill 未收录，请他处核验"
 2. **古今异义必查**：解释古文词义前，查 [`linguistic/common-traps.md`](references/linguistic/common-traps.md)（"走/涕/妻子/绝境/牺牲/卑鄙"等）
 3. **咨询必带三标签**：历史建议每段标【史实】（带 URN）/【演绎】（从史实推）/【推断·建议】（承认不确定）。细则见 [`advisory/uncertainty-labels.md`](references/advisory/uncertainty-labels.md)
 4. **模糊记忆用工具**：不确定用 `search.py "关键词"` 查 FTS，不确定人物用 `lookup.py 名字`，不确定年代用 `timeline.py --year`
 5. **越界即说明**：近代以后 / 非汉文化圈 / 专业法律医疗 → 明示能力边界
+6. **繁简/异体字无需手动转换**：FTS 与 verify 自动对查询做 OpenCC t2s 归一化（"魏徵 ↔ 魏征"、"漢書 ↔ 汉书"）；若命中后返回提示"查询已归一：X → Y"，在引用中按库中简体形态记录即可。
+7. **考异/纂误/注疏不作原典引**：史评类书目（`book_type='commentary'`，如《新唐书纠谬》《班马异同》）默认不出现在 `cite.py --verify` 结果中。如需查看他人考据，显式加 `--include-commentary`，且引用时必须明示"据 X 考"，不得冒充正史原文。
+8. **长段取用**：段长上限 500 字；`cite.py <URN>` 默认截断 300/500 字并提示全长，需要完整段请加 `--full`。
+9. **短语 verify 未命中的兜底链**（因 bigram FTS 对长短语和标点敏感，常见假阴性）：
+   (a) 缩短核心 4-6 字再试 `--verify` →
+   (b) 用 `search.py "关键词"` 定位候选卷段 →
+   (c) 用 `cite.py <book>/<sub_type>/<N>` 整卷取段人工核验 →
+   (d) 仍未中且疑为考异/纂误，加 `--include-commentary` →
+   (e) 四步后仍 0 命中 → 声明"skill 库未收录"，绝不复述记忆中的字句。
 
 ## 决策树
 
@@ -77,7 +87,9 @@ license: MIT (code) + CC BY-SA 4.0 (wiki)
 | 脚本 | 典型用法 | 何时用 |
 |---|---|---|
 | `scripts/cite.py URN` | `cite.py shiji/世家/25` | 取整卷原文（段级） |
-| `scripts/cite.py --verify "片段"` | `cite.py --verify "运筹帷幄"` | 校验片段是否在库 |
+| `scripts/cite.py --verify "片段"` | `cite.py --verify "运筹帷幄"` | 校验片段是否在库（默认不含史评） |
+| `scripts/cite.py --verify "片段" --include-commentary` | — | 校验时把考异/纂误一并纳入 |
+| `scripts/cite.py <URN> --full` | `cite.py hanshu/列传/32 --full` | 取完整段（跳过截断） |
 | `scripts/search.py "词"` | `search.py "管仲" --limit 10` | FTS5 全文检索 |
 | `scripts/lookup.py 人名` | `lookup.py 张良` | 人物合并卡（别名反查） |
 | `scripts/lookup.py --place 地名` | `lookup.py --place 长安` | 地名 → 出处 |
