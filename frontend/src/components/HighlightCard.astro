@@ -1,0 +1,54 @@
+---
+/**
+ * 首页朝代驿站下的精选篇章卡
+ * 钩子大字 + 标题/作者 + 朝代色细边
+ */
+import type { DynastyHighlightItem } from '../lib/types';
+
+interface Props {
+  item: DynastyHighlightItem;
+  color: string;
+}
+
+const { item, color } = Astro.props;
+---
+
+<a
+  href={item.href}
+  class="group highlight-card relative flex flex-col h-full p-4 bg-card border border-border-light rounded no-underline transition-all"
+  style={`--accent: ${color}`}
+>
+  <span class="accent-bar" aria-hidden="true"></span>
+
+  <p class="font-serif text-base sm:text-[1.0625rem] text-ink leading-snug mb-3 tracking-wide group-hover:text-cinnabar transition-colors">
+    「{item.hook}」
+  </p>
+
+  <div class="mt-auto flex items-baseline justify-between gap-2 text-[0.8125rem]">
+    <span class="font-serif text-ink truncate">{item.title}</span>
+    <span class="text-ink-faint shrink-0">{item.author}</span>
+  </div>
+</a>
+
+<style>
+  .highlight-card {
+    overflow: hidden;
+  }
+  .highlight-card:hover {
+    border-color: var(--accent);
+    box-shadow: 0 2px 14px color-mix(in srgb, var(--accent) 12%, transparent);
+    transform: translateY(-1px);
+  }
+  .accent-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--accent);
+    opacity: 0.55;
+  }
+  .highlight-card:hover .accent-bar {
+    opacity: 1;
+  }
+</style>

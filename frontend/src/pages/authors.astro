@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DynastyTimeline from '../components/DynastyTimeline.astro';
+import {
+  getDynastyStations,
+  getAuthorsByDynasty,
+  documentUrl,
+  groupUrl,
+  PRIMARY_BOOK_ID,
+} from '../lib/books';
+
+const stations = getDynastyStations();
+const groups = getAuthorsByDynasty();
+
+const totalAuthors = groups.reduce((s, g) => s + g.authors.length, 0);
+const totalDocs = groups.reduce(
+  (s, g) => s + g.authors.reduce((s2, a) => s2 + a.documentCount, 0),
+  0,
+);
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout
+  title="按作者浏览"
+  description="古文观止全部 61 位作者，按朝代分组列出"
+>
+  {/* Hero */}
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 pt-12 pb-6 text-center">
+    <nav class="text-sm text-ink-faint mb-4">
+      <a href={`${base}/`} class="hover:text-ink transition-colors no-underline">
+        首页
+      </a>
+      <span class="mx-2">›</span>
+      <span class="text-ink-light">按作者浏览</span>
+    </nav>
+    <h1 class="font-serif text-3xl sm:text-4xl font-bold tracking-[0.15em] text-ink">
+      按 作 者 浏 览
+    </h1>
+    <p class="mt-3 text-sm text-ink-light">
+      全 {totalAuthors} 位作者 · {totalDocs} 篇 · 按朝代时序排列
+    </p>
+  </section>
+
+  {/* 吸顶时间轴 */}
+  <DynastyTimeline stations={stations} />
+
+  {/* 作者列表 */}
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 pt-6 pb-16">
+    {groups.map((g) => (
+      <div
+        id={g.dynasty.id}
+        class="scroll-mt-20 py-10 border-b border-border-light"
+        style={`--accent: ${g.dynasty.color}`}
+      >
+        {/* 朝代头 */}
+        <header class="flex items-baseline justify-between gap-4 mb-6 border-b border-border-light pb-3">
+          <div class="flex items-baseline gap-3">
+            <h2
+              class="font-serif text-3xl font-bold leading-none"
+              style={`color: ${g.dynasty.color}`}
+            >
+              {g.dynasty.name}
+            </h2>
+            <span class="text-xs text-ink-faint">{g.dynasty.period}</span>
+          </div>
+          <a
+            href={groupUrl(PRIMARY_BOOK_ID, [g.dynasty.id])}
+            class="text-sm text-ink-light hover:text-cinnabar transition-colors no-underline whitespace-nowrap"
+          >
+            按目录浏览 →
+          </a>
+        </header>
+
+        {/* 作者卡片网格 */}
+        <div class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+          {g.authors.map((author) => (
+            <article class="author-card flex flex-col p-4 bg-card border border-border-light rounded">
+              <header class="flex items-baseline justify-between gap-2 mb-2">
+                <h3 class="font-serif text-lg font-semibold text-ink">
+                  {author.name}
+                </h3>
+                <span class="text-xs text-ink-faint shrink-0">
+                  {author.documentCount} 篇
+                </span>
+              </header>
+              <ul class="space-y-0.5 text-[0.8125rem] text-ink-light">
+                {author.documents.slice(0, 5).map((d) => (
+                  <li class="truncate">
+                    <a
+                      href={documentUrl(author.bookId, d.id)}
+                      class="hover:text-cinnabar transition-colors no-underline"
+                    >
+                      · {d.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+              {author.documentCount > 5 && (
+                <a
+                  href={`${groupUrl(PRIMARY_BOOK_ID, [g.dynasty.id])}#${author.id}`}
+                  class="mt-3 text-xs text-ink-faint hover:text-cinnabar transition-colors no-underline"
+                >
+                  其余 {author.documentCount - 5} 篇 →
+                </a>
+              )}
+            </article>
+          ))}
+        </div>
+      </div>
+    ))}
+  </section>
+</BaseLayout>
+
+<style>
+  .author-card {
+    transition: all 0.2s ease;
+  }
+  .author-card:hover {
+    border-color: var(--accent);
+    box-shadow: 0 2px 12px color-mix(in srgb, var(--accent) 10%, transparent);
+    transform: translateY(-1px);
+  }
+</style>

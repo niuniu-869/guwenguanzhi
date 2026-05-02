@@ -1,112 +1,77 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getAllBooks, bookUrl } from '../lib/books';
+import DynastyTimeline from '../components/DynastyTimeline.astro';
+import DynastyStation from '../components/DynastyStation.astro';
+import { getDynastyStations, PRIMARY_BOOK_ID, getBook } from '../lib/books';
 
-const books = getAllBooks();
-const totalDocs = books.reduce((s, b) => s + b.totalDocuments, 0);
+const stations = getDynastyStations();
+const book = getBook(PRIMARY_BOOK_ID);
+
+const totalDocs = stations.reduce((s, x) => s + x.totalDocs, 0);
+const totalAuthors = stations.reduce((s, x) => s + x.totalAuthors, 0);
+const dynastyCount = stations.length;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const authorsHref = `${base}/authors`;
 ---
 
 <BaseLayout
   title="古文观之"
-  description="古文观止 222 篇经典古文，逐句翻译，逐词注释"
+  description="循着中国历史读古文：古文观止 222 篇经典，按朝代串联，逐句翻译，逐词注释"
 >
-  <!-- Hero -->
+  {/* Hero */}
   <section class="relative overflow-hidden">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 pt-20 pb-14 text-center relative z-10">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 pt-16 pb-10 text-center relative z-10">
       <div
-        class="text-8xl font-serif text-border-light select-none leading-none mb-[-1rem]"
+        class="text-7xl font-serif text-border-light select-none leading-none mb-[-0.5rem]"
         aria-hidden="true"
       >
         “
       </div>
-      <h1 class="font-serif text-5xl sm:text-6xl font-bold tracking-[0.15em] text-ink">
+      <h1 class="font-serif text-4xl sm:text-5xl font-bold tracking-[0.2em] text-ink">
         古文观之
       </h1>
-      <p class="mt-5 text-ink-light text-lg tracking-widest">
-        经典古籍 · 逐句翻译 · 逐词注释
+      <p class="mt-4 text-ink-light text-base sm:text-lg tracking-widest">
+        循着中国历史，读 一 篇 古 文
       </p>
-      <div class="mt-6 flex items-center justify-center gap-6 text-sm text-ink-faint">
-        <span>{books.length} 部典籍</span>
+      <p class="mt-2 text-sm text-ink-faint max-w-xl mx-auto leading-relaxed">
+        {book?.summary ?? ''}
+      </p>
+      <div class="mt-5 flex items-center justify-center gap-5 text-xs text-ink-faint">
+        <span>{dynastyCount} 朝</span>
         <span class="w-1 h-1 rounded-full bg-border"></span>
-        <span>{totalDocs.toLocaleString()} 篇 / 卷</span>
+        <span>{totalAuthors} 位作者</span>
         <span class="w-1 h-1 rounded-full bg-border"></span>
-        <span>AI 辅助学习</span>
+        <span>{totalDocs} 篇</span>
       </div>
     </div>
   </section>
 
-  <!-- 书架 -->
-  <section class="max-w-5xl mx-auto px-4 sm:px-6 pb-24">
-    <h2 class="font-serif text-xl text-ink-light mb-6 tracking-wider">典 · 籍</h2>
-    <div class="grid gap-5 sm:grid-cols-2">
-      {
-        books.map((b) => (
-          <a
-            href={bookUrl(b.id)}
-            class="group relative bg-card rounded border border-border-light hover:border-border hover:shadow-sm transition-all duration-200 no-underline overflow-hidden"
-          >
-            <!-- 左侧竖排书名 + 右侧信息 -->
-            <div class="flex">
-              <!-- 书脊 -->
-              <div class={`shrink-0 w-20 sm:w-24 flex items-center justify-center py-6 border-r border-border-light book-spine-${b.cover?.theme ?? 'ink'}`}>
-                <div class="writing-vertical font-serif text-2xl sm:text-3xl font-bold tracking-widest text-paper">
-                  {b.displayName}
-                </div>
-              </div>
-              <!-- 信息 -->
-              <div class="flex-1 px-5 py-5 flex flex-col">
-                <div class="flex items-baseline justify-between gap-3 mb-2">
-                  <h3 class="font-serif text-xl font-bold text-ink group-hover:text-cinnabar transition-colors">
-                    {b.name}
-                  </h3>
-                  <span class="text-xs text-ink-faint whitespace-nowrap">
-                    {b.totalDocuments}{b.structureType === 'jizhuan' ? ' 卷' : ' 篇'}
-                  </span>
-                </div>
-                <p class="text-xs text-ink-faint mb-3 tracking-wider">
-                  {b.author ? `${b.period} · ${b.author} 撰` : `${b.period}${b.editor ? ` · ${b.editor} 编` : ''}`}
-                </p>
-                <p class="text-sm text-ink-light leading-relaxed line-clamp-3">
-                  {b.summary}
-                </p>
-                <div class="mt-auto pt-3 flex items-center gap-2 text-xs text-ink-faint">
-                  <span class="inline-block w-6 h-px bg-border"></span>
-                  <span class="group-hover:text-cinnabar transition-colors">展开阅读 →</span>
-                </div>
-              </div>
-            </div>
-          </a>
-        ))
-      }
-    </div>
+  {/* 吸顶时间轴 */}
+  <DynastyTimeline stations={stations} />
 
-    <!-- 未来占位 -->
-    <div class="mt-8 rounded border border-dashed border-border-light px-5 py-6 text-center text-sm text-ink-faint">
-      <p>正在陆续接入：《汉书》《后汉书》《三国志》……（二十四史）</p>
+  {/* 朝代驿站 */}
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 pt-4">
+    {stations.map((s) => (
+      <DynastyStation station={s} />
+    ))}
+  </section>
+
+  {/* 底部：按作者浏览入口 */}
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-16 pt-10">
+    <div class="rounded border border-border-light bg-card px-6 py-7 sm:flex items-center justify-between gap-6">
+      <div>
+        <h3 class="font-serif text-xl text-ink mb-1">想找熟悉的那位？</h3>
+        <p class="text-sm text-ink-light">
+          按朝代分组浏览全部 {totalAuthors} 位作者，从左丘明到张溥。
+        </p>
+      </div>
+      <a
+        href={authorsHref}
+        class="mt-4 sm:mt-0 inline-flex items-center gap-2 px-5 py-2.5 border border-ink text-ink hover:bg-ink hover:text-paper transition-colors no-underline rounded text-sm tracking-wider"
+      >
+        按作者浏览 →
+      </a>
     </div>
   </section>
 </BaseLayout>
-
-<style>
-  /* 竖排书名（模拟书脊） */
-  .writing-vertical {
-    writing-mode: vertical-rl;
-    text-orientation: upright;
-    letter-spacing: 0.3em;
-  }
-  /* 书脊主题 */
-  .book-spine-ink {
-    background: linear-gradient(135deg, #2d2a26 0%, #1a1816 100%);
-    box-shadow: inset -3px 0 6px rgba(0, 0, 0, 0.25);
-  }
-  .book-spine-crimson {
-    background: linear-gradient(135deg, #8b2f2b 0%, #5e1f1c 100%);
-    box-shadow: inset -3px 0 6px rgba(0, 0, 0, 0.25);
-  }
-  .line-clamp-3 {
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-</style>

@@ -149,6 +149,63 @@ export interface Character {
   relations?: CharacterRelation[];
 }
 
+// ============ 首页朝代驿站 / 精选 ============
+
+export interface DynastyHighlightItem {
+  /** 文档 id（catalog 中的 id） */
+  docId: string;
+  /** 标题 */
+  title: string;
+  /** 作者名 */
+  author: string;
+  /** 一句话写作情境（来自 document_hooks.json，缺省回退到 title） */
+  hook: string;
+  /** 所属书 id（多书共存预留） */
+  bookId: string;
+  /** 跳转链接 */
+  href: string;
+}
+
+export interface DynastyStation {
+  id: string;
+  name: string;
+  period: string;
+  color: string;
+  tagline: string;
+  subtitle: string;
+  summary: string;
+  totalDocs: number;
+  totalAuthors: number;
+  /** 所有作者名（按 catalog 顺序） */
+  authors: string[];
+  highlights: DynastyHighlightItem[];
+  /** 跳转到 /book/<bookId>/group/<dynasty> */
+  groupHref: string;
+}
+
+// ============ 按作者浏览 ============
+
+export interface AuthorEntry {
+  /** catalog subgroup id，如 "pre_qin_左丘明" */
+  id: string;
+  name: string;
+  dynasty: string;
+  dynastyName: string;
+  bookId: string;
+  documentCount: number;
+  documents: DocumentMeta[];
+}
+
+export interface DynastyAuthorGroup {
+  dynasty: {
+    id: string;
+    name: string;
+    period: string;
+    color: string;
+  };
+  authors: AuthorEntry[];
+}
+
 export interface Document {
   id: string;
   bookId: string;

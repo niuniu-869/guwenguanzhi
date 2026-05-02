@@ -1,0 +1,102 @@
+---
+/**
+ * 首页朝代驿站
+ * 左：朝代名 + 时间段 + tagline
+ * 右：速写 + 作者徽章 + 精选篇章
+ */
+import type { DynastyStation } from '../lib/types';
+import HighlightCard from './HighlightCard.astro';
+
+interface Props {
+  station: DynastyStation;
+}
+
+const { station } = Astro.props;
+---
+
+<section
+  id={station.id}
+  class="dynasty-station scroll-mt-20 grid grid-cols-1 md:grid-cols-[14rem_1fr] gap-6 md:gap-10 py-12 border-b border-border-light"
+  style={`--accent: ${station.color}`}
+>
+  {/* 左侧：朝代标识 */}
+  <header class="md:sticky md:top-20 md:self-start">
+    <div class="flex md:block items-baseline gap-3">
+      <h2 class="font-serif text-5xl md:text-6xl font-bold leading-none station-name">
+        {station.name}
+      </h2>
+      <p class="text-xs text-ink-faint mt-2 tracking-wider whitespace-nowrap">
+        {station.period}
+      </p>
+    </div>
+    {station.tagline && (
+      <p class="hidden md:block mt-5 font-serif text-lg text-ink-light tracking-wide leading-snug">
+        {station.tagline}
+      </p>
+    )}
+    <div class="mt-3 flex items-center gap-3 text-xs text-ink-faint">
+      <span>{station.totalDocs} 篇</span>
+      <span class="w-1 h-1 rounded-full bg-border"></span>
+      <span>{station.totalAuthors} 位作者</span>
+    </div>
+  </header>
+
+  {/* 右侧：内容 */}
+  <div class="min-w-0">
+    {station.tagline && (
+      <p class="md:hidden mb-3 font-serif text-base text-ink-light">
+        {station.tagline}
+      </p>
+    )}
+    <p class="text-[0.9375rem] text-ink-light leading-relaxed mb-5 max-w-2xl">
+      {station.summary}
+    </p>
+
+    {/* 作者徽章 */}
+    <div class="flex flex-wrap gap-x-2 gap-y-1.5 mb-7 text-[0.8125rem]">
+      <span class="text-ink-faint mr-1">代表作者</span>
+      {station.authors.slice(0, 12).map((name, i) => (
+        <span class="text-ink-light author-chip">
+          {name}
+          {i < Math.min(station.authors.length, 12) - 1 && (
+            <span class="text-ink-faint ml-2">·</span>
+          )}
+        </span>
+      ))}
+      {station.authors.length > 12 && (
+        <span class="text-ink-faint">等 {station.authors.length} 家</span>
+      )}
+    </div>
+
+    {/* 精选篇章 */}
+    {station.highlights.length > 0 && (
+      <div class="grid gap-3 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+        {station.highlights.map((item) => (
+          <HighlightCard item={item} color={station.color} />
+        ))}
+      </div>
+    )}
+
+    {/* 全部 */}
+    <div class="mt-6">
+      <a
+        href={station.groupHref}
+        class="inline-flex items-center gap-2 text-sm text-ink-light hover:text-cinnabar transition-colors no-underline"
+      >
+        <span class="block w-6 h-px" style={`background: var(--accent)`}></span>
+        查看{station.name}全部 {station.totalDocs} 篇
+        <span aria-hidden="true">→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .station-name {
+    color: var(--accent);
+    text-shadow: 0 1px 0 color-mix(in srgb, var(--accent) 20%, transparent);
+  }
+  .author-chip {
+    white-space: nowrap;
+  }
+</style>

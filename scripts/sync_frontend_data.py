@@ -18,7 +18,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC_BOOKS = ROOT / "data" / "books"
+SRC_CURATION = ROOT / "data" / "curation"
 DST_PUBLIC = ROOT / "frontend" / "public" / "data" / "books"
+DST_CURATION = ROOT / "frontend" / "public" / "data" / "curation"
 
 
 def symlink(src: Path, dst: Path) -> None:
@@ -70,6 +72,13 @@ def main() -> None:
             symlink(docs_src, dst_book / "documents")
 
         print(f"  📚 {book_id}：book.json / catalog.json / documents")
+
+    # curation/（首页朝代驿站文案 + 精选钩子）
+    if SRC_CURATION.exists():
+        DST_CURATION.parent.mkdir(parents=True, exist_ok=True)
+        for f in sorted(SRC_CURATION.glob("*.json")):
+            symlink(f, DST_CURATION / f.name)
+            print(f"  🎴 curation/{f.name}")
 
     print(f"\n✅ 同步完成：{DST_PUBLIC}")
 

@@ -40,6 +40,7 @@ const fullTitle = title === '古文观之' ? title : `${title} · 古文观之`;
         </a>
         <div class="flex items-center gap-4 text-sm text-ink-light">
           <a href={import.meta.env.BASE_URL} class="hover:text-ink transition-colors no-underline">首页</a>
+          <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/authors`} class="hover:text-ink transition-colors no-underline">按作者</a>
           <a
             href="https://github.com/niuniu-869/guwenguanzhi"
             target="_blank"
