@@ -8,6 +8,7 @@ import {
   findGroup,
   bookUrl,
   groupUrl,
+  dynastyCoverUrl,
 } from '../../../../lib/books';
 import type { Group } from '../../../../lib/types';
 
@@ -55,6 +56,9 @@ for (let i = 0; i < segments.length; i++) {
 const hierarchyName = cat.hierarchy[segments.length - 1];
 const hasSubgroups = !!(group.subgroups && group.subgroups.length > 0);
 const subgroupsArr: Group[] = group.subgroups ?? [];
+
+/** 顶层分组（朝代）才有封面图；group.id 即朝代 id */
+const coverUrl = segments.length === 1 ? dynastyCoverUrl(book.id, group.id) : null;
 ---
 
 <BaseLayout title={group.name} description={`${book.name} · ${group.name}`}>
@@ -84,13 +88,34 @@ const subgroupsArr: Group[] = group.subgroups ?? [];
       }
     </nav>
 
-    {/* 标题 */}
-    <header class="mb-10">
-      <h1 class="font-serif text-3xl font-bold text-ink">{group.name}</h1>
-      {group.description && (
-        <p class="mt-2 text-sm text-ink-light">{group.description}</p>
-      )}
-    </header>
+    {/* 标题：朝代页用封面图大图头，其余用纯文字 */}
+    {coverUrl ? (
+      <header class="mb-10 relative -mx-4 sm:mx-0 overflow-hidden sm:rounded-xl">
+        <img
+          src={coverUrl}
+          alt={`${group.name}题图`}
+          width="1536"
+          height="1024"
+          class="w-full aspect-[16/7] object-cover"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+        <div class="absolute bottom-0 left-0 p-5 sm:p-7">
+          <h1 class="font-serif text-3xl sm:text-4xl font-bold text-white drop-shadow-md">
+            {group.name}
+          </h1>
+          {group.description && (
+            <p class="mt-2 text-sm text-white/85 max-w-2xl">{group.description}</p>
+          )}
+        </div>
+      </header>
+    ) : (
+      <header class="mb-10">
+        <h1 class="font-serif text-3xl font-bold text-ink">{group.name}</h1>
+        {group.description && (
+          <p class="mt-2 text-sm text-ink-light">{group.description}</p>
+        )}
+      </header>
+    )}
 
     {/* 内容 */}
     {

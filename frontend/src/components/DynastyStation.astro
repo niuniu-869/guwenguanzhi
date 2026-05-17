@@ -6,12 +6,16 @@
  */
 import type { DynastyStation } from '../lib/types';
 import HighlightCard from './HighlightCard.astro';
+import { dynastyCoverUrl, PRIMARY_BOOK_ID } from '../lib/books';
 
 interface Props {
   station: DynastyStation;
 }
 
 const { station } = Astro.props;
+
+/** 朝代封面图（宋画淡彩，由 02e 管线生成；未生成则不渲染） */
+const coverUrl = dynastyCoverUrl(PRIMARY_BOOK_ID, station.id);
 ---
 
 <section
@@ -29,6 +33,16 @@ const { station } = Astro.props;
         {station.period}
       </p>
     </div>
+    {coverUrl && (
+      <img
+        src={coverUrl}
+        alt={`${station.name}意象`}
+        width="1536"
+        height="1024"
+        loading="lazy"
+        class="hidden md:block mt-4 w-full aspect-[3/2] object-cover rounded-md border border-border-light"
+      />
+    )}
     {station.tagline && (
       <p class="hidden md:block mt-5 font-serif text-lg text-ink-light tracking-wide leading-snug">
         {station.tagline}

@@ -71,7 +71,12 @@ def main() -> None:
         if docs_src.exists():
             symlink(docs_src, dst_book / "documents")
 
-        print(f"  📚 {book_id}：book.json / catalog.json / documents")
+        # assets/ 整挂（配图 webp + manifest.json，无中间产物，可整挂）
+        assets_src = book_dir / "assets"
+        if assets_src.exists():
+            symlink(assets_src, dst_book / "assets")
+
+        print(f"  📚 {book_id}：book.json / catalog.json / documents / assets")
 
     # curation/（首页朝代驿站文案 + 精选钩子）
     if SRC_CURATION.exists():

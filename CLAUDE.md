@@ -18,7 +18,7 @@ npm run build        # prebuild 同样先跑 sync-data
 npm run preview
 ```
 
-`sync-data` 等价于 `python3 ../scripts/sync_frontend_data.py`，会在 `frontend/public/data/books/` 下为每本书分项建 symlink（只暴露 `index.json`/`book.json`/`catalog.json`/`documents/*.json`，屏蔽 `raw*/output` 等中间产物）。直接修改 `data/books/` 后无需手动同步，下一次 dev/build 自动生效。
+`sync-data` 等价于 `python3 ../scripts/sync_frontend_data.py`，会在 `frontend/public/data/books/` 下为每本书分项建 symlink（只暴露 `index.json`/`book.json`/`catalog.json`/`documents/*.json`/`assets/`，屏蔽 `raw*/output` 等中间产物）。直接修改 `data/books/` 后无需手动同步，下一次 dev/build 自动生效。
 
 ### 数据管线（仓库根，需 `.env` 中 `MIMO_API_KEY`）
 
@@ -28,6 +28,7 @@ python scripts/01_prepare_raw.py            # 从 raw 语料清洗
 python scripts/run_all_parallel.py          # 全量并发：02a→02b→02c→02d
 python scripts/04_quality_check.py          # 输出 data/quality_report.json
 python scripts/validate_schema.py
+python scripts/02e_generate_images.py        # 配图：朝代封面/文章题图/作者画像（需 .env 中 IMAGE_API_KEY）
 ```
 
 管线控制环境变量：
@@ -52,6 +53,7 @@ data/books/
     book.json             # 单本元信息
     catalog.json          # 目录（章节/朝代分组）
     documents/**/*.json   # 每篇文章一个 JSON
+    assets/**/*.webp      # 配图（02e 生成，详见 2.5）
 ```
 
 当前只挂载 `guwenguanzhi`。`shiji/` 和 `scripts/_archive/` 已在 `.gitignore` 中下线，**等待通过独立 Skill 对接开源二十四史数据后重建**——不要在本仓库内重新标注二十四史（参见 `docs/skill_design.md` 和最近 commit `b4d8f1b` "下线史记管线，保留多书架构"）。`data/catalog.json`、`data/articles/` 是旧版结构，已被 `books/` 取代，仍保留作历史参照。
@@ -66,6 +68,20 @@ data/books/
 ```
 
 共用 `scripts/llm_client.py`（`call_llm_json` 带 JSON 校验和重试）和 `scripts/prompts/`（`meta/`, `translation/`, `words/`, `rules/` 分目录；`load_prompt` + `PROMPT_VERSION` 由 `prompts/__init__.py` 暴露）。**修改 prompt 必须更新 `scripts/prompts/VERSION`**，否则已生成文件会被误判为"当前版本"而跳过。
+
+### 2.5 配图管线（`scripts/02e_generate_images.py`）
+
+独立于文本四段式。调用 Image2（`gpt-image-2`，经 token-recyclebin 代理，需 `.env` 中 `IMAGE_API_KEY`）端到端生成三类配图：
+
+```
+data/books/<bookId>/assets/
+  dynasty/<dynasty>.webp        # 6 张朝代封面
+  hero/<dynasty>/<docId>.webp   # 222 张文章题图（全文直接喂模型）
+  author/<authorId>.webp        # 61 张作者画像（按 author.id 去重）
+  manifest.json                 # 每张图的状态 + image_version
+```
+
+全站锁定**宋画淡彩**画风（`STYLE` 常量），prompt 反复强调画面无文字。原 prompt 触发内容护栏时自动用「不含全文/生平」的降级 prompt 兜底重试。控制变量：`IMG_MAX_WORKERS`（默认 8）、`IMG_SCOPE`（dynasty,hero,author 子集）、`IMG_FORCE=1` 全量重跑。**改 prompt 必须 bump 脚本里的 `IMAGE_VERSION`**，否则旧图被判为当前版本而跳过（机制同 `_prompt_version`）。前端经 `books.ts` 的 `heroImageUrl`/`dynastyCoverUrl`/`authorPortraitUrl` 读 manifest 取图，缺图优雅降级。
 
 ### 3. 前端路由
 
@@ -85,7 +101,7 @@ frontend/src/pages/
 
 ## 约束与惯例
 
-- **不要提交图片、raw 语料、中间 JSON**：`.gitignore` 已禁 `*.png`、`data/raw/guwenguanzhi_raw.txt`、`data/articles/**/*_meta.json|_trans.json|_words.json`、`data/books/*/output/` 等。PR 前检查 `git status`。
+- **不要提交 PNG、raw 语料、中间 JSON**：`.gitignore` 已禁 `*.png`、`data/raw/guwenguanzhi_raw.txt`、`data/articles/**/*_meta.json|_trans.json|_words.json`、`data/books/*/output/` 等。PR 前检查 `git status`。**例外**：`data/books/*/assets/**/*.webp` 配图是构建产物的一部分，需随仓库提交（`*.png` 禁令不波及 webp）。
 - **`frontend/public/data/` 永远是 symlink**，不要 `git add` 其实体内容；`sync_frontend_data.py` 会自动重建。
 - **注释与提示语一律中文**（见现有代码风格），prompt 模板位于 `scripts/prompts/**/*.md`。
 - **用户未主动要求时不要自行 `git commit` / `git push` / 建分支**（全局用户偏好）。

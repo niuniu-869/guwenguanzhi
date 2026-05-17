@@ -180,6 +180,70 @@ export function groupUrl(bookId: string, path: string[]): string {
   return `${base}/book/${bookId}/group/${path.map(encodeURIComponent).join("/")}`;
 }
 
+// ============ 配图（assets/） ============
+
+interface ImageManifest {
+  image_version: string;
+  items: Record<string, { ok: boolean; kind: string; version: string }>;
+}
+
+// manifest.json 由 scripts/02e_generate_images.py 生成，可能尚未存在；
+// 用 glob eager import 容错（缺文件时 manifestModules 为空，不报错）
+const manifestModules = import.meta.glob<{ default: ImageManifest }>(
+  "../../../data/books/*/assets/manifest.json",
+  { eager: true },
+);
+
+// bookId -> 已成功生成的图片 rel 路径集合
+const imageOkMap = new Map<string, Set<string>>();
+// bookId -> docId -> 题图 rel（题图 key 形如 hero/<dynasty>/<docId>.webp）
+const heroRelMap = new Map<string, Map<string, string>>();
+
+for (const [path, mod] of Object.entries(manifestModules)) {
+  const m = path.match(/data\/books\/([^/]+)\/assets/);
+  if (!m) continue;
+  const bookId = m[1];
+  const ok = new Set<string>();
+  const heroByDoc = new Map<string, string>();
+  for (const [rel, rec] of Object.entries(mod.default.items ?? {})) {
+    if (!rec.ok) continue;
+    ok.add(rel);
+    const hero = rel.match(/^hero\/[^/]+\/(.+)\.webp$/);
+    if (hero) heroByDoc.set(hero[1], rel);
+  }
+  imageOkMap.set(bookId, ok);
+  heroRelMap.set(bookId, heroByDoc);
+}
+
+function assetUrl(bookId: string, rel: string): string {
+  const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+  return `${base}/data/books/${bookId}/assets/${rel}`;
+}
+
+/** 文章题图 URL；未生成成功则返回 null */
+export function heroImageUrl(bookId: string, docId: string): string | null {
+  const rel = heroRelMap.get(bookId)?.get(docId);
+  return rel ? assetUrl(bookId, rel) : null;
+}
+
+/** 朝代封面 URL；未生成成功则返回 null */
+export function dynastyCoverUrl(
+  bookId: string,
+  dynasty: string,
+): string | null {
+  const rel = `dynasty/${dynasty}.webp`;
+  return imageOkMap.get(bookId)?.has(rel) ? assetUrl(bookId, rel) : null;
+}
+
+/** 作者画像 URL；authorId 即 catalog subgroup id / 文档 author.id */
+export function authorPortraitUrl(
+  bookId: string,
+  authorId: string,
+): string | null {
+  const rel = `author/${authorId}.webp`;
+  return imageOkMap.get(bookId)?.has(rel) ? assetUrl(bookId, rel) : null;
+}
+
 // ============ 首页朝代驿站 ============
 
 /** 主入口书 id：当前只展示古文观止 */

@@ -8,6 +8,7 @@ import {
   findDocumentPath,
   bookUrl,
   groupUrl,
+  heroImageUrl,
 } from '../../../../lib/books';
 
 export async function getStaticPaths() {
@@ -51,6 +52,9 @@ const crumbs = [
 const title = doc.title;
 const authorLabel = hierarchy[0] === 'dynasty' && path[1] ? path[1].name : book.author;
 const desc = `${title}${authorLabel ? ' · ' + authorLabel : ''} · ${book.name}`;
+
+/** 文章题图（宋画淡彩，由 02e 管线生成；未生成则不渲染） */
+const heroUrl = heroImageUrl(book.id, doc.id);
 ---
 
 <BaseLayout title={title} description={desc}>
@@ -71,6 +75,20 @@ const desc = `${title}${authorLabel ? ' · ' + authorLabel : ''} · ${book.name}
         ))
       }
     </nav>
+
+    {/* 题图 */}
+    {heroUrl && (
+      <figure class="mb-8 -mx-4 sm:mx-0">
+        <img
+          src={heroUrl}
+          alt={`《${title}》题图`}
+          width="1536"
+          height="1024"
+          loading="lazy"
+          class="w-full aspect-[3/2] object-cover sm:rounded-lg border border-silk shadow-sm"
+        />
+      </figure>
+    )}
 
     {/* 文章头部 */}
     <header class="text-center mb-10">

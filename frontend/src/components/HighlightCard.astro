@@ -4,6 +4,7 @@
  * 钩子大字 + 标题/作者 + 朝代色细边
  */
 import type { DynastyHighlightItem } from '../lib/types';
+import { heroImageUrl } from '../lib/books';
 
 interface Props {
   item: DynastyHighlightItem;
@@ -11,6 +12,9 @@ interface Props {
 }
 
 const { item, color } = Astro.props;
+
+/** 篇章题图（宋画淡彩，由 02e 管线生成；未生成则不渲染） */
+const heroUrl = heroImageUrl(item.bookId, item.docId);
 ---
 
 <a
@@ -19,6 +23,17 @@ const { item, color } = Astro.props;
   style={`--accent: ${color}`}
 >
   <span class="accent-bar" aria-hidden="true"></span>
+
+  {heroUrl && (
+    <img
+      src={heroUrl}
+      alt={item.title}
+      width="1536"
+      height="1024"
+      loading="lazy"
+      class="w-full aspect-[16/9] object-cover rounded-sm mb-3"
+    />
+  )}
 
   <p class="font-serif text-base sm:text-[1.0625rem] text-ink leading-snug mb-3 tracking-wide group-hover:text-cinnabar transition-colors">
     「{item.hook}」

@@ -6,6 +6,7 @@ import {
   getAuthorsByDynasty,
   documentUrl,
   groupUrl,
+  authorPortraitUrl,
   PRIMARY_BOOK_ID,
 } from '../lib/books';
 
@@ -76,13 +77,25 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         <div class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           {g.authors.map((author) => (
             <article class="author-card flex flex-col p-4 bg-card border border-border-light rounded">
-              <header class="flex items-baseline justify-between gap-2 mb-2">
-                <h3 class="font-serif text-lg font-semibold text-ink">
-                  {author.name}
-                </h3>
-                <span class="text-xs text-ink-faint shrink-0">
-                  {author.documentCount} 篇
-                </span>
+              <header class="flex items-start gap-3 mb-2">
+                {authorPortraitUrl(PRIMARY_BOOK_ID, author.id) && (
+                  <img
+                    src={authorPortraitUrl(PRIMARY_BOOK_ID, author.id)}
+                    alt={author.name}
+                    width="683"
+                    height="1024"
+                    loading="lazy"
+                    class="w-12 h-16 object-cover object-top rounded shrink-0 border border-border-light"
+                  />
+                )}
+                <div class="flex items-baseline justify-between gap-2 flex-1 min-w-0">
+                  <h3 class="font-serif text-lg font-semibold text-ink">
+                    {author.name}
+                  </h3>
+                  <span class="text-xs text-ink-faint shrink-0">
+                    {author.documentCount} 篇
+                  </span>
+                </div>
               </header>
               <ul class="space-y-0.5 text-[0.8125rem] text-ink-light">
                 {author.documents.slice(0, 5).map((d) => (
