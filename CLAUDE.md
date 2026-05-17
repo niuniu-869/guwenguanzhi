@@ -71,17 +71,20 @@ data/books/
 
 ### 2.5 配图管线（`scripts/02e_generate_images.py`）
 
-独立于文本四段式。调用 Image2（`gpt-image-2`，经 token-recyclebin 代理，需 `.env` 中 `IMAGE_API_KEY`）端到端生成三类配图：
+独立于文本四段式。调用 Image2（`gpt-image-2`，经 token-recyclebin 代理，需 `.env` 中 `IMAGE_API_KEY`）端到端生成四类配图：
 
 ```
 data/books/<bookId>/assets/
-  dynasty/<dynasty>.webp        # 6 张朝代封面
-  hero/<dynasty>/<docId>.webp   # 222 张文章题图（全文直接喂模型）
-  author/<authorId>.webp        # 61 张作者画像（按 author.id 去重）
-  manifest.json                 # 每张图的状态 + image_version
+  dynasty/<dynasty>.webp              # 6 张朝代封面
+  hero/<dynasty>/<docId>.webp         # 222 张文章题图（全文直接喂模型）
+  author/<authorId>.webp              # 61 张作者画像（按 author.id 去重）
+  para/<dynasty>/<docId>/<i>.webp     # 1220 张逐段插画（见下）
+  manifest.json                       # 每张图的状态 + image_version
 ```
 
-全站锁定**宋画淡彩**画风（`STYLE` 常量），prompt 反复强调画面无文字。原 prompt 触发内容护栏时自动用「不含全文/生平」的降级 prompt 兜底重试。控制变量：`IMG_MAX_WORKERS`（默认 8）、`IMG_SCOPE`（dynasty,hero,author 子集）、`IMG_FORCE=1` 全量重跑。**改 prompt 必须 bump 脚本里的 `IMAGE_VERSION`**，否则旧图被判为当前版本而跳过（机制同 `_prompt_version`）。前端经 `books.ts` 的 `heroImageUrl`/`dynastyCoverUrl`/`authorPortraitUrl` 读 manifest 取图，缺图优雅降级。
+前三类走 **generations**（文生图）；**逐段插画 `para` 走 edits**（图生图）——以本篇题图 `hero/...` 作参考图、本段原文入 prompt，靠参考图把画风牢牢锁死。故跑 `para` 前题图必须先生成好。
+
+全站锁定**宋画淡彩**画风（`STYLE` 常量），prompt 反复强调画面无文字。原 prompt 触发内容护栏时自动用「不含全文/生平/本段原文」的降级 prompt 兜底重试。控制变量：`IMG_MAX_WORKERS`（默认 8）、`IMG_SCOPE`（`dynasty,hero,author,para` 子集；默认不含 `para`，逐段插画用 `IMG_SCOPE=para` 单独跑）、`IMG_FORCE=1` 全量重跑。**改 prompt 必须 bump 脚本里的 `IMAGE_VERSION`**，否则旧图被判为当前版本而跳过（机制同 `_prompt_version`）。前端经 `books.ts` 的 `heroImageUrl`/`dynastyCoverUrl`/`authorPortraitUrl` 读 manifest 取图，逐段插画由 `ReadingView.tsx` 按约定路径取（`onError` 缺图静默隐藏），均优雅降级。
 
 ### 3. 前端路由
 

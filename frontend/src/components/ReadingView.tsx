@@ -5,6 +5,10 @@ type Mode = "original" | "parallel" | "detail";
 
 interface Props {
   paragraphs: Paragraph[];
+  /** 以下三项齐全时，每段上方渲染逐段插画（02e 管线生成） */
+  bookId?: string;
+  docId?: string;
+  dynasty?: string;
 }
 
 const HIGHLIGHT_STORAGE_KEY = "gwgz_highlight_on";
@@ -23,10 +27,22 @@ function hlClass(word: Word, on: boolean): string {
   return `hl-${word.highlight}`;
 }
 
-export default function ReadingView({ paragraphs }: Props) {
+export default function ReadingView({
+  paragraphs,
+  bookId,
+  docId,
+  dynasty,
+}: Props) {
   const [mode, setMode] = useState<Mode>("parallel");
   // 默认开启；从 localStorage 读上次偏好
   const [highlightOn, setHighlightOn] = useState<boolean>(true);
+
+  // 逐段插画路径前缀：data/books/<bookId>/assets/para/<dynasty>/<docId>/<i>.webp
+  const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+  const paraImageBase =
+    bookId && docId && dynasty
+      ? `${base}/data/books/${bookId}/assets/para/${dynasty}/${docId}`
+      : null;
 
   useEffect(() => {
     try {
@@ -89,15 +105,40 @@ export default function ReadingView({ paragraphs }: Props) {
       {/* 正文 */}
       <div className="space-y-8">
         {paragraphs.map((para, i) => (
-          <ParagraphView
-            key={i}
-            paragraph={para}
-            mode={mode}
-            highlightOn={highlightOn}
-          />
+          <div key={i}>
+            {paraImageBase && (
+              <ParaIllustration src={`${paraImageBase}/${i}.webp`} />
+            )}
+            <ParagraphView
+              paragraph={para}
+              mode={mode}
+              highlightOn={highlightOn}
+            />
+          </div>
         ))}
       </div>
     </div>
+  );
+}
+
+/* ============================================================
+   逐段插画：宋画淡彩，以题图为参考图生成。缺图时静默隐藏。
+   ============================================================ */
+function ParaIllustration({ src }: { src: string }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) return null;
+  return (
+    <figure className="mb-5 mx-auto max-w-sm">
+      <img
+        src={src}
+        alt=""
+        width={768}
+        height={768}
+        loading="lazy"
+        onError={() => setFailed(true)}
+        className="w-full aspect-square object-cover rounded-lg border border-silk shadow-sm"
+      />
+    </figure>
   );
 }
 

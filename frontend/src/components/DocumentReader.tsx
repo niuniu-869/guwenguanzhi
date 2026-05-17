@@ -71,9 +71,14 @@ export default function DocumentReader({ bookId, docId, subdir }: Props) {
       {/* v3 新增：人物关系卡（无人物则组件自行隐藏） */}
       <CharactersPanel characters={doc.characters} />
 
-      {/* 正文阅读区 */}
+      {/* 正文阅读区（subdir 即古文观止的朝代 id，用于定位逐段插画） */}
       <section className="mb-12">
-        <ReadingView paragraphs={doc.paragraphs} />
+        <ReadingView
+          paragraphs={doc.paragraphs}
+          bookId={bookId}
+          docId={docId}
+          dynasty={subdir}
+        />
       </section>
 
       <hr className="divider-ink" />
